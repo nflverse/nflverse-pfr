@@ -1,3 +1,5 @@
+# note: this will need to be tweaked to handle an ongoing season
+
 library(tidyverse)
 library(rvest)
 
