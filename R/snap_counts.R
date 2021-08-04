@@ -1,44 +1,20 @@
 library(tidyverse)
 library(rvest)
 
-
-# get the pfr master list of 32 teams
-get_team_list <- function() {
+# get list of urls for games in each season
+get_game_urls <- function(s) {
   
-  fetched <- curl::curl_fetch_memory("https://www.pro-football-reference.com/teams/")
-  
-  teams <- fetched$content %>%
-    read_html() %>%
-    html_nodes(xpath = '//*[@id="teams_active"]') %>%
-    html_nodes("a") %>%
-    html_attr("href") %>%
-    as_tibble() %>%
-    filter(stringr::str_detect(value, "/teams/")) %>%
-    mutate(
-      id = stringr::str_extract(value, "(?<=teams\\/)[:alpha:]+(?=\\/)")
-    ) %>%
-    select(id)
-  
-  teams  
-  
-}
-
-
-# get player urls from a team page url
-get_player_urls <- function(url) {
-  
-  # url <- glue::glue("https://www.pro-football-reference.com/teams/{tm}/{s}-snap-counts.htm")
+  url <- glue::glue("https://www.pro-football-reference.com/years/{s}/games.htm")
   
   fetched <- curl::curl_fetch_memory(url)
   
-  # get the players to iterate over
-  players <- fetched$content %>%
+  fetched$content %>%
     read_html() %>%
-    html_nodes(xpath = '//*[@id="snap_counts"]') %>%
+    html_nodes(xpath = '//*[@id="games"]') %>%
     html_nodes("a") %>%
     html_attr("href") %>%
     as_tibble() %>%
-    filter(stringr::str_detect(value, "/fantasy/")) %>%
+    filter(stringr::str_detect(value, "/boxscores/")) %>%
     mutate(
       url = paste0("https://www.pro-football-reference.com", value)
     ) %>%
@@ -46,102 +22,115 @@ get_player_urls <- function(url) {
   
 }
 
-# get snap counts from a given player url
-get_counts <- function(url) {
+# get snap counts for each player in a given game
+get_game_counts <- function(url) {
   
-  # let's try not to pound PFR servers
-  # Sys.sleep(1)
+  # preserve game id
+  id <- stringr::str_extract(url, "(?<=boxscores\\/)[:digit:]+[:alpha:]+(?=\\.)")
   
-  # get info from the url
-  id <- stringr::str_extract(url, "(?<=\\/)[:alpha:]+[:digit:]+(?=\\/)")
-  s <- stringr::str_extract(url, "(?<=fantasy\\/)[:digit:]+")
-    
-  raw_html <- read_html(url)
+  message(glue::glue("{url}"))
   
-  raw_html %>% 
+  fetched <- curl::curl_fetch_memory(url)
+  page <- fetched$content %>%
+    read_html()
+  
+  comments <- page %>%
+    html_nodes(xpath = '//comment()') %>%
+    html_text() %>%
+    paste(collapse = '') %>%
+    read_html()
+  
+  home_ids <- comments %>%
+    html_node("#home_snap_counts") %>%
+    html_nodes("a") %>%
+    html_attr("href") %>%
+    as_tibble() %>%
+    dplyr::rename(url = value)
+  
+  away_ids <- comments %>%
+    html_node("#vis_snap_counts") %>%
+    html_nodes("a") %>%
+    html_attr("href") %>%
+    as_tibble() %>%
+    dplyr::rename(url = value)
+  
+  # first we have to see if the home snap count table is commented out
+  home_table <- comments %>%
+    html_node("#home_snap_counts") %>%
     html_table(fill = TRUE) %>% 
-    .[[1]] %>% 
     janitor::clean_names() %>% 
     tibble() %>%
-    dplyr::slice(-1:-2) %>%
+    dplyr::slice(-1) %>%
+    # no urls for this player so it would break things
+    filter(x != "") %>%
+    bind_cols(home_ids) %>%
+    dplyr::mutate(type = "home")
+  
+  away_table <- comments %>%
+    html_node("#vis_snap_counts") %>%
+    html_table(fill = TRUE) %>% 
+    janitor::clean_names() %>% 
+    tibble() %>%
+    dplyr::slice(-1) %>%
+    # no urls for this player so it would break things
+    filter(x != "") %>%
+    bind_cols(away_ids) %>%
+    dplyr::mutate(type = "away")
+  
+  home_table %>%
+    bind_rows(away_table) %>%
     dplyr::select(
-      game_number = x_2,
-      game_date = x_3,
-      team = x_4,
-      opponent = x_6,
-      position = x_8,
-      offense_snaps = snap_counts,
-      offense_pct = snap_counts_2,
-      defense_snaps = snap_counts_3,
-      defense_pct = snap_counts_4,
-      st_snaps = snap_counts_5,
-      st_pct = snap_counts_6
+      player = x,
+      url,
+      type,
+      position = x_2,
+      offense_snaps = off,
+      offense_pct = off_2,
+      defense_snaps = def,
+      defense_pct = def_2,
+      st_snaps = st,
+      st_pct = st_2
     ) %>%
-    filter(game_date != "Total") %>%
     mutate(
-      # pfr uses different team abbreviations than nflfastR, fix them
-      team = case_when(
-        team == "GNB" ~ "GB",
-        team == "KAN" ~ "KC",
-        team == "NOR" ~ "NO",
-        team == "NWE" ~ "NE",
-        team == "SFO" ~ "SF",
-        team == "TAM" ~ "TB",
-        TRUE ~ team
-      ),
       # repair columns
+      player = str_replace(player, "\\*", ""),
+      player = str_replace(player, "\\+", ""),
       offense_pct = str_replace(offense_pct, "\\%", ""),
       defense_pct = str_replace(defense_pct, "\\%", ""),
       st_pct = str_replace(st_pct, "\\%", ""),
       across(offense_snaps : st_pct, ~ as.numeric(.x)),
-      page = url,
-      season = s
+      pfr_game_id = id
     )
   
 }
 
+# supposed to go back to 2012 but that year is buggy
+urls <- map_df(2013 : nflfastR:::most_recent_season(), get_game_urls) %>%
+  pull(url)
+
+# testing
+url <- urls[10]
+
+snaps <- map_df(urls, get_game_counts)
+
+# probably could have done this earlier but oh well
+snaps <- snaps %>%
+  mutate(
+    year = substr(pfr_game_id, 1, 4) %>% as.numeric(),
+    month = substr(pfr_game_id, 5, 6) %>% as.numeric(),
+    season = ifelse(month <= 4, year - 1, year)
+  ) %>%
+  select(-year, -month)
+
+seasons <- unique(snaps$season)
+
+# write
+walk(seasons, ~{
+  message(glue::glue("Doing season {.x}"))
+  snaps %>%
+    filter(season == .x) %>%
+    write_csv(glue::glue("data/snap_counts_{.x}.csv"))
+})
 
 
-
-# get prior seasons (don't want to have this on scheduler) --------------------------------------------------------
-if (9 == 10) {
-  
-  yrs <- 2012:2020
-  
-  team_pages <- crossing(get_team_list(), yrs) %>%
-    mutate(
-      url = glue::glue("https://www.pro-football-reference.com/teams/{id}/{yrs}-snap-counts.htm")
-    ) %>%
-    pull(url)
-  
-  player_urls <- map_df(team_pages, get_player_urls) %>%
-    pull(url)
-  
-  counts <- map_df(player_urls, get_counts)
-  
-  counts %>%
-    write_csv("data/pfr_snap_counts_historical.csv")
-  
-}
-
-
-# get this season --------------------------------------------------------
-
-if (nflfastR:::most_recent_season() == 2021) {
-  
-  yr <- 2021
-  
-  team_pages <- crossing(get_team_list(), yr) %>%
-    mutate(
-      url = glue::glue("https://www.pro-football-reference.com/teams/{id}/{yr}-snap-counts.htm")
-    ) %>%
-    pull(url)
-  
-  player_urls <- map_df(team_pages, get_player_urls) %>%
-    pull(url)
-  
-  counts <- map_df(player_urls[1:2], get_counts)
-  
-  
-}
 
