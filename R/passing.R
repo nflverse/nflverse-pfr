@@ -20,7 +20,6 @@ get_passing <- function(s) {
     dplyr::select(
       player = x_2,
       team = x_3,
-      position = x_5,
       pass_attempts = passing_2,
       batted_balls = passing_4,
       throwaways = passing_5,
