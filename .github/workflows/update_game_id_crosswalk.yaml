@@ -1,0 +1,33 @@
+on:
+  # schedule: # schedule commented out because the repo is private atm
+  #   # runs every day at 7:00 AM UTC
+  #   - cron:  '0 7 * * *'
+  workflow_dispatch:
+
+name: Update GameId Corsswalk
+
+jobs:
+  update:
+    name: Update game ids
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+
+      - name: Install packages
+        run: |
+          install.packages(c("tidyverse", "nflfastR", "XML", "qs"))
+          install.packages("nflreadr", repos = c("https://cran.rstudio.com","https://nflverse.r-universe.dev"))
+        shell: Rscript {0}
+
+      - name: Update game id crosswalk
+        run: Rscript -e 'source("R/pfr_game_id_crosswalk.R")'
+
+      - name: Commit and push roster data
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git pull
+          git add data
+          git commit -m "Automated PFR game id updates `date`" || echo "No changes to commit"
+          git push || echo "No changes to commit"
