@@ -16,8 +16,7 @@ jobs:
 
       - name: Install packages
         run: |
-          install.packages(c("tidyverse", "nflfastR", "XML", "qs"))
-          install.packages("nflreadr", repos = c("https://cran.rstudio.com","https://nflverse.r-universe.dev"))
+          install.packages(c("tidyverse", "nflfastR"))
         shell: Rscript {0}
 
       - name: Update game id crosswalk
