@@ -41,7 +41,7 @@ xwalk <- urls %>%
   ) %>%
   left_join(lee_games, by = c("gameday", "home_team")) %>%
   select(
-    game_id, pfr_game_id = pfr_id
+    game_id, season, pfr_game_id = pfr_id, home_team, away_team
   )
 
 xwalk %>%

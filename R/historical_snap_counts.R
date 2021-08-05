@@ -1,137 +1,34 @@
 # note: this will need to be tweaked to handle an ongoing season
 
-library(tidyverse)
-library(rvest)
+source("R/_helper_functions.R")
 
-# get list of urls for games in each season
-get_game_urls <- function(s) {
-  
-  url <- glue::glue("https://www.pro-football-reference.com/years/{s}/games.htm")
-  
-  fetched <- curl::curl_fetch_memory(url)
-  
-  fetched$content %>%
-    read_html() %>%
-    html_nodes(xpath = '//*[@id="games"]') %>%
-    html_nodes("a") %>%
-    html_attr("href") %>%
-    as_tibble() %>%
-    filter(stringr::str_detect(value, "/boxscores/")) %>%
-    mutate(
-      url = paste0("https://www.pro-football-reference.com", value)
-    ) %>%
-    select(url)
-  
-}
+# 2012 is supposed to have snap counts but it's buggy
+urls <- map_df(2013 : 2020, get_game_urls)
 
-# get snap counts for each player in a given game
-get_game_counts <- function(url) {
-  
-  # preserve game id
-  id <- stringr::str_extract(url, "(?<=boxscores\\/)[:digit:]+[:alpha:]+(?=\\.)")
-  
-  message(glue::glue("{url}"))
-  
-  fetched <- curl::curl_fetch_memory(url)
-  page <- fetched$content %>%
-    read_html()
-  
-  comments <- page %>%
-    html_nodes(xpath = '//comment()') %>%
-    html_text() %>%
-    paste(collapse = '') %>%
-    read_html()
-  
-  home_ids <- comments %>%
-    html_node("#home_snap_counts") %>%
-    html_nodes("a") %>%
-    html_attr("href") %>%
-    as_tibble() %>%
-    dplyr::rename(url = value)
-  
-  away_ids <- comments %>%
-    html_node("#vis_snap_counts") %>%
-    html_nodes("a") %>%
-    html_attr("href") %>%
-    as_tibble() %>%
-    dplyr::rename(url = value)
-  
-  # first we have to see if the home snap count table is commented out
-  home_table <- comments %>%
-    html_node("#home_snap_counts") %>%
-    html_table(fill = TRUE) %>% 
-    janitor::clean_names() %>% 
-    tibble() %>%
-    dplyr::slice(-1) %>%
-    # no urls for this player so it would break things
-    filter(x != "") %>%
-    bind_cols(home_ids) %>%
-    dplyr::mutate(type = "home")
-  
-  away_table <- comments %>%
-    html_node("#vis_snap_counts") %>%
-    html_table(fill = TRUE) %>% 
-    janitor::clean_names() %>% 
-    tibble() %>%
-    dplyr::slice(-1) %>%
-    # no urls for this player so it would break things
-    filter(x != "") %>%
-    bind_cols(away_ids) %>%
-    dplyr::mutate(type = "away")
-  
-  home_table %>%
-    bind_rows(away_table) %>%
-    dplyr::select(
-      player = x,
-      url,
-      type,
-      position = x_2,
-      offense_snaps = off,
-      offense_pct = off_2,
-      defense_snaps = def,
-      defense_pct = def_2,
-      st_snaps = st,
-      st_pct = st_2
-    ) %>%
-    mutate(
-      # repair columns
-      player = str_replace(player, "\\*", ""),
-      player = str_replace(player, "\\+", ""),
-      offense_pct = str_replace(offense_pct, "\\%", ""),
-      defense_pct = str_replace(defense_pct, "\\%", ""),
-      st_pct = str_replace(st_pct, "\\%", ""),
-      across(offense_snaps : st_pct, ~ as.numeric(.x)),
-      pfr_game_id = id
-    )
-  
-}
-
-# supposed to go back to 2012 but that year is buggy
-urls <- map_df(2013 : nflfastR:::most_recent_season(), get_game_urls) %>%
-  pull(url)
-
-# testing
-url <- urls[10]
-
-snaps <- map_df(urls, get_game_counts)
-
-# probably could have done this earlier but oh well
-snaps <- snaps %>%
+# do the scrape
+snaps <- map_df(urls %>% pull(url), get_game_counts) %>%
+  left_join(readRDS("data/pfr_game_id_crosswalk.rds")) %>%
   mutate(
-    year = substr(pfr_game_id, 1, 4) %>% as.numeric(),
-    month = substr(pfr_game_id, 5, 6) %>% as.numeric(),
-    season = ifelse(month <= 4, year - 1, year)
+    team = ifelse(type == "home", home_team, away_team),
+    pfr_id = stringr::str_extract(url, "(?<=[:upper:]\\/).*(?=\\.htm)")
   ) %>%
-  select(-year, -month)
+  select(player, pfr_id, game_id, pfr_game_id, season, team, offense_snaps : st_pct)
+
 
 seasons <- unique(snaps$season)
 
 # write
 walk(seasons, ~{
   message(glue::glue("Doing season {.x}"))
-  snaps %>%
-    filter(season == .x) %>%
+  for_saving <- snaps %>%
+    filter(season == .x) 
+  
+  for_saving %>%
     write_csv(glue::glue("data/snap_counts_{.x}.csv"))
+  
+  for_saving %>%
+    saveRDS(glue::glue("data/snap_counts_{.x}.rds"))
+  
 })
 
 
