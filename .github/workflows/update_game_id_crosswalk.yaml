@@ -22,7 +22,7 @@ jobs:
       - name: Update game id crosswalk
         run: Rscript -e 'source("R/pfr_game_id_crosswalk.R")'
 
-      - name: Commit and push roster data
+      - name: Commit and push updated data
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
