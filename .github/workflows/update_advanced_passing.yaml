@@ -1,0 +1,32 @@
+on:
+  schedule:
+    # runs every day at 7:00 AM UTC in Jan, Feb, Sep-Dec
+    - cron:  '0 7 * 1,2,9-12 *'
+  workflow_dispatch:
+
+name: Update Advanced Passing Stats
+
+jobs:
+  update:
+    name: Update stats
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+
+      - name: Install packages
+        run: |
+          install.packages(c("tidyverse", "nflfastR"))
+        shell: Rscript {0}
+
+      - name: Update advanced passing stats
+        run: Rscript -e 'source("R/passing.R")'
+
+      - name: Commit and push updated data
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git pull
+          git add data
+          git commit -m "Automated advanced passing stats updates `date`" || echo "No changes to commit"
+          git push || echo "No changes to commit"
