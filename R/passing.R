@@ -9,6 +9,20 @@ get_passing <- function(s) {
   
   raw_html <- read_html(raw_url)
   
+  # get player IDs --------------------------------------------------------
+  
+  ids <- raw_html %>%
+    html_nodes(xpath = '//*[@id="advanced_air_yards"]') %>%
+    html_nodes("a") %>%
+      html_attr("href") %>%
+      as_tibble() %>%
+      dplyr::rename(url = value) %>%
+      filter(stringr::str_detect(url, "players")) %>%
+      mutate(
+        pfr_id = stringr::str_extract(url, "(?<=[:upper:]\\/).*(?=\\.htm)")
+      ) %>%
+      select(pfr_id)
+  
   # read accuracy--------------------------------------------------------
   
   table2 <- raw_html %>% 
@@ -50,7 +64,8 @@ get_passing <- function(s) {
       drop_pct = str_replace(drop_pct, "\\%", ""),
       season = s,
       across(pass_attempts : on_tgt_pct, ~ as.numeric(.x))
-    )
+    ) %>%
+    bind_cols(ids)
   
   # read pressure--------------------------------------------------------
   
@@ -115,5 +130,6 @@ data <- map_df(2019 : nflfastR:::most_recent_season(), get_passing)
 data %>%
   write_csv("data/pfr_advanced_passing.csv")
 
-
+data %>%
+  saveRDS("data/pfr_advanced_passing.rds")
 
