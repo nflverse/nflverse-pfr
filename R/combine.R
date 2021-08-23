@@ -31,7 +31,7 @@ scrape_combine <- function(year){
       season = year,
       across(c("wt","x40yd","vertical","bench","broad_jump","x3cone",
                "shuttle","draft_round","draft_ovr","draft_year"),
-             parse_number)
+             ~parse_number(.x) %>% round(2))
     ) %>%
     select(
       season,
