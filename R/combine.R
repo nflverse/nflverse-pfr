@@ -2,6 +2,7 @@ library(tidyverse)
 library(rvest)
 library(janitor)
 library(glue)
+library(nflreadr)
 
 scrape_combine <- function(year){
 
@@ -56,6 +57,6 @@ scrape_combine <- function(year){
   return(combine)
 }
 
-all_combines <- map_dfr(2000:2021,possibly(scrape_combine,otherwise = tibble()))
+all_combines <- map_dfr(2000:nflreadr:::most_recent_season(roster = TRUE),possibly(scrape_combine,otherwise = tibble()))
 saveRDS(all_combines, "data/combine.rds")
 readr::write_csv(all_combines, "data/combine.csv")
