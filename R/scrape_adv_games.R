@@ -56,7 +56,10 @@ adv_stats <- function(game_id){
     suppressMessages(
       raw_table %>% 
       mutate(
-        player_id = raw_players, .after = player) %>% 
+        player_id = raw_players, 
+        adv_stat = adv_stat, 
+        .after = player
+      ) %>% 
       readr::type_convert()
     )
     
