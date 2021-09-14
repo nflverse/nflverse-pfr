@@ -4,11 +4,11 @@ on:
     - cron:  '0 7 * 1,2,9-12 *'
   workflow_dispatch:
 
-name: Update Advanced Passing Stats
+name: Update Advanced Passing Stats and Snap Counts
 
 jobs:
   update:
-    name: Update stats
+    name: Update Data
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
@@ -22,11 +22,20 @@ jobs:
       - name: Update advanced passing stats
         run: Rscript -e 'source("R/passing.R")'
 
-      - name: Commit and push updated data
+      - name: Commit updated data
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git pull
           git add data
           git commit -m "Automated advanced passing stats updates `date`" || echo "No changes to commit"
+
+      - name: Update snap count data
+        run: Rscript -e 'source("R/active_season_snap_counts.R")'
+
+      - name: Commit updated data
+        run: |
+          git pull
+          git add data
+          git commit -m "Automated snap count data updates `date`" || echo "No changes to commit"
           git push || echo "No changes to commit"
