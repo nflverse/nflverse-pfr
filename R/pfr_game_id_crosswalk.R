@@ -2,13 +2,13 @@
 
 source("R/_helper_functions.R")
 
-lee_games <- nflfastR:::load_lees_games() %>%
+lee_games <- nflreadr::load_schedules() %>%
   select(game_id, season, week, game_type, gameday, home_team, away_team) %>%
   mutate_at(vars(
     "home_team", "away_team"
   ), nflfastR:::team_name_fn)
 
-urls <- map_df(2012 : nflfastR:::most_recent_season(), get_game_urls)
+urls <- map_df(2012 : nflreadr:::most_recent_season(), get_game_urls)
 
 xwalk <- urls %>%
   mutate(
