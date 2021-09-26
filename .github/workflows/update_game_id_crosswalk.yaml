@@ -20,7 +20,7 @@ jobs:
         shell: Rscript {0}
 
       - name: Update game id crosswalk
-        run: Rscript -e 'source("R/pfr_game_id_crosswalk.R")'
+        run: Rscript -e 'source("auto/pfr_game_id_crosswalk.R")'
 
       - name: Commit and push updated data
         run: |

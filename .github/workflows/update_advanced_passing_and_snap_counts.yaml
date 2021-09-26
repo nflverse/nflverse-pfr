@@ -16,11 +16,11 @@ jobs:
 
       - name: Install packages
         run: |
-          install.packages(c("tidyverse", "nflfastR", "nflreadr"))
+          install.packages(c("tidyverse", "nflreadr"))
         shell: Rscript {0}
 
       - name: Update advanced passing stats
-        run: Rscript -e 'source("R/passing.R")'
+        run: Rscript -e 'source("auto/passing.R")'
 
       - name: Commit updated data
         run: |
@@ -31,7 +31,7 @@ jobs:
           git commit -m "Automated advanced passing stats updates `date`" || echo "No changes to commit"
 
       - name: Update snap count data
-        run: Rscript -e 'source("R/active_season_snap_counts.R")'
+        run: Rscript -e 'source("auto/active_season_snap_counts.R")'
 
       - name: Commit updated data
         run: |

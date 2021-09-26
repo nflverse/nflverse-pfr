@@ -20,7 +20,7 @@ jobs:
         shell: Rscript {0}
 
       - name: Update combine
-        run: Rscript -e 'source("R/combine.R")'
+        run: Rscript -e 'source("auto/combine.R")'
 
       - name: Commit and push updated data
         run: |
