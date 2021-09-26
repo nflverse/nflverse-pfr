@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,19,63,4,40,2.1,23,1.2,0,NA,202011010phi
+Tony Pollard,PollTo00,rushing,DAL,7,40,3,23,3.3,17,2.4,0,NA,202011010phi
+Ben DiNucci,DiNuBe00,rushing,DAL,5,22,2,22,4.4,0,0,0,NA,202011010phi
+Cedrick Wilson Jr.,WilsCe01,rushing,DAL,2,-11,NA,-11,-5.5,0,0,0,NA,202011010phi
+Chris Jones,JoneCh02,rushing,DAL,1,0,NA,0,0,0,0,0,NA,202011010phi
+CeeDee Lamb,LambCe00,rushing,DAL,1,19,1,16,16,3,3,0,NA,202011010phi
+Boston Scott,ScotBo02,rushing,PHI,15,70,3,39,2.6,31,2.1,5,3,202011010phi
+Corey Clement,ClemCo00,rushing,PHI,5,24,1,16,3.2,8,1.6,0,NA,202011010phi
+Carson Wentz,WentCa00,rushing,PHI,4,17,2,16,4,1,0.3,0,NA,202011010phi
+Jalen Reagor,ReagJa00,rushing,PHI,1,6,0,6,6,0,0,0,NA,202011010phi
+Greg Ward,WardGr02,rushing,PHI,1,2,0,2,2,0,0,0,NA,202011010phi

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,14,39,1,19,1.4,20,1.4,0,NA,201912150gnb
+Tarik Cohen,CoheTa00,rushing,CHI,8,28,3,10,1.3,18,2.3,2,4,201912150gnb
+Mitchell Trubisky,TrubMi00,rushing,CHI,4,29,0,20,5,9,2.3,1,4,201912150gnb
+Cordarrelle Patterson,PattCo00,rushing,CHI,1,0,NA,0,0,0,0,2,0.5,201912150gnb
+Aaron Jones,JoneAa00,rushing,GNB,13,51,2,22,1.7,29,2.2,3,4.3,201912150gnb
+Jamaal Williams,WillJa06,rushing,GNB,8,26,2,13,1.6,13,1.6,1,8,201912150gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,3,23,1,23,7.7,0,0,0,NA,201912150gnb

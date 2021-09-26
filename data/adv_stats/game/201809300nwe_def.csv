@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kiko Alonso,AlonKi00,defense,MIA,0,8,5,62.5%,48,9.6,6,1,118.7,8.8,37,11,3,0,1,0,1,12,1,7.7%,201809300nwe
+Xavien Howard,HowaXa00,defense,MIA,0,5,5,100.0%,90,18,18,3,158.3,10,50,40,0,0,0,0,0,1,0,0.0%,201809300nwe
+Torry McTyer,McTyTo00,defense,MIA,0,4,4,100.0%,77,19.3,19.3,0,118.7,6.5,26,51,0,0,0,0,0,2,1,33.3%,201809300nwe
+T.J. McDonald,McDoTJ00,defense,MIA,0,5,3,60.0%,37,12.3,7.4,0,82.9,11.6,15,22,1,0,0,0,0,5,1,16.7%,201809300nwe
+Maurice Smith,SmitMa04,defense,MIA,0,4,3,75.0%,46,15.3,11.5,0,112.5,16.8,23,23,0,0,0,0,0,3,2,40.0%,201809300nwe
+Jerome Baker,BakeJe00,defense,MIA,0,4,2,50.0%,5,2.5,1.3,0,56.2,8.5,-8,13,0,0,0,0,0,10,0,0.0%,201809300nwe
+Jordan Phillips,PhilJo01,defense,MIA,0,1,1,100.0%,9,9,9,0,104.2,0,0,9,0,0,0,0,0,1,0,0.0%,201809300nwe
+Raekwon McMillan,McMiRa02,defense,MIA,0,2,1,50.0%,9,9,4.5,0,62.5,5,6,3,0,0,0,0,0,6,0,0.0%,201809300nwe
+Charles Harris,HarrCh03,defense,MIA,0,1,1,100.0%,-4,-4,-4,0,79.2,-6,-6,2,0,0,0,0,0,4,0,0.0%,201809300nwe
+Bobby McCain,McCaBo01,defense,MIA,1,2,1,50.0%,13,13,6.5,0,31.2,12.5,8,5,0,0,0,0,0,2,1,33.3%,201809300nwe
+Minkah Fitzpatrick,FitzMi00,defense,MIA,1,5,1,20.0%,4,4,0.8,0,0,8.6,-3,7,0,0,0,0,0,10,0,0.0%,201809300nwe
+Robert Quinn,QuinRo00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,0,3,3,0,0.0%,201809300nwe
+Cameron Wake,WakeCa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,3,0,0.0%,201809300nwe
+Davon Godchaux,GodcDa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,5,0,0.0%,201809300nwe
+Jason McCourty,McCoJa99,defense,NWE,0,8,5,62.5%,40,8,5,0,75,8.8,14,26,0,0,0,0,0,3,0,0.0%,201809300nwe
+Jonathan Jones,JoneJo03,defense,NWE,0,7,4,57.1%,33,8.3,4.7,0,69.3,8.6,25,8,0,0,0,0,0,8,0,0.0%,201809300nwe
+Kyle Van Noy,VanNKy00,defense,NWE,0,3,2,66.7%,18,9,6,0,82.6,2,3,15,4,2,1,0,3,4,1,20.0%,201809300nwe
+Patrick Chung,ChunPa99,defense,NWE,0,2,2,100.0%,40,20,20,0,118.7,12,24,16,0,0,0,0,0,4,0,0.0%,201809300nwe
+Stephon Gilmore,GilmSt00,defense,NWE,0,4,2,50.0%,13,6.5,3.3,0,57.3,21.5,9,4,0,0,0,0,0,2,0,0.0%,201809300nwe
+Devin McCourty,McCoDe99,defense,NWE,0,2,1,50.0%,6,6,3,1,95.8,19,1,5,0,0,0,0,0,3,1,25.0%,201809300nwe
+Elandon Roberts,RobeEl00,defense,NWE,0,2,1,50.0%,18,18,9,0,81.2,5.5,6,12,0,0,0,0,0,3,0,0.0%,201809300nwe
+Nicholas Grigsby,GrigNi01,defense,NWE,0,1,1,100.0%,10,10,10,0,108.3,-1,-1,11,1,0,0,0,0,2,1,33.3%,201809300nwe
+John Simon,SimoJo01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,3,5,0,0.0%,201809300nwe
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,5,0,0.0%,201809300nwe
+Adam Butler,ButlAd00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201809300nwe
+Trey Flowers,FlowTr00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0.0%,201809300nwe
+J.C. Jackson,JackJ.00,defense,NWE,1,1,0,0.0%,NA,NA,0,NA,0,35,NA,NA,0,0,0,0,0,0,0,NA,201809300nwe
+Dont'a Hightower,HighDo01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,201809300nwe

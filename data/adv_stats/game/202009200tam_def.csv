@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Rasul Douglas,DougRa00,defense,CAR,0,7,4,57.1%,22,5.5,3.1,0,62.8,3.4,6,16,0,0,0,0,0,7,0,0.0%,202009200tam
+Corn Elder,EldeCo00,defense,CAR,0,5,4,80.0%,20,5,4,0,83.3,2.4,6,14,0,0,0,0,0,3,0,0.0%,202009200tam
+Donte Jackson,JackDo02,defense,CAR,1,5,4,80.0%,48,12,9.6,1,106.7,12.2,34,14,0,0,0,0,0,3,2,40.0%,202009200tam
+Jeremy Chinn,ChinJe00,defense,CAR,0,6,3,50.0%,21,7,3.5,0,58.3,9,10,11,2,0,0,0,0,7,0,0.0%,202009200tam
+Tre Boston,BostTr00,defense,CAR,0,4,3,75.0%,50,16.7,12.5,0,116.7,11.5,43,7,1,0,0,0,0,5,1,16.7%,202009200tam
+Tahir Whitehead,WhitTa00,defense,CAR,0,3,3,100.0%,56,18.7,18.7,0,118.7,8.7,26,30,0,0,0,0,0,6,0,0.0%,202009200tam
+Brian Burns,BurnBr00,defense,CAR,0,2,2,100.0%,2,1,1,0,79.2,-2.5,-5,7,0,0,0,0,0,4,0,0.0%,202009200tam
+Shaq Thompson,ThomSh01,defense,CAR,0,3,2,66.7%,9,4.5,3,0,70.1,5.3,1,8,1,0,0,0,0,2,1,33.3%,202009200tam
+Adarius Taylor,GlanAd00,defense,CAR,0,1,1,100.0%,12,12,12,0,116.7,8,8,4,0,0,0,0,0,2,0,0.0%,202009200tam
+Zach Kerr,KerrZa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202009200tam
+Stephen Weatherly,WeatSt00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,0,0,0,0,2,0,0.0%,202009200tam
+Juston Burris,BurrJu00,defense,CAR,0,2,0,0.0%,NA,NA,0,NA,39.6,7,NA,NA,2,0,0,0,0,1,2,66.7%,202009200tam
+Devin White,WhitDe02,defense,TAM,0,9,9,100.0%,79,8.8,8.8,0,103.2,2.9,26,53,7,0,1,0,1,15,0,0.0%,202009200tam
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,5,5,100.0%,86,17.2,17.2,0,118.7,14.8,74,12,2,0,0,0,0,4,1,20.0%,202009200tam
+Lavonte David,DaviLa00,defense,TAM,0,5,5,100.0%,39,7.8,7.8,0,99.2,1.6,8,31,9,0,0,0,0,9,1,10.0%,202009200tam
+Jamel Dean,DeanJa00,defense,TAM,0,8,4,50.0%,46,11.5,5.8,0,67.7,10.4,39,7,0,0,0,0,0,6,0,0.0%,202009200tam
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,4,3,75.0%,31,10.3,7.8,0,96.9,12,30,1,3,0,0,1,1,11,0,0.0%,202009200tam
+Carlton Davis,DaviCa02,defense,TAM,1,5,3,60.0%,56,18.7,11.2,0,59.2,10.8,32,24,0,0,0,0,0,4,0,0.0%,202009200tam
+Jason Pierre-Paul,PierJa99,defense,TAM,0,2,2,100.0%,12,6,6,0,91.7,-0.5,-1,13,6,0,0,1,1,4,1,20.0%,202009200tam
+Shaquil Barrett,BarrSh00,defense,TAM,0,1,1,100.0%,10,10,10,0,108.3,3,3,7,11,2,0,0,2,5,1,16.7%,202009200tam
+Rakeem Nunez-Roches,NuneRa00,defense,TAM,0,1,1,100.0%,8,8,8,0,100,7,7,1,0,0,0,0,0,1,0,0.0%,202009200tam
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,5,0,0.0%,202009200tam
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,2,0,0.0%,202009200tam
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202009200tam
+Jordan Whitehead,WhitJo03,defense,TAM,1,1,0,0.0%,NA,NA,0,NA,0,0,NA,NA,2,0,0,0,0,5,2,28.6%,202009200tam
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202009200tam

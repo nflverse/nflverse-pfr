@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Brian Poole,PoolBr01,defense,ATL,0,7,6,85.7%,110,18.3,15.7,0,118.7,10.6,59,51,2,0,0,0,0,3,1,25.0%,201812300tam
+Desmond Trufant,TrufDe00,defense,ATL,0,8,5,62.5%,68,13.6,8.5,1,129.2,11.8,59,9,0,0,0,0,0,2,0,0.0%,201812300tam
+Robert Alford,AlfoRo00,defense,ATL,0,5,4,80.0%,71,17.8,14.2,1,158.3,11.8,54,17,0,0,0,0,0,3,1,25.0%,201812300tam
+Sharrod Neasman,NeasSh00,defense,ATL,0,4,3,75.0%,32,10.7,8,1,137.5,15.3,31,1,0,0,0,0,0,3,0,0.0%,201812300tam
+Deion Jones,JoneDe01,defense,ATL,0,3,3,100.0%,25,8.3,8.3,1,141,7.7,23,2,1,0,0,0,0,4,1,20.0%,201812300tam
+Damontae Kazee,KazeDa00,defense,ATL,1,2,2,100.0%,43,21.5,21.5,0,79.2,17,34,9,0,0,0,0,0,5,0,0.0%,201812300tam
+Foyesade Oluokun,OluoFo00,defense,ATL,0,2,1,50.0%,21,21,10.5,0,87.5,10,13,8,1,1,0,0,1,7,1,12.5%,201812300tam
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201812300tam
+Takkarist McKinley,McKiTa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,1,0,0.0%,201812300tam
+Bruce Irvin,IrviBr00,defense,ATL,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,1,1,0,2,2,0,0.0%,201812300tam
+De'Vondre Campbell,CampDe00,defense,ATL,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,3,0,0,0,0,9,1,10.0%,201812300tam
+Jordan Richards,RichJo00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812300tam
+Jack Crawford,CrawJa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812300tam
+Javien Elliott,ElliJa01,defense,TAM,0,5,5,100.0%,48,9.6,9.6,0,106.7,3,15,33,3,0,1,0,1,5,0,0.0%,201812300tam
+Andrew Adams,AdamAn00,defense,TAM,1,7,5,71.4%,49,9.8,7,0,51.2,4.1,17,32,0,0,0,0,0,4,3,42.9%,201812300tam
+Lavonte David,DaviLa00,defense,TAM,0,4,4,100.0%,41,10.3,10.3,0,109.4,1.8,7,34,2,0,0,0,0,10,1,9.1%,201812300tam
+Ryan Smith,SmitRy00,defense,TAM,0,6,4,66.7%,67,16.8,11.2,1,143.7,12.2,56,11,0,0,0,0,0,4,0,0.0%,201812300tam
+Brent Grimes,GrimBr20,defense,TAM,0,8,4,50.0%,44,11,5.5,1,106.2,11,35,9,0,0,0,0,0,5,1,16.7%,201812300tam
+Carlton Davis,DaviCa02,defense,TAM,0,5,4,80.0%,47,11.8,9.4,0,105.8,10.8,38,9,0,0,0,0,0,2,1,33.3%,201812300tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,4,3,75.0%,44,14.7,11,0,110.4,13.3,37,7,0,0,0,0,0,3,0,0.0%,201812300tam
+Adarius Taylor,GlanAd00,defense,TAM,0,2,2,100.0%,28,14,14,0,118.7,4.5,9,19,0,0,0,0,0,7,0,0.0%,201812300tam
+Isaiah Johnson,JohnIs00,defense,TAM,0,3,2,66.7%,51,25.5,17,1,149.3,26.3,45,6,1,0,0,0,0,4,0,0.0%,201812300tam
+Gerald McCoy,McCoGe99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,0,3,4,0,0.0%,201812300tam
+Jason Pierre-Paul,PierJa99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,4,0,0.0%,201812300tam
+Vinny Curry,CurrVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812300tam
+Beau Allen,AlleBe00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201812300tam

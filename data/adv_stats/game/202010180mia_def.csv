@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Avery Williamson,WillAv00,defense,NYJ,0,8,8,100.0%,62,7.8,7.8,0,99,0.3,2,60,2,0,0,0,0,11,0,0.0%,202010180mia
+Pierre Desir,DesiPi00,defense,NYJ,0,8,6,75.0%,61,10.2,7.6,1,135.9,8.3,41,20,0,0,0,0,0,5,0,0.0%,202010180mia
+Brian Poole,PoolBr01,defense,NYJ,1,3,3,100.0%,63,21,21,0,79.2,13.3,40,23,3,0,1,0,1,6,1,14.3%,202010180mia
+Blessuan Austin,AustBl00,defense,NYJ,0,4,1,25.0%,7,7,1.8,0,39.6,6.3,0,7,1,0,0,0,0,1,1,50.0%,202010180mia
+John Franklin-Myers,FranJo02,defense,NYJ,0,1,1,100.0%,4,4,4,1,122.9,-1,-1,5,0,0,0,0,0,1,2,66.7%,202010180mia
+Lamar Jackson,JackLa02,defense,NYJ,0,1,1,100.0%,3,3,3,1,118.7,3,3,0,0,0,0,0,0,1,0,0.0%,202010180mia
+Tarell Basham,BashTa00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,1,1,3,0,0.0%,202010180mia
+Bryce Huff,HuffBr00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202010180mia
+Neville Hewitt,HewiNe00,defense,NYJ,0,2,0,0.0%,NA,NA,0,NA,39.6,9.5,NA,NA,4,0,0,0,0,7,1,12.5%,202010180mia
+Bradley McDougald,McDoBr01,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,19,NA,NA,3,0,0,0,0,2,1,33.3%,202010180mia
+Marcus Maye,MayeMa00,defense,NYJ,1,1,0,0.0%,NA,NA,0,NA,0,47,NA,NA,0,0,0,0,0,2,0,0.0%,202010180mia
+Jordan Jenkins,JenkJo01,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,202010180mia
+Nik Needham,NeedNi00,defense,MIA,0,7,6,85.7%,56,9.3,8,0,100,5,28,28,3,0,0,0,0,7,0,0.0%,202010180mia
+Byron Jones,JoneBy00,defense,MIA,0,9,4,44.4%,45,11.3,5,0,60,16,23,22,0,0,0,0,0,1,1,50.0%,202010180mia
+Jerome Baker,BakeJe00,defense,MIA,0,4,3,75.0%,19,6.3,4.8,0,84.4,1.3,2,17,13,0,0,0,0,6,2,25.0%,202010180mia
+Elandon Roberts,RobeEl00,defense,MIA,0,3,2,66.7%,16,8,5.3,0,79.9,4.3,11,5,2,0,1,0,1,3,2,40.0%,202010180mia
+Bobby McCain,McCaBo01,defense,MIA,0,2,1,50.0%,6,6,3,0,56.2,4,1,5,7,0,1,0,1,4,0,0.0%,202010180mia
+Brandon Jones,JoneBr06,defense,MIA,0,2,1,50.0%,7,7,3.5,0,58.3,1.5,0,7,4,0,0,0,0,3,0,0.0%,202010180mia
+Xavien Howard,HowaXa00,defense,MIA,1,5,1,20.0%,9,9,1.8,0,0,16.2,8,1,0,0,0,0,0,1,1,50.0%,202010180mia
+Andrew Van Ginkel,VanGAn00,defense,MIA,0,1,1,100.0%,18,18,18,0,118.7,7,7,11,3,0,0,0,0,2,1,33.3%,202010180mia
+Kamu Grugier-Hill,GrugKa00,defense,MIA,0,1,1,100.0%,9,9,9,0,104.2,8,8,1,4,0,0,0,0,1,0,0.0%,202010180mia
+Eric Rowe,RoweEr00,defense,MIA,0,3,1,33.3%,1,1,0.3,0,42.4,9,0,1,6,0,0,0,0,9,0,0.0%,202010180mia
+Emmanuel Ogbah,OgbaEm00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,2,5,5,0,0.0%,202010180mia
+Christian Wilkins,WilkCh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,5,0,0.0%,202010180mia
+Shaq Lawson,LawsSh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,202010180mia
+Zach Sieler,SielZa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202010180mia
+Samuel Eguavoen,EguaSa00,defense,MIA,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,12,0,0,0,0,2,1,33.3%,202010180mia
+Jamal Perry,WiltJo01,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202010180mia

@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+A.J. Brown,BrowAJ00,receiving,TEN,7,5,153,2,4,69,13.8,84,16.8,16.4,2,2.5,0,0,0,153.3,201912080rai
+Tajae Sharpe,SharTa00,receiving,TEN,4,4,25,0,2,13,3.3,12,3,3.3,0,NA,0,0,0,92.7,201912080rai
+Jonnu Smith,SmitJo01,receiving,TEN,4,3,29,1,2,19,6.3,10,3.3,4.3,0,NA,0,0,1,94.8,201912080rai
+Corey Davis,DaviCo03,receiving,TEN,4,2,34,0,2,17,8.5,17,8.5,10.8,0,NA,0,0,0,79.2,201912080rai
+Khari Blasingame,BlasKh00,receiving,TEN,2,2,47,0,2,23,11.5,24,12,11.5,0,NA,0,0,0,118.7,201912080rai
+Anthony Firkser,FirkAn00,receiving,TEN,1,1,39,0,1,30,30,9,9,30,0,NA,0,0,0,118.7,201912080rai
+Derrick Henry,HenrDe00,receiving,TEN,1,1,6,0,0,3,3,3,3,3,0,NA,0,0,0,91.7,201912080rai
+Dion Lewis,LewiDi00,receiving,TEN,1,1,5,0,0,-6,-6,11,11,-6,0,NA,0,0,0,87.5,201912080rai
+MyCole Pruitt,PruiMy00,receiving,TEN,1,1,42,0,1,17,17,25,25,17,0,NA,0,0,0,118.7,201912080rai
+Kalif Raymond,RaymKa00,receiving,TEN,2,1,11,0,1,10,10,1,1,19.5,0,NA,0,0,0,66.7,201912080rai
+DeAndre Washington,WashDe00,receiving,OAK,7,6,43,0,1,-2,-0.3,45,7.5,0.6,0,NA,0,0,0,92.3,201912080rai
+Darren Waller,WallDa01,receiving,OAK,6,6,72,0,5,52,8.7,20,3.3,8.7,1,6,0,0,0,116.7,201912080rai
+Tyrell Williams,WillTy00,receiving,OAK,4,3,35,0,2,29,9.7,6,2,12.3,0,NA,0,0,0,101,201912080rai
+Foster Moreau,MoreFo00,receiving,OAK,3,3,14,1,2,4,1.3,10,3.3,1.3,1,3,0,0,0,125.7,201912080rai
+Keelan Doss,DossKe00,receiving,OAK,3,3,26,0,1,22,7.3,4,1.3,7.3,0,NA,0,0,0,102.8,201912080rai
+Jalen Richard,RichJa01,receiving,OAK,3,2,18,0,1,6,3,12,6,3.3,0,NA,0,0,0,82.6,201912080rai
+Zay Jones,JoneZa00,receiving,OAK,3,1,5,0,NA,-1,-1,6,6,21,0,NA,0,0,0,42.4,201912080rai
+Rico Gafford,GaffRi00,receiving,OAK,1,1,49,1,1,34,34,15,15,34,0,NA,0,0,0,158.3,201912080rai

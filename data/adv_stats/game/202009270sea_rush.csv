@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,14,34,3,14,1,20,1.4,0,NA,202009270sea
+Dak Prescott,PresDa01,rushing,DAL,6,26,2,25,4.2,1,0.2,0,NA,202009270sea
+CeeDee Lamb,LambCe00,rushing,DAL,1,1,0,1,1,0,0,0,NA,202009270sea
+Chris Carson,CarsCh00,rushing,SEA,14,64,3,39,2.8,25,1.8,3,4.7,202009270sea
+Russell Wilson,WilsRu00,rushing,SEA,6,22,1,22,3.7,0,0,0,NA,202009270sea
+Carlos Hyde,HydeCa00,rushing,SEA,4,12,0,6,1.5,6,1.5,0,NA,202009270sea
+Travis Homer,HomeTr00,rushing,SEA,2,19,NA,14,7,5,2.5,1,2,202009270sea

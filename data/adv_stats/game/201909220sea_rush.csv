@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,16,69,4,19,1.2,50,3.1,4,4,201909220sea
+Teddy Bridgewater,BridTe00,rushing,NOR,3,12,0,6,2,6,2,0,NA,201909220sea
+Latavius Murray,MurrLa00,rushing,NOR,2,2,NA,-2,-1,4,2,1,2,201909220sea
+Taysom Hill,HillTa00,rushing,NOR,1,5,0,2,2,3,3,0,NA,201909220sea
+Zach Line,LineZa01,rushing,NOR,1,0,NA,0,0,0,0,0,NA,201909220sea
+Chris Carson,CarsCh00,rushing,SEA,15,52,1,28,1.9,24,1.6,0,NA,201909220sea
+Russell Wilson,WilsRu00,rushing,SEA,7,51,4,39,5.6,12,1.7,1,7,201909220sea
+C.J. Prosise,ProsC.00,rushing,SEA,4,5,0,3,0.8,2,0.5,0,NA,201909220sea

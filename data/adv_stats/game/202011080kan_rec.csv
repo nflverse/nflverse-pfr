@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Christian McCaffrey,McCaCh01,receiving,CAR,10,10,82,1,4,22,2.2,60,6,2.2,1,10,0,0,0,134.2,202011080kan
+Robby Anderson,AndeRo04,receiving,CAR,13,9,63,0,5,29,3.2,34,3.8,8.2,0,NA,0,0,0,80,202011080kan
+Curtis Samuel,SamuCu00,receiving,CAR,9,9,105,1,5,60,6.7,45,5,6.7,0,NA,0,0,0,152.3,202011080kan
+Mike Davis,DaviMi01,receiving,CAR,6,5,34,0,1,-1,-0.2,35,7,-0.3,1,5,0,0,0,90.3,202011080kan
+D.J. Moore,MoorD.00,receiving,CAR,3,2,18,0,2,10,5,8,4,5.7,0,NA,0,0,0,82.6,202011080kan
+Ian Thomas,ThomIa00,receiving,CAR,2,1,8,0,NA,1,1,7,7,14,0,NA,0,0,0,60.4,202011080kan
+Brandon Zylstra,ZylsBr00,receiving,CAR,1,1,28,0,1,18,18,10,10,18,0,NA,0,0,0,118.7,202011080kan
+Travis Kelce,KelcTr00,receiving,KAN,12,10,159,0,8,93,9.3,66,6.6,9.6,1,10,0,0,0,118.7,202011080kan
+Tyreek Hill,HillTy00,receiving,KAN,18,9,113,2,6,91,10.1,22,2.4,12.4,0,NA,1,5.6,0,106.9,202011080kan
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,5,3,20,1,1,0,0,20,6.7,2,1,3,1,20,0,108.3,202011080kan
+Mecole Hardman,HardMe00,receiving,KAN,4,3,48,0,2,36,12,12,4,11,0,NA,1,25,0,114.6,202011080kan
+Demarcus Robinson,RobiDe01,receiving,KAN,3,3,34,1,1,26,8.7,8,2.7,8.7,0,NA,0,0,0,153.5,202011080kan
+Le'Veon Bell,BellLe00,receiving,KAN,1,1,-5,0,NA,-6,-6,1,1,-6,0,NA,0,0,0,79.2,202011080kan
+Darrel Williams,WillDa10,receiving,KAN,1,1,3,0,NA,-5,-5,8,8,-5,0,NA,0,0,0,79.2,202011080kan

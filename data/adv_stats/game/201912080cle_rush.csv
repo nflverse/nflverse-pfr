@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,23,146,10,74,3.2,72,3.1,4,5.8,201912080cle
+Giovani Bernard,BernGi00,rushing,CIN,4,15,1,2,0.5,13,3.3,0,NA,201912080cle
+Andy Dalton,DaltAn00,rushing,CIN,3,11,1,4,1.3,7,2.3,1,3,201912080cle
+Tyler Boyd,BoydTy00,rushing,CIN,1,7,0,4,4,3,3,0,NA,201912080cle
+Nick Chubb,ChubNi00,rushing,CLE,15,106,4,13,0.9,93,6.2,4,3.8,201912080cle
+Kareem Hunt,HuntKa00,rushing,CLE,9,28,1,14,1.6,14,1.6,0,NA,201912080cle
+Baker Mayfield,MayfBa00,rushing,CLE,2,13,2,9,4.5,4,2,0,NA,201912080cle
+Garrett Gilbert,GilbGa01,rushing,CLE,1,-1,NA,-1,-1,0,0,0,NA,201912080cle

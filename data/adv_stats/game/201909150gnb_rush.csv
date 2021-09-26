@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,20,154,5,58,2.9,96,4.8,2,10,201909150gnb
+Alexander Mattison,MattAl01,rushing,MIN,4,25,2,11,2.8,14,3.5,2,2,201909150gnb
+Kirk Cousins,CousKi00,rushing,MIN,2,17,1,14,7,3,1.5,0,NA,201909150gnb
+Ameer Abdullah,AbduAm00,rushing,MIN,1,2,NA,2,2,0,0,0,NA,201909150gnb
+Aaron Jones,JoneAa00,rushing,GNB,23,116,5,94,4.1,22,1,1,23,201909150gnb
+Jamaal Williams,WillJa06,rushing,GNB,9,28,2,21,2.3,7,0.8,0,NA,201909150gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,1,0,0,0,0,0,0,0,NA,201909150gnb

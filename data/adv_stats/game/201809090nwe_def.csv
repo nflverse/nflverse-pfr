@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Johnathan Joseph,JoseJo20,defense,HOU,0,9,7,77.8%,50,7.1,5.6,0,89.8,6.1,39,11,0,0,0,0,0,7,0,0.0%,201809090nwe
+Zach Cunningham,CunnZa00,defense,HOU,0,8,5,62.5%,68,13.6,8.5,1,129.2,13.8,43,25,1,0,0,0,0,7,0,0.0%,201809090nwe
+Kevin Johnson,JohnKe04,defense,HOU,0,5,4,80.0%,40,10,8,2,139.6,5,18,22,0,0,0,0,0,4,3,42.9%,201809090nwe
+Whitney Mercilus,MercWh00,defense,HOU,0,4,4,100.0%,35,8.8,8.8,0,103.1,4.3,17,18,12,0,0,0,0,2,1,33.3%,201809090nwe
+Dylan Cole,ColeDy00,defense,HOU,0,4,3,75.0%,20,6.7,5,0,85.4,3.3,12,8,0,0,0,0,0,5,2,28.6%,201809090nwe
+Kareem Jackson,JackKa99,defense,HOU,0,3,2,66.7%,36,18,12,0,107.6,10.7,28,8,1,0,0,0,0,8,0,0.0%,201809090nwe
+Aaron Colvin,ColvAa00,defense,HOU,0,3,1,33.3%,28,28,9.3,0,68.7,19.7,27,1,0,0,0,0,0,4,0,0.0%,201809090nwe
+Benardrick McKinney,McKiBe00,defense,HOU,0,1,1,100.0%,28,28,28,0,118.7,27,27,1,2,0,0,0,0,7,0,0.0%,201809090nwe
+J.J. Watt,WattJ.00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,2,0,0.0%,201809090nwe
+D.J. Reader,ReadD.00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2,4,4,0,0.0%,201809090nwe
+Jadeveon Clowney,ClowJa00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,1,33.3%,201809090nwe
+Justin Reid,ReidJu00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,1,0,0.0%,201809090nwe
+Tyrann Mathieu,MathTy00,defense,HOU,1,1,0,0.0%,NA,NA,0,NA,0,7,NA,NA,1,0,0,0,0,5,0,0.0%,201809090nwe
+Angelo Blackson,BlacAn00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,0,0,0,0,0,3,0,0.0%,201809090nwe
+Stephon Gilmore,GilmSt00,defense,NWE,1,8,6,75.0%,59,9.8,7.4,0,55.7,8,42,17,0,0,0,0,0,8,0,0.0%,201809090nwe
+Duron Harmon,HarmDu00,defense,NWE,0,3,2,66.7%,19,9.5,6.3,0,84,18.3,15,4,0,0,0,0,0,3,0,0.0%,201809090nwe
+Eric Rowe,RoweEr00,defense,NWE,0,5,2,40.0%,22,11,4.4,1,93.3,14,17,5,0,0,0,0,0,4,0,0.0%,201809090nwe
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,2,1,50.0%,5,5,2.5,0,56.2,9.5,5,0,5,0,1,0,1,7,0,0.0%,201809090nwe
+Patrick Chung,ChunPa99,defense,NWE,0,4,1,25.0%,27,27,6.8,0,55.2,12.8,22,5,0,0,0,0,0,4,0,0.0%,201809090nwe
+Elandon Roberts,RobeEl00,defense,NWE,0,1,1,100.0%,13,13,13,0,118.7,5,5,8,0,0,0,0,0,5,0,0.0%,201809090nwe
+Jonathan Jones,JoneJo03,defense,NWE,0,5,1,20.0%,11,11,2.2,0,39.6,8,2,9,0,0,0,0,0,4,1,20.0%,201809090nwe
+Devin McCourty,McCoDe99,defense,NWE,0,2,1,50.0%,8,8,4,0,60.4,12.5,8,0,0,0,0,0,0,7,1,12.5%,201809090nwe
+Trey Flowers,FlowTr00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1.5,4,5,0,0.0%,201809090nwe
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1.5,4,3,1,25.0%,201809090nwe
+Adrian Clayborn,ClayAd00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,0,0,NA,201809090nwe
+Keionta Davis,DaviKe03,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,201809090nwe
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,5,0,0.0%,201809090nwe
+Malcom Brown,BrowMa01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,3,60.0%,201809090nwe
+Dont'a Hightower,HighDo01,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,4,1,0,0,1,2,0,0.0%,201809090nwe
+Kyle Van Noy,VanNKy00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,1,0,0,1,3,0,0.0%,201809090nwe
+Jason McCourty,McCoJa99,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,46,NA,NA,0,0,0,0,0,1,0,0.0%,201809090nwe
+Danny Shelton,ShelDa01,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,0,0,0,0,4,0,0.0%,201809090nwe

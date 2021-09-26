@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Chris Thompson,ThomCh03,receiving,WAS,7,6,63,1,4,4,0.7,59,9.8,1.6,3,2,0,0,0,143.7,201809090crd
+Jordan Reed,ReedJo02,receiving,WAS,5,4,48,1,3,23,5.8,25,6.3,5.6,0,NA,0,0,0,146.2,201809090crd
+Paul Richardson,RichPa01,receiving,WAS,6,4,22,0,1,13,3.3,9,2.3,3.3,0,NA,0,0,0,72.9,201809090crd
+Jamison Crowder,CrowJa00,receiving,WAS,4,3,32,0,2,20,6.7,12,4,5.5,0,NA,0,0,0,97.9,201809090crd
+Adrian Peterson,PeteAd01,receiving,WAS,3,2,70,0,1,0,0,70,35,0.7,2,1,0,0,0,109.7,201809090crd
+Vernon Davis,DaviVe00,receiving,WAS,1,1,9,0,1,6,6,3,3,6,0,NA,0,0,0,104.2,201809090crd
+Josh Doctson,DoctJo00,receiving,WAS,3,1,11,0,1,9,9,2,2,4.3,0,NA,1,33.3,0,45.1,201809090crd
+Larry Fitzgerald,FitzLa00,receiving,ARI,10,7,76,0,3,55,7.9,21,3,9,0,NA,1,10,0,92.1,201809090crd
+David Johnson,JohnDa08,receiving,ARI,9,5,30,0,1,10,2,20,4,0.8,0,NA,3,33.3,0,62.3,201809090crd
+Chase Edmonds,EdmoCh00,receiving,ARI,4,4,24,0,0,4,1,20,5,1,1,4,0,0,0,91.7,201809090crd
+Ricky Seals-Jones,SealRi00,receiving,ARI,6,3,19,0,2,14,4.7,5,1.7,8.8,0,NA,0,0,1,17.4,201809090crd
+Christian Kirk,KirkCh01,receiving,ARI,2,1,4,0,NA,4,4,0,0,4.5,0,NA,0,0,0,56.2,201809090crd
+Chad Williams,WillCh05,receiving,ARI,3,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,201809090crd

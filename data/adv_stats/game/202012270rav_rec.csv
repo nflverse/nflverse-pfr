@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Sterling Shepard,ShepSt00,receiving,NYG,12,9,77,1,6,33,3.7,44,4.9,6.8,0,NA,0,0,0,119.1,202012270rav
+Evan Engram,EngrEv00,receiving,NYG,10,7,65,0,3,29,4.1,36,5.1,8.4,2,3.5,0,0,0,87.5,202012270rav
+Wayne Gallman,GallWa00,receiving,NYG,2,2,26,0,2,20,10,6,3,10,0,NA,0,0,0,118.7,202012270rav
+Dante Pettis,PettDa00,receiving,NYG,3,2,33,0,2,32,16,1,0.5,12.7,0,NA,0,0,0,103.5,202012270rav
+Darius Slayton,SlayDa01,receiving,NYG,8,2,26,0,1,21,10.5,5,2.5,13.6,0,NA,0,0,0,40.6,202012270rav
+C.J. Board,BoarC.00,receiving,NYG,2,1,16,0,1,6,6,10,10,9,0,NA,0,0,0,77.1,202012270rav
+Alfred Morris,MorrAl00,receiving,NYG,1,1,9,0,1,3,3,6,6,3,1,1,0,0,0,104.2,202012270rav
+Austin Mack,MackAu01,receiving,NYG,3,0,0,0,NA,0,NA,0,NA,10.7,0,NA,1,33.3,0,39.6,202012270rav
+Mark Andrews,AndrMa00,receiving,BAL,10,6,76,0,2,56,9.3,20,3.3,10.5,1,6,1,10,0,83.7,202012270rav
+Marquise Brown,BrowMa04,receiving,BAL,4,4,25,1,2,20,5,5,1.3,5,0,NA,0,0,0,132.3,202012270rav
+Gus Edwards,EdwaGu00,receiving,BAL,2,2,37,0,2,10,5,27,13.5,5,2,1,0,0,0,118.7,202012270rav
+Willie Snead,SneaWi00,receiving,BAL,2,2,24,0,2,17,8.5,7,3.5,8.5,0,NA,0,0,0,116.7,202012270rav
+Miles Boykin,BoykMi00,receiving,BAL,2,1,13,0,1,10,10,3,3,10,0,NA,0,0,0,70.8,202012270rav
+Dez Bryant,BryaDe01,receiving,BAL,1,1,8,1,1,8,8,0,0,8,0,NA,0,0,0,139.6,202012270rav
+Devin Duvernay,DuveDe00,receiving,BAL,1,1,0,0,0,-4,-4,4,4,-4,0,NA,0,0,0,79.2,202012270rav
+J.K. Dobbins,DobbJK00,receiving,BAL,1,0,0,0,0,0,NA,0,NA,-3,0,NA,1,100,0,39.6,202012270rav

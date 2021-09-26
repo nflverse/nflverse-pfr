@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Jacobs,JacoJo01,rushing,LVR,25,93,9,35,1.4,58,2.3,8,3.1,202009130car
+Devontae Booker,BookDe00,rushing,LVR,4,29,1,21,5.3,8,2,0,NA,202009130car
+Henry Ruggs III,RuggHe00,rushing,LVR,2,11,0,7,3.5,4,2,0,NA,202009130car
+Christian McCaffrey,McCaCh01,rushing,CAR,23,97,6,47,2,50,2.2,8,2.9,202009130car
+Teddy Bridgewater,BridTe00,rushing,CAR,4,26,1,23,5.8,3,0.8,0,NA,202009130car
+Alex Armah,ArmaAl00,rushing,CAR,2,1,1,0,0,1,0.5,0,NA,202009130car
+Curtis Samuel,SamuCu00,rushing,CAR,1,5,0,0,0,5,5,1,1,202009130car

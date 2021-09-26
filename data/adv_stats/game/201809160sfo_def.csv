@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Darius Slay,SlayDa00,defense,DET,0,4,4,100.0%,37,9.3,9.3,1,144.8,7,28,9,0,0,0,0,0,5,0,0.0%,201809160sfo
+Quandre Diggs,DiggQu00,defense,DET,0,7,4,57.1%,47,11.8,6.7,0,77.7,5.7,24,23,0,0,0,0,0,5,1,16.7%,201809160sfo
+Christian Jones,JoneCh05,defense,DET,0,2,2,100.0%,15,7.5,7.5,1,137.5,1,2,13,13,0,1,1,2,6,0,0.0%,201809160sfo
+Teez Tabor,TaboTe00,defense,DET,0,2,2,100.0%,44,22,22,0,118.7,13,26,18,0,0,0,0,0,3,0,0.0%,201809160sfo
+Glover Quin,QuinGl99,defense,DET,0,2,2,100.0%,16,8,8,0,100,8,16,0,0,0,0,0,0,5,1,16.7%,201809160sfo
+Jarrad Davis,DaviJa01,defense,DET,0,2,1,50.0%,16,16,8,0,77.1,11,4,12,5,0,1,2,3,6,3,33.3%,201809160sfo
+Tavon Wilson,WilsTa00,defense,DET,0,1,1,100.0%,4,4,4,0,83.3,3,3,1,2,0,0,0,0,6,0,0.0%,201809160sfo
+Nevin Lawson,LawsNe00,defense,DET,0,2,1,50.0%,19,19,9.5,0,83.3,12,12,7,0,0,0,0,0,4,0,0.0%,201809160sfo
+Devon Kennard,KennDe00,defense,DET,0,1,0,0.0%,NA,NA,0,NA,39.6,-4,NA,NA,22,0,0,2,2,4,0,0.0%,201809160sfo
+A'Shawn Robinson,RobiAS00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201809160sfo
+Eli Harold,HaroEl00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,0,1,1,1,0,0.0%,201809160sfo
+Ricky Jean-Francois,JeanRi99,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,201809160sfo
+Jamal Agnew,AgneJa00,defense,DET,0,1,0,0.0%,NA,NA,0,NA,39.6,-2,NA,NA,0,0,0,0,0,0,0,NA,201809160sfo
+Ahkello Witherspoon,WithAh00,defense,SFO,0,13,9,69.2%,117,13,9,2,136.9,15,73,44,0,0,0,0,0,4,0,0.0%,201809160sfo
+Elijah Lee,LeexEl00,defense,SFO,0,9,8,88.9%,50,6.3,5.6,0,89.8,4.3,4,46,1,0,0,1,1,12,1,7.7%,201809160sfo
+K'Waun Williams,WillKW00,defense,SFO,0,9,5,55.6%,73,14.6,8.1,0,82.2,11.1,25,48,3,1,0,0,1,4,2,33.3%,201809160sfo
+Jaquiski Tartt,TartJa00,defense,SFO,0,6,5,83.3%,39,7.8,6.5,0,93.7,4.3,27,12,0,0,0,0,0,5,1,16.7%,201809160sfo
+Fred Warner,WarnFr00,defense,SFO,0,9,4,44.4%,23,5.8,2.6,0,51.6,4.4,12,11,4,0,0,0,0,10,1,9.1%,201809160sfo
+Mark Nzeocha,NzeoMa00,defense,SFO,0,2,2,100.0%,23,11.5,11.5,0,114.6,2,4,19,0,0,0,0,0,3,1,25.0%,201809160sfo
+Adrian Colbert,ColbAd00,defense,SFO,0,2,1,50.0%,15,15,7.5,1,114.6,35,15,0,1,0,0,0,0,3,1,25.0%,201809160sfo
+Richard Sherman,SherRi00,defense,SFO,0,2,1,50.0%,10,10,5,0,64.6,7,0,10,0,0,0,0,0,3,0,0.0%,201809160sfo
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,3,0,0.0%,201809160sfo
+Solomon Thomas,ThomSo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,2,1,33.3%,201809160sfo
+DeForest Buckner,BuckDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,5,0,0.0%,201809160sfo
+Sheldon Day,DayxSh00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,0,0,NA,201809160sfo
+Cassius Marsh,MarsCa00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,0,0,0,0,0,1,0,0.0%,201809160sfo

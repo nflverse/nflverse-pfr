@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,22,131,8,70,3.2,61,2.8,0,NA,202109190crd
+Alexander Mattison,MattAl01,rushing,MIN,3,11,1,6,2,5,1.7,0,NA,202109190crd
+Kirk Cousins,CousKi00,rushing,MIN,2,35,2,33,16.5,2,1,0,NA,202109190crd
+James Conner,ConnJa00,rushing,ARI,8,26,2,11,1.4,15,1.9,1,8,202109190crd
+Chase Edmonds,EdmoCh00,rushing,ARI,8,46,1,22,2.8,24,3,1,8,202109190crd
+Kyler Murray,MurrKy00,rushing,ARI,5,31,2,28,5.6,3,0.6,0,NA,202109190crd

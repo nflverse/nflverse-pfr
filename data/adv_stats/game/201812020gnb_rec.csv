@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Larry Fitzgerald,FitzLa00,receiving,ARI,6,3,48,0,2,47,15.7,1,0.3,16.3,0,NA,0,0,0,77.1,201812020gnb
+Christian Kirk,KirkCh01,receiving,ARI,8,3,54,0,2,51,17,3,1,9.9,0,NA,0,0,0,61.5,201812020gnb
+Chase Edmonds,EdmoCh00,receiving,ARI,2,2,13,0,2,-5,-2.5,18,9,-2.5,0,NA,0,0,0,93.7,201812020gnb
+David Johnson,JohnDa08,receiving,ARI,2,1,3,0,0,-4,-4,7,7,-4,0,NA,0,0,0,56.2,201812020gnb
+Ricky Seals-Jones,SealRi00,receiving,ARI,3,1,10,0,1,10,10,0,0,8.7,0,NA,0,0,0,43.7,201812020gnb
+Trent Sherfield,SherTr00,receiving,ARI,3,1,21,0,1,19,19,2,2,17,0,NA,0,0,0,59,201812020gnb
+Davante Adams,AdamDa01,receiving,GNB,13,8,93,1,6,66,8.3,27,3.4,12.3,1,8,1,7.7,0,108.8,201812020gnb
+Jimmy Graham,GrahJi00,receiving,GNB,11,8,50,0,4,27,3.4,23,2.9,5.5,0,NA,0,0,0,81.6,201812020gnb
+Aaron Jones,JoneAa00,receiving,GNB,4,4,16,0,0,-6,-1.5,22,5.5,-1.5,0,NA,0,0,0,83.3,201812020gnb
+Jamaal Williams,WillJa06,receiving,GNB,4,4,14,0,2,-8,-2,22,5.5,-2,0,NA,0,0,0,81.2,201812020gnb
+Randall Cobb,CobbRa00,receiving,GNB,5,3,25,0,NA,1,0.3,24,8,3.2,1,3,1,20,0,72.9,201812020gnb
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,7,2,19,0,1,13,6.5,6,3,11.6,0,NA,2,28.6,0,39.6,201812020gnb
+Jake Kumerow,KumeJa00,receiving,GNB,2,1,11,0,1,12,12,-1,-1,10.5,0,NA,0,0,0,66.7,201812020gnb
+Robert Tonyan,TonyRo00,receiving,GNB,1,1,5,0,1,4,4,1,1,4,0,NA,0,0,0,87.5,201812020gnb
+Equanimeous St. Brown,St.BEq00,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,25,0,NA,1,100,0,39.6,201812020gnb

@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Shawn Williams,WillSh02,defense,CIN,0,4,4,100.0%,37,9.3,9.3,0,105.2,7.5,30,7,1,0,0,0,0,6,0,0.0%,201812090sdg
+Darqueze Dennard,DennDa00,defense,CIN,0,5,4,80.0%,79,19.8,15.8,1,158.3,8.6,39,40,1,0,0,0,0,3,0,0.0%,201812090sdg
+KeiVarae Russell,RussKe00,defense,CIN,0,5,3,60.0%,37,12.3,7.4,0,82.9,11.6,32,5,0,0,0,0,0,4,0,0.0%,201812090sdg
+Jessie Bates III,BateJe00,defense,CIN,0,2,2,100.0%,44,22,22,0,118.7,11.5,23,21,0,0,0,0,0,7,1,12.5%,201812090sdg
+Hardy Nickerson,NickHa02,defense,CIN,0,2,2,100.0%,24,12,12,0,116.7,-2,-4,28,1,0,0,0,0,2,1,33.3%,201812090sdg
+William Jackson III,JackWi02,defense,CIN,0,5,2,40.0%,9,4.5,1.8,0,47.9,10,8,1,0,0,0,0,0,3,0,0.0%,201812090sdg
+Darius Phillips,PhilDa02,defense,CIN,0,2,1,50.0%,10,10,5,0,64.6,21.5,10,0,0,0,0,0,0,1,0,0.0%,201812090sdg
+Jordan Evans,EvanJo01,defense,CIN,0,2,1,50.0%,6,6,3,0,56.2,1.5,-3,9,1,0,0,0,0,3,0,0.0%,201812090sdg
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,4,1,20.0%,201812090sdg
+Andrew Billings,BillAn00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,201812090sdg
+Geno Atkins,AtkiGe99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201812090sdg
+Christian Ringo,RingCh00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,0,0.0%,201812090sdg
+Nick Vigil,VigiNi00,defense,CIN,0,2,0,0.0%,NA,NA,0,NA,39.6,3.5,NA,NA,2,0,0,0,0,3,1,25.0%,201812090sdg
+Michael Johnson,JohnMi98,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201812090sdg
+Jatavis Brown,BrowJa05,defense,LAC,0,8,5,62.5%,28,5.6,3.5,1,108.3,5.1,13,15,3,0,0,0,0,7,0,0.0%,201812090sdg
+Desmond King,KingDe01,defense,LAC,0,6,4,66.7%,18,4.5,3,0,70.1,8.7,5,13,3,0,0,0,0,3,0,0.0%,201812090sdg
+Casey Hayward,HaywCa00,defense,LAC,0,5,4,80.0%,62,15.5,12.4,0,118.3,11.6,45,17,0,0,0,0,0,2,1,33.3%,201812090sdg
+Adrian Phillips,PhilAd00,defense,LAC,0,4,3,75.0%,33,11,8.3,0,99,4,2,31,1,0,0,0,0,5,1,16.7%,201812090sdg
+Michael Davis,DaviMi03,defense,LAC,0,4,3,75.0%,35,11.7,8.8,0,101,9.3,32,3,0,0,0,0,0,6,0,0.0%,201812090sdg
+Derwin James,JameDe00,defense,LAC,0,2,2,100.0%,21,10.5,10.5,0,110.4,5.5,11,10,1,0,0,0,0,7,1,12.5%,201812090sdg
+Jahleel Addae,AddaJa00,defense,LAC,0,2,1,50.0%,24,24,12,0,93.7,10.5,21,3,1,0,0,0,0,9,0,0.0%,201812090sdg
+Melvin Ingram,IngrMe00,defense,LAC,0,1,1,100.0%,5,5,5,0,87.5,-3,-3,8,3,0,0,0,0,5,0,0.0%,201812090sdg
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,6,2,25.0%,201812090sdg
+Uchenna Nwosu,NwosUc00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201812090sdg
+Kyle Emanuel,EmanKy00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201812090sdg
+Darius Philon,PhilDa01,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201812090sdg

@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Rashaan Melvin,MelvRa00,defense,DET,0,9,8,88.9%,88,11,9.8,0,107.4,9.7,64,24,0,0,0,0,0,8,0,0.0%,201912220den
+Tavon Wilson,WilsTa00,defense,DET,0,9,7,77.8%,30,4.3,3.3,1,117.6,2.4,17,13,2,0,0,0,0,9,0,0.0%,201912220den
+Darius Slay,SlayDa00,defense,DET,0,8,4,50.0%,28,7,3.5,0,58.3,11.1,14,14,0,0,0,0,0,5,1,16.7%,201912220den
+Jalen Reeves-Maybin,ReevJa00,defense,DET,0,4,4,100.0%,42,10.5,10.5,0,110.4,6.5,26,16,1,0,0,0,0,9,2,18.2%,201912220den
+Justin Coleman,ColeJu01,defense,DET,0,4,4,100.0%,41,10.3,10.3,0,109.4,5,20,21,0,0,0,0,0,4,1,20.0%,201912220den
+Tracy Walker,WalkTr01,defense,DET,0,6,4,66.7%,36,9,6,0,82.6,10.5,17,19,0,0,0,0,0,7,2,22.2%,201912220den
+Trey Flowers,FlowTr00,defense,DET,0,2,2,100.0%,12,6,6,0,91.7,-0.5,-1,13,0,2,0,0,2,5,0,0.0%,201912220den
+Devon Kennard,KennDe00,defense,DET,0,2,2,100.0%,6,3,3,1,118.7,-1.5,-3,9,0,0,1,0,1,5,0,0.0%,201912220den
+Damon Harrison,HarrDa03,defense,DET,0,2,2,100.0%,7,3.5,3.5,0,81.2,0,0,7,0,0,0,0,0,5,0,0.0%,201912220den
+Jahlani Tavai,TavaJa00,defense,DET,0,2,1,50.0%,7,7,3.5,0,58.3,10,0,7,0,0,0,0,0,3,0,0.0%,201912220den
+Frank Herron,HerrFr00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201912220den
+Steve Longa,LongSt00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,6,1,14.3%,201912220den
+Todd Davis,DaviTo01,defense,DEN,0,5,4,80.0%,19,4.8,3.8,1,122.1,5.4,6,13,1,1,0,0,1,6,0,0.0%,201912220den
+Justin Simmons,SimmJu00,defense,DEN,0,3,3,100.0%,29,9.7,9.7,0,106.9,4.3,13,16,0,0,0,0,0,5,1,16.7%,201912220den
+Trey Marshall,MarsTr00,defense,DEN,0,3,2,66.7%,41,20.5,13.7,0,109.7,22.3,26,15,0,0,0,0,0,9,0,0.0%,201912220den
+Isaac Yiadom,YiadIs00,defense,DEN,0,5,2,40.0%,20,10,4,0,52.1,16.8,18,2,0,0,0,0,0,4,0,0.0%,201912220den
+Chris Harris Jr.,HarrCh01,defense,DEN,0,5,2,40.0%,14,7,2.8,0,47.9,17.8,8,6,0,0,0,0,0,2,0,0.0%,201912220den
+Jeremiah Attaochu,AttaJe00,defense,DEN,0,1,1,100.0%,3,3,3,1,118.7,-2,-2,5,1,0,1,0.5,2,2,0,0.0%,201912220den
+Justin Hollins,HollJu00,defense,DEN,0,1,1,100.0%,11,11,11,0,112.5,8,8,3,0,0,0,0,0,1,1,50.0%,201912220den
+Alexander Johnson,JohnAl01,defense,DEN,0,2,1,50.0%,12,12,6,0,68.7,1.5,3,9,2,0,0,0,0,2,1,33.3%,201912220den
+Dre'Mont Jones,JoneDr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2.5,3,5,0,0.0%,201912220den
+Von Miller,MillVo00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201912220den
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201912220den

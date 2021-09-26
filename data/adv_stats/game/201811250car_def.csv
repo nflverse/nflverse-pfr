@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Bobby Wagner,WagnBo00,defense,SEA,0,6,5,83.3%,70,14,11.7,0,115.3,9.3,33,37,4,0,0,0,0,13,0,0.0%,201811250car
+Tre Flowers,FlowTr01,defense,SEA,0,5,5,100.0%,39,7.8,7.8,0,99.2,5.2,26,13,0,0,0,0,0,8,1,11.1%,201811250car
+Justin Coleman,ColeJu01,defense,SEA,0,5,5,100.0%,26,5.2,5.2,0,88.3,2.8,13,13,0,0,0,0,0,3,1,25.0%,201811250car
+Bradley McDougald,McDoBr01,defense,SEA,1,5,4,80.0%,62,15.5,12.4,0,78.7,5.4,9,53,2,0,0,0,0,7,1,12.5%,201811250car
+Shaquill Griffin,GrifSh00,defense,SEA,0,2,2,100.0%,32,16,16,1,158.3,11,22,10,1,0,0,0,0,3,0,0.0%,201811250car
+Lano Hill,HillDe02,defense,SEA,0,2,2,100.0%,2,1,1,0,79.2,0.5,1,1,0,0,0,0,0,3,0,0.0%,201811250car
+Barkevious Mingo,MingBa00,defense,SEA,0,3,2,66.7%,15,7.5,5,0,78.5,2.3,5,10,4,0,0,0,0,5,2,28.6%,201811250car
+Tedric Thompson,ThomTe00,defense,SEA,0,1,1,100.0%,2,2,2,1,118.7,-4,-4,6,0,0,0,0,0,7,1,12.5%,201811250car
+Frank Clark,ClarFr01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,2,40.0%,201811250car
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201811250car
+Captain Munnerlyn,MunnCa99,defense,CAR,0,10,8,80.0%,127,15.9,12.7,0,118.7,13.6,71,56,3,1,0,0,1,5,1,16.7%,201811250car
+James Bradberry,BradJa00,defense,CAR,0,3,3,100.0%,72,24,24,0,118.7,21.3,64,8,1,0,0,1,1,3,1,25.0%,201811250car
+Mike Adams,AdamMi21,defense,CAR,0,3,3,100.0%,45,15,15,1,158.3,12,36,9,2,0,0,0,0,5,0,0.0%,201811250car
+Corn Elder,EldeCo00,defense,CAR,0,4,3,75.0%,54,18,13.5,1,156.2,15.3,44,10,0,0,0,0,0,2,2,50.0%,201811250car
+Thomas Davis,DaviTh20,defense,CAR,0,3,3,100.0%,12,4,4,0,83.3,1.3,4,8,8,0,0,0,0,7,1,12.5%,201811250car
+Shaq Thompson,ThomSh01,defense,CAR,0,3,2,66.7%,7,3.5,2.3,0,70.1,3,-4,11,3,0,0,1,1,7,1,12.5%,201811250car
+Eric Reid,ReidEr00,defense,CAR,0,2,2,100.0%,67,33.5,33.5,0,118.7,25.5,51,16,2,0,0,0,0,8,1,11.1%,201811250car
+Luke Kuechly,KuecLu00,defense,CAR,0,1,1,100.0%,9,9,9,0,104.2,3,3,6,4,0,0,0,0,12,1,7.7%,201811250car
+Kawann Short,ShorKa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,6,0,0.0%,201811250car
+Bryan Cox Jr.,CoxxBr01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,201811250car
+Julius Peppers,PeppJu99,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201811250car
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,2,33.3%,201811250car
+Kyle Love,LoveKy00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201811250car
+Wes Horton,HortWe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201811250car

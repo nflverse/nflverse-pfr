@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+K.J. Wright,WrigK.00,defense,SEA,0,7,5,71.4%,40,8,5.7,1,125,2.7,11,29,3,0,0,0,0,8,0,0.0%,201909150pit
+Shaquill Griffin,GrifSh00,defense,SEA,0,7,4,57.1%,32,8,4.6,1,108.3,11.3,26,6,0,0,0,0,0,4,2,33.3%,201909150pit
+Bobby Wagner,WagnBo00,defense,SEA,0,6,4,66.7%,28,7,4.7,0,77.1,0.8,7,21,7,0,0,0,0,7,1,12.5%,201909150pit
+Mychal Kendricks,KendMy00,defense,SEA,0,4,4,100.0%,19,4.8,4.8,0,86.5,-2.8,-11,30,1,0,0,0,0,3,1,25.0%,201909150pit
+Bradley McDougald,McDoBr01,defense,SEA,1,5,2,40.0%,20,10,4,0,12.5,16.4,11,9,0,0,0,0,0,3,1,25.0%,201909150pit
+Branden Jackson,JackBr04,defense,SEA,0,1,1,100.0%,12,12,12,0,116.7,6,6,6,0,0,1,1,2,3,0,0.0%,201909150pit
+Lano Hill,HillDe02,defense,SEA,0,1,1,100.0%,45,45,45,0,118.7,43,43,2,1,1,0,0,1,3,1,25.0%,201909150pit
+Jadeveon Clowney,ClowJa00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201909150pit
+Quinton Jefferson,JeffQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201909150pit
+Jamar Taylor,TaylJa01,defense,SEA,0,3,0,0.0%,NA,NA,0,NA,39.6,28.3,NA,NA,1,0,0,0,0,1,0,0.0%,201909150pit
+Tre Flowers,FlowTr01,defense,SEA,0,4,0,0.0%,NA,NA,0,NA,39.6,6.8,NA,NA,0,0,0,0,0,2,0,0.0%,201909150pit
+Devin Bush Jr.,BushDe01,defense,PIT,0,7,7,100.0%,70,10,10,2,147.9,5.4,38,32,4,1,0,0,1,7,2,22.2%,201909150pit
+Mark Barron,BarrMa00,defense,PIT,0,6,6,100.0%,65,10.8,10.8,0,111.8,2.5,15,50,6,0,0,0.5,1,6,0,0.0%,201909150pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,7,6,85.7%,79,13.2,11.3,1,153.3,12,51,28,0,0,0,0,0,11,1,8.3%,201909150pit
+Sean Davis,DaviSe00,defense,PIT,0,6,5,83.3%,65,13,10.8,2,151.4,14.3,53,12,0,0,0,0,0,5,1,16.7%,201909150pit
+Steven Nelson,NelsSt01,defense,PIT,0,10,5,50.0%,45,9,4.5,0,62.5,9,21,24,0,0,0,0,0,7,0,0.0%,201909150pit
+Cameron Sutton,SuttCa00,defense,PIT,0,3,3,100.0%,9,3,3,0,79.2,1.3,4,5,0,0,0,0,0,3,0,0.0%,201909150pit
+Joe Haden,HadeJo99,defense,PIT,0,3,3,100.0%,28,9.3,9.3,0,105.6,5,15,13,0,0,0,0,0,4,0,0.0%,201909150pit
+Vince Williams,WillVi01,defense,PIT,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,0,0,0,0,0,2,0,0.0%,201909150pit
+Stephon Tuitt,TuitSt00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2.5,3,4,0,0.0%,201909150pit
+Bud Dupree,DuprAl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,2,0,2,4,0,0.0%,201909150pit
+T.J. Watt,WattT.00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,1,0,1,2,6,0,0.0%,201909150pit
+Mike Hilton,HiltMi01,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,0,0,1,4,0,0.0%,201909150pit

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,WAS,19,68,4,46,2.4,22,1.2,2,9.5,201811110tam
+Kapri Bibbs,BibbKa00,rushing,WAS,3,28,2,28,9.3,0,0,0,NA,201811110tam
+Alex Smith,SmitAl03,rushing,WAS,2,16,0,16,8,0,0,0,NA,201811110tam
+Maurice Harris,HarrMa05,rushing,WAS,1,4,0,4,4,0,0,0,NA,201811110tam
+Peyton Barber,BarbPe01,rushing,TAM,13,61,4,32,2.5,29,2.2,4,3.3,201811110tam
+Ryan Fitzpatrick,FitzRy00,rushing,TAM,8,35,2,34,4.3,1,0.1,0,NA,201811110tam
+Shaun Wilson,WilsSh01,rushing,TAM,2,7,NA,7,3.5,0,0,0,NA,201811110tam
+Jacquizz Rodgers,RodgJa00,rushing,TAM,1,0,0,0,0,0,0,0,NA,201811110tam

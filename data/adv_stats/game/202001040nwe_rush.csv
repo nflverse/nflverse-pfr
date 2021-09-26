@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,34,182,11,58,1.7,124,3.6,7,4.9,202001040nwe
+Ryan Tannehill,TannRy00,rushing,TEN,4,11,2,8,2,3,0.8,0,NA,202001040nwe
+Dion Lewis,LewiDi00,rushing,TEN,2,8,0,4,2,4,2,0,NA,202001040nwe
+Sony Michel,MichSo00,rushing,NWE,14,61,3,41,2.9,20,1.4,0,NA,202001040nwe
+Rex Burkhead,BurkRe00,rushing,NWE,3,4,0,1,0.3,3,1,0,NA,202001040nwe
+Julian Edelman,EdelJu00,rushing,NWE,2,12,2,11,5.5,1,0.5,0,NA,202001040nwe
+N'Keal Harry,HarrNK00,rushing,NWE,1,7,0,4,4,3,3,0,NA,202001040nwe
+Elandon Roberts,RobeEl00,rushing,NWE,1,0,NA,0,0,0,0,0,NA,202001040nwe
+James White,WhitJa02,rushing,NWE,1,14,1,11,11,3,3,0,NA,202001040nwe

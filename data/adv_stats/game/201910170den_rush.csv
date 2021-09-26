@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+LeSean McCoy,McCoLe01,rushing,KAN,12,64,2,52,4.3,12,1,1,12,201910170den
+Damien Williams,WillDa05,rushing,KAN,9,7,NA,5,0.6,2,0.2,0,NA,201910170den
+Anthony Sherman,SherAn00,rushing,KAN,2,7,2,7,3.5,0,0,0,NA,201910170den
+Darrel Williams,WillDa10,rushing,KAN,2,1,NA,-2,-1,3,1.5,1,2,201910170den
+Patrick Mahomes,MahoPa00,rushing,KAN,1,2,1,2,2,0,0,0,NA,201910170den
+Matt Moore,MoorMa01,rushing,KAN,1,-1,0,-1,-1,0,0,0,NA,201910170den
+Phillip Lindsay,LindPh00,rushing,DEN,11,36,2,36,3.3,0,0,0,NA,201910170den
+Royce Freeman,FreeRo00,rushing,DEN,10,35,2,31,3.1,4,0.4,0,NA,201910170den

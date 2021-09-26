@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Dont'a Hightower,HighDo01,defense,NWE,0,6,6,100.0%,47,7.8,7.8,0,99.3,2.2,13,34,4,0,0,0,0,13,0,0.0%,201911030rav
+Stephon Gilmore,GilmSt00,defense,NWE,0,3,3,100.0%,48,16,16,0,118.7,3,9,39,0,0,0,0,0,1,0,0.0%,201911030rav
+Patrick Chung,ChunPa99,defense,NWE,0,2,2,100.0%,10,5,5,0,87.5,3,6,4,1,0,0,0,0,3,0,0.0%,201911030rav
+Devin McCourty,McCoDe99,defense,NWE,0,4,2,50.0%,13,6.5,3.3,1,96.9,12.5,1,12,2,0,0,0,0,7,0,0.0%,201911030rav
+Jason McCourty,McCoJa99,defense,NWE,0,4,2,50.0%,9,4.5,2.3,0,56.2,4,7,2,0,0,0,0,0,3,0,0.0%,201911030rav
+Elandon Roberts,RobeEl00,defense,NWE,0,1,1,100.0%,18,18,18,0,118.7,0,0,18,2,0,0,0,0,4,1,20.0%,201911030rav
+Terrence Brooks,BrooTe00,defense,NWE,0,1,1,100.0%,18,18,18,0,118.7,16,16,2,1,0,0,0,0,2,0,0.0%,201911030rav
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,201911030rav
+John Simon,SimoJo01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,201911030rav
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,2,0,0.0%,201911030rav
+Jonathan Jones,JoneJo03,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,0,0,0,0,1,0,0.0%,201911030rav
+Jamie Collins,CollJa00,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,8,0,0,0,0,4,0,0.0%,201911030rav
+Shilique Calhoun,CalhSh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201911030rav
+Byron Cowart,CowaBy00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201911030rav
+J.C. Jackson,JackJ.00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201911030rav
+Kyle Van Noy,VanNKy00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0,0,6,1,14.3%,201911030rav
+Marcus Peters,PeteMa00,defense,BAL,0,12,8,66.7%,86,10.8,7.2,0,87.5,9.2,48,38,0,0,0,0,0,8,0,0.0%,201911030rav
+Marlon Humphrey,HumpMa00,defense,BAL,0,5,5,100.0%,50,10,10,0,108.3,3.6,18,32,3,0,0,0,0,6,1,14.3%,201911030rav
+Chuck Clark,ClarCh00,defense,BAL,0,3,3,100.0%,18,6,6,0,91.7,3,9,9,12,0,0,0,0,5,0,0.0%,201911030rav
+Brandon Carr,CarrBr99,defense,BAL,0,3,3,100.0%,8,2.7,2.7,1,118.7,-0.3,-1,9,0,0,0,0,0,5,1,16.7%,201911030rav
+Anthony Averett,AverAn00,defense,BAL,0,3,2,66.7%,7,3.5,2.3,0,70.1,10,7,0,0,0,0,0,0,2,0,0.0%,201911030rav
+L.J. Fort,FortL.00,defense,BAL,0,2,2,100.0%,31,15.5,15.5,0,118.7,2,4,27,1,0,0,0,0,3,0,0.0%,201911030rav
+Matt Judon,JudoMa00,defense,BAL,0,3,2,66.7%,12,6,4,0,74.3,12,11,1,11,0,0,0,0,0,0,NA,201911030rav
+Jimmy Smith,SmitJi03,defense,BAL,0,3,2,66.7%,9,4.5,3,0,70.1,2,7,2,0,0,0,0,0,3,0,0.0%,201911030rav
+Patrick Onwuasor,OnwuPa00,defense,BAL,0,2,1,50.0%,18,18,9,0,81.2,8,11,7,4,0,0,1,1,8,0,0.0%,201911030rav
+Earl Thomas,ThomEa99,defense,BAL,1,2,1,50.0%,30,30,15,0,56.2,36.5,28,2,5,0,0,0,0,3,1,25.0%,201911030rav
+Josh Bynes,ByneJo00,defense,BAL,0,2,1,50.0%,10,10,5,0,64.6,2.5,3,7,4,0,0,0,0,2,0,0.0%,201911030rav
+Anthony Levine,LeviAn00,defense,BAL,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,0,0,0,0,0,1,0,0.0%,201911030rav
+Jihad Ward,WardJi02,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201911030rav
+Jaylon Ferguson,FergJa02,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,0,0,1,2,0,0.0%,201911030rav
+Tyus Bowser,BowsTy00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,0,0,0,1,0,0.0%,201911030rav

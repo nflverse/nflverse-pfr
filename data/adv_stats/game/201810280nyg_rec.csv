@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jordan Reed,ReedJo02,receiving,WAS,12,7,38,0,3,13,1.9,25,3.6,5.9,0,NA,1,8.3,0,63.9,201810280nyg
+Josh Doctson,DoctJo00,receiving,WAS,5,5,49,0,3,35,7,14,2.8,7,0,NA,0,0,0,107.5,201810280nyg
+Maurice Harris,HarrMa05,receiving,WAS,2,2,20,0,1,6,3,14,7,3,0,NA,0,0,0,108.3,201810280nyg
+Paul Richardson,RichPa01,receiving,WAS,5,2,34,0,1,27,13.5,7,3.5,18.8,0,NA,0,0,0,63.7,201810280nyg
+Chris Thompson,ThomCh03,receiving,WAS,3,2,9,0,0,1,0.5,8,4,1.3,0,NA,0,0,0,70.1,201810280nyg
+Vernon Davis,DaviVe00,receiving,WAS,3,1,21,0,1,1,1,20,20,2.3,0,NA,1,33.3,0,59,201810280nyg
+Adrian Peterson,PeteAd01,receiving,WAS,1,1,7,1,1,2,2,5,5,2,1,1,0,0,0,135.4,201810280nyg
+Saquon Barkley,BarkSa00,receiving,NYG,10,9,73,0,3,13,1.4,60,6.7,1.6,0,NA,0,0,0,97.1,201810280nyg
+Odell Beckham Jr.,BeckOd00,receiving,NYG,11,8,136,0,6,96,12,40,5,11.8,0,NA,0,0,1,76.3,201810280nyg
+Evan Engram,EngrEv00,receiving,NYG,9,5,25,1,1,7,1.4,18,3.6,2.4,0,NA,2,22.2,0,97.9,201810280nyg
+Bennie Fowler,FowlBe00,receiving,NYG,7,4,48,0,2,25,6.3,23,5.8,11,1,4,1,14.3,1,38.7,201810280nyg
+Sterling Shepard,ShepSt00,receiving,NYG,8,4,34,0,3,19,4.8,15,3.8,11.6,1,4,0,0,0,61.5,201810280nyg
+Rhett Ellison,ElliRh00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,201810280nyg

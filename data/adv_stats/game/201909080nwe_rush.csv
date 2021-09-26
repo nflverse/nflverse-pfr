@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,PIT,10,21,1,15,1.5,6,0.6,0,NA,201909080nwe
+Jaylen Samuels,SamuJa00,rushing,PIT,2,4,NA,1,0.5,3,1.5,0,NA,201909080nwe
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,7,0,7,7,0,0,0,NA,201909080nwe
+Sony Michel,MichSo00,rushing,NWE,15,14,3,7,0.5,7,0.5,0,NA,201909080nwe
+Rex Burkhead,BurkRe00,rushing,NWE,8,44,3,32,4,12,1.5,0,NA,201909080nwe
+James White,WhitJa02,rushing,NWE,4,26,1,22,5.5,4,1,0,NA,201909080nwe
+Brandon Bolden,BoldBr00,rushing,NWE,1,7,NA,7,7,0,0,0,NA,201909080nwe
+Julian Edelman,EdelJu00,rushing,NWE,1,8,1,5,5,3,3,0,NA,201909080nwe

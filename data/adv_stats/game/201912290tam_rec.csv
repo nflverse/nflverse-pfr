@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Russell Gage,GageRu00,receiving,ATL,13,7,68,0,6,42,6,26,3.7,7.5,0,NA,0,0,0,68.7,201912290tam
+Austin Hooper,HoopAu00,receiving,ATL,9,7,45,0,3,32,4.6,13,1.9,4,0,NA,0,0,0,87.5,201912290tam
+Julio Jones,JoneJu02,receiving,ATL,13,7,78,0,5,56,8,22,3.1,8.2,1,7,0,0,0,72,201912290tam
+Justin Hardy,HardJu00,receiving,ATL,3,3,40,0,2,24,8,16,5.3,8,0,NA,0,0,0,118.7,201912290tam
+Devonta Freeman,FreeDe00,receiving,ATL,4,2,15,0,1,8,4,7,3.5,2,0,NA,0,0,0,59.4,201912290tam
+Olamide Zaccheaus,ZaccOl01,receiving,ATL,2,2,22,0,1,12,6,10,5,6,0,NA,0,0,0,112.5,201912290tam
+Ty Sambrailo,SambTy00,receiving,ATL,1,1,35,1,1,15,15,20,20,15,0,NA,0,0,0,158.3,201912290tam
+Luke Stocker,StocLu00,receiving,ATL,1,1,10,0,1,4,4,6,6,4,0,NA,0,0,0,108.3,201912290tam
+Christian Blake,BlakCh00,receiving,ATL,2,0,0,0,NA,0,NA,0,NA,2.5,0,NA,0,0,0,39.6,201912290tam
+Breshad Perriman,PerrBr02,receiving,TAM,8,5,134,1,5,117,23.4,17,3.4,24.5,0,NA,0,0,0,145.8,201912290tam
+Peyton Barber,BarbPe01,receiving,TAM,4,2,25,0,1,-2,-1,27,13.5,0.5,0,NA,0,0,0,69.8,201912290tam
+Ronald Jones II,JoneRo01,receiving,TAM,2,2,10,0,0,-6,-3,16,8,-3,0,NA,0,0,0,87.5,201912290tam
+Justin Watson,WatsJu01,receiving,TAM,4,2,27,0,1,24,12,3,1.5,12.3,0,NA,1,25,1,32.3,201912290tam
+Cameron Brate,BratCa00,receiving,TAM,3,1,2,1,1,1,1,1,1,3.3,0,NA,0,0,1,42.4,201912290tam
+Cyril Grayson,GrayCy01,receiving,TAM,1,1,3,0,NA,2,2,1,1,2,0,NA,0,0,0,79.2,201912290tam
+Tanner Hudson,HudsTa00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,201912290tam

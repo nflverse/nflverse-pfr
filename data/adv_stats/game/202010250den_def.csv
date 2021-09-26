@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Damien Wilson,WilsDa02,defense,KAN,0,8,6,75.0%,61,10.2,7.6,0,96.4,2.3,13,48,4,0,0,0,0,8,1,11.1%,202010250den
+Charvarius Ward,WardCh01,defense,KAN,0,6,5,83.3%,50,10,8.3,0,101.4,8.3,3,47,1,0,0,1,1,9,1,10.0%,202010250den
+Daniel Sorensen,SoreDa01,defense,KAN,1,6,4,66.7%,67,16.8,11.2,0,64.6,8.8,48,19,1,0,0,0,0,9,0,0.0%,202010250den
+Rashad Fenton,FentRa00,defense,KAN,0,5,3,60.0%,22,7.3,4.4,0,70.4,5.6,6,16,2,0,0,0,0,2,0,0.0%,202010250den
+Tyrann Mathieu,MathTy00,defense,KAN,1,5,3,60.0%,23,7.7,4.6,0,31.7,8.2,14,9,0,0,0,0,0,5,2,28.6%,202010250den
+Anthony Hitchens,HitcAn00,defense,KAN,0,2,1,50.0%,5,5,2.5,0,56.2,8.5,5,0,1,0,1,0,1,4,1,20.0%,202010250den
+Tedric Thompson,ThomTe00,defense,KAN,0,1,1,100.0%,5,5,5,0,87.5,-9,-9,14,1,0,0,0,0,1,1,50.0%,202010250den
+Bashaud Breeland,BreeBa00,defense,KAN,0,2,1,50.0%,13,13,6.5,0,70.8,12.5,6,7,0,0,0,0,0,3,0,0.0%,202010250den
+Willie Gay Jr.,GayJWi00,defense,KAN,0,2,1,50.0%,8,8,4,0,60.4,4,4,4,1,0,0,0,0,4,0,0.0%,202010250den
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,1,4,3,1,25.0%,202010250den
+Tanoh Kpassagnon,KpasTa00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,2,2,50.0%,202010250den
+Demone Harris,HarrDe06,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202010250den
+Tershawn Wharton,WharTe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202010250den
+Ben Niemann,NiemBe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0,0,2,0,0.0%,202010250den
+Antonio Hamilton,HamiAn01,defense,KAN,0,1,0,0.0%,NA,NA,0,NA,39.6,11,NA,NA,0,0,0,0,0,1,0,0.0%,202010250den
+Juan Thornhill,ThorJu00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202010250den
+Alexander Johnson,JohnAl01,defense,DEN,0,4,3,75.0%,33,11,8.3,0,99,4.3,6,27,5,0,1,0,1,9,2,18.2%,202010250den
+Josey Jewell,JeweJo00,defense,DEN,0,4,3,75.0%,37,12.3,9.3,0,103.1,3.3,13,24,1,0,0,0,0,3,0,0.0%,202010250den
+Malik Reed,ReedMa01,defense,DEN,0,2,2,100.0%,14,7,7,0,95.8,-0.5,-1,15,8,0,0,2,2,5,0,0.0%,202010250den
+Bryce Callahan,CallBr00,defense,DEN,0,5,2,40.0%,26,13,5.2,0,57.1,18,23,3,0,0,0,0,0,5,1,16.7%,202010250den
+A.J. Bouye,BouyA.00,defense,DEN,0,2,2,100.0%,22,11,11,0,112.5,3,6,16,0,0,0,0,0,3,0,0.0%,202010250den
+Michael Ojemudia,OjemMi00,defense,DEN,0,2,2,100.0%,42,21,21,0,118.7,15,30,12,0,0,0,0,0,2,1,33.3%,202010250den
+DeMarcus Walker,WalkDe03,defense,DEN,0,1,1,100.0%,22,22,22,0,118.7,8,8,14,0,0,0,0,0,2,0,0.0%,202010250den
+Justin Simmons,SimmJu00,defense,DEN,0,2,1,50.0%,10,10,5,1,104.2,4.5,0,10,0,0,0,0,0,4,1,20.0%,202010250den
+Kareem Jackson,JackKa99,defense,DEN,0,2,1,50.0%,7,7,3.5,0,58.3,-3,-3,10,0,0,0,0,0,2,1,33.3%,202010250den
+Shelby Harris,HarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,202010250den
+Bradley Chubb,ChubBr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,1,1,2,2,2,50.0%,202010250den
+Dre'Mont Jones,JoneDr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202010250den
+Anthony Chickillo,ChicAn00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,2,0,0.0%,202010250den

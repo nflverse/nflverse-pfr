@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Aqib Talib,TaliAq99,defense,LAR,0,6,6,100.0%,40,6.7,6.7,0,94.4,1.3,8,32,0,0,0,0,0,5,1,16.7%,201812090chi
+Marcus Peters,PeteMa00,defense,LAR,1,8,4,50.0%,33,8.3,4.1,0,21.4,10.5,25,8,0,0,0,0,0,3,0,0.0%,201812090chi
+Lamarcus Joyner,JoynLa00,defense,LAR,0,2,2,100.0%,16,8,8,0,100,5,10,6,1,0,0,0,0,7,0,0.0%,201812090chi
+John Johnson,JohnJo10,defense,LAR,1,3,2,66.7%,7,3.5,2.3,1,70.1,3.3,7,0,3,0,0,0,0,6,0,0.0%,201812090chi
+Nickell Robey-Coleman,RobeNi00,defense,LAR,1,4,1,25.0%,8,8,2,0,0,10.5,3,5,0,0,0,0,0,3,0,0.0%,201812090chi
+Cory Littleton,LittCo01,defense,LAR,0,1,1,100.0%,6,6,6,0,91.7,6,6,0,6,0,0,0,0,7,1,12.5%,201812090chi
+Dante Fowler,FowlDa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3,0,0,3,2,1,33.3%,201812090chi
+Samson Ebukam,EbukSa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,2,0,0.0%,201812090chi
+John Franklin-Myers,FranJo02,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201812090chi
+Aaron Donald,DonaAa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,2,50.0%,201812090chi
+Mark Barron,BarrMa00,defense,LAR,0,3,0,0.0%,NA,NA,0,NA,39.6,13.3,NA,NA,2,0,0,0,0,3,1,25.0%,201812090chi
+Marqui Christian,ChriMa00,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,15,NA,NA,0,0,0,0,0,1,0,0.0%,201812090chi
+Danny Trevathan,TrevDa00,defense,CHI,0,4,3,75.0%,36,12,9,0,102.1,4.8,18,18,4,1,0,0,1,3,0,0.0%,201812090chi
+Sherrick McManis,McMaSh99,defense,CHI,0,5,3,60.0%,18,6,3.6,0,67.1,4.4,17,1,3,0,0,0,0,7,0,0.0%,201812090chi
+Prince Amukamara,AmukPr00,defense,CHI,1,8,3,37.5%,23,7.7,2.9,0,6.2,18.4,23,0,0,0,0,0,0,6,0,0.0%,201812090chi
+Kyle Fuller,FullKy00,defense,CHI,1,9,3,33.3%,28,9.3,3.1,0,3.2,9,27,1,0,0,0,0,0,4,0,0.0%,201812090chi
+Bryce Callahan,CallBr00,defense,CHI,0,2,2,100.0%,8,4,4,0,83.3,-0.5,-1,9,0,0,0,0,0,2,0,0.0%,201812090chi
+Leonard Floyd,FloyLe00,defense,CHI,0,3,2,66.7%,16,8,5.3,0,79.9,3,3,13,7,0,0,0,0,2,1,33.3%,201812090chi
+Akiem Hicks,HickAk00,defense,CHI,0,1,1,100.0%,6,6,6,0,91.7,4,4,2,0,1,0,1,2,3,2,40.0%,201812090chi
+Khalil Mack,MackKh00,defense,CHI,0,2,1,50.0%,29,29,14.5,0,95.8,15,14,15,1,0,0,1,1,3,1,25.0%,201812090chi
+Adrian Amos,AmosAd00,defense,CHI,0,2,1,50.0%,7,7,3.5,0,58.3,8,6,1,0,0,0,0,0,2,0,0.0%,201812090chi
+Roquan Smith,SmitRo07,defense,CHI,1,3,1,33.3%,9,9,3,0,2.8,7.7,3,6,2,0,0,0,0,6,0,0.0%,201812090chi
+Benny Cunningham,CunnBe01,defense,CHI,0,1,1,100.0%,7,7,7,0,95.8,2,2,5,0,0,0,0,0,2,0,0.0%,201812090chi
+Eddie Goldman,GoldEd00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,1,0,0.0%,201812090chi
+Roy Robertson-Harris,RobeRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201812090chi
+Eddie Jackson,JackEd01,defense,CHI,1,4,0,0.0%,NA,NA,0,NA,0,18.8,NA,NA,1,0,0,0,0,1,0,0.0%,201812090chi

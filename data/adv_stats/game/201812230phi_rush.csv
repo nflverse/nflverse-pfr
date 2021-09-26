@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Deshaun Watson,WatsDe00,rushing,HOU,8,49,4,49,6.1,0,0,0,NA,201812230phi
+D'Onta Foreman,ForeDO00,rushing,HOU,7,-1,0,-1,-0.1,0,0,0,NA,201812230phi
+Alfred Blue,BlueAl00,rushing,HOU,4,14,NA,14,3.5,0,0,0,NA,201812230phi
+Josh Adams,AdamJo03,rushing,PHI,11,21,2,13,1.2,8,0.7,0,NA,201812230phi
+Darren Sproles,SproDa00,rushing,PHI,9,32,1,32,3.6,0,0,0,NA,201812230phi
+Nick Foles,FoleNi00,rushing,PHI,1,1,1,0,0,1,1,0,NA,201812230phi
+Wendell Smallwood,SmalWe00,rushing,PHI,1,3,NA,3,3,0,0,0,NA,201812230phi

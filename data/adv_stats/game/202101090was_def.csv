@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Carlton Davis,DaviCa02,defense,TAM,0,12,8,66.7%,119,14.9,9.9,0,99,11.7,102,17,0,0,0,0,0,9,1,10.0%,202101090was
+Lavonte David,DaviLa00,defense,TAM,0,8,6,75.0%,51,8.5,6.4,0,91.1,3.5,23,28,5,0,0,1,1,9,0,0.0%,202101090was
+Jamel Dean,DeanJa00,defense,TAM,0,7,5,71.4%,58,11.6,8.3,0,96.1,9.3,49,9,0,0,0,0,0,7,0,0.0%,202101090was
+Sean Murphy-Bunting,BuntSe00,defense,TAM,1,4,3,75.0%,47,15.7,11.8,1,113.5,10.8,28,19,3,0,0,0,0,2,1,33.3%,202101090was
+Kevin Minter,MintKe00,defense,TAM,0,4,2,50.0%,7,3.5,1.8,0,56.2,3.3,-1,8,6,2,0,0,2,6,2,25.0%,202101090was
+Mike Edwards,EdwaMi01,defense,TAM,0,4,2,50.0%,24,12,6,0,68.7,12,14,10,0,0,0,0,0,4,0,0.0%,202101090was
+Jason Pierre-Paul,PierJa99,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,13,1,1,0,2,3,0,0.0%,202101090was
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,1,1,1,0,0.0%,202101090was
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202101090was
+Rakeem Nunez-Roches,NuneRa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202101090was
+Shaquil Barrett,BarrSh00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,1,0,0,1,2,0,0.0%,202101090was
+Jordan Whitehead,WhitJo03,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,35,NA,NA,3,1,0,0,1,0,1,100.0%,202101090was
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202101090was
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,6,0,0.0%,202101090was
+Ross Cockrell,CockRo00,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,15,NA,NA,1,0,0,0,0,0,0,NA,202101090was
+Jonathan Bostic,BostJo00,defense,WAS,0,7,6,85.7%,101,16.8,14.4,0,118.7,6.6,41,60,5,0,0,0,0,7,0,0.0%,202101090was
+Ronald Darby,DarbRo00,defense,WAS,0,12,6,50.0%,98,16.3,8.2,1,105.6,13.9,91,7,0,0,0,0,0,5,0,0.0%,202101090was
+Jimmy Moreland,MoreJi00,defense,WAS,0,5,4,80.0%,79,19.8,15.8,1,158.3,12.4,60,19,1,0,0,0,0,3,0,0.0%,202101090was
+Kendall Fuller,FullKe00,defense,WAS,0,6,4,66.7%,80,20,13.3,0,109.7,18.2,65,15,0,0,0,0,0,3,0,0.0%,202101090was
+Kamren Curl,CurlKa00,defense,WAS,0,2,2,100.0%,19,9.5,9.5,0,106.2,5,10,9,2,0,0,0,0,7,1,12.5%,202101090was
+Cole Holcomb,HolcCo00,defense,WAS,0,4,1,25.0%,4,4,1,0,39.6,8.8,-5,9,7,1,0,0,1,7,0,0.0%,202101090was
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,2,3,5,0,0.0%,202101090was
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,1,0,0.0%,202101090was
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,4,0,0.0%,202101090was
+Fabian Moreau,MoreFa00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,3,0,0,0,0,0,0,NA,202101090was
+Mychal Kendricks,KendMy00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,3,0,0,0,0,6,0,0.0%,202101090was

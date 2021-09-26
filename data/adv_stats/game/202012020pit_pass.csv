@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Robert Griffin III,GrifRo01,passing,BAL,7,12,33,0,0,81,6.8,3,0.4,0.3,30,4.3,0,0.0%,4,33.3%,3,6,0,2,5,33.3%,0,NA,202012020pit
+Trace McSorley,McSoTr00,passing,BAL,2,6,77,1,16.7,55,9.2,24,12,4,53,26.5,0,0.0%,3,50.0%,0,2,2,0,2,28.6%,1,9,202012020pit
+Ben Roethlisberger,RoetBe00,passing,PIT,36,51,266,16,31.4,241,4.7,131,3.6,2.6,135,3.8,4,7.8%,5,9.8%,0,18,4,6,10,19.6%,0,NA,202012020pit

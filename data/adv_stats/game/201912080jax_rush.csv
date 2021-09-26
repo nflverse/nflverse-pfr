@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,LAC,12,55,4,25,2.1,30,2.5,0,NA,201912080jax
+Austin Ekeler,EkelAu00,rushing,LAC,8,101,4,38,4.8,63,7.9,2,4,201912080jax
+Tyrod Taylor,TaylTy00,rushing,LAC,4,10,1,9,2.3,1,0.3,0,NA,201912080jax
+Justin Jackson,JackJu01,rushing,LAC,3,25,2,18,6,7,2.3,0,NA,201912080jax
+Derek Watt,WattDe00,rushing,LAC,2,4,2,1,0.5,3,1.5,0,NA,201912080jax
+Philip Rivers,RivePh00,rushing,LAC,1,0,0,0,0,0,0,0,NA,201912080jax
+Leonard Fournette,FourLe00,rushing,JAX,15,50,4,14,0.9,36,2.4,1,15,201912080jax
+Gardner Minshew II,MinsGa00,rushing,JAX,6,31,2,17,2.8,14,2.3,0,NA,201912080jax
+Ryquell Armstead,ArmsRy00,rushing,JAX,2,7,NA,0,0,7,3.5,0,NA,201912080jax

@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Hayden Hurst,HursHa00,receiving,ATL,6,5,47,1,3,37,7.4,10,2,5.8,0,NA,0,0,0,138.9,202012270kan
+Calvin Ridley,RidlCa00,receiving,ATL,9,5,130,0,4,64,12.8,66,13.2,15,0,NA,0,0,0,100.5,202012270kan
+Russell Gage,GageRu00,receiving,ATL,5,4,23,0,3,2,0.5,21,5.3,1.4,0,NA,0,0,0,85.8,202012270kan
+Todd Gurley,GurlTo01,receiving,ATL,3,3,34,0,2,26,8.7,8,2.7,8.7,0,NA,0,0,0,113.9,202012270kan
+Brian Hill,HillBr02,receiving,ATL,3,3,25,0,1,2,0.7,23,7.7,0.7,0,NA,0,0,0,101.4,202012270kan
+Laquon Treadwell,TreaLa00,receiving,ATL,2,2,11,1,1,10,5,1,0.5,5,0,NA,0,0,0,129.2,202012270kan
+Keith Smith,SmitKe03,receiving,ATL,2,2,14,0,2,7,3.5,7,3.5,3.5,0,NA,0,0,0,95.8,202012270kan
+Brandon Powell,PoweBr00,receiving,ATL,2,1,2,0,NA,1,1,1,1,2.5,0,NA,0,0,0,56.2,202012270kan
+Luke Stocker,StocLu00,receiving,ATL,1,1,9,0,1,1,1,8,8,1,0,NA,0,0,0,104.2,202012270kan
+Ito Smith,SmitIt00,receiving,ATL,1,1,5,0,0,0,0,5,5,0,0,NA,0,0,0,87.5,202012270kan
+Travis Kelce,KelcTr00,receiving,KAN,13,7,98,1,7,58,8.3,40,5.7,8.4,1,7,0,0,1,72,202012270kan
+Tyreek Hill,HillTy00,receiving,KAN,6,4,65,0,3,11,2.8,54,13.5,13.3,0,NA,0,0,0,102.8,202012270kan
+Darrel Williams,WillDa10,receiving,KAN,6,4,27,0,0,-14,-3.5,41,10.3,-0.8,0,NA,1,16.7,0,76.4,202012270kan
+Mecole Hardman,HardMe00,receiving,KAN,6,3,24,0,1,16,5.3,8,2.7,8.3,0,NA,1,16.7,0,60.4,202012270kan
+Demarcus Robinson,RobiDe01,receiving,KAN,2,2,29,1,1,29,14.5,0,0,14.5,0,NA,0,0,0,158.3,202012270kan
+Sammy Watkins,WatkSa00,receiving,KAN,4,2,14,0,1,8,4,6,3,4,0,NA,0,0,0,58.3,202012270kan
+Le'Veon Bell,BellLe00,receiving,KAN,3,1,9,0,0,-4,-4,13,13,1.3,0,NA,0,0,0,42.4,202012270kan
+Deon Yelder,YeldDe00,receiving,KAN,1,1,12,0,1,4,4,8,8,4,0,NA,0,0,0,116.7,202012270kan
+Patrick Mahomes,MahoPa00,receiving,KAN,1,0,0,0,0,0,NA,0,NA,24,0,NA,0,0,1,0,202012270kan

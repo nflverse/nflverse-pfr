@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Allen Robinson,RobiAl02,receiving,CHI,13,8,74,2,6,52,6.5,22,2.8,5.9,1,8,0,0,0,116.7,202011290gnb
+David Montgomery,MontDa01,receiving,CHI,6,5,40,1,3,3,0.6,37,7.4,1.2,1,5,1,16.7,0,134,202011290gnb
+Jimmy Graham,GrahJi00,receiving,CHI,4,3,32,0,3,25,8.3,7,2.3,10.8,0,NA,0,0,0,97.9,202011290gnb
+Anthony Miller,MillAn02,receiving,CHI,6,3,28,0,2,25,8.3,3,1,11.5,0,NA,0,0,1,23.6,202011290gnb
+Darnell Mooney,MoonDa00,receiving,CHI,9,3,34,0,2,28,9.3,6,2,15.3,1,3,0,0,1,6,202011290gnb
+Riley Ridley,RidlRi00,receiving,CHI,2,2,16,0,2,11,5.5,5,2.5,5.5,0,NA,0,0,0,100,202011290gnb
+Cole Kmet,KmetCo00,receiving,CHI,3,1,8,0,NA,-1,-1,9,9,10,0,NA,0,0,0,42.4,202011290gnb
+Ryan Nall,NallRy00,receiving,CHI,1,1,10,0,1,5,5,5,5,5,0,NA,0,0,0,108.3,202011290gnb
+Davante Adams,AdamDa01,receiving,GNB,9,6,61,1,4,27,4.5,34,5.7,12.9,0,NA,0,0,0,122.9,202011290gnb
+Robert Tonyan,TonyRo00,receiving,GNB,5,5,67,1,3,41,8.2,26,5.2,8.2,0,NA,0,0,0,158.3,202011290gnb
+Allen Lazard,LazaAl00,receiving,GNB,6,4,23,1,2,4,1,19,4.8,9.3,0,NA,0,0,0,113.2,202011290gnb
+Marcedes Lewis,LewiMa00,receiving,GNB,4,2,16,1,2,3,1.5,13,6.5,4.3,0,NA,2,50,0,100,202011290gnb
+Equanimeous St. Brown,St.BEq00,receiving,GNB,2,2,39,0,2,16,8,23,11.5,8,1,2,0,0,0,118.7,202011290gnb
+Aaron Jones,JoneAa00,receiving,GNB,2,1,0,0,0,-3,-3,3,3,-1.5,0,NA,0,0,0,56.2,202011290gnb
+Jace Sternberger,SterJa00,receiving,GNB,1,1,5,0,NA,1,1,4,4,1,0,NA,0,0,0,87.5,202011290gnb

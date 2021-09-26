@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ronald Jones II,JoneRo01,rushing,TAM,11,23,1,8,0.7,15,1.4,0,NA,201912150det
+Peyton Barber,BarbPe01,rushing,TAM,10,17,1,1,0.1,16,1.6,0,NA,201912150det
+Ryan Griffin,GrifRy01,rushing,TAM,4,-1,NA,-1,-0.3,0,0,0,NA,201912150det
+Jameis Winston,WinsJa00,rushing,TAM,2,4,2,1,0.5,3,1.5,0,NA,201912150det
+Dare Ogunbowale,OgunDa00,rushing,TAM,1,3,0,3,3,0,0,0,NA,201912150det
+Breshad Perriman,PerrBr02,rushing,TAM,1,3,0,2,2,1,1,0,NA,201912150det
+Wes Hills,HillWe00,rushing,DET,10,21,3,9,0.9,12,1.2,0,NA,201912150det
+David Blough,BlouDa00,rushing,DET,5,19,0,16,3.2,3,0.6,0,NA,201912150det
+Ty Johnson,JohnTy02,rushing,DET,2,3,NA,0,0,3,1.5,0,NA,201912150det
+J.D. McKissic,McKiJ.00,rushing,DET,1,2,1,-1,-1,3,3,0,NA,201912150det

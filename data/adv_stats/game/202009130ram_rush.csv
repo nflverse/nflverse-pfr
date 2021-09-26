@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,22,96,7,38,1.7,58,2.6,3,7.3,202009130ram
+Dak Prescott,PresDa01,rushing,DAL,3,30,2,16,5.3,14,4.7,1,3,202009130ram
+Tony Pollard,PollTo00,rushing,DAL,2,10,0,2,1,8,4,0,NA,202009130ram
+Malcolm Brown,BrowMa03,rushing,LAR,18,79,8,46,2.6,33,1.8,0,NA,202009130ram
+Cam Akers,AkerCa00,rushing,LAR,14,39,NA,14,1,25,1.8,1,14,202009130ram
+Jared Goff,GoffJa00,rushing,LAR,4,15,1,15,3.8,0,0,0,NA,202009130ram
+Darrell Henderson,HendDa00,rushing,LAR,3,6,1,2,0.7,4,1.3,0,NA,202009130ram
+Robert Woods,WoodRo02,rushing,LAR,1,14,1,10,10,4,4,0,NA,202009130ram

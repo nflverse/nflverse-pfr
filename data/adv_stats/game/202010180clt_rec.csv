@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+A.J. Green,GreeA.00,receiving,CIN,11,8,96,0,7,73,9.1,23,2.9,12.5,0,NA,0,0,0,99.1,202010180clt
+Tee Higgins,HiggTe00,receiving,CIN,8,6,125,0,4,67,11.2,58,9.7,10.3,0,NA,0,0,0,116.7,202010180clt
+Tyler Boyd,BoydTy00,receiving,CIN,8,5,54,0,2,39,7.8,15,3,10.6,0,NA,0,0,1,42.7,202010180clt
+Giovani Bernard,BernGi00,receiving,CIN,3,3,13,0,0,1,0.3,12,4,0.3,0,NA,0,0,0,84.7,202010180clt
+Joe Mixon,MixoJo00,receiving,CIN,3,2,15,0,0,-3,-1.5,18,9,-0.3,0,NA,1,33.3,0,78.5,202010180clt
+Mike Thomas,ThomMi04,receiving,CIN,3,1,10,0,1,6,6,4,4,7.3,0,NA,1,33.3,0,43.7,202010180clt
+Cethan Carter,CartCe00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,202010180clt
+Alex Erickson,EricAl01,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,202010180clt
+Drew Sample,SampDr00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202010180clt
+Nyheim Hines,HineNy00,receiving,IND,6,5,27,0,1,2,0.4,25,5,0.8,0,NA,0,0,0,85.4,202010180clt
+Marcus Johnson,JohnMa07,receiving,IND,8,5,108,0,4,88,17.6,20,4,18.5,0,NA,0,0,0,106.2,202010180clt
+Trey Burton,BurtTr01,receiving,IND,5,4,58,1,4,37,9.3,21,5.3,8,0,NA,0,0,0,154.6,202010180clt
+Zach Pascal,PascZa00,receiving,IND,7,4,54,1,2,44,11,10,2.5,13.3,0,NA,0,0,1,81.8,202010180clt
+Jonathan Taylor,TaylJo02,receiving,IND,4,4,55,0,3,-4,-1,59,14.8,-1,1,4,0,0,0,118.7,202010180clt
+Jack Doyle,DoylJa00,receiving,IND,3,3,29,1,2,24,8,5,1.7,8,0,NA,0,0,0,146.5,202010180clt
+De'Michael Harris,HarrDe11,receiving,IND,3,3,29,0,1,6,2,23,7.7,2,0,NA,0,0,0,106.9,202010180clt
+T.Y. Hilton,HiltT.00,receiving,IND,5,1,11,0,1,0,0,11,11,5.8,0,NA,1,20,0,39.6,202010180clt
+Jordan Wilkins,WilkJo01,receiving,IND,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,202010180clt

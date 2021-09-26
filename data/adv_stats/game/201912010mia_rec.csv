@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Alshon Jeffery,JeffAl00,receiving,PHI,16,9,137,1,9,123,13.7,14,1.6,16.7,0,NA,0,0,0,105.5,201912010mia
+Dallas Goedert,GoedDa00,receiving,PHI,7,6,66,0,5,17,2.8,49,8.2,3.1,0,NA,0,0,0,106,201912010mia
+Miles Sanders,SandMi01,receiving,PHI,5,5,22,1,1,9,1.8,13,2.6,1.8,0,NA,0,0,0,124.6,201912010mia
+Nelson Agholor,AghoNe00,receiving,PHI,6,3,41,0,2,33,11,8,2.7,8.5,1,3,0,0,0,72.2,201912010mia
+Zach Ertz,ErtzZa00,receiving,PHI,6,3,24,0,1,7,2.3,17,5.7,8.8,0,NA,1,16.7,0,60.4,201912010mia
+JJ Arcega-Whiteside,ArceJJ00,receiving,PHI,2,1,15,1,1,15,15,0,0,18,0,NA,0,0,0,114.6,201912010mia
+Greg Ward,WardGr02,receiving,PHI,3,1,5,0,NA,3,3,2,2,6.3,0,NA,0,0,0,42.4,201912010mia
+DeVante Parker,ParkDe01,receiving,MIA,10,7,159,2,5,138,19.7,21,3,17.6,0,NA,0,0,1,112.5,201912010mia
+Mike Gesicki,GesiMi00,receiving,MIA,7,5,79,1,5,53,10.6,26,5.2,11.6,0,NA,0,0,0,148.2,201912010mia
+Albert Wilson,WilsAl02,receiving,MIA,5,5,32,0,3,23,4.6,9,1.8,4.6,0,NA,0,0,0,93.3,201912010mia
+Patrick Laird,LairPa00,receiving,MIA,5,4,43,0,3,-3,-0.8,46,11.5,-0.6,0,NA,0,0,0,102.5,201912010mia
+Allen Hurns,HurnAl01,receiving,MIA,4,3,33,0,2,25,8.3,8,2.7,6.5,0,NA,0,0,0,99,201912010mia
+Durham Smythe,SmytDu00,receiving,MIA,3,2,13,0,NA,8,4,5,2.5,4.7,0,NA,0,0,0,75.7,201912010mia
+Myles Gaskin,GaskMy00,receiving,MIA,1,1,6,0,0,6,6,0,0,6,0,NA,0,0,0,91.7,201912010mia
+Jason Sanders,SandJa00,receiving,MIA,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,201912010mia
+Isaiah Ford,FordIs00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,0,39.6,201912010mia
+Clive Walford,WalfCl00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,0,39.6,201912010mia
+Kalen Ballage,BallKa00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,201912010mia

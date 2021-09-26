@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Zach Zenner,ZennZa00,rushing,DET,21,93,5,37,1.8,56,2.7,1,21,201812300gnb
+LeGarrette Blount,BlouLe00,rushing,DET,11,15,NA,3,0.3,12,1.1,0,NA,201812300gnb
+Theo Riddick,RiddTh00,rushing,DET,4,24,2,9,2.3,15,3.8,0,NA,201812300gnb
+Matthew Stafford,StafMa00,rushing,DET,2,-2,0,-2,-1,0,0,0,NA,201812300gnb
+Jamaal Williams,WillJa06,rushing,GNB,8,4,NA,-4,-0.5,8,1,0,NA,201812300gnb
+DeShone Kizer,KizeDe00,rushing,GNB,4,40,3,19,4.8,21,5.3,1,4,201812300gnb
+Kapri Bibbs,BibbKa00,rushing,GNB,1,2,NA,0,0,2,2,0,NA,201812300gnb

@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Antonio Gibson,GibsAn00,rushing,WAS,19,75,3,49,2.6,26,1.4,2,9.5,202101030phi
+Peyton Barber,BarbPe01,rushing,WAS,4,10,2,7,1.8,3,0.8,0,NA,202101030phi
+J.D. McKissic,McKiJ.00,rushing,WAS,2,0,0,-2,-1,2,1,1,2,202101030phi
+Steven Sims,SimsSt00,rushing,WAS,1,18,1,1,1,17,17,0,NA,202101030phi
+Alex Smith,SmitAl03,rushing,WAS,1,0,0,0,0,0,0,0,NA,202101030phi
+Boston Scott,ScotBo02,rushing,PHI,15,65,2,47,3.1,18,1.2,0,NA,202101030phi
+Jalen Hurts,HurtJa00,rushing,PHI,8,34,4,30,3.8,4,0.5,1,8,202101030phi
+Jason Huntley,HuntJa01,rushing,PHI,2,5,NA,1,0.5,4,2,1,2,202101030phi
+Nate Sudfeld,SudfNa00,rushing,PHI,2,12,1,12,6,0,0,0,NA,202101030phi
+Corey Clement,ClemCo00,rushing,PHI,1,1,NA,1,1,0,0,0,NA,202101030phi
+John Hightower,HighJo00,rushing,PHI,1,1,NA,0,0,1,1,0,NA,202101030phi

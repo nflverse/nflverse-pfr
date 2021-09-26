@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,5,4,80.0%,32,8,6.4,0,93.3,2.2,11,21,4,0,0,0,0,5,4,44.4%,202109190phi
+Deommodore Lenoir,LenoDe00,defense,SFO,0,10,4,40.0%,111,27.8,11.1,0,81.7,19.5,51,60,0,0,0,0,0,5,1,16.7%,202109190phi
+Jimmie Ward,WardJi01,defense,SFO,0,2,1,50.0%,26,26,13,0,95.8,35,20,6,1,0,0,0,0,6,0,0.0%,202109190phi
+Fred Warner,WarnFr00,defense,SFO,0,2,1,50.0%,11,11,5.5,0,66.7,4,7,4,1,0,0,0,0,7,1,12.5%,202109190phi
+Marcell Harris,HarrMa03,defense,SFO,0,1,1,100.0%,10,10,10,0,108.3,-5,-5,15,0,0,0,0,0,1,0,0.0%,202109190phi
+Nick Bosa,BosaNi00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2,4,3,0,0.0%,202109190phi
+Arden Key,KeyxAr00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202109190phi
+Dee Ford,FordDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,0,0,NA,202109190phi
+Jaquiski Tartt,TartJa00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,53,NA,NA,0,0,0,0,0,7,1,12.5%,202109190phi
+K'Waun Williams,WillKW00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,1,0,0,0,0,2,0,0.0%,202109190phi
+Alex Singleton,SingAl00,defense,PHI,0,6,6,100.0%,32,5.3,5.3,0,88.9,1.2,7,25,0,0,0,0,0,11,3,21.4%,202109190phi
+Steven Nelson,NelsSt01,defense,PHI,0,6,4,66.7%,31,7.8,5.2,1,118.7,5.5,17,14,0,0,0,0,0,2,0,0.0%,202109190phi
+Eric Wilson,WilsEr00,defense,PHI,0,3,3,100.0%,53,17.7,17.7,0,118.7,2.3,7,46,1,0,0,0,0,10,0,0.0%,202109190phi
+Anthony Harris,HarrAn01,defense,PHI,0,5,2,40.0%,13,6.5,2.6,0,47.9,9.2,5,8,0,0,0,0,0,10,0,0.0%,202109190phi
+Marcus Epps,EppsMa00,defense,PHI,0,2,2,100.0%,32,16,16,0,118.7,13.5,27,5,0,0,0,0,0,3,1,25.0%,202109190phi
+Fletcher Cox,CoxxFl00,defense,PHI,0,1,1,100.0%,8,8,8,0,100,3,3,5,0,0,0,0,0,4,0,0.0%,202109190phi
+Darius Slay,SlayDa00,defense,PHI,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,0,0,0,0,0,3,0,0.0%,202109190phi
+Josh Sweat,SweaJo00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202109190phi
+Javon Hargrave,HargJa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,7,0,0.0%,202109190phi
+Brandon Graham,GrahBr99,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202109190phi
+Jalen Reagor,ReagJa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202109190phi
+Avonte Maddox,MaddAv00,defense,PHI,0,1,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,0,0,0,0,0,1,0,0.0%,202109190phi

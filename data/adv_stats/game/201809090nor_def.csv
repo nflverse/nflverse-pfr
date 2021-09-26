@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Lavonte David,DaviLa00,defense,TAM,0,9,9,100.0%,99,11,11,1,149.5,3,27,72,7,0,0,0,0,9,2,18.2%,201809090nor
+Kwon Alexander,AlexKw00,defense,TAM,0,7,7,100.0%,78,11.1,11.1,1,152.7,4.7,33,45,6,0,0,0,0,9,2,18.2%,201809090nor
+Carlton Davis,DaviCa02,defense,TAM,0,8,6,75.0%,98,16.3,12.3,1,155.2,13.3,69,29,0,0,0,0,0,4,1,20.0%,201809090nor
+Vernon Hargreaves III,HargVe00,defense,TAM,0,7,5,71.4%,59,11.8,8.4,0,96.7,8.7,46,13,1,0,0,0,0,7,0,0.0%,201809090nor
+Justin Evans,EvanJu01,defense,TAM,0,5,5,100.0%,56,11.2,11.2,0,113.3,10,50,6,0,0,0,0,0,5,1,16.7%,201809090nor
+M.J. Stewart,StewM.00,defense,TAM,0,4,4,100.0%,38,9.5,9.5,0,106.2,8.5,34,4,0,0,0,0,0,4,0,0.0%,201809090nor
+Ryan Smith,SmitRy00,defense,TAM,0,4,2,50.0%,22,11,5.5,1,106.2,9,22,0,0,0,0,0,0,4,1,20.0%,201809090nor
+Gerald McCoy,McCoGe99,defense,TAM,0,1,1,100.0%,-1,-1,-1,0,79.2,-3,-3,2,0,1,0,0,1,3,0,0.0%,201809090nor
+Chris Conte,ContCh00,defense,TAM,0,2,1,50.0%,32,32,16,0,95.8,14.5,29,3,0,0,0,0,0,7,0,0.0%,201809090nor
+Noah Spence,SpenNo00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201809090nor
+Vinny Curry,CurrVi00,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,1,1,1,0,0.0%,201809090nor
+Adarius Taylor,GlanAd00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201809090nor
+Ken Crawley,CrawKe02,defense,NOR,0,9,8,88.9%,136,17,15.1,2,158.3,17.4,121,15,0,0,0,0,0,5,0,0.0%,201809090nor
+Marshon Lattimore,LattMa01,defense,NOR,0,6,4,66.7%,115,28.8,19.2,1,149.3,14.2,79,36,0,0,0,0,0,3,1,25.0%,201809090nor
+Marcus Williams,WillMa06,defense,NOR,0,2,2,100.0%,68,34,34,1,158.3,23.5,47,21,0,0,0,0,0,6,1,14.3%,201809090nor
+Marcus Davenport,DaveMa00,defense,NOR,0,1,1,100.0%,4,4,4,0,83.3,-3,-3,7,1,0,1,0,1,1,0,0.0%,201809090nor
+Cameron Jordan,JordCa00,defense,NOR,0,1,1,100.0%,15,15,15,0,118.7,9,9,6,0,1,0,0,1,6,1,14.3%,201809090nor
+Vonn Bell,BellVo00,defense,NOR,0,3,1,33.3%,19,19,6.3,0,56.2,9.7,17,2,0,0,0,0,0,4,0,0.0%,201809090nor
+Demario Davis,DaviDe00,defense,NOR,0,1,1,100.0%,35,35,35,0,118.7,19,19,16,9,0,0,0,0,8,2,20.0%,201809090nor
+Patrick Robinson,RobiPa99,defense,NOR,0,2,1,50.0%,3,3,1.5,0,56.2,1.5,3,0,1,0,0,0,0,2,0,0.0%,201809090nor
+Kurt Coleman,ColeKu99,defense,NOR,0,1,1,100.0%,20,20,20,0,118.7,-3,-3,23,1,0,0,0,0,3,1,25.0%,201809090nor
+Alex Anzalone,AnzaAl00,defense,NOR,0,1,1,100.0%,15,15,15,0,118.7,9,9,6,5,0,0,0,0,4,0,0.0%,201809090nor
+Sheldon Rankins,RankSh00,defense,NOR,0,1,1,100.0%,2,2,2,0,79.2,-2,-2,4,0,0,0,0,0,3,0,0.0%,201809090nor
+Tyeler Davison,DaviTy01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,201809090nor
+A.J. Klein,KleiAJ00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201809090nor
+Alex Okafor,OkafAl00,defense,NOR,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,0,0,0,0,2,0,0.0%,201809090nor

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,33,170,10,54,1.6,116,3.5,2,16.5,201812160nyg
+Dion Lewis,LewiDi00,rushing,TEN,7,35,3,18,2.6,17,2.4,0,NA,201812160nyg
+Blaine Gabbert,GabbBl00,rushing,TEN,3,-1,NA,-1,-0.3,0,0,0,NA,201812160nyg
+Marcus Mariota,MariMa01,rushing,TEN,2,11,1,9,4.5,2,1,0,NA,201812160nyg
+Saquon Barkley,BarkSa00,rushing,NYG,14,31,1,2,0.1,29,2.1,0,NA,201812160nyg
+Riley Dixon,DixoRi00,rushing,NYG,1,14,1,14,14,0,0,0,NA,201812160nyg
+Elijhaa Penny,PennEl00,rushing,NYG,1,2,NA,2,2,0,0,0,NA,201812160nyg

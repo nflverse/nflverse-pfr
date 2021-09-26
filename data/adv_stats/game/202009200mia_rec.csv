@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Stefon Diggs,DiggSt00,receiving,BUF,13,8,153,1,5,115,14.4,38,4.8,11.7,2,4,2,15.4,0,128,202009200mia
+Cole Beasley,BeasCo00,receiving,BUF,6,5,70,0,4,44,8.8,26,5.2,7.7,0,NA,0,0,0,115.3,202009200mia
+John Brown,BrowJo02,receiving,BUF,6,4,82,1,2,77,19.3,5,1.3,19.8,0,NA,0,0,0,149.3,202009200mia
+Devin Singletary,SingDe00,receiving,BUF,3,2,20,0,1,-1,-0.5,21,10.5,-2,0,NA,0,0,0,85.4,202009200mia
+Isaiah McKenzie,McKeIs00,receiving,BUF,2,2,47,0,1,12,6,35,17.5,6,0,NA,0,0,0,118.7,202009200mia
+Gabriel Davis,DaviGa01,receiving,BUF,1,1,6,1,1,6,6,0,0,6,0,NA,0,0,0,131.2,202009200mia
+Reggie Gilliam,GillRe00,receiving,BUF,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202009200mia
+Dawson Knox,KnoxDa00,receiving,BUF,3,1,36,0,NA,7,7,29,29,10.7,0,NA,0,0,0,79.9,202009200mia
+Mike Gesicki,GesiMi00,receiving,MIA,11,8,130,1,8,98,12.3,32,4,10.6,0,NA,0,0,0,142.2,202009200mia
+Isaiah Ford,FordIs00,receiving,MIA,9,7,76,0,7,55,7.9,21,3,7.8,0,NA,0,0,0,101.9,202009200mia
+Myles Gaskin,GaskMy00,receiving,MIA,7,6,36,0,1,-6,-1,42,7,0,0,NA,1,14.3,0,88.1,202009200mia
+DeVante Parker,ParkDe01,receiving,MIA,8,5,53,1,3,41,8.2,12,2.4,9.8,0,NA,0,0,0,121.4,202009200mia
+Preston Williams,WillPr01,receiving,MIA,5,1,26,0,1,25,25,1,1,10.6,0,NA,1,20,0,48.7,202009200mia
+Adam Shaheen,ShahAd00,receiving,MIA,2,1,4,0,NA,0,0,4,4,1,1,1,0,0,0,56.2,202009200mia
+Jakeem Grant,GranJa00,receiving,MIA,1,1,2,0,NA,-4,-4,6,6,-4,0,NA,0,0,0,79.2,202009200mia
+Matt Breida,BreiMa00,receiving,MIA,2,1,2,0,0,-1,-1,3,3,-1,0,NA,0,0,0,56.2,202009200mia
+Lynn Bowden Jr.,BowdLy00,receiving,MIA,1,1,-1,0,NA,-1,-1,0,0,-1,0,NA,0,0,0,79.2,202009200mia

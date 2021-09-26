@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Fred Warner,WarnFr00,defense,SFO,0,9,4,44.4%,86,21.5,9.6,0,78.9,5,12,74,4,1,0,0,1,4,1,20.0%,201810150gnb
+Jaquiski Tartt,TartJa00,defense,SFO,0,4,4,100.0%,67,16.8,16.8,0,118.7,9.5,38,29,4,0,0,0,0,9,0,0.0%,201810150gnb
+Greg Mabin,MabiGr00,defense,SFO,0,6,4,66.7%,62,15.5,10.3,1,140.3,15,61,1,0,0,0,0,0,3,0,0.0%,201810150gnb
+Reuben Foster,FostRe00,defense,SFO,0,5,4,80.0%,64,16,12.8,0,118.7,7,33,31,5,0,0,0,0,9,1,10.0%,201810150gnb
+Jimmie Ward,WardJi01,defense,SFO,0,7,3,42.9%,23,7.7,3.3,0,51.5,11.7,19,4,0,0,0,0,0,5,1,16.7%,201810150gnb
+K'Waun Williams,WillKW00,defense,SFO,0,4,2,50.0%,18,9,4.5,0,62.5,-0.3,-2,20,1,0,0,0,0,1,1,50.0%,201810150gnb
+Adrian Colbert,ColbAd00,defense,SFO,0,1,1,100.0%,9,9,9,1,143.7,9,9,0,1,0,0,0,0,7,0,0.0%,201810150gnb
+Richard Sherman,SherRi00,defense,SFO,0,4,1,25.0%,10,10,2.5,0,39.6,9.3,4,6,0,0,0,0,0,1,1,50.0%,201810150gnb
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,0,4,3,1,25.0%,201810150gnb
+Ronald Blair,BlaiRo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,1,4,4,0,0.0%,201810150gnb
+Sheldon Day,DayxSh00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,1,0,0.0%,201810150gnb
+DeForest Buckner,BuckDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,201810150gnb
+Earl Mitchell,MitcEa99,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201810150gnb
+Solomon Thomas,ThomSo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201810150gnb
+Cassius Marsh,MarsCa00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,1,0,0.0%,201810150gnb
+Malcolm Smith,SmitMa02,defense,SFO,0,2,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,3,0,1,0,1,1,0,0.0%,201810150gnb
+Antone Exum,ExumAn00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201810150gnb
+Tramon Williams,WillTr99,defense,GNB,0,6,4,66.7%,52,13,8.7,1,133.3,5.3,31,21,1,0,0,0,0,3,1,25.0%,201810150gnb
+Jermaine Whitehead,WhitJe02,defense,GNB,0,3,3,100.0%,27,9,9,0,104.2,6.3,19,8,3,0,0,0,0,2,1,33.3%,201810150gnb
+Clay Matthews,MattCl99,defense,GNB,0,2,2,100.0%,27,13.5,13.5,0,118.7,-3.5,-7,34,0,0,1,1,2,4,1,20.0%,201810150gnb
+Ha Ha Clinton-Dix,ClinHa00,defense,GNB,0,2,2,100.0%,43,21.5,21.5,0,118.7,15.5,31,12,2,0,1,0,1,3,1,25.0%,201810150gnb
+Kentrell Brice,BricKe00,defense,GNB,0,3,2,66.7%,70,35,23.3,1,149.3,15.3,42,28,0,0,0,0,0,4,0,0.0%,201810150gnb
+Kyler Fackrell,FackKy00,defense,GNB,0,2,2,100.0%,9,4.5,4.5,0,85.4,1.5,3,6,3,0,0,0,0,4,0,0.0%,201810150gnb
+Kevin King,KingKe01,defense,GNB,1,4,1,25.0%,17,17,4.3,0,5.2,15.3,15,2,1,0,0,0,0,4,0,0.0%,201810150gnb
+Oren Burks,BurkOr00,defense,GNB,0,1,1,100.0%,21,21,21,0,118.7,18,18,3,1,0,0,0,0,4,1,20.0%,201810150gnb
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,7,0,0.0%,201810150gnb
+Nick Perry,PerrNi00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,0,0,1,0,1,100.0%,201810150gnb
+Dean Lowry,LowrDe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,2,50.0%,201810150gnb
+Josh Jackson,JackJo01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,201810150gnb
+Blake Martinez,MartBl01,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,-4,NA,NA,6,0,0,0,0,12,2,14.3%,201810150gnb

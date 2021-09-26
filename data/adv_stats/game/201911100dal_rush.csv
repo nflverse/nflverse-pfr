@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,26,97,7,60,2.3,37,1.4,4,6.5,201911100dal
+Alexander Mattison,MattAl01,rushing,MIN,8,52,2,18,2.3,34,4.3,3,2.7,201911100dal
+Kirk Cousins,CousKi00,rushing,MIN,1,5,0,5,5,0,0,0,NA,201911100dal
+C.J. Ham,HamxC.00,rushing,MIN,1,-1,NA,-1,-1,0,0,0,NA,201911100dal
+Ezekiel Elliott,ElliEz00,rushing,DAL,20,47,0,37,1.9,10,0.5,1,20,201911100dal
+Tavon Austin,AustTa00,rushing,DAL,1,7,NA,7,7,0,0,0,NA,201911100dal
+Tony Pollard,PollTo00,rushing,DAL,1,-4,NA,-4,-4,0,0,1,1,201911100dal

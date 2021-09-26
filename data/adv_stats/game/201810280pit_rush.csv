@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,18,65,4,33,1.8,32,1.8,1,18,201810280pit
+Duke Johnson,JohnDu00,rushing,CLE,2,0,0,-4,-2,4,2,0,NA,201810280pit
+Baker Mayfield,MayfBa00,rushing,CLE,1,9,1,5,5,4,4,0,NA,201810280pit
+James Conner,ConnJa00,rushing,PIT,24,146,7,51,2.1,95,4,3,8,201810280pit
+Jaylen Samuels,SamuJa00,rushing,PIT,4,17,1,11,2.8,6,1.5,0,NA,201810280pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,2,6,2,4,2,2,1,0,NA,201810280pit
+Joshua Dobbs,DobbJo00,rushing,PIT,1,-1,NA,-1,-1,0,0,0,NA,201810280pit

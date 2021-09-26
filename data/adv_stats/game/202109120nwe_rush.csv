@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Myles Gaskin,GaskMy00,rushing,MIA,9,49,2,25,2.8,24,2.7,1,9,202109120nwe
+Malcolm Brown,BrowMa03,rushing,MIA,5,16,2,6,1.2,10,2,0,NA,202109120nwe
+Tua Tagovailoa,TagoTu00,rushing,MIA,4,1,1,1,0.3,0,0,0,NA,202109120nwe
+Salvon Ahmed,AhmeSa01,rushing,MIA,3,4,0,-2,-0.7,6,2,0,NA,202109120nwe
+Jacoby Brissett,BrisJa00,rushing,MIA,2,4,2,0,0,4,2,0,NA,202109120nwe
+Damien Harris,HarrDa06,rushing,NWE,23,100,6,52,2.3,48,2.1,1,23,202109120nwe
+James White,WhitJa02,rushing,NWE,4,12,2,8,2,4,1,0,NA,202109120nwe
+Brandon Bolden,BoldBr00,rushing,NWE,1,5,NA,1,1,4,4,1,1,202109120nwe
+Jonnu Smith,SmitJo01,rushing,NWE,1,6,0,2,2,4,4,0,NA,202109120nwe
+Rhamondre Stevenson,StevRh00,rushing,NWE,1,2,NA,0,0,2,2,0,NA,202109120nwe

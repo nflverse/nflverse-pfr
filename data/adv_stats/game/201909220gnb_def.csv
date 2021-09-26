@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+De'Vante Bausby,BausDe00,defense,DEN,0,7,4,57.1%,22,5.5,3.1,0,62.8,4.4,13,9,0,0,0,0,0,3,1,25.0%,201909220gnb
+Kareem Jackson,JackKa99,defense,DEN,0,3,2,66.7%,46,23,15.3,1,149.3,17,46,0,2,1,0,0,1,4,0,0.0%,201909220gnb
+Josey Jewell,JeweJo00,defense,DEN,0,3,2,66.7%,31,15.5,10.3,0,100.7,8.7,20,11,3,0,0,0,0,7,1,12.5%,201909220gnb
+Chris Harris Jr.,HarrCh01,defense,DEN,0,3,2,66.7%,36,18,12,0,107.6,10.7,30,6,0,0,0,0,0,3,0,0.0%,201909220gnb
+Von Miller,MillVo00,defense,DEN,0,1,1,100.0%,19,19,19,0,118.7,6,6,13,5,2,0,0,2,3,0,0.0%,201909220gnb
+Todd Davis,DaviTo01,defense,DEN,0,2,1,50.0%,10,10,5,0,64.6,4.5,1,9,2,0,0,0,0,3,0,0.0%,201909220gnb
+Will Parks,ParkWi01,defense,DEN,0,4,1,25.0%,14,14,3.5,0,41.7,6.3,10,4,0,0,0,0,0,2,1,33.3%,201909220gnb
+Trey Marshall,MarsTr00,defense,DEN,0,1,1,100.0%,28,28,28,0,118.7,28,28,0,0,0,0,0,0,2,0,0.0%,201909220gnb
+Justin Simmons,SimmJu00,defense,DEN,0,1,1,100.0%,4,4,4,0,83.3,1,1,3,0,0,0,0,0,3,0,0.0%,201909220gnb
+Bradley Chubb,ChubBr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,1,0,1,5,1,16.7%,201909220gnb
+Corey Nelson,NelsCo00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,201909220gnb
+Blake Martinez,MartBl01,defense,GNB,0,7,7,100.0%,36,5.1,5.1,0,88.1,1.1,8,28,1,0,0,0,0,12,0,0.0%,201909220gnb
+Kevin King,KingKe01,defense,GNB,0,7,5,71.4%,123,24.6,17.6,0,113.7,10.4,49,74,0,0,0,0,0,9,3,25.0%,201909220gnb
+Jaire Alexander,AlexJa00,defense,GNB,0,6,4,66.7%,26,6.5,4.3,0,75.7,6.7,21,5,0,0,0,0,0,7,0,0.0%,201909220gnb
+Adrian Amos,AmosAd00,defense,GNB,0,5,4,80.0%,24,6,4.8,0,86.7,2.2,10,14,1,0,0,0,0,7,0,0.0%,201909220gnb
+Will Redmond,RedmWi00,defense,GNB,0,1,1,100.0%,10,10,10,0,108.3,2,2,8,0,0,0,0,0,4,2,33.3%,201909220gnb
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2,4,3,3,50.0%,201909220gnb
+Preston Smith,SmitPr00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,3,3,5,0,0.0%,201909220gnb
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,2,33.3%,201909220gnb
+B.J. Goodson,GoodB.00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,2,0,0,0,0,3,0,0.0%,201909220gnb
+Dean Lowry,LowrDe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,6,3,33.3%,201909220gnb
+Darnell Savage Jr.,SavaDa00,defense,GNB,1,1,0,0.0%,NA,NA,0,NA,0,-3,NA,NA,2,0,0,0,0,5,0,0.0%,201909220gnb
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,3,42.9%,201909220gnb

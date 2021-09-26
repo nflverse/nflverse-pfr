@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,JAX,24,97,7,66,2.8,31,1.3,0,NA,201911240oti
+Nick Foles,FoleNi00,rushing,JAX,3,20,1,18,6,2,0.7,0,NA,201911240oti
+Derrick Henry,HenrDe00,rushing,TEN,19,159,5,41,2.2,118,6.2,0,NA,201911240oti
+Ryan Tannehill,TannRy00,rushing,TEN,7,40,3,37,5.3,3,0.4,0,NA,201911240oti
+Dion Lewis,LewiDi00,rushing,TEN,5,21,0,10,2,11,2.2,1,5,201911240oti
+Kalif Raymond,RaymKa00,rushing,TEN,1,-5,0,-5,-5,0,0,0,NA,201911240oti
+Jonnu Smith,SmitJo01,rushing,TEN,1,4,NA,0,0,4,4,0,NA,201911240oti

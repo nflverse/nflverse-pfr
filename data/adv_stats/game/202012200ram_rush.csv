@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Frank Gore,GoreFr00,rushing,NYJ,23,59,4,14,0.6,45,2,0,NA,202012200ram
+Sam Darnold,DarnSa00,rushing,NYJ,5,18,1,18,3.6,0,0,0,NA,202012200ram
+Ty Johnson,JohnTy02,rushing,NYJ,3,16,0,7,2.3,9,3,0,NA,202012200ram
+Cam Akers,AkerCa00,rushing,LAR,15,63,3,23,1.5,40,2.7,0,NA,202012200ram
+Malcolm Brown,BrowMa03,rushing,LAR,1,4,NA,3,3,1,1,0,NA,202012200ram
+Jared Goff,GoffJa00,rushing,LAR,1,9,0,9,9,0,0,0,NA,202012200ram
+Darrell Henderson,HendDa00,rushing,LAR,1,-2,NA,-2,-2,0,0,0,NA,202012200ram
+Robert Woods,WoodRo02,rushing,LAR,1,40,1,37,37,3,3,0,NA,202012200ram

@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Doug Martin,MartDo00,rushing,OAK,11,49,3,25,2.3,24,2.2,0,NA,201811010sfo
+DeAndre Washington,WashDe00,rushing,OAK,5,27,1,3,0.6,24,4.8,1,5,201811010sfo
+Derek Carr,CarrDe02,rushing,OAK,3,5,0,5,1.7,0,0,0,NA,201811010sfo
+Jalen Richard,RichJa01,rushing,OAK,2,4,0,1,0.5,3,1.5,0,NA,201811010sfo
+Martavis Bryant,BryaMa00,rushing,OAK,1,17,1,12,12,5,5,0,NA,201811010sfo
+A.J. McCarron,McCaA.00,rushing,OAK,1,0,NA,0,0,0,0,0,NA,201811010sfo
+Matt Breida,BreiMa00,rushing,SFO,12,44,2,34,2.8,10,0.8,1,12,201811010sfo
+Alfred Morris,MorrAl00,rushing,SFO,7,13,1,-5,-0.7,18,2.6,1,7,201811010sfo
+Raheem Mostert,MostRa00,rushing,SFO,7,86,3,71,10.1,15,2.1,0,NA,201811010sfo
+Nick Mullens,MullNi00,rushing,SFO,4,-3,0,-3,-0.8,0,0,0,NA,201811010sfo
+Marquise Goodwin,GoodMa00,rushing,SFO,1,2,0,2,2,0,0,0,NA,201811010sfo
+Kyle Juszczyk,JuszKy00,rushing,SFO,1,1,NA,-1,-1,2,2,0,NA,201811010sfo

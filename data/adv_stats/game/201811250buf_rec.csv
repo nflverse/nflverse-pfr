@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Leonard Fournette,FourLe00,receiving,JAX,3,3,13,0,1,-12,-4,25,8.3,-4,0,NA,0,0,0,84.7,201811250buf
+Dede Westbrook,WestDe00,receiving,JAX,4,3,44,1,2,33,11,11,3.7,19.3,0,NA,0,0,0,150,201811250buf
+Tommy Bohanon,BohaTo00,receiving,JAX,2,2,19,0,1,5,2.5,14,7,2.5,0,NA,0,0,0,106.2,201811250buf
+T.J. Yeldon,YeldT.00,receiving,JAX,4,2,17,0,1,3,1.5,14,7,2.5,0,NA,0,0,0,61.5,201811250buf
+Blake Bell,BellBl00,receiving,JAX,1,1,5,0,NA,1,1,4,4,1,0,NA,0,0,0,87.5,201811250buf
+Donte Moncrief,MoncDo00,receiving,JAX,4,1,29,0,1,27,27,2,2,11,0,NA,0,0,0,57.3,201811250buf
+Keelan Cole,ColeKe00,receiving,JAX,2,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,1,0,201811250buf
+James O'Shaughnessy,O'ShJa00,receiving,JAX,2,0,0,0,NA,0,NA,0,NA,10.5,0,NA,1,50,1,0,201811250buf
+Jason Croom,CrooJa00,receiving,BUF,3,2,16,0,1,9,4.5,7,3.5,10,1,2,1,33.3,0,79.9,201811250buf
+Robert Foster,FostRo01,receiving,BUF,3,2,94,1,2,57,28.5,37,18.5,23,0,NA,0,0,0,149.3,201811250buf
+Isaiah McKenzie,McKeIs00,receiving,BUF,3,2,11,0,1,2,1,9,4.5,0.3,1,2,0,0,0,72.9,201811250buf
+Kelvin Benjamin,BenjKe00,receiving,BUF,2,1,32,0,1,19,19,13,13,35.5,0,NA,0,0,0,95.8,201811250buf
+LeSean McCoy,McCoLe01,receiving,BUF,1,1,7,0,0,-5,-5,12,12,-5,0,NA,0,0,0,95.8,201811250buf
+Zay Jones,JoneZa00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,201811250buf
+Deonte Thompson,ThomDe04,receiving,BUF,3,0,0,0,NA,0,NA,0,NA,20.7,0,NA,0,0,0,39.6,201811250buf
+Logan Thomas,ThomLo00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,52,0,NA,0,0,0,39.6,201811250buf

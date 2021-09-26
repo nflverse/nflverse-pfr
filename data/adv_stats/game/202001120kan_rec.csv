@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeAndre Hopkins,HopkDe00,receiving,HOU,14,9,118,0,5,99,11,19,2.1,12.8,0,NA,0,0,0,90.8,202001120kan
+Will Fuller,FullWi01,receiving,HOU,8,5,89,0,5,68,13.6,21,4.2,12,0,NA,0,0,0,100.5,202001120kan
+Duke Johnson,JohnDu00,receiving,HOU,8,5,23,0,1,-6,-1.2,29,5.8,1,0,NA,0,0,0,66.7,202001120kan
+Darren Fells,FellDa01,receiving,HOU,7,3,22,1,1,11,3.7,11,3.7,6.6,0,NA,3,42.9,0,90.5,202001120kan
+Kenny Stills,StilKe00,receiving,HOU,6,3,80,1,3,43,14.3,37,12.3,12.7,0,NA,1,16.7,0,135.4,202001120kan
+Carlos Hyde,HydeCa00,receiving,HOU,4,3,18,0,1,3,1,15,5,3,0,NA,0,0,0,83.3,202001120kan
+DeAndre Carter,CartDe02,receiving,HOU,1,1,17,0,1,17,17,0,0,17,0,NA,0,0,0,118.7,202001120kan
+Jordan Thomas,ThomJo05,receiving,HOU,1,1,7,0,NA,-2,-2,9,9,-2,0,NA,0,0,0,95.8,202001120kan
+Taiwan Jones,JoneTa00,receiving,HOU,1,1,14,0,1,2,2,12,12,2,0,NA,0,0,0,118.7,202001120kan
+Travis Kelce,KelcTr00,receiving,KAN,12,10,134,3,8,70,7,64,6.4,6.6,2,5,2,16.7,0,152.8,202001120kan
+Tyreek Hill,HillTy00,receiving,KAN,4,3,41,0,2,18,6,23,7.7,9.3,0,NA,0,0,0,107.3,202001120kan
+Mecole Hardman,HardMe00,receiving,KAN,4,2,19,0,1,2,1,17,8.5,9.3,0,NA,0,0,0,63.5,202001120kan
+Blake Bell,BellBl00,receiving,KAN,2,2,15,1,1,5,2.5,10,5,2.5,0,NA,0,0,0,137.5,202001120kan
+Sammy Watkins,WatkSa00,receiving,KAN,2,2,76,0,2,46,23,30,15,23,2,1,0,0,0,118.7,202001120kan
+Damien Williams,WillDa05,receiving,KAN,6,2,21,1,1,1,0.5,20,10,2.2,0,NA,0,0,0,84,202001120kan
+Demarcus Robinson,RobiDe01,receiving,KAN,4,1,4,0,NA,2,2,2,2,2.5,0,NA,3,75,0,39.6,202001120kan
+Deon Yelder,YeldDe00,receiving,KAN,1,1,11,0,1,1,1,10,10,1,0,NA,0,0,0,112.5,202001120kan

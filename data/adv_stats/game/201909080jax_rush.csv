@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Williams,WillDa05,rushing,KAN,13,26,3,3,0.2,23,1.8,1,13,201909080jax
+LeSean McCoy,McCoLe01,rushing,KAN,10,81,6,49,4.9,32,3.2,1,10,201909080jax
+Tyreek Hill,HillTy00,rushing,KAN,1,5,0,2,2,3,3,0,NA,201909080jax
+Patrick Mahomes,MahoPa00,rushing,KAN,1,2,0,2,2,0,0,0,NA,201909080jax
+Matt Moore,MoorMa01,rushing,KAN,1,-1,NA,-1,-1,0,0,0,NA,201909080jax
+Leonard Fournette,FourLe00,rushing,JAX,13,66,3,23,1.8,43,3.3,1,13,201909080jax
+Ryquell Armstead,ArmsRy00,rushing,JAX,1,7,NA,2,2,5,5,0,NA,201909080jax
+Gardner Minshew II,MinsGa00,rushing,JAX,1,6,0,6,6,0,0,0,NA,201909080jax
+Dede Westbrook,WestDe00,rushing,JAX,1,2,0,0,0,2,2,0,NA,201909080jax

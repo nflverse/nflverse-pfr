@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Jameis Winston,WinsJa00,passing,TAM,18,35,276,13,32.5,451,12.9,197,10.9,5.6,79,4.4,1,2.9%,9,25.7%,5,6,5,1,11,25.6%,3,6,201810280cin
+Ryan Fitzpatrick,FitzRy00,passing,TAM,11,15,194,7,43.8,190,12.7,129,11.7,8.6,65,5.9,0,0.0%,1,7.1%,1,4,1,0,2,11.8%,1,18,201810280cin
+Andy Dalton,DaltAn00,passing,CIN,21,34,280,13,36.1,309,9.1,178,8.5,5.2,102,4.9,2,6.3%,6,18.8%,2,3,2,0,4,10.5%,2,5.5,201810280cin

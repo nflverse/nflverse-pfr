@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Cam Newton,NewtCa00,rushing,NWE,11,47,5,46,4.2,1,0.1,0,NA,202009200sea
+Sony Michel,MichSo00,rushing,NWE,7,19,NA,17,2.4,2,0.3,0,NA,202009200sea
+Rex Burkhead,BurkRe00,rushing,NWE,6,2,0,2,0.3,0,0,0,NA,202009200sea
+J.J. Taylor,TaylJJ01,rushing,NWE,1,-1,NA,-1,-1,0,0,0,NA,202009200sea
+Chris Carson,CarsCh00,rushing,SEA,17,72,4,56,3.3,16,0.9,0,NA,202009200sea
+Carlos Hyde,HydeCa00,rushing,SEA,5,22,2,21,4.2,1,0.2,0,NA,202009200sea
+Russell Wilson,WilsRu00,rushing,SEA,5,39,4,36,7.2,3,0.6,0,NA,202009200sea
+Travis Homer,HomeTr00,rushing,SEA,3,21,NA,18,6,3,1,0,NA,202009200sea

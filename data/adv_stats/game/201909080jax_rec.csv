@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Sammy Watkins,WatkSa00,receiving,KAN,11,9,198,3,5,64,7.1,134,14.9,9.6,0,NA,0,0,0,158.3,201909080jax
+Damien Williams,WillDa05,receiving,KAN,6,6,39,0,3,-18,-3,57,9.5,-3,2,3,0,0,0,93.7,201909080jax
+Travis Kelce,KelcTr00,receiving,KAN,8,3,88,0,2,47,15.7,41,13.7,7.9,0,NA,1,12.5,0,79.2,201909080jax
+Tyreek Hill,HillTy00,receiving,KAN,2,2,16,0,1,16,8,0,0,8,0,NA,0,0,0,100,201909080jax
+LeSean McCoy,McCoLe01,receiving,KAN,1,1,12,0,1,4,4,8,8,4,0,NA,0,0,0,116.7,201909080jax
+Darwin Thompson,ThomDa06,receiving,KAN,1,1,3,0,NA,0,0,3,3,0,0,NA,0,0,0,79.2,201909080jax
+Anthony Sherman,SherAn00,receiving,KAN,1,1,15,0,1,-4,-4,19,19,-4,0,NA,0,0,0,118.7,201909080jax
+Demarcus Robinson,RobiDe01,receiving,KAN,2,1,0,0,NA,0,0,0,0,3,0,NA,0,0,0,56.2,201909080jax
+Blake Bell,BellBl00,receiving,KAN,1,1,7,0,NA,7,7,0,0,7,0,NA,0,0,0,95.8,201909080jax
+Mecole Hardman,HardMe00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,0,0,NA,1,100,0,39.6,201909080jax
+Chris Conley,ConlCh00,receiving,JAX,7,6,97,1,5,69,11.5,28,4.7,13.3,0,NA,0,0,0,158.3,201909080jax
+Dede Westbrook,WestDe00,receiving,JAX,6,5,30,1,2,14,2.8,16,3.2,1,0,NA,0,0,0,127.1,201909080jax
+James O'Shaughnessy,O'ShJa00,receiving,JAX,5,4,32,0,1,16,4,16,4,4.2,0,NA,0,0,0,93.3,201909080jax
+Leonard Fournette,FourLe00,receiving,JAX,6,4,28,0,2,-3,-0.8,31,7.8,-1,0,NA,1,16.7,1,37.5,201909080jax
+Geoff Swaim,SwaiGe00,receiving,JAX,4,4,17,0,NA,3,0.8,14,3.5,0.8,0,NA,0,0,0,84.4,201909080jax
+DJ Chark,CharDJ00,receiving,JAX,4,4,146,1,3,106,26.5,40,10,26.5,0,NA,0,0,0,158.3,201909080jax
+Ryquell Armstead,ArmsRy00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,-4,0,NA,0,0,0,39.6,201909080jax

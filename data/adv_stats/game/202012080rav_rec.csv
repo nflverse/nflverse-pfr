@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Gallup,GallMi00,receiving,DAL,11,7,86,1,6,61,8.7,25,3.6,12.6,0,NA,1,9.1,0,118,202012080rav
+CeeDee Lamb,LambCe00,receiving,DAL,9,6,46,0,3,29,4.8,17,2.8,10.4,0,NA,0,0,0,78.9,202012080rav
+Amari Cooper,CoopAm00,receiving,DAL,9,5,43,1,4,25,5,18,3.6,7.4,0,NA,0,0,1,65.7,202012080rav
+Ezekiel Elliott,ElliEz00,receiving,DAL,6,4,18,0,2,-3,-0.8,21,5.3,2,0,NA,0,0,0,70.1,202012080rav
+Dalton Schultz,SchuDa00,receiving,DAL,4,4,44,0,2,28,7,16,4,7,2,2,0,0,0,112.5,202012080rav
+Noah Brown,BrowNo00,receiving,DAL,4,3,40,0,3,21,7,19,6.3,11.8,0,NA,0,0,0,106.2,202012080rav
+Blake Bell,BellBl00,receiving,DAL,1,1,2,0,NA,2,2,0,0,2,1,1,0,0,0,79.2,202012080rav
+Tony Pollard,PollTo00,receiving,DAL,1,1,6,0,0,-2,-2,8,8,-2,0,NA,0,0,0,91.7,202012080rav
+Marquise Brown,BrowMa04,receiving,BAL,8,5,39,1,1,33,6.6,6,1.2,6.9,0,NA,0,0,1,74.5,202012080rav
+Patrick Ricard,RicaPa00,receiving,BAL,2,2,11,0,NA,1,0.5,10,5,0.5,0,NA,0,0,0,89.6,202012080rav
+Miles Boykin,BoykMi00,receiving,BAL,3,1,38,1,1,19,19,19,19,11.7,0,NA,0,0,0,121.5,202012080rav
+Devin Duvernay,DuveDe00,receiving,BAL,1,1,2,0,NA,-1,-1,3,3,-1,0,NA,0,0,0,79.2,202012080rav
+Justice Hill,HillJu00,receiving,BAL,1,1,4,0,NA,0,0,4,4,0,0,NA,0,0,0,83.3,202012080rav
+Mark Ingram,IngrMa01,receiving,BAL,1,1,1,0,0,-6,-6,7,7,-6,0,NA,0,0,0,79.2,202012080rav
+Luke Willson,WillLu00,receiving,BAL,1,1,12,0,NA,10,10,2,2,10,0,NA,0,0,0,116.7,202012080rav

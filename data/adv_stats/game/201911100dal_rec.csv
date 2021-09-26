@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dalvin Cook,CookDa01,receiving,MIN,7,7,86,0,6,-23,-3.3,109,15.6,-3.3,5,1.4,0,0,0,117.9,201911100dal
+Irv Smith Jr.,SmitIr01,receiving,MIN,6,5,34,0,NA,11,2.2,23,4.6,2.8,0,NA,0,0,0,90.3,201911100dal
+Kyle Rudolph,RudoKy00,receiving,MIN,5,4,14,2,3,14,3.5,0,0,7.6,0,NA,0,0,0,118.7,201911100dal
+Stefon Diggs,DiggSt00,receiving,MIN,6,3,49,0,3,36,12,13,4.3,11.2,0,NA,0,0,0,77.8,201911100dal
+Olabisi Johnson,JohnOl00,receiving,MIN,4,2,25,0,2,24,12,1,0.5,13.5,0,NA,0,0,0,69.8,201911100dal
+Alexander Mattison,MattAl01,receiving,MIN,1,1,2,0,0,2,2,0,0,2,0,NA,0,0,0,79.2,201911100dal
+Laquon Treadwell,TreaLa00,receiving,MIN,1,1,10,0,1,9,9,1,1,9,0,NA,0,0,0,108.3,201911100dal
+Tyler Conklin,ConkTy00,receiving,MIN,1,0,0,0,NA,0,NA,0,NA,21,0,NA,0,0,0,39.6,201911100dal
+Amari Cooper,CoopAm00,receiving,DAL,14,11,147,1,9,127,11.5,20,1.8,12.2,0,NA,0,0,0,134.2,201911100dal
+Randall Cobb,CobbRa00,receiving,DAL,8,6,106,1,6,93,15.5,13,2.2,14.3,1,6,0,0,0,156.2,201911100dal
+Michael Gallup,GallMi00,receiving,DAL,10,4,76,1,4,45,11.3,31,7.8,16.5,1,4,1,10,0,100.4,201911100dal
+Blake Jarwin,JarwBl00,receiving,DAL,4,3,35,0,1,18,6,17,5.7,8.5,1,3,0,0,0,101,201911100dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,3,2,16,0,1,5,2.5,11,5.5,3.3,0,NA,0,0,0,79.9,201911100dal
+Jason Witten,WittJa00,receiving,DAL,5,2,17,0,1,11,5.5,6,3,5.6,0,NA,0,0,0,49.6,201911100dal

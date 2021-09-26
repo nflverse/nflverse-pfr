@@ -1,0 +1,35 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Stephon Gilmore,GilmSt00,defense,NWE,0,5,4,80.0%,30,7.5,6,0,91.7,3.2,17,13,0,0,0,0,0,4,1,20.0%,202012100ram
+Jonathan Jones,JoneJo03,defense,NWE,0,3,3,100.0%,14,4.7,4.7,1,125.7,2.3,7,7,0,0,0,0,0,4,0,0.0%,202012100ram
+Adrian Phillips,PhilAd00,defense,NWE,0,5,3,60.0%,40,13.3,8,0,85.4,5.8,18,22,2,0,0,0,0,10,0,0.0%,202012100ram
+J.C. Jackson,JackJ.00,defense,NWE,0,4,3,75.0%,23,7.7,5.8,0,88.5,7.3,15,8,0,0,0,0,0,2,0,0.0%,202012100ram
+John Simon,SimoJo01,defense,NWE,0,2,2,100.0%,16,8,8,0,100,2.5,5,11,0,0,0,0,0,4,2,33.3%,202012100ram
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,2,1,50.0%,16,16,8,0,77.1,11,1,15,2,1,0,0,1,9,0,0.0%,202012100ram
+Josh Uche,UcheJo00,defense,NWE,0,2,1,50.0%,2,2,1,0,56.2,1.5,3,-1,1,0,1,0,1,2,0,0.0%,202012100ram
+Anfernee Jennings,JennAn00,defense,NWE,0,1,1,100.0%,8,8,8,0,100,4,4,4,1,0,0,0,0,1,0,0.0%,202012100ram
+Tashawn Bower,BoweTa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,202012100ram
+Adam Butler,ButlAd00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,0,0.0%,202012100ram
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,202012100ram
+Byron Cowart,CowaBy00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202012100ram
+Kyle Dugger,DuggKy00,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,0,0,3,0,0.0%,202012100ram
+Devin McCourty,McCoDe99,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,14,NA,NA,0,0,0,0,0,4,0,0.0%,202012100ram
+Myles Bryant,BryaMy01,defense,NWE,1,1,0,0.0%,NA,NA,0,NA,0,3,NA,NA,1,0,0,0,0,0,0,NA,202012100ram
+Jason McCourty,McCoJa99,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,0,0,NA,202012100ram
+Jordan Fuller,FullJo01,defense,LAR,0,3,3,100.0%,24,8,8,0,100,6.7,20,4,0,0,0,0,0,6,0,0.0%,202012100ram
+Kenny Young,YounKe03,defense,LAR,1,3,2,66.7%,12,6,4,0,34.7,0,2,10,1,0,0,1,1,8,0,0.0%,202012100ram
+Jalen Ramsey,RamsJa00,defense,LAR,0,2,2,100.0%,11,5.5,5.5,0,89.6,5,10,1,2,0,0,0,0,3,0,0.0%,202012100ram
+Troy Reeder,ReedTr01,defense,LAR,0,2,2,100.0%,2,1,1,0,79.2,-4.5,-9,11,1,0,0,0,0,7,0,0.0%,202012100ram
+Darious Williams,WillDa09,defense,LAR,0,4,2,50.0%,55,27.5,13.8,0,95.8,14,48,7,0,0,0,0,0,2,0,0.0%,202012100ram
+Troy Hill,HillTr01,defense,LAR,0,6,2,33.3%,11,5.5,1.8,0,42.4,8.8,7,4,0,0,0,0,0,1,0,0.0%,202012100ram
+John Johnson,JohnJo10,defense,LAR,0,2,1,50.0%,5,5,2.5,0,56.2,2,4,1,0,0,0,0,0,5,0,0.0%,202012100ram
+David Long,LongDa02,defense,LAR,0,1,1,100.0%,31,31,31,0,118.7,18,18,13,0,0,0,0,0,2,0,0.0%,202012100ram
+Michael Brockers,BrocMi00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,5,0,0.0%,202012100ram
+Leonard Floyd,FloyLe00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,0,0.5,2,4,0,0.0%,202012100ram
+Morgan Fox,FoxxMo00,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,-6,NA,NA,0,0,1,1,2,2,0,0.0%,202012100ram
+Aaron Donald,DonaAa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1.5,2,2,0,0.0%,202012100ram
+Ogbonnia Okoronkwo,OkorOg00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202012100ram
+Sebastian Joseph,JoseSe00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,1,16.7%,202012100ram
+Samson Ebukam,EbukSa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,0,0,NA,202012100ram
+Justin Hollins,HollJu00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,5,0,0.0%,202012100ram
+Nick Scott,ScotNi01,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202012100ram
+Derek Rivers,RiveDe00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202012100ram

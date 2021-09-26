@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeAndre Hopkins,HopkDe00,receiving,HOU,7,6,67,0,3,29,4.8,38,6.3,5.7,1,6,0,0,0,106.5,201909220sdg
+Darren Fells,FellDa01,receiving,HOU,6,5,49,1,2,28,5.6,21,4.2,5.3,0,NA,1,16.7,0,140.3,201909220sdg
+Will Fuller,FullWi01,receiving,HOU,7,5,51,0,4,43,8.6,8,1.6,9.6,0,NA,0,0,0,92,201909220sdg
+Kenny Stills,StilKe00,receiving,HOU,6,4,89,0,3,65,16.3,24,6,17.3,0,NA,0,0,0,109.7,201909220sdg
+Jordan Akins,AkinJo00,receiving,HOU,5,3,73,2,2,26,8.7,47,15.7,6,0,NA,1,20,0,143.7,201909220sdg
+Duke Johnson,JohnDu00,receiving,HOU,3,2,22,0,1,-5,-2.5,27,13.5,-2.7,6,0.3,0,0,0,88.2,201909220sdg
+Keenan Allen,AlleKe00,receiving,LAC,17,13,183,2,8,109,8.4,74,5.7,9.8,3,4.3,0,0,0,149.9,201909220sdg
+Austin Ekeler,EkelAu00,receiving,LAC,7,7,45,0,3,-16,-2.3,61,8.7,-2.3,3,2.3,0,0,0,93.5,201909220sdg
+Justin Jackson,JackJu01,receiving,LAC,4,4,4,0,0,-11,-2.8,15,3.8,-2.8,1,4,0,0,0,79.2,201909220sdg
+Mike Williams,WillMi07,receiving,LAC,7,3,45,0,3,32,10.7,13,4.3,19,0,NA,0,0,0,64.6,201909220sdg
+Travis Benjamin,BenjTr00,receiving,LAC,5,2,5,0,1,7,3.5,-2,-1,14.2,1,2,0,0,0,47.9,201909220sdg
+Dontrelle Inman,InmaDo00,receiving,LAC,3,1,23,0,1,23,23,0,0,29.7,0,NA,0,0,0,61.8,201909220sdg
+Lance Kendricks,KendLa00,receiving,LAC,2,1,13,0,1,13,13,0,0,16,0,NA,0,0,0,70.8,201909220sdg
+Sean Culkin,CulkSe00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,7,0,NA,1,100,0,39.6,201909220sdg

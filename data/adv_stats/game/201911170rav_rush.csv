@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Carlos Hyde,HydeCa00,rushing,HOU,9,65,1,45,5,20,2.2,0,NA,201911170rav
+Duke Johnson,JohnDu00,rushing,HOU,6,40,2,2,0.3,38,6.3,1,6,201911170rav
+Deshaun Watson,WatsDe00,rushing,HOU,3,12,0,7,2.3,5,1.7,0,NA,201911170rav
+Buddy Howell,HoweGr00,rushing,HOU,2,5,NA,2,1,3,1.5,0,NA,201911170rav
+Mark Ingram,IngrMa01,rushing,BAL,13,48,3,16,1.2,32,2.5,0,NA,201911170rav
+Lamar Jackson,JackLa00,rushing,BAL,10,79,4,-4,-0.4,83,8.3,0,NA,201911170rav
+Gus Edwards,EdwaGu00,rushing,BAL,8,112,4,91,11.4,21,2.6,0,NA,201911170rav
+Justice Hill,HillJu00,rushing,BAL,5,18,1,8,1.6,10,2,0,NA,201911170rav
+Robert Griffin III,GrifRo01,rushing,BAL,1,-1,NA,-1,-1,0,0,0,NA,201911170rav

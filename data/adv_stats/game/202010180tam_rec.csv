@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Davante Adams,AdamDa01,receiving,GNB,10,6,61,0,4,39,6.5,22,3.7,7.7,0,NA,0,0,2,37.9,202010180tam
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,5,3,32,0,2,21,7,11,3.7,26.2,0,NA,0,0,0,78.7,202010180tam
+Robert Tonyan,TonyRo00,receiving,GNB,4,3,25,0,2,16,5.3,9,3,6.3,0,NA,0,0,0,90.6,202010180tam
+Aaron Jones,JoneAa00,receiving,GNB,5,3,26,0,1,-3,-1,29,9.7,3.6,1,3,1,20,0,73.7,202010180tam
+Darrius Shepherd,ShepDa00,receiving,GNB,1,1,16,0,NA,6,6,10,10,6,0,NA,0,0,0,118.7,202010180tam
+Marcedes Lewis,LewiMa00,receiving,GNB,2,0,0,0,NA,0,NA,0,NA,11,0,NA,2,100,0,39.6,202010180tam
+Jamaal Williams,WillJa06,receiving,GNB,1,0,0,0,0,0,NA,0,NA,-2,0,NA,0,0,0,39.6,202010180tam
+Malik Taylor,TaylMa01,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,21,0,NA,0,0,0,39.6,202010180tam
+Equanimeous St. Brown,St.BEq00,receiving,GNB,2,0,0,0,NA,0,NA,0,NA,0,0,NA,1,50,0,39.6,202010180tam
+Rob Gronkowski,GronRo00,receiving,TAM,8,5,78,1,4,53,10.6,25,5,11.4,0,NA,1,12.5,0,134.4,202010180tam
+Chris Godwin,GodwCh00,receiving,TAM,7,5,48,0,2,21,4.2,27,5.4,4.9,1,5,1,14.3,0,90.2,202010180tam
+Ronald Jones II,JoneRo01,receiving,TAM,2,2,8,0,0,-2,-1,10,5,-1,1,2,0,0,0,83.3,202010180tam
+LeSean McCoy,McCoLe01,receiving,TAM,1,1,6,0,1,1,1,5,5,1,0,NA,0,0,0,91.7,202010180tam
+Scott Miller,MillSc01,receiving,TAM,2,1,6,0,NA,6,6,0,0,18.5,0,NA,0,0,0,56.2,202010180tam
+Tyler Johnson,JohnTy00,receiving,TAM,1,1,7,1,1,7,7,0,0,7,0,NA,0,0,0,135.4,202010180tam
+Mike Evans,EvanMi00,receiving,TAM,2,1,10,0,1,5,5,5,5,5.5,0,NA,0,0,0,64.6,202010180tam
+Cameron Brate,BratCa00,receiving,TAM,1,1,3,0,NA,3,3,0,0,3,0,NA,0,0,0,79.2,202010180tam
+Cyril Grayson,GrayCy01,receiving,TAM,2,0,0,0,NA,0,NA,0,NA,22,0,NA,1,50,0,39.6,202010180tam
+Ke'Shawn Vaughn,VaugKe00,receiving,TAM,1,0,0,0,0,0,NA,0,NA,5,0,NA,1,100,0,39.6,202010180tam

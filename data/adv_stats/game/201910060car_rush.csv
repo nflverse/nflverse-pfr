@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,JAX,23,108,6,36,1.6,72,3.1,0,NA,201910060car
+Gardner Minshew II,MinsGa00,rushing,JAX,7,42,2,42,6,0,0,0,NA,201910060car
+Ryquell Armstead,ArmsRy00,rushing,JAX,1,-1,NA,-1,-1,0,0,0,NA,201910060car
+Christian McCaffrey,McCaCh01,rushing,CAR,19,176,6,134,7.1,42,2.2,1,19,201910060car
+Reggie Bonnafon,BonnRe00,rushing,CAR,5,80,2,74,14.8,6,1.2,0,NA,201910060car
+Curtis Samuel,SamuCu00,rushing,CAR,2,25,1,25,12.5,0,0,0,NA,201910060car
+Kyle Allen,AlleKy00,rushing,CAR,1,4,0,0,0,4,4,0,NA,201910060car

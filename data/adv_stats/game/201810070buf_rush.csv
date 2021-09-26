@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dion Lewis,LewiDi00,rushing,TEN,12,34,2,17,1.4,17,1.4,0,NA,201810070buf
+Derrick Henry,HenrDe00,rushing,TEN,11,56,3,18,1.6,38,3.5,1,11,201810070buf
+Marcus Mariota,MariMa01,rushing,TEN,2,10,1,9,4.5,1,0.5,0,NA,201810070buf
+LeSean McCoy,McCoLe01,rushing,BUF,24,85,3,49,2,36,1.5,0,NA,201810070buf
+Chris Ivory,IvorCh00,rushing,BUF,14,43,6,18,1.3,25,1.8,1,14,201810070buf
+Josh Allen,AlleJo02,rushing,BUF,4,19,1,16,4,3,0.8,0,NA,201810070buf
+Ray-Ray McCloud,McClRa00,rushing,BUF,1,-3,0,-3,-3,0,0,0,NA,201810070buf

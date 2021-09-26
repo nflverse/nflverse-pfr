@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,27,100,6,32,1.2,68,2.5,2,13.5,201909290atl
+Dion Lewis,LewiDi00,rushing,TEN,4,16,1,7,1.8,9,2.3,1,4,201909290atl
+Marcus Mariota,MariMa01,rushing,TEN,3,22,1,20,6.7,2,0.7,0,NA,201909290atl
+Devonta Freeman,FreeDe00,rushing,ATL,12,28,2,14,1.2,14,1.2,0,NA,201909290atl
+Matt Ryan,RyanMa00,rushing,ATL,2,18,1,18,9,0,0,0,NA,201909290atl
+Ito Smith,SmitIt00,rushing,ATL,2,11,2,3,1.5,8,4,1,2,201909290atl
+Julio Jones,JoneJu02,rushing,ATL,1,1,0,0,0,1,1,0,NA,201909290atl

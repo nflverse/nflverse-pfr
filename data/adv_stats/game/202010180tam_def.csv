@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Josh Jackson,JackJo01,defense,GNB,0,6,4,66.7%,17,4.3,2.8,1,109.7,8.3,5,12,0,0,0,0,0,6,0,0.0%,202010180tam
+Raven Greene,GreeRa02,defense,GNB,0,4,3,75.0%,37,12.3,9.3,0,103.1,9.3,27,10,3,0,0,0,0,2,1,33.3%,202010180tam
+Jaire Alexander,AlexJa00,defense,GNB,0,5,3,60.0%,35,11.7,7,0,81.2,10,13,22,0,0,0,0,0,2,1,33.3%,202010180tam
+Krys Barnes,BarnKr00,defense,GNB,0,3,2,66.7%,12,6,4,0,74.3,3.3,5,7,5,0,0,0,0,10,2,16.7%,202010180tam
+Adrian Amos,AmosAd00,defense,GNB,0,3,1,33.3%,12,12,4,1,86.1,13,12,0,0,0,0,0,0,3,1,25.0%,202010180tam
+Montravius Adams,AdamMo00,defense,GNB,0,1,1,100.0%,13,13,13,0,118.7,7,7,6,0,0,0,0,0,4,0,0.0%,202010180tam
+Chandon Sullivan,SullCh00,defense,GNB,0,3,1,33.3%,3,3,1,0,42.4,5.3,3,0,1,0,0,0,0,3,0,0.0%,202010180tam
+Oren Burks,BurkOr00,defense,GNB,0,1,1,100.0%,31,31,31,0,118.7,21,21,10,0,0,0,0,0,2,0,0.0%,202010180tam
+Will Redmond,RedmWi00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,0,0,NA,202010180tam
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,1,0,1,1,1,50.0%,202010180tam
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,1,0,1,2,0,0.0%,202010180tam
+Preston Smith,SmitPr00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,1,0,1,1,0,0.0%,202010180tam
+Jonathan Garvin,GarvJo00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,202010180tam
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,1,0,0.0%,6,NA,6,0,52.1,1,1,5,1,0,0,0,0,5,0,0.0%,202010180tam
+Lavonte David,DaviLa00,defense,TAM,0,8,4,50.0%,22,5.5,2.8,0,56.2,4.5,2,20,7,0,0,1.5,2,8,0,0.0%,202010180tam
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,5,4,80.0%,36,9,7.2,0,96.7,9.2,25,11,7,0,1,0,1,4,1,20.0%,202010180tam
+Carlton Davis,DaviCa02,defense,TAM,0,10,4,40.0%,45,11.3,4.5,0,54.2,17.3,19,26,0,0,0,0,0,6,1,14.3%,202010180tam
+Devin White,WhitDe02,defense,TAM,0,3,3,100.0%,53,17.7,17.7,0,118.7,12.3,37,16,13,0,1,1,2,10,1,9.1%,202010180tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,1,1,100.0%,5,5,5,0,87.5,0,0,5,3,0,0,0,0,1,0,0.0%,202010180tam
+Jason Pierre-Paul,PierJa99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,1,1.5,4,6,0,0.0%,202010180tam
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,0,3,0,0,NA,202010180tam
+Jeremiah Ledbetter,LedbJe00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202010180tam
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202010180tam
+Rakeem Nunez-Roches,NuneRa00,defense,TAM,0,1,0,0.0%,-1,NA,-1,0,39.6,-4,-4,3,0,0,0,0,0,2,0,0.0%,202010180tam
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,2,0,0,0,0,5,1,16.7%,202010180tam
+Jamel Dean,DeanJa00,defense,TAM,1,2,0,0.0%,NA,NA,0,NA,0,5,NA,NA,0,0,0,0,0,2,0,0.0%,202010180tam
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202010180tam

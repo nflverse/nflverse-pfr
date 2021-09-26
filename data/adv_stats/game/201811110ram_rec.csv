@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Doug Baldwin,BaldDo00,receiving,SEA,5,5,39,0,3,30,6,9,1.8,6,1,5,0,0,0,99.2,201811110ram
+Tyler Lockett,LockTy00,receiving,SEA,6,5,67,1,2,49,9.8,18,3.6,12.2,0,NA,0,0,0,152.8,201811110ram
+Mike Davis,DaviMi01,receiving,SEA,6,4,22,1,1,-5,-1.3,27,6.8,1.7,1,4,1,16.7,0,112.5,201811110ram
+Ed Dickson,DickEd00,receiving,SEA,1,1,24,0,1,16,16,8,8,16,0,NA,0,0,0,118.7,201811110ram
+David Moore,MoorDa03,receiving,SEA,3,1,16,0,1,16,16,0,0,21.7,0,NA,0,0,0,52.1,201811110ram
+Nick Vannett,VannNi00,receiving,SEA,2,1,8,1,1,8,8,0,0,7,0,NA,0,0,0,100,201811110ram
+Brandin Cooks,CookBr00,receiving,LAR,12,10,100,0,5,49,4.9,51,5.1,6.2,0,NA,0,0,0,101.4,201811110ram
+Cooper Kupp,KuppCo00,receiving,LAR,8,5,39,0,2,27,5.4,12,2.4,9,0,NA,0,0,0,74.5,201811110ram
+Robert Woods,WoodRo02,receiving,LAR,5,4,89,0,4,69,17.3,20,5,15.4,1,4,0,0,0,118.7,201811110ram
+Todd Gurley,GurlTo01,receiving,LAR,4,3,40,0,2,-5,-1.7,45,15,-2,0,NA,1,25,0,106.2,201811110ram
+Tyler Higbee,HigbTy00,receiving,LAR,3,3,25,1,2,21,7,4,1.3,7,0,NA,0,0,0,141,201811110ram
+Gerald Everett,EverGe00,receiving,LAR,2,2,15,1,2,15,7.5,0,0,7.5,0,NA,0,0,0,137.5,201811110ram
+Malcolm Brown,BrowMa03,receiving,LAR,1,1,10,0,NA,-5,-5,15,15,-5,0,NA,0,0,0,108.3,201811110ram

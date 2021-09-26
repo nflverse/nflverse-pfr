@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Lamarcus Joyner,JoynLa00,defense,OAK,0,8,5,62.5%,47,9.4,5.9,1,118.2,10.4,42,5,3,0,0,0,0,7,0,0.0%,201909290clt
+Daryl Worley,WorlDa00,defense,OAK,0,13,3,23.1%,42,14,3.2,1,66.2,12.1,30,12,0,0,0,0,0,2,0,0.0%,201909290clt
+Nicholas Morrow,MorrNi00,defense,OAK,0,4,3,75.0%,21,7,5.3,0,86.5,2.8,5,16,3,0,0,0,0,7,0,0.0%,201909290clt
+Gareon Conley,ConlGa00,defense,OAK,0,6,3,50.0%,34,11.3,5.7,0,67.4,15.2,21,13,0,0,0,0,0,5,0,0.0%,201909290clt
+Karl Joseph,JoseKa00,defense,OAK,0,5,2,40.0%,31,15.5,6.2,0,61.2,25.6,18,13,2,0,0,0,0,4,0,0.0%,201909290clt
+Tahir Whitehead,WhitTa00,defense,OAK,0,3,1,33.3%,2,2,0.7,0,42.4,4.3,2,0,4,1,0,0,1,9,0,0.0%,201909290clt
+Erik Harris,HarrEr00,defense,OAK,1,2,1,50.0%,48,48,24,1,95.8,43,27,21,2,0,0,0,0,7,0,0.0%,201909290clt
+Corey Liuget,LiugCo00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201909290clt
+Johnathan Hankins,HankJo00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201909290clt
+Maxx Crosby,CrosMa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,201909290clt
+Vontaze Burfict,BurfVo00,defense,OAK,0,2,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,1,0,0.0%,201909290clt
+Clayton Geathers,GeatCl00,defense,IND,0,4,4,100.0%,33,8.3,8.3,0,101,3.8,15,18,3,0,0,0,0,9,0,0.0%,201909290clt
+Anthony Walker,WalkAn01,defense,IND,0,4,3,75.0%,39,13,9.8,0,105.2,2.8,11,28,3,0,0,1,1,9,0,0.0%,201909290clt
+Rock Ya-Sin,Ya-SRo00,defense,IND,0,5,3,60.0%,36,12,7.2,1,121.7,17,34,2,1,0,0,0,0,4,0,0.0%,201909290clt
+Khari Willis,WillKh00,defense,IND,0,3,2,66.7%,9,4.5,3,0,70.1,7.3,-4,13,2,0,0,0,0,9,1,10.0%,201909290clt
+Quincy Wilson,WilsQu01,defense,IND,0,2,2,100.0%,26,13,13,1,158.3,13,26,0,0,0,0,0,0,1,0,0.0%,201909290clt
+Kenny Moore,MoorKe03,defense,IND,0,2,2,100.0%,16,8,8,0,100,0.5,1,15,5,0,0,0,0,4,1,20.0%,201909290clt
+E.J. Speed,SpeeEJ00,defense,IND,0,2,1,50.0%,-1,-1,-0.5,0,56.2,-2.5,-2,1,3,0,0,0,0,6,0,0.0%,201909290clt
+Bobby Okereke,OkerBo00,defense,IND,0,3,1,33.3%,4,4,1.3,0,42.4,9,4,0,2,0,0,0,0,7,0,0.0%,201909290clt
+Denico Autry,AutrDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201909290clt
+Jabaal Sheard,SheaJa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201909290clt
+Matthew Adams,AdamMa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,201909290clt
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201909290clt

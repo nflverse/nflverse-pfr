@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Anthony Walker,WalkAn01,defense,IND,0,7,6,85.7%,60,10,8.6,0,102.4,7,44,16,4,0,0,0,0,11,0,0.0%,201812090htx
+Kenny Moore,MoorKe03,defense,IND,0,6,4,66.7%,29,7.3,4.8,0,77.8,8,9,20,8,0,0,1,1,7,1,12.5%,201812090htx
+Darius Leonard,LeonDa00,defense,IND,0,5,4,80.0%,34,8.5,6.8,0,95,3.2,10,24,3,0,0,1,1,12,1,7.7%,201812090htx
+Matthew Adams,AdamMa00,defense,IND,0,3,3,100.0%,53,17.7,17.7,0,118.7,9.7,29,24,1,0,1,0,1,6,0,0.0%,201812090htx
+Pierre Desir,DesiPi00,defense,IND,0,7,3,42.9%,27,9,3.9,0,53.9,7.6,16,11,0,0,0,0,0,3,0,0.0%,201812090htx
+Clayton Geathers,GeatCl00,defense,IND,0,4,3,75.0%,8,2.7,2,1,116.7,2.5,0,8,1,0,0,0,0,9,0,0.0%,201812090htx
+George Odum,OdumGe00,defense,IND,0,2,2,100.0%,15,7.5,7.5,0,97.9,1.5,3,12,1,1,0,0,1,2,0,0.0%,201812090htx
+Malik Hooker,HookMa00,defense,IND,0,3,2,66.7%,60,30,20,0,109.7,24,28,32,0,0,0,0,0,1,0,0.0%,201812090htx
+Jabaal Sheard,SheaJa00,defense,IND,0,1,1,100.0%,1,1,1,0,79.2,1,1,0,0,0,1,0,1,6,0,0.0%,201812090htx
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,1,0,0.0%,201812090htx
+Denico Autry,AutrDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,4,0,0.0%,201812090htx
+Margus Hunt,HuntMa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201812090htx
+Al Woods,WoodAl99,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,1,33.3%,201812090htx
+Kareem Jackson,JackKa99,defense,HOU,0,11,9,81.8%,87,9.7,7.9,0,99.6,6.3,42,45,0,0,0,0,0,11,1,8.3%,201812090htx
+Tyrann Mathieu,MathTy00,defense,HOU,0,9,5,55.6%,78,15.6,8.7,0,84.5,7.7,53,25,4,0,0,0,0,6,0,0.0%,201812090htx
+Zach Cunningham,CunnZa00,defense,HOU,0,5,4,80.0%,36,9,7.2,0,96.7,5.2,18,18,1,0,0,0,0,10,0,0.0%,201812090htx
+Shareece Wright,WrigSh00,defense,HOU,0,7,3,42.9%,52,17.3,7.4,1,108.3,10.3,44,8,0,0,0,0,0,2,0,0.0%,201812090htx
+Justin Reid,ReidJu00,defense,HOU,0,3,3,100.0%,83,27.7,27.7,1,158.3,21,63,20,1,0,0,0,0,9,1,10.0%,201812090htx
+Johnathan Joseph,JoseJo20,defense,HOU,0,4,2,50.0%,48,24,12,0,93.7,11,29,19,1,0,0,0,0,2,2,50.0%,201812090htx
+Whitney Mercilus,MercWh00,defense,HOU,0,2,1,50.0%,15,15,7.5,0,75,9.5,13,2,5,0,0,0,0,3,0,0.0%,201812090htx
+Jadeveon Clowney,ClowJa00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,1,33.3%,201812090htx
+J.J. Watt,WattJ.00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,2,0,0.0%,201812090htx
+Christian Covington,CoviCh00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,-2,NA,NA,0,0,1,1,2,1,0,0.0%,201812090htx
+Benardrick McKinney,McKiBe00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,1,0,1,3,0,0.0%,201812090htx
+Andre Hal,HalxAn00,defense,HOU,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,201812090htx
+D.J. Reader,ReadD.00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812090htx

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Austin Ekeler,EkelAu00,rushing,LAC,17,66,3,13,0.8,53,3.1,2,8.5,201909150det
+Justin Jackson,JackJu01,rushing,LAC,7,59,2,11,1.6,48,6.9,0,NA,201909150det
+Philip Rivers,RivePh00,rushing,LAC,1,12,1,12,12,0,0,0,NA,201909150det
+Kerryon Johnson,JohnKe06,rushing,DET,12,41,3,13,1.1,28,2.3,0,NA,201909150det
+C.J. Anderson,AndeC.00,rushing,DET,5,8,NA,0,0,8,1.6,1,5,201909150det
+Ty Johnson,JohnTy02,rushing,DET,5,30,2,11,2.2,19,3.8,1,5,201909150det
+Matthew Stafford,StafMa00,rushing,DET,4,13,1,11,2.8,2,0.5,0,NA,201909150det
+J.D. McKissic,McKiJ.00,rushing,DET,2,2,NA,-2,-1,4,2,0,NA,201909150det

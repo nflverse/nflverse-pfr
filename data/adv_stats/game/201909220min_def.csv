@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Nicholas Morrow,MorrNi00,defense,OAK,0,4,3,75.0%,32,10.7,8,0,97.9,-3,-9,41,1,1,0,0,1,5,0,0.0%,201909220min
+Gareon Conley,ConlGa00,defense,OAK,0,4,3,75.0%,15,5,3.8,0,80.2,3.3,13,2,0,0,0,0,0,3,0,0.0%,201909220min
+Vontaze Burfict,BurfVo00,defense,OAK,0,3,3,100.0%,15,5,5,0,87.5,0,0,15,2,0,0,0,0,7,2,22.2%,201909220min
+Daryl Worley,WorlDa00,defense,OAK,0,5,3,60.0%,31,10.3,6.2,0,77.9,8.2,9,22,0,0,0,0,0,4,0,0.0%,201909220min
+Curtis Riley,RileCu00,defense,OAK,0,2,2,100.0%,55,27.5,27.5,1,158.3,18,36,19,0,0,0,0,0,3,2,40.0%,201909220min
+Tahir Whitehead,WhitTa00,defense,OAK,0,2,1,50.0%,26,26,13,0,95.8,9,22,4,2,0,0,0,0,3,0,0.0%,201909220min
+P.J. Hall,HallP.00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201909220min
+Arden Key,KeyxAr00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201909220min
+Johnathan Hankins,HankJo00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,8,0,0.0%,201909220min
+Karl Joseph,JoseKa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,8,1,11.1%,201909220min
+Maxx Crosby,CrosMa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,201909220min
+Lamarcus Joyner,JoynLa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201909220min
+Kyle Wilber,WilbKy00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,1,0,0.0%,201909220min
+Trae Waynes,WaynTr00,defense,MIN,0,6,6,100.0%,31,5.2,5.2,0,88.2,2.3,14,17,0,0,0,0,0,8,1,11.1%,201909220min
+Eric Wilson,WilsEr00,defense,MIN,0,7,5,71.4%,41,8.2,5.9,1,125.6,7.3,32,9,3,0,0,2,2,11,0,0.0%,201909220min
+Kentrell Brothers,BrotKe00,defense,MIN,0,3,3,100.0%,35,11.7,11.7,0,115.3,10.7,32,3,0,0,0,0,0,2,0,0.0%,201909220min
+Mike Hughes,HughMi00,defense,MIN,0,5,3,60.0%,23,7.7,4.6,0,71.2,9,15,8,0,0,0,0,0,3,2,40.0%,201909220min
+Harrison Smith,SmitHa00,defense,MIN,1,3,3,100.0%,32,10.7,10.7,0,71.5,9,27,5,1,0,0,0,0,5,1,16.7%,201909220min
+Xavier Rhodes,RhodXa00,defense,MIN,0,2,2,100.0%,10,5,5,0,87.5,0.5,1,9,0,0,0,0,0,2,0,0.0%,201909220min
+Nate Meadors,MeadNa00,defense,MIN,0,2,2,100.0%,19,9.5,9.5,1,145.8,5,10,9,0,0,0,0,0,2,0,0.0%,201909220min
+Danielle Hunter,HuntDa01,defense,MIN,0,1,1,100.0%,30,30,30,0,118.7,-3,-3,33,0,0,0,1,1,2,1,33.3%,201909220min
+Eric Kendricks,KendEr00,defense,MIN,0,2,1,50.0%,17,17,8.5,0,79.2,14,14,3,1,0,0,0,0,7,1,12.5%,201909220min
+Everson Griffen,GrifEv99,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,6,0,0.0%,201909220min

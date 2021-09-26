@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Harris,HarrDa06,rushing,NWE,17,100,2,82,4.8,18,1.1,0,NA,202010050kan
+Rex Burkhead,BurkRe00,rushing,NWE,11,45,1,36,3.3,9,0.8,0,NA,202010050kan
+James White,WhitJa02,rushing,NWE,3,21,2,16,5.3,5,1.7,0,NA,202010050kan
+Jarrett Stidham,StidJa00,rushing,NWE,2,3,1,3,1.5,0,0,0,NA,202010050kan
+Brian Hoyer,HoyeBr00,rushing,NWE,1,8,1,2,2,6,6,1,1,202010050kan
+Isaiah Zuber,ZubeIs00,rushing,NWE,1,8,1,8,8,0,0,0,NA,202010050kan
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,16,64,3,44,2.8,20,1.3,2,8,202010050kan
+Patrick Mahomes,MahoPa00,rushing,KAN,8,28,1,28,3.5,0,0,0,NA,202010050kan
+Darrel Williams,WillDa10,rushing,KAN,1,2,1,2,2,0,0,0,NA,202010050kan

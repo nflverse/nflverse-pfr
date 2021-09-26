@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Michael Ojemudia,OjemMi00,defense,DEN,0,11,7,63.6%,87,12.4,7.9,0,88.1,6.1,48,39,0,0,0,0,0,5,0,0.0%,202012130car
+Kareem Jackson,JackKa99,defense,DEN,0,6,5,83.3%,31,6.2,5.2,0,88.2,1.5,-1,32,0,0,0,0,0,7,2,22.2%,202012130car
+Will Parks,ParkWi01,defense,DEN,0,4,4,100.0%,33,8.3,8.3,0,101,6.3,25,8,4,0,0,1,1,6,0,0.0%,202012130car
+De'Vante Bausby,BausDe00,defense,DEN,0,7,4,57.1%,41,10.3,5.9,0,74.1,13,24,17,0,0,0,0,0,5,0,0.0%,202012130car
+Justin Simmons,SimmJu00,defense,DEN,0,5,4,80.0%,60,15,12,0,116.7,6.6,28,32,0,0,0,0,0,7,1,12.5%,202012130car
+Alexander Johnson,JohnAl01,defense,DEN,0,3,3,100.0%,4,1.3,1.3,0,79.2,0.3,1,3,5,0,0,0,0,5,0,0.0%,202012130car
+Josey Jewell,JeweJo00,defense,DEN,0,4,2,50.0%,14,7,3.5,0,58.3,1.8,-6,20,2,0,1,0,1,6,0,0.0%,202012130car
+Bradley Chubb,ChubBr00,defense,DEN,0,1,1,100.0%,13,13,13,0,118.7,3,3,10,0,0,1,0,1,3,1,25.0%,202012130car
+Dre'Mont Jones,JoneDr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,1,0,0.0%,202012130car
+Jeremiah Attaochu,AttaJe00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,0,1,2,4,1,20.0%,202012130car
+McTelvin Agim,AgimMc00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202012130car
+Shelby Harris,HarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202012130car
+DeMarcus Walker,WalkDe03,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202012130car
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,0,0,0,2,0,0.0%,202012130car
+Juston Burris,BurrJu00,defense,CAR,0,7,5,71.4%,51,10.2,7.3,0,92,2.3,7,44,2,0,0,0,0,7,1,12.5%,202012130car
+Rasul Douglas,DougRa00,defense,CAR,0,5,4,80.0%,132,33,26.4,3,158.3,22.4,112,20,1,0,0,0,0,1,1,50.0%,202012130car
+Shaq Thompson,ThomSh01,defense,CAR,0,4,3,75.0%,24,8,6,0,89.6,1,-13,37,6,2,0,0,2,3,1,25.0%,202012130car
+Brian Burns,BurnBr00,defense,CAR,0,1,1,100.0%,7,7,7,0,95.8,3,3,4,0,0,1,0,1,6,1,14.3%,202012130car
+Jeremy Chinn,ChinJe00,defense,CAR,0,1,1,100.0%,2,2,2,0,79.2,-2,-2,4,5,0,0,1,1,8,1,11.1%,202012130car
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,1,1,100.0%,2,2,2,0,79.2,-1,-1,3,6,0,0,0,0,5,0,0.0%,202012130car
+Tahir Whitehead,WhitTa00,defense,CAR,0,1,1,100.0%,6,6,6,0,91.7,-3,-3,9,1,0,0,0,0,1,0,0.0%,202012130car
+Tre Boston,BostTr00,defense,CAR,0,1,1,100.0%,8,8,8,0,100,0,0,8,4,0,0,0,0,6,0,0.0%,202012130car
+Austin Larkin,LarkAu00,defense,CAR,0,1,1,100.0%,14,14,14,0,118.7,1,1,13,0,0,0,0,0,4,0,0.0%,202012130car
+Stantley Thomas-Oliver,ThomSt00,defense,CAR,0,1,1,100.0%,32,32,32,0,118.7,18,18,14,0,0,0,0,0,0,0,NA,202012130car
+Adarius Taylor,GlanAd00,defense,CAR,0,1,1,100.0%,2,2,2,1,118.7,2,2,0,0,0,0,0,0,0,0,NA,202012130car
+Yetur Gross-Matos,GrosYe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,4,0,0.0%,202012130car
+Derrick Brown,BrowDe05,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202012130car
+Donte Jackson,JackDo02,defense,CAR,0,3,0,0.0%,NA,NA,0,NA,39.6,6.7,NA,NA,0,0,0,0,0,3,0,0.0%,202012130car
+Troy Pride Jr.,PridTr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202012130car

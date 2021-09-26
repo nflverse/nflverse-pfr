@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Matt Ryan,RyanMa00,passing,ATL,21,43,251,9,19.1,380,8.8,159,7.6,3.7,92,4.4,2,5.0%,10,25.0%,4,12,3,6,13,26.5%,2,4,201809060phi
+Nick Foles,FoleNi00,passing,PHI,19,34,117,4,11.1,277,8.1,66,3.5,1.9,51,2.7,4,11.8%,6,17.6%,2,7,5,2,9,25.0%,0,NA,201809060phi
+Nelson Agholor,AghoNe00,passing,PHI,1,1,15,1,100,8,8,8,8,8,7,7,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201809060phi

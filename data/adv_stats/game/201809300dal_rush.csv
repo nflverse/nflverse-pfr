@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kerryon Johnson,JohnKe06,rushing,DET,9,55,2,38,4.2,17,1.9,2,4.5,201809300dal
+LeGarrette Blount,BlouLe00,rushing,DET,7,12,NA,-4,-0.6,16,2.3,1,7,201809300dal
+Matthew Stafford,StafMa00,rushing,DET,2,5,1,5,2.5,0,0,0,NA,201809300dal
+Jamal Agnew,AgneJa00,rushing,DET,1,17,1,14,14,3,3,0,NA,201809300dal
+Theo Riddick,RiddTh00,rushing,DET,1,7,0,1,1,6,6,1,1,201809300dal
+Ezekiel Elliott,ElliEz00,rushing,DAL,25,152,8,90,3.6,62,2.5,0,NA,201809300dal
+Rod Smith,SmitRo06,rushing,DAL,6,22,2,13,2.2,9,1.5,0,NA,201809300dal
+Dak Prescott,PresDa01,rushing,DAL,3,2,0,2,0.7,0,0,0,NA,201809300dal
+Tavon Austin,AustTa00,rushing,DAL,1,7,NA,7,7,0,0,0,NA,201809300dal

@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cooper Kupp,KuppCo00,receiving,LAR,12,11,101,2,6,64,5.8,37,3.4,6.3,0,NA,0,0,0,141.3,201909220cle
+Brandin Cooks,CookBr00,receiving,LAR,12,8,112,0,7,86,10.8,26,3.3,12.7,0,NA,1,8.3,1,61.8,201909220cle
+Robert Woods,WoodRo02,receiving,LAR,8,3,40,0,2,37,12.3,3,1,15.5,0,NA,0,0,1,14.6,201909220cle
+Gerald Everett,EverGe00,receiving,LAR,2,2,15,0,1,11,5.5,4,2,5.5,2,1,0,0,0,97.9,201909220cle
+Malcolm Brown,BrowMa03,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,3,0,NA,1,100,0,39.6,201909220cle
+Todd Gurley,GurlTo01,receiving,LAR,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,201909220cle
+Josh Reynolds,ReynJo00,receiving,LAR,2,0,0,0,NA,0,NA,0,NA,12.5,0,NA,0,0,0,39.6,201909220cle
+Odell Beckham Jr.,BeckOd00,receiving,CLE,9,6,56,0,3,41,6.8,15,2.5,5.7,1,6,0,0,0,83.6,201909220cle
+Nick Chubb,ChubNi00,receiving,CLE,7,4,35,0,1,-2,-0.5,37,9.3,-1.7,0,NA,0,0,0,70.5,201909220cle
+Jarvis Landry,LandJa00,receiving,CLE,9,3,62,0,3,35,11.7,27,9,15.3,0,NA,0,0,0,58.6,201909220cle
+Damion Ratley,RatlDa00,receiving,CLE,5,3,26,0,3,24,8,2,0.7,6.8,0,NA,0,0,1,34.2,201909220cle
+Demetrius Harris,HarrDe03,receiving,CLE,2,1,2,1,1,2,2,0,0,3,0,NA,0,0,0,95.8,201909220cle
+Ricky Seals-Jones,SealRi00,receiving,CLE,2,1,14,0,NA,12,12,2,2,13,0,NA,0,0,0,72.9,201909220cle

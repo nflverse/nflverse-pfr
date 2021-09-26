@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mark Walton,WaltMa00,rushing,MIA,11,35,3,25,2.3,10,0.9,0,NA,201910280pit
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,5,17,1,11,2.2,6,1.2,0,NA,201910280pit
+Kalen Ballage,BallKa00,rushing,MIA,3,8,0,6,2,2,0.7,0,NA,201910280pit
+James Conner,ConnJa00,rushing,PIT,23,145,7,81,3.5,64,2.8,1,23,201910280pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,5,13,NA,7,1.4,6,1.2,1,5,201910280pit
+Trey Edmunds,EdmuTr00,rushing,PIT,1,0,NA,0,0,0,0,0,NA,201910280pit

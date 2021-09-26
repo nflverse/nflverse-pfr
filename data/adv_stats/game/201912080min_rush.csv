@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Bo Scarbrough,ScarBo01,rushing,DET,19,65,2,29,1.5,36,1.9,1,19,201912080min
+Ty Johnson,JohnTy02,rushing,DET,2,3,NA,2,1,1,0.5,0,NA,201912080min
+J.D. McKissic,McKiJ.00,rushing,DET,1,2,NA,2,2,0,0,0,NA,201912080min
+Dalvin Cook,CookDa01,rushing,MIN,18,62,3,25,1.4,37,2.1,0,NA,201912080min
+Alexander Mattison,MattAl01,rushing,MIN,14,46,2,20,1.4,26,1.9,1,14,201912080min
+Mike Boone,BoonMi00,rushing,MIN,5,13,NA,5,1,8,1.6,1,5,201912080min
+Kirk Cousins,CousKi00,rushing,MIN,1,-1,0,-1,-1,0,0,0,NA,201912080min
+C.J. Ham,HamxC.00,rushing,MIN,1,0,0,0,0,0,0,0,NA,201912080min

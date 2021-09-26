@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dion Lewis,LewiDi00,receiving,TEN,7,7,33,0,NA,-1,-0.1,34,4.9,-0.1,1,7,0,0,0,86.3,201811260htx
+Corey Davis,DaviCo03,receiving,TEN,4,4,96,1,3,76,19,20,5,19,1,4,0,0,0,158.3,201811260htx
+Anthony Firkser,FirkAn00,receiving,TEN,4,4,52,0,2,29,7.3,23,5.8,7.3,0,NA,0,0,0,118.7,201811260htx
+Jonnu Smith,SmitJo01,receiving,TEN,2,2,63,1,1,2,1,61,30.5,1,1,2,0,0,0,158.3,201811260htx
+Derrick Henry,HenrDe00,receiving,TEN,3,2,19,0,0,-3,-1.5,22,11,-0.7,2,1,0,0,0,84,201811260htx
+Cameron Batson,BatsCa00,receiving,TEN,1,1,13,0,1,-3,-3,16,16,-3,0,NA,0,0,0,118.7,201811260htx
+Luke Stocker,StocLu00,receiving,TEN,1,1,14,0,1,6,6,8,8,6,0,NA,0,0,0,118.7,201811260htx
+MyCole Pruitt,PruiMy00,receiving,TEN,1,1,13,0,1,7,7,6,6,7,0,NA,0,0,0,118.7,201811260htx
+DeAndre Hopkins,HopkDe00,receiving,HOU,6,5,74,0,4,71,14.2,3,0.6,19.5,0,NA,0,0,0,118.1,201811260htx
+Demaryius Thomas,ThomDe03,receiving,HOU,5,4,38,2,4,22,5.5,16,4,6.4,0,NA,0,0,0,137.9,201811260htx
+Ryan Griffin,GrifRy00,receiving,HOU,4,3,38,0,2,7,2.3,31,10.3,2.3,0,NA,1,25,0,104.2,201811260htx
+Keke Coutee,CoutKe00,receiving,HOU,2,2,14,0,NA,8,4,6,3,4,0,NA,0,0,0,95.8,201811260htx
+Lamar Miller,MillLa01,receiving,HOU,1,1,5,0,0,-2,-2,7,7,-2,0,NA,0,0,0,87.5,201811260htx
+DeAndre Carter,CartDe02,receiving,HOU,1,1,14,0,1,14,14,0,0,14,0,NA,0,0,0,118.7,201811260htx
+Alfred Blue,BlueAl00,receiving,HOU,1,1,13,0,0,2,2,11,11,2,0,NA,0,0,0,118.7,201811260htx
+Jordan Akins,AkinJo00,receiving,HOU,1,1,8,0,NA,1,1,7,7,1,0,NA,0,0,0,100,201811260htx
+Jordan Thomas,ThomJo05,receiving,HOU,2,1,6,0,NA,-1,-1,7,7,4,0,NA,1,50,0,56.2,201811260htx

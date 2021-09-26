@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Derek Carr,CarrDe02,passing,OAK,16,21,171,9,32.1,106,5,55,3.4,2.6,116,7.3,1,5.0%,2,10.0%,7,7,5,1,13,43.3%,2,3,201811010sfo
+A.J. McCarron,McCaA.00,passing,OAK,1,3,8,NA,NA,7,2.3,7,7,2.3,1,1,0,0.0%,0,0.0%,1,0,1,1,3,75.0%,0,NA,201811010sfo
+Nick Mullens,MullNi00,passing,SFO,16,22,262,10,45.5,146,6.6,81,5.1,3.7,181,11.3,1,4.5%,3,13.6%,0,7,0,1,1,4.5%,0,NA,201811010sfo

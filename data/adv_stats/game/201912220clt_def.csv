@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Luke Kuechly,KuecLu00,defense,CAR,0,4,3,75.0%,17,5.7,4.3,0,82.3,6.5,11,6,2,1,1,0,2,7,0,0.0%,201912220clt
+Ross Cockrell,CockRo00,defense,CAR,0,6,3,50.0%,21,7,3.5,0,58.3,7.7,22,-1,0,0,0,0,0,10,0,0.0%,201912220clt
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,3,2,66.7%,27,13.5,9,0,95.1,8.7,24,3,4,1,2,0,3,2,1,33.3%,201912220clt
+Tre Boston,BostTr00,defense,CAR,0,2,2,100.0%,24,12,12,0,116.7,7.5,15,9,1,0,0,0,0,4,0,0.0%,201912220clt
+Eric Reid,ReidEr00,defense,CAR,0,1,1,100.0%,19,19,19,0,118.7,10,10,9,3,1,0,0,1,6,0,0.0%,201912220clt
+Javien Elliott,ElliJa01,defense,CAR,0,2,1,50.0%,2,2,1,0,56.2,5,-5,7,2,0,0,0,0,4,0,0.0%,201912220clt
+James Bradberry,BradJa00,defense,CAR,0,5,1,20.0%,7,7,1.4,0,39.6,20.4,7,0,0,0,0,0,0,3,0,0.0%,201912220clt
+Gerald McCoy,McCoGe99,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,201912220clt
+Bruce Irvin,IrviBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,2,2,4,0,0.0%,201912220clt
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201912220clt
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,0.0%,201912220clt
+Pierre Desir,DesiPi00,defense,IND,2,12,6,50.0%,46,7.7,3.8,0,20.1,15.9,26,20,0,0,0,0,0,5,0,0.0%,201912220clt
+Darius Leonard,LeonDa00,defense,IND,0,7,6,85.7%,62,10.3,8.9,0,103.6,6.7,16,46,2,0,0,0,0,11,0,0.0%,201912220clt
+Anthony Walker,WalkAn01,defense,IND,1,7,4,57.1%,21,5.3,3,0,22.6,6.1,-9,30,1,0,0,1,1,10,1,9.1%,201912220clt
+Rock Ya-Sin,Ya-SRo00,defense,IND,0,4,3,75.0%,42,14,10.5,0,108.3,7.5,25,17,0,0,0,0,0,4,0,0.0%,201912220clt
+Bobby Okereke,OkerBo00,defense,IND,0,3,3,100.0%,26,8.7,8.7,0,102.8,1,3,23,2,0,0,0,0,9,0,0.0%,201912220clt
+Khari Willis,WillKh00,defense,IND,0,2,2,100.0%,8,4,4,0,83.3,0.5,1,7,1,0,0,0,0,3,0,0.0%,201912220clt
+Tyquan Lewis,LewiTy00,defense,IND,0,1,1,100.0%,7,7,7,0,95.8,-6,-6,13,0,2,0,0,2,1,1,50.0%,201912220clt
+Briean Boddy-Calhoun,BoddBr01,defense,IND,0,2,1,50.0%,2,2,1,0,56.2,3,1,1,2,0,0,0,0,5,0,0.0%,201912220clt
+Malik Hooker,HookMa00,defense,IND,0,1,1,100.0%,19,19,19,0,118.7,17,17,2,0,0,0,0,0,2,0,0.0%,201912220clt
+Grover Stewart,StewGr00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,1,4,2,0,0.0%,201912220clt
+Jabaal Sheard,SheaJa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,0,4,2,0,0.0%,201912220clt
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,3,0,0.0%,201912220clt
+Justin Houston,HousJu00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,2,0,0.0%,201912220clt
+Trevon Coley,ColeTr01,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201912220clt
+George Odum,OdumGe00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,20,NA,NA,1,0,0,0,0,2,0,0.0%,201912220clt
+Clayton Geathers,GeatCl00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,20,NA,NA,0,0,0,0,0,5,0,0.0%,201912220clt

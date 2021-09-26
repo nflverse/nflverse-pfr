@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Tahir Whitehead,WhitTa00,defense,OAK,0,4,4,100.0%,51,12.8,12.8,0,118.7,8,32,19,3,0,0,0,0,6,1,14.3%,201809160den
+Gareon Conley,ConlGa00,defense,OAK,0,10,4,40.0%,41,10.3,4.1,0,52.5,9.7,16,25,0,0,0,0,0,4,1,20.0%,201809160den
+Leon Hall,HallLe98,defense,OAK,0,5,4,80.0%,38,9.5,7.6,0,98.3,10.8,27,11,1,0,0,0,0,5,1,16.7%,201809160den
+Rashaan Melvin,MelvRa00,defense,OAK,1,9,3,33.3%,33,11,3.7,0,5.6,12.9,30,3,0,1,0,0,1,3,2,40.0%,201809160den
+Erik Harris,HarrEr00,defense,OAK,0,2,2,100.0%,26,13,13,0,118.7,9,18,8,0,0,0,0,0,4,0,0.0%,201809160den
+Reggie Nelson,NelsRe99,defense,OAK,0,2,2,100.0%,24,12,12,0,116.7,11,22,2,4,0,0,0,0,2,0,0.0%,201809160den
+Arden Key,KeyxAr00,defense,OAK,0,1,1,100.0%,8,8,8,0,100,0,0,8,0,0,1,0,1,2,0,0.0%,201809160den
+Marcus Gilchrist,GilcMa00,defense,OAK,0,3,1,33.3%,23,23,7.7,0,61.8,9,21,2,2,0,0,0,0,5,2,28.6%,201809160den
+Frostee Rucker,RuckFr99,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,201809160den
+Johnathan Hankins,HankJo00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201809160den
+Maurice Hurst Jr.,HursMa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201809160den
+Derrick Johnson,JohnDe25,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,5,1,16.7%,201809160den
+Bruce Irvin,IrviBr00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,1,1,50.0%,201809160den
+Marquel Lee,LeexMa01,defense,OAK,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,0,0,0,0,1,0,0.0%,201809160den
+Justin Simmons,SimmJu00,defense,DEN,0,6,6,100.0%,71,11.8,11.8,1,155.6,8.3,50,21,2,1,0,0,1,9,1,10.0%,201809160den
+Bradley Roby,RobyBr00,defense,DEN,0,6,6,100.0%,45,7.5,7.5,0,97.9,6.2,37,8,0,0,0,0,0,5,0,0.0%,201809160den
+Brandon Marshall,MarsBr01,defense,DEN,0,4,4,100.0%,45,11.3,11.3,0,113.5,3.8,15,30,4,0,0,0,0,4,0,0.0%,201809160den
+Adam Jones,JonePa20,defense,DEN,0,5,4,80.0%,58,14.5,11.6,0,115,5.6,17,41,0,0,0,0,0,3,1,25.0%,201809160den
+Tramaine Brock,BrocTr00,defense,DEN,0,5,4,80.0%,43,10.8,8.6,0,102.5,7.8,30,13,0,0,0,0,0,6,0,0.0%,201809160den
+Chris Harris Jr.,HarrCh01,defense,DEN,0,3,3,100.0%,29,9.7,9.7,1,146.5,9.3,28,1,0,0,0,0,0,3,1,25.0%,201809160den
+Todd Davis,DaviTo01,defense,DEN,0,3,3,100.0%,16,5.3,5.3,0,88.9,4.3,13,3,2,0,0,0,0,5,0,0.0%,201809160den
+Von Miller,MillVo00,defense,DEN,0,1,1,100.0%,13,13,13,0,118.7,6,6,7,3,0,0,1,1,5,1,16.7%,201809160den
+Domata Peko,PekoDo20,defense,DEN,0,1,1,100.0%,0,0,0,0,79.2,0,0,0,0,0,0,0,0,5,1,16.7%,201809160den
+Zach Kerr,KerrZa00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201809160den
+Bradley Chubb,ChubBr00,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,-1,NA,NA,1,0,0,0,0,3,0,0.0%,201809160den
+Shaquil Barrett,BarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,201809160den
+Shane Ray,RayxSh00,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,11,NA,NA,0,0,0,0,0,1,0,0.0%,201809160den
+Josey Jewell,JeweJo00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,1,33.3%,201809160den
+Darian Stewart,StewDa00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201809160den

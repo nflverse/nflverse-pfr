@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Nik Needham,NeedNi00,defense,MIA,1,8,3,37.5%,34,11.3,4.3,0,11.5,11.3,30,4,1,0,1,0,1,6,0,0.0%,201911100clt
+Jerome Baker,BakeJe00,defense,MIA,0,5,2,40.0%,20,10,4,0,52.1,5,1,19,10,1,0,1,2,8,0,0.0%,201911100clt
+Raekwon McMillan,McMiRa02,defense,MIA,0,3,2,66.7%,25,12.5,8.3,0,92.4,4,7,18,4,0,0,0,0,5,0,0.0%,201911100clt
+Eric Rowe,RoweEr00,defense,MIA,0,8,2,25.0%,31,15.5,3.9,0,43.2,17.8,27,4,2,0,0,0,0,7,0,0.0%,201911100clt
+Ryan Lewis,LewiRy01,defense,MIA,0,4,2,50.0%,34,17,8.5,0,79.2,14.5,28,6,0,0,0,0,0,1,0,0.0%,201911100clt
+Steven Parker,ParkSt00,defense,MIA,1,4,2,50.0%,31,15.5,7.8,0,36.5,7,12,19,1,0,0,0,0,2,1,33.3%,201911100clt
+Vince Biegel,BiegVi00,defense,MIA,0,1,1,100.0%,20,20,20,0,118.7,0,0,20,8,1,1,0,2,5,1,16.7%,201911100clt
+Jamal Perry,WiltJo01,defense,MIA,0,2,1,50.0%,7,7,3.5,0,58.3,4.5,3,4,2,0,0,0,0,1,0,0.0%,201911100clt
+Chris Lammons,LammCh00,defense,MIA,0,2,1,50.0%,20,20,10,0,85.4,18,20,0,1,0,0,0,0,1,0,0.0%,201911100clt
+Bobby McCain,McCaBo01,defense,MIA,1,1,1,100.0%,4,4,4,0,43.7,4,4,0,0,0,0,0,0,3,0,0.0%,201911100clt
+Taco Charlton,CharTa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1,0,2,1,0,0.0%,201911100clt
+Christian Wilkins,WilkCh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201911100clt
+Samuel Eguavoen,EguaSa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,1,0,1,3,1,25.0%,201911100clt
+John Jenkins,JenkJo00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201911100clt
+Kenny Moore,MoorKe03,defense,IND,0,5,4,80.0%,26,6.5,5.2,0,88.3,0.6,2,24,4,1,0,0,1,5,1,16.7%,201911100clt
+Khari Willis,WillKh00,defense,IND,0,4,4,100.0%,38,9.5,9.5,0,106.2,6.5,26,12,2,0,0,0,0,8,0,0.0%,201911100clt
+Darius Leonard,LeonDa00,defense,IND,1,7,3,42.9%,18,6,2.6,0,10.7,3,4,14,7,0,0,1,1,13,0,0.0%,201911100clt
+Rock Ya-Sin,Ya-SRo00,defense,IND,0,6,3,50.0%,20,6.7,3.3,0,57.6,10.5,14,6,0,0,0,0,0,4,1,20.0%,201911100clt
+Marvell Tell III,TellMa00,defense,IND,0,5,2,40.0%,22,11,4.4,0,53.7,6.2,9,13,0,0,0,0,0,3,0,0.0%,201911100clt
+Malik Hooker,HookMa00,defense,IND,0,2,2,100.0%,23,11.5,11.5,0,114.6,6,12,11,0,0,0,0,0,3,1,25.0%,201911100clt
+Jabaal Sheard,SheaJa00,defense,IND,0,1,1,100.0%,9,9,9,0,104.2,2,2,7,0,1,0,1,2,3,0,0.0%,201911100clt
+George Odum,OdumGe00,defense,IND,0,1,1,100.0%,13,13,13,0,118.7,13,13,0,1,0,1,0,1,4,0,0.0%,201911100clt
+Justin Houston,HousJu00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,1,5,3,1,25.0%,201911100clt
+Denico Autry,AutrDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,1,50.0%,201911100clt
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,1,50.0%,201911100clt
+Grover Stewart,StewGr00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201911100clt
+Anthony Walker,WalkAn01,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,1,0,0,0,0,3,0,0.0%,201911100clt
+Clayton Geathers,GeatCl00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,0,0,1,0,0.0%,201911100clt
+Bobby Okereke,OkerBo00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,7,NA,NA,0,0,0,0,0,4,0,0.0%,201911100clt
+Margus Hunt,HuntMa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201911100clt

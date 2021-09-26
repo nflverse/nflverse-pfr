@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Stefon Diggs,DiggSt00,receiving,MIN,11,10,91,0,5,33,3.3,58,5.8,6.5,0,NA,0,0,0,101.1,201810070phi
+Adam Thielen,ThieAd00,receiving,MIN,10,7,116,1,6,67,9.6,49,7,10.3,0,NA,0,0,0,142.1,201810070phi
+Kyle Rudolph,RudoKy00,receiving,MIN,5,5,41,0,1,15,3,26,5.2,3,1,5,0,0,0,100.8,201810070phi
+Laquon Treadwell,TreaLa00,receiving,MIN,4,3,21,0,1,16,5.3,5,1.7,4.5,0,NA,0,0,0,86.5,201810070phi
+Latavius Murray,MurrLa00,receiving,MIN,2,2,14,0,0,-5,-2.5,19,9.5,-2.5,2,1,0,0,0,95.8,201810070phi
+Roc Thomas,ThomRo05,receiving,MIN,2,1,6,0,0,5,5,1,1,1,0,NA,0,0,0,56.2,201810070phi
+C.J. Ham,HamxC.00,receiving,MIN,1,1,7,0,NA,5,5,2,2,5,0,NA,0,0,0,95.8,201810070phi
+David Morgan,MorgDa01,receiving,MIN,1,1,5,0,NA,4,4,1,1,4,0,NA,0,0,0,87.5,201810070phi
+Aldrick Robinson,RobiAl00,receiving,MIN,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,201810070phi
+Zach Ertz,ErtzZa00,receiving,PHI,11,10,110,1,7,55,5.5,55,5.5,6.1,0,NA,0,0,0,138.6,201810070phi
+Nelson Agholor,AghoNe00,receiving,PHI,4,4,45,0,2,33,8.3,12,3,8.3,2,2,0,0,0,113.5,201810070phi
+Wendell Smallwood,SmalWe00,receiving,PHI,4,3,44,1,2,18,6,26,8.7,5.5,0,NA,1,25,0,150,201810070phi
+Dallas Goedert,GoedDa00,receiving,PHI,2,2,16,0,1,11,5.5,5,2.5,5.5,0,NA,0,0,0,100,201810070phi
+Alshon Jeffery,JeffAl00,receiving,PHI,8,2,39,0,2,19,9.5,20,10,14,0,NA,0,0,0,47.4,201810070phi
+Jordan Matthews,MattJo00,receiving,PHI,1,1,4,0,NA,4,4,0,0,4,0,NA,0,0,0,83.3,201810070phi
+Shelton Gibson,GibsSh00,receiving,PHI,1,1,48,0,1,48,48,0,0,48,0,NA,0,0,0,118.7,201810070phi
+Jay Ajayi,AjayJa00,receiving,PHI,1,1,5,0,0,0,0,5,5,0,0,NA,0,0,0,87.5,201810070phi

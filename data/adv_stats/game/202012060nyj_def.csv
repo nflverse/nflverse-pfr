@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Lamarcus Joyner,JoynLa00,defense,LVR,0,6,4,66.7%,55,13.8,9.2,0,95.8,7,15,40,1,0,0,0,0,2,1,33.3%,202012060nyj
+Nick Kwiatkoski,KwiaNi00,defense,LVR,0,3,3,100.0%,41,13.7,13.7,0,118.7,5,15,26,0,0,0,0,0,7,1,12.5%,202012060nyj
+Jeff Heath,HeatJe00,defense,LVR,0,4,3,75.0%,31,10.3,7.8,1,136.5,7,19,12,1,0,0,0,0,8,0,0.0%,202012060nyj
+Trayvon Mullen,MullTr00,defense,LVR,1,4,2,50.0%,22,11,5.5,1,66.7,6.3,12,10,0,0,0,0,0,1,1,50.0%,202012060nyj
+Maxx Crosby,CrosMa00,defense,LVR,0,1,1,100.0%,18,18,18,0,118.7,2,2,16,0,1,1,0,2,1,1,50.0%,202012060nyj
+Nicholas Morrow,MorrNi00,defense,LVR,0,1,1,100.0%,10,10,10,0,108.3,-1,-1,11,2,0,0,1,1,5,0,0.0%,202012060nyj
+Erik Harris,HarrEr00,defense,LVR,0,2,1,50.0%,23,23,11.5,0,91.7,25,20,3,5,0,1,0,1,5,2,28.6%,202012060nyj
+Nevin Lawson,LawsNe00,defense,LVR,0,2,1,50.0%,3,3,1.5,1,95.8,1,3,0,0,0,0,0,0,3,1,25.0%,202012060nyj
+Clelin Ferrell,FerrCl00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,2,5,7,0,0.0%,202012060nyj
+Arden Key,KeyxAr00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202012060nyj
+Maurice Hurst Jr.,HursMa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202012060nyj
+Johnathan Hankins,HankJo00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202012060nyj
+Cory Littleton,LittCo01,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,3,0,0.0%,202012060nyj
+Bryce Hall,HallBr02,defense,NYJ,0,9,7,77.8%,78,11.1,8.7,1,139.8,5.2,33,45,0,0,0,0,0,7,0,0.0%,202012060nyj
+Lamar Jackson,JackLa02,defense,NYJ,0,11,6,54.5%,122,20.3,11.1,2,133.3,14.7,96,26,0,0,0,0,0,4,0,0.0%,202012060nyj
+Neville Hewitt,HewiNe00,defense,NYJ,0,5,5,100.0%,58,11.6,11.6,0,115,5.6,28,30,10,0,0,1,1,12,0,0.0%,202012060nyj
+Ashtyn Davis,DaviAs00,defense,NYJ,0,7,5,71.4%,64,12.8,9.1,1,139.3,10,42,22,10,0,0,0,0,6,0,0.0%,202012060nyj
+Harvey Langi,LangHa00,defense,NYJ,0,5,4,80.0%,40,10,8,0,100,4.2,16,24,8,0,0,0,0,8,1,11.1%,202012060nyj
+Javelin Guidry,GuidJa01,defense,NYJ,0,4,3,75.0%,15,5,3.8,0,80.2,5.3,12,3,3,0,0,0,0,6,0,0.0%,202012060nyj
+Matthias Farley,FarlMa00,defense,NYJ,0,3,1,33.3%,9,9,3,0,42.4,20.3,6,3,5,0,1,0,1,0,0,NA,202012060nyj
+Henry Anderson,AndeHe00,defense,NYJ,0,1,1,100.0%,13,13,13,0,118.7,4,4,9,0,0,0,0,0,1,0,0.0%,202012060nyj
+Marcus Maye,MayeMa00,defense,NYJ,0,5,1,20.0%,28,28,5.6,0,50.4,26,12,16,1,0,0,0,0,3,0,0.0%,202012060nyj
+Quinnen Williams,WillQu00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,4,0,0.0%,202012060nyj
+Jordan Jenkins,JenkJo01,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2,0,0,2,4,0,0.0%,202012060nyj
+John Franklin-Myers,FranJo02,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,202012060nyj
+Tarell Basham,BashTa00,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,7,NA,NA,1,1,0,0,1,3,0,0.0%,202012060nyj
+Arthur Maulet,MaulAr00,defense,NYJ,1,3,0,0.0%,NA,NA,0,NA,0,17.3,NA,NA,0,0,0,0,0,1,0,0.0%,202012060nyj
+Frankie Luvu,LuvuFr00,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,1,0,0,0,0,2,0,0.0%,202012060nyj

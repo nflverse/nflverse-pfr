@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,11,61,3,25,2.3,36,3.3,1,11,201911280atl
+Latavius Murray,MurrLa00,rushing,NOR,4,2,NA,-2,-0.5,4,1,0,NA,201911280atl
+Taysom Hill,HillTa00,rushing,NOR,2,33,1,30,15,3,1.5,0,NA,201911280atl
+Drew Brees,BreeDr00,rushing,NOR,1,-1,0,-1,-1,0,0,0,NA,201911280atl
+Devonta Freeman,FreeDe00,rushing,ATL,17,51,NA,26,1.5,25,1.5,3,5.7,201911280atl
+Brian Hill,HillBr02,rushing,ATL,4,13,1,7,1.8,6,1.5,0,NA,201911280atl
+Matt Ryan,RyanMa00,rushing,ATL,3,21,1,15,5,6,2,0,NA,201911280atl
+Keith Smith,SmitKe03,rushing,ATL,2,4,2,1,0.5,3,1.5,0,NA,201911280atl

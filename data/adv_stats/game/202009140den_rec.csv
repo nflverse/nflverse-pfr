@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Corey Davis,DaviCo03,receiving,TEN,8,7,101,0,7,79,11.3,22,3.1,11.9,0,NA,0,0,0,118.7,202009140den
+Adam Humphries,HumpAd00,receiving,TEN,7,6,47,0,2,39,6.5,8,1.3,5.6,0,NA,0,0,0,94.6,202009140den
+A.J. Brown,BrowAJ00,receiving,TEN,8,5,39,0,3,25,5,14,2.8,6.4,0,NA,0,0,0,74.5,202009140den
+Jonnu Smith,SmitJo01,receiving,TEN,7,4,36,1,2,2,0.5,34,8.5,1.9,0,NA,1,14.3,0,110.7,202009140den
+Derrick Henry,HenrDe00,receiving,TEN,3,3,15,0,1,3,1,12,4,1,0,NA,0,0,0,87.5,202009140den
+Anthony Firkser,FirkAn00,receiving,TEN,2,2,5,0,1,3,1.5,2,1,1.5,0,NA,0,0,0,79.2,202009140den
+Khari Blasingame,BlasKh00,receiving,TEN,1,1,5,0,NA,1,1,4,4,1,0,NA,0,0,0,87.5,202009140den
+MyCole Pruitt,PruiMy00,receiving,TEN,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202009140den
+Jeremy McNichols,McNiJe00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202009140den
+Kalif Raymond,RaymKa00,receiving,TEN,2,0,0,0,NA,0,NA,0,NA,11,0,NA,2,100,0,39.6,202009140den
+Noah Fant,FantNo00,receiving,DEN,6,5,81,1,4,23,4.6,58,11.6,9.3,1,5,0,0,0,158.3,202009140den
+Jerry Jeudy,JeudJe00,receiving,DEN,8,4,56,0,3,27,6.8,29,7.3,12.5,0,NA,2,25,0,72.9,202009140den
+Tim Patrick,PatrTi00,receiving,DEN,5,4,29,0,2,22,5.5,7,1.8,12.4,0,NA,0,0,0,90.8,202009140den
+Melvin Gordon,GordMe00,receiving,DEN,3,3,8,0,0,-3,-1,11,3.7,-1,0,NA,0,0,0,79.2,202009140den
+Royce Freeman,FreeRo00,receiving,DEN,1,1,12,0,1,3,3,9,9,3,0,NA,0,0,0,116.7,202009140den
+DaeSean Hamilton,HamiDa01,receiving,DEN,3,1,18,0,1,16,16,2,2,24.7,0,NA,0,0,0,54.9,202009140den
+Tyrie Cleveland,ClevTy00,receiving,DEN,1,1,7,0,NA,-3,-3,10,10,-3,1,1,0,0,0,95.8,202009140den
+Phillip Lindsay,LindPh00,receiving,DEN,1,1,11,0,1,5,5,6,6,5,0,NA,0,0,0,112.5,202009140den
+Jake Butt,ButtJa00,receiving,DEN,2,1,0,0,NA,-1,-1,1,1,1.5,0,NA,1,50,0,56.2,202009140den
+Nick Vannett,VannNi00,receiving,DEN,2,1,-6,0,NA,-6,-6,0,0,-2.5,0,NA,0,0,0,56.2,202009140den

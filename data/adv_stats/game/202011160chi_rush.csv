@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,30,96,3,54,1.8,42,1.4,5,6,202011160chi
+Alexander Mattison,MattAl01,rushing,MIN,2,4,1,2,1,2,1,0,NA,202011160chi
+Kirk Cousins,CousKi00,rushing,MIN,1,-1,0,-1,-1,0,0,0,NA,202011160chi
+Cordarrelle Patterson,PattCo00,rushing,CHI,12,30,1,18,1.5,12,1,2,6,202011160chi
+Artavis Pierce,PierAr00,rushing,CHI,3,9,NA,3,1,6,2,0,NA,202011160chi
+Nick Foles,FoleNi00,rushing,CHI,1,2,0,2,2,0,0,0,NA,202011160chi
+Ryan Nall,NallRy00,rushing,CHI,1,0,0,0,0,0,0,0,NA,202011160chi

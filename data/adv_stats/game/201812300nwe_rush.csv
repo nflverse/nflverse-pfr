@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Elijah McGuire,McGuEl00,rushing,NYJ,18,41,2,33,1.8,8,0.4,0,NA,201812300nwe
+Trenton Cannon,CannTr00,rushing,NYJ,2,16,1,12,6,4,2,0,NA,201812300nwe
+De'Angelo Henderson,HendDe01,rushing,NYJ,2,19,NA,19,9.5,0,0,0,NA,201812300nwe
+Sam Darnold,DarnSa00,rushing,NYJ,1,28,1,28,28,0,0,0,NA,201812300nwe
+Sony Michel,MichSo00,rushing,NWE,14,50,4,28,2,22,1.6,1,14,201812300nwe
+Rex Burkhead,BurkRe00,rushing,NWE,5,14,1,9,1.8,5,1,0,NA,201812300nwe
+James White,WhitJa02,rushing,NWE,4,30,1,22,5.5,8,2,0,NA,201812300nwe
+Brian Hoyer,HoyeBr00,rushing,NWE,3,-3,NA,-3,-1,0,0,0,NA,201812300nwe
+Phillip Dorsett,DorsPh00,rushing,NWE,2,16,1,16,8,0,0,0,NA,201812300nwe
+Julian Edelman,EdelJu00,rushing,NWE,2,24,2,24,12,0,0,0,NA,201812300nwe

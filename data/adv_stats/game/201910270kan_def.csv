@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jaire Alexander,AlexJa00,defense,GNB,0,10,6,60.0%,35,5.8,3.5,0,66.7,2.8,-1,36,0,0,0,0,0,5,1,16.7%,201910270kan
+Kevin King,KingKe01,defense,GNB,0,6,6,100.0%,78,13,13,1,158.3,4.3,26,52,0,0,0,0,0,5,2,28.6%,201910270kan
+Blake Martinez,MartBl01,defense,GNB,0,3,3,100.0%,44,14.7,14.7,1,158.3,8.3,25,19,0,0,0,0,0,7,2,22.2%,201910270kan
+Preston Smith,SmitPr00,defense,GNB,0,2,2,100.0%,15,7.5,7.5,0,97.9,-2,-4,19,2,1,1,0,2,4,0,0.0%,201910270kan
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,3,2,66.7%,39,19.5,13,0,109.7,13,27,12,3,0,0,0,0,7,2,22.2%,201910270kan
+Tramon Williams,WillTr99,defense,GNB,0,2,2,100.0%,19,9.5,9.5,0,106.2,6.5,13,6,0,0,0,0,0,3,0,0.0%,201910270kan
+Adrian Amos,AmosAd00,defense,GNB,0,3,2,66.7%,12,6,4,0,74.3,12.7,-6,18,1,0,0,0,0,4,1,20.0%,201910270kan
+Chandon Sullivan,SullCh00,defense,GNB,0,3,1,33.3%,25,25,8.3,0,64.6,12.7,20,5,1,0,0,0,0,0,0,NA,201910270kan
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,2,3,4,1,20.0%,201910270kan
+Rashan Gary,GaryRa00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,1,1,0,2,0,0,NA,201910270kan
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,1,33.3%,201910270kan
+Kyler Fackrell,FackKy00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,0,0,1,0,1,1,1,50.0%,201910270kan
+Dean Lowry,LowrDe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,201910270kan
+Tyler Lancaster,LancTy00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201910270kan
+Damien Wilson,WilsDa02,defense,KAN,0,5,5,100.0%,43,8.6,8.6,0,102.5,2.8,14,29,5,0,2,1,3,7,0,0.0%,201910270kan
+Anthony Hitchens,HitcAn00,defense,KAN,0,3,3,100.0%,119,39.7,39.7,1,158.3,9.7,29,90,1,0,0,0,0,6,1,14.3%,201910270kan
+Tyrann Mathieu,MathTy00,defense,KAN,0,4,3,75.0%,25,8.3,6.3,0,90.6,5.5,10,15,6,0,0,0,0,3,1,25.0%,201910270kan
+Charvarius Ward,WardCh01,defense,KAN,0,6,3,50.0%,27,9,4.5,0,62.5,12,23,4,0,0,0,0,0,4,0,0.0%,201910270kan
+Ben Niemann,NiemBe00,defense,KAN,0,3,2,66.7%,18,9,6,1,122.2,2,6,12,4,0,0,0,0,4,0,0.0%,201910270kan
+Daniel Sorensen,SoreDa01,defense,KAN,0,3,2,66.7%,38,19,12.7,0,109.7,10.7,37,1,1,0,0,0,0,3,0,0.0%,201910270kan
+Bashaud Breeland,BreeBa00,defense,KAN,0,2,1,50.0%,11,11,5.5,0,66.7,14.5,1,10,0,0,0,0,0,3,1,25.0%,201910270kan
+Rashad Fenton,FentRa00,defense,KAN,0,2,1,50.0%,9,9,4.5,0,62.5,6.5,3,6,2,0,0,0,0,1,0,0.0%,201910270kan
+Tanoh Kpassagnon,KpasTa00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,2,3,2,0,0.0%,201910270kan
+Emmanuel Ogbah,OgbaEm00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,4,2,33.3%,201910270kan
+Alex Okafor,OkafAl00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201910270kan
+Derrick Nnadi,NnadDe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,201910270kan
+Khalen Saunders,SaunKh00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201910270kan
+Mike Pennel,PennMi00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201910270kan
+Reggie Ragland,RaglRe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,0,0,0,4,0,0.0%,201910270kan
+Juan Thornhill,ThorJu00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,1,16.7%,201910270kan

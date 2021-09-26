@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Wayne Gallman,GallWa00,rushing,NYG,14,68,6,17,1.2,51,3.6,0,NA,202011080was
+Alfred Morris,MorrAl00,rushing,NYG,9,67,4,13,1.4,54,6,1,9,202011080was
+Daniel Jones,JoneDa05,rushing,NYG,6,4,0,0,0,4,0.7,0,NA,202011080was
+Dion Lewis,LewiDi00,rushing,NYG,3,5,NA,2,0.7,3,1,0,NA,202011080was
+Elijhaa Penny,PennEl00,rushing,NYG,1,2,1,0,0,2,2,0,NA,202011080was
+Sterling Shepard,ShepSt00,rushing,NYG,1,18,1,16,16,2,2,0,NA,202011080was
+Darius Slayton,SlayDa01,rushing,NYG,1,2,NA,0,0,2,2,0,NA,202011080was
+Antonio Gibson,GibsAn00,rushing,WAS,6,20,3,11,1.8,9,1.5,0,NA,202011080was
+J.D. McKissic,McKiJ.00,rushing,WAS,3,17,0,11,3.7,6,2,0,NA,202011080was

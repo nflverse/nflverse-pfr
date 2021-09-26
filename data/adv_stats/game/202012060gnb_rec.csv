@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dallas Goedert,GoedDa00,receiving,PHI,7,5,66,0,3,52,10.4,14,2.8,9.1,0,NA,0,0,0,100.9,202012060gnb
+Greg Ward,WardGr02,receiving,PHI,5,3,57,1,2,47,15.7,10,3.3,12.2,0,NA,0,0,1,99.6,202012060gnb
+Zach Ertz,ErtzZa00,receiving,PHI,4,2,31,0,2,23,11.5,8,4,9,0,NA,0,0,0,76,202012060gnb
+Jalen Reagor,ReagJa00,receiving,PHI,1,1,34,0,1,31,31,3,3,31,0,NA,0,0,0,118.7,202012060gnb
+John Hightower,HighJo00,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,10.5,0,NA,0,0,0,39.6,202012060gnb
+Alshon Jeffery,JeffAl00,receiving,PHI,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,202012060gnb
+Miles Sanders,SandMi01,receiving,PHI,1,0,0,0,0,0,NA,0,NA,1,0,NA,0,0,0,39.6,202012060gnb
+Boston Scott,ScotBo02,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,9.5,0,NA,0,0,0,39.6,202012060gnb
+Travis Fulgham,FulgTr00,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,13.5,0,NA,1,50,0,39.6,202012060gnb
+Davante Adams,AdamDa01,receiving,GNB,12,10,121,2,7,80,8,41,4.1,8.5,0,NA,0,0,0,148.3,202012060gnb
+Robert Tonyan,TonyRo00,receiving,GNB,5,4,39,1,2,25,6.3,14,3.5,5.2,0,NA,0,0,0,138.7,202012060gnb
+Aaron Jones,JoneAa00,receiving,GNB,3,3,18,0,1,-4,-1.3,22,7.3,-1.3,0,NA,0,0,0,91.7,202012060gnb
+Allen Lazard,LazaAl00,receiving,GNB,4,3,50,0,2,45,15,5,1.7,14,0,NA,1,25,0,116.7,202012060gnb
+Jamaal Williams,WillJa06,receiving,GNB,2,2,10,0,0,3,1.5,7,3.5,1.5,0,NA,0,0,0,87.5,202012060gnb
+Marcedes Lewis,LewiMa00,receiving,GNB,1,1,36,0,1,14,14,22,22,14,0,NA,0,0,0,118.7,202012060gnb
+Equanimeous St. Brown,St.BEq00,receiving,GNB,2,1,7,0,NA,-3,-3,10,10,13,0,NA,0,0,0,58.3,202012060gnb
+Malik Taylor,TaylMa01,receiving,GNB,1,1,14,0,1,2,2,12,12,2,0,NA,0,0,0,118.7,202012060gnb
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,2,0,0,0,NA,0,NA,0,NA,46.5,0,NA,1,50,0,39.6,202012060gnb

@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Shaquill Griffin,GrifSh00,defense,SEA,0,5,4,80.0%,47,11.8,9.4,1,145.4,11,34,13,0,0,0,0,0,3,0,0.0%,201810280det
+Tre Flowers,FlowTr01,defense,SEA,0,9,4,44.4%,56,14,6.2,0,65,11,36,20,0,0,0,0,0,3,3,50.0%,201810280det
+K.J. Wright,WrigK.00,defense,SEA,0,7,3,42.9%,35,11.7,5,0,58.6,2.7,13,22,1,1,0,0,1,5,0,0.0%,201810280det
+Bobby Wagner,WagnBo00,defense,SEA,0,5,3,60.0%,26,8.7,5.2,0,73.7,4.6,12,14,1,0,0,0,0,8,0,0.0%,201810280det
+Justin Coleman,ColeJu01,defense,SEA,1,5,3,60.0%,36,12,7.2,0,42.5,2,7,29,2,0,0,0,0,4,1,20.0%,201810280det
+Bradley McDougald,McDoBr01,defense,SEA,0,5,3,60.0%,65,21.7,13,0,104.2,2.4,2,63,1,0,0,0,0,6,1,14.3%,201810280det
+Jarran Reed,ReedJa02,defense,SEA,0,1,1,100.0%,6,6,6,0,91.7,3,3,3,0,0,1,0,1,1,0,0.0%,201810280det
+Dion Jordan,JordDi00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,4,0,0.0%,201810280det
+Frank Clark,ClarFr01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,1,0,0.0%,201810280det
+Shamar Stephen,StepSh00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201810280det
+Poona Ford,FordPo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201810280det
+Tedric Thompson,ThomTe00,defense,SEA,0,2,0,0.0%,39,NA,19.5,1,118.7,24,39,0,0,0,0,0,0,6,1,14.3%,201810280det
+Teez Tabor,TaboTe00,defense,DET,0,4,1,25.0%,97,97,24.3,1,118.7,20.3,81,16,0,0,0,0,0,4,0,0.0%,201810280det
+Darius Slay,SlayDa00,defense,DET,0,2,1,50.0%,16,16,8,0,77.1,6,12,4,0,0,0,0,0,3,0,0.0%,201810280det
+Romeo Okwara,OkwaRo01,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,2,4,1,20.0%,201810280det
+Jarrad Davis,DaviJa01,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,8,3,27.3%,201810280det
+Damon Harrison,HarrDa03,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,7,0,0.0%,201810280det
+Devon Kennard,KennDe00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1,0,0,1,5,1,16.7%,201810280det
+Eric Lee,LeexEr00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201810280det
+Quandre Diggs,DiggQu00,defense,DET,0,2,0,0.0%,14,NA,7,1,95.8,7,14,0,0,0,0,0,0,8,1,11.1%,201810280det
+Christian Jones,JoneCh05,defense,DET,0,2,0,0.0%,2,NA,1,0,39.6,1.5,2,0,1,0,0,0,0,4,0,0.0%,201810280det
+Glover Quin,QuinGl99,defense,DET,0,1,0,0.0%,16,NA,16,0,79.2,13,13,3,1,0,0,0,0,5,0,0.0%,201810280det
+Tavon Wilson,WilsTa00,defense,DET,0,2,0,0.0%,17,NA,8.5,0,62.5,5.5,10,7,0,0,0,0,0,1,0,0.0%,201810280det
+Nevin Lawson,LawsNe00,defense,DET,0,3,0,0.0%,44,NA,14.7,1,118.7,14,41,3,0,0,0,0,0,2,0,0.0%,201810280det

@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyreek Hill,HillTy00,receiving,KAN,15,13,269,3,8,188,14.5,81,6.2,15.1,4,3.3,0,0,0,158.3,202011290tam
+Travis Kelce,KelcTr00,receiving,KAN,8,8,82,0,5,54,6.8,28,3.5,6.8,1,8,0,0,0,109.4,202011290tam
+Demarcus Robinson,RobiDe01,receiving,KAN,6,5,36,0,2,16,3.2,20,4,7,0,NA,0,0,0,91.7,202011290tam
+Sammy Watkins,WatkSa00,receiving,KAN,7,4,38,0,2,26,6.5,12,3,6.9,0,NA,0,0,0,72.3,202011290tam
+Mecole Hardman,HardMe00,receiving,KAN,5,3,23,0,1,23,7.7,0,0,17,0,NA,1,20,0,71.2,202011290tam
+Le'Veon Bell,BellLe00,receiving,KAN,2,2,10,0,1,-2,-1,12,6,-1,2,1,0,0,0,87.5,202011290tam
+Deon Yelder,YeldDe00,receiving,KAN,1,1,2,0,NA,0,0,2,2,0,0,NA,0,0,0,79.2,202011290tam
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,1,1,2,0,NA,1,1,1,1,1,0,NA,0,0,0,79.2,202011290tam
+Patrick Mahomes,MahoPa00,receiving,KAN,1,0,0,0,0,0,NA,0,NA,1,0,NA,0,0,0,39.6,202011290tam
+Chris Godwin,GodwCh00,receiving,TAM,9,8,97,0,4,76,9.5,21,2.6,9.4,0,NA,1,11.1,0,111.6,202011290tam
+Rob Gronkowski,GronRo00,receiving,TAM,7,6,106,0,3,66,11,40,6.7,10.6,0,NA,0,0,0,118.7,202011290tam
+Cameron Brate,BratCa00,receiving,TAM,6,4,34,0,1,21,5.3,13,3.3,6,0,NA,0,0,0,81.2,202011290tam
+Leonard Fournette,FourLe00,receiving,TAM,3,3,10,0,1,-4,-1.3,14,4.7,-1.3,1,3,0,0,0,80.6,202011290tam
+Mike Evans,EvanMi00,receiving,TAM,9,3,50,2,3,41,13.7,9,3,16.6,0,NA,0,0,1,53,202011290tam
+Antonio Brown,BrowAn04,receiving,TAM,3,2,11,0,1,0,0,11,5.5,4.7,0,NA,0,0,0,72.9,202011290tam
+Ronald Jones II,JoneRo01,receiving,TAM,2,1,37,1,1,4,4,33,33,3,0,NA,0,0,0,135.4,202011290tam
+Tyler Johnson,JohnTy00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,202011290tam
+Scott Miller,MillSc01,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,25,0,NA,0,0,1,0,202011290tam

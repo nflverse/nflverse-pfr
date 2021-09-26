@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Stefon Diggs,DiggSt00,receiving,BUF,10,10,92,0,6,68,6.8,24,2.4,6.8,0,NA,0,0,0,105,202012070sfo
+Cole Beasley,BeasCo00,receiving,BUF,11,9,130,1,9,102,11.3,28,3.1,10.4,0,NA,0,0,0,146.2,202012070sfo
+Dawson Knox,KnoxDa00,receiving,BUF,4,4,27,1,2,8,2,19,4.8,2,0,NA,0,0,0,134.4,202012070sfo
+Devin Singletary,SingDe00,receiving,BUF,4,3,22,0,0,4,1.3,18,6,3,1,3,0,0,0,87.5,202012070sfo
+Gabriel Davis,DaviGa01,receiving,BUF,4,3,68,1,3,53,17.7,15,5,14.5,0,NA,0,0,0,156.2,202012070sfo
+Isaiah McKenzie,McKeIs00,receiving,BUF,2,2,31,1,2,15,7.5,16,8,7.5,0,NA,0,0,0,158.3,202012070sfo
+Zack Moss,MossZa00,receiving,BUF,1,1,5,0,0,-4,-4,9,9,-4,0,NA,0,0,0,87.5,202012070sfo
+Lee Smith,SmitLe00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,202012070sfo
+Deebo Samuel,SamuDe00,receiving,SFO,9,6,73,0,3,22,3.7,51,8.5,4.1,4,1.5,1,11.1,0,91.4,202012070sfo
+Brandon Aiyuk,AiyuBr00,receiving,SFO,9,5,95,1,5,71,14.2,24,4.8,12.1,0,NA,2,22.2,1,89.8,202012070sfo
+Kendrick Bourne,BourKe00,receiving,SFO,6,4,35,0,2,34,8.5,1,0.3,7.5,0,NA,1,16.7,0,81.9,202012070sfo
+Jordan Reed,ReedJo02,receiving,SFO,4,3,32,1,3,22,7.3,10,3.3,7.8,0,NA,0,0,0,137.5,202012070sfo
+Ross Dwelley,DwelRo00,receiving,SFO,2,2,29,0,2,25,12.5,4,2,12.5,0,NA,0,0,0,118.7,202012070sfo
+Jeff Wilson,WilsJe01,receiving,SFO,5,2,12,0,0,1,0.5,11,5.5,2.2,0,NA,0,0,1,8.3,202012070sfo
+Charlie Woerner,WoerCh00,receiving,SFO,2,2,33,0,2,8,4,25,12.5,4,1,2,0,0,0,118.7,202012070sfo
+Kyle Juszczyk,JuszKy00,receiving,SFO,1,1,6,1,1,0,0,6,6,0,0,NA,0,0,0,131.2,202012070sfo
+Raheem Mostert,MostRa00,receiving,SFO,1,1,1,0,0,0,0,1,1,0,0,NA,0,0,0,79.2,202012070sfo

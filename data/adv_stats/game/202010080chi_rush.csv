@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ronald Jones II,JoneRo01,rushing,TAM,17,106,3,17,1,89,5.2,0,NA,202010080chi
+Tom Brady,BradTo00,rushing,TAM,3,0,1,-1,-0.3,1,0.3,0,NA,202010080chi
+David Montgomery,MontDa01,rushing,CHI,10,29,1,7,0.7,22,2.2,1,10,202010080chi
+Cordarrelle Patterson,PattCo00,rushing,CHI,3,7,1,1,0.3,6,2,0,NA,202010080chi
+Nick Foles,FoleNi00,rushing,CHI,1,-1,0,-1,-1,0,0,0,NA,202010080chi

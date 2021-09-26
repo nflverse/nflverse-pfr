@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,17,82,4,38,2.2,44,2.6,3,5.7,201809230htx
+Wayne Gallman,GallWa00,rushing,NYG,6,25,NA,17,2.8,8,1.3,1,6,201809230htx
+Jonathan Stewart,StewJo00,rushing,NYG,2,8,NA,1,0.5,7,3.5,0,NA,201809230htx
+Odell Beckham Jr.,BeckOd00,rushing,NYG,1,0,0,-5,-5,5,5,0,NA,201809230htx
+Eli Manning,MannEl00,rushing,NYG,1,-1,0,-1,-1,0,0,0,NA,201809230htx
+Lamar Miller,MillLa01,rushing,HOU,10,10,0,7,0.7,3,0.3,0,NA,201809230htx
+Deshaun Watson,WatsDe00,rushing,HOU,5,36,2,34,6.8,2,0.4,0,NA,201809230htx
+Alfred Blue,BlueAl00,rushing,HOU,4,13,NA,11,2.8,2,0.5,0,NA,201809230htx

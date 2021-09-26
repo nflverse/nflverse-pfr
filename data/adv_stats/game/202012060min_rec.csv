@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+James Robinson,RobiJa00,receiving,JAX,6,6,30,0,2,-13,-2.2,43,7.2,-2.2,0,NA,0,0,0,87.5,202012060min
+Tyler Eifert,EifeTy00,receiving,JAX,6,6,45,0,4,30,5,15,2.5,5,0,NA,0,0,0,97.9,202012060min
+Collin Johnson,JohnCo01,receiving,JAX,6,4,66,0,2,62,15.5,4,1,16.5,0,NA,0,0,0,103.5,202012060min
+James O'Shaughnessy,O'ShJa00,receiving,JAX,6,4,41,0,3,26,6.5,15,3.8,7.2,1,4,0,0,0,86.1,202012060min
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,3,3,38,1,2,30,10,8,2.7,10,1,3,0,0,0,158.3,202012060min
+DJ Chark,CharDJ00,receiving,JAX,7,2,41,0,2,38,19,3,1.5,18.9,0,NA,0,0,1,11.9,202012060min
+Chris Conley,ConlCh00,receiving,JAX,2,2,12,0,NA,9,4.5,3,1.5,4.5,0,NA,0,0,0,91.7,202012060min
+Keelan Cole,ColeKe00,receiving,JAX,2,1,7,0,NA,6,6,1,1,5,0,NA,0,0,0,58.3,202012060min
+Eric Saubert,SaubEr00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,1,0,202012060min
+Dare Ogunbowale,OgunDa00,receiving,JAX,2,0,0,0,NA,0,NA,0,NA,3.5,0,NA,0,0,0,39.6,202012060min
+Justin Jefferson,JeffJu00,receiving,MIN,12,9,121,1,5,98,10.9,23,2.6,13.4,0,NA,0,0,0,134.4,202012060min
+Adam Thielen,ThieAd00,receiving,MIN,11,8,75,1,5,54,6.8,21,2.6,10.3,0,NA,0,0,0,121.4,202012060min
+Dalvin Cook,CookDa01,receiving,MIN,9,6,59,0,4,-14,-2.3,73,12.2,-1.7,1,6,1,11.1,1,45.4,202012060min
+Chad Beebe,BeebCh00,receiving,MIN,3,2,10,0,NA,11,5.5,-1,-0.5,3.3,0,NA,0,0,0,71.5,202012060min
+C.J. Ham,HamxC.00,receiving,MIN,1,1,12,1,1,-2,-2,14,14,-2,0,NA,0,0,0,156.2,202012060min
+Tyler Conklin,ConkTy00,receiving,MIN,1,1,10,0,1,7,7,3,3,7,0,NA,0,0,0,108.3,202012060min
+Ameer Abdullah,AbduAm00,receiving,MIN,1,1,18,0,1,4,4,14,14,4,0,NA,0,0,0,118.7,202012060min
+Kyle Rudolph,RudoKy00,receiving,MIN,2,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,202012060min

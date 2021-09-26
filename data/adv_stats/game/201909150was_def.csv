@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Byron Jones,JoneBy00,defense,DAL,0,13,8,61.5%,78,9.8,6,1,104,11.5,57,21,0,0,0,0,0,8,1,11.1%,201909150was
+Jaylon Smith,SmitJa05,defense,DAL,0,6,5,83.3%,39,7.8,6.5,1,133.3,4,20,19,3,0,0,0,0,11,0,0.0%,201909150was
+Anthony Brown,BrowAn02,defense,DAL,0,7,5,71.4%,42,8.4,6,0,86.6,2.9,17,25,2,0,0,0,0,2,3,60.0%,201909150was
+Xavier Woods,WoodXa00,defense,DAL,0,6,4,66.7%,9,2.3,1.5,0,70.1,2,1,8,0,0,0,0,0,6,1,14.3%,201909150was
+Jeff Heath,HeatJe00,defense,DAL,0,6,3,50.0%,22,7.3,3.7,0,59,3.3,12,10,0,0,0,0,0,4,0,0.0%,201909150was
+Leighton Vander Esch,VandLe00,defense,DAL,0,3,3,100.0%,41,13.7,13.7,0,118.7,4.3,13,28,0,0,0,0,0,5,0,0.0%,201909150was
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,1,1,100.0%,7,7,7,0,95.8,7,7,0,0,0,0,0,0,1,0,0.0%,201909150was
+Joe Jackson,JackJo02,defense,DAL,0,1,1,100.0%,9,9,9,0,104.2,5,5,4,0,0,0,0,0,1,0,0.0%,201909150was
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,201909150was
+Maliek Collins,CollMa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,201909150was
+Tyrone Crawford,CrawTy00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,50.0%,201909150was
+Kerry Hyder,HydeKe01,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201909150was
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,201909150was
+Dominique Rodgers-Cromartie,RodgDo99,defense,WAS,0,6,6,100.0%,66,11,11,0,112.5,7.5,45,21,0,0,0,0,0,4,2,33.3%,201909150was
+Cole Holcomb,HolcCo00,defense,WAS,0,6,5,83.3%,48,9.6,8,1,139.6,8,30,18,1,0,0,0,0,6,1,14.3%,201909150was
+Landon Collins,CollLa00,defense,WAS,0,4,4,100.0%,32,8,8,1,139.6,5,20,12,0,0,0,0,0,12,2,14.3%,201909150was
+Jimmy Moreland,MoreJi00,defense,WAS,0,5,4,80.0%,35,8.8,7,0,95.8,6.8,23,12,0,0,0,0,0,6,2,25.0%,201909150was
+Jonathan Bostic,BostJo00,defense,WAS,0,3,3,100.0%,11,3.7,3.7,0,81.9,0,0,11,0,0,0,0,0,7,0,0.0%,201909150was
+Josh Norman,NormJo01,defense,WAS,0,5,3,60.0%,78,26,15.6,1,143.7,23.8,65,13,0,0,0,0,0,4,0,0.0%,201909150was
+Montae Nicholson,NichMo00,defense,WAS,1,2,2,100.0%,18,9,9,0,64.6,7,14,4,0,0,0,0,0,9,0,0.0%,201909150was
+Deshazor Everett,EverDe01,defense,WAS,0,2,2,100.0%,26,13,13,1,158.3,8.5,17,9,0,0,0,0,0,0,1,100.0%,201909150was
+Shaun Dion Hamilton,DionSh00,defense,WAS,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,1,0,0,0,0,5,0,0.0%,201909150was
+Ryan Kerrigan,KerrRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,1,2,2,2,50.0%,201909150was
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,4,2,33.3%,201909150was
+Ryan Anderson,AndeRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,3,1,25.0%,201909150was
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,0,0.0%,201909150was

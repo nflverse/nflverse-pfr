@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Zach Ertz,ErtzZa00,receiving,PHI,13,11,94,0,3,76,6.9,18,1.6,6.2,0,NA,0,0,0,96.8,201809160tam
+Nelson Agholor,AghoNe00,receiving,PHI,12,8,88,1,4,33,4.1,55,6.9,8.3,0,NA,0,0,0,116,201809160tam
+Kamar Aiken,AikeKa00,receiving,PHI,6,5,39,0,1,28,5.6,11,2.2,5.5,0,NA,0,0,0,93.7,201809160tam
+Corey Clement,ClemCo00,receiving,PHI,6,5,55,0,3,-17,-3.4,72,14.4,2.2,1,5,0,0,0,104.9,201809160tam
+Joshua Perkins,PerkJo02,receiving,PHI,6,4,57,0,3,46,11.5,11,2.8,9.2,0,NA,1,16.7,0,97.2,201809160tam
+Jay Ajayi,AjayJa00,receiving,PHI,1,1,4,0,0,-5,-5,9,9,-5,1,1,0,0,0,83.3,201809160tam
+Wendell Smallwood,SmalWe00,receiving,PHI,1,1,2,0,0,-3,-3,5,5,-3,0,NA,0,0,0,79.2,201809160tam
+Shelton Gibson,GibsSh00,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,26,0,NA,0,0,0,39.6,201809160tam
+Mike Evans,EvanMi00,receiving,TAM,12,10,83,1,5,76,7.6,7,0.7,9,0,NA,1,8.3,0,123.3,201809160tam
+Chris Godwin,GodwCh00,receiving,TAM,6,5,56,1,4,45,9,11,2.2,12.5,0,NA,0,0,0,145.1,201809160tam
+DeSean Jackson,JackDe00,receiving,TAM,4,4,129,1,4,87,21.8,42,10.5,21.8,0,NA,0,0,0,158.3,201809160tam
+O.J. Howard,HowaO.00,receiving,TAM,4,3,96,1,2,31,10.3,65,21.7,11.8,0,NA,0,0,1,116.7,201809160tam
+Jacquizz Rodgers,RodgJa00,receiving,TAM,3,3,23,0,0,4,1.3,19,6.3,1.3,0,NA,0,0,0,98.6,201809160tam
+Peyton Barber,BarbPe01,receiving,TAM,2,1,7,0,1,3,3,4,4,-1.5,0,NA,0,0,0,58.3,201809160tam
+Adam Humphries,HumpAd00,receiving,TAM,2,1,8,0,1,-3,-3,11,11,0,0,NA,0,0,0,60.4,201809160tam

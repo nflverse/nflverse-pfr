@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Brandin Cooks,CookBr00,receiving,HOU,8,6,39,0,NA,3,0.5,36,6,5.4,0,NA,0,0,0,84.9,202011150cle
+Will Fuller,FullWi01,receiving,HOU,8,5,38,0,2,14,2.8,24,4.8,9.5,0,NA,0,0,0,74,202011150cle
+Randall Cobb,CobbRa00,receiving,HOU,5,3,41,0,2,30,10,11,3.7,8.2,0,NA,0,0,0,86.2,202011150cle
+Pharaoh Brown,BrowPh01,receiving,HOU,2,2,21,1,1,17,8.5,4,2,8.5,0,NA,0,0,0,150,202011150cle
+Jordan Akins,AkinJo00,receiving,HOU,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,202011150cle
+Darren Fells,FellDa01,receiving,HOU,1,1,15,0,1,0,0,15,15,0,0,NA,0,0,0,118.7,202011150cle
+C.J. Prosise,ProsC.00,receiving,HOU,1,1,-2,0,NA,-4,-4,2,2,-4,0,NA,0,0,0,79.2,202011150cle
+Kenny Stills,StilKe00,receiving,HOU,1,1,6,0,1,6,6,0,0,6,0,NA,0,0,0,91.7,202011150cle
+Duke Johnson,JohnDu00,receiving,HOU,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,202011150cle
+Rashard Higgins,HiggRa00,receiving,CLE,4,3,48,0,2,42,14,6,2,16,0,NA,0,0,0,114.6,202011150cle
+Kareem Hunt,HuntKa00,receiving,CLE,4,3,28,0,1,-6,-2,34,11.3,0.3,1,3,0,0,0,93.7,202011150cle
+Jarvis Landry,LandJa00,receiving,CLE,5,3,29,0,1,15,5,14,4.7,11,0,NA,0,0,0,76.2,202011150cle
+Donovan Peoples-Jones,PeopDo00,receiving,CLE,2,2,16,0,NA,15,7.5,1,0.5,7.5,0,NA,0,0,0,100,202011150cle
+Austin Hooper,HoopAu00,receiving,CLE,2,1,11,0,1,11,11,0,0,11.5,0,NA,0,0,0,66.7,202011150cle
+Nick Chubb,ChubNi00,receiving,CLE,1,0,0,0,0,0,NA,0,NA,7,0,NA,0,0,0,39.6,202011150cle
+KhaDarel Hodge,HodgKh00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202011150cle

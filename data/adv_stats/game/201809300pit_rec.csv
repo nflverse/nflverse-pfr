@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Willie Snead,SneaWi00,receiving,BAL,7,6,56,0,4,41,6.8,15,2.5,7.4,1,6,0,0,0,100,201809300pit
+Maxx Williams,WillMa04,receiving,BAL,5,5,51,0,3,11,2.2,40,8,2.2,1,5,0,0,0,109.2,201809300pit
+Nick Boyle,BoylNi00,receiving,BAL,5,3,36,0,1,7,2.3,29,9.7,3.2,0,NA,1,20,0,82.1,201809300pit
+John Brown,BrowJo02,receiving,BAL,7,3,116,1,3,88,29.3,28,9.3,29.3,0,NA,0,0,0,129.5,201809300pit
+Michael Crabtree,CrabMi00,receiving,BAL,8,3,29,0,2,21,7,8,2.7,8.9,1,3,1,12.5,0,48.4,201809300pit
+Mark Andrews,AndrMa00,receiving,BAL,2,2,12,0,1,5,2.5,7,3.5,2.5,0,NA,0,0,0,91.7,201809300pit
+Javorius Allen,AlleJa01,receiving,BAL,2,2,17,0,0,4,2,13,6.5,2,0,NA,0,0,0,102.1,201809300pit
+Alex Collins,CollAl00,receiving,BAL,1,1,3,1,1,2,2,1,1,2,0,NA,0,0,0,118.7,201809300pit
+Chris Moore,MoorCh00,receiving,BAL,1,1,19,0,1,15,15,4,4,15,0,NA,0,0,0,118.7,201809300pit
+De'Lance Turner,TurnDe01,receiving,BAL,1,1,10,0,NA,0,0,10,10,0,0,NA,0,0,0,108.3,201809300pit
+Tim White,WhitTi00,receiving,BAL,1,1,14,0,1,14,14,0,0,14,0,NA,0,0,0,118.7,201809300pit
+Ryan Switzer,SwitRy00,receiving,PIT,7,7,32,0,3,17,2.4,15,2.1,2.4,0,NA,0,0,0,85.7,201809300pit
+Vance McDonald,McDoVa00,receiving,PIT,5,5,62,0,3,15,3,47,9.4,3,2,2.5,0,0,0,118.3,201809300pit
+Antonio Brown,BrowAn04,receiving,PIT,11,5,62,1,2,34,6.8,28,5.6,9.8,0,NA,0,0,1,55.9,201809300pit
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,11,4,60,0,2,47,11.8,13,3.3,11.9,0,NA,0,0,0,55.1,201809300pit
+James Conner,ConnJa00,receiving,PIT,7,3,25,0,1,0,0,25,8.3,1,0,NA,0,0,0,52.7,201809300pit
+James Washington,WashJa00,receiving,PIT,4,2,10,0,NA,2,1,8,4,9.8,0,NA,0,0,0,56.2,201809300pit
+Jesse James,JameJe00,receiving,PIT,1,1,23,0,1,18,18,5,5,18,0,NA,0,0,0,118.7,201809300pit

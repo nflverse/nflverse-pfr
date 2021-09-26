@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Marquise Brown,BrowMa04,receiving,BAL,8,4,86,0,3,60,15,26,6.5,27.4,0,NA,0,0,1,49,202010040was
+Mark Andrews,AndrMa00,receiving,BAL,3,3,57,2,3,52,17.3,5,1.7,17.3,0,NA,0,0,0,158.3,202010040was
+Miles Boykin,BoykMi00,receiving,BAL,4,2,28,0,2,14,7,14,7,13,0,NA,0,0,1,33.3,202010040was
+Willie Snead,SneaWi00,receiving,BAL,2,2,20,0,1,20,10,0,0,10,0,NA,0,0,0,108.3,202010040was
+Nick Boyle,BoylNi00,receiving,BAL,1,1,9,0,1,9,9,0,0,9,0,NA,0,0,0,104.2,202010040was
+J.K. Dobbins,DobbJK00,receiving,BAL,2,1,1,0,NA,-3,-3,4,4,-4,0,NA,1,50,0,56.2,202010040was
+Devin Duvernay,DuveDe00,receiving,BAL,2,1,4,0,NA,2,2,2,2,9.5,0,NA,0,0,0,56.2,202010040was
+Mark Ingram,IngrMa01,receiving,BAL,1,1,3,0,0,3,3,0,0,3,0,NA,0,0,0,79.2,202010040was
+Terry McLaurin,McLaTe00,receiving,WAS,14,10,118,0,8,94,9.4,24,2.4,9.6,1,10,0,0,0,96.7,202010040was
+J.D. McKissic,McKiJ.00,receiving,WAS,8,7,40,0,1,-4,-0.6,44,6.3,1.3,1,7,0,0,0,87.5,202010040was
+Antonio Gibson,GibsAn00,receiving,WAS,5,4,82,0,4,1,0.3,81,20.3,-0.6,1,4,0,0,0,118.7,202010040was
+Dontrelle Inman,InmaDo00,receiving,WAS,5,4,29,0,2,11,2.8,18,4.5,5,0,NA,0,0,0,90.8,202010040was
+Isaiah Wright,WrigIs01,receiving,WAS,5,4,20,0,1,-2,-0.5,22,5.5,0.6,1,4,0,0,0,83.3,202010040was
+Cam Sims,SimsCa00,receiving,WAS,2,2,17,0,NA,7,3.5,10,5,3.5,0,NA,0,0,0,102.1,202010040was
+Logan Thomas,ThomLo00,receiving,WAS,4,1,8,0,1,3,3,5,5,5.5,0,NA,0,0,0,39.6,202010040was
+Peyton Barber,BarbPe01,receiving,WAS,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,202010040was

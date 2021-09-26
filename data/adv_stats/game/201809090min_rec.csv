@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+George Kittle,KittGe00,receiving,SFO,9,5,90,0,4,23,4.6,67,13.4,12,0,NA,1,11.1,0,90,201809090min
+Trent Taylor,TaylTr02,receiving,SFO,6,4,28,0,1,6,1.5,22,5.5,6,0,NA,0,0,1,37.5,201809090min
+Pierre Garcon,GarcPi00,receiving,SFO,6,2,21,0,2,21,10.5,0,0,8.7,0,NA,0,0,0,44.4,201809090min
+Dante Pettis,PettDa00,receiving,SFO,5,2,61,1,2,37,18.5,24,12,20.2,0,NA,0,0,1,86.2,201809090min
+Matt Breida,BreiMa00,receiving,SFO,2,1,5,0,0,0,0,5,5,2.5,0,NA,0,0,0,56.2,201809090min
+Kyle Juszczyk,JuszKy00,receiving,SFO,2,1,56,0,1,30,30,26,26,16.5,0,NA,0,0,0,95.8,201809090min
+Kendrick Bourne,BourKe00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,1,0,201809090min
+Marquise Goodwin,GoodMa00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,201809090min
+Dalvin Cook,CookDa01,receiving,MIN,7,6,55,0,3,-14,-2.3,69,11.5,-2.3,1,6,0,0,0,99.4,201809090min
+Adam Thielen,ThieAd00,receiving,MIN,12,6,102,0,6,51,8.5,51,8.5,13.1,0,NA,0,0,0,79.2,201809090min
+Stefon Diggs,DiggSt00,receiving,MIN,6,3,43,1,2,36,12,7,2.3,12.8,0,NA,0,0,0,113.2,201809090min
+Laquon Treadwell,TreaLa00,receiving,MIN,4,2,18,0,1,8,4,10,5,3,1,2,1,25,0,62.5,201809090min
+Tyler Conklin,ConkTy00,receiving,MIN,1,1,6,0,1,0,0,6,6,0,0,NA,0,0,0,91.7,201809090min
+David Morgan,MorgDa01,receiving,MIN,1,1,9,0,1,-1,-1,10,10,-1,0,NA,0,0,0,104.2,201809090min
+Kyle Rudolph,RudoKy00,receiving,MIN,2,1,11,1,1,11,11,0,0,8,0,NA,0,0,0,106.2,201809090min
+C.J. Ham,HamxC.00,receiving,MIN,2,0,0,0,NA,0,NA,0,NA,0.5,0,NA,2,100,0,39.6,201809090min

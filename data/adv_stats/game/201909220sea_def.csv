@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Marshon Lattimore,LattMa01,defense,NOR,0,14,10,71.4%,140,14,10,0,103.3,10.8,111,29,0,0,0,0,0,12,1,7.7%,201909220sea
+A.J. Klein,KleiAJ00,defense,NOR,0,6,6,100.0%,51,8.5,8.5,2,141.7,5,30,21,4,0,0,0,0,5,0,0.0%,201909220sea
+Demario Davis,DaviDe00,defense,NOR,0,5,5,100.0%,42,8.4,8.4,0,101.7,4.6,23,19,4,1,1,0,2,9,0,0.0%,201909220sea
+Vonn Bell,BellVo00,defense,NOR,0,6,3,50.0%,75,25,12.5,0,95.8,21.8,59,16,1,0,0,0,0,9,0,0.0%,201909220sea
+P.J. Williams,WillP.00,defense,NOR,0,4,2,50.0%,18,9,4.5,0,62.5,16.5,16,2,4,0,0,0,0,3,0,0.0%,201909220sea
+David Onyemata,OnyeDa00,defense,NOR,0,1,1,100.0%,10,10,10,0,108.3,6,6,4,0,2,0,0,2,4,1,20.0%,201909220sea
+Kiko Alonso,AlonKi00,defense,NOR,0,1,1,100.0%,25,25,25,0,118.7,22,22,3,0,0,0,0,0,2,0,0.0%,201909220sea
+Marcus Williams,WillMa06,defense,NOR,0,2,1,50.0%,3,3,1.5,0,56.2,-1,-2,5,0,0,0,0,0,5,0,0.0%,201909220sea
+Eli Apple,ApplEl00,defense,NOR,0,3,1,33.3%,32,32,10.7,0,74.3,25.3,31,1,0,0,0,0,0,3,0,0.0%,201909220sea
+Cameron Jordan,JordCa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5,0,0,5,3,0,0.0%,201909220sea
+Trey Hendrickson,HendTr00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,0,4,3,0,0.0%,201909220sea
+Marcus Davenport,DaveMa00,defense,NOR,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,2,1,0,3,7,0,0.0%,201909220sea
+Tre Flowers,FlowTr01,defense,SEA,0,6,5,83.3%,45,9,7.5,1,137.5,5,22,23,0,0,0,0,0,5,2,28.6%,201909220sea
+K.J. Wright,WrigK.00,defense,SEA,0,5,3,60.0%,11,3.7,2.2,0,64.6,4.8,7,4,0,0,0,0,0,12,0,0.0%,201909220sea
+Mychal Kendricks,KendMy00,defense,SEA,0,2,2,100.0%,18,9,9,0,104.2,-2,-4,22,0,0,0,0,0,3,4,57.1%,201909220sea
+Jamar Taylor,TaylJa01,defense,SEA,0,4,2,50.0%,15,7.5,3.8,0,59.4,5.5,10,5,0,0,0,0,0,2,0,0.0%,201909220sea
+Bobby Wagner,WagnBo00,defense,SEA,0,2,2,100.0%,10,5,5,0,87.5,3,6,4,2,0,0,0,0,19,1,5.0%,201909220sea
+Shaquill Griffin,GrifSh00,defense,SEA,0,2,1,50.0%,7,7,3.5,0,58.3,6,7,0,0,0,0,0,0,2,2,50.0%,201909220sea
+Lano Hill,HillDe02,defense,SEA,0,2,1,50.0%,18,18,9,0,81.2,11,14,4,0,0,0,0,0,1,1,50.0%,201909220sea
+Quinton Jefferson,JeffQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,2,1,33.3%,201909220sea
+Rasheem Green,GreeRa01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,201909220sea
+Jadeveon Clowney,ClowJa00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,2,66.7%,201909220sea
+Poona Ford,FordPo00,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,-5,NA,NA,0,0,0,0,0,2,0,0.0%,201909220sea
+Al Woods,WoodAl99,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,2,33.3%,201909220sea
+Bradley McDougald,McDoBr01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,1,16.7%,201909220sea

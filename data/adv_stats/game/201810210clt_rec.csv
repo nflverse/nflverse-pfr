@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Marcus Murphy,MurpMa03,receiving,BUF,6,5,17,0,1,5,1,12,2.4,1,0,NA,0,0,0,79.2,201810210clt
+Kelvin Benjamin,BenjKe00,receiving,BUF,5,4,71,0,4,59,14.8,12,3,16.2,0,NA,0,0,1,79.2,201810210clt
+Charles Clay,ClayCh00,receiving,BUF,5,3,14,0,1,21,7,-7,-2.3,8.2,0,NA,0,0,0,64.6,201810210clt
+Chris Ivory,IvorCh00,receiving,BUF,6,3,25,0,0,6,2,19,6.3,0.7,0,NA,1,16.7,0,61.1,201810210clt
+Zay Jones,JoneZa00,receiving,BUF,5,3,27,0,1,16,5.3,11,3.7,6.8,0,NA,0,0,1,35,201810210clt
+Jason Croom,CrooJa00,receiving,BUF,2,1,8,0,1,4,4,4,4,4.5,0,NA,0,0,0,60.4,201810210clt
+Andre Holmes,HolmAn00,receiving,BUF,2,1,13,0,1,13,13,0,0,16.5,0,NA,0,0,1,31.2,201810210clt
+T.Y. Hilton,HiltT.00,receiving,IND,4,4,25,2,3,24,6,1,0.3,6,0,NA,0,0,0,132.3,201810210clt
+Chester Rogers,RogeCh02,receiving,IND,4,4,40,0,2,25,6.3,15,3.8,6.3,0,NA,0,0,0,108.3,201810210clt
+Eric Ebron,EbroEr00,receiving,IND,7,3,31,0,1,17,5.7,14,4.7,8.4,0,NA,1,14.3,0,56.2,201810210clt
+Marlon Mack,MackMa00,receiving,IND,3,2,33,1,1,-8,-4,41,20.5,-2.7,0,NA,0,0,0,143.1,201810210clt
+Mo Alie-Cox,AlieMo00,receiving,IND,1,1,7,0,1,2,2,5,5,2,0,NA,0,0,0,95.8,201810210clt
+Nyheim Hines,HineNy00,receiving,IND,2,1,-5,0,0,-5,-5,0,0,-1.5,0,NA,0,0,0,56.2,201810210clt
+Erik Swoope,SwooEr00,receiving,IND,1,1,17,1,1,17,17,0,0,17,0,NA,0,0,0,158.3,201810210clt
+Jordan Wilkins,WilkJo01,receiving,IND,1,1,8,0,1,-3,-3,11,11,-3,0,NA,0,0,0,100,201810210clt

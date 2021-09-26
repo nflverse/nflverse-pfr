@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Emmanuel Sanders,SandEm00,receiving,SFO,9,7,157,1,4,102,14.6,55,7.9,12.4,0,NA,1,11.1,1,116.2,201912080nor
+George Kittle,KittGe00,receiving,SFO,8,6,67,1,3,3,0.5,64,10.7,2.8,1,6,1,12.5,0,139.1,201912080nor
+Deebo Samuel,SamuDe00,receiving,SFO,8,5,76,0,3,40,8,36,7.2,5.1,0,NA,2,25,0,93.7,201912080nor
+Kendrick Bourne,BourKe00,receiving,SFO,4,3,18,2,3,17,5.7,1,0.3,5.5,0,NA,0,0,0,122.9,201912080nor
+Kyle Juszczyk,JuszKy00,receiving,SFO,3,3,22,0,1,5,1.7,17,5.7,1.7,0,NA,0,0,0,97.2,201912080nor
+Raheem Mostert,MostRa00,receiving,SFO,2,2,40,1,1,24,12,16,8,12,0,NA,0,0,0,158.3,201912080nor
+Matt Breida,BreiMa00,receiving,SFO,1,1,4,0,0,3,3,1,1,3,0,NA,0,0,0,83.3,201912080nor
+Michael Thomas,ThomMi05,receiving,NOR,15,11,134,1,4,84,7.6,50,4.5,8.3,1,11,1,6.7,0,122.6,201912080nor
+Ted Ginn Jr.,GinnTe00,receiving,NOR,6,4,50,0,3,34,8.5,16,4,6.7,0,NA,1,16.7,0,92.4,201912080nor
+Alvin Kamara,KamaAl00,receiving,NOR,6,4,18,0,2,-2,-0.5,20,5,-1.3,1,4,0,0,0,70.1,201912080nor
+Jared Cook,CookJa02,receiving,NOR,2,2,64,2,2,44,22,20,10,22,0,NA,0,0,0,158.3,201912080nor
+Josh Hill,HillJo02,receiving,NOR,3,2,4,1,1,0,0,4,2,6,0,NA,0,0,0,109.7,201912080nor
+Latavius Murray,MurrLa00,receiving,NOR,3,2,25,0,1,-7,-3.5,32,16,-3,0,NA,0,0,0,92.4,201912080nor
+Tre'Quan Smith,SmitTr03,receiving,NOR,4,2,29,1,2,4,2,25,12.5,11,1,2,0,0,0,113.5,201912080nor
+Deonte Harris,HarrDe07,receiving,NOR,1,1,13,0,1,-3,-3,16,16,-3,0,NA,0,0,0,118.7,201912080nor
+Taysom Hill,HillTa00,receiving,NOR,1,1,12,0,1,0,0,12,12,0,0,NA,0,0,0,116.7,201912080nor

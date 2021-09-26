@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,15,60,3,24,1.6,36,2.4,1,15,201909220buf
+Giovani Bernard,BernGi00,rushing,CIN,3,5,NA,0,0,5,1.7,0,NA,201909220buf
+Andy Dalton,DaltAn00,rushing,CIN,1,1,1,1,1,0,0,0,NA,201909220buf
+Frank Gore,GoreFr00,rushing,BUF,14,76,5,39,2.8,37,2.6,1,14,201909220buf
+Josh Allen,AlleJo02,rushing,BUF,9,46,3,11,1.2,35,3.9,1,9,201909220buf
+T.J. Yeldon,YeldT.00,rushing,BUF,8,30,1,9,1.1,21,2.6,0,NA,201909220buf
+Isaiah McKenzie,McKeIs00,rushing,BUF,3,10,1,6,2,4,1.3,0,NA,201909220buf
+John Brown,BrowJo02,rushing,BUF,1,4,0,2,2,2,2,0,NA,201909220buf
+Dawson Knox,KnoxDa00,rushing,BUF,1,9,1,6,6,3,3,0,NA,201909220buf

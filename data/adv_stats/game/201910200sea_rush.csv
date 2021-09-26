@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Lamar Jackson,JackLa00,rushing,BAL,14,116,6,93,6.6,23,1.6,0,NA,201910200sea
+Mark Ingram,IngrMa01,rushing,BAL,12,46,1,28,2.3,18,1.5,0,NA,201910200sea
+Gus Edwards,EdwaGu00,rushing,BAL,8,35,2,21,2.6,14,1.8,0,NA,201910200sea
+Willie Snead,SneaWi00,rushing,BAL,1,2,NA,2,2,0,0,0,NA,201910200sea
+Chris Carson,CarsCh00,rushing,SEA,21,65,5,33,1.6,32,1.5,1,21,201910200sea
+Russell Wilson,WilsRu00,rushing,SEA,3,27,2,27,9,0,0,0,NA,201910200sea
+Tyler Lockett,LockTy00,rushing,SEA,1,-3,0,-3,-3,0,0,0,NA,201910200sea
+C.J. Prosise,ProsC.00,rushing,SEA,1,17,1,17,17,0,0,0,NA,201910200sea

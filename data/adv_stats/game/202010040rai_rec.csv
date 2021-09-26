@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Stefon Diggs,DiggSt00,receiving,BUF,7,6,115,0,5,105,17.5,10,1.7,14.7,0,NA,1,14.3,0,118.7,202010040rai
+Devin Singletary,SingDe00,receiving,BUF,6,5,21,0,0,3,0.6,18,3.6,0,1,5,1,16.7,0,81.2,202010040rai
+John Brown,BrowJo02,receiving,BUF,5,4,42,0,4,32,8,10,2.5,7.2,0,NA,1,20,0,101.7,202010040rai
+Cole Beasley,BeasCo00,receiving,BUF,4,3,32,1,2,27,9,5,1.7,6.8,0,NA,0,0,0,137.5,202010040rai
+Dawson Knox,KnoxDa00,receiving,BUF,3,2,16,0,NA,-2,-1,18,9,-1,0,NA,1,33.3,0,79.9,202010040rai
+Tyler Kroft,KrofTy00,receiving,BUF,3,1,12,0,1,11,11,1,1,5.7,0,NA,1,33.3,0,46.5,202010040rai
+Andre Roberts,RobeAn00,receiving,BUF,1,1,6,0,NA,6,6,0,0,6,0,NA,0,0,0,91.7,202010040rai
+Isaiah McKenzie,McKeIs00,receiving,BUF,1,1,18,0,1,3,3,15,15,3,0,NA,0,0,0,118.7,202010040rai
+Gabriel Davis,DaviGa01,receiving,BUF,1,1,26,1,1,26,26,0,0,26,0,NA,0,0,0,158.3,202010040rai
+T.J. Yeldon,YeldT.00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,-6,0,NA,0,0,0,39.6,202010040rai
+Darren Waller,WallDa01,receiving,LVR,11,9,88,0,5,40,4.4,48,5.3,5.2,1,9,1,9.1,0,100,202010040rai
+Hunter Renfrow,RenfHu00,receiving,LVR,8,5,57,0,3,39,7.8,18,3.6,7.8,0,NA,1,12.5,0,83.9,202010040rai
+Zay Jones,JoneZa00,receiving,LVR,7,4,32,0,1,20,5,12,3,8.1,0,NA,1,14.3,0,68.7,202010040rai
+Nelson Agholor,AghoNe00,receiving,LVR,4,4,44,1,4,42,10.5,2,0.5,10.5,0,NA,0,0,0,152.1,202010040rai
+Josh Jacobs,JacoJo01,receiving,LVR,4,3,25,0,0,3,1,22,7.3,4,0,NA,0,0,0,90.6,202010040rai
+Jalen Richard,RichJa01,receiving,LVR,4,2,10,0,0,1,0.5,9,4.5,1.3,0,NA,0,0,0,56.2,202010040rai
+Alec Ingold,IngoAl01,receiving,LVR,2,2,29,0,1,6,3,23,11.5,3,0,NA,0,0,0,118.7,202010040rai
+Jason Witten,WittJa00,receiving,LVR,2,2,18,1,2,18,9,0,0,9,0,NA,0,0,0,143.7,202010040rai
+Foster Moreau,MoreFo00,receiving,LVR,1,1,8,0,NA,4,4,4,4,4,0,NA,0,0,0,100,202010040rai

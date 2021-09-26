@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Phillip Lindsay,LindPh00,rushing,DEN,14,59,3,23,1.6,36,2.6,1,14,201910270clt
+Royce Freeman,FreeRo00,rushing,DEN,12,40,3,19,1.6,21,1.8,0,NA,201910270clt
+Joe Flacco,FlacJo00,rushing,DEN,1,9,1,7,7,2,2,0,NA,201910270clt
+Diontae Spencer,SpenDi00,rushing,DEN,1,5,0,3,3,2,2,0,NA,201910270clt
+Marlon Mack,MackMa00,rushing,IND,19,76,5,47,2.5,29,1.5,0,NA,201910270clt
+Jacoby Brissett,BrisJa00,rushing,IND,6,34,1,34,5.7,0,0,0,NA,201910270clt
+Nyheim Hines,HineNy00,rushing,IND,4,12,1,6,1.5,6,1.5,0,NA,201910270clt
+Jordan Wilkins,WilkJo01,rushing,IND,2,5,NA,4,2,1,0.5,0,NA,201910270clt

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Lamar Jackson,JackLa00,rushing,BAL,17,103,7,74,4.4,29,1.7,0,NA,201912220cle
+Gus Edwards,EdwaGu00,rushing,BAL,12,66,5,29,2.4,37,3.1,2,6,201912220cle
+Mark Ingram,IngrMa01,rushing,BAL,8,55,3,14,1.8,41,5.1,0,NA,201912220cle
+Justice Hill,HillJu00,rushing,BAL,3,19,1,19,6.3,0,0,0,NA,201912220cle
+Nick Chubb,ChubNi00,rushing,CLE,15,45,2,10,0.7,35,2.3,0,NA,201912220cle
+Kareem Hunt,HuntKa00,rushing,CLE,2,8,0,2,1,6,3,0,NA,201912220cle
+Baker Mayfield,MayfBa00,rushing,CLE,2,4,0,-1,-0.5,5,2.5,0,NA,201912220cle

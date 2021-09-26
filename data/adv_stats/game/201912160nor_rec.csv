@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Zach Pascal,PascZa00,receiving,IND,6,4,44,0,2,17,4.3,27,6.8,4.3,1,4,0,0,0,88.2,201912160nor
+T.Y. Hilton,HiltT.00,receiving,IND,9,4,25,0,1,18,4.5,7,1.8,11,0,NA,0,0,0,51.6,201912160nor
+Jack Doyle,DoylJa00,receiving,IND,5,2,21,0,2,13,6.5,8,4,9.2,0,NA,0,0,0,52.9,201912160nor
+Marcus Johnson,JohnMa07,receiving,IND,4,2,37,0,2,35,17.5,2,1,27,0,NA,0,0,0,82.3,201912160nor
+Dontrelle Inman,InmaDo00,receiving,IND,3,2,25,0,1,21,10.5,4,2,10.3,0,NA,0,0,0,92.4,201912160nor
+Nyheim Hines,HineNy00,receiving,IND,2,2,2,0,NA,-6,-3,8,4,-3,1,2,0,0,0,79.2,201912160nor
+Ashton Dulin,DuliAs00,receiving,IND,1,1,4,0,NA,-3,-3,7,7,-3,0,NA,0,0,0,83.3,201912160nor
+Jordan Wilkins,WilkJo01,receiving,IND,3,1,7,0,0,4,4,3,3,3,0,NA,0,0,0,42.4,201912160nor
+Michael Thomas,ThomMi05,receiving,NOR,12,12,128,1,8,108,9,20,1.7,9,0,NA,0,0,0,138.9,201912160nor
+Alvin Kamara,KamaAl00,receiving,NOR,5,5,23,0,0,-5,-1,28,5.6,-1,0,NA,0,0,0,85.8,201912160nor
+Jared Cook,CookJa02,receiving,NOR,4,4,54,0,3,50,12.5,4,1,12.5,0,NA,0,0,0,118.7,201912160nor
+Taysom Hill,HillTa00,receiving,NOR,2,2,42,1,2,24,12,18,9,12,1,2,0,0,0,158.3,201912160nor
+Latavius Murray,MurrLa00,receiving,NOR,3,2,20,0,2,-4,-2,24,12,-2,0,NA,0,0,0,85.4,201912160nor
+Josh Hill,HillJo02,receiving,NOR,1,1,5,1,1,5,5,0,0,5,0,NA,0,0,0,127.1,201912160nor
+Deonte Harris,HarrDe07,receiving,NOR,1,1,1,0,NA,-4,-4,5,5,-4,0,NA,0,0,0,79.2,201912160nor
+Ted Ginn Jr.,GinnTe00,receiving,NOR,1,1,13,0,1,11,11,2,2,11,0,NA,0,0,0,118.7,201912160nor
+Tre'Quan Smith,SmitTr03,receiving,NOR,1,1,21,1,1,19,19,2,2,19,0,NA,0,0,0,158.3,201912160nor

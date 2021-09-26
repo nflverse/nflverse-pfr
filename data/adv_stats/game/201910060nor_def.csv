@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Lavonte David,DaviLa00,defense,TAM,0,6,6,100.0%,54,9,9,0,104.2,2.7,16,38,3,0,1,0,1,5,1,16.7%,201910060nor
+Vernon Hargreaves III,HargVe00,defense,TAM,0,6,5,83.3%,100,20,16.7,1,158.3,13.2,66,34,0,0,0,0,0,5,0,0.0%,201910060nor
+Sean Murphy-Bunting,BuntSe00,defense,TAM,1,7,5,71.4%,30,6,4.3,1,79.5,3.7,12,18,0,0,0,0,0,4,3,42.9%,201910060nor
+Mike Edwards,EdwaMi01,defense,TAM,0,5,5,100.0%,72,14.4,14.4,2,158.3,11,55,17,1,0,0,0,0,5,1,16.7%,201910060nor
+Kevin Minter,MintKe00,defense,TAM,0,5,4,80.0%,52,13,10.4,1,149.6,11.4,46,6,7,1,0,0,1,10,2,16.7%,201910060nor
+Carlton Davis,DaviCa02,defense,TAM,0,4,4,100.0%,55,13.8,13.8,0,118.7,11,44,11,0,0,0,0,0,5,0,0.0%,201910060nor
+Jordan Whitehead,WhitJo03,defense,TAM,0,4,2,50.0%,17,8.5,4.3,1,101,5.5,6,11,3,0,0,0,0,8,0,0.0%,201910060nor
+Shaquil Barrett,BarrSh00,defense,TAM,0,1,1,100.0%,4,4,4,0,83.3,1,1,3,10,0,0,0,0,2,1,33.3%,201910060nor
+M.J. Stewart,StewM.00,defense,TAM,0,1,1,100.0%,4,4,4,0,83.3,3,3,1,1,0,0,0,0,3,0,0.0%,201910060nor
+Carl Nassib,NassCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,1,0,2,1,2,66.7%,201910060nor
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,201910060nor
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,201910060nor
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201910060nor
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201910060nor
+Devante Bond,BondDe00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,201910060nor
+Vonn Bell,BellVo00,defense,NOR,0,5,4,80.0%,90,22.5,18,2,158.3,17.8,58,32,0,0,0,0,0,4,1,20.0%,201910060nor
+P.J. Williams,WillP.00,defense,NOR,0,6,4,66.7%,73,18.3,12.2,0,108.3,9.5,51,22,1,0,0,0,0,5,2,28.6%,201910060nor
+Eli Apple,ApplEl00,defense,NOR,0,6,3,50.0%,47,15.7,7.8,1,116,10.7,14,33,0,0,0,0,0,1,1,50.0%,201910060nor
+Marshon Lattimore,LattMa01,defense,NOR,0,5,2,40.0%,25,12.5,5,0,56.2,8.8,21,4,0,0,0,0,0,3,0,0.0%,201910060nor
+A.J. Klein,KleiAJ00,defense,NOR,0,3,2,66.7%,11,5.5,3.7,0,72.9,2.3,5,6,2,0,0,0,0,6,0,0.0%,201910060nor
+Demario Davis,DaviDe00,defense,NOR,0,2,1,50.0%,11,11,5.5,0,66.7,10,-4,15,8,0,0,0,0,7,0,0.0%,201910060nor
+Kiko Alonso,AlonKi00,defense,NOR,0,1,1,100.0%,11,11,11,0,112.5,6,6,5,0,0,0,0,0,2,0,0.0%,201910060nor
+Marcus Davenport,DaveMa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,2,2,6,2,1,33.3%,201910060nor
+Cameron Jordan,JordCa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1,1,4,2,1,33.3%,201910060nor
+Sheldon Rankins,RankSh00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201910060nor
+Carl Granderson,GranCa01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201910060nor
+Malcom Brown,BrowMa01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,1,25.0%,201910060nor
+Chauncey Gardner-Johnson,GardCh00,defense,NOR,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,1,0,0,0,0,1,0,0.0%,201910060nor
+Patrick Robinson,RobiPa99,defense,NOR,0,2,0,0.0%,16,NA,8,0,60.4,11,6,10,0,0,0,0,0,0,1,100.0%,201910060nor
+David Onyemata,OnyeDa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201910060nor

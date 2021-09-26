@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Austin Hooper,HoopAu00,receiving,ATL,9,6,56,0,3,31,5.2,25,4.2,7.2,0,NA,0,0,1,44,201910060htx
+Ito Smith,SmitIt00,receiving,ATL,6,6,45,0,0,10,1.7,35,5.8,1.7,1,6,0,0,0,97.9,201910060htx
+Devonta Freeman,FreeDe00,receiving,ATL,5,5,40,1,1,1,0.2,39,7.8,0.2,0,NA,0,0,0,139.6,201910060htx
+Calvin Ridley,RidlCa00,receiving,ATL,9,5,88,1,4,80,16,8,1.6,15.7,0,NA,1,11.1,0,126.2,201910060htx
+Mohamed Sanu,SanuMo00,receiving,ATL,5,5,42,1,3,21,4.2,21,4.2,4.2,1,5,0,0,0,141.2,201910060htx
+Julio Jones,JoneJu02,receiving,ATL,7,3,42,0,2,35,11.7,7,2.3,14.1,0,NA,0,0,0,62.8,201910060htx
+Russell Gage,GageRu00,receiving,ATL,2,1,12,0,1,12,12,0,0,15,0,NA,0,0,0,68.7,201910060htx
+Justin Hardy,HardJu00,receiving,ATL,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,201910060htx
+Will Fuller,FullWi01,receiving,HOU,16,14,217,3,7,108,7.7,109,7.8,8.9,0,NA,1,6.3,0,158.3,201910060htx
+DeAndre Hopkins,HopkDe00,receiving,HOU,8,7,88,0,5,54,7.7,34,4.9,8,3,2.3,0,0,0,112.5,201910060htx
+Keke Coutee,CoutKe00,receiving,HOU,4,3,72,0,3,44,14.7,28,9.3,12.8,0,NA,1,25,0,116.7,201910060htx
+Darren Fells,FellDa01,receiving,HOU,2,2,20,2,2,20,10,0,0,10,0,NA,0,0,0,147.9,201910060htx
+Jordan Akins,AkinJo00,receiving,HOU,1,1,21,0,1,-1,-1,22,22,-1,0,NA,0,0,0,118.7,201910060htx
+Duke Johnson,JohnDu00,receiving,HOU,1,1,8,0,0,-3,-3,11,11,-3,0,NA,0,0,0,100,201910060htx
+Carlos Hyde,HydeCa00,receiving,HOU,1,0,0,0,0,0,NA,0,NA,12,0,NA,0,0,0,39.6,201910060htx

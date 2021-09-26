@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Christian McCaffrey,McCaCh01,rushing,CAR,24,153,3,78,3.3,75,3.1,0,NA,201909220crd
+Kyle Allen,AlleKy00,rushing,CAR,3,-1,0,-1,-0.3,0,0,0,NA,201909220crd
+Reggie Bonnafon,BonnRe00,rushing,CAR,2,5,NA,0,0,5,2.5,0,NA,201909220crd
+Alex Armah,ArmaAl00,rushing,CAR,1,4,NA,2,2,2,2,0,NA,201909220crd
+D.J. Moore,MoorD.00,rushing,CAR,1,12,1,8,8,4,4,0,NA,201909220crd
+David Johnson,JohnDa08,rushing,ARI,11,37,5,16,1.5,21,1.9,1,11,201909220crd
+Kyler Murray,MurrKy00,rushing,ARI,8,69,5,68,8.5,1,0.1,0,NA,201909220crd
+Chase Edmonds,EdmoCh00,rushing,ARI,3,15,0,6,2,9,3,0,NA,201909220crd

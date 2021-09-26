@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Gerald Everett,EverGe00,receiving,LAR,12,8,68,0,3,37,4.6,31,3.9,5.3,1,8,0,0,0,81.2,201911100pit
+Robert Woods,WoodRo02,receiving,LAR,11,7,95,0,3,69,9.9,26,3.7,10.3,0,NA,0,0,1,53.2,201911100pit
+Tyler Higbee,HigbTy00,receiving,LAR,4,3,22,0,1,6,2,16,5.3,7.8,0,NA,0,0,1,47.9,201911100pit
+Josh Reynolds,ReynJo00,receiving,LAR,5,3,49,0,3,37,12.3,12,4,13.4,2,1.5,0,0,0,92.9,201911100pit
+Johnny Mundt,MundJo00,receiving,LAR,1,1,9,0,NA,4,4,5,5,4,0,NA,0,0,0,104.2,201911100pit
+Todd Gurley,GurlTo01,receiving,LAR,4,0,0,0,0,0,NA,0,NA,-1.5,0,NA,2,50,0,39.6,201911100pit
+Cooper Kupp,KuppCo00,receiving,LAR,4,0,0,0,NA,0,NA,0,NA,5.3,0,NA,1,25,0,39.6,201911100pit
+David Long,LongDa02,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,1,0,201911100pit
+James Washington,WashJa00,receiving,PIT,7,6,90,1,4,67,11.2,23,3.8,11.3,0,NA,0,0,0,158.3,201911100pit
+Diontae Johnson,JohnDi01,receiving,PIT,6,4,64,0,3,20,5,44,11,8.7,0,NA,2,33.3,0,102.1,201911100pit
+Vance McDonald,McDoVa00,receiving,PIT,7,3,11,0,NA,5,1.7,6,2,8.9,1,3,1,14.3,0,50.3,201911100pit
+Jaylen Samuels,SamuJa00,receiving,PIT,7,3,11,0,0,1,0.3,10,3.3,0.7,0,NA,1,14.3,0,50.3,201911100pit
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,5,3,44,0,2,34,11.3,10,3.3,8,0,NA,1,20,0,88.7,201911100pit
+Trey Edmunds,EdmuTr00,receiving,PIT,3,2,14,0,1,2,1,12,6,0.7,0,NA,0,0,0,77.1,201911100pit
+Nick Vannett,VannNi00,receiving,PIT,1,1,8,0,NA,8,8,0,0,8,0,NA,0,0,0,100,201911100pit

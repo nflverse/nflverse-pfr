@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,11,31,0,11,1,20,1.8,1,11,201910130jax
+Latavius Murray,MurrLa00,rushing,NOR,8,44,3,16,2,28,3.5,2,4,201910130jax
+Teddy Bridgewater,BridTe00,rushing,NOR,3,0,1,-1,-0.3,1,0.3,0,NA,201910130jax
+Taysom Hill,HillTa00,rushing,NOR,3,17,1,11,3.7,6,2,0,NA,201910130jax
+Ted Ginn Jr.,GinnTe00,rushing,NOR,1,12,1,12,12,0,0,0,NA,201910130jax
+Leonard Fournette,FourLe00,rushing,JAX,20,72,1,29,1.5,43,2.2,1,20,201910130jax
+Gardner Minshew II,MinsGa00,rushing,JAX,2,1,0,1,0.5,0,0,0,NA,201910130jax
+Ryquell Armstead,ArmsRy00,rushing,JAX,1,1,NA,1,1,0,0,0,NA,201910130jax
+Marqise Lee,LeexMa00,rushing,JAX,1,1,NA,1,1,0,0,0,NA,201910130jax

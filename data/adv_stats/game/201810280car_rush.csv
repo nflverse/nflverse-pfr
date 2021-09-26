@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alex Collins,CollAl00,rushing,BAL,11,49,3,14,1.3,35,3.2,1,11,201810280car
+Lamar Jackson,JackLa00,rushing,BAL,3,26,3,19,6.3,7,2.3,0,NA,201810280car
+Gus Edwards,EdwaGu00,rushing,BAL,2,12,1,9,4.5,3,1.5,0,NA,201810280car
+Joe Flacco,FlacJo00,rushing,BAL,2,14,1,13,6.5,1,0.5,0,NA,201810280car
+Christian McCaffrey,McCaCh01,rushing,CAR,14,45,4,20,1.4,25,1.8,0,NA,201810280car
+Cam Newton,NewtCa00,rushing,CAR,10,52,1,38,3.8,14,1.4,1,10,201810280car
+C.J. Anderson,AndeC.00,rushing,CAR,5,20,NA,15,3,5,1,0,NA,201810280car
+Taylor Heinicke,HeinTa00,rushing,CAR,2,-2,0,-2,-1,0,0,0,NA,201810280car
+D.J. Moore,MoorD.00,rushing,CAR,2,39,2,39,19.5,0,0,0,NA,201810280car

@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jordan Wilkins,WilkJo01,rushing,IND,20,89,5,35,1.8,54,2.7,3,6.7,202011010det
+Jonathan Taylor,TaylJo02,rushing,IND,11,22,2,8,0.7,14,1.3,0,NA,202011010det
+Nyheim Hines,HineNy00,rushing,IND,5,8,1,4,0.8,4,0.8,0,NA,202011010det
+Philip Rivers,RivePh00,rushing,IND,2,-2,0,-2,-1,0,0,0,NA,202011010det
+Trey Burton,BurtTr01,rushing,IND,1,2,1,0,0,2,2,0,NA,202011010det
+D'Andre Swift,SwifDA00,rushing,DET,6,1,0,-6,-1,7,1.2,0,NA,202011010det
+Adrian Peterson,PeteAd01,rushing,DET,5,7,NA,4,0.8,3,0.6,0,NA,202011010det
+Jamal Agnew,AgneJa00,rushing,DET,1,11,1,10,10,1,1,0,NA,202011010det
+Matthew Stafford,StafMa00,rushing,DET,1,10,1,10,10,0,0,0,NA,202011010det

@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Corey Ballentine,BallCo00,defense,NYG,0,13,10,76.9%,185,18.5,14.2,1,143.9,13,126,59,0,0,0,0,0,9,0,0.0%,201911240chi
+Alec Ogletree,OgleAl00,defense,NYG,1,8,6,75.0%,26,4.3,3.3,0,38.5,1.9,-3,29,4,0,0,0,0,2,2,50.0%,201911240chi
+Janoris Jenkins,JenkJa03,defense,NYG,0,7,3,42.9%,25,8.3,3.6,0,52.7,8.9,21,4,0,0,0,0,0,5,1,16.7%,201911240chi
+Antoine Bethea,BethAn20,defense,NYG,0,3,2,66.7%,19,9.5,6.3,0,84,7.3,14,5,0,0,0,0,0,3,0,0.0%,201911240chi
+Dexter Lawrence,LawrDe03,defense,NYG,0,1,1,100.0%,4,4,4,0,83.3,-1,-1,5,0,1,1,0,2,2,0,0.0%,201911240chi
+Jabrill Peppers,PeppJa00,defense,NYG,0,1,1,100.0%,-2,-2,-2,0,79.2,-6,-6,4,1,0,0,0,0,5,1,16.7%,201911240chi
+Deone Bucannon,BucaDe00,defense,NYG,0,1,1,100.0%,14,14,14,0,118.7,8,8,6,0,0,0,0,0,5,1,16.7%,201911240chi
+Markus Golden,GoldMa00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,0,1,2,4,1,20.0%,201911240chi
+Lorenzo Carter,CartLo01,defense,NYG,0,1,0,0.0%,NA,NA,0,NA,39.6,20,NA,NA,4,0,1,1,2,4,1,20.0%,201911240chi
+Leonard Williams,WillLe02,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201911240chi
+Oshane Ximines,XimiOs00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,1,0,0.0%,201911240chi
+Dalvin Tomlinson,TomlDa00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,1,25.0%,201911240chi
+Deandre Baker,BakeDe00,defense,NYG,0,2,0,0.0%,NA,NA,0,NA,39.6,8,NA,NA,0,0,0,0,0,1,0,0.0%,201911240chi
+David Mayo,MayoDa00,defense,NYG,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,2,0,0,0,0,7,0,0.0%,201911240chi
+Prince Amukamara,AmukPr00,defense,CHI,0,7,4,57.1%,61,15.3,8.7,0,86,9.1,31,30,0,0,0,0,0,4,1,20.0%,201911240chi
+Kyle Fuller,FullKy00,defense,CHI,0,7,3,42.9%,12,4,1.7,0,50.3,8.4,8,4,0,0,0,0,0,3,0,0.0%,201911240chi
+Ha Ha Clinton-Dix,ClinHa00,defense,CHI,0,4,3,75.0%,10,3.3,2.5,1,116.7,3.5,7,3,1,0,0,0,0,7,0,0.0%,201911240chi
+Buster Skrine,SkriBu00,defense,CHI,0,5,3,60.0%,38,12.7,7.6,1,123.3,9.6,32,6,2,0,0,0,0,4,1,20.0%,201911240chi
+Nick Kwiatkoski,KwiaNi00,defense,CHI,0,3,2,66.7%,2,1,0.7,0,70.1,5.3,0,2,2,1,0,0,1,5,1,16.7%,201911240chi
+Roquan Smith,SmitRo07,defense,CHI,0,4,2,50.0%,1,0.5,0.3,0,56.2,1,2,-1,3,0,0,0,0,4,0,0.0%,201911240chi
+Leonard Floyd,FloyLe00,defense,CHI,0,1,1,100.0%,10,10,10,0,108.3,7,7,3,3,1,4,0,5,1,1,50.0%,201911240chi
+Bilal Nichols,NichBi00,defense,CHI,0,1,1,100.0%,2,2,2,0,79.2,-3,-3,5,0,0,0,0,0,2,0,0.0%,201911240chi
+Eddie Jackson,JackEd01,defense,CHI,0,2,1,50.0%,13,13,6.5,0,70.8,14,12,1,1,0,0,0,0,6,1,14.3%,201911240chi
+Khalil Mack,MackKh00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,1,1,5,3,0,0.0%,201911240chi
+Roy Robertson-Harris,RobeRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,1,0,0.0%,201911240chi

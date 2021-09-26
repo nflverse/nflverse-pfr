@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Matt Breida,BreiMa00,rushing,SFO,14,106,6,76,5.4,30,2.1,1,14,201811250tam
+Jeff Wilson,WilsJe01,rushing,SFO,7,33,2,2,0.3,31,4.4,0,NA,201811250tam
+Nick Mullens,MullNi00,rushing,SFO,2,-1,0,-1,-0.5,0,0,0,NA,201811250tam
+George Kittle,KittGe00,rushing,SFO,1,10,1,10,10,0,0,0,NA,201811250tam
+Peyton Barber,BarbPe01,rushing,TAM,18,47,5,16,0.9,31,1.7,0,NA,201811250tam
+Jameis Winston,WinsJa00,rushing,TAM,7,24,1,8,1.1,16,2.3,0,NA,201811250tam
+Jacquizz Rodgers,RodgJa00,rushing,TAM,5,31,2,26,5.2,5,1,0,NA,201811250tam
+DeSean Jackson,JackDe00,rushing,TAM,1,6,1,6,6,0,0,0,NA,201811250tam

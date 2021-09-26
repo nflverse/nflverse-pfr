@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Gallup,GallMi00,receiving,DAL,12,7,61,0,4,12,1.7,49,7,6.9,1,7,1,8.3,0,71.9,202011010phi
+Dalton Schultz,SchuDa00,receiving,DAL,8,6,53,0,1,35,5.8,18,3,9,1,6,0,0,0,92.2,202011010phi
+CeeDee Lamb,LambCe00,receiving,DAL,5,4,27,0,2,17,4.3,10,2.5,7.2,0,NA,0,0,0,89.2,202011010phi
+Tony Pollard,PollTo00,receiving,DAL,2,2,24,0,2,-5,-2.5,29,14.5,-2.5,0,NA,0,0,0,116.7,202011010phi
+Amari Cooper,CoopAm00,receiving,DAL,5,1,5,0,NA,5,5,0,0,7.6,0,NA,1,20,0,39.6,202011010phi
+Ezekiel Elliott,ElliEz00,receiving,DAL,2,1,10,0,1,-4,-4,14,14,0,0,NA,0,0,0,64.6,202011010phi
+Noah Brown,BrowNo00,receiving,DAL,2,0,0,0,NA,0,NA,0,NA,13.5,0,NA,0,0,0,39.6,202011010phi
+Cedrick Wilson Jr.,WilsCe01,receiving,DAL,2,0,0,0,NA,0,NA,0,NA,27,0,NA,0,0,0,39.6,202011010phi
+Travis Fulgham,FulgTr00,receiving,PHI,7,6,78,1,3,59,9.8,19,3.2,9.7,0,NA,0,0,0,152.7,202011010phi
+Jalen Reagor,ReagJa00,receiving,PHI,6,3,16,1,2,10,3.3,6,2,12.5,1,3,1,16.7,1,56.2,202011010phi
+Greg Ward,WardGr02,receiving,PHI,5,3,10,0,1,9,3,1,0.3,4.8,0,NA,0,0,0,64.6,202011010phi
+Boston Scott,ScotBo02,receiving,PHI,2,2,9,0,0,8,4,1,0.5,4,0,NA,0,0,0,85.4,202011010phi
+Corey Clement,ClemCo00,receiving,PHI,2,1,4,0,1,1,1,3,3,-1,0,NA,1,50,0,56.2,202011010phi
+Dallas Goedert,GoedDa00,receiving,PHI,1,1,15,0,1,13,13,2,2,13,0,NA,0,0,0,118.7,202011010phi
+John Hightower,HighJo00,receiving,PHI,3,0,0,0,NA,0,NA,0,NA,33.7,0,NA,0,0,1,0,202011010phi

@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Mack Wilson,WilsMa03,defense,CLE,0,6,5,83.3%,75,15,12.5,0,118.7,4.8,31,44,1,0,0,0,0,9,1,10.0%,201912290cin
+Joe Schobert,SchoJo00,defense,CLE,0,5,4,80.0%,27,6.8,5.4,0,89.2,3.6,15,12,2,0,0,0,0,8,0,0.0%,201912290cin
+Denzel Ward,WardDe02,defense,CLE,1,9,3,33.3%,49,16.3,5.4,0,13,10.8,29,20,0,0,0,0,0,6,0,0.0%,201912290cin
+Greedy Williams,WillGr00,defense,CLE,0,3,2,66.7%,28,14,9.3,0,96.5,12.3,24,4,0,0,0,0,0,3,3,50.0%,201912290cin
+Damarious Randall,RandDa00,defense,CLE,0,4,1,25.0%,15,15,3.8,1,82.3,17.8,15,0,3,0,0,0.5,1,3,2,40.0%,201912290cin
+Bryan Cox Jr.,CoxxBr01,defense,CLE,0,1,1,100.0%,-7,-7,-7,0,79.2,-6,-6,-1,0,1,0,0,1,4,1,20.0%,201912290cin
+Sheldrick Redwine,RedwSh00,defense,CLE,0,2,1,50.0%,14,14,7,0,72.9,26.5,6,8,0,0,0,0,0,4,3,42.9%,201912290cin
+Larry Ogunjobi,OgunLa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,6,0,0.0%,201912290cin
+Olivier Vernon,VernOl00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0.5,1,2,2,50.0%,201912290cin
+Sione Takitaki,TakiSi00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201912290cin
+Sheldon Richardson,RichSh00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201912290cin
+Porter Gustin,GustPo01,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201912290cin
+Juston Burris,BurrJu00,defense,CLE,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,1,0,0,0,0,2,0,0.0%,201912290cin
+Chad Thomas,ThomCh06,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201912290cin
+Eric Murray,MurrEr00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,1,1,50.0%,201912290cin
+Darius Phillips,PhilDa02,defense,CIN,2,9,5,55.6%,138,27.6,15.3,2,100.5,25.2,120,18,0,0,0,0,0,1,0,0.0%,201912290cin
+Shawn Williams,WillSh02,defense,CIN,0,4,3,75.0%,76,25.3,19,1,156.2,16.8,67,9,1,0,0,0,0,3,3,50.0%,201912290cin
+B.W. Webb,WebbBW00,defense,CIN,1,5,3,60.0%,101,33.7,20.2,1,104.2,26.2,80,21,0,0,0,0,0,4,1,20.0%,201912290cin
+Nick Vigil,VigiNi00,defense,CIN,0,5,2,40.0%,11,5.5,2.2,0,47.9,1.4,-6,17,5,0,0,0,0,4,2,33.3%,201912290cin
+Jessie Bates III,BateJe00,defense,CIN,0,2,1,50.0%,25,25,12.5,0,95.8,24.5,23,2,0,0,0,0,0,1,1,50.0%,201912290cin
+Clayton Fejedelem,FejeCl00,defense,CIN,0,3,1,33.3%,18,18,6,0,54.9,31.3,18,0,0,0,0,0,0,1,0,0.0%,201912290cin
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,0,2.5,5,5,0,0.0%,201912290cin
+Carl Lawson,LawsCa00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,1,0,2,2,4,4,0,0.0%,201912290cin
+Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,1.5,3,6,2,25.0%,201912290cin
+Geno Atkins,AtkiGe99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,5,0,0.0%,201912290cin
+Josh Tupou,TupoJo00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201912290cin
+Andrew Billings,BillAn00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201912290cin
+Germaine Pratt,PratGe00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,4,0,0,0,0,5,0,0.0%,201912290cin

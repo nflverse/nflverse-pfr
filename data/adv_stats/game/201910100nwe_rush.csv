@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jon Hilliman,HillJo03,rushing,NYG,11,38,3,20,1.8,18,1.6,0,NA,201910100nwe
+Elijhaa Penny,PennEl00,rushing,NYG,3,6,NA,-2,-0.7,8,2.7,1,3,201910100nwe
+Daniel Jones,JoneDa05,rushing,NYG,2,8,0,8,4,0,0,0,NA,201910100nwe
+Sony Michel,MichSo00,rushing,NWE,22,86,3,48,2.2,38,1.7,1,22,201910100nwe
+Tom Brady,BradTo00,rushing,NWE,7,6,3,5,0.7,1,0.1,0,NA,201910100nwe
+Brandon Bolden,BoldBr00,rushing,NWE,3,23,2,14,4.7,9,3,0,NA,201910100nwe
+James White,WhitJa02,rushing,NWE,2,-1,0,-1,-0.5,0,0,2,1,201910100nwe

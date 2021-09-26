@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,23,154,6,56,2.4,98,4.3,0,NA,201912230min
+Jamaal Williams,WillJa06,rushing,GNB,6,33,2,18,3,15,2.5,0,NA,201912230min
+Aaron Rodgers,RodgAa00,rushing,GNB,3,-3,0,-3,-1,0,0,0,NA,201912230min
+Mike Boone,BoonMi00,rushing,MIN,11,28,NA,10,0.9,18,1.6,0,NA,201912230min
+Ameer Abdullah,AbduAm00,rushing,MIN,4,27,1,21,5.3,6,1.5,0,NA,201912230min
+Adam Thielen,ThieAd00,rushing,MIN,1,2,NA,0,0,2,2,1,1,201912230min

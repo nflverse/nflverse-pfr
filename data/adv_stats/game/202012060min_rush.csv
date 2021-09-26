@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Robinson,RobiJa00,rushing,JAX,18,78,3,45,2.5,33,1.8,0,NA,202012060min
+Mike Glennon,GlenMi00,rushing,JAX,3,9,0,8,2.7,1,0.3,0,NA,202012060min
+Dare Ogunbowale,OgunDa00,rushing,JAX,2,7,NA,3,1.5,4,2,0,NA,202012060min
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,2,30,2,17,8.5,13,6.5,0,NA,202012060min
+Dalvin Cook,CookDa01,rushing,MIN,32,120,7,58,1.8,62,1.9,1,32,202012060min
+Kirk Cousins,CousKi00,rushing,MIN,3,12,2,12,4,0,0,0,NA,202012060min
+Ameer Abdullah,AbduAm00,rushing,MIN,2,11,1,8,4,3,1.5,0,NA,202012060min
+Justin Jefferson,JeffJu00,rushing,MIN,1,2,0,1,1,1,1,0,NA,202012060min

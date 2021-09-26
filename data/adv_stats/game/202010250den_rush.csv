@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,8,46,3,28,3.5,18,2.3,4,2,202010250den
+Le'Veon Bell,BellLe00,rushing,KAN,6,39,2,26,4.3,13,2.2,2,3,202010250den
+Chad Henne,HennCh01,rushing,KAN,4,-2,1,-2,-0.5,0,0,0,NA,202010250den
+DeAndre Washington,WashDe00,rushing,KAN,3,5,NA,3,1,2,0.7,0,NA,202010250den
+Mecole Hardman,HardMe00,rushing,KAN,1,13,1,12,12,1,1,0,NA,202010250den
+Melvin Gordon,GordMe00,rushing,DEN,17,68,6,35,2.1,33,1.9,1,17,202010250den
+Phillip Lindsay,LindPh00,rushing,DEN,9,79,3,68,7.6,11,1.2,0,NA,202010250den
+Royce Freeman,FreeRo00,rushing,DEN,3,12,1,8,2.7,4,1.3,0,NA,202010250den
+Drew Lock,LockDr00,rushing,DEN,3,8,1,7,2.3,1,0.3,0,NA,202010250den
+KJ Hamler,HamlKJ00,rushing,DEN,1,10,1,8,8,2,2,0,NA,202010250den

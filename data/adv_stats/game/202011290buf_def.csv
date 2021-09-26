@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Tevaughn Campbell,CampTe00,defense,LAC,0,4,4,100.0%,87,21.8,21.8,1,158.3,19,76,11,0,0,0,0,0,3,0,0.0%,202011290buf
+Michael Davis,DaviMi03,defense,LAC,1,6,4,66.7%,21,5.3,3.5,0,32.6,6,17,4,1,0,0,0,0,4,3,42.9%,202011290buf
+Denzel Perryman,PerrDe00,defense,LAC,0,3,3,100.0%,10,3.3,3.3,0,80.6,-2.7,-8,18,1,0,0,0,0,4,0,0.0%,202011290buf
+Nasir Adderley,AddeNa00,defense,LAC,0,2,2,100.0%,16,8,8,1,139.6,5,10,6,0,0,0,0,0,4,0,0.0%,202011290buf
+Kenneth Murray,MurrKe00,defense,LAC,0,2,2,100.0%,11,5.5,5.5,0,89.6,1,2,9,4,0,0,0,0,5,0,0.0%,202011290buf
+Rayshawn Jenkins,JenkRa00,defense,LAC,0,3,2,66.7%,7,3.5,2.3,0,70.1,0.7,2,5,4,0,0,0,0,10,0,0.0%,202011290buf
+Isaac Rochell,RochIs00,defense,LAC,0,1,1,100.0%,14,14,14,0,118.7,-4,-4,18,0,0,1,0,1,0,0,NA,202011290buf
+Nick Vigil,VigiNi00,defense,LAC,0,1,1,100.0%,11,11,11,0,112.5,8,8,3,0,0,0,0,0,8,1,11.1%,202011290buf
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,3,5,9,1,10.0%,202011290buf
+Jerry Tillery,TillJe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,1,50.0%,202011290buf
+Justin Jones,JoneJu03,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,1,50.0%,202011290buf
+Linval Joseph,JoseLi99,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202011290buf
+Chris Harris Jr.,HarrCh01,defense,LAC,0,2,0,0.0%,NA,NA,0,NA,39.6,-2.5,NA,NA,2,0,0,0,0,3,0,0.0%,202011290buf
+A.J. Klein,KleiAJ00,defense,BUF,0,13,9,69.2%,63,7,4.8,0,80,1.5,-12,75,16,0,0,1.5,2,14,2,12.5%,202011290buf
+Tre'Davious White,WhitTr01,defense,BUF,1,9,6,66.7%,59,9.8,6.6,0,45.4,7.8,47,12,0,0,0,0,0,8,0,0.0%,202011290buf
+Jordan Poyer,PoyeJo00,defense,BUF,0,6,5,83.3%,58,11.6,9.7,0,106.9,8.3,44,14,4,0,0,0,0,10,2,16.7%,202011290buf
+Taron Johnson,JohnTa01,defense,BUF,0,7,4,57.1%,28,7,4,0,66.4,3.9,-2,30,7,1,2,0,3,6,1,14.3%,202011290buf
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,8,3,37.5%,20,6.7,2.5,1,85.4,3.3,14,6,19,0,0,0,0,11,0,0.0%,202011290buf
+Levi Wallace,WallLe00,defense,BUF,0,4,2,50.0%,66,33,16.5,0,95.8,27,61,5,0,0,0,0,0,7,0,0.0%,202011290buf
+Micah Hyde,HydeMi00,defense,BUF,0,2,1,50.0%,15,15,7.5,0,75,4.5,13,2,1,0,0,0,0,4,0,0.0%,202011290buf
+Andre Smith,SmitAn04,defense,BUF,0,1,1,100.0%,4,4,4,0,83.3,1,1,3,0,0,0,0,0,0,0,NA,202011290buf
+Darryl Johnson,JohnDa10,defense,BUF,0,1,1,100.0%,3,3,3,0,79.2,0,0,3,0,0,0,0,0,2,0,0.0%,202011290buf
+Jerry Hughes,HughJe99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0.5,3,4,0,0.0%,202011290buf
+A.J. Epenesa,EpenAJ00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202011290buf
+Quinton Jefferson,JeffQu00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202011290buf
+Harrison Phillips,PhilHa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202011290buf
+Ed Oliver,OlivEd00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202011290buf
+Justin Zimmer,ZimmJu00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,202011290buf

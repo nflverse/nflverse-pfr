@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jakobi Meyers,MeyeJa01,receiving,NWE,10,6,58,0,4,48,8,10,1.7,8.1,0,NA,1,10,0,76.2,202011010buf
+Damiere Byrd,ByrdDa00,receiving,NWE,4,3,39,0,2,29,9.7,10,3.3,10.3,0,NA,0,0,0,105.2,202011010buf
+Ryan Izzo,IzzoRy00,receiving,NWE,3,2,24,0,1,11,5.5,13,6.5,4,0,NA,1,33.3,0,91,202011010buf
+James White,WhitJa02,receiving,NWE,4,2,35,0,1,1,0.5,34,17,2,1,2,0,0,0,80.2,202011010buf
+Rex Burkhead,BurkRe00,receiving,NWE,1,1,5,0,0,-3,-3,8,8,-3,0,NA,0,0,0,87.5,202011010buf
+Isaiah Zuber,ZubeIs00,receiving,NWE,1,1,13,0,NA,-4,-4,17,17,-4,1,1,0,0,0,118.7,202011010buf
+Stefon Diggs,DiggSt00,receiving,BUF,9,6,92,0,3,55,9.2,37,6.2,10.6,0,NA,0,0,1,60.6,202011010buf
+Cole Beasley,BeasCo00,receiving,BUF,2,2,24,0,2,7,3.5,17,8.5,3.5,0,NA,0,0,0,116.7,202011010buf
+John Brown,BrowJo02,receiving,BUF,2,1,21,0,1,-3,-3,24,24,2,0,NA,0,0,0,87.5,202011010buf
+Tyler Kroft,KrofTy00,receiving,BUF,1,1,11,0,1,10,10,1,1,10,0,NA,0,0,0,112.5,202011010buf
+Devin Singletary,SingDe00,receiving,BUF,1,1,6,0,0,2,2,4,4,2,0,NA,0,0,0,91.7,202011010buf
+Gabriel Davis,DaviGa01,receiving,BUF,2,0,0,0,NA,0,NA,0,NA,29.5,0,NA,1,50,0,39.6,202011010buf
+Zack Moss,MossZa00,receiving,BUF,1,0,0,0,0,0,NA,0,NA,2,0,NA,0,0,0,39.6,202011010buf

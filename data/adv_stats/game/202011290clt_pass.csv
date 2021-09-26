@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Ryan Tannehill,TannRy00,passing,TEN,13,22,221,9,39.1,153,7,103,7.9,4.7,118,9.1,0,0.0%,4,20.0%,1,7,5,1,7,30.4%,0,NA,202011290clt
+Philip Rivers,RivePh00,passing,IND,24,42,295,17,39.5,297,7.1,131,5.5,3.1,164,6.8,1,2.5%,11,27.5%,1,11,4,4,9,20.9%,0,NA,202011290clt
+Jacoby Brissett,BrisJa00,passing,IND,0,2,0,0,0,42,21,0,NA,0,0,NA,0,0.0%,2,100.0%,1,1,0,0,1,25.0%,1,2,202011290clt

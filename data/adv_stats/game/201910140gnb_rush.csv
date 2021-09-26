@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kerryon Johnson,JohnKe06,rushing,DET,13,34,1,19,1.5,15,1.2,0,NA,201910140gnb
+J.D. McKissic,McKiJ.00,rushing,DET,3,4,NA,1,0.3,3,1,0,NA,201910140gnb
+Matthew Stafford,StafMa00,rushing,DET,3,9,1,9,3,0,0,0,NA,201910140gnb
+Jamal Agnew,AgneJa00,rushing,DET,1,9,1,6,6,3,3,0,NA,201910140gnb
+Jamaal Williams,WillJa06,rushing,GNB,14,104,3,90,6.4,14,1,0,NA,201910140gnb
+Aaron Jones,JoneAa00,rushing,GNB,11,47,0,39,3.5,8,0.7,0,NA,201910140gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,3,10,1,10,3.3,0,0,0,NA,201910140gnb
+Marquez Valdes-Scantling,ValdMa00,rushing,GNB,1,9,0,6,6,3,3,0,NA,201910140gnb

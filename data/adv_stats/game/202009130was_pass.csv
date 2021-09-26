@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Carson Wentz,WentCa00,passing,PHI,24,42,270,13,26,520,12.4,157,6.5,3.7,113,4.7,3,7.1%,13,31.0%,8,17,1,5,14,28.0%,0,NA,202009130was
+Dwayne Haskins,HaskDw00,passing,WAS,17,31,178,11,32.4,248,8,83,4.9,2.7,95,5.6,0,0.0%,10,33.3%,3,7,1,5,9,25.0%,2,10,202009130was

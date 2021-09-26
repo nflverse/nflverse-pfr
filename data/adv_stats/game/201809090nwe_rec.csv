@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeAndre Hopkins,HopkDe00,receiving,HOU,11,8,78,0,4,57,7.1,21,2.6,10.8,2,4,0,0,0,92.2,201809090nwe
+Bruce Ellington,ElliBr00,receiving,HOU,8,4,37,1,3,24,6,13,3.3,8.9,0,NA,2,25,0,102.6,201809090nwe
+Jordan Akins,AkinJo00,receiving,HOU,2,2,11,0,NA,11,5.5,0,0,5.5,0,NA,0,0,0,89.6,201809090nwe
+Tyler Ervin,ErviTy00,receiving,HOU,1,1,12,0,NA,1,1,11,11,1,0,NA,0,0,0,116.7,201809090nwe
+Jordan Thomas,ThomJo05,receiving,HOU,2,1,27,0,1,22,22,5,5,11,0,NA,0,0,0,95.8,201809090nwe
+Lamar Miller,MillLa01,receiving,HOU,2,1,11,0,0,2,2,9,9,1.5,0,NA,1,50,0,66.7,201809090nwe
+Sammie Coates,CoatSa00,receiving,HOU,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,201809090nwe
+Ryan Griffin,GrifRy00,receiving,HOU,5,0,0,0,NA,0,NA,0,NA,12,0,NA,0,0,0,39.6,201809090nwe
+Vyncint Smith,SmitVy00,receiving,HOU,2,0,0,0,NA,0,NA,0,NA,44,0,NA,0,0,1,0,201809090nwe
+Phillip Dorsett,DorsPh00,receiving,NWE,7,7,66,1,6,44,6.3,22,3.1,6.3,0,NA,0,0,0,145.5,201809090nwe
+Rob Gronkowski,GronRo00,receiving,NWE,8,7,123,1,5,102,14.6,21,3,13.4,0,NA,0,0,0,158.3,201809090nwe
+James White,WhitJa02,receiving,NWE,9,4,38,1,2,10,2.5,28,7,4.1,1,4,0,0,1,54.2,201809090nwe
+James Develin,DeveJa00,receiving,NWE,4,4,22,0,1,13,3.3,9,2.3,3.3,0,NA,0,0,0,89.6,201809090nwe
+Jeremy Hill,HillJe01,receiving,NWE,1,1,6,0,0,1,1,5,5,1,0,NA,0,0,0,91.7,201809090nwe
+Cordarrelle Patterson,PattCo00,receiving,NWE,1,1,6,0,1,0,0,6,6,0,0,NA,0,0,0,91.7,201809090nwe
+Chris Hogan,HogaCh00,receiving,NWE,5,1,11,0,1,9,9,2,2,13.2,0,NA,0,0,0,39.6,201809090nwe
+Rex Burkhead,BurkRe00,receiving,NWE,3,1,5,0,0,5,5,0,0,8.3,0,NA,0,0,0,42.4,201809090nwe
+Riley McCarron,McCaRi00,receiving,NWE,1,0,0,0,NA,0,NA,0,NA,27,0,NA,0,0,0,39.6,201809090nwe

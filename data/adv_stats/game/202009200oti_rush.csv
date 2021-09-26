@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Robinson,RobiJa00,rushing,JAX,16,102,4,40,2.5,62,3.9,3,5.3,202009200oti
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,5,37,2,23,4.6,14,2.8,0,NA,202009200oti
+Gardner Minshew II,MinsGa00,rushing,JAX,4,19,2,19,4.8,0,0,0,NA,202009200oti
+Chris Thompson,ThomCh03,rushing,JAX,2,7,1,3,1.5,4,2,0,NA,202009200oti
+Derrick Henry,HenrDe00,rushing,TEN,25,84,5,37,1.5,47,1.9,2,12.5,202009200oti
+Ryan Tannehill,TannRy00,rushing,TEN,4,12,0,12,3,0,0,0,NA,202009200oti
+Jeremy McNichols,McNiJe00,rushing,TEN,2,7,NA,5,2.5,2,1,0,NA,202009200oti
+Senorise Perry,PerrSe00,rushing,TEN,2,9,1,2,1,7,3.5,0,NA,202009200oti
+Cameron Batson,BatsCa00,rushing,TEN,1,11,1,11,11,0,0,0,NA,202009200oti

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Lamar Jackson,JackLa00,rushing,BAL,16,54,4,41,2.6,13,0.8,0,NA,202009200htx
+Gus Edwards,EdwaGu00,rushing,BAL,10,73,4,27,2.7,46,4.6,1,10,202009200htx
+Mark Ingram,IngrMa01,rushing,BAL,9,55,2,42,4.7,13,1.4,0,NA,202009200htx
+J.K. Dobbins,DobbJK00,rushing,BAL,2,48,1,39,19.5,9,4.5,0,NA,202009200htx
+David Johnson,JohnDa08,rushing,HOU,11,34,1,20,1.8,14,1.3,0,NA,202009200htx
+Deshaun Watson,WatsDe00,rushing,HOU,5,17,1,16,3.2,1,0.2,0,NA,202009200htx
+Will Fuller,FullWi01,rushing,HOU,1,0,NA,0,0,0,0,0,NA,202009200htx

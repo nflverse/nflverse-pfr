@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Rashaan Evans,EvanRa01,defense,TEN,0,7,5,71.4%,30,6,4.3,0,79.5,2.3,8,22,0,0,0,0,0,10,1,9.1%,202001040nwe
+Adoree' Jackson,JackAd00,defense,TEN,0,7,3,42.9%,22,7.3,3.1,0,50.9,12.6,13,9,0,0,0,0,0,2,0,0.0%,202001040nwe
+Jayon Brown,BrowJa06,defense,TEN,0,2,2,100.0%,32,16,16,0,118.7,12.5,25,7,0,0,0,0,0,3,0,0.0%,202001040nwe
+Tramaine Brock,BrocTr00,defense,TEN,0,9,2,22.2%,12,6,1.3,0,39.6,13.2,8,4,0,0,0,0,0,4,0,0.0%,202001040nwe
+David Long,LongDa04,defense,TEN,0,2,2,100.0%,20,10,10,0,108.3,-2,-4,24,0,0,0,0,0,4,1,20.0%,202001040nwe
+Kenny Vaccaro,VaccKe00,defense,TEN,0,3,2,66.7%,16,8,5.3,0,79.9,13,10,6,0,0,0,0,0,4,0,0.0%,202001040nwe
+Harold Landry,LandHa00,defense,TEN,0,1,1,100.0%,29,29,29,0,118.7,-3,-3,32,2,0,2,0,2,1,0,0.0%,202001040nwe
+Logan Ryan,RyanLo00,defense,TEN,1,4,1,25.0%,20,20,5,0,8.3,19,16,4,1,0,0,0,0,6,2,25.0%,202001040nwe
+Wesley Woodyard,WoodWe20,defense,TEN,0,1,1,100.0%,20,20,20,0,118.7,4,4,16,0,0,0,0,0,3,0,0.0%,202001040nwe
+DaQuan Jones,JoneDa04,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202001040nwe
+Derick Roberson,RobeDe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202001040nwe
+Jeffery Simmons,SimmJe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202001040nwe
+Kamalei Correa,CorrKa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202001040nwe
+Amani Hooker,HookAm00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,52,NA,NA,0,0,0,0,0,1,0,0.0%,202001040nwe
+Dont'a Hightower,HighDo01,defense,NWE,0,2,2,100.0%,4,2,2,0,79.2,2,4,0,4,0,1,0,1,9,2,18.2%,202001040nwe
+Terrence Brooks,BrooTe00,defense,NWE,0,3,2,66.7%,23,11.5,7.7,1,129.2,13,23,0,0,0,0,0,0,1,0,0.0%,202001040nwe
+Kyle Van Noy,VanNKy00,defense,NWE,0,1,1,100.0%,9,9,9,0,104.2,0,0,9,5,0,0,1,1,5,1,16.7%,202001040nwe
+John Simon,SimoJo01,defense,NWE,0,1,1,100.0%,22,22,22,0,118.7,-5,-5,27,0,0,1,0,1,5,0,0.0%,202001040nwe
+Jamie Collins,CollJa00,defense,NWE,0,1,1,100.0%,8,8,8,0,100,5,5,3,3,0,1,0,1,4,0,0.0%,202001040nwe
+Stephon Gilmore,GilmSt00,defense,NWE,0,1,1,100.0%,4,4,4,0,83.3,-1,-1,5,0,0,0,0,0,2,0,0.0%,202001040nwe
+Jonathan Jones,JoneJo03,defense,NWE,0,2,1,50.0%,6,6,3,0,56.2,4.5,4,2,1,0,0,0,0,4,0,0.0%,202001040nwe
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202001040nwe
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,202001040nwe
+Devin McCourty,McCoDe99,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,24,NA,NA,1,0,0,0,0,6,0,0.0%,202001040nwe
+Duron Harmon,HarmDu00,defense,NWE,1,1,0,0.0%,NA,NA,0,NA,0,4,NA,NA,1,0,0,0,0,2,0,0.0%,202001040nwe
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,2,33.3%,202001040nwe
+J.C. Jackson,JackJ.00,defense,NWE,0,2,0,0.0%,NA,NA,0,NA,39.6,30.5,NA,NA,0,0,0,0,0,1,1,50.0%,202001040nwe
+Elandon Roberts,RobeEl00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,2,50.0%,202001040nwe

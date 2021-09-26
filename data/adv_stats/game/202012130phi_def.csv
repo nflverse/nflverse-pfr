@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kwon Alexander,AlexKw00,defense,NOR,0,5,5,100.0%,41,8.2,8.2,0,100.8,-0.2,-1,42,7,0,1,0,1,6,1,14.3%,202012130phi
+Chauncey Gardner-Johnson,GardCh00,defense,NOR,0,7,3,42.9%,18,6,2.6,0,50.3,5.9,5,13,2,1,0,0,1,5,1,16.7%,202012130phi
+Janoris Jenkins,JenkJa03,defense,NOR,0,5,3,60.0%,30,10,6,0,77.1,14,11,19,0,0,0,0,0,3,0,0.0%,202012130phi
+Marshon Lattimore,LattMa01,defense,NOR,0,4,3,75.0%,27,9,6.8,1,132.3,7.8,25,2,0,0,0,0,0,3,0,0.0%,202012130phi
+Malcolm Jenkins,JenkMa99,defense,NOR,0,3,2,66.7%,12,6,4,0,74.3,4.7,4,8,5,1,1,0,2,5,2,28.6%,202012130phi
+Demario Davis,DaviDe00,defense,NOR,0,1,1,100.0%,39,39,39,0,118.7,3,3,36,4,0,0,0,0,6,0,0.0%,202012130phi
+Cameron Jordan,JordCa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,202012130phi
+Marcus Davenport,DaveMa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202012130phi
+Marcus Williams,WillMa06,defense,NOR,0,2,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,0,0,0,0,0,7,0,0.0%,202012130phi
+Duke Riley,RileDu00,defense,PHI,1,12,9,75.0%,81,9,6.8,0,58,3.1,34,47,0,0,0,0,0,6,2,25.0%,202012130phi
+Darius Slay,SlayDa00,defense,PHI,0,6,6,100.0%,57,9.5,9.5,0,106.2,9,54,3,0,0,0,0,0,6,1,14.3%,202012130phi
+Nickell Robey-Coleman,RobeNi00,defense,PHI,0,7,4,57.1%,17,4.3,2.4,0,62.2,1.1,-20,37,4,0,0,0,0,5,1,16.7%,202012130phi
+Alex Singleton,SingAl00,defense,PHI,0,4,3,75.0%,29,9.7,7.3,1,134.4,8.5,19,10,2,0,1,0,1,11,3,21.4%,202012130phi
+Kevon Seymour,SeymKe00,defense,PHI,0,3,3,100.0%,79,26.3,26.3,1,158.3,24.7,74,5,0,0,0,0,0,6,0,0.0%,202012130phi
+Rodney McLeod,McLeRo00,defense,PHI,0,3,2,66.7%,8,4,2.7,0,70.1,0.3,-1,9,3,0,0,0,0,2,0,0.0%,202012130phi
+Marcus Epps,EppsMa00,defense,PHI,0,1,1,100.0%,20,20,20,0,118.7,18,18,2,0,0,0,0,0,2,1,33.3%,202012130phi
+Javon Hargrave,HargJa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2,4,4,0,0.0%,202012130phi
+Josh Sweat,SweaJo00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2,3,5,0,0.0%,202012130phi
+Derek Barnett,BarnDe01,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,0,3,3,0,0.0%,202012130phi
+Malik Jackson,JackMa02,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202012130phi
+Fletcher Cox,CoxxFl00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202012130phi
+Vinny Curry,CurrVi00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202012130phi
+Jalen Mills,MillJa02,defense,PHI,0,1,0,0.0%,NA,NA,0,NA,39.6,13,NA,NA,2,0,1,0,1,2,2,50.0%,202012130phi

@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Phillip Lindsay,LindPh00,rushing,DEN,7,32,2,32,4.6,0,0,0,NA,201912150kan
+Royce Freeman,FreeRo00,rushing,DEN,5,12,0,12,2.4,0,0,0,NA,201912150kan
+Drew Lock,LockDr00,rushing,DEN,2,3,1,1,0.5,2,1,1,2,201912150kan
+Devontae Booker,BookDe00,rushing,DEN,1,5,NA,0,0,5,5,1,1,201912150kan
+Darwin Thompson,ThomDa06,rushing,KAN,8,38,2,32,4,6,0.8,1,8,201912150kan
+Spencer Ware,WareSp00,rushing,KAN,7,26,2,19,2.7,7,1,0,NA,201912150kan
+LeSean McCoy,McCoLe01,rushing,KAN,6,16,2,16,2.7,0,0,0,NA,201912150kan
+Patrick Mahomes,MahoPa00,rushing,KAN,3,11,1,11,3.7,0,0,0,NA,201912150kan
+Tyreek Hill,HillTy00,rushing,KAN,1,1,0,1,1,0,0,0,NA,201912150kan

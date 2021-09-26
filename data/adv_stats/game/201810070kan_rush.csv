@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+T.J. Yeldon,YeldT.00,rushing,JAX,10,53,2,42,4.2,11,1.1,0,NA,201810070kan
+Blake Bortles,BortBl00,rushing,JAX,4,34,3,28,7,6,1.5,0,NA,201810070kan
+Brandon Wilds,WildBr01,rushing,JAX,2,6,NA,6,3,0,0,0,NA,201810070kan
+Corey Grant,GranCo00,rushing,JAX,1,8,1,4,4,4,4,0,NA,201810070kan
+Kareem Hunt,HuntKa00,rushing,KAN,22,87,4,46,2.1,41,1.9,2,11,201810070kan
+Patrick Mahomes,MahoPa00,rushing,KAN,4,13,1,13,3.3,0,0,0,NA,201810070kan
+Tyreek Hill,HillTy00,rushing,KAN,2,26,1,24,12,2,1,0,NA,201810070kan
+Spencer Ware,WareSp00,rushing,KAN,1,0,0,0,0,0,0,0,NA,201810070kan
+Damien Williams,WillDa05,rushing,KAN,1,0,NA,0,0,0,0,0,NA,201810070kan

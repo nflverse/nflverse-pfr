@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Giovani Bernard,BernGi00,receiving,CIN,4,4,20,0,NA,0,0,20,5,0,0,NA,0,0,0,87.5,201811180rav
+Tyler Boyd,BoydTy00,receiving,CIN,11,4,71,0,4,36,9,35,8.8,9.8,0,NA,2,18.2,0,59.3,201811180rav
+Joe Mixon,MixoJo00,receiving,CIN,3,3,38,0,2,-1,-0.3,39,13,-0.3,1,3,0,0,0,118.7,201811180rav
+C.J. Uzomah,UzomC.00,receiving,CIN,5,3,41,0,2,33,11,8,2.7,10.6,0,NA,0,0,0,86.2,201811180rav
+John Ross,RossJo00,receiving,CIN,7,2,27,1,1,26,13,1,0.5,13.7,0,NA,1,14.3,0,82.7,201811180rav
+Jordan Franks,FranJo03,receiving,CIN,1,1,5,0,NA,0,0,5,5,0,0,NA,0,0,0,87.5,201811180rav
+Matt Lengel,LengMa00,receiving,CIN,1,1,4,1,1,4,4,0,0,4,0,NA,0,0,0,122.9,201811180rav
+Auden Tate,TateAu00,receiving,CIN,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,201811180rav
+Cody Core,CoreCo00,receiving,CIN,2,0,0,0,NA,0,NA,0,NA,22,0,NA,0,0,0,39.6,201811180rav
+Alex Erickson,EricAl01,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,34,0,NA,0,0,0,39.6,201811180rav
+Willie Snead,SneaWi00,receiving,BAL,8,5,51,0,2,36,7.2,15,3,7.1,0,NA,0,0,1,41.1,201811180rav
+Nick Boyle,BoylNi00,receiving,BAL,4,4,36,0,2,9,2.3,27,6.8,2.3,0,NA,0,0,0,104.2,201811180rav
+Mark Andrews,AndrMa00,receiving,BAL,1,1,19,0,1,18,18,1,1,18,0,NA,0,0,0,118.7,201811180rav
+John Brown,BrowJo02,receiving,BAL,1,1,23,0,1,14,14,9,9,14,0,NA,0,0,0,118.7,201811180rav
+Michael Crabtree,CrabMi00,receiving,BAL,3,1,7,0,NA,8,8,-1,-1,12.7,0,NA,0,0,0,42.4,201811180rav
+Chris Moore,MoorCh00,receiving,BAL,1,1,14,0,1,11,11,3,3,11,0,NA,0,0,0,118.7,201811180rav

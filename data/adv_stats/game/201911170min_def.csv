@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Davontae Harris,HarrDa05,defense,DEN,0,12,9,75.0%,96,10.7,8,1,125.7,13.5,81,15,0,0,0,0,0,9,1,10.0%,201911170min
+Todd Davis,DaviTo01,defense,DEN,0,8,8,100.0%,71,8.9,8.9,0,103.6,4.3,34,37,0,0,0,0,0,12,0,0.0%,201911170min
+Duke Dawson,DawsDu00,defense,DEN,0,4,3,75.0%,19,6.3,4.8,0,84.4,3,16,3,2,0,0,0,0,4,0,0.0%,201911170min
+Alexander Johnson,JohnAl01,defense,DEN,0,4,3,75.0%,20,6.7,5,0,85.4,-0.5,-2,22,2,0,0,0,0,5,1,16.7%,201911170min
+Von Miller,MillVo00,defense,DEN,0,1,1,100.0%,2,2,2,0,79.2,2,2,0,3,1,0,1,2,3,0,0.0%,201911170min
+Kareem Jackson,JackKa99,defense,DEN,0,1,1,100.0%,32,32,32,1,158.3,12,12,20,0,0,0,0,0,5,0,0.0%,201911170min
+Isaac Yiadom,YiadIs00,defense,DEN,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,0,0,0,0,0,1,0,0.0%,201911170min
+Justin Simmons,SimmJu00,defense,DEN,0,1,1,100.0%,14,14,14,0,118.7,14,14,0,0,0,0,0,0,4,0,0.0%,201911170min
+Shelby Harris,HarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,3,3,5,0,0.0%,201911170min
+Dre'Mont Jones,JoneDr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201911170min
+Justin Hollins,HollJu00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,201911170min
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201911170min
+Xavier Rhodes,RhodXa00,defense,MIN,0,7,4,57.1%,101,25.3,14.4,0,101.8,17.7,94,7,0,0,0,0,0,5,1,16.7%,201911170min
+Anthony Barr,BarrAn00,defense,MIN,0,6,3,50.0%,40,13.3,6.7,0,71.5,2.7,13,27,7,0,0,0,0,6,0,0.0%,201911170min
+Trae Waynes,WaynTr00,defense,MIN,0,7,3,42.9%,54,18,7.7,0,69.9,12.4,49,5,0,0,0,0,0,5,0,0.0%,201911170min
+Mike Hughes,HughMi00,defense,MIN,0,2,2,100.0%,35,17.5,17.5,0,118.7,15.5,31,4,0,0,0,0,0,3,0,0.0%,201911170min
+Everson Griffen,GrifEv99,defense,MIN,0,1,1,100.0%,NA,NA,0,NA,79.2,-5,NA,NA,0,0,0,1,1,4,0,0.0%,201911170min
+Mackensie Alexander,AlexMa01,defense,MIN,0,2,1,50.0%,3,3,1.5,1,95.8,1.5,3,0,0,0,0,0,0,0,0,NA,201911170min
+Eric Wilson,WilsEr00,defense,MIN,0,1,1,100.0%,3,3,3,0,79.2,-1,-1,4,1,0,0,0,0,4,0,0.0%,201911170min
+Andrew Sendejo,SendAn00,defense,MIN,1,2,1,50.0%,31,31,15.5,0,56.2,18,21,10,0,0,0,0,0,7,1,12.5%,201911170min
+Eric Kendricks,KendEr00,defense,MIN,0,2,1,50.0%,7,7,3.5,0,58.3,-0.5,-4,11,5,0,0,0,0,6,1,14.3%,201911170min
+Danielle Hunter,HuntDa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,3,0,0.0%,201911170min
+Jaleel Johnson,JohnJa09,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,6,0,0.0%,201911170min
+Jayron Kearse,KearJa00,defense,MIN,0,4,0,0.0%,NA,NA,0,NA,39.6,11.8,NA,NA,0,0,0,0,0,5,0,0.0%,201911170min
+Harrison Smith,SmitHa00,defense,MIN,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,1,0,0,0,0,4,0,0.0%,201911170min

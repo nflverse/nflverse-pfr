@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devonta Freeman,FreeDe00,rushing,ATL,16,88,5,51,3.2,37,2.3,4,4,201909220clt
+Matt Ryan,RyanMa00,rushing,ATL,2,3,0,3,1.5,0,0,0,NA,201909220clt
+Mohamed Sanu,SanuMo00,rushing,ATL,1,2,1,0,0,2,2,0,NA,201909220clt
+Ito Smith,SmitIt00,rushing,ATL,1,0,NA,0,0,0,0,0,NA,201909220clt
+Marlon Mack,MackMa00,rushing,IND,16,74,6,33,2.1,41,2.6,1,16,201909220clt
+Jacoby Brissett,BrisJa00,rushing,IND,3,4,1,-2,-0.7,6,2,0,NA,201909220clt
+Jordan Wilkins,WilkJo01,rushing,IND,3,-2,NA,-3,-1,1,0.3,0,NA,201909220clt
+Nyheim Hines,HineNy00,rushing,IND,2,3,0,1,0.5,2,1,0,NA,201909220clt

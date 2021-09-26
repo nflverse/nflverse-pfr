@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chris Carson,CarsCh00,rushing,SEA,24,133,8,78,3.3,55,2.3,2,12,201912150car
+C.J. Prosise,ProsC.00,rushing,SEA,5,15,1,11,2.2,4,0.8,0,NA,201912150car
+Russell Wilson,WilsRu00,rushing,SEA,3,-1,0,-1,-0.3,0,0,0,NA,201912150car
+Travis Homer,HomeTr00,rushing,SEA,2,7,1,4,2,3,1.5,0,NA,201912150car
+Christian McCaffrey,McCaCh01,rushing,CAR,19,87,6,65,3.4,22,1.2,0,NA,201912150car
+Kyle Allen,AlleKy00,rushing,CAR,5,25,2,20,4,5,1,1,5,201912150car
+Curtis Samuel,SamuCu00,rushing,CAR,4,23,1,17,4.3,6,1.5,0,NA,201912150car
+D.J. Moore,MoorD.00,rushing,CAR,1,10,1,8,8,2,2,0,NA,201912150car

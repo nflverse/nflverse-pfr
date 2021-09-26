@@ -1,0 +1,22 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Budda Baker,BakeBu00,defense,ARI,0,10,9,90.0%,109,12.1,10.9,0,112.1,2,10,99,2,0,0,1,1,16,0,0.0%,201810070sfo
+Antoine Bethea,BethAn20,defense,ARI,0,8,5,62.5%,33,6.6,4.1,2,110.9,1.1,6,27,5,0,1,0,1,13,3,18.8%,201810070sfo
+Haason Reddick,ReddHa00,defense,ARI,0,8,5,62.5%,41,8.2,5.1,0,75.5,3.1,14,27,8,0,0,1,1,8,2,20.0%,201810070sfo
+Josh Bynes,ByneJo00,defense,ARI,0,5,5,100.0%,72,14.4,14.4,0,118.7,2.4,12,60,7,0,0,1,1,11,0,0.0%,201810070sfo
+Patrick Peterson,PetePa00,defense,ARI,0,8,5,62.5%,39,7.8,4.9,0,74.5,8.8,27,12,0,0,0,0,0,7,0,0.0%,201810070sfo
+Bene Benwikere,BenwBe00,defense,ARI,1,10,4,40.0%,38,9.5,3.8,0,11.7,9.3,20,18,0,0,0,0,0,6,0,0.0%,201810070sfo
+Tre Boston,BostTr00,defense,ARI,1,6,2,33.3%,26,13,4.3,0,8.3,5.7,19,7,1,0,0,0,0,6,0,0.0%,201810070sfo
+Chandler Jones,JoneCh03,defense,ARI,0,1,1,100.0%,1,1,1,0,79.2,-3,-3,4,0,0,2,1,3,6,1,14.3%,201810070sfo
+Rodney Gunter,GuntRo00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,201810070sfo
+Ahkello Witherspoon,WithAh00,defense,SFO,0,5,4,80.0%,106,26.5,21.2,1,158.3,17.4,80,26,0,0,0,0,0,3,0,0.0%,201810070sfo
+K'Waun Williams,WillKW00,defense,SFO,0,3,2,66.7%,22,11,7.3,0,88.2,5,15,7,1,1,0,0,1,2,0,0.0%,201810070sfo
+Fred Warner,WarnFr00,defense,SFO,0,2,1,50.0%,15,15,7.5,0,75,16.5,7,8,2,0,0,0,0,3,0,0.0%,201810070sfo
+Malcolm Smith,SmitMa02,defense,SFO,0,2,1,50.0%,5,5,2.5,0,56.2,-2.5,-8,13,0,0,0,0,0,4,1,20.0%,201810070sfo
+DeForest Buckner,BuckDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,4,0,0.0%,201810070sfo
+Cassius Marsh,MarsCa00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,4,0,0.0%,201810070sfo
+Earl Mitchell,MitcEa99,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201810070sfo
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201810070sfo
+Adrian Colbert,ColbAd00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,25,NA,NA,0,0,0,0,0,2,0,0.0%,201810070sfo
+Jaquiski Tartt,TartJa00,defense,SFO,0,3,0,0.0%,NA,NA,0,NA,39.6,16.3,NA,NA,2,0,0,0,0,3,0,0.0%,201810070sfo
+Reuben Foster,FostRe00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,3,0,0,0,0,3,0,0.0%,201810070sfo
+Greg Mabin,MabiGr00,defense,SFO,0,2,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,0,0,0,0,0,2,0,0.0%,201810070sfo

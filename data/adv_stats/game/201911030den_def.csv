@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Denzel Ward,WardDe02,defense,CLE,0,6,3,50.0%,50,16.7,8.3,1,118.1,17.5,31,19,0,0,0,0,0,2,1,33.3%,201911030den
+Adarius Taylor,GlanAd00,defense,CLE,0,2,2,100.0%,16,8,8,0,100,6,12,4,2,0,0,0,0,1,1,50.0%,201911030den
+Greedy Williams,WillGr00,defense,CLE,0,4,2,50.0%,6,3,1.5,0,56.2,4,5,1,0,0,0,0,0,3,1,25.0%,201911030den
+Olivier Vernon,VernOl00,defense,CLE,0,1,1,100.0%,-1,-1,-1,0,79.2,-1,-1,0,2,2,1,1,4,2,1,33.3%,201911030den
+Morgan Burnett,BurnMo99,defense,CLE,0,1,1,100.0%,9,9,9,0,104.2,9,9,0,1,0,0,0,0,4,0,0.0%,201911030den
+Joe Schobert,SchoJo00,defense,CLE,0,1,1,100.0%,24,24,24,0,118.7,17,17,7,5,0,0,0,0,4,0,0.0%,201911030den
+Larry Ogunjobi,OgunLa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201911030den
+Devaroe Lawrence,LawrDe02,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201911030den
+Mack Wilson,WilsMa03,defense,CLE,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,2,0,0,1,1,5,0,0.0%,201911030den
+Myles Garrett,GarrMy00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,3,0,0.0%,201911030den
+Davontae Harris,HarrDa05,defense,DEN,0,11,8,72.7%,86,10.8,7.8,1,125.6,4.8,29,57,0,0,0,0,0,7,1,12.5%,201911030den
+Alexander Johnson,JohnAl01,defense,DEN,0,7,5,71.4%,22,4.4,3.1,0,74.7,0.3,-13,35,10,0,0,0,0,13,1,7.1%,201911030den
+Duke Dawson,DawsDu00,defense,DEN,0,6,4,66.7%,43,10.8,7.2,0,87.5,4.8,22,21,2,0,0,0,0,4,2,33.3%,201911030den
+Chris Harris Jr.,HarrCh01,defense,DEN,0,5,4,80.0%,81,20.3,16.2,0,118.7,10.6,32,49,0,0,0,0,0,4,1,20.0%,201911030den
+Kareem Jackson,JackKa99,defense,DEN,0,5,3,60.0%,26,8.7,5.2,0,73.7,5.2,10,16,0,0,0,0,0,4,3,42.9%,201911030den
+Malik Reed,ReedMa01,defense,DEN,0,3,2,66.7%,10,5,3.3,0,71.5,-0.3,-7,17,6,1,0,0,1,3,1,25.0%,201911030den
+Todd Davis,DaviTo01,defense,DEN,0,4,1,25.0%,11,11,2.8,0,39.6,-0.5,-1,12,5,0,0,0,0,10,0,0.0%,201911030den
+Justin Simmons,SimmJu00,defense,DEN,0,3,1,33.3%,4,4,1.3,0,42.4,9.3,4,0,0,0,0,0,0,8,1,11.1%,201911030den
+Derek Wolfe,WolfDe00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,5,0,0.0%,201911030den
+Von Miller,MillVo00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,1,0,2,3,0,0.0%,201911030den
+Justin Hollins,HollJu00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,1,1,2,0,0.0%,201911030den
+Jeremiah Attaochu,AttaJe00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,201911030den
+Shelby Harris,HarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,201911030den
+Mike Purcell,PurcMi00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201911030den

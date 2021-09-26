@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Marcus Peters,PeteMa00,defense,LAR,0,7,5,71.4%,83,16.6,11.9,3,150.6,13,75,8,0,0,0,0,0,5,0,0.0%,201810070sea
+Nickell Robey-Coleman,RobeNi00,defense,LAR,0,3,3,100.0%,43,14.3,14.3,0,118.7,12.7,38,5,0,0,0,0,0,4,0,0.0%,201810070sea
+John Johnson,JohnJo10,defense,LAR,0,1,1,100.0%,32,32,32,0,118.7,4,4,28,1,0,1,0,1,6,0,0.0%,201810070sea
+Marqui Christian,ChriMa00,defense,LAR,0,1,1,100.0%,15,15,15,0,118.7,15,15,0,1,0,0,0,0,1,0,0.0%,201810070sea
+Troy Hill,HillTr01,defense,LAR,0,2,1,50.0%,5,5,2.5,0,56.2,17.5,5,0,0,0,0,0,0,5,0,0.0%,201810070sea
+Mark Barron,BarrMa00,defense,LAR,0,1,1,100.0%,11,11,11,0,112.5,1,1,10,1,0,0,0,0,9,1,10.0%,201810070sea
+Lamarcus Joyner,JoynLa00,defense,LAR,0,1,1,100.0%,9,9,9,0,104.2,1,1,8,0,0,0,0,0,5,0,0.0%,201810070sea
+Samson Ebukam,EbukSa00,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,4,0,0,4,5,1,16.7%,201810070sea
+Aaron Donald,DonaAa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201810070sea
+Michael Brockers,BrocMi00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,1,20.0%,201810070sea
+Ndamukong Suh,SuhxNd99,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,6,0,0.0%,201810070sea
+Cory Littleton,LittCo01,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,21,NA,NA,2,0,0,0,0,8,1,11.1%,201810070sea
+Sam Shields,ShieSa00,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,0,0,0,0,0,0,0,NA,201810070sea
+Justin Coleman,ColeJu01,defense,SEA,0,10,7,70.0%,108,15.4,10.8,1,138.7,5.7,21,87,1,0,0,0,0,3,2,40.0%,201810070sea
+Bobby Wagner,WagnBo00,defense,SEA,0,6,5,83.3%,68,13.6,11.3,0,113.9,10.8,17,51,4,1,0,0,1,8,0,0.0%,201810070sea
+Shaquill Griffin,GrifSh00,defense,SEA,0,7,5,71.4%,113,22.6,16.1,0,113.7,14.1,62,51,0,0,0,0,0,4,1,20.0%,201810070sea
+Bradley McDougald,McDoBr01,defense,SEA,0,5,4,80.0%,62,15.5,12.4,0,118.3,9.2,41,21,0,0,0,0,0,10,0,0.0%,201810070sea
+Barkevious Mingo,MingBa00,defense,SEA,0,3,3,100.0%,25,8.3,8.3,0,101.4,4.3,13,12,7,1,1,0,2,7,0,0.0%,201810070sea
+Tedric Thompson,ThomTe00,defense,SEA,1,3,2,66.7%,39,19.5,13,0,70.1,28,36,3,0,0,0,0,0,8,2,20.0%,201810070sea
+Tre Flowers,FlowTr01,defense,SEA,0,3,1,33.3%,14,14,4.7,0,49.3,6.7,14,0,0,0,0,0,0,5,0,0.0%,201810070sea
+Branden Jackson,JackBr04,defense,SEA,0,1,1,100.0%,-6,-6,-6,0,79.2,-6,-6,0,0,0,0,0,0,1,0,0.0%,201810070sea
+Quinton Jefferson,JeffQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201810070sea
+Frank Clark,ClarFr01,defense,SEA,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,1,33.3%,201810070sea

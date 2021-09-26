@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jonathan Jones,JoneJo03,defense,NWE,0,11,5,45.5%,81,16.2,7.4,0,70.6,12.7,78,3,0,0,0,1,1,8,1,11.1%,201902030ram
+Stephon Gilmore,GilmSt00,defense,NWE,1,8,4,50.0%,48,12,6,0,29.2,19.3,48,0,0,0,0,0,0,5,1,16.7%,201902030ram
+Dont'a Hightower,HighDo01,defense,NWE,0,3,2,66.7%,19,9.5,6.3,0,84,6.7,7,12,15,0,1,2,3,2,2,50.0%,201902030ram
+J.C. Jackson,JackJ.00,defense,NWE,0,3,2,66.7%,34,17,11.3,0,104.9,4.7,11,23,0,0,0,0,0,2,0,0.0%,201902030ram
+Jason McCourty,McCoJa99,defense,NWE,0,5,2,40.0%,18,9,3.6,0,50.4,15.6,12,6,0,0,0,0,0,5,0,0.0%,201902030ram
+Kyle Van Noy,VanNKy00,defense,NWE,0,2,1,50.0%,8,8,4,0,60.4,0,8,0,16,1,2,1,4,4,0,0.0%,201902030ram
+Trey Flowers,FlowTr00,defense,NWE,0,1,1,100.0%,19,19,19,0,118.7,-4,-4,23,1,1,1,0,2,3,0,0.0%,201902030ram
+Albert McClellan,McClAl00,defense,NWE,0,1,1,100.0%,-1,-1,-1,0,79.2,-1,-1,0,0,0,0,0,0,1,0,0.0%,201902030ram
+Devin McCourty,McCoDe99,defense,NWE,0,5,1,20.0%,3,3,0.6,0,39.6,6.6,-5,8,1,0,0,0,0,2,0,0.0%,201902030ram
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,2,0,0.0%,201902030ram
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,5,0,0.0%,201902030ram
+Malcom Brown,BrowMa01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201902030ram
+Adrian Clayborn,ClayAd00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,0,0,NA,201902030ram
+Danny Shelton,ShelDa01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201902030ram
+Patrick Chung,ChunPa99,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,1,0,0,0,0,4,0,0.0%,201902030ram
+John Simon,SimoJo01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,0,1,100.0%,201902030ram
+Marcus Peters,PeteMa00,defense,LAR,0,9,5,55.6%,58,11.6,6.4,0,75.2,12.2,22,36,0,0,0,0,0,7,0,0.0%,201902030ram
+Cory Littleton,LittCo01,defense,LAR,1,10,5,50.0%,59,11.8,5.9,0,28.7,5.5,39,20,4,0,0,0,0,10,1,9.1%,201902030ram
+Aqib Talib,TaliAq99,defense,LAR,0,4,3,75.0%,42,14,10.5,0,108.3,10.8,27,15,1,0,1,0,1,4,0,0.0%,201902030ram
+Mark Barron,BarrMa00,defense,LAR,0,3,3,100.0%,23,7.7,7.7,0,98.6,0,0,23,0,0,0,0,0,8,1,11.1%,201902030ram
+John Johnson,JohnJo10,defense,LAR,0,3,3,100.0%,56,18.7,18.7,0,118.7,13,39,17,0,0,0,0,0,7,2,22.2%,201902030ram
+Samson Ebukam,EbukSa00,defense,LAR,0,2,2,100.0%,25,12.5,12.5,0,118.7,4.5,9,16,4,0,0,0,0,4,0,0.0%,201902030ram
+Lamarcus Joyner,JoynLa00,defense,LAR,0,2,1,50.0%,8,8,4,0,60.4,4.5,8,0,0,0,0,0,0,6,0,0.0%,201902030ram
+Nickell Robey-Coleman,RobeNi00,defense,LAR,0,3,1,33.3%,25,25,8.3,0,64.6,10.7,15,10,0,0,0,0,0,2,2,50.0%,201902030ram
+John Franklin-Myers,FranJo02,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,1,0,0.0%,201902030ram
+Aaron Donald,DonaAa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,5,0,0.0%,201902030ram
+Ndamukong Suh,SuhxNd99,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,2,50.0%,201902030ram
+Dante Fowler,FowlDa00,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,-6,NA,NA,2,1,0,0,1,4,2,33.3%,201902030ram
+Michael Brockers,BrocMi00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,7,1,12.5%,201902030ram

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Deebo Samuel,SamuDe00,receiving,SFO,7,5,86,1,3,5,1,81,16.2,4.6,0,NA,1,14.3,0,152.4,201909150cin
+Raheem Mostert,MostRa00,receiving,SFO,4,3,68,1,3,-5,-1.7,73,24.3,-1.3,0,NA,0,0,0,156.2,201909150cin
+George Kittle,KittGe00,receiving,SFO,3,3,54,0,2,22,7.3,32,10.7,7.3,0,NA,0,0,0,118.7,201909150cin
+Marquise Goodwin,GoodMa00,receiving,SFO,3,3,77,1,3,61,20.3,16,5.3,20.3,0,NA,0,0,0,158.3,201909150cin
+Kendrick Bourne,BourKe00,receiving,SFO,2,1,4,0,NA,4,4,0,0,6,0,NA,0,0,0,56.2,201909150cin
+Kyle Juszczyk,JuszKy00,receiving,SFO,2,1,5,0,1,1,1,4,4,3.5,0,NA,0,0,0,56.2,201909150cin
+Richie James,JameRi00,receiving,SFO,4,1,7,0,1,7,7,0,0,15.3,0,NA,0,0,1,0,201909150cin
+Matt Breida,BreiMa00,receiving,SFO,1,1,11,0,1,-3,-3,14,14,-3,0,NA,0,0,0,112.5,201909150cin
+Tyler Boyd,BoydTy00,receiving,CIN,10,10,122,0,6,70,7,52,5.2,7,0,NA,0,0,0,117.5,201909150cin
+John Ross,RossJo00,receiving,CIN,8,4,112,1,2,24,6,88,22,9.4,0,NA,1,12.5,0,135.4,201909150cin
+Tyler Eifert,EifeTy00,receiving,CIN,5,3,9,1,1,3,1,6,2,8.6,0,NA,0,0,1,64.6,201909150cin
+Joe Mixon,MixoJo00,receiving,CIN,5,3,10,0,0,-4,-1.3,14,4.7,-0.8,0,NA,0,0,0,64.6,201909150cin
+Drew Sample,SampDr00,receiving,CIN,3,2,25,0,1,13,6.5,12,6,12.7,0,NA,0,0,0,92.4,201909150cin
+Alex Erickson,EricAl01,receiving,CIN,3,1,14,0,1,12,12,2,2,12.3,0,NA,0,0,0,49.3,201909150cin
+Giovani Bernard,BernGi00,receiving,CIN,3,1,7,0,NA,1,1,6,6,-1.3,0,NA,0,0,0,42.4,201909150cin
+Auden Tate,TateAu00,receiving,CIN,2,1,6,0,NA,-3,-3,9,9,4,0,NA,0,0,0,56.2,201909150cin
+Damion Willis,WillDa11,receiving,CIN,3,1,6,0,NA,5,5,1,1,17.3,0,NA,1,33.3,0,42.4,201909150cin

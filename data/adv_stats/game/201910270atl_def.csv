@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Marquise Blair,BlaiMa01,defense,SEA,0,8,7,87.5%,64,9.1,8,0,100,5.5,36,28,0,0,0,0,0,11,2,15.4%,201910270atl
+Akeem King,KingAk00,defense,SEA,0,6,6,100.0%,112,18.7,18.7,0,118.7,10.3,62,50,0,0,0,0,0,6,0,0.0%,201910270atl
+Jamar Taylor,TaylJa01,defense,SEA,0,7,6,85.7%,68,11.3,9.7,0,107.1,9.7,51,17,3,0,0,0,0,7,0,0.0%,201910270atl
+Shaquill Griffin,GrifSh00,defense,SEA,0,10,5,50.0%,55,11,5.5,0,66.7,11.5,43,12,2,0,0,0,0,4,1,20.0%,201910270atl
+Bobby Wagner,WagnBo00,defense,SEA,0,4,4,100.0%,37,9.3,9.3,0,105.2,4,16,21,7,0,0,1,1,6,1,14.3%,201910270atl
+Neiko Thorpe,ThorNe00,defense,SEA,0,2,2,100.0%,19,9.5,9.5,0,106.2,8,16,3,0,0,0,0,0,2,0,0.0%,201910270atl
+K.J. Wright,WrigK.00,defense,SEA,0,2,2,100.0%,20,10,10,1,147.9,9.5,19,1,3,0,0,0,0,10,0,0.0%,201910270atl
+Mychal Kendricks,KendMy00,defense,SEA,1,3,2,66.7%,16,8,5.3,0,40.3,5,3,13,4,0,0,0,0,7,1,12.5%,201910270atl
+Jadeveon Clowney,ClowJa00,defense,SEA,0,1,1,100.0%,4,4,4,0,83.3,1,1,3,0,0,3,1,4,3,0,0.0%,201910270atl
+Cody Barton,BartCo00,defense,SEA,0,1,1,100.0%,19,19,19,0,118.7,15,15,4,0,0,0,0,0,1,0,0.0%,201910270atl
+Branden Jackson,JackBr04,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201910270atl
+Ezekiel Ansah,AnsaEz00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201910270atl
+Jarran Reed,ReedJa02,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,9,NA,NA,0,0,1,0,1,1,0,0.0%,201910270atl
+Tedric Thompson,ThomTe00,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,1,0,0.0%,201910270atl
+Kendall Sheffield,ShefKe00,defense,ATL,0,4,4,100.0%,66,16.5,16.5,0,118.7,11.8,47,19,0,0,0,0,0,5,0,0.0%,201910270atl
+Ricardo Allen,AlleRi00,defense,ATL,0,2,2,100.0%,31,15.5,15.5,0,118.7,13,26,5,2,0,0,0,0,5,0,0.0%,201910270atl
+Isaiah Oliver,OlivIs00,defense,ATL,0,6,2,33.3%,17,8.5,2.8,1,81.9,10.3,-8,25,0,0,0,0,0,1,0,0.0%,201910270atl
+Blidi Wreh-Wilson,WrehBl00,defense,ATL,0,3,2,66.7%,30,15,10,0,99.3,11.3,12,18,0,0,0,0,0,2,1,33.3%,201910270atl
+Damontae Kazee,KazeDa00,defense,ATL,0,2,2,100.0%,25,12.5,12.5,1,158.3,13,26,-1,0,0,0,0,0,5,0,0.0%,201910270atl
+Vic Beasley,BeasVi00,defense,ATL,0,1,1,100.0%,7,7,7,0,95.8,4,4,3,4,0,0,0,0,5,0,0.0%,201910270atl
+Deion Jones,JoneDe01,defense,ATL,0,1,1,100.0%,6,6,6,0,91.7,4,4,2,1,0,0,0,0,4,1,20.0%,201910270atl
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,8,1,11.1%,201910270atl
+Tyeler Davison,DaviTy01,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,201910270atl
+Takkarist McKinley,McKiTa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201910270atl
+De'Vondre Campbell,CampDe00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,7,1,12.5%,201910270atl

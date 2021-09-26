@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chase Edmonds,EdmoCh00,rushing,ARI,27,126,6,88,3.3,38,1.4,3,9,201910200nyg
+Kyler Murray,MurrKy00,rushing,ARI,10,28,2,21,2.1,7,0.7,1,10,201910200nyg
+David Johnson,JohnDa08,rushing,ARI,1,2,NA,-2,-2,4,4,0,NA,201910200nyg
+Saquon Barkley,BarkSa00,rushing,NYG,18,72,3,57,3.2,15,0.8,2,9,201910200nyg
+Daniel Jones,JoneDa05,rushing,NYG,4,35,2,33,8.3,2,0.5,0,NA,201910200nyg

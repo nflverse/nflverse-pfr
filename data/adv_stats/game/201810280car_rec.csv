@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Willie Snead,SneaWi00,receiving,BAL,11,5,54,0,3,20,4,34,6.8,8.7,0,NA,1,9.1,1,22.5,201810280car
+Mark Andrews,AndrMa00,receiving,BAL,5,4,31,0,3,20,5,11,2.8,6.8,0,NA,1,20,0,92.5,201810280car
+John Brown,BrowJo02,receiving,BAL,7,3,28,0,NA,23,7.7,5,1.7,15.4,0,NA,1,14.3,0,54.5,201810280car
+Javorius Allen,AlleJa01,receiving,BAL,5,3,18,1,1,7,2.3,11,3.7,5.4,0,NA,0,0,1,67.1,201810280car
+Michael Crabtree,CrabMi00,receiving,BAL,5,3,31,0,1,24,8,7,2.3,20.8,0,NA,0,0,0,77.9,201810280car
+Hayden Hurst,HursHa00,receiving,BAL,3,2,29,1,1,18,9,11,5.5,8.7,0,NA,0,0,0,137.5,201810280car
+Chris Moore,MoorCh00,receiving,BAL,2,2,19,0,1,20,10,-1,-0.5,10,0,NA,0,0,0,106.2,201810280car
+Alex Collins,CollAl00,receiving,BAL,2,2,14,0,1,3,1.5,11,5.5,1.5,0,NA,0,0,0,95.8,201810280car
+Gus Edwards,EdwaGu00,receiving,BAL,1,1,7,0,0,3,3,4,4,3,0,NA,0,0,0,95.8,201810280car
+Nick Boyle,BoylNi00,receiving,BAL,3,1,7,0,NA,1,1,6,6,-0.7,0,NA,0,0,0,42.4,201810280car
+D.J. Moore,MoorD.00,receiving,CAR,6,5,90,0,4,50,10,40,8,10.7,2,2.5,0,0,0,118.7,201810280car
+Christian McCaffrey,McCaCh01,receiving,CAR,6,4,11,1,2,4,1,7,1.8,0.5,0,NA,0,0,0,109.7,201810280car
+Greg Olsen,OlseGr00,receiving,CAR,4,4,56,1,4,46,11.5,10,2.5,11.5,0,NA,0,0,0,158.3,201810280car
+Devin Funchess,FuncDe00,receiving,CAR,3,3,27,0,2,27,9,0,0,9,0,NA,0,0,0,104.2,201810280car
+Curtis Samuel,SamuCu00,receiving,CAR,3,3,28,0,NA,22,7.3,6,2,7.3,0,NA,0,0,0,105.6,201810280car
+Jarius Wright,WrigJa02,receiving,CAR,3,2,5,0,NA,2,1,3,1.5,3,0,NA,1,33.3,0,70.1,201810280car
+Ian Thomas,ThomIa00,receiving,CAR,1,1,15,0,1,6,6,9,9,6,0,NA,0,0,0,118.7,201810280car
+Damiere Byrd,ByrdDa00,receiving,CAR,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,0,39.6,201810280car

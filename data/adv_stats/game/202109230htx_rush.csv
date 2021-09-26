@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chuba Hubbard,HubbCh01,rushing,CAR,11,52,3,25,2.3,27,2.5,2,5.5,202109230htx
+Sam Darnold,DarnSa00,rushing,CAR,8,11,4,-6,-0.8,17,2.1,2,4,202109230htx
+Christian McCaffrey,McCaCh01,rushing,CAR,7,31,1,1,0.1,30,4.3,3,2.3,202109230htx
+Royce Freeman,FreeRo00,rushing,CAR,5,17,1,14,2.8,3,0.6,0,NA,202109230htx
+D.J. Moore,MoorD.00,rushing,CAR,1,-1,0,-1,-1,0,0,0,NA,202109230htx
+Tommy Tremble,TremTo00,rushing,CAR,1,7,1,7,7,0,0,0,NA,202109230htx
+Phillip Lindsay,LindPh00,rushing,HOU,7,5,1,1,0.1,4,0.6,0,NA,202109230htx
+Mark Ingram,IngrMa01,rushing,HOU,6,21,1,6,1,15,2.5,0,NA,202109230htx
+David Johnson,JohnDa08,rushing,HOU,2,11,NA,5,2.5,6,3,0,NA,202109230htx
+Brandin Cooks,CookBr00,rushing,HOU,1,5,0,3,3,2,2,0,NA,202109230htx
+Davis Mills,MillDa02,rushing,HOU,1,0,0,0,0,0,0,0,NA,202109230htx

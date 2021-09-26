@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jonathan Taylor,TaylJo02,rushing,IND,12,57,4,37,3.1,20,1.7,0,NA,202010110cle
+Nyheim Hines,HineNy00,rushing,IND,3,8,0,5,1.7,3,1,0,NA,202010110cle
+Ashton Dulin,DuliAs00,rushing,IND,1,3,0,0,0,3,3,0,NA,202010110cle
+Philip Rivers,RivePh00,rushing,IND,1,-1,0,-1,-1,0,0,0,NA,202010110cle
+Jordan Wilkins,WilkJo01,rushing,IND,1,1,NA,1,1,0,0,0,NA,202010110cle
+Kareem Hunt,HuntKa00,rushing,CLE,20,72,4,28,1.4,44,2.2,0,NA,202010110cle
+D'Ernest Johnson,JohnDE04,rushing,CLE,8,32,1,19,2.4,13,1.6,0,NA,202010110cle
+Andy Janovich,JanoAn00,rushing,CLE,2,4,1,3,1.5,1,0.5,0,NA,202010110cle
+Baker Mayfield,MayfBa00,rushing,CLE,2,17,1,17,8.5,0,0,0,NA,202010110cle
+Odell Beckham Jr.,BeckOd00,rushing,CLE,1,-1,0,-1,-1,0,0,0,NA,202010110cle

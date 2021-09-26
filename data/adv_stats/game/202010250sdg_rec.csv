@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+James Robinson,RobiJa00,receiving,JAX,6,4,18,1,1,-9,-2.3,27,6.8,-0.2,1,4,0,0,0,109.7,202010250sdg
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,3,3,44,0,2,14,4.7,30,10,4.7,1,3,0,0,0,118.7,202010250sdg
+James O'Shaughnessy,O'ShJa00,receiving,JAX,3,3,32,0,1,24,8,8,2.7,8,0,NA,0,0,0,111.1,202010250sdg
+DJ Chark,CharDJ00,receiving,JAX,7,1,26,0,1,26,26,0,0,16.9,0,NA,1,14.3,0,42.6,202010250sdg
+Collin Johnson,JohnCo01,receiving,JAX,1,1,13,0,1,10,10,3,3,10,0,NA,0,0,0,118.7,202010250sdg
+Chris Conley,ConlCh00,receiving,JAX,2,1,28,1,1,28,28,0,0,30.5,0,NA,0,0,0,135.4,202010250sdg
+Keelan Cole,ColeKe00,receiving,JAX,2,1,12,0,NA,12,12,0,0,8.5,0,NA,0,0,0,68.7,202010250sdg
+Keenan Allen,AlleKe00,receiving,LAC,13,10,125,0,7,69,6.9,56,5.6,8.1,0,NA,0,0,0,106.2,202010250sdg
+Justin Jackson,JackJu01,receiving,LAC,6,5,43,0,2,-17,-3.4,60,12,-3.2,1,5,0,0,0,96.5,202010250sdg
+Joshua Kelley,KellJo01,receiving,LAC,5,5,24,0,2,-8,-1.6,32,6.4,-1.6,0,NA,0,0,0,86.7,202010250sdg
+Hunter Henry,HenrHu00,receiving,LAC,7,3,23,0,1,16,5.3,7,2.3,7.7,0,NA,0,0,0,51.5,202010250sdg
+Jalen Guyton,GuytJa01,receiving,LAC,3,2,84,1,2,44,22,40,20,18,0,NA,1,33.3,0,149.3,202010250sdg
+Virgil Green,GreeVi00,receiving,LAC,2,1,26,1,1,26,26,0,0,21.5,0,NA,0,0,0,135.4,202010250sdg
+Donald Parham,ParhDo00,receiving,LAC,1,1,22,1,1,22,22,0,0,22,0,NA,0,0,0,158.3,202010250sdg
+Mike Williams,WillMi07,receiving,LAC,3,1,4,0,NA,0,0,4,4,15.7,0,NA,0,0,0,42.4,202010250sdg
+Tyron Johnson,JohnTy03,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,44,0,NA,0,0,0,39.6,202010250sdg
+Gabe Nabers,NabeGa00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,202010250sdg

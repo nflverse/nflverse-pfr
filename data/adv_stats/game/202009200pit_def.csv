@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Michael Ojemudia,OjemMi00,defense,DEN,0,12,8,66.7%,159,19.9,13.3,2,149.3,11.4,99,60,0,0,0,0,0,6,2,25.0%,202009200pit
+Bryce Callahan,CallBr00,defense,DEN,0,9,7,77.8%,35,5,3.9,0,82.9,1.8,12,23,0,0,0,0,0,5,1,16.7%,202009200pit
+Alexander Johnson,JohnAl01,defense,DEN,0,3,3,100.0%,33,11,11,0,112.5,1,3,30,8,0,1,0,1,8,0,0.0%,202009200pit
+Josey Jewell,JeweJo00,defense,DEN,0,4,3,75.0%,24,8,6,0,89.6,2.3,6,18,2,0,0,0,0,5,0,0.0%,202009200pit
+Justin Simmons,SimmJu00,defense,DEN,1,5,3,60.0%,28,9.3,5.6,0,35.8,9,19,9,1,0,0,0,0,8,1,11.1%,202009200pit
+Bradley Chubb,ChubBr00,defense,DEN,0,3,2,66.7%,9,4.5,3,0,70.1,1.7,6,3,5,3,0,0,3,3,0,0.0%,202009200pit
+Kareem Jackson,JackKa99,defense,DEN,0,3,2,66.7%,9,4.5,3,0,70.1,8.7,6,3,0,0,0,0,0,4,2,33.3%,202009200pit
+Essang Bassey,BassEs01,defense,DEN,0,1,1,100.0%,18,18,18,0,118.7,0,0,18,3,0,0,0,0,1,0,0.0%,202009200pit
+Dre'Mont Jones,JoneDr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202009200pit
+Jurrell Casey,CaseJu00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202009200pit
+Mike Purcell,PurcMi00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202009200pit
+Jeremiah Attaochu,AttaJe00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,1,0,0.0%,202009200pit
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,2,0,0.0%,202009200pit
+Devin Bush Jr.,BushDe01,defense,PIT,0,7,6,85.7%,73,12.2,10.4,1,149.7,8.1,53,20,6,1,0,0,1,7,3,30.0%,202009200pit
+Mike Hilton,HiltMi01,defense,PIT,0,7,4,57.1%,19,4.8,2.7,0,62.2,16.6,15,4,9,1,1,1,3,8,0,0.0%,202009200pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,6,3,50.0%,53,17.7,8.8,0,80.6,9.7,46,7,2,0,0,1,1,4,0,0.0%,202009200pit
+Minkah Fitzpatrick,FitzMi00,defense,PIT,0,3,2,66.7%,34,17,11.3,0,104.9,7.3,12,22,0,0,0,0,0,6,2,25.0%,202009200pit
+Joe Haden,HadeJo99,defense,PIT,1,6,2,33.3%,63,31.5,10.5,0,34,19.2,58,5,0,0,0,0,0,1,0,0.0%,202009200pit
+Steven Nelson,NelsSt01,defense,PIT,0,6,2,33.3%,35,17.5,5.8,0,54.2,18.3,34,1,0,0,0,0,0,3,1,25.0%,202009200pit
+Vince Williams,WillVi01,defense,PIT,0,4,2,50.0%,14,7,3.5,1,97.9,12,11,3,4,0,0,0,0,7,1,12.5%,202009200pit
+Bud Dupree,DuprAl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,2,2,1,5,2,2,50.0%,202009200pit
+T.J. Watt,WattT.00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1,1,2.5,5,4,1,20.0%,202009200pit
+Stephon Tuitt,TuitSt00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,3,0,5,1,1,50.0%,202009200pit
+Cameron Heyward,HeywCa01,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,3,0.5,5,3,0,0.0%,202009200pit
+Tyson Alualu,AluaTy99,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,5,0,0.0%,202009200pit

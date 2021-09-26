@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Darqueze Dennard,DennDa00,defense,ATL,0,16,11,68.8%,118,10.7,7.4,0,90.1,6.5,49,69,1,0,0,0,0,7,3,30.0%,202009200dal
+Keanu Neal,NealKe01,defense,ATL,0,5,5,100.0%,121,24.2,24.2,0,118.7,15.2,76,45,1,0,0,0,0,8,0,0.0%,202009200dal
+Isaiah Oliver,OlivIs00,defense,ATL,0,7,4,57.1%,61,15.3,8.7,0,86,14.1,53,8,0,0,0,0,0,5,1,16.7%,202009200dal
+Foyesade Oluokun,OluoFo00,defense,ATL,0,4,3,75.0%,27,9,6.8,0,92.7,0.3,1,26,1,0,0,0,0,6,1,14.3%,202009200dal
+Mykal Walker,WalkMy00,defense,ATL,0,3,3,100.0%,24,8,8,1,139.6,6.3,19,5,3,0,0,0,0,6,0,0.0%,202009200dal
+Deion Jones,JoneDe01,defense,ATL,0,2,2,100.0%,45,22.5,22.5,0,118.7,8.5,17,28,7,1,1,0.5,3,7,1,12.5%,202009200dal
+AJ Terrell,TerrAJ00,defense,ATL,0,3,2,66.7%,7,3.5,2.3,0,70.1,7,2,5,1,0,1,0,1,5,0,0.0%,202009200dal
+Damontae Kazee,KazeDa00,defense,ATL,0,2,2,100.0%,25,12.5,12.5,0,118.7,11.5,23,2,0,0,0,0,0,8,1,11.1%,202009200dal
+Steven Means,MeanSt00,defense,ATL,0,1,1,100.0%,11,11,11,0,112.5,-1,-1,12,0,0,1,0,1,3,1,25.0%,202009200dal
+LaRoy Reynolds,ReynLa00,defense,ATL,0,1,1,100.0%,11,11,11,0,112.5,6,6,5,0,0,0,0,0,2,0,0.0%,202009200dal
+Dante Fowler,FowlDa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,0,0.5,4,2,1,33.3%,202009200dal
+Takkarist McKinley,McKiTa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,202009200dal
+John Cominsky,ComiJo00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202009200dal
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,1,16.7%,202009200dal
+Ricardo Allen,AlleRi00,defense,ATL,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,0,0,0,0,1,0,0.0%,202009200dal
+Jourdan Lewis,LewiJo01,defense,DAL,0,9,6,66.7%,45,7.5,5,1,115.5,4.6,25,20,1,0,0,0,0,5,0,0.0%,202009200dal
+Jaylon Smith,SmitJa05,defense,DAL,0,6,5,83.3%,83,16.6,13.8,1,158.3,9,37,46,3,0,0,0,0,14,0,0.0%,202009200dal
+Joe Thomas,ThomJo04,defense,DAL,0,4,3,75.0%,8,2.7,2,0,77.1,3.3,2,6,7,1,1,0,2,12,0,0.0%,202009200dal
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,4,3,75.0%,49,16.3,12.3,2,155.2,16.8,39,10,0,0,0,0,0,1,0,0.0%,202009200dal
+Trevon Diggs,DiggTr00,defense,DAL,0,8,3,37.5%,50,16.7,6.3,0,59.4,19.9,46,4,0,0,0,0,0,6,0,0.0%,202009200dal
+Xavier Woods,WoodXa00,defense,DAL,0,2,2,100.0%,8,4,4,0,83.3,-3.5,-7,15,0,0,0,0,0,6,0,0.0%,202009200dal
+Daryl Worley,WorlDa00,defense,DAL,0,2,1,50.0%,24,24,12,0,93.7,18.5,21,3,1,0,0,0,0,3,0,0.0%,202009200dal
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,0,0,0,0,0,3,0,0.0%,202009200dal
+Everson Griffen,GrifEv99,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,1,4,5,0,0.0%,202009200dal
+Tyrone Crawford,CrawTy00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202009200dal
+Trysten Hill,HillTr00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202009200dal
+Aldon Smith,SmitAl04,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,5,0,0.0%,202009200dal

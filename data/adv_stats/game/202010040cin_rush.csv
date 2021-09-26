@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Robinson,RobiJa00,rushing,JAX,17,75,4,42,2.5,33,1.9,2,8.5,202010040cin
+Gardner Minshew II,MinsGa00,rushing,JAX,2,9,0,7,3.5,2,1,0,NA,202010040cin
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,1,5,0,0,0,5,5,0,NA,202010040cin
+Joe Mixon,MixoJo00,rushing,CIN,25,151,8,92,3.7,59,2.4,0,NA,202010040cin
+Joe Burrow,BurrJo01,rushing,CIN,4,11,1,9,2.3,2,0.5,1,4,202010040cin
+Giovani Bernard,BernGi00,rushing,CIN,2,19,2,14,7,5,2.5,0,NA,202010040cin
+Tyler Boyd,BoydTy00,rushing,CIN,1,4,0,3,3,1,1,0,NA,202010040cin
+Alex Erickson,EricAl01,rushing,CIN,1,7,NA,3,3,4,4,0,NA,202010040cin
+Tee Higgins,HiggTe00,rushing,CIN,1,13,1,13,13,0,0,0,NA,202010040cin

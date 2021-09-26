@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Jacobs,JacoJo01,rushing,LVR,7,27,0,15,2.1,12,1.7,0,NA,202011290atl
+Devontae Booker,BookDe00,rushing,LVR,5,6,NA,1,0.2,5,1,0,NA,202011290atl
+Nathan Peterman,PeteNa00,rushing,LVR,1,9,1,8,8,1,1,0,NA,202011290atl
+Henry Ruggs III,RuggHe00,rushing,LVR,1,-2,0,-2,-2,0,0,0,NA,202011290atl
+Brian Hill,HillBr02,rushing,ATL,13,55,1,18,1.4,37,2.8,0,NA,202011290atl
+Ito Smith,SmitIt00,rushing,ATL,12,65,4,44,3.7,21,1.8,0,NA,202011290atl
+Tony Brooks-James,BrooTo01,rushing,ATL,3,4,NA,0,0,4,1.3,0,NA,202011290atl
+Matt Schaub,SchaMa00,rushing,ATL,3,-4,NA,-4,-1.3,0,0,0,NA,202011290atl
+Matt Ryan,RyanMa00,rushing,ATL,1,5,0,5,5,0,0,0,NA,202011290atl

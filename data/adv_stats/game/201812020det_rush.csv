@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Todd Gurley,GurlTo01,rushing,LAR,23,132,8,65,2.8,67,2.9,2,11.5,201812020det
+Malcolm Brown,BrowMa03,rushing,LAR,2,8,NA,2,1,6,3,1,2,201812020det
+Jared Goff,GoffJa00,rushing,LAR,2,-2,0,-2,-1,0,0,0,NA,201812020det
+Robert Woods,WoodRo02,rushing,LAR,2,11,1,11,5.5,0,0,0,NA,201812020det
+LeGarrette Blount,BlouLe00,rushing,DET,16,61,4,30,1.9,31,1.9,1,16,201812020det
+Theo Riddick,RiddTh00,rushing,DET,8,32,1,15,1.9,17,2.1,2,4,201812020det
+Matthew Stafford,StafMa00,rushing,DET,1,2,0,2,2,0,0,0,NA,201812020det
+Zach Zenner,ZennZa00,rushing,DET,1,7,NA,7,7,0,0,0,NA,201812020det

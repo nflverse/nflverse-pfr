@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Austin Hooper,HoopAu00,receiving,ATL,11,10,56,1,4,42,4.2,14,1.4,4.5,0,NA,0,0,0,118.2,201811110cle
+Julio Jones,JoneJu02,receiving,ATL,11,7,107,1,6,76,10.9,31,4.4,9.5,0,NA,1,9.1,0,125.9,201811110cle
+Mohamed Sanu,SanuMo00,receiving,ATL,8,6,47,0,1,21,3.5,26,4.3,3.3,0,NA,0,0,0,89.1,201811110cle
+Ito Smith,SmitIt00,receiving,ATL,5,4,15,0,0,-3,-0.8,18,4.5,-0.6,1,4,1,20,0,79.2,201811110cle
+Tevin Coleman,ColeTe01,receiving,ATL,5,3,19,0,2,4,1.3,15,5,1,0,NA,1,20,0,67.9,201811110cle
+Calvin Ridley,RidlCa00,receiving,ATL,5,3,37,0,2,11,3.7,26,8.7,6.2,0,NA,0,0,0,82.9,201811110cle
+Logan Paulsen,PaulLo00,receiving,ATL,2,2,13,0,1,7,3.5,6,3,3.5,0,NA,0,0,0,93.7,201811110cle
+Marvin Hall,HallMa02,receiving,ATL,1,1,12,0,1,5,5,7,7,5,0,NA,0,0,0,116.7,201811110cle
+Justin Hardy,HardJu00,receiving,ATL,1,1,7,0,1,5,5,2,2,5,0,NA,0,0,0,95.8,201811110cle
+Eric Saubert,SaubEr00,receiving,ATL,2,1,17,0,1,17,17,0,0,9,0,NA,1,50,0,79.2,201811110cle
+Duke Johnson,JohnDu00,receiving,CLE,4,4,31,1,2,1,0.3,30,7.5,0.3,0,NA,0,0,0,138.5,201811110cle
+Nick Chubb,ChubNi00,receiving,CLE,3,3,33,1,2,-1,-0.3,34,11.3,-0.3,0,NA,0,0,0,152.1,201811110cle
+Jarvis Landry,LandJa00,receiving,CLE,5,2,22,0,2,22,11,0,0,12.4,0,NA,0,0,0,53.7,201811110cle
+Breshad Perriman,PerrBr02,receiving,CLE,2,2,33,0,2,24,12,9,4.5,12,0,NA,0,0,0,118.7,201811110cle
+Antonio Callaway,CallAn00,receiving,CLE,2,2,39,0,2,25,12.5,14,7,12.5,1,2,0,0,0,118.7,201811110cle
+Rashard Higgins,HiggRa00,receiving,CLE,1,1,28,1,1,28,28,0,0,28,0,NA,0,0,0,158.3,201811110cle
+Dontrell Hilliard,HillDo00,receiving,CLE,1,1,6,0,1,-1,-1,7,7,-1,0,NA,0,0,0,91.7,201811110cle
+David Njoku,NjokDa00,receiving,CLE,1,1,18,0,1,15,15,3,3,15,0,NA,0,0,0,118.7,201811110cle
+Orson Charles,CharOr00,receiving,CLE,1,1,6,0,NA,-1,-1,7,7,-1,0,NA,0,0,0,91.7,201811110cle
+Baker Mayfield,MayfBa00,receiving,CLE,1,0,0,0,0,0,NA,0,NA,12,0,NA,0,0,1,0,201811110cle

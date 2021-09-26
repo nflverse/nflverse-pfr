@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,16,45,3,16,1,29,1.8,0,NA,201911170det
+Dak Prescott,PresDa01,rushing,DAL,6,18,1,13,2.2,5,0.8,0,NA,201911170det
+Tony Pollard,PollTo00,rushing,DAL,2,12,0,6,3,6,3,0,NA,201911170det
+Bo Scarbrough,ScarBo01,rushing,DET,14,55,3,2,0.1,53,3.8,2,7,201911170det
+Jeff Driskel,DrisJe00,rushing,DET,8,51,3,40,5,11,1.4,0,NA,201911170det
+J.D. McKissic,McKiJ.00,rushing,DET,3,13,2,10,3.3,3,1,0,NA,201911170det
+Ty Johnson,JohnTy02,rushing,DET,2,6,NA,3,1.5,3,1.5,0,NA,201911170det
+Marvin Jones,JoneMa02,rushing,DET,1,-4,0,-4,-4,0,0,0,NA,201911170det

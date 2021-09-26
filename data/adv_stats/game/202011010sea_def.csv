@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Emmanuel Moseley,MoseEm00,defense,SFO,0,11,9,81.8%,133,14.8,12.1,2,156.6,10.5,76,57,0,0,0,0,0,10,1,9.1%,202011010sea
+Dre Greenlaw,GreeDr00,defense,SFO,0,7,7,100.0%,34,4.9,4.9,0,86.9,0.3,2,32,7,0,0,0,0,8,1,11.1%,202011010sea
+Jason Verrett,VerrJa00,defense,SFO,0,6,6,100.0%,53,8.8,8.8,0,103.5,4.2,25,28,0,0,0,0,0,7,0,0.0%,202011010sea
+Jimmie Ward,WardJi01,defense,SFO,0,3,2,66.7%,16,8,5.3,1,119.4,5.7,15,1,0,0,0,0,0,6,0,0.0%,202011010sea
+Fred Warner,WarnFr00,defense,SFO,0,2,1,50.0%,12,12,6,0,68.7,8.5,11,1,7,1,1,0,2,4,0,0.0%,202011010sea
+K'Waun Williams,WillKW00,defense,SFO,0,2,1,50.0%,7,7,3.5,0,58.3,0.5,-2,9,4,0,0,1,1,2,0,0.0%,202011010sea
+Marcell Harris,HarrMa03,defense,SFO,0,4,1,25.0%,6,6,1.5,1,79.2,17.3,6,0,5,0,0,0,0,5,0,0.0%,202011010sea
+Kerry Hyder,HydeKe01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,3,0,0.0%,202011010sea
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202011010sea
+D.J. Jones,JoneD.01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202011010sea
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,2,0,0,0,0,1,1,50.0%,202011010sea
+Dion Jordan,JordDi00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202011010sea
+D.J. Reed,ReedD.00,defense,SEA,1,8,5,62.5%,73,14.6,9.1,0,52.6,8.8,58,15,4,1,0,0,1,6,0,0.0%,202011010sea
+Tre Flowers,FlowTr01,defense,SEA,0,8,5,62.5%,34,6.8,4.3,0,71.9,5.6,24,10,1,0,0,0,0,4,0,0.0%,202011010sea
+Quandre Diggs,DiggQu00,defense,SEA,0,5,4,80.0%,71,17.8,14.2,1,158.3,11.4,43,28,2,0,0,0,0,6,1,14.3%,202011010sea
+K.J. Wright,WrigK.00,defense,SEA,0,4,4,100.0%,30,7.5,7.5,0,97.9,3.8,15,15,6,0,0,0,0,6,0,0.0%,202011010sea
+Jordyn Brooks,BrooJo01,defense,SEA,0,3,3,100.0%,39,13,13,0,118.7,6.3,19,20,2,0,0,0,0,4,1,20.0%,202011010sea
+Ryan Neal,NealRy00,defense,SEA,0,5,3,60.0%,47,15.7,9.4,0,91.2,12.6,41,6,6,0,0,0,0,5,0,0.0%,202011010sea
+Quinton Dunbar,DunbQu00,defense,SEA,0,5,3,60.0%,28,9.3,5.6,1,115,4.8,8,20,1,0,0,0,0,4,0,0.0%,202011010sea
+Bobby Wagner,WagnBo00,defense,SEA,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,17,0,2,2,4,11,0,0.0%,202011010sea
+Jarran Reed,ReedJa02,defense,SEA,0,1,1,100.0%,-6,-6,-6,0,79.2,-5,-5,-1,0,1,0,0,1,2,0,0.0%,202011010sea
+Alton Robinson,RobiAl03,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,202011010sea
+Jonathan Bullard,BullJo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202011010sea
+Damontre Moore,MoorDa01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202011010sea
+L.J. Collier,CollLJ00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202011010sea

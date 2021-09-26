@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Lamar Jackson,JackLa00,passing,BAL,15,20,169,12,54.5,136,6.8,103,6.9,5.2,66,4.4,1,5.3%,1,5.3%,2,10,1,3,6,24.0%,3,14.7,201911250ram
+Robert Griffin III,GrifRo01,passing,BAL,1,3,39,1,25,55,18.3,39,39,13,0,0,0,0.0%,0,0.0%,1,2,0,1,2,50.0%,0,NA,201911250ram
+Jared Goff,GoffJa00,passing,LAR,26,37,212,8,20.5,312,8.4,112,4.3,3,100,3.8,1,2.8%,8,22.2%,2,23,1,5,8,20.5%,0,NA,201911250ram

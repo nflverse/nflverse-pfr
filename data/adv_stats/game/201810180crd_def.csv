@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Chris Harris Jr.,HarrCh01,defense,DEN,1,10,6,60.0%,53,8.8,5.3,0,34.6,7.2,29,24,0,0,0,0,0,6,1,14.3%,201810180crd
+Bradley Roby,RobyBr00,defense,DEN,1,9,4,44.4%,17,4.3,1.9,0,12,12.1,17,0,1,0,0,0,0,2,0,0.0%,201810180crd
+Justin Simmons,SimmJu00,defense,DEN,0,3,3,100.0%,24,8,8,0,100,3.7,11,13,0,0,0,0,0,7,2,22.2%,201810180crd
+Brandon Marshall,MarsBr01,defense,DEN,0,4,2,50.0%,10,5,2.5,0,56.2,0.3,3,7,1,0,0,0,0,4,0,0.0%,201810180crd
+Will Parks,ParkWi01,defense,DEN,0,3,2,66.7%,24,12,8,0,91,13,17,7,1,0,0,0,0,4,0,0.0%,201810180crd
+Todd Davis,DaviTo01,defense,DEN,1,1,1,100.0%,7,7,7,0,56.2,7,7,0,4,0,0,0,0,10,1,9.1%,201810180crd
+Isaac Yiadom,YiadIs00,defense,DEN,0,1,1,100.0%,27,27,27,0,118.7,21,21,6,0,0,0,0,0,1,0,0.0%,201810180crd
+Shamarko Thomas,ThomSh00,defense,DEN,0,1,1,100.0%,4,4,4,1,122.9,4,4,0,0,0,0,0,0,3,0,0.0%,201810180crd
+Tramaine Brock,BrocTr00,defense,DEN,0,3,1,33.3%,21,21,7,0,59,12,21,0,0,0,0,0,0,0,0,NA,201810180crd
+Von Miller,MillVo00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,3,2,5,4,0,0.0%,201810180crd
+Bradley Chubb,ChubBr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2,3,3,1,25.0%,201810180crd
+Derek Wolfe,WolfDe00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201810180crd
+Adam Gotsis,GotsAd00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201810180crd
+Shaquil Barrett,BarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,0,1,1,1,1,50.0%,201810180crd
+Zach Kerr,KerrZa00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201810180crd
+Shelby Harris,HarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,201810180crd
+Bene Benwikere,BenwBe00,defense,ARI,0,5,4,80.0%,43,10.8,8.6,1,142.1,14.8,40,3,1,0,0,0,0,5,1,16.7%,201810180crd
+Josh Bynes,ByneJo00,defense,ARI,0,3,3,100.0%,15,5,5,0,87.5,0,0,15,2,0,0,0,0,6,0,0.0%,201810180crd
+Budda Baker,BakeBu00,defense,ARI,0,2,2,100.0%,25,12.5,12.5,0,118.7,3,6,19,4,1,0,0,1,8,1,11.1%,201810180crd
+Antoine Bethea,BethAn20,defense,ARI,0,2,2,100.0%,8,4,4,0,83.3,5,1,7,0,0,0,0,0,8,0,0.0%,201810180crd
+Patrick Peterson,PetePa00,defense,ARI,1,4,2,50.0%,67,33.5,16.8,1,95.8,21.3,51,16,1,0,0,0,0,6,1,14.3%,201810180crd
+Rudy Ford,FordRu00,defense,ARI,0,1,1,100.0%,13,13,13,0,118.7,4,4,9,0,0,0,0,0,3,2,40.0%,201810180crd
+Markus Golden,GoldMa00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201810180crd
+Chandler Jones,JoneCh03,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,2,40.0%,201810180crd
+Haason Reddick,ReddHa00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1,1,0,2,4,1,20.0%,201810180crd
+Zach Moore,MoorZa00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201810180crd
+Rodney Gunter,GuntRo00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201810180crd

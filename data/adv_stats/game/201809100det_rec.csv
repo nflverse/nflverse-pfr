@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Quincy Enunwa,EnunQu00,receiving,NYJ,9,6,63,1,4,21,3.5,42,7,7,0,NA,1,11.1,0,123.8,201809100det
+Terrelle Pryor,PryoTe00,receiving,NYJ,3,3,49,0,3,42,14,7,2.3,14,0,NA,0,0,0,118.7,201809100det
+Neal Sterling,SterNe00,receiving,NYJ,3,3,27,0,1,5,1.7,22,7.3,1.7,1,3,0,0,0,104.2,201809100det
+Robby Anderson,AndeRo04,receiving,NYJ,1,1,41,1,1,41,41,0,0,41,0,NA,0,0,0,158.3,201809100det
+Trenton Cannon,CannTr00,receiving,NYJ,1,1,6,0,1,6,6,0,0,6,0,NA,0,0,0,91.7,201809100det
+Bilal Powell,PoweBi00,receiving,NYJ,2,1,5,0,0,-5,-5,10,10,3.5,0,NA,0,0,1,16.7,201809100det
+Eric Tomlinson,TomlEr01,receiving,NYJ,1,1,7,0,NA,5,5,2,2,5,0,NA,0,0,0,95.8,201809100det
+Kenny Golladay,GollKe00,receiving,DET,12,7,114,0,6,62,8.9,52,7.4,9.6,2,3.5,0,0,1,55.6,201809100det
+Golden Tate,TateGo00,receiving,DET,15,7,79,1,4,47,6.7,32,4.6,6.5,1,7,2,13.3,0,85.1,201809100det
+Theo Riddick,RiddTh00,receiving,DET,7,5,15,0,1,1,0.2,14,2.8,1,1,5,1,14.3,1,34.5,201809100det
+Marvin Jones,JoneMa02,receiving,DET,8,4,54,0,3,34,8.5,20,5,15.1,1,4,0,0,1,32.3,201809100det
+Kerryon Johnson,JohnKe06,receiving,DET,3,3,20,0,0,-1,-0.3,21,7,-0.3,0,NA,0,0,0,94.4,201809100det
+T.J. Jones,JoneT.00,receiving,DET,3,1,6,0,NA,4,4,2,2,8.7,0,NA,0,0,1,2.8,201809100det
+Levine Toilolo,ToilLe00,receiving,DET,1,1,7,0,1,4,4,3,3,4,0,NA,0,0,0,95.8,201809100det
+Hakeem Valles,VallHa00,receiving,DET,2,1,5,0,NA,5,5,0,0,10,0,NA,0,0,0,56.2,201809100det
+Luke Willson,WillLu00,receiving,DET,1,0,0,0,NA,0,NA,0,NA,14,0,NA,0,0,1,0,201809100det

@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Michael Ojemudia,OjemMi00,defense,DEN,0,9,6,66.7%,76,12.7,8.4,0,92.8,11.4,55,21,0,0,0,0,0,7,0,0.0%,202010180nwe
+Alexander Johnson,JohnAl01,defense,DEN,0,4,4,100.0%,39,9.8,9.8,0,107.3,0.8,3,36,10,0,0,0,0,8,0,0.0%,202010180nwe
+De'Vante Bausby,BausDe00,defense,DEN,0,3,2,66.7%,26,13,8.7,0,93.7,9,13,13,0,0,0,0,0,2,1,33.3%,202010180nwe
+Kareem Jackson,JackKa99,defense,DEN,0,3,2,66.7%,3,1.5,1,0,70.1,0.3,-8,11,1,0,0,0,0,6,0,0.0%,202010180nwe
+Shelby Harris,HarrSh00,defense,DEN,0,1,1,100.0%,7,7,7,0,95.8,-6,-6,13,0,1,1,0,2,3,1,25.0%,202010180nwe
+Josey Jewell,JeweJo00,defense,DEN,0,1,1,100.0%,10,10,10,0,108.3,10,10,0,7,0,1,0,1,5,1,16.7%,202010180nwe
+Anthony Chickillo,ChicAn00,defense,DEN,0,1,1,100.0%,14,14,14,0,118.7,3,3,11,2,0,0,1,1,2,1,33.3%,202010180nwe
+Bradley Chubb,ChubBr00,defense,DEN,0,1,1,100.0%,22,22,22,0,118.7,-6,-6,28,9,0,0,1,1,4,0,0.0%,202010180nwe
+Bryce Callahan,CallBr00,defense,DEN,1,3,1,33.3%,-2,-2,-0.7,0,2.8,7.7,-5,3,5,0,0,0,0,1,0,0.0%,202010180nwe
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,1,2,3,5,0,0.0%,202010180nwe
+DeShawn Williams,WillDe04,defense,DEN,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202010180nwe
+Duke Dawson,DawsDu00,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,-11,NA,NA,0,0,0,0,0,2,0,0.0%,202010180nwe
+Justin Simmons,SimmJu00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,8,0,0.0%,202010180nwe
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,3,3,100.0%,41,13.7,13.7,0,118.7,7.7,23,18,11,0,1,0.5,2,12,1,7.7%,202010180nwe
+Kyle Dugger,DuggKy00,defense,NWE,0,3,2,66.7%,31,15.5,10.3,0,100.7,8.3,17,14,0,0,0,0,0,5,0,0.0%,202010180nwe
+J.C. Jackson,JackJ.00,defense,NWE,1,4,2,50.0%,43,21.5,10.8,0,49,14,38,5,0,0,0,0,0,1,0,0.0%,202010180nwe
+Jason McCourty,McCoJa99,defense,NWE,0,1,1,100.0%,41,41,41,0,118.7,31,31,10,0,0,0,0,0,1,0,0.0%,202010180nwe
+Jonathan Jones,JoneJo03,defense,NWE,1,8,1,12.5%,16,16,2,0,0,20.6,13,3,1,0,0,0,0,4,0,0.0%,202010180nwe
+Adrian Phillips,PhilAd00,defense,NWE,0,1,1,100.0%,17,17,17,0,118.7,17,17,0,3,0,0,0,0,11,0,0.0%,202010180nwe
+Shilique Calhoun,CalhSh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0,1,0.5,2,2,0,0.0%,202010180nwe
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,6,0,0.0%,202010180nwe
+John Simon,SimoJo01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,202010180nwe
+Terrence Brooks,BrooTe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202010180nwe
+Stephon Gilmore,GilmSt00,defense,NWE,0,4,0,0.0%,NA,NA,0,NA,39.6,18.5,NA,NA,0,0,0,0,0,3,0,0.0%,202010180nwe
+Devin McCourty,McCoDe99,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,5,0,0.0%,202010180nwe
+Anfernee Jennings,JennAn00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,3,0,0.0%,202010180nwe

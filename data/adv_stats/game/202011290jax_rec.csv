@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jarvis Landry,LandJa00,receiving,CLE,11,8,143,1,8,89,11.1,54,6.8,9.9,1,8,0,0,0,145.1,202011290jax
+Nick Chubb,ChubNi00,receiving,CLE,3,3,32,0,2,-3,-1,35,11.7,-1,2,1.5,0,0,0,111.1,202011290jax
+KhaDarel Hodge,HodgKh00,receiving,CLE,3,3,31,0,3,28,9.3,3,1,9.3,0,NA,0,0,0,109.7,202011290jax
+Austin Hooper,HoopAu00,receiving,CLE,2,2,13,1,1,4,2,9,4.5,2,0,NA,0,0,0,133.3,202011290jax
+Harrison Bryant,BryaHa00,receiving,CLE,2,1,13,0,NA,8,8,5,5,4.5,0,NA,0,0,0,70.8,202011290jax
+Stephen Carlson,CarlSt00,receiving,CLE,1,1,11,0,1,0,0,11,11,0,0,NA,0,0,0,112.5,202011290jax
+Rashard Higgins,HiggRa00,receiving,CLE,2,1,15,0,NA,15,15,0,0,10,0,NA,0,0,0,75,202011290jax
+Kareem Hunt,HuntKa00,receiving,CLE,2,0,0,0,0,0,NA,0,NA,13.5,0,NA,0,0,0,39.6,202011290jax
+Taywan Taylor,TaylTa00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,202011290jax
+James Robinson,RobiJa00,receiving,JAX,6,5,31,0,1,-9,-1.8,40,8,-0.7,2,2.5,0,0,0,88.2,202011290jax
+Collin Johnson,JohnCo01,receiving,JAX,8,4,96,1,4,67,16.8,29,7.3,16.9,0,NA,0,0,0,133.3,202011290jax
+Keelan Cole,ColeKe00,receiving,JAX,6,3,44,0,2,29,9.7,15,5,18.5,0,NA,0,0,0,74.3,202011290jax
+Tyler Eifert,EifeTy00,receiving,JAX,4,3,16,1,2,10,3.3,6,2,8.5,0,NA,0,0,0,120.8,202011290jax
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,4,3,31,0,2,11,3.7,20,6.7,4.8,2,1.5,0,0,0,96.9,202011290jax
+James O'Shaughnessy,O'ShJa00,receiving,JAX,4,2,17,0,1,10,5,7,3.5,12.3,0,NA,0,0,0,61.5,202011290jax
+Ben Ellefson,ElleBe00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,12,0,NA,1,100,0,39.6,202011290jax

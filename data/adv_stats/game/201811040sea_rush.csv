@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,LAC,16,113,4,65,4.1,48,3,1,16,201811040sea
+Austin Ekeler,EkelAu00,rushing,LAC,3,21,1,14,4.7,7,2.3,0,NA,201811040sea
+Keenan Allen,AlleKe00,rushing,LAC,2,28,1,28,14,0,0,0,NA,201811040sea
+Travis Benjamin,BenjTr00,rushing,LAC,1,-2,NA,-2,-2,0,0,0,NA,201811040sea
+Mike Davis,DaviMi01,rushing,SEA,15,62,4,28,1.9,34,2.3,1,15,201811040sea
+Chris Carson,CarsCh00,rushing,SEA,8,40,4,26,3.3,14,1.8,1,8,201811040sea
+Russell Wilson,WilsRu00,rushing,SEA,5,41,3,33,6.6,8,1.6,0,NA,201811040sea
+Rashaad Penny,PennRa00,rushing,SEA,4,11,0,2,0.5,9,2.3,0,NA,201811040sea

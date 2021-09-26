@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,JAX,14,36,3,21,1.5,15,1.1,0,NA,201812060oti
+Cody Kessler,KessCo00,rushing,JAX,5,17,2,1,0.2,16,3.2,1,5,201812060oti
+T.J. Yeldon,YeldT.00,rushing,JAX,1,7,NA,4,4,3,3,0,NA,201812060oti
+Derrick Henry,HenrDe00,rushing,TEN,17,238,8,111,6.5,127,7.5,11,1.5,201812060oti
+Dion Lewis,LewiDi00,rushing,TEN,10,13,0,5,0.5,8,0.8,0,NA,201812060oti
+Marcus Mariota,MariMa01,rushing,TEN,4,13,2,12,3,1,0.3,0,NA,201812060oti
+Corey Davis,DaviCo03,rushing,TEN,1,0,0,-1,-1,1,1,0,NA,201812060oti

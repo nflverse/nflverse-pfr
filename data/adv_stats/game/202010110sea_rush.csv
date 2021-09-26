@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alexander Mattison,MattAl01,rushing,MIN,20,112,7,41,2.1,71,3.6,1,20,202010110sea
+Dalvin Cook,CookDa01,rushing,MIN,17,65,4,13,0.8,52,3.1,0,NA,202010110sea
+Mike Boone,BoonMi00,rushing,MIN,2,19,NA,6,3,13,6.5,2,1,202010110sea
+Kirk Cousins,CousKi00,rushing,MIN,1,2,1,0,0,2,2,0,NA,202010110sea
+Adam Thielen,ThieAd00,rushing,MIN,1,3,0,0,0,3,3,1,1,202010110sea
+Chris Carson,CarsCh00,rushing,SEA,8,52,3,8,1,44,5.5,1,8,202010110sea
+Russell Wilson,WilsRu00,rushing,SEA,5,58,3,58,11.6,0,0,0,NA,202010110sea
+Travis Homer,HomeTr00,rushing,SEA,3,14,NA,5,1.7,9,3,0,NA,202010110sea

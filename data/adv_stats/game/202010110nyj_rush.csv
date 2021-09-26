@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kenyan Drake,DrakKe00,rushing,ARI,18,60,3,46,2.6,14,0.8,2,9,202010110nyj
+Kyler Murray,MurrKy00,rushing,ARI,9,31,4,30,3.3,1,0.1,0,NA,202010110nyj
+Chase Edmonds,EdmoCh00,rushing,ARI,3,36,2,36,12,0,0,0,NA,202010110nyj
+Le'Veon Bell,BellLe00,rushing,NYJ,13,60,2,30,2.3,30,2.3,3,4.3,202010110nyj
+Frank Gore,GoreFr00,rushing,NYJ,9,30,3,11,1.2,19,2.1,0,NA,202010110nyj
+Joe Flacco,FlacJo00,rushing,NYJ,4,20,3,19,4.8,1,0.3,0,NA,202010110nyj
+Braxton Berrios,BerrBr00,rushing,NYJ,1,13,1,10,10,3,3,0,NA,202010110nyj
+Trevon Wesco,WescTr00,rushing,NYJ,1,0,NA,0,0,0,0,0,NA,202010110nyj

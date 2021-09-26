@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jeff Okudah,OkudJe00,defense,DET,0,9,6,66.7%,96,16,10.7,0,102.1,11.4,63,33,0,0,0,0,0,7,0,0.0%,202009200gnb
+Jamie Collins,CollJa00,defense,DET,0,2,2,100.0%,47,23.5,23.5,0,118.7,4.5,9,38,4,0,0,1,1,5,1,16.7%,202009200gnb
+Jarrad Davis,DaviJa01,defense,DET,0,2,2,100.0%,15,7.5,7.5,1,137.5,3,6,9,3,0,1,0,1,5,3,37.5%,202009200gnb
+Amani Oruwariye,OruwAm00,defense,DET,0,3,2,66.7%,20,10,6.7,0,85.4,5.7,15,5,0,0,0,0,0,3,1,25.0%,202009200gnb
+Tracy Walker,WalkTr01,defense,DET,0,4,1,25.0%,11,11,2.8,1,79.2,19.5,11,0,1,0,1,0,1,2,0,0.0%,202009200gnb
+Will Harris,HarrWi02,defense,DET,0,2,1,50.0%,9,9,4.5,0,62.5,14,3,6,0,0,0,0,0,5,1,16.7%,202009200gnb
+Darryl Roberts,RobeDa00,defense,DET,0,1,1,100.0%,30,30,30,0,118.7,26,26,4,0,0,0,0,0,2,0,0.0%,202009200gnb
+Duron Harmon,HarmDu00,defense,DET,0,2,1,50.0%,14,14,7,0,72.9,7,11,3,0,0,0,0,0,4,2,33.3%,202009200gnb
+Christian Jones,JoneCh05,defense,DET,0,2,1,50.0%,4,4,2,0,56.2,0,0,4,3,0,0,0,0,5,0,0.0%,202009200gnb
+Da'Shawn Hand,HandDa00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202009200gnb
+Reggie Ragland,RaglRe00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202009200gnb
+Romeo Okwara,OkwaRo01,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202009200gnb
+Jahlani Tavai,TavaJa00,defense,DET,0,2,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,4,0,0,0,0,6,0,0.0%,202009200gnb
+Jaire Alexander,AlexJa00,defense,GNB,0,6,5,83.3%,27,5.4,4.5,0,85.4,6.3,10,17,0,0,0,0,0,5,0,0.0%,202009200gnb
+Christian Kirksey,KirkCh00,defense,GNB,0,6,5,83.3%,69,13.8,11.5,1,154.2,7.2,26,43,1,0,0,0,0,12,0,0.0%,202009200gnb
+Preston Smith,SmitPr00,defense,GNB,0,6,3,50.0%,33,11,5.5,0,66.7,2.5,8,25,2,1,0,0.5,2,3,1,25.0%,202009200gnb
+Adrian Amos,AmosAd00,defense,GNB,0,2,2,100.0%,53,26.5,26.5,1,158.3,18.5,37,16,1,0,0,0,0,2,2,50.0%,202009200gnb
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,2,2,100.0%,31,15.5,15.5,0,118.7,4,8,23,2,0,0,0,0,4,1,20.0%,202009200gnb
+Will Redmond,RedmWi00,defense,GNB,0,1,1,100.0%,9,9,9,0,104.2,6,6,3,2,1,1,0,2,1,1,50.0%,202009200gnb
+Chandon Sullivan,SullCh00,defense,GNB,1,5,1,20.0%,13,13,2.6,0,0,13.2,11,2,0,0,0,0,0,1,0,0.0%,202009200gnb
+Raven Greene,GreeRa02,defense,GNB,0,1,1,100.0%,9,9,9,0,104.2,0,0,9,0,0,0,0,0,2,1,33.3%,202009200gnb
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,1.5,3,4,0,0.0%,202009200gnb
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,1,1,2,4,0,0.0%,202009200gnb
+Vernon Scott,ScotVe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202009200gnb
+Dean Lowry,LowrDe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202009200gnb
+Krys Barnes,BarnKr00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,-6,NA,NA,1,0,0,0,0,3,0,0.0%,202009200gnb
+Kingsley Keke,KekeKi00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202009200gnb
+Josh Jackson,JackJo01,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,50,NA,NA,0,0,0,0,0,0,0,NA,202009200gnb
+Kevin King,KingKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,2,33.3%,202009200gnb

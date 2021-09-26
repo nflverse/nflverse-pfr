@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Will Fuller,FullWi01,receiving,HOU,10,8,112,0,5,83,10.4,29,3.6,12.9,0,NA,1,10,0,113.3,202009100kan
+David Johnson,JohnDa08,receiving,HOU,4,3,32,0,3,-1,-0.3,33,11,-0.8,0,NA,0,0,0,97.9,202009100kan
+Jordan Akins,AkinJo00,receiving,HOU,2,2,39,1,2,24,12,15,7.5,12,2,1,0,0,0,158.3,202009100kan
+Randall Cobb,CobbRa00,receiving,HOU,3,2,23,0,1,2,1,21,10.5,3.7,0,NA,0,0,0,89.6,202009100kan
+Brandin Cooks,CookBr00,receiving,HOU,5,2,20,0,1,3,1.5,17,8.5,9.2,0,NA,0,0,1,12.5,202009100kan
+Darren Fells,FellDa01,receiving,HOU,2,2,19,0,1,6,3,13,6.5,3,0,NA,0,0,0,106.2,202009100kan
+DeAndre Carter,CartDe02,receiving,HOU,2,1,8,0,NA,4,4,4,4,8,0,NA,1,50,0,60.4,202009100kan
+Duke Johnson,JohnDu00,receiving,HOU,1,0,0,0,0,0,NA,0,NA,1,0,NA,0,0,0,39.6,202009100kan
+Kenny Stills,StilKe00,receiving,HOU,2,0,0,0,NA,0,NA,0,NA,15,0,NA,2,100,0,39.6,202009100kan
+Sammy Watkins,WatkSa00,receiving,KAN,9,7,82,1,6,48,6.9,34,4.9,6.6,0,NA,0,0,0,141.7,202009100kan
+Travis Kelce,KelcTr00,receiving,KAN,6,6,50,1,4,14,2.3,36,6,2.3,0,NA,0,0,0,141,202009100kan
+Tyreek Hill,HillTy00,receiving,KAN,6,5,46,1,3,25,5,21,4.2,8.2,0,NA,0,0,0,138.2,202009100kan
+Demarcus Robinson,RobiDe01,receiving,KAN,6,3,20,0,2,1,0.3,19,6.3,7,1,3,1,16.7,0,57.6,202009100kan
+Darrel Williams,WillDa10,receiving,KAN,2,2,7,0,1,-7,-3.5,14,7,-3.5,0,NA,0,0,0,81.2,202009100kan
+Mecole Hardman,HardMe00,receiving,KAN,1,1,6,0,NA,-3,-3,9,9,-3,0,NA,0,0,0,91.7,202009100kan
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,2,0,0,0,0,0,NA,0,NA,-3.5,0,NA,0,0,0,39.6,202009100kan

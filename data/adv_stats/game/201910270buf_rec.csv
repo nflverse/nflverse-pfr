@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Nelson Agholor,AghoNe00,receiving,PHI,4,4,7,0,1,1,0.3,6,1.5,0.3,0,NA,0,0,0,79.2,201910270buf
+Alshon Jeffery,JeffAl00,receiving,PHI,6,4,64,0,4,59,14.8,5,1.3,11.8,0,NA,0,0,0,102.1,201910270buf
+Dallas Goedert,GoedDa00,receiving,PHI,5,3,22,1,2,3,1,19,6.3,3.6,0,NA,0,0,0,110,201910270buf
+Miles Sanders,SandMi01,receiving,PHI,3,3,44,0,2,-11,-3.7,55,18.3,-3.7,0,NA,0,0,0,118.7,201910270buf
+Zach Ertz,ErtzZa00,receiving,PHI,4,2,20,0,1,15,7.5,5,2.5,11.5,0,NA,0,0,0,64.6,201910270buf
+Jordan Howard,HowaJo00,receiving,PHI,2,1,15,0,0,-2,-2,17,17,-2,1,1,0,0,0,75,201910270buf
+John Brown,BrowJo02,receiving,BUF,8,5,54,0,4,50,10,4,0.8,12.4,1,5,0,0,0,82.3,201910270buf
+Devin Singletary,SingDe00,receiving,BUF,6,4,30,1,1,-9,-2.3,39,9.8,-1.5,1,4,2,33.3,0,118.1,201910270buf
+Cole Beasley,BeasCo00,receiving,BUF,7,3,41,1,2,19,6.3,22,7.3,7.3,1,3,0,0,0,101.8,201910270buf
+Tyler Kroft,KrofTy00,receiving,BUF,4,2,32,0,2,19,9.5,13,6.5,10.3,0,NA,0,0,0,77.1,201910270buf
+Lee Smith,SmitLe00,receiving,BUF,1,1,6,0,NA,6,6,0,0,6,0,NA,0,0,0,91.7,201910270buf
+Duke Williams,WillDu01,receiving,BUF,2,1,6,0,NA,5,5,1,1,5.5,0,NA,0,0,0,56.2,201910270buf
+Patrick DiMarco,DiMaPa00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,201910270buf
+Robert Foster,FostRo01,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,52,0,NA,0,0,0,39.6,201910270buf
+Dawson Knox,KnoxDa00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,201910270buf

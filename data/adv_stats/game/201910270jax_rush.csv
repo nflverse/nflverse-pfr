@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Le'Veon Bell,BellLe00,rushing,NYJ,8,23,NA,3,0.4,20,2.5,0,NA,201910270jax
+Bilal Powell,PoweBi00,rushing,NYJ,4,11,1,1,0.3,10,2.5,0,NA,201910270jax
+Sam Darnold,DarnSa00,rushing,NYJ,1,-1,0,-1,-1,0,0,0,NA,201910270jax
+Vyncint Smith,SmitVy00,rushing,NYJ,1,13,1,6,6,7,7,0,NA,201910270jax
+Leonard Fournette,FourLe00,rushing,JAX,19,76,1,-11,-0.6,87,4.6,1,19,201910270jax
+Gardner Minshew II,MinsGa00,rushing,JAX,8,28,3,17,2.1,11,1.4,0,NA,201910270jax
+Ryquell Armstead,ArmsRy00,rushing,JAX,6,7,NA,0,0,7,1.2,1,6,201910270jax
+DJ Chark,CharDJ00,rushing,JAX,1,0,0,0,0,0,0,0,NA,201910270jax

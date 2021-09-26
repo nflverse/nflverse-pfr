@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kendall Sheffield,ShefKe00,defense,ATL,0,12,8,66.7%,82,10.3,6.8,1,113.9,8,62,20,0,0,0,0,0,9,0,0.0%,202012270kan
+Keanu Neal,NealKe01,defense,ATL,1,6,5,83.3%,59,11.8,9.8,0,68.1,9.3,32,27,2,0,0,0,0,5,2,28.6%,202012270kan
+Deion Jones,JoneDe01,defense,ATL,0,6,4,66.7%,22,5.5,3.7,1,112.5,3.7,5,17,2,0,0,0,0,8,1,11.1%,202012270kan
+AJ Terrell,TerrAJ00,defense,ATL,0,5,3,60.0%,44,14.7,8.8,1,128.3,11,13,31,0,0,0,0,0,1,1,50.0%,202012270kan
+Isaiah Oliver,OlivIs00,defense,ATL,0,5,2,40.0%,20,10,4,0,52.1,12.4,1,19,1,0,1,0,1,3,1,25.0%,202012270kan
+Foyesade Oluokun,OluoFo00,defense,ATL,1,4,2,50.0%,20,10,5,0,25,5.5,3,17,3,0,0,0,0,6,0,0.0%,202012270kan
+Grady Jarrett,JarrGr00,defense,ATL,0,1,1,100.0%,4,4,4,0,83.3,3,3,1,0,0,2,0,2,3,0,0.0%,202012270kan
+Ricardo Allen,AlleRi00,defense,ATL,0,2,1,50.0%,29,29,14.5,0,95.8,28,12,17,0,0,0,0,0,2,0,0.0%,202012270kan
+Dante Fowler,FowlDa00,defense,ATL,0,2,1,50.0%,6,6,3,0,56.2,3.5,-1,7,0,0,0,0,0,1,0,0.0%,202012270kan
+Jacob Tuioti-Mariner,TuioJa00,defense,ATL,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,2,2,1,0,3,0,0,NA,202012270kan
+John Cominsky,ComiJo00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202012270kan
+Sharrod Neasman,NeasSh00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202012270kan
+Steven Means,MeanSt00,defense,ATL,0,1,0,0.0%,NA,NA,0,NA,39.6,-6,NA,NA,0,0,0,0,0,1,0,0.0%,202012270kan
+Darius Harris,HarrDa07,defense,KAN,0,9,8,88.9%,111,13.9,12.3,1,155.1,7.8,72,39,3,0,0,0,0,4,0,0.0%,202012270kan
+L'Jarius Sneed,SneeLJ00,defense,KAN,0,8,7,87.5%,34,4.9,4.3,0,84.4,1.3,6,28,4,0,1,1,2,7,0,0.0%,202012270kan
+Willie Gay Jr.,GayJWi00,defense,KAN,0,5,5,100.0%,40,8,8,0,100,5.4,27,13,2,0,0,0,0,9,1,10.0%,202012270kan
+Daniel Sorensen,SoreDa01,defense,KAN,0,5,5,100.0%,110,22,22,1,158.3,10,50,60,5,0,0,0,0,7,1,12.5%,202012270kan
+Bashaud Breeland,BreeBa00,defense,KAN,0,7,4,57.1%,67,16.8,9.6,1,129.2,10.9,24,43,1,0,0,0,0,1,0,0.0%,202012270kan
+Ben Niemann,NiemBe00,defense,KAN,0,2,2,100.0%,13,6.5,6.5,0,93.7,2,4,9,5,0,0,0,0,3,0,0.0%,202012270kan
+Tyrann Mathieu,MathTy00,defense,KAN,0,1,1,100.0%,17,17,17,0,118.7,19,19,-2,3,0,0,0,0,1,0,0.0%,202012270kan
+Charvarius Ward,WardCh01,defense,KAN,0,3,1,33.3%,7,7,2.3,0,42.4,9.7,5,2,0,0,0,0,0,4,0,0.0%,202012270kan
+Frank Clark,ClarFr01,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,1,4,2,0,0.0%,202012270kan
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,1,4,1,0,0.0%,202012270kan
+Alex Okafor,OkafAl00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,2,0,0.0%,202012270kan
+Tershawn Wharton,WharTe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202012270kan
+Derrick Nnadi,NnadDe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202012270kan

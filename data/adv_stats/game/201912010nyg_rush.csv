@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,11,18,NA,5,0.5,13,1.2,1,11,201912010nyg
+Jamaal Williams,WillJa06,rushing,GNB,10,41,1,14,1.4,27,2.7,1,10,201912010nyg
+Aaron Rodgers,RodgAa00,rushing,GNB,3,24,1,19,6.3,5,1.7,0,NA,201912010nyg
+Tim Boyle,BoylTi00,rushing,GNB,2,-4,NA,-4,-2,0,0,0,NA,201912010nyg
+Saquon Barkley,BarkSa00,rushing,NYG,19,83,3,28,1.5,55,2.9,2,9.5,201912010nyg
+Daniel Jones,JoneDa05,rushing,NYG,5,6,3,3,0.6,3,0.6,0,NA,201912010nyg
+Elijhaa Penny,PennEl00,rushing,NYG,2,2,1,1,0.5,1,0.5,0,NA,201912010nyg
+Javorius Allen,AlleJa01,rushing,NYG,1,4,NA,2,2,2,2,0,NA,201912010nyg

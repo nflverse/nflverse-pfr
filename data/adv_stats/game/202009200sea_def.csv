@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jonathan Jones,JoneJo03,defense,NWE,0,4,4,100.0%,27,6.8,6.8,0,94.8,0.5,2,25,1,0,1,0,1,7,1,12.5%,202009200sea
+Jason McCourty,McCoJa99,defense,NWE,0,4,3,75.0%,58,19.3,14.5,2,156.2,21.5,55,3,0,0,0,0,0,3,0,0.0%,202009200sea
+Stephon Gilmore,GilmSt00,defense,NWE,0,5,3,60.0%,85,28.3,17,1,143.7,17.4,59,26,0,0,0,0,0,3,1,25.0%,202009200sea
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,2,2,100.0%,21,10.5,10.5,0,110.4,2.5,5,16,1,0,0,0,0,5,0,0.0%,202009200sea
+Adrian Phillips,PhilAd00,defense,NWE,0,2,2,100.0%,27,13.5,13.5,1,158.3,11.5,23,4,4,0,0,0,0,6,0,0.0%,202009200sea
+Kyle Dugger,DuggKy00,defense,NWE,0,2,2,100.0%,18,9,9,0,104.2,-1,-2,20,3,0,0,0,0,6,0,0.0%,202009200sea
+J.C. Jackson,JackJ.00,defense,NWE,0,2,2,100.0%,28,14,14,1,158.3,3,6,22,0,0,0,0,0,2,0,0.0%,202009200sea
+Brandon Copeland,CopeBr00,defense,NWE,0,1,1,100.0%,9,9,9,0,104.2,7,7,2,3,1,0,0,1,6,0,0.0%,202009200sea
+Terrence Brooks,BrooTe00,defense,NWE,0,1,1,100.0%,9,9,9,0,104.2,-1,-1,10,0,0,0,0,0,1,1,50.0%,202009200sea
+John Simon,SimoJo01,defense,NWE,0,1,1,100.0%,6,6,6,0,91.7,1,1,5,2,0,0,0,0,8,0,0.0%,202009200sea
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,2,1,33.3%,202009200sea
+Chase Winovich,WinoCh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0.5,4,3,1,25.0%,202009200sea
+Shilique Calhoun,CalhSh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,1,0,0.0%,202009200sea
+Derek Rivers,RiveDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,202009200sea
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202009200sea
+Devin McCourty,McCoDe99,defense,NWE,1,1,0,0.0%,NA,NA,0,NA,0,5,NA,NA,1,0,0,0,0,1,0,0.0%,202009200sea
+Jamal Adams,AdamJa00,defense,SEA,0,8,7,87.5%,156,22.3,19.5,0,118.7,14.8,114,42,10,2,1,1,4,9,1,10.0%,202009200sea
+Ugo Amadi,AmadUg00,defense,SEA,0,8,7,87.5%,34,4.9,4.3,0,84.4,3.8,17,17,3,0,0,0,0,8,2,20.0%,202009200sea
+Quinton Dunbar,DunbQu00,defense,SEA,1,10,6,60.0%,85,14.2,8.5,0,47.9,11.6,74,11,0,0,0,0,0,5,0,0.0%,202009200sea
+Bobby Wagner,WagnBo00,defense,SEA,0,4,3,75.0%,40,13.3,10,0,106.2,4.3,17,23,1,0,1,0,1,10,0,0.0%,202009200sea
+Shaquill Griffin,GrifSh00,defense,SEA,0,5,3,60.0%,43,14.3,8.6,0,87.9,11.2,39,4,1,0,0,0,0,3,0,0.0%,202009200sea
+Lano Hill,HillDe02,defense,SEA,0,2,2,100.0%,33,16.5,16.5,0,118.7,13.5,27,6,1,0,0,0,0,5,0,0.0%,202009200sea
+Benson Mayowa,MayoBe00,defense,SEA,0,2,1,50.0%,18,18,9,0,81.2,-3,-3,21,0,1,0,0,1,2,1,33.3%,202009200sea
+Quandre Diggs,DiggQu00,defense,SEA,0,1,1,100.0%,13,13,13,0,118.7,12,12,1,0,0,0,0,0,1,0,0.0%,202009200sea
+K.J. Wright,WrigK.00,defense,SEA,0,3,1,33.3%,3,3,1,0,42.4,1.3,-1,4,2,0,0,0,0,4,0,0.0%,202009200sea
+L.J. Collier,CollLJ00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,1,0,0.0%,202009200sea
+Bruce Irvin,IrviBr00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,1,0,1,2,0,0.0%,202009200sea
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202009200sea
+Damontre Moore,MoorDa01,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,-4,NA,NA,0,0,1,0,1,0,0,NA,202009200sea

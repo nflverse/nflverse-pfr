@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Bryce Callahan,CallBr00,defense,CHI,0,6,6,100.0%,62,10.3,10.3,0,109.7,6,36,26,0,0,0,0,0,8,0,0.0%,201809090gnb
+Prince Amukamara,AmukPr00,defense,CHI,0,5,3,60.0%,69,23,13.8,1,143.7,14.4,24,45,0,0,0,0,0,5,0,0.0%,201809090gnb
+Nick Kwiatkoski,KwiaNi00,defense,CHI,0,4,3,75.0%,41,13.7,10.3,0,107.3,3.5,14,27,0,0,0,0,0,4,0,0.0%,201809090gnb
+Kyle Fuller,FullKy00,defense,CHI,0,10,3,30.0%,68,22.7,6.8,1,88.7,16.3,57,11,0,0,0,0,0,2,0,0.0%,201809090gnb
+Danny Trevathan,TrevDa00,defense,CHI,0,5,2,40.0%,21,10.5,4.2,0,52.9,9.4,6,15,5,0,0,0,0,7,1,12.5%,201809090gnb
+Adrian Amos,AmosAd00,defense,CHI,0,3,2,66.7%,3,1.5,1,0,70.1,7.3,1,2,0,0,0,0,0,6,0,0.0%,201809090gnb
+Eddie Jackson,JackEd01,defense,CHI,0,2,2,100.0%,76,38,38,1,158.3,5,10,66,0,0,0,0,0,2,0,0.0%,201809090gnb
+Khalil Mack,MackKh00,defense,CHI,1,1,0,0.0%,NA,NA,0,NA,0,-3,NA,NA,9,4,0,1,5,3,0,0.0%,201809090gnb
+Roy Robertson-Harris,RobeRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,1,0,0.0%,201809090gnb
+Akiem Hicks,HickAk00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201809090gnb
+Aaron Lynch,LyncAa00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,1,0,1,0,0,NA,201809090gnb
+Roquan Smith,SmitRo07,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,1,1,3,0,0.0%,201809090gnb
+Blake Martinez,MartBl01,defense,GNB,0,8,6,75.0%,31,5.2,3.9,0,80.7,3.1,-2,33,3,0,0,0,0,6,1,14.3%,201809090gnb
+Kentrell Brice,BricKe00,defense,GNB,0,6,5,83.3%,35,7,5.8,0,91,5.7,30,5,0,0,0,1,1,9,2,18.2%,201809090gnb
+Tramon Williams,WillTr99,defense,GNB,0,5,3,60.0%,14,4.7,2.8,0,64.6,3,4,10,0,0,0,0,0,6,1,14.3%,201809090gnb
+Kevin King,KingKe01,defense,GNB,0,6,3,50.0%,33,11,5.5,0,66.7,11.5,21,12,0,0,0,0,0,2,2,50.0%,201809090gnb
+Jaire Alexander,AlexJa00,defense,GNB,0,3,2,66.7%,33,16.5,11,0,103.5,9.7,30,3,3,0,0,0,0,3,0,0.0%,201809090gnb
+Ha Ha Clinton-Dix,ClinHa00,defense,GNB,0,2,2,100.0%,7,3.5,3.5,0,81.2,-2,-4,11,1,0,0,0,0,7,0,0.0%,201809090gnb
+Josh Jackson,JackJo01,defense,GNB,0,3,1,33.3%,13,13,4.3,0,47.9,7.7,13,0,2,1,0,0,1,3,1,25.0%,201809090gnb
+Mike Daniels,DaniMi00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,3,0,0.0%,201809090gnb
+Nick Perry,PerrNi00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,2,0,1,3,5,0,0.0%,201809090gnb
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,201809090gnb
+Reggie Gilbert,GilbRe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,0,0,1,2,1,33.3%,201809090gnb
+Muhammad Wilkerson,WilkMu00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201809090gnb
+Clay Matthews,MattCl99,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,0,0,0,1,1,50.0%,201809090gnb
+Antonio Morrison,MorrAn01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,1,25.0%,201809090gnb
+Jermaine Whitehead,WhitJe02,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,28,NA,NA,4,0,0,0,0,3,0,0.0%,201809090gnb

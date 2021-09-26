@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Patrick Laird,LairPa00,rushing,MIA,12,46,3,29,2.4,17,1.4,0,NA,201912150nyg
+Myles Gaskin,GaskMy00,rushing,MIA,9,43,2,-3,-0.3,46,5.1,0,NA,201912150nyg
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,4,33,2,29,7.3,4,1,0,NA,201912150nyg
+Saquon Barkley,BarkSa00,rushing,NYG,24,112,7,41,1.7,71,3,1,24,201912150nyg
+Javorius Allen,AlleJa01,rushing,NYG,8,28,2,-5,-0.6,33,4.1,0,NA,201912150nyg
+Elijhaa Penny,PennEl00,rushing,NYG,1,-2,NA,-2,-2,0,0,0,NA,201912150nyg

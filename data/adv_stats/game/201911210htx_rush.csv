@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jonathan Williams,WillJo07,rushing,IND,26,104,6,48,1.8,56,2.2,2,13,201911210htx
+Nyheim Hines,HineNy00,rushing,IND,9,51,3,39,4.3,12,1.3,0,NA,201911210htx
+Jacoby Brissett,BrisJa00,rushing,IND,4,20,1,17,4.3,3,0.8,0,NA,201911210htx
+Carlos Hyde,HydeCa00,rushing,HOU,16,67,3,29,1.8,38,2.4,0,NA,201911210htx
+Duke Johnson,JohnDu00,rushing,HOU,5,22,2,20,4,2,0.4,0,NA,201911210htx
+Deshaun Watson,WatsDe00,rushing,HOU,3,10,0,8,2.7,2,0.7,0,NA,201911210htx

@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Diontae Johnson,JohnDi01,receiving,PIT,6,3,29,0,2,25,8.3,4,1.3,7.7,0,NA,0,0,0,63.9,201911240cin
+Jaylen Samuels,SamuJa00,receiving,PIT,3,3,26,0,1,2,0.7,24,8,0.7,0,NA,0,0,0,102.8,201911240cin
+James Washington,WashJa00,receiving,PIT,7,3,98,1,2,31,10.3,67,22.3,19.4,1,3,0,0,0,129.5,201911240cin
+Deon Cain,CainDe00,receiving,PIT,1,1,35,0,1,34,34,1,1,34,0,NA,0,0,0,118.7,201911240cin
+Tevin Jones,JoneTe02,receiving,PIT,3,1,9,0,NA,-1,-1,10,10,4.3,0,NA,0,0,1,2.8,201911240cin
+Vance McDonald,McDoVa00,receiving,PIT,1,1,1,0,NA,0,0,1,1,0,0,NA,0,0,0,79.2,201911240cin
+Benny Snell Jr.,SnelBe00,receiving,PIT,1,1,5,0,0,5,5,0,0,5,0,NA,0,0,0,87.5,201911240cin
+Tyler Boyd,BoydTy00,receiving,CIN,9,5,101,1,3,87,17.4,14,2.8,14.2,0,NA,1,11.1,0,132.2,201911240cin
+Giovani Bernard,BernGi00,receiving,CIN,3,3,31,0,NA,8,2.7,23,7.7,2.7,0,NA,0,0,0,109.7,201911240cin
+Alex Erickson,EricAl01,receiving,CIN,8,2,43,0,1,19,9.5,24,12,11.4,0,NA,0,0,0,49.5,201911240cin
+Tyler Eifert,EifeTy00,receiving,CIN,1,1,7,0,NA,6,6,1,1,6,0,NA,0,0,0,95.8,201911240cin
+Auden Tate,TateAu00,receiving,CIN,3,1,10,0,1,7,7,3,3,14.7,0,NA,0,0,0,43.7,201911240cin
+C.J. Uzomah,UzomC.00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,201911240cin

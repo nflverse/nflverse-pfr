@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Tevin Coleman,ColeTe01,rushing,NYJ,9,24,2,9,1,15,1.7,0,NA,202109120car
+Michael Carter,CartMi03,rushing,NYJ,4,6,1,2,0.5,4,1,0,NA,202109120car
+Ty Johnson,JohnTy02,rushing,NYJ,4,15,1,10,2.5,5,1.3,1,4,202109120car
+Christian McCaffrey,McCaCh01,rushing,CAR,21,98,2,59,2.8,39,1.9,0,NA,202109120car
+Sam Darnold,DarnSa00,rushing,CAR,5,-1,1,-1,-0.2,0,0,0,NA,202109120car
+D.J. Moore,MoorD.00,rushing,CAR,1,14,1,12,12,2,2,0,NA,202109120car

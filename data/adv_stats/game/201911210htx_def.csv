@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Marvell Tell III,TellMa00,defense,IND,0,10,4,40.0%,80,20,8,0,68.7,15,72,8,1,0,0,0,0,4,0,0.0%,201911210htx
+Pierre Desir,DesiPi00,defense,IND,0,4,3,75.0%,51,17,12.8,1,156.2,15.5,42,9,0,0,0,0,0,1,0,0.0%,201911210htx
+Clayton Geathers,GeatCl00,defense,IND,0,3,3,100.0%,53,17.7,17.7,1,158.3,12,36,17,0,0,0,0,0,1,0,0.0%,201911210htx
+Kenny Moore,MoorKe03,defense,IND,1,2,2,100.0%,62,31,31,0,79.2,29,58,4,3,0,1,0,1,8,0,0.0%,201911210htx
+Bobby Okereke,OkerBo00,defense,IND,0,3,2,66.7%,7,3.5,2.3,0,70.1,5.3,1,6,0,0,0,0,0,3,1,25.0%,201911210htx
+Anthony Walker,WalkAn01,defense,IND,0,2,2,100.0%,24,12,12,0,116.7,7,14,10,2,0,0,0,0,8,1,11.1%,201911210htx
+Darius Leonard,LeonDa00,defense,IND,0,1,1,100.0%,5,5,5,0,87.5,5,5,0,5,2,0,0,2,6,0,0.0%,201911210htx
+George Odum,OdumGe00,defense,IND,0,2,1,50.0%,8,8,4,0,60.4,10.5,4,4,0,0,0,0,0,1,0,0.0%,201911210htx
+Jabaal Sheard,SheaJa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,1,2,66.7%,201911210htx
+Denico Autry,AutrDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,0,0.0%,201911210htx
+Ben Banogu,BanoBe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201911210htx
+Vernon Hargreaves III,HargVe00,defense,HOU,0,6,5,83.3%,36,7.2,6,0,91.7,2.3,0,36,1,0,0,0,0,5,2,28.6%,201911210htx
+Johnathan Joseph,JoseJo20,defense,HOU,0,6,3,50.0%,31,10.3,5.2,0,65.3,13.2,11,20,0,0,0,0,0,3,1,25.0%,201911210htx
+Zach Cunningham,CunnZa00,defense,HOU,0,3,3,100.0%,23,7.7,7.7,0,98.6,2,6,17,0,0,0,0,0,16,2,11.1%,201911210htx
+Jahleel Addae,AddaJa00,defense,HOU,0,3,2,66.7%,19,9.5,6.3,0,84,5.7,18,1,0,0,0,0,0,8,0,0.0%,201911210htx
+Whitney Mercilus,MercWh00,defense,HOU,0,1,1,100.0%,4,4,4,0,83.3,-6,-6,10,1,0,1,0,1,4,1,20.0%,201911210htx
+Benardrick McKinney,McKiBe00,defense,HOU,0,2,1,50.0%,7,7,3.5,0,58.3,4,5,2,0,0,0,0,0,11,0,0.0%,201911210htx
+Gareon Conley,ConlGa00,defense,HOU,0,1,1,100.0%,9,9,9,0,104.2,7,7,2,0,0,0,0,0,2,0,0.0%,201911210htx
+Brennan Scarlett,ScarBr00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,6,1,14.3%,201911210htx
+D.J. Reader,ReadD.00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201911210htx
+Jacob Martin,MartJa02,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,1,1,1,0,0.0%,201911210htx
+Tashaun Gipson,GipsTa00,defense,HOU,0,2,0,0.0%,NA,NA,0,NA,39.6,26.5,NA,NA,0,0,0,0,0,3,0,0.0%,201911210htx

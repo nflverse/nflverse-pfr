@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Diontae Johnson,JohnDi01,receiving,PIT,16,12,111,0,4,78,6.5,33,2.8,6.4,0,NA,0,0,0,93.5,202011220jax
+Chase Claypool,ClayCh01,receiving,PIT,8,4,59,1,3,52,13,7,1.8,17.5,0,NA,1,12.5,0,114.1,202011220jax
+Eric Ebron,EbroEr00,receiving,PIT,7,4,36,1,2,22,5.5,14,3.5,7.7,0,NA,0,0,0,110.7,202011220jax
+Ray-Ray McCloud,McClRa00,receiving,PIT,4,4,20,0,1,-3,-0.8,23,5.8,-0.8,0,NA,0,0,0,87.5,202011220jax
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,5,4,19,0,NA,3,0.8,16,4,4.6,0,NA,0,0,0,82.5,202011220jax
+James Conner,ConnJa00,receiving,PIT,3,3,10,0,1,-8,-2.7,18,6,-2.7,0,NA,0,0,0,80.6,202011220jax
+James Washington,WashJa00,receiving,PIT,3,1,12,0,1,12,12,0,0,21.3,0,NA,0,0,1,6.9,202011220jax
+DJ Chark,CharDJ00,receiving,JAX,8,4,41,0,2,20,5,21,5.3,11.3,0,NA,0,0,1,25.5,202011220jax
+Devine Ozigbo,OzigDe01,receiving,JAX,3,3,5,0,NA,1,0.3,4,1.3,0.3,0,NA,0,0,0,79.2,202011220jax
+Keelan Cole,ColeKe00,receiving,JAX,5,2,26,0,1,23,11.5,3,1.5,10.2,0,NA,0,0,0,57.1,202011220jax
+Tyler Eifert,EifeTy00,receiving,JAX,5,2,32,0,2,31,15.5,1,0.5,15.4,0,NA,0,0,2,22.5,202011220jax
+James Robinson,RobiJa00,receiving,JAX,2,2,21,0,1,8,4,13,6.5,4,0,NA,0,0,0,110.4,202011220jax
+Chris Conley,ConlCh00,receiving,JAX,4,1,13,0,1,-1,-1,14,14,10.5,0,NA,1,25,0,40.6,202011220jax
+Ben Ellefson,ElleBe00,receiving,JAX,3,1,10,0,1,7,7,3,3,11,0,NA,0,0,1,4.2,202011220jax
+Eric Saubert,SaubEr00,receiving,JAX,1,1,3,0,NA,3,3,0,0,3,0,NA,0,0,0,79.2,202011220jax
+Dare Ogunbowale,OgunDa00,receiving,JAX,2,0,0,0,NA,0,NA,0,NA,1.5,0,NA,0,0,0,39.6,202011220jax

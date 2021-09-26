@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Lockett,LockTy00,receiving,SEA,20,15,200,3,11,163,10.9,37,2.5,11.7,1,15,2,10,1,125,202010250crd
+David Moore,MoorDa03,receiving,SEA,3,3,54,0,3,32,10.7,22,7.3,10.7,0,NA,0,0,0,118.7,202010250crd
+Jacob Hollister,HollJa03,receiving,SEA,3,3,22,0,1,10,3.3,12,4,3.3,0,NA,0,0,0,97.2,202010250crd
+Carlos Hyde,HydeCa00,receiving,SEA,4,3,8,0,0,-4,-1.3,12,4,1,0,NA,0,0,0,77.1,202010250crd
+DeeJay Dallas,DallDe00,receiving,SEA,3,2,18,0,NA,4,2,14,7,3,0,NA,0,0,0,82.6,202010250crd
+Greg Olsen,OlseGr00,receiving,SEA,3,2,18,0,2,14,7,4,2,12.3,0,NA,0,0,0,82.6,202010250crd
+Will Dissly,DissWi00,receiving,SEA,4,2,38,0,2,9,4.5,29,14.5,5.8,0,NA,0,0,0,83.3,202010250crd
+D.K. Metcalf,MetcDK00,receiving,SEA,5,2,23,0,1,2,1,21,10.5,15,0,NA,0,0,1,15,202010250crd
+Chris Carson,CarsCh00,receiving,SEA,2,1,7,0,1,0,0,7,7,0.5,0,NA,0,0,1,18.7,202010250crd
+Freddie Swain,SwaiFr00,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,0,39.6,202010250crd
+DeAndre Hopkins,HopkDe00,receiving,ARI,12,10,103,1,5,82,8.2,21,2.1,13.4,0,NA,0,0,0,130.2,202010250crd
+Larry Fitzgerald,FitzLa00,receiving,ARI,8,8,62,0,2,37,4.6,25,3.1,4.6,0,NA,0,0,0,99,202010250crd
+Chase Edmonds,EdmoCh00,receiving,ARI,7,7,87,0,5,8,1.1,79,11.3,1.1,3,2.3,0,0,0,118.5,202010250crd
+Christian Kirk,KirkCh01,receiving,ARI,8,5,37,2,3,24,4.8,13,2.6,8.6,1,5,0,0,0,113,202010250crd
+Dan Arnold,ArnoDa00,receiving,ARI,3,2,57,0,2,24,12,33,16.5,19,0,NA,0,0,0,109.7,202010250crd
+Andy Isabella,IsabAn00,receiving,ARI,3,1,7,0,NA,7,7,0,0,13.7,0,NA,1,33.3,1,2.8,202010250crd
+Kenyan Drake,DrakKe00,receiving,ARI,2,1,7,0,0,3,3,4,4,-0.5,0,NA,1,50,0,58.3,202010250crd
+Darrell Daniels,DaniDa02,receiving,ARI,1,0,0,0,NA,0,NA,0,NA,15,0,NA,1,100,0,39.6,202010250crd

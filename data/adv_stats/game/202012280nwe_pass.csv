@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Josh Allen,AlleJo02,passing,BUF,27,36,320,17,47.2,359,10,183,6.8,5.1,137,5.1,2,5.9%,5,14.7%,0,10,5,0,5,13.5%,1,11,202012280nwe
+Matt Barkley,BarkMa00,passing,BUF,2,3,11,1,33.3,28,9.3,9,4.5,3,2,1,0,0.0%,1,33.3%,0,0,0,0,0,0.0%,0,NA,202012280nwe
+Jaquan Johnson,JohnJa11,passing,BUF,1,1,13,1,100,10,10,10,10,10,3,3,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202012280nwe
+Jarrett Stidham,StidJa00,passing,NWE,4,11,44,2,16.7,86,7.8,13,3.3,1.2,31,7.8,0,0.0%,3,37.5%,1,5,4,2,7,58.3%,0,NA,202012280nwe
+Cam Newton,NewtCa00,passing,NWE,5,10,34,1,8.3,90,9,19,3.8,1.9,15,3,2,20.0%,3,30.0%,2,6,1,0,3,21.4%,2,8,202012280nwe

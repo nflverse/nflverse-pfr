@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Keelan Cole,ColeKe00,receiving,JAX,7,6,58,1,4,41,6.8,17,2.8,5,0,NA,0,0,1,101.2,202009200oti
+DJ Chark,CharDJ00,receiving,JAX,4,4,84,0,4,71,17.8,13,3.3,17.8,0,NA,0,0,0,118.7,202009200oti
+Chris Conley,ConlCh00,receiving,JAX,7,4,48,0,3,23,5.8,25,6.3,8.3,0,NA,0,0,0,78.3,202009200oti
+James O'Shaughnessy,O'ShJa00,receiving,JAX,4,4,40,0,3,35,8.8,5,1.3,8.8,0,NA,0,0,0,108.3,202009200oti
+Tyler Eifert,EifeTy00,receiving,JAX,6,3,36,1,2,32,10.7,4,1.3,14.7,0,NA,0,0,0,108.3,202009200oti
+James Robinson,RobiJa00,receiving,JAX,4,3,18,0,0,-6,-2,24,8,-1.5,0,NA,1,25,0,83.3,202009200oti
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,4,3,35,0,3,32,10.7,3,1,11,0,NA,0,0,0,101,202009200oti
+Chris Thompson,ThomCh03,receiving,JAX,4,3,20,1,1,15,5,5,1.7,4.8,0,NA,0,0,0,125,202009200oti
+Collin Johnson,JohnCo01,receiving,JAX,3,0,0,0,NA,0,NA,0,NA,11.3,0,NA,0,0,1,0,202009200oti
+Bruce Miller,MillBr02,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,-2,0,NA,1,100,0,39.6,202009200oti
+Adam Humphries,HumpAd00,receiving,TEN,6,5,48,1,2,32,6.4,16,3.2,8.5,0,NA,0,0,0,139.6,202009200oti
+Anthony Firkser,FirkAn00,receiving,TEN,4,4,45,0,3,41,10.3,4,1,10.3,0,NA,0,0,0,113.5,202009200oti
+Jonnu Smith,SmitJo01,receiving,TEN,5,4,84,2,3,32,8,52,13,6.6,0,NA,0,0,0,158.3,202009200oti
+Corey Davis,DaviCo03,receiving,TEN,5,3,36,1,3,21,7,15,5,8.4,0,NA,0,0,0,121.7,202009200oti
+Cameron Batson,BatsCa00,receiving,TEN,2,2,26,0,1,24,12,2,1,12,0,NA,0,0,0,118.7,202009200oti
+Derrick Henry,HenrDe00,receiving,TEN,2,0,0,0,0,0,NA,0,NA,0,0,NA,1,50,0,39.6,202009200oti

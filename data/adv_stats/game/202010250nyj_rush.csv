@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Allen,AlleJo02,rushing,BUF,11,61,6,51,4.6,10,0.9,0,NA,202010250nyj
+Devin Singletary,SingDe00,rushing,BUF,8,29,2,15,1.9,14,1.8,0,NA,202010250nyj
+Zack Moss,MossZa00,rushing,BUF,7,47,1,30,4.3,17,2.4,0,NA,202010250nyj
+Isaiah McKenzie,McKeIs00,rushing,BUF,1,-11,0,-11,-11,0,0,0,NA,202010250nyj
+Frank Gore,GoreFr00,rushing,NYJ,11,60,3,30,2.7,30,2.7,2,5.5,202010250nyj
+La'Mical Perine,PeriLa00,rushing,NYJ,11,40,6,22,2,18,1.6,0,NA,202010250nyj

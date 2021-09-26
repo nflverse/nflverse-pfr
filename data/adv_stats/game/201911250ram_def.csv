@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Marlon Humphrey,HumpMa00,defense,BAL,0,11,8,72.7%,42,5.3,3.8,0,78.6,8.3,17,25,3,0,0,0,0,5,0,0.0%,201911250ram
+Brandon Carr,CarrBr99,defense,BAL,0,6,4,66.7%,47,11.8,7.8,0,90.3,14.8,46,1,4,0,1,0,1,4,0,0.0%,201911250ram
+Marcus Peters,PeteMa00,defense,BAL,1,5,4,80.0%,35,8.8,7,0,56.2,15.2,31,4,1,0,0,0,0,8,0,0.0%,201911250ram
+Chuck Clark,ClarCh00,defense,BAL,0,2,2,100.0%,9,4.5,4.5,0,85.4,1,2,7,14,1,0,0,1,4,0,0.0%,201911250ram
+Jimmy Smith,SmitJi03,defense,BAL,1,6,2,33.3%,31,15.5,5.2,0,11.8,11.3,30,1,1,0,0,1,1,3,0,0.0%,201911250ram
+Matt Judon,JudoMa00,defense,BAL,0,1,1,100.0%,7,7,7,0,95.8,0,0,7,7,0,1,1,2,2,0,0.0%,201911250ram
+Jihad Ward,WardJi02,defense,BAL,0,1,1,100.0%,38,38,38,0,118.7,7,7,31,0,0,1,0,1,0,0,NA,201911250ram
+Josh Bynes,ByneJo00,defense,BAL,0,1,1,100.0%,-7,-7,-7,0,79.2,-7,-7,0,1,0,0,0,0,3,0,0.0%,201911250ram
+Jaylon Ferguson,FergJa02,defense,BAL,0,1,1,100.0%,0,0,0,0,79.2,-3,-3,3,3,0,0,0,0,5,0,0.0%,201911250ram
+Tyus Bowser,BowsTy00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,2,0,2,1,0,0.0%,201911250ram
+Patrick Onwuasor,OnwuPa00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,1,33.3%,201911250ram
+Earl Thomas,ThomEa99,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0,0,1,0,0.0%,201911250ram
+Anthony Levine,LeviAn00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,201911250ram
+Cory Littleton,LittCo01,defense,LAR,0,3,3,100.0%,28,9.3,9.3,1,145.1,2.7,8,20,3,0,0,0,0,12,0,0.0%,201911250ram
+Marqui Christian,ChriMa00,defense,LAR,0,5,3,60.0%,21,7,4.2,2,109.2,4.6,14,7,2,0,0,0,0,1,3,75.0%,201911250ram
+Jalen Ramsey,RamsJa00,defense,LAR,0,4,3,75.0%,27,9,6.8,0,92.7,8.3,25,2,0,0,0,0,0,6,0,0.0%,201911250ram
+Troy Hill,HillTr01,defense,LAR,0,4,3,75.0%,55,18.3,13.8,1,156.2,15.3,54,1,0,0,0,0,0,7,0,0.0%,201911250ram
+Samson Ebukam,EbukSa00,defense,LAR,0,1,1,100.0%,8,8,8,0,100,6,6,2,7,0,1,1.5,3,7,0,0.0%,201911250ram
+Taylor Rapp,RappTa00,defense,LAR,0,2,1,50.0%,18,18,9,1,120.8,13,18,0,4,0,1,0,1,10,0,0.0%,201911250ram
+Greg Gaines,GainGr00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,4,0,0.0%,201911250ram
+Michael Brockers,BrocMi00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,9,1,10.0%,201911250ram
+Dante Fowler,FowlDa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,1,20.0%,201911250ram
+Aaron Donald,DonaAa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201911250ram
+Sebastian Joseph,JoseSe00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201911250ram
+Eric Weddle,WeddEr99,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,16,NA,NA,0,0,0,0,0,9,1,10.0%,201911250ram
+Clay Matthews,MattCl99,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,2,0,0.0%,201911250ram

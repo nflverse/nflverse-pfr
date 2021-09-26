@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Tua Tagovailoa,TagoTu00,passing,MIA,17,22,94,4,16,88,4,38,2.2,1.7,56,3.3,0,0.0%,3,13.6%,3,13,2,1,6,22.2%,2,6,202012260rai
+Ryan Fitzpatrick,FitzRy00,passing,MIA,9,13,182,6,46.2,145,11.2,100,11.1,7.7,82,9.1,1,8.3%,2,16.7%,0,4,0,2,2,15.4%,0,NA,202012260rai
+Derek Carr,CarrDe02,passing,LVR,21,34,336,15,40.5,318,9.4,187,8.9,5.5,149,7.1,0,0.0%,6,20.0%,3,16,5,1,9,24.3%,0,NA,202012260rai

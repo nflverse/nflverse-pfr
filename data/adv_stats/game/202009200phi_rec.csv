@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Higbee,HigbTy00,receiving,LAR,5,5,54,3,4,44,8.8,10,2,8.8,0,NA,0,0,0,151.2,202009200phi
+Cooper Kupp,KuppCo00,receiving,LAR,6,5,81,0,5,26,5.2,55,11,4.3,1,5,0,0,0,118.7,202009200phi
+Van Jefferson,JeffVa00,receiving,LAR,5,4,45,0,2,38,9.5,7,1.8,9.2,1,4,0,0,0,104.2,202009200phi
+Darrell Henderson,HendDa00,receiving,LAR,3,2,40,0,2,17,8.5,23,11.5,9.7,0,NA,0,0,0,109.7,202009200phi
+Josh Reynolds,ReynJo00,receiving,LAR,2,2,33,0,2,21,10.5,12,6,10.5,0,NA,0,0,0,118.7,202009200phi
+Robert Woods,WoodRo02,receiving,LAR,5,2,14,0,2,12,6,2,1,12,0,NA,0,0,0,47.9,202009200phi
+DeSean Jackson,JackDe00,receiving,PHI,9,6,64,0,4,55,9.2,9,1.5,7.6,0,NA,2,22.2,0,87.3,202009200phi
+Zach Ertz,ErtzZa00,receiving,PHI,7,5,42,0,2,34,6.8,8,1.6,8.3,0,NA,0,0,0,86.6,202009200phi
+Dallas Goedert,GoedDa00,receiving,PHI,8,4,30,0,2,20,5,10,2.5,8,0,NA,0,0,0,59.4,202009200phi
+Jalen Reagor,ReagJa00,receiving,PHI,4,4,41,0,2,15,3.8,26,6.5,3.8,0,NA,0,0,0,109.4,202009200phi
+Miles Sanders,SandMi01,receiving,PHI,7,3,36,0,2,7,2.3,29,9.7,3.6,0,NA,1,14.3,1,19.6,202009200phi
+Boston Scott,ScotBo02,receiving,PHI,3,3,24,0,1,-4,-1.3,28,9.3,-1.3,0,NA,0,0,0,100,202009200phi
+Greg Ward,WardGr02,receiving,PHI,1,1,5,0,NA,4,4,1,1,4,0,NA,0,0,0,87.5,202009200phi
+JJ Arcega-Whiteside,ArceJJ00,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,13,0,NA,1,50,1,0,202009200phi

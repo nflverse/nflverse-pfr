@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Ryan Fitzpatrick,FitzRy00,passing,TAM,13,21,167,8,36.4,162,7.7,89,6.8,4.2,78,6,0,0.0%,5,25.0%,1,5,5,3,9,36.0%,3,4.7,201811180nyg
+Jameis Winston,WinsJa00,passing,TAM,12,16,199,10,62.5,217,13.6,143,11.9,8.9,56,4.7,0,0.0%,1,6.3%,0,1,1,1,2,10.0%,4,3.3,201811180nyg
+Eli Manning,MannEl00,passing,NYG,17,18,231,10,45.5,138,7.7,116,6.8,6.4,115,6.8,0,0.0%,1,5.6%,4,4,2,1,7,31.8%,0,NA,201811180nyg

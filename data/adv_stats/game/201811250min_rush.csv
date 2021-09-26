@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,17,72,5,39,2.3,33,1.9,1,17,201811250min
+Equanimeous St. Brown,St.BEq00,rushing,GNB,1,5,0,1,1,4,4,0,NA,201811250min
+Jamaal Williams,WillJa06,rushing,GNB,1,5,NA,1,1,4,4,0,NA,201811250min
+Latavius Murray,MurrLa00,rushing,MIN,11,33,2,16,1.5,17,1.5,0,NA,201811250min
+Dalvin Cook,CookDa01,rushing,MIN,10,29,0,10,1,19,1.9,1,10,201811250min
+Kirk Cousins,CousKi00,rushing,MIN,6,17,1,15,2.5,2,0.3,0,NA,201811250min
+Stefon Diggs,DiggSt00,rushing,MIN,1,12,1,10,10,2,2,0,NA,201811250min
+C.J. Ham,HamxC.00,rushing,MIN,1,0,0,0,0,0,0,0,NA,201811250min

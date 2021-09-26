@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jeff Wilson,WilsJe01,rushing,SFO,15,61,4,33,2.2,28,1.9,0,NA,201812020sea
+Matt Breida,BreiMa00,rushing,SFO,5,6,0,3,0.6,3,0.6,0,NA,201812020sea
+Nick Mullens,MullNi00,rushing,SFO,2,1,0,1,0.5,0,0,0,NA,201812020sea
+Dante Pettis,PettDa00,rushing,SFO,1,-2,0,-2,-2,0,0,0,NA,201812020sea
+Chris Carson,CarsCh00,rushing,SEA,13,69,4,33,2.5,36,2.8,1,13,201812020sea
+Rashaad Penny,PennRa00,rushing,SEA,7,65,3,43,6.1,22,3.1,1,7,201812020sea
+Mike Davis,DaviMi01,rushing,SEA,4,10,NA,1,0.3,9,2.3,0,NA,201812020sea
+Russell Wilson,WilsRu00,rushing,SEA,4,14,0,12,3,2,0.5,0,NA,201812020sea
+Tyler Lockett,LockTy00,rushing,SEA,1,10,1,10,10,0,0,0,NA,201812020sea

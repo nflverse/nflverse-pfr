@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Patrick Mahomes,MahoPa00,passing,KAN,26,40,283,13,31.7,219,5.5,102,3.9,2.6,181,7,2,5.3%,8,21.1%,1,6,2,5,8,18.2%,3,3,201912080nwe
+Tom Brady,BradTo00,passing,NWE,19,36,169,7,17.9,249,6.9,88,4.6,2.4,81,4.3,3,9.1%,9,27.3%,3,17,6,3,12,30.0%,1,17,201912080nwe
+James White,WhitJa02,passing,NWE,1,1,35,1,100,8,8,8,8,8,27,27,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201912080nwe

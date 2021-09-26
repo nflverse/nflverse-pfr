@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Tom Brady,BradTo00,passing,NWE,29,45,324,15,31.9,343,7.6,192,6.6,4.3,132,4.6,1,2.4%,8,19.5%,2,1,13,2,17,35.4%,1,8,201810290buf
+Derek Anderson,AndeDe00,passing,BUF,22,39,290,13,31,410,10.5,167,7.6,4.3,123,5.6,2,5.3%,8,21.1%,3,16,13,3,19,45.2%,0,NA,201810290buf
+Nathan Peterman,PeteNa00,passing,BUF,2,2,23,NA,NA,5,2.5,5,2.5,2.5,18,9,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201810290buf

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+DeAndre Washington,WashDe00,rushing,OAK,17,77,3,30,1.8,47,2.8,1,17,201912290den
+Jalen Richard,RichJa01,rushing,OAK,3,20,0,17,5.7,3,1,0,NA,201912290den
+Derek Carr,CarrDe02,rushing,OAK,1,0,0,0,0,0,0,0,NA,201912290den
+Alec Ingold,IngoAl01,rushing,OAK,1,0,NA,0,0,0,0,0,NA,201912290den
+Phillip Lindsay,LindPh00,rushing,DEN,18,53,NA,18,1,35,1.9,6,3,201912290den
+Drew Lock,LockDr00,rushing,DEN,6,29,1,23,3.8,6,1,1,6,201912290den
+Royce Freeman,FreeRo00,rushing,DEN,2,-4,NA,-4,-2,0,0,0,NA,201912290den
+Diontae Spencer,SpenDi00,rushing,DEN,1,-8,NA,-8,-8,0,0,0,NA,201912290den

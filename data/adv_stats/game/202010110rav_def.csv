@@ -1,0 +1,34 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+LeShaun Sims,SimsLe00,defense,CIN,0,9,6,66.7%,75,12.5,8.3,1,129.4,8.4,31,44,0,0,0,0,0,2,2,50.0%,202010110rav
+Vonn Bell,BellVo00,defense,CIN,0,6,4,66.7%,30,7.5,5,1,118.1,12.2,26,4,0,0,0,0,0,6,0,0.0%,202010110rav
+Akeem Davis-Gaither,DaviAk01,defense,CIN,0,3,2,66.7%,14,7,4.7,0,77.1,7.3,12,2,1,0,0,0,0,4,2,33.3%,202010110rav
+Germaine Pratt,PratGe00,defense,CIN,0,3,2,66.7%,16,8,5.3,0,79.9,6.3,6,10,2,0,0,0,0,6,0,0.0%,202010110rav
+Logan Wilson,WilsLo00,defense,CIN,1,1,1,100.0%,14,14,14,0,79.2,11,11,3,6,0,1,0,1,1,0,0.0%,202010110rav
+Jessie Bates III,BateJe00,defense,CIN,0,5,1,20.0%,5,5,1,0,39.6,8.8,4,1,0,0,0,0,0,7,0,0.0%,202010110rav
+Josh Bynes,ByneJo00,defense,CIN,0,2,1,50.0%,9,9,4.5,0,62.5,4,9,0,0,0,0,0,0,8,0,0.0%,202010110rav
+William Jackson III,JackWi02,defense,CIN,0,3,1,33.3%,8,8,2.7,0,42.4,15,-2,10,0,0,0,0,0,2,1,33.3%,202010110rav
+Shawn Williams,WillSh02,defense,CIN,0,1,1,100.0%,9,9,9,0,104.2,-1,-1,10,4,0,0,0,0,2,0,0.0%,202010110rav
+Carl Lawson,LawsCa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,0,3,1,0,0.0%,202010110rav
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,1,0,0.0%,202010110rav
+Darius Phillips,PhilDa02,defense,CIN,0,3,0,0.0%,NA,NA,0,NA,39.6,4.7,NA,NA,7,0,2,0,2,1,2,66.7%,202010110rav
+Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,202010110rav
+Khalid Kareem,KareKh00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202010110rav
+Christian Covington,CoviCh00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202010110rav
+Amani Bledsoe,BledAm01,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202010110rav
+D.J. Reader,ReadD.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202010110rav
+Chuck Clark,ClarCh00,defense,BAL,0,3,3,100.0%,35,11.7,11.7,0,115.3,5.7,17,18,7,0,1,1,2,9,0,0.0%,202010110rav
+Marlon Humphrey,HumpMa00,defense,BAL,0,6,3,50.0%,32,10.7,5.3,0,66,8.5,34,-2,5,0,0,1,1,5,0,0.0%,202010110rav
+Patrick Queen,QueePa00,defense,BAL,0,3,2,66.7%,14,7,4.7,0,77.1,4.3,6,8,7,1,0,1,2,9,0,0.0%,202010110rav
+Marcus Peters,PeteMa00,defense,BAL,1,3,2,66.7%,35,17.5,11.7,0,66.7,13.3,22,13,1,0,0,1,1,4,0,0.0%,202010110rav
+Tyus Bowser,BowsTy00,defense,BAL,0,3,2,66.7%,23,11.5,7.7,0,89.6,2.3,10,13,4,0,1,0,1,4,0,0.0%,202010110rav
+DeShon Elliott,ElliDe02,defense,BAL,0,1,1,100.0%,8,8,8,0,100,8,8,0,7,1,0,1,2,5,1,16.7%,202010110rav
+Jaylon Ferguson,FergJa02,defense,BAL,0,2,1,50.0%,1,1,0.5,0,56.2,-6.5,-13,14,2,1,0,0,1,6,0,0.0%,202010110rav
+Jimmy Smith,SmitJi03,defense,BAL,0,3,1,33.3%,6,6,2,0,42.4,14.7,0,6,0,0,0,1,1,1,1,50.0%,202010110rav
+Malik Harrison,HarrMa06,defense,BAL,0,1,1,100.0%,19,19,19,0,118.7,18,18,1,0,0,0,0,0,3,0,0.0%,202010110rav
+Chris Board,BoarCh00,defense,BAL,0,1,1,100.0%,7,7,7,0,95.8,-3,-3,10,1,0,0,0,0,2,1,33.3%,202010110rav
+L.J. Fort,FortL.00,defense,BAL,0,1,1,100.0%,3,3,3,0,79.2,-1,-1,4,2,0,0,0,0,2,0,0.0%,202010110rav
+Pernell McPhee,McPhPe00,defense,BAL,0,1,0,0.0%,NA,NA,0,NA,39.6,23,NA,NA,4,1,3,1,5,5,1,16.7%,202010110rav
+Matt Judon,JudoMa00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,0,0,1,3,0,0.0%,202010110rav
+Jihad Ward,WardJi02,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,0,0,NA,202010110rav
+Justin Madubuike,MaduJu00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202010110rav
+Calais Campbell,CampCa99,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202010110rav

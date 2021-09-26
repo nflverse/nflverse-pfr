@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Rasul Douglas,DougRa00,defense,PHI,1,15,10,66.7%,89,8.9,5.9,1,76.8,8.4,33,56,0,0,0,0,0,9,0,0.0%,201812090dal
+Sidney Jones,JoneSi00,defense,PHI,0,11,7,63.6%,83,11.9,7.5,1,116.9,11.5,53,30,0,0,0,0,0,4,0,0.0%,201812090dal
+Malcolm Jenkins,JenkMa99,defense,PHI,0,6,6,100.0%,35,5.8,5.8,0,91,2.5,15,20,3,0,0,0,0,10,2,16.7%,201812090dal
+Nigel Bradham,BradNi00,defense,PHI,0,6,6,100.0%,38,6.3,6.3,0,93.1,1.8,11,27,6,0,0,0,0,14,1,6.7%,201812090dal
+De'Vante Bausby,BausDe00,defense,PHI,0,5,5,100.0%,113,22.6,22.6,1,158.3,10,50,63,0,0,0,0,0,4,2,33.3%,201812090dal
+Nathan Gerry,GerrNa00,defense,PHI,0,3,3,100.0%,18,6,6,0,91.7,2,6,12,0,0,0,0,0,6,0,0.0%,201812090dal
+Kamu Grugier-Hill,GrugKa00,defense,PHI,0,4,3,75.0%,29,9.7,7.3,0,94.8,8.5,12,17,0,0,0,0,0,10,0,0.0%,201812090dal
+Corey Graham,GrahCo99,defense,PHI,1,2,2,100.0%,43,21.5,21.5,0,79.2,19.5,39,4,2,0,0,0,0,11,0,0.0%,201812090dal
+Michael Bennett,BennMi99,defense,PHI,0,1,1,100.0%,16,16,16,0,118.7,7,7,9,0,1,4,1.5,7,7,2,22.2%,201812090dal
+Tre Sullivan,SullTr01,defense,PHI,0,1,1,100.0%,6,6,6,0,91.7,3,3,3,0,0,0,0,0,4,0,0.0%,201812090dal
+Cre'von LeBlanc,LeBlCr01,defense,PHI,0,3,1,33.3%,15,15,5,0,50.7,13.3,8,7,2,0,0,0,0,4,0,0.0%,201812090dal
+Fletcher Cox,CoxxFl00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,2,1.5,7,3,0,0.0%,201812090dal
+Brandon Graham,GrahBr99,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,3,0,0.0%,201812090dal
+Treyvon Hester,HestTr00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812090dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,10,9,90.0%,85,9.4,8.5,1,135.4,5.1,27,58,2,0,0,0,0,6,3,33.3%,201812090dal
+Jaylon Smith,SmitJa05,defense,DAL,0,7,6,85.7%,57,9.5,8.1,1,140.2,5.3,39,18,4,0,0,0,0,9,0,0.0%,201812090dal
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,6,3,50.0%,27,9,4.5,0,62.5,10.2,13,14,0,0,0,0,0,4,1,20.0%,201812090dal
+Jeff Heath,HeatJe00,defense,DAL,0,4,3,75.0%,19,6.3,4.8,0,84.4,6.8,13,6,0,0,0,0,0,3,1,25.0%,201812090dal
+Byron Jones,JoneBy00,defense,DAL,0,4,3,75.0%,55,18.3,13.8,1,156.2,16.8,52,3,0,0,0,0,0,2,0,0.0%,201812090dal
+Xavier Woods,WoodXa00,defense,DAL,0,2,2,100.0%,8,4,4,1,122.9,3.5,7,1,0,0,0,0,0,3,0,0.0%,201812090dal
+Anthony Brown,BrowAn02,defense,DAL,0,3,1,33.3%,7,7,2.3,0,42.4,4.3,4,3,1,0,0,0,0,1,0,0.0%,201812090dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,1,5,1,0,0.0%,201812090dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,0,4,4,0,0.0%,201812090dal
+Tyrone Crawford,CrawTy00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,1,0,0.0%,201812090dal
+Maliek Collins,CollMa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201812090dal
+Damien Wilson,WilsDa02,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,3,0,0.0%,201812090dal

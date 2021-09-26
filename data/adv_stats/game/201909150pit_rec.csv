@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Lockett,LockTy00,receiving,SEA,12,10,79,0,4,44,4.4,35,3.5,6.8,0,NA,0,0,0,94.1,201909150pit
+Will Dissly,DissWi00,receiving,SEA,5,5,50,2,4,37,7.4,13,2.6,7.4,0,NA,0,0,0,147.9,201909150pit
+Chris Carson,CarsCh00,receiving,SEA,3,3,27,0,1,-9,-3,36,12,-3,0,NA,0,0,0,104.2,201909150pit
+Malik Turner,TurnMa00,receiving,SEA,3,3,54,0,2,23,7.7,31,10.3,7.7,0,NA,0,0,0,118.7,201909150pit
+D.K. Metcalf,MetcDK00,receiving,SEA,7,3,61,1,3,48,16,13,4.3,16.1,1,3,0,0,0,113.7,201909150pit
+C.J. Prosise,ProsC.00,receiving,SEA,3,3,13,0,0,3,1,10,3.3,1,0,NA,0,0,0,84.7,201909150pit
+Nick Vannett,VannNi00,receiving,SEA,1,1,13,0,1,13,13,0,0,13,0,NA,0,0,0,118.7,201909150pit
+Rashaad Penny,PennRa00,receiving,SEA,1,1,3,0,0,-5,-5,8,8,-5,0,NA,0,0,0,79.2,201909150pit
+Vance McDonald,McDoVa00,receiving,PIT,7,7,38,2,2,12,1.7,26,3.7,1.7,0,NA,0,0,0,128.9,201909150pit
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,8,5,84,0,4,61,12.2,23,4.6,15.1,0,NA,0,0,0,97.9,201909150pit
+James Conner,ConnJa00,receiving,PIT,4,3,12,0,0,-6,-2,18,6,-2.8,0,NA,0,0,0,77.1,201909150pit
+James Washington,WashJa00,receiving,PIT,3,2,23,0,2,15,7.5,8,4,10,0,NA,0,0,0,89.6,201909150pit
+Jaylen Samuels,SamuJa00,receiving,PIT,1,1,13,0,1,-5,-5,18,18,-5,0,NA,0,0,0,118.7,201909150pit
+Ryan Switzer,SwitRy00,receiving,PIT,4,1,0,0,NA,0,0,0,0,1.8,0,NA,0,0,0,39.6,201909150pit
+Diontae Johnson,JohnDi01,receiving,PIT,4,1,17,0,1,14,14,3,3,10.5,0,NA,1,25,0,44.8,201909150pit
+Donte Moncrief,MoncDo00,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,19,0,NA,1,100,1,0,201909150pit
+Johnny Holton,HoltJo00,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,42,0,NA,0,0,0,39.6,201909150pit
+Xavier Grimble,GrimXa00,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,201909150pit

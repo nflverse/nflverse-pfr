@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Luke Kuechly,KuecLu00,defense,CAR,0,7,6,85.7%,12,2,1.7,0,79.2,-1.7,-16,28,1,0,0,0,0,11,1,8.3%,201812090cle
+Donte Jackson,JackDo02,defense,CAR,0,7,6,85.7%,155,25.8,22.1,1,158.3,24.6,141,14,1,0,0,0,0,10,1,9.1%,201812090cle
+Thomas Davis,DaviTh20,defense,CAR,0,4,3,75.0%,43,14.3,10.8,0,109.4,10.8,22,21,0,1,0,0,1,6,1,14.3%,201812090cle
+James Bradberry,BradJa00,defense,CAR,0,3,2,66.7%,37,18.5,12.3,0,109,17.7,31,6,0,0,0,0,0,3,0,0.0%,201812090cle
+Captain Munnerlyn,MunnCa99,defense,CAR,0,2,1,50.0%,12,12,6,0,68.7,18,4,8,3,0,0,1,1,2,0,0.0%,201812090cle
+Eric Reid,ReidEr00,defense,CAR,0,2,1,50.0%,51,51,25.5,1,135.4,41.5,51,0,0,0,0,0,0,4,0,0.0%,201812090cle
+Shaq Thompson,ThomSh01,defense,CAR,0,1,1,100.0%,7,7,7,0,95.8,5,5,2,2,0,0,0,0,2,0,0.0%,201812090cle
+Mike Adams,AdamMi21,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,1,50.0%,201812090cle
+Kawann Short,ShorKa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,2,66.7%,201812090cle
+Jamie Collins,CollJa00,defense,CLE,0,7,7,100.0%,40,5.7,5.7,0,90.5,1,7,33,9,0,0,0,0,7,2,22.2%,201812090cle
+Briean Boddy-Calhoun,BoddBr01,defense,CLE,0,6,4,66.7%,52,13,8.7,0,93.7,8.8,45,7,2,0,1,0,1,5,1,16.7%,201812090cle
+Terrance Mitchell,MitcTe00,defense,CLE,0,7,4,57.1%,99,24.8,14.1,0,101.8,11.3,61,38,1,0,0,0,0,5,0,0.0%,201812090cle
+Joe Schobert,SchoJo00,defense,CLE,0,5,3,60.0%,39,13,7.8,0,84.6,4.4,17,22,6,2,0,0,2,7,2,22.2%,201812090cle
+T.J. Carrie,CarrTr00,defense,CLE,0,6,3,50.0%,42,14,7,0,72.9,17.7,35,7,2,1,0,0,1,4,1,20.0%,201812090cle
+Derrick Kindred,KindDe00,defense,CLE,0,2,2,100.0%,24,12,12,0,116.7,1.5,3,21,4,0,0,0,0,2,1,33.3%,201812090cle
+Damarious Randall,RandDa00,defense,CLE,1,7,2,28.6%,13,6.5,1.9,0,0,12.9,9,4,2,0,0,0,0,9,1,10.0%,201812090cle
+Myles Garrett,GarrMy00,defense,CLE,0,1,1,100.0%,7,7,7,0,95.8,2,2,5,2,1,2,1,4,5,1,16.7%,201812090cle
+Genard Avery,AverGe00,defense,CLE,0,3,1,33.3%,3,3,1,0,42.4,9.3,1,2,8,3,0,0,3,4,0,0.0%,201812090cle
+Tanner Vallejo,VallTa00,defense,CLE,0,1,1,100.0%,7,7,7,0,95.8,0,0,7,0,0,0,0,0,3,0,0.0%,201812090cle
+Jabrill Peppers,PeppJa00,defense,CLE,0,2,1,50.0%,3,3,1.5,0,56.2,-5.5,-5,8,4,0,0,0,0,2,1,33.3%,201812090cle
+Larry Ogunjobi,OgunLa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201812090cle
+Emmanuel Ogbah,OgbaEm00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,1,33.3%,201812090cle

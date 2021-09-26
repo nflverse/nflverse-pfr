@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Jameis Winston,WinsJa00,passing,TAM,15,27,204,12,36.4,233,8.6,108,7.2,4,96,6.4,2,7.7%,4,15.4%,6,5,4,3,13,36.1%,3,4.3,201910060nor
+Teddy Bridgewater,BridTe00,passing,NOR,26,34,314,16,47.1,234,6.9,180,6.9,5.3,134,5.2,2,6.3%,2,6.3%,0,13,3,2,5,13.2%,4,2,201910060nor
+Taysom Hill,HillTa00,passing,NOR,1,1,18,1,100,15,15,15,15,15,3,3,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,1,11,201910060nor
+Alvin Kamara,KamaAl00,passing,NOR,1,1,13,1,100,11,11,11,11,11,2,2,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,201910060nor

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+A.J. Brown,BrowAJ00,receiving,TEN,6,4,98,1,2,39,9.8,59,14.8,9.5,0,NA,0,0,0,149.3,202011290clt
+Geoff Swaim,SwaiGe00,receiving,TEN,3,3,30,0,3,20,6.7,10,3.3,6.7,0,NA,0,0,0,108.3,202011290clt
+Corey Davis,DaviCo03,receiving,TEN,3,3,70,0,3,48,16,22,7.3,16,0,NA,0,0,0,118.7,202011290clt
+Derrick Henry,HenrDe00,receiving,TEN,4,2,7,0,0,-3,-1.5,10,5,-2.5,0,NA,0,0,0,56.2,202011290clt
+Khari Blasingame,BlasKh00,receiving,TEN,1,1,16,0,1,-1,-1,17,17,-1,0,NA,0,0,0,118.7,202011290clt
+Anthony Firkser,FirkAn00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,202011290clt
+Jeremy McNichols,McNiJe00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,-4,0,NA,0,0,0,39.6,202011290clt
+Kalif Raymond,RaymKa00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,202011290clt
+Nyheim Hines,HineNy00,receiving,IND,10,8,66,0,4,-1,-0.1,67,8.4,0.3,0,NA,0,0,0,94.2,202011290clt
+T.Y. Hilton,HiltT.00,receiving,IND,5,4,81,1,4,62,15.5,19,4.8,13.4,0,NA,0,0,0,158.3,202011290clt
+Trey Burton,BurtTr01,receiving,IND,6,3,42,1,3,38,12.7,4,1.3,12.7,0,NA,0,0,0,112.5,202011290clt
+Jordan Wilkins,WilkJo01,receiving,IND,4,3,35,0,1,-10,-3.3,45,15,-1,0,NA,0,0,0,101,202011290clt
+Michael Pittman Jr.,PittMi01,receiving,IND,9,2,28,0,2,7,3.5,21,10.5,10.3,0,NA,1,11.1,0,40,202011290clt
+Mo Alie-Cox,AlieMo00,receiving,IND,2,2,19,0,2,12,6,7,3.5,6,0,NA,0,0,0,106.2,202011290clt
+De'Michael Harris,HarrDe11,receiving,IND,1,1,1,0,NA,0,0,1,1,0,0,NA,0,0,0,79.2,202011290clt
+Zach Pascal,PascZa00,receiving,IND,4,1,23,0,1,23,23,0,0,20,0,NA,0,0,1,11.5,202011290clt
+Jack Doyle,DoylJa00,receiving,IND,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,202011290clt

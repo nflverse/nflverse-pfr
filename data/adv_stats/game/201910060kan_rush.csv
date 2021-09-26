@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Marlon Mack,MackMa00,rushing,IND,29,132,7,65,2.2,67,2.3,2,14.5,201910060kan
+Jordan Wilkins,WilkJo01,rushing,IND,7,28,NA,18,2.6,10,1.4,0,NA,201910060kan
+Jacoby Brissett,BrisJa00,rushing,IND,6,9,3,9,1.5,0,0,0,NA,201910060kan
+Nyheim Hines,HineNy00,rushing,IND,2,-1,1,-1,-0.5,0,0,0,NA,201910060kan
+Zach Pascal,PascZa00,rushing,IND,1,12,1,8,8,4,4,0,NA,201910060kan
+Damien Williams,WillDa05,rushing,KAN,9,23,1,18,2,5,0.6,0,NA,201910060kan
+Patrick Mahomes,MahoPa00,rushing,KAN,3,17,1,17,5.7,0,0,0,NA,201910060kan
+Mecole Hardman,HardMe00,rushing,KAN,1,-6,0,-6,-6,0,0,0,NA,201910060kan
+Anthony Sherman,SherAn00,rushing,KAN,1,2,1,2,2,0,0,0,NA,201910060kan

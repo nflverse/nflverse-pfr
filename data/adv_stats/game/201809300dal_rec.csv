@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Golden Tate,TateGo00,receiving,DET,8,8,132,2,6,64,8,68,8.5,8,1,8,0,0,0,158.3,201809300dal
+Kenny Golladay,GollKe00,receiving,DET,4,4,74,0,4,53,13.3,21,5.3,13.3,0,NA,0,0,0,118.7,201809300dal
+Theo Riddick,RiddTh00,receiving,DET,5,4,20,0,1,-13,-3.3,33,8.3,-0.4,0,NA,0,0,0,83.3,201809300dal
+Marvin Jones,JoneMa02,receiving,DET,6,3,56,0,2,53,17.7,3,1,12.3,0,NA,1,16.7,0,82.6,201809300dal
+Levine Toilolo,ToilLe00,receiving,DET,2,2,12,0,1,-6,-3,18,9,-3,0,NA,0,0,0,91.7,201809300dal
+Kerryon Johnson,JohnKe06,receiving,DET,1,1,1,0,0,-4,-4,5,5,-4,0,NA,0,0,0,79.2,201809300dal
+Hakeem Valles,VallHa00,receiving,DET,1,1,6,0,NA,5,5,1,1,5,0,NA,0,0,0,91.7,201809300dal
+Luke Willson,WillLu00,receiving,DET,2,1,6,0,NA,4,4,2,2,1.5,0,NA,0,0,0,56.2,201809300dal
+Cole Beasley,BeasCo00,receiving,DAL,5,4,53,0,3,38,9.5,15,3.8,9.2,1,4,0,0,0,110.8,201809300dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,4,4,88,1,4,30,7.5,58,14.5,7.5,0,NA,0,0,0,158.3,201809300dal
+Allen Hurns,HurnAl01,receiving,DAL,5,3,30,0,2,27,9,3,1,7.4,0,NA,0,0,0,77.1,201809300dal
+Geoff Swaim,SwaiGe00,receiving,DAL,5,3,39,1,2,9,3,30,10,7.2,0,NA,0,0,0,124.2,201809300dal
+Michael Gallup,GallMi00,receiving,DAL,5,2,45,0,1,39,19.5,6,3,14.8,0,NA,0,0,0,72.9,201809300dal
+Rod Smith,SmitRo06,receiving,DAL,1,1,0,0,0,0,0,0,0,0,0,NA,0,0,0,79.2,201809300dal
+Tavon Austin,AustTa00,receiving,DAL,1,0,0,0,NA,0,NA,0,NA,34,0,NA,0,0,0,39.6,201809300dal
+Rico Gathers,GathRi00,receiving,DAL,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,201809300dal

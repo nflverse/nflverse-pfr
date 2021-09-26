@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,19,144,8,83,4.4,61,3.2,3,6.3,202011290jax
+Kareem Hunt,HuntKa00,rushing,CLE,10,62,2,22,2.2,40,4,3,3.3,202011290jax
+Baker Mayfield,MayfBa00,rushing,CLE,4,1,0,1,0.3,0,0,0,NA,202011290jax
+James Robinson,RobiJa00,rushing,JAX,22,128,7,57,2.6,71,3.2,5,4.4,202011290jax
+Mike Glennon,GlenMi00,rushing,JAX,2,6,1,4,2,2,1,0,NA,202011290jax
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,1,6,0,5,5,1,1,0,NA,202011290jax

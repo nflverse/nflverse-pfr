@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeVante Parker,ParkDe01,receiving,MIA,14,8,119,0,7,82,10.3,37,4.6,10.3,3,2.7,0,0,0,85.1,202011290nyj
+Durham Smythe,SmytDu00,receiving,MIA,3,3,19,0,NA,15,5,4,1.3,5,0,NA,0,0,0,93.1,202011290nyj
+Matt Breida,BreiMa00,receiving,MIA,2,2,17,0,1,-1,-0.5,18,9,-0.5,0,NA,0,0,0,102.1,202011290nyj
+DeAndre Washington,WashDe00,receiving,MIA,5,2,11,0,1,-3,-1.5,14,7,0.2,0,NA,0,0,0,47.9,202011290nyj
+Mack Hollins,HollMa00,receiving,MIA,3,2,19,0,1,12,6,7,3.5,6,0,NA,0,0,0,84,202011290nyj
+Jakeem Grant,GranJa00,receiving,MIA,2,2,15,0,1,8,4,7,3.5,4,0,NA,0,0,0,97.9,202011290nyj
+Mike Gesicki,GesiMi00,receiving,MIA,5,2,35,1,2,24,12,11,5.5,10,0,NA,0,0,0,104.2,202011290nyj
+Malcolm Perry,PerrMa00,receiving,MIA,1,1,8,0,NA,3,3,5,5,3,0,NA,0,0,0,100,202011290nyj
+Adam Shaheen,ShahAd00,receiving,MIA,2,1,7,1,1,6,6,1,1,9.5,0,NA,0,0,0,97.9,202011290nyj
+Antonio Callaway,CallAn00,receiving,MIA,1,1,7,0,NA,7,7,0,0,7,0,NA,0,0,0,95.8,202011290nyj
+Lynn Bowden Jr.,BowdLy00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,11,0,NA,0,0,0,39.6,202011290nyj
+Denzel Mims,MimsDe00,receiving,NYJ,8,4,67,0,2,34,8.5,33,8.3,13.6,1,4,1,12.5,0,78.6,202011290nyj
+Breshad Perriman,PerrBr02,receiving,NYJ,8,4,79,0,3,59,14.8,20,5,16.9,1,4,1,12.5,1,45.3,202011290nyj
+Frank Gore,GoreFr00,receiving,NYJ,3,3,12,0,0,1,0.3,11,3.7,0.3,0,NA,0,0,0,83.3,202011290nyj
+Jamison Crowder,CrowJa00,receiving,NYJ,5,3,31,0,1,25,8.3,6,2,10.4,0,NA,0,0,1,38.3,202011290nyj
+Ty Johnson,JohnTy02,receiving,NYJ,2,1,1,0,NA,-6,-6,7,7,7.5,0,NA,0,0,0,56.2,202011290nyj
+Jeff Smith,SmitJe03,receiving,NYJ,1,1,7,0,NA,5,5,2,2,5,0,NA,0,0,0,95.8,202011290nyj

@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Keenan Allen,AlleKe00,receiving,LAC,9,6,57,1,2,48,8,9,1.5,12,0,NA,0,0,1,81.5,201811110rai
+Melvin Gordon,GordMe00,receiving,LAC,6,5,72,1,1,-15,-3,87,17.4,0.7,2,2.5,0,0,0,156.2,201811110rai
+Tyrell Williams,WillTy00,receiving,LAC,6,4,46,0,3,36,9,10,2.5,13,0,NA,1,16.7,0,89.6,201811110rai
+Virgil Green,GreeVi00,receiving,LAC,3,2,30,0,1,19,9.5,11,5.5,6.3,0,NA,0,0,0,99.3,201811110rai
+Antonio Gates,GateAn00,receiving,LAC,2,1,18,0,1,15,15,3,3,12,0,NA,0,0,0,81.2,201811110rai
+Jalen Richard,RichJa01,receiving,OAK,6,5,52,0,2,20,4,32,6.4,3.2,0,NA,0,0,0,102.8,201811110rai
+Jared Cook,CookJa02,receiving,OAK,9,4,52,0,2,38,9.5,14,3.5,10.7,1,4,2,22.2,0,63.2,201811110rai
+Brandon LaFell,LaFeBr00,receiving,OAK,6,4,47,0,3,26,6.5,21,5.3,7.5,0,NA,0,0,0,90.3,201811110rai
+Martavis Bryant,BryaMa00,receiving,OAK,3,3,17,0,1,6,2,11,3.7,2,2,1.5,0,0,0,90.3,201811110rai
+Doug Martin,MartDo00,receiving,OAK,3,3,31,0,1,-1,-0.3,32,10.7,-0.3,0,NA,0,0,0,109.7,201811110rai
+Seth Roberts,RobeSe00,receiving,OAK,3,3,39,0,2,26,8.7,13,4.3,8.7,0,NA,0,0,0,118.7,201811110rai
+Derek Carrier,CarrDe00,receiving,OAK,3,1,5,0,1,5,5,0,0,3.3,0,NA,0,0,0,42.4,201811110rai
+Dwayne Harris,HarrDw00,receiving,OAK,1,1,0,0,NA,-3,-3,3,3,-3,0,NA,0,0,0,79.2,201811110rai
+Jordy Nelson,NelsJo00,receiving,OAK,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,201811110rai

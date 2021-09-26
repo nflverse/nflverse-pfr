@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,19,81,5,23,1.2,58,3.1,1,19,201912050chi
+Dak Prescott,PresDa01,rushing,DAL,3,1,0,-1,-0.3,2,0.7,0,NA,201912050chi
+David Montgomery,MontDa01,rushing,CHI,20,86,4,21,1.1,65,3.3,3,6.7,201912050chi
+Mitchell Trubisky,TrubMi00,rushing,CHI,10,63,5,48,4.8,15,1.5,1,10,201912050chi
+Tarik Cohen,CoheTa00,rushing,CHI,3,7,0,2,0.7,5,1.7,0,NA,201912050chi
+Cordarrelle Patterson,PattCo00,rushing,CHI,1,-5,0,-5,-5,0,0,0,NA,201912050chi

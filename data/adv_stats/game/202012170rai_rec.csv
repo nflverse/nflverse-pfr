@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Hunter Henry,HenrHu00,receiving,LAC,7,5,65,1,5,46,9.2,19,3.8,9.1,0,NA,0,0,0,139.9,202012170rai
+Austin Ekeler,EkelAu00,receiving,LAC,4,4,19,0,1,-6,-1.5,25,6.3,-1.5,0,NA,0,0,0,86.5,202012170rai
+Jalen Guyton,GuytJa01,receiving,LAC,6,4,91,0,4,77,19.3,14,3.5,19.7,0,NA,1,16.7,0,109.7,202012170rai
+Tyron Johnson,JohnTy03,receiving,LAC,5,3,61,1,3,55,18.3,6,2,24.6,0,NA,0,0,0,142.5,202012170rai
+K.J. Hill,HillKJ00,receiving,LAC,3,3,39,0,1,25,8.3,14,4.7,8.3,0,NA,0,0,0,118.7,202012170rai
+Mike Williams,WillMi07,receiving,LAC,2,2,22,0,1,20,10,2,1,10,0,NA,0,0,0,112.5,202012170rai
+Keenan Allen,AlleKe00,receiving,LAC,3,1,17,0,1,6,6,11,11,3.3,0,NA,0,0,0,53.5,202012170rai
+Gabe Nabers,NabeGa00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,202012170rai
+Donald Parham,ParhDo00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,202012170rai
+Darren Waller,WallDa01,receiving,LVR,12,9,150,1,8,110,12.2,40,4.4,13.6,0,NA,0,0,0,144.4,202012170rai
+Nelson Agholor,AghoNe00,receiving,LVR,8,4,49,0,2,29,7.3,20,5,11.5,1,4,1,12.5,0,69.3,202012170rai
+Josh Jacobs,JacoJo01,receiving,LVR,3,3,38,0,2,2,0.7,36,12,0.7,0,NA,0,0,0,118.7,202012170rai
+Zay Jones,JoneZa00,receiving,LVR,2,1,9,0,NA,9,9,0,0,7,0,NA,0,0,1,22.9,202012170rai
+Foster Moreau,MoreFo00,receiving,LVR,1,1,22,0,1,22,22,0,0,22,0,NA,0,0,0,118.7,202012170rai
+Hunter Renfrow,RenfHu00,receiving,LVR,2,1,4,0,NA,4,4,0,0,6,0,NA,0,0,0,56.2,202012170rai
+Jalen Richard,RichJa01,receiving,LVR,1,1,7,0,NA,0,0,7,7,0,0,NA,0,0,0,95.8,202012170rai
+Alec Ingold,IngoAl01,receiving,LVR,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,202012170rai

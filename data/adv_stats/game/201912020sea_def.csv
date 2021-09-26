@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Xavier Rhodes,RhodXa00,defense,MIN,0,6,6,100.0%,120,20,20,1,158.3,11.7,70,50,0,0,0,0,0,8,1,11.1%,201912020sea
+Anthony Barr,BarrAn00,defense,MIN,0,6,5,83.3%,52,10.4,8.7,1,142.4,2.8,12,40,6,1,2,0,3,11,0,0.0%,201912020sea
+Trae Waynes,WaynTr00,defense,MIN,0,5,4,80.0%,21,5.3,4.2,0,84.2,4.8,13,8,0,0,0,0,0,4,1,20.0%,201912020sea
+Eric Kendricks,KendEr00,defense,MIN,0,5,2,40.0%,15,7.5,3,0,47.9,11.6,-3,18,1,0,0,0,0,10,1,9.1%,201912020sea
+Harrison Smith,SmitHa00,defense,MIN,0,2,1,50.0%,5,5,2.5,0,56.2,2.5,-6,11,2,0,0,0,0,10,3,23.1%,201912020sea
+Mackensie Alexander,AlexMa01,defense,MIN,0,2,1,50.0%,3,3,1.5,0,56.2,6.5,2,1,0,0,0,0,0,2,0,0.0%,201912020sea
+Mike Hughes,HughMi00,defense,MIN,0,3,1,33.3%,19,19,6.3,0,56.2,22,7,12,0,0,0,0,0,2,0,0.0%,201912020sea
+Danielle Hunter,HuntDa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,1,4,5,0,0.0%,201912020sea
+Ifeadi Odenigbo,OdenIf00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201912020sea
+Stephen Weatherly,WeatSt00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201912020sea
+Anthony Harris,HarrAn01,defense,MIN,1,1,0,0.0%,NA,NA,0,NA,0,-2,NA,NA,0,0,0,0,0,7,1,12.5%,201912020sea
+Armon Watts,WattAr01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201912020sea
+K.J. Wright,WrigK.00,defense,SEA,0,11,9,81.8%,93,10.3,8.5,1,132.2,6.5,29,64,3,0,0,0,0,9,1,10.0%,201912020sea
+Bobby Wagner,WagnBo00,defense,SEA,0,10,7,70.0%,89,12.7,8.9,0,97.5,2,11,78,2,0,0,0,0,10,0,0.0%,201912020sea
+Shaquill Griffin,GrifSh00,defense,SEA,0,7,3,42.9%,71,23.7,10.1,1,119.6,15.9,43,28,0,0,0,0,0,3,0,0.0%,201912020sea
+Bradley McDougald,McDoBr01,defense,SEA,0,3,2,66.7%,18,9,6,0,82.6,4.3,15,3,1,0,1,0,1,6,0,0.0%,201912020sea
+Tre Flowers,FlowTr01,defense,SEA,1,3,1,33.3%,5,5,1.7,0,2.8,6,5,0,1,0,0,0,0,3,1,25.0%,201912020sea
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,0,1,100.0%,201912020sea
+Jadeveon Clowney,ClowJa00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,201912020sea
+Ezekiel Ansah,AnsaEz00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,1,0,0.0%,201912020sea
+Rasheem Green,GreeRa01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201912020sea
+Poona Ford,FordPo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201912020sea
+Akeem King,KingAk00,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,3,0,0,0,0,1,0,0.0%,201912020sea
+Quandre Diggs,DiggQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201912020sea

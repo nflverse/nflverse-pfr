@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Chris Godwin,GodwCh00,receiving,TAM,8,5,121,0,4,47,9.4,74,14.8,14.1,1,5,0,0,0,106.2,201912150det
+Breshad Perriman,PerrBr02,receiving,TAM,6,5,113,3,5,86,17.2,27,5.4,20.7,0,NA,0,0,0,158.3,201912150det
+O.J. Howard,HowaO.00,receiving,TAM,7,4,46,0,3,27,6.8,19,4.8,8.1,0,NA,0,0,0,77.1,201912150det
+Cameron Brate,BratCa00,receiving,TAM,7,3,33,0,1,31,10.3,2,0.7,12.4,0,NA,0,0,0,57.4,201912150det
+Scott Miller,MillSc01,receiving,TAM,3,3,49,1,2,42,14,7,2.3,14,0,NA,0,0,0,158.3,201912150det
+Peyton Barber,BarbPe01,receiving,TAM,2,2,23,0,0,-7,-3.5,30,15,-3.5,0,NA,0,0,0,114.6,201912150det
+Justin Watson,WatsJu01,receiving,TAM,2,2,17,0,NA,15,7.5,2,1,7.5,0,NA,0,0,0,102.1,201912150det
+Tanner Hudson,HudsTa00,receiving,TAM,1,1,14,0,1,12,12,2,2,12,0,NA,0,0,0,118.7,201912150det
+Ishmael Hyman,HymaIs00,receiving,TAM,1,1,3,0,1,2,2,1,1,2,0,NA,0,0,0,79.2,201912150det
+Ronald Jones II,JoneRo01,receiving,TAM,3,1,26,0,1,4,4,22,22,1.7,0,NA,0,0,1,26.4,201912150det
+Dare Ogunbowale,OgunDa00,receiving,TAM,1,1,13,0,1,7,7,6,6,7,0,NA,0,0,0,118.7,201912150det
+Danny Amendola,AmenDa00,receiving,DET,13,8,102,0,5,81,10.1,21,2.6,10.6,2,4,0,0,2,46.5,201912150det
+Ty Johnson,JohnTy02,receiving,DET,5,4,17,0,NA,8,2,9,2.3,2,0,NA,0,0,0,80.8,201912150det
+Jesse James,JameJe00,receiving,DET,5,3,31,0,1,22,7.3,9,3,6.6,0,NA,1,20,0,77.9,201912150det
+Kenny Golladay,GollKe00,receiving,DET,7,3,44,0,3,40,13.3,4,1.3,13.7,0,NA,0,0,0,64,201912150det
+J.D. McKissic,McKiJ.00,receiving,DET,3,2,7,0,0,-5,-2.5,12,6,0.7,0,NA,0,0,0,70.1,201912150det
+Wes Hills,HillWe00,receiving,DET,2,2,1,0,0,-2,-1,3,1.5,-1,0,NA,0,0,0,79.2,201912150det
+Chris Lacy,LacyCh00,receiving,DET,2,1,48,0,1,44,44,4,4,25,0,NA,0,0,0,95.8,201912150det
+Isaac Nauta,NautIs00,receiving,DET,2,1,10,0,1,3,3,7,7,1,0,NA,1,50,0,64.6,201912150det
+Logan Thomas,ThomLo00,receiving,DET,4,0,0,0,NA,0,NA,0,NA,6.3,0,NA,0,0,0,39.6,201912150det

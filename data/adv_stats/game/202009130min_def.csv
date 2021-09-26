@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jaire Alexander,AlexJa00,defense,GNB,1,7,4,57.1%,66,16.5,9.4,1,89,15,66,0,1,0,0,1,1,5,0,0.0%,202009130min
+Christian Kirksey,KirkCh00,defense,GNB,0,4,4,100.0%,27,6.8,6.8,0,94.8,3.8,15,12,2,0,0,0,0,12,2,14.3%,202009130min
+Kevin King,KingKe01,defense,GNB,0,6,4,66.7%,65,16.3,10.8,0,102.8,13,32,33,0,0,0,0,0,5,1,16.7%,202009130min
+Chandon Sullivan,SullCh00,defense,GNB,0,3,3,100.0%,50,16.7,16.7,0,118.7,10.7,32,18,0,0,0,0,0,2,1,33.3%,202009130min
+Krys Barnes,BarnKr00,defense,GNB,0,2,2,100.0%,5,2.5,2.5,0,79.2,1,2,3,0,0,0,0,0,7,0,0.0%,202009130min
+Will Redmond,RedmWi00,defense,GNB,0,2,1,50.0%,9,9,4.5,0,62.5,-1,3,6,0,0,0,0,0,3,0,0.0%,202009130min
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,1,1,100.0%,37,37,37,1,158.3,37,37,0,0,0,0,0,0,5,0,0.0%,202009130min
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,2,0,2,2,0,0.0%,202009130min
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,1,2,2,1,33.3%,202009130min
+Adrian Amos,AmosAd00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,1,25.0%,202009130min
+Holton Hill,HillHo00,defense,MIN,0,11,7,63.6%,87,12.4,7.9,1,118.4,10.9,66,21,0,0,0,0,0,7,1,12.5%,202009130min
+Cameron Dantzler,DantCa00,defense,MIN,0,7,7,100.0%,81,11.6,11.6,1,154.5,7.4,52,29,0,0,0,0,0,4,2,33.3%,202009130min
+Mike Hughes,HughMi00,defense,MIN,0,6,6,100.0%,81,13.5,13.5,1,158.3,8.5,51,30,1,0,0,0,0,7,1,12.5%,202009130min
+Anthony Barr,BarrAn00,defense,MIN,0,3,3,100.0%,20,6.7,6.7,0,94.4,-2.7,-8,28,9,1,0,0,1,6,2,25.0%,202009130min
+Eric Kendricks,KendEr00,defense,MIN,0,5,3,60.0%,9,3,1.8,0,64.6,8,5,4,5,0,0,0,0,11,0,0.0%,202009130min
+Anthony Harris,HarrAn01,defense,MIN,0,6,3,50.0%,34,11.3,5.7,1,106.9,17.2,18,16,0,0,0,0,0,8,3,27.3%,202009130min
+Harrison Smith,SmitHa00,defense,MIN,0,2,2,100.0%,37,18.5,18.5,0,118.7,13.5,27,10,3,1,0,0,1,4,0,0.0%,202009130min
+Eric Wilson,WilsEr00,defense,MIN,0,1,1,100.0%,15,15,15,0,118.7,-2,-2,17,2,0,0,0,0,3,1,25.0%,202009130min
+Shamar Stephen,StepSh00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202009130min
+Eddie Yarbrough,YarbEd01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,202009130min
+Yannick Ngakoue,NgakYa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202009130min
+Jalyn Holmes,HolmJa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202009130min
+Armon Watts,WattAr01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202009130min

@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Phillip Lindsay,LindPh00,rushing,DEN,19,157,7,132,6.9,25,1.3,0,NA,201812020cin
+Royce Freeman,FreeRo00,rushing,DEN,12,48,1,13,1.1,35,2.9,1,12,201812020cin
+Case Keenum,KeenCa00,rushing,DEN,2,9,1,9,4.5,0,0,0,NA,201812020cin
+Devontae Booker,BookDe00,rushing,DEN,1,4,0,3,3,1,1,0,NA,201812020cin
+Joe Mixon,MixoJo00,rushing,CIN,12,82,5,39,3.3,43,3.6,0,NA,201812020cin
+Giovani Bernard,BernGi00,rushing,CIN,5,14,0,7,1.4,7,1.4,0,NA,201812020cin
+Jeff Driskel,DrisJe00,rushing,CIN,3,3,0,-1,-0.3,4,1.3,0,NA,201812020cin
+Alex Erickson,EricAl01,rushing,CIN,1,0,NA,-1,-1,1,1,0,NA,201812020cin
+John Ross,RossJo00,rushing,CIN,1,2,0,2,2,0,0,0,NA,201812020cin
+Mark Walton,WaltMa00,rushing,CIN,1,10,1,7,7,3,3,0,NA,201812020cin

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,WAS,19,51,3,19,1,32,1.7,2,9.5,201812160jax
+Josh Johnson,JohnJo05,rushing,WAS,9,49,1,39,4.3,10,1.1,0,NA,201812160jax
+Chris Thompson,ThomCh03,rushing,WAS,5,9,NA,2,0.4,7,1.4,0,NA,201812160jax
+Leonard Fournette,FourLe00,rushing,JAX,11,46,1,33,3,13,1.2,0,NA,201812160jax
+Cody Kessler,KessCo00,rushing,JAX,6,68,4,54,9,14,2.3,0,NA,201812160jax
+David Williams,WillDa011,rushing,JAX,5,32,3,25,5,7,1.4,0,NA,201812160jax
+T.J. Yeldon,YeldT.00,rushing,JAX,3,6,NA,3,1,3,1,0,NA,201812160jax
+Dede Westbrook,WestDe00,rushing,JAX,1,20,1,15,15,5,5,1,1,201812160jax

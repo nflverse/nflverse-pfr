@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Eric Kendricks,KendEr00,defense,MIN,1,12,9,75.0%,75,8.3,6.3,0,55.9,0.5,-11,86,2,0,0,0,0,16,0,0.0%,201812020nwe
+Anthony Barr,BarrAn00,defense,MIN,0,5,5,100.0%,45,9,9,0,104.2,3.8,19,26,4,0,0,0,0,6,0,0.0%,201812020nwe
+Mackensie Alexander,AlexMa01,defense,MIN,0,5,3,60.0%,39,13,7.8,0,84.6,4.4,11,28,3,1,0,0,1,4,1,20.0%,201812020nwe
+Harrison Smith,SmitHa00,defense,MIN,0,3,2,66.7%,44,22,14.7,0,109.7,18.3,44,0,5,1,1,0,2,4,1,20.0%,201812020nwe
+Xavier Rhodes,RhodXa00,defense,MIN,0,3,2,66.7%,28,14,9.3,0,96.5,0.3,0,28,0,0,0,0,0,1,1,50.0%,201812020nwe
+Anthony Harris,HarrAn01,defense,MIN,0,3,2,66.7%,28,14,9.3,1,136.1,6.3,19,9,0,0,0,0,0,7,1,12.5%,201812020nwe
+Holton Hill,HillHo00,defense,MIN,0,1,1,100.0%,7,7,7,0,95.8,2,2,5,0,0,0,0,0,3,0,0.0%,201812020nwe
+Danielle Hunter,HuntDa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,6,0,0.0%,201812020nwe
+Linval Joseph,JoseLi99,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,7,1,12.5%,201812020nwe
+Jason McCourty,McCoJa99,defense,NWE,0,9,7,77.8%,38,5.4,4.2,1,121.3,5.6,14,24,3,0,0,0,0,6,0,0.0%,201812020nwe
+Stephon Gilmore,GilmSt00,defense,NWE,0,6,5,83.3%,35,7,5.8,0,91,3.5,11,24,0,0,0,0,0,3,0,0.0%,201812020nwe
+J.C. Jackson,JackJ.00,defense,NWE,0,10,5,50.0%,35,7,3.5,0,58.3,16.3,28,7,0,0,0,0,0,4,0,0.0%,201812020nwe
+Kyle Van Noy,VanNKy00,defense,NWE,0,4,4,100.0%,12,3,3,0,79.2,1.5,6,6,8,0,1,0,1,5,1,16.7%,201812020nwe
+Devin McCourty,McCoDe99,defense,NWE,0,6,4,66.7%,15,3.8,2.5,1,109.7,6.3,2,13,1,0,0,0,0,8,1,11.1%,201812020nwe
+Dont'a Hightower,HighDo01,defense,NWE,0,3,3,100.0%,7,2.3,2.3,0,79.2,0.3,1,6,11,0,1,0,1,5,0,0.0%,201812020nwe
+Patrick Chung,ChunPa99,defense,NWE,0,3,3,100.0%,57,19,19,0,118.7,9.3,28,29,3,0,0,0,0,3,1,25.0%,201812020nwe
+Obi Melifonwu,MeliOb00,defense,NWE,0,1,1,100.0%,5,5,5,0,87.5,5,5,0,2,0,0,0,0,2,0,0.0%,201812020nwe
+Jonathan Jones,JoneJo03,defense,NWE,1,2,1,50.0%,9,9,4.5,0,22.9,14,9,0,0,0,0,0,0,1,0,0.0%,201812020nwe
+Elandon Roberts,RobeEl00,defense,NWE,0,2,1,50.0%,1,1,0.5,0,56.2,-2,1,0,3,0,0,0,0,5,0,0.0%,201812020nwe
+Trey Flowers,FlowTr00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,2,0,0.0%,201812020nwe
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,3,0,0.0%,201812020nwe
+Adam Butler,ButlAd00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201812020nwe
+Duron Harmon,HarmDu00,defense,NWE,1,2,0,0.0%,NA,NA,0,NA,0,2.5,NA,NA,2,0,0,0,0,1,0,0.0%,201812020nwe
+John Simon,SimoJo01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0,0,1,0,0.0%,201812020nwe

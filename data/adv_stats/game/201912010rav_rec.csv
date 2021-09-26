@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Emmanuel Sanders,SandEm00,receiving,SFO,6,4,41,0,3,41,10.3,0,0,11,0,NA,0,0,0,86.1,201912010rav
+Kendrick Bourne,BourKe00,receiving,SFO,3,3,42,0,1,10,3.3,32,10.7,3.3,2,1.5,0,0,0,118.7,201912010rav
+George Kittle,KittGe00,receiving,SFO,4,2,17,0,1,17,8.5,0,0,6,0,NA,0,0,0,61.5,201912010rav
+Raheem Mostert,MostRa00,receiving,SFO,2,2,8,0,0,3,1.5,5,2.5,1.5,0,NA,0,0,0,83.3,201912010rav
+Deebo Samuel,SamuDe00,receiving,SFO,4,2,41,1,1,28,14,13,6.5,11.8,0,NA,1,25,0,126,201912010rav
+Tevin Coleman,ColeTe01,receiving,SFO,1,1,9,0,1,2,2,7,7,2,0,NA,0,0,0,104.2,201912010rav
+Jeff Wilson,WilsJe01,receiving,SFO,1,1,7,0,NA,6,6,1,1,6,0,NA,0,0,0,95.8,201912010rav
+Mark Andrews,AndrMa00,receiving,BAL,6,3,50,1,3,46,15.3,4,1.3,15.2,0,NA,0,0,0,118.1,201912010rav
+Hayden Hurst,HursHa00,receiving,BAL,4,3,21,0,1,12,4,9,3,6.3,0,NA,0,0,0,86.5,201912010rav
+Mark Ingram,IngrMa01,receiving,BAL,2,2,3,0,0,3,1.5,0,0,1.5,1,2,0,0,0,79.2,201912010rav
+Nick Boyle,BoylNi00,receiving,BAL,2,1,4,0,NA,4,4,0,0,3,0,NA,0,0,0,56.2,201912010rav
+Marquise Brown,BrowMa04,receiving,BAL,2,1,1,0,NA,-4,-4,5,5,7,0,NA,0,0,0,56.2,201912010rav
+Gus Edwards,EdwaGu00,receiving,BAL,1,1,7,0,0,2,2,5,5,2,0,NA,0,0,0,95.8,201912010rav
+Patrick Ricard,RicaPa00,receiving,BAL,2,1,2,0,NA,-1,-1,3,3,-0.5,0,NA,0,0,0,56.2,201912010rav
+Seth Roberts,RobeSe00,receiving,BAL,2,1,5,0,NA,5,5,0,0,4,0,NA,0,0,0,56.2,201912010rav
+Willie Snead,SneaWi00,receiving,BAL,2,1,12,0,1,12,12,0,0,24.5,0,NA,0,0,0,68.7,201912010rav

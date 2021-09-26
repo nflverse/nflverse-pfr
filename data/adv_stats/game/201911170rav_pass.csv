@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Deshaun Watson,WatsDe00,passing,HOU,18,29,169,10,28.6,222,7.7,72,4,2.5,97,5.4,0,0.0%,9,32.1%,6,18,3,3,12,32.4%,2,5,201911170rav
+A.J. McCarron,McCaA.00,passing,HOU,0,1,0,NA,NA,5,5,0,NA,0,0,NA,0,0.0%,0,0.0%,1,1,0,0,1,50.0%,0,NA,201911170rav
+Lamar Jackson,JackLa00,passing,BAL,17,24,222,11,45.8,212,8.8,92,5.4,3.8,130,7.6,0,0.0%,7,29.2%,0,5,1,1,2,7.1%,4,8.3,201911170rav
+Robert Griffin III,GrifRo01,passing,BAL,2,2,15,NA,NA,3,1.5,3,1.5,1.5,12,6,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,201911170rav
+Sam Koch,KochSa20,passing,BAL,1,1,-2,NA,NA,-5,-5,-5,-5,-5,3,3,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201911170rav

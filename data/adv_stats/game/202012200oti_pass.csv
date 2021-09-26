@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Matthew Stafford,StafMa00,passing,DET,22,32,252,14,43.8,296,9.3,157,7.1,4.9,95,4.3,2,6.5%,6,19.4%,0,10,1,4,5,15.2%,1,12,202012200oti
+Chase Daniel,DaniCh00,passing,DET,5,6,55,4,66.7,57,9.5,38,7.6,6.3,17,3.4,0,0.0%,0,0.0%,0,2,1,1,2,28.6%,1,11,202012200oti
+Ryan Tannehill,TannRy00,passing,TEN,21,27,273,17,60.7,246,9.1,142,6.8,5.3,131,6.2,0,0.0%,3,11.5%,1,12,1,0,2,6.9%,1,1,202012200oti

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Gus Edwards,EdwaGu00,rushing,BAL,9,10,1,0,0,10,1.1,0,NA,202012020pit
+Justice Hill,HillJu00,rushing,BAL,9,35,1,17,1.9,18,2,1,9,202012020pit
+Robert Griffin III,GrifRo01,rushing,BAL,7,68,4,35,5,33,4.7,0,NA,202012020pit
+Trace McSorley,McSoTr00,rushing,BAL,3,16,2,12,4,4,1.3,0,NA,202012020pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,16,60,4,22,1.4,38,2.4,0,NA,202012020pit
+Anthony McFarland Jr.,McFaAn00,rushing,PIT,3,9,1,5,1.7,4,1.3,0,NA,202012020pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,-1,0,-1,-1,0,0,0,NA,202012020pit

@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyreek Hill,HillTy00,receiving,KAN,13,9,54,0,3,29,3.2,25,2.8,7,0,NA,1,7.7,0,77.1,201810010den
+Travis Kelce,KelcTr00,receiving,KAN,12,7,78,1,2,39,5.6,39,5.6,6.3,1,7,0,0,0,105.6,201810010den
+Chris Conley,ConlCh00,receiving,KAN,6,4,13,0,1,4,1,9,2.3,7.7,0,NA,0,0,0,70.1,201810010den
+Kareem Hunt,HuntKa00,receiving,KAN,4,3,54,0,3,-1,-0.3,55,18.3,0.3,3,1,1,25,0,116.7,201810010den
+Demetrius Harris,HarrDe03,receiving,KAN,3,2,59,0,2,46,23,13,6.5,26.3,0,NA,0,0,0,109.7,201810010den
+Demarcus Robinson,RobiDe01,receiving,KAN,3,2,31,0,1,31,15.5,0,0,11.3,0,NA,0,0,0,100.7,201810010den
+De'Anthony Thomas,ThomDe05,receiving,KAN,2,1,15,0,1,-2,-2,17,17,11,0,NA,0,0,0,75,201810010den
+Sammy Watkins,WatkSa00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,201810010den
+Emmanuel Sanders,SandEm00,receiving,DEN,7,5,45,0,3,33,6.6,12,2.4,8.3,1,5,0,0,0,88.4,201810010den
+Jeff Heuerman,HeueJe00,receiving,DEN,7,4,57,0,2,28,7,29,7.3,7.7,0,NA,1,14.3,1,44,201810010den
+Demaryius Thomas,ThomDe03,receiving,DEN,7,4,24,0,2,9,2.3,15,3.8,7,0,NA,1,14.3,0,64,201810010den
+Courtland Sutton,SuttCo00,receiving,DEN,6,3,51,0,1,50,16.7,1,0.3,15.3,0,NA,1,16.7,0,79.2,201810010den
+Phillip Lindsay,LindPh00,receiving,DEN,2,2,10,0,0,0,0,10,5,0,0,NA,0,0,0,87.5,201810010den
+Devontae Booker,BookDe00,receiving,DEN,2,1,9,0,0,-4,-4,13,13,-2,0,NA,0,0,0,62.5,201810010den
+Andy Janovich,JanoAn00,receiving,DEN,1,1,32,0,1,32,32,0,0,32,0,NA,0,0,0,118.7,201810010den
+Matt LaCosse,LaCoMa00,receiving,DEN,1,1,17,0,1,1,1,16,16,1,0,NA,0,0,0,118.7,201810010den

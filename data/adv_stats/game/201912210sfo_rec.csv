@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Higbee,HigbTy00,receiving,LAR,11,9,104,0,6,49,5.4,55,6.1,7,0,NA,0,0,0,106.1,201912210sfo
+Robert Woods,WoodRo02,receiving,LAR,11,8,117,0,6,86,10.8,31,3.9,10.7,1,8,0,0,0,107,201912210sfo
+Brandin Cooks,CookBr00,receiving,LAR,6,4,39,1,3,14,3.5,25,6.3,10.3,0,NA,0,0,0,124.3,201912210sfo
+Cooper Kupp,KuppCo00,receiving,LAR,4,4,31,1,1,18,4.5,13,3.3,4.5,0,NA,0,0,0,138.5,201912210sfo
+Josh Reynolds,ReynJo00,receiving,LAR,3,2,32,0,1,1,0.5,31,15.5,4.7,1,2,0,0,0,102.1,201912210sfo
+Malcolm Brown,BrowMa03,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,-6,0,NA,0,0,1,0,201912210sfo
+Gerald Everett,EverGe00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,201912210sfo
+Todd Gurley,GurlTo01,receiving,LAR,2,0,0,0,0,0,NA,0,NA,-1.5,0,NA,0,0,0,39.6,201912210sfo
+George Kittle,KittGe00,receiving,SFO,8,5,79,1,5,31,6.2,48,9.6,7.4,0,NA,1,12.5,0,134.9,201912210sfo
+Deebo Samuel,SamuDe00,receiving,SFO,6,4,31,0,1,3,0.8,28,7,2.3,0,NA,0,0,0,79.2,201912210sfo
+Emmanuel Sanders,SandEm00,receiving,SFO,6,3,61,0,2,56,18.7,5,1.7,15.2,0,NA,0,0,2,46.5,201912210sfo
+Kendrick Bourne,BourKe00,receiving,SFO,3,2,29,0,2,21,10.5,8,4,7,0,NA,0,0,0,97.9,201912210sfo
+Ross Dwelley,DwelRo00,receiving,SFO,1,1,25,0,1,22,22,3,3,22,0,NA,0,0,0,118.7,201912210sfo
+Kyle Juszczyk,JuszKy00,receiving,SFO,2,1,23,0,1,-3,-3,26,26,2,0,NA,0,0,0,91.7,201912210sfo
+Raheem Mostert,MostRa00,receiving,SFO,1,0,0,0,0,0,NA,0,NA,-4,0,NA,1,100,0,39.6,201912210sfo

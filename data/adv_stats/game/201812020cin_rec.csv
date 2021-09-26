@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Emmanuel Sanders,SandEm00,receiving,DEN,6,4,19,0,2,9,2.3,10,2.5,2.8,0,NA,0,0,0,70.8,201812020cin
+Courtland Sutton,SuttCo00,receiving,DEN,7,4,85,1,3,79,19.8,6,1.5,13.9,0,NA,0,0,0,139.9,201812020cin
+Devontae Booker,BookDe00,receiving,DEN,2,2,38,0,1,13,6.5,25,12.5,6.5,0,NA,0,0,0,118.7,201812020cin
+Andy Janovich,JanoAn00,receiving,DEN,2,1,7,0,NA,-4,-4,11,11,-1,1,1,0,0,0,58.3,201812020cin
+Phillip Lindsay,LindPh00,receiving,DEN,1,1,2,0,0,-2,-2,4,4,-2,0,NA,0,0,0,79.2,201812020cin
+Matt LaCosse,LaCoMa00,receiving,DEN,1,0,0,0,NA,0,NA,0,NA,-2,0,NA,0,0,0,39.6,201812020cin
+Giovani Bernard,BernGi00,receiving,CIN,8,6,32,0,2,-8,-1.3,40,6.7,-0.8,1,6,0,0,0,81.2,201812020cin
+Tyler Boyd,BoydTy00,receiving,CIN,8,6,97,0,4,58,9.7,39,6.5,11.9,0,NA,2,25,0,115.1,201812020cin
+C.J. Uzomah,UzomC.00,receiving,CIN,6,5,33,0,2,16,3.2,17,3.4,2.7,0,NA,0,0,0,89.6,201812020cin
+Joe Mixon,MixoJo00,receiving,CIN,2,2,13,0,1,-4,-2,17,8.5,-2,1,2,0,0,0,93.7,201812020cin
+John Ross,RossJo00,receiving,CIN,3,2,13,0,1,6,3,7,3.5,7.7,0,NA,0,0,0,75.7,201812020cin
+Cody Core,CoreCo00,receiving,CIN,4,1,30,1,1,15,15,15,15,10.8,1,1,1,25,0,97.9,201812020cin
+Alex Erickson,EricAl01,receiving,CIN,1,1,2,0,NA,-4,-4,6,6,-4,0,NA,0,0,0,79.2,201812020cin
+A.J. Green,GreeA.00,receiving,CIN,1,1,7,0,NA,2,2,5,5,2,0,NA,0,0,0,95.8,201812020cin
+Matt Lengel,LengMa00,receiving,CIN,2,1,9,0,1,4,4,5,5,2,0,NA,0,0,0,62.5,201812020cin
+Jordan Franks,FranJo03,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,23,0,NA,0,0,1,0,201812020cin

@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Johnson,JohnDa08,rushing,HOU,19,57,5,29,1.5,28,1.5,0,NA,202010180oti
+Duke Johnson,JohnDu00,rushing,HOU,4,9,NA,-4,-1,13,3.3,0,NA,202010180oti
+Deshaun Watson,WatsDe00,rushing,HOU,4,26,1,14,3.5,12,3,0,NA,202010180oti
+Derrick Henry,HenrDe00,rushing,TEN,22,212,7,85,3.9,127,5.8,5,4.4,202010180oti
+Jeremy McNichols,McNiJe00,rushing,TEN,5,51,2,27,5.4,24,4.8,2,2.5,202010180oti

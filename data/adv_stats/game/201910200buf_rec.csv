@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Preston Williams,WillPr01,receiving,MIA,8,6,82,0,3,68,11.3,14,2.3,14.4,0,NA,0,0,0,107.3,201910200buf
+DeVante Parker,ParkDe01,receiving,MIA,10,5,55,1,4,33,6.6,22,4.4,10,0,NA,1,10,0,100,201910200buf
+Mike Gesicki,GesiMi00,receiving,MIA,4,4,41,0,2,29,7.3,12,3,7.3,0,NA,0,0,0,109.4,201910200buf
+Kenyan Drake,DrakKe00,receiving,MIA,4,3,37,0,1,4,1.3,33,11,1,0,NA,1,25,0,103.1,201910200buf
+Allen Hurns,HurnAl01,receiving,MIA,3,3,53,0,2,43,14.3,10,3.3,14.3,0,NA,0,0,0,118.7,201910200buf
+Albert Wilson,WilsAl02,receiving,MIA,2,1,22,0,1,17,17,5,5,12,0,NA,0,0,0,89.6,201910200buf
+Mark Walton,WaltMa00,receiving,MIA,1,1,-8,0,0,-8,-8,0,0,-8,0,NA,0,0,0,79.2,201910200buf
+Isaiah Ford,FordIs00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,1,0,201910200buf
+Durham Smythe,SmytDu00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,0,39.6,201910200buf
+John Brown,BrowJo02,receiving,BUF,6,5,83,1,3,73,14.6,10,2,17.5,0,NA,0,0,0,158.3,201910200buf
+Cole Beasley,BeasCo00,receiving,BUF,6,3,16,1,2,9,3,7,2.3,5,0,NA,0,0,0,95.8,201910200buf
+Isaiah McKenzie,McKeIs00,receiving,BUF,3,2,11,0,1,-5,-2.5,16,8,5.3,0,NA,0,0,0,72.9,201910200buf
+Dawson Knox,KnoxDa00,receiving,BUF,5,2,22,0,1,17,8.5,5,2.5,10.8,0,NA,2,40,0,53.7,201910200buf
+Lee Smith,SmitLe00,receiving,BUF,1,1,9,0,NA,2,2,7,7,2,0,NA,0,0,0,104.2,201910200buf
+Frank Gore,GoreFr00,receiving,BUF,1,1,11,0,1,-4,-4,15,15,-4,0,NA,0,0,0,112.5,201910200buf
+Duke Williams,WillDu01,receiving,BUF,1,1,23,0,1,18,18,5,5,18,0,NA,0,0,0,118.7,201910200buf
+Patrick DiMarco,DiMaPa00,receiving,BUF,1,1,27,0,1,-1,-1,28,28,-1,0,NA,0,0,0,118.7,201910200buf
+Andre Roberts,RobeAn00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,46,0,NA,0,0,0,39.6,201910200buf

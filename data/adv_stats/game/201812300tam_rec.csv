@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Julio Jones,JoneJu02,receiving,ATL,13,9,138,1,7,116,12.9,22,2.4,13.5,0,NA,0,0,0,129.6,201812300tam
+Mohamed Sanu,SanuMo00,receiving,ATL,10,7,90,0,4,27,3.9,63,9,4.3,0,NA,0,0,0,97.9,201812300tam
+Austin Hooper,HoopAu00,receiving,ATL,6,5,67,0,3,50,10,17,3.4,14,0,NA,0,0,0,113.2,201812300tam
+Calvin Ridley,RidlCa00,receiving,ATL,5,5,32,1,3,16,3.2,16,3.2,3.2,0,NA,0,0,0,132.9,201812300tam
+Russell Gage,GageRu00,receiving,ATL,2,2,14,0,NA,7,3.5,7,3.5,3.5,0,NA,0,0,0,95.8,201812300tam
+Tevin Coleman,ColeTe01,receiving,ATL,1,1,9,0,0,3,3,6,6,3,0,NA,0,0,0,104.2,201812300tam
+Brian Hill,HillBr02,receiving,ATL,1,1,9,0,0,4,4,5,5,4,2,0.5,0,0,0,104.2,201812300tam
+Logan Paulsen,PaulLo00,receiving,ATL,1,1,19,0,1,4,4,15,15,4,0,NA,0,0,0,118.7,201812300tam
+Matt Ryan,RyanMa00,receiving,ATL,1,1,5,1,1,1,1,4,4,1,0,NA,0,0,0,127.1,201812300tam
+Marvin Hall,HallMa02,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,201812300tam
+Justin Hardy,HardJu00,receiving,ATL,2,0,0,0,NA,0,NA,0,NA,12,0,NA,0,0,1,0,201812300tam
+Mike Evans,EvanMi00,receiving,TAM,8,6,106,2,5,61,10.2,45,7.5,10.9,0,NA,0,0,1,116.7,201812300tam
+Chris Godwin,GodwCh00,receiving,TAM,9,6,114,2,4,92,15.3,22,3.7,14.2,0,NA,0,0,0,149.3,201812300tam
+Adam Humphries,HumpAd00,receiving,TAM,6,5,66,0,4,55,11,11,2.2,10.3,0,NA,1,16.7,0,112.5,201812300tam
+Cameron Brate,BratCa00,receiving,TAM,4,2,39,0,2,30,15,9,4.5,13,0,NA,1,25,0,84.4,201812300tam
+Bobo Wilson,WilsJe00,receiving,TAM,1,1,16,0,1,16,16,0,0,16,0,NA,0,0,0,118.7,201812300tam
+Jacquizz Rodgers,RodgJa00,receiving,TAM,1,1,2,0,NA,1,1,1,1,1,0,NA,0,0,0,79.2,201812300tam
+Peyton Barber,BarbPe01,receiving,TAM,1,1,2,0,0,1,1,1,1,1,0,NA,0,0,0,79.2,201812300tam
+Justin Watson,WatsJu01,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,6,0,NA,0,0,0,39.6,201812300tam
+Antony Auclair,AuclAn00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,201812300tam

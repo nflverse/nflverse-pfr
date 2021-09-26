@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,WAS,9,98,3,91,10.1,7,0.8,2,4.5,201812030phi
+Chris Thompson,ThomCh03,rushing,WAS,3,3,NA,3,1,0,0,0,NA,201812030phi
+Jamison Crowder,CrowJa00,rushing,WAS,1,-5,0,-5,-5,0,0,0,NA,201812030phi
+Mark Sanchez,SancMa00,rushing,WAS,1,8,1,8,8,0,0,0,NA,201812030phi
+Josh Adams,AdamJo03,rushing,PHI,20,85,4,62,3.1,23,1.2,2,10,201812030phi
+Corey Clement,ClemCo00,rushing,PHI,5,27,3,23,4.6,4,0.8,0,NA,201812030phi
+Darren Sproles,SproDa00,rushing,PHI,4,22,1,13,3.3,9,2.3,1,4,201812030phi
+Carson Wentz,WentCa00,rushing,PHI,4,-4,0,-4,-1,0,0,0,NA,201812030phi

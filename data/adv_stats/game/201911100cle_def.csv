@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Levi Wallace,WallLe00,defense,BUF,0,9,9,100.0%,100,11.1,11.1,2,152.5,7,63,37,1,0,0,0,0,8,1,11.1%,201911100cle
+Tre'Davious White,WhitTr01,defense,BUF,0,11,5,45.5%,53,10.6,4.8,0,60,12.2,43,10,1,0,0,0,0,6,0,0.0%,201911100cle
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,4,4,100.0%,36,9,9,0,104.2,2.8,11,25,5,0,0,1,1,4,2,33.3%,201911100cle
+Matt Milano,MilaMa00,defense,BUF,0,4,3,75.0%,5,1.7,1.3,0,77.1,-2,-8,13,10,0,0,1,1,7,2,22.2%,201911100cle
+Kevin Johnson,JohnKe04,defense,BUF,0,3,2,66.7%,19,9.5,6.3,0,84,5.7,17,2,1,0,0,0,0,2,0,0.0%,201911100cle
+Jordan Poyer,PoyeJo00,defense,BUF,0,4,2,50.0%,21,10.5,5.3,0,65.6,8,18,3,4,0,0,0,0,8,0,0.0%,201911100cle
+Taron Johnson,JohnTa01,defense,BUF,0,2,2,100.0%,21,10.5,10.5,0,110.4,-2.5,-5,26,2,0,0,0,0,4,1,20.0%,201911100cle
+Trent Murphy,MurpTr00,defense,BUF,0,1,1,100.0%,3,3,3,0,79.2,3,3,0,1,2,0,0,2,7,0,0.0%,201911100cle
+Micah Hyde,HydeMi00,defense,BUF,0,2,1,50.0%,7,7,3.5,0,58.3,0,0,7,1,0,0,0,0,4,3,42.9%,201911100cle
+Jerry Hughes,HughJe99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,201911100cle
+Shaq Lawson,LawsSh00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,201911100cle
+Jordan Phillips,PhilJo01,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201911100cle
+Lorenzo Alexander,AlexLo99,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,16,NA,NA,3,0,0,0,0,3,0,0.0%,201911100cle
+Morgan Burnett,BurnMo99,defense,CLE,0,9,6,66.7%,102,17,11.3,0,104.9,16.6,72,30,4,1,0,0,1,8,1,11.1%,201911100cle
+Joe Schobert,SchoJo00,defense,CLE,0,7,5,71.4%,62,12.4,8.9,0,98.5,7.4,52,10,6,0,0,0,0,5,2,28.6%,201911100cle
+Denzel Ward,WardDe02,defense,CLE,0,12,5,41.7%,52,10.4,4.3,0,54.9,12.1,39,13,0,0,0,0,0,4,1,20.0%,201911100cle
+Greedy Williams,WillGr00,defense,CLE,0,6,4,66.7%,50,12.5,8.3,0,92.4,13.2,42,8,0,0,0,0,0,3,0,0.0%,201911100cle
+Damarious Randall,RandDa00,defense,CLE,0,7,3,42.9%,24,8,3.4,0,52.1,15.9,16,8,1,0,0,0,0,7,0,0.0%,201911100cle
+T.J. Carrie,CarrTr00,defense,CLE,0,2,2,100.0%,32,16,16,0,118.7,2.5,5,27,6,1,0,0,1,4,0,0.0%,201911100cle
+Mack Wilson,WilsMa03,defense,CLE,0,1,1,100.0%,2,2,2,0,79.2,1,1,1,12,0,1,0,1,4,1,20.0%,201911100cle
+Myles Garrett,GarrMy00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,0,4,1,0,0.0%,201911100cle
+Larry Ogunjobi,OgunLa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201911100cle
+Chad Thomas,ThomCh06,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,1,1,2,1,33.3%,201911100cle
+Sheldon Richardson,RichSh00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,201911100cle

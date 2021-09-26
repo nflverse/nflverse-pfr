@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Darren Waller,WallDa01,receiving,LVR,6,5,27,0,2,8,1.6,19,3.8,2,0,NA,1,16.7,0,85.4,202011010cle
+Hunter Renfrow,RenfHu00,receiving,LVR,4,4,26,1,2,16,4,10,2.5,4,0,NA,0,0,0,133.3,202011010cle
+Henry Ruggs III,RuggHe00,receiving,LVR,4,2,8,0,NA,2,1,6,3,15.3,0,NA,1,25,0,56.2,202011010cle
+Jason Witten,WittJa00,receiving,LVR,2,2,21,0,2,21,10.5,0,0,10.5,0,NA,0,0,0,110.4,202011010cle
+Devontae Booker,BookDe00,receiving,LVR,1,1,17,0,0,-1,-1,18,18,-1,0,NA,0,0,0,118.7,202011010cle
+Jalen Richard,RichJa01,receiving,LVR,1,1,12,0,1,5,5,7,7,5,0,NA,0,0,0,116.7,202011010cle
+Nelson Agholor,AghoNe00,receiving,LVR,2,0,0,0,NA,0,NA,0,NA,5.5,0,NA,0,0,0,39.6,202011010cle
+Josh Jacobs,JacoJo01,receiving,LVR,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,202011010cle
+Foster Moreau,MoreFo00,receiving,LVR,1,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,202011010cle
+Jarvis Landry,LandJa00,receiving,CLE,11,4,52,0,2,26,6.5,26,6.5,11.1,0,NA,3,27.3,0,52.1,202011010cle
+Harrison Bryant,BryaHa00,receiving,CLE,3,3,25,0,1,16,5.3,9,3,5.3,0,NA,0,0,0,101.4,202011010cle
+Kareem Hunt,HuntKa00,receiving,CLE,3,2,7,0,0,-10,-5,17,8.5,-3.3,0,NA,1,33.3,0,70.1,202011010cle
+Rashard Higgins,HiggRa00,receiving,CLE,3,1,14,0,1,14,14,0,0,13.7,0,NA,0,0,0,49.3,202011010cle
+D'Ernest Johnson,JohnDE04,receiving,CLE,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,202011010cle
+David Njoku,NjokDa00,receiving,CLE,3,1,19,0,1,-3,-3,22,22,5.7,1,1,1,33.3,0,56.2,202011010cle
+Andy Janovich,JanoAn00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,202011010cle

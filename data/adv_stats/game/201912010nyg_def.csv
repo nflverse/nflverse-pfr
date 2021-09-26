@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jaire Alexander,AlexJa00,defense,GNB,0,6,3,50.0%,24,8,4,0,60.4,6.8,18,6,0,0,0,0,0,3,1,25.0%,201912010nyg
+Ibraheim Campbell,CampIb00,defense,GNB,0,4,3,75.0%,22,7.3,5.5,0,87.5,1.8,4,18,0,0,0,0,0,1,2,66.7%,201912010nyg
+Tramon Williams,WillTr99,defense,GNB,1,4,3,75.0%,61,20.3,15.3,0,77.1,18.8,48,13,0,0,0,0,0,4,2,33.3%,201912010nyg
+Kevin King,KingKe01,defense,GNB,1,6,3,50.0%,35,11.7,5.8,1,68.1,8.7,31,4,0,0,0,0,0,3,0,0.0%,201912010nyg
+Adrian Amos,AmosAd00,defense,GNB,0,5,2,40.0%,39,19.5,7.8,0,67.9,11,36,3,1,0,0,0,0,7,0,0.0%,201912010nyg
+B.J. Goodson,GoodB.00,defense,GNB,0,2,2,100.0%,12,6,6,0,91.7,-2,-4,16,0,0,0,0,0,2,0,0.0%,201912010nyg
+Chandon Sullivan,SullCh00,defense,GNB,0,3,1,33.3%,2,2,0.7,0,42.4,9,1,1,2,0,0,0,0,2,0,0.0%,201912010nyg
+Blake Martinez,MartBl01,defense,GNB,0,1,1,100.0%,12,12,12,0,116.7,2,2,10,1,0,0,0,0,10,0,0.0%,201912010nyg
+Oren Burks,BurkOr00,defense,GNB,0,3,1,33.3%,27,27,9,0,67.4,2.7,-6,33,0,0,0,0,0,1,0,0.0%,201912010nyg
+Josh Jackson,JackJo01,defense,GNB,0,1,1,100.0%,6,6,6,0,91.7,6,6,0,0,0,0,0,0,1,0,0.0%,201912010nyg
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,5,0,5,4,0,0.0%,201912010nyg
+Kyler Fackrell,FackKy00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201912010nyg
+Preston Smith,SmitPr00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,5,1,0,0,1,1,0,0.0%,201912010nyg
+Tyler Lancaster,LancTy00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201912010nyg
+Darnell Savage Jr.,SavaDa00,defense,GNB,1,1,0,0.0%,NA,NA,0,NA,0,0,NA,NA,0,0,0,0,0,4,0,0.0%,201912010nyg
+Antoine Bethea,BethAn20,defense,NYG,0,4,4,100.0%,68,17,17,3,158.3,15.3,61,7,2,0,0,0,0,5,1,16.7%,201912010nyg
+Grant Haley,HaleGr00,defense,NYG,0,5,4,80.0%,31,7.8,6.2,0,92.5,6.8,13,18,0,0,0,0,0,4,0,0.0%,201912010nyg
+Deandre Baker,BakeDe00,defense,NYG,0,7,2,28.6%,68,34,9.7,0,67.6,14,61,7,0,0,0,0,0,4,0,0.0%,201912010nyg
+Julian Love,LoveJu00,defense,NYG,0,2,2,100.0%,23,11.5,11.5,0,114.6,8,16,7,1,0,0,0,0,7,0,0.0%,201912010nyg
+Sam Beal,BealSa00,defense,NYG,0,2,2,100.0%,15,7.5,7.5,1,137.5,6,12,3,0,0,0,0,0,1,0,0.0%,201912010nyg
+David Mayo,MayoDa00,defense,NYG,0,4,2,50.0%,26,13,6.5,0,70.8,2.8,10,16,3,0,0,0,0,5,1,16.7%,201912010nyg
+Janoris Jenkins,JenkJa03,defense,NYG,0,4,1,25.0%,4,4,1,0,39.6,12.8,-3,7,0,0,0,0,0,1,1,50.0%,201912010nyg
+Alec Ogletree,OgleAl00,defense,NYG,0,2,1,50.0%,7,7,3.5,0,58.3,3,5,2,7,0,0,0,0,9,1,10.0%,201912010nyg
+Corey Ballentine,BallCo00,defense,NYG,0,1,1,100.0%,10,10,10,0,108.3,4,4,6,0,0,0,0,0,2,0,0.0%,201912010nyg
+Dexter Lawrence,LawrDe03,defense,NYG,0,1,1,100.0%,-3,-3,-3,0,79.2,-5,-5,2,0,0,0,0,0,3,0,0.0%,201912010nyg
+Markus Golden,GoldMa00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,1,0,1,8,1,11.1%,201912010nyg
+Dalvin Tomlinson,TomlDa00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,201912010nyg
+Lorenzo Carter,CartLo01,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1,0,0,1,1,0,0.0%,201912010nyg
+Leonard Williams,WillLe02,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201912010nyg

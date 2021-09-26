@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Ben Roethlisberger,RoetBe00,passing,PIT,29,42,306,15,35.7,313,7.5,121,4.2,2.9,185,6.4,3,7.1%,8,19.0%,0,7,1,2,3,7.0%,1,8,202011080dal
+Mason Rudolph,RudoMa00,passing,PIT,2,3,3,NA,NA,15,5,3,1.5,1,0,0,0,0.0%,1,33.3%,0,1,1,0,1,33.3%,0,NA,202011080dal
+Garrett Gilbert,GilbGa01,passing,DAL,21,38,243,10,25,348,9.2,191,9.1,5,52,2.5,0,0.0%,11,29.7%,2,17,10,6,18,42.9%,2,13,202011080dal

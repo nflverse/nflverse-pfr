@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jay Ajayi,AjayJa00,rushing,PHI,7,23,2,21,3,2,0.3,1,7,201809160tam
+Wendell Smallwood,SmalWe00,rushing,PHI,7,28,1,20,2.9,8,1.1,0,NA,201809160tam
+Corey Clement,ClemCo00,rushing,PHI,6,30,2,12,2,18,3,0,NA,201809160tam
+Nick Foles,FoleNi00,rushing,PHI,3,8,3,6,2,2,0.7,0,NA,201809160tam
+Nelson Agholor,AghoNe00,rushing,PHI,1,2,0,2,2,0,0,0,NA,201809160tam
+Peyton Barber,BarbPe01,rushing,TAM,16,22,0,6,0.4,16,1,0,NA,201809160tam
+Jacquizz Rodgers,RodgJa00,rushing,TAM,5,13,1,3,0.6,10,2,0,NA,201809160tam
+Ryan Fitzpatrick,FitzRy00,rushing,TAM,1,-1,0,-1,-1,0,0,0,NA,201809160tam
+Shaun Wilson,WilsSh01,rushing,TAM,1,9,NA,6,6,3,3,0,NA,201809160tam

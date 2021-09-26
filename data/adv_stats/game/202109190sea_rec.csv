@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Derrick Henry,HenrDe00,receiving,TEN,6,6,55,0,3,12,2,43,7.2,2,0,NA,0,0,0,104.9,202109190sea
+Julio Jones,JoneJu02,receiving,TEN,8,6,128,0,4,108,18,20,3.3,15.1,0,NA,1,12.5,0,116.7,202109190sea
+A.J. Brown,BrowAJ00,receiving,TEN,9,3,43,0,3,43,14.3,0,0,19.1,0,NA,3,33.3,0,49.8,202109190sea
+Jeremy McNichols,McNiJe00,receiving,TEN,3,3,26,0,2,9,3,17,5.7,3,0,NA,0,0,0,102.8,202109190sea
+MyCole Pruitt,PruiMy00,receiving,TEN,3,3,43,0,2,27,9,16,5.3,9,0,NA,0,0,0,118.7,202109190sea
+Chester Rogers,RogeCh02,receiving,TEN,5,2,22,0,1,22,11,0,0,9.6,0,NA,1,20,0,53.7,202109190sea
+Geoff Swaim,SwaiGe00,receiving,TEN,2,2,10,0,NA,10,5,0,0,5,0,NA,0,0,0,87.5,202109190sea
+Tommy Hudson,HudsTo00,receiving,TEN,2,1,14,0,1,0,0,14,14,1,0,NA,0,0,0,72.9,202109190sea
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,1,1,6,0,NA,5,5,1,1,5,0,NA,0,0,0,91.7,202109190sea
+Tyler Lockett,LockTy00,receiving,SEA,11,8,178,1,4,114,14.3,64,8,14.7,0,NA,0,0,0,145.1,202109190sea
+D.K. Metcalf,MetcDK00,receiving,SEA,11,6,53,0,2,29,4.8,24,4,8.8,1,6,0,0,0,67.6,202109190sea
+Freddie Swain,SwaiFr00,receiving,SEA,5,5,95,1,3,35,7,60,12,7,0,NA,0,0,0,158.3,202109190sea
+Travis Homer,HomeTr00,receiving,SEA,2,2,14,0,1,3,1.5,11,5.5,1.5,0,NA,0,0,0,95.8,202109190sea
+Gerald Everett,EverGe00,receiving,SEA,2,1,3,0,NA,3,3,0,0,6.5,0,NA,0,0,0,56.2,202109190sea

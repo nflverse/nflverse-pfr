@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Devin Singletary,SingDe00,receiving,BUF,7,6,76,0,4,6,1,70,11.7,1.6,1,6,0,0,0,111.9,202001040htx
+Cole Beasley,BeasCo00,receiving,BUF,5,4,44,0,2,13,3.3,31,7.8,3,0,NA,1,20,0,103.3,202001040htx
+Duke Williams,WillDu01,receiving,BUF,10,4,49,0,3,44,11,5,1.3,15.2,0,NA,1,10,0,55.8,202001040htx
+Isaiah McKenzie,McKeIs00,receiving,BUF,5,4,23,0,1,-3,-0.8,26,6.5,2.8,0,NA,0,0,0,85.8,202001040htx
+John Brown,BrowJo02,receiving,BUF,8,4,50,0,2,37,9.3,13,3.3,13.6,0,NA,1,12.5,0,69.8,202001040htx
+Dawson Knox,KnoxDa00,receiving,BUF,2,1,14,0,1,7,7,7,7,6,0,NA,0,0,0,72.9,202001040htx
+Lee Smith,SmitLe00,receiving,BUF,1,1,8,0,NA,1,1,7,7,1,0,NA,0,0,0,100,202001040htx
+Josh Allen,AlleJo02,receiving,BUF,1,1,16,1,1,12,12,4,4,12,0,NA,0,0,0,158.3,202001040htx
+Patrick DiMarco,DiMaPa00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,48,0,NA,0,0,0,39.6,202001040htx
+Frank Gore,GoreFr00,receiving,BUF,1,0,0,0,0,0,NA,0,NA,-1,0,NA,1,100,0,39.6,202001040htx
+Tyler Kroft,KrofTy00,receiving,BUF,2,0,0,0,NA,0,NA,0,NA,9.5,0,NA,0,0,0,39.6,202001040htx
+DeAndre Hopkins,HopkDe00,receiving,HOU,8,6,90,0,4,81,13.5,9,1.5,11.8,0,NA,0,0,0,111.5,202001040htx
+Darren Fells,FellDa01,receiving,HOU,5,4,37,0,3,22,5.5,15,3.8,6.4,1,4,1,20,0,97.5,202001040htx
+Kenny Stills,StilKe00,receiving,HOU,5,4,46,0,3,40,10,6,1.5,15.4,0,NA,0,0,0,105,202001040htx
+Duke Johnson,JohnDu00,receiving,HOU,3,3,30,0,1,7,2.3,23,7.7,2.3,0,NA,0,0,0,108.3,202001040htx
+Carlos Hyde,HydeCa00,receiving,HOU,1,1,5,1,1,0,0,5,5,0,0,NA,0,0,0,127.1,202001040htx
+Taiwan Jones,JoneTa00,receiving,HOU,1,1,34,0,1,-1,-1,35,35,-1,0,NA,0,0,0,118.7,202001040htx
+DeAndre Carter,CartDe02,receiving,HOU,2,1,5,0,NA,1,1,4,4,3.5,0,NA,0,0,0,56.2,202001040htx

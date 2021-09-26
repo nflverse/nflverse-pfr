@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,14,30,1,8,0.6,22,1.6,0,NA,202011080oti
+Cordarrelle Patterson,PattCo00,rushing,CHI,3,13,NA,8,2.7,5,1.7,0,NA,202011080oti
+Nick Foles,FoleNi00,rushing,CHI,2,2,0,2,1,0,0,0,NA,202011080oti
+Barkevious Mingo,MingBa00,rushing,CHI,1,11,1,11,11,0,0,0,NA,202011080oti
+Derrick Henry,HenrDe00,rushing,TEN,21,68,3,13,0.6,55,2.6,1,21,202011080oti
+D'Onta Foreman,ForeDO00,rushing,TEN,5,11,NA,2,0.4,9,1.8,0,NA,202011080oti
+Ryan Tannehill,TannRy00,rushing,TEN,3,3,0,3,1,0,0,0,NA,202011080oti
+Jeremy McNichols,McNiJe00,rushing,TEN,2,10,1,5,2.5,5,2.5,0,NA,202011080oti

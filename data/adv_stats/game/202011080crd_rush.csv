@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jordan Howard,HowaJo00,rushing,MIA,10,19,2,8,0.8,11,1.1,1,10,202011080crd
+Salvon Ahmed,AhmeSa01,rushing,MIA,7,38,3,33,4.7,5,0.7,1,7,202011080crd
+Tua Tagovailoa,TagoTu00,rushing,MIA,7,35,3,12,1.7,23,3.3,0,NA,202011080crd
+Patrick Laird,LairPa00,rushing,MIA,1,-1,0,-1,-1,0,0,0,NA,202011080crd
+Chase Edmonds,EdmoCh00,rushing,ARI,25,70,0,31,1.2,39,1.6,0,NA,202011080crd
+Kyler Murray,MurrKy00,rushing,ARI,11,106,6,72,6.5,34,3.1,2,5.5,202011080crd
+D.J. Foster,FostD.01,rushing,ARI,1,2,0,0,0,2,2,0,NA,202011080crd

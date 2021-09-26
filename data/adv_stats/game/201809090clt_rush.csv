@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,17,95,4,49,2.9,46,2.7,1,17,201809090clt
+Andy Dalton,DaltAn00,rushing,CIN,2,8,1,8,4,0,0,0,NA,201809090clt
+Giovani Bernard,BernGi00,rushing,CIN,1,-2,NA,-2,-2,0,0,0,NA,201809090clt
+Jordan Wilkins,WilkJo01,rushing,IND,14,40,1,17,1.2,23,1.6,1,14,201809090clt
+Nyheim Hines,HineNy00,rushing,IND,5,19,2,12,2.4,7,1.4,0,NA,201809090clt
+Christine Michael,MichCh00,rushing,IND,2,9,NA,0,0,9,4.5,0,NA,201809090clt
+Andrew Luck,LuckAn00,rushing,IND,1,7,1,6,6,1,1,0,NA,201809090clt

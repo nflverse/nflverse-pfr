@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Diontae Johnson,JohnDi01,receiving,PIT,13,8,59,1,2,55,6.9,4,0.5,7.4,0,NA,0,0,0,97.9,202012210cin
+Chase Claypool,ClayCh01,receiving,PIT,8,3,54,0,2,11,3.7,43,14.3,12.1,0,NA,0,0,0,61.5,202012210cin
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,6,3,15,0,1,5,1.7,10,3.3,4,0,NA,0,0,1,16.7,202012210cin
+Benny Snell Jr.,SnelBe00,receiving,PIT,4,3,23,0,1,-5,-1.7,28,9.3,-1,0,NA,0,0,0,88.5,202012210cin
+Ray-Ray McCloud,McClRa00,receiving,PIT,1,1,-2,0,NA,-3,-3,1,1,-3,0,NA,0,0,0,79.2,202012210cin
+Anthony McFarland Jr.,McFaAn00,receiving,PIT,1,1,9,0,NA,-1,-1,10,10,-1,0,NA,0,0,0,104.2,202012210cin
+Jaylen Samuels,SamuJa00,receiving,PIT,1,1,12,0,NA,3,3,9,9,3,0,NA,0,0,0,116.7,202012210cin
+Eric Ebron,EbroEr00,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,20,0,NA,0,0,0,39.6,202012210cin
+James Washington,WashJa00,receiving,PIT,3,0,0,0,NA,0,NA,0,NA,25,0,NA,0,0,0,39.6,202012210cin
+Tee Higgins,HiggTe00,receiving,CIN,6,3,31,0,3,21,7,10,3.3,9.5,0,NA,0,0,0,65.3,202012210cin
+A.J. Green,GreeA.00,receiving,CIN,3,2,40,0,2,35,17.5,5,2.5,15.7,0,NA,0,0,0,109.7,202012210cin
+Giovani Bernard,BernGi00,receiving,CIN,1,1,14,1,1,5,5,9,9,5,0,NA,0,0,0,158.3,202012210cin
+Drew Sample,SampDr00,receiving,CIN,1,1,4,0,NA,4,4,0,0,4,0,NA,0,0,0,83.3,202012210cin
+Tyler Boyd,BoydTy00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,38,0,NA,0,0,0,39.6,202012210cin
+Alex Erickson,EricAl01,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,28,0,NA,0,0,0,39.6,202012210cin

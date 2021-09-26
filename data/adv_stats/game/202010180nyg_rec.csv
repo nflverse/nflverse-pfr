@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Terry McLaurin,McLaTe00,receiving,WAS,12,7,74,0,4,27,3.9,47,6.7,8.3,2,3.5,0,0,1,41.7,202010180nyg
+J.D. McKissic,McKiJ.00,receiving,WAS,6,6,43,0,3,5,0.8,38,6.3,0.8,0,NA,0,0,0,96.5,202010180nyg
+Dontrelle Inman,InmaDo00,receiving,WAS,5,5,45,0,4,37,7.4,8,1.6,7.4,0,NA,0,0,0,104.2,202010180nyg
+Isaiah Wright,WrigIs01,receiving,WAS,5,4,25,0,1,10,2.5,15,3.8,4,1,4,0,0,0,87.5,202010180nyg
+Antonio Gibson,GibsAn00,receiving,WAS,5,4,25,0,1,-2,-0.5,27,6.8,-0.6,0,NA,0,0,0,87.5,202010180nyg
+Logan Thomas,ThomLo00,receiving,WAS,4,3,42,1,2,29,9.7,13,4.3,10,1,3,0,0,0,147.9,202010180nyg
+Peyton Barber,BarbPe01,receiving,WAS,1,1,4,0,0,3,3,1,1,3,0,NA,0,0,0,83.3,202010180nyg
+Cam Sims,SimsCa00,receiving,WAS,1,1,22,1,1,22,22,0,0,22,0,NA,0,0,0,158.3,202010180nyg
+Antonio Gandy-Golden,GandAn00,receiving,WAS,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,202010180nyg
+Kaden Smith,SmitKa00,receiving,NYG,3,3,15,0,2,1,0.3,14,4.7,0.3,0,NA,0,0,0,87.5,202010180nyg
+Evan Engram,EngrEv00,receiving,NYG,3,2,30,0,2,23,11.5,7,3.5,9.7,0,NA,0,0,0,99.3,202010180nyg
+Darius Slayton,SlayDa01,receiving,NYG,4,2,41,1,2,41,20.5,0,0,15.5,0,NA,0,0,1,86.5,202010180nyg
+Austin Mack,MackAu01,receiving,NYG,1,1,1,0,NA,1,1,0,0,1,0,NA,0,0,0,79.2,202010180nyg
+Golden Tate,TateGo00,receiving,NYG,1,1,11,0,1,11,11,0,0,11,0,NA,0,0,0,112.5,202010180nyg
+Dion Lewis,LewiDi00,receiving,NYG,1,1,10,0,1,-2,-2,12,12,-2,0,NA,0,0,0,108.3,202010180nyg
+Devonta Freeman,FreeDe00,receiving,NYG,2,1,-4,0,0,-4,-4,0,0,-2,0,NA,0,0,0,56.2,202010180nyg
+C.J. Board,BoarC.00,receiving,NYG,3,1,8,0,NA,3,3,5,5,9,0,NA,0,0,0,42.4,202010180nyg

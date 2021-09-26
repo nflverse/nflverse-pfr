@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Tony Brown,BrowTo01,defense,CIN,0,15,7,46.7%,88,12.6,5.9,1,87.6,13.4,51,37,1,0,0,0,0,9,1,10.0%,202011150pit
+Vonn Bell,BellVo00,defense,CIN,0,7,4,57.1%,41,10.3,5.9,2,113.7,6.9,27,14,7,0,2,0,2,3,1,25.0%,202011150pit
+William Jackson III,JackWi02,defense,CIN,0,7,4,57.1%,79,19.8,11.3,0,96.7,13,37,42,0,0,0,0,0,6,0,0.0%,202011150pit
+Jalen Davis,DaviJa06,defense,CIN,0,6,3,50.0%,36,12,6,0,68.7,8.3,26,10,4,0,0,0,0,3,2,40.0%,202011150pit
+Germaine Pratt,PratGe00,defense,CIN,0,3,2,66.7%,9,4.5,3,0,70.1,0.3,2,7,1,0,0,0,0,8,1,11.1%,202011150pit
+Jessie Bates III,BateJe00,defense,CIN,0,2,2,100.0%,29,14.5,14.5,1,158.3,12.5,25,4,0,0,0,0,0,7,0,0.0%,202011150pit
+Carl Lawson,LawsCa00,defense,CIN,0,1,1,100.0%,10,10,10,0,108.3,4,4,6,0,0,6,0,6,2,1,33.3%,202011150pit
+Khalid Kareem,KareKh00,defense,CIN,0,1,1,100.0%,8,8,8,0,100,2,2,6,0,0,0,0,0,3,0,0.0%,202011150pit
+Sam Hubbard,HubbSa00,defense,CIN,0,1,1,100.0%,14,14,14,0,118.7,9,9,5,0,0,0,0,0,3,0,0.0%,202011150pit
+Josh Bynes,ByneJo00,defense,CIN,0,1,1,100.0%,1,1,1,0,79.2,-3,-3,4,1,0,0,0,0,2,1,33.3%,202011150pit
+Mackensie Alexander,AlexMa01,defense,CIN,0,1,1,100.0%,4,4,4,0,83.3,1,1,3,0,0,0,0,0,4,0,0.0%,202011150pit
+Akeem Davis-Gaither,DaviAk01,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,3,0,0.0%,202011150pit
+Logan Wilson,WilsLo00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,5,0,0,0,0,3,1,25.0%,202011150pit
+Shawn Williams,WillSh02,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,202011150pit
+Cameron Sutton,SuttCa00,defense,PIT,0,8,6,75.0%,36,6,4.5,0,83.3,2.9,14,22,0,0,0,0,0,4,0,0.0%,202011150pit
+Joe Haden,HadeJo99,defense,PIT,0,9,4,44.4%,45,11.3,5,0,60,12.4,29,16,0,0,0,0,0,4,1,20.0%,202011150pit
+Steven Nelson,NelsSt01,defense,PIT,0,8,4,50.0%,28,7,3.5,1,97.9,11.4,9,19,0,0,0,0,0,2,0,0.0%,202011150pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,4,3,75.0%,19,6.3,4.8,0,84.4,11.3,15,4,5,0,0,0,0,8,0,0.0%,202011150pit
+Marcus Allen,AlleMa03,defense,PIT,0,3,2,66.7%,24,12,8,0,91,4.7,8,16,4,0,0,0,0,2,1,33.3%,202011150pit
+Minkah Fitzpatrick,FitzMi00,defense,PIT,0,1,1,100.0%,54,54,54,0,118.7,24,24,30,0,0,0,0,0,6,0,0.0%,202011150pit
+Vince Williams,WillVi01,defense,PIT,0,3,1,33.3%,7,7,2.3,0,42.4,5.3,7,0,3,0,0,0,0,4,0,0.0%,202011150pit
+T.J. Watt,WattT.00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,2,2,4,4,0,0.0%,202011150pit
+Cameron Heyward,HeywCa01,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,0,1,2,0,3,2,0,0.0%,202011150pit
+Bud Dupree,DuprAl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0,1,1,2,3,0,0.0%,202011150pit
+Robert Spillane,SpilRo00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,0,1,2,5,0,0.0%,202011150pit
+Stephon Tuitt,TuitSt00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202011150pit
+Olasunkanmi Adeniyi,AdenOl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,1,50.0%,202011150pit
+Antoine Brooks Jr.,BrooAn00,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,1,0,0,0,0,2,1,33.3%,202011150pit
+Alex Highsmith,HighAl02,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0,0,1,0,0.0%,202011150pit

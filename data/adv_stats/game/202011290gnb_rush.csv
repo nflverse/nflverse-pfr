@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,11,103,5,63,5.7,40,3.6,0,NA,202011290gnb
+Mitchell Trubisky,TrubMi00,rushing,CHI,3,10,1,9,3,1,0.3,0,NA,202011290gnb
+Cordarrelle Patterson,PattCo00,rushing,CHI,2,8,NA,4,2,4,2,0,NA,202011290gnb
+Aaron Jones,JoneAa00,rushing,GNB,17,90,7,43,2.5,47,2.8,1,17,202011290gnb
+Jamaal Williams,WillJa06,rushing,GNB,17,73,5,43,2.5,30,1.8,1,17,202011290gnb
+Tim Boyle,BoylTi00,rushing,GNB,2,0,NA,0,0,0,0,0,NA,202011290gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,2,12,1,10,5,2,1,0,NA,202011290gnb
+Equanimeous St. Brown,St.BEq00,rushing,GNB,1,7,1,4,4,3,3,0,NA,202011290gnb

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Christian McCaffrey,McCaCh01,rushing,CAR,18,69,5,26,1.4,43,2.4,1,18,202011080kan
+Curtis Samuel,SamuCu00,rushing,CAR,3,13,0,1,0.3,12,4,0,NA,202011080kan
+Teddy Bridgewater,BridTe00,rushing,CAR,2,19,2,4,2,15,7.5,0,NA,202011080kan
+Mike Davis,DaviMi01,rushing,CAR,1,3,0,1,1,2,2,0,NA,202011080kan
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,5,14,2,4,0.8,10,2,0,NA,202011080kan
+Le'Veon Bell,BellLe00,rushing,KAN,4,8,NA,1,0.3,7,1.8,0,NA,202011080kan
+Tyreek Hill,HillTy00,rushing,KAN,1,8,0,3,3,5,5,0,NA,202011080kan
+Patrick Mahomes,MahoPa00,rushing,KAN,1,6,1,6,6,0,0,0,NA,202011080kan

@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mike Davis,DaviMi01,rushing,CAR,15,55,5,29,1.9,26,1.7,1,15,202011290min
+Rodney Smith,SmitRo08,rushing,CAR,7,18,2,0,0,18,2.6,2,3.5,202011290min
+Trenton Cannon,CannTr00,rushing,CAR,3,17,1,8,2.7,9,3,0,NA,202011290min
+Teddy Bridgewater,BridTe00,rushing,CAR,2,12,1,9,4.5,3,1.5,0,NA,202011290min
+Curtis Samuel,SamuCu00,rushing,CAR,1,5,1,2,2,3,3,0,NA,202011290min
+Dalvin Cook,CookDa01,rushing,MIN,18,61,4,36,2,25,1.4,1,18,202011290min
+Kirk Cousins,CousKi00,rushing,MIN,3,19,2,13,4.3,6,2,0,NA,202011290min
+Alexander Mattison,MattAl01,rushing,MIN,2,6,NA,4,2,2,1,0,NA,202011290min
+C.J. Ham,HamxC.00,rushing,MIN,1,10,1,9,9,1,1,0,NA,202011290min

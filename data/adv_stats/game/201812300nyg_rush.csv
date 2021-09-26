@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Rod Smith,SmitRo06,rushing,DAL,12,35,4,14,1.2,21,1.8,1,12,201812300nyg
+Darius Jackson,JackDa01,rushing,DAL,6,16,NA,13,2.2,3,0.5,0,NA,201812300nyg
+Dak Prescott,PresDa01,rushing,DAL,4,0,0,0,0,0,0,0,NA,201812300nyg
+Saquon Barkley,BarkSa00,rushing,NYG,17,109,5,13,0.8,96,5.6,1,17,201812300nyg
+Wayne Gallman,GallWa00,rushing,NYG,6,23,2,5,0.8,18,3,0,NA,201812300nyg
+Eli Manning,MannEl00,rushing,NYG,1,2,1,1,1,1,1,0,NA,201812300nyg
+Sterling Shepard,ShepSt00,rushing,NYG,1,9,0,9,9,0,0,0,NA,201812300nyg

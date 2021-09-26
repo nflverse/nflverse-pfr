@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kevin Johnson,JohnKe04,defense,CLE,0,7,4,57.1%,66,16.5,9.4,0,89,10.3,50,16,0,0,0,0,0,3,1,25.0%,202011290jax
+Karl Joseph,JoseKa00,defense,CLE,0,4,4,100.0%,33,8.3,8.3,1,140.6,2.8,11,22,0,0,0,0,0,5,1,16.7%,202011290jax
+Tavierre Thomas,ThomTa01,defense,CLE,0,4,3,75.0%,28,9.3,7,0,93.7,6,19,9,2,0,0,0,0,3,1,25.0%,202011290jax
+Terrance Mitchell,MitcTe00,defense,CLE,0,4,3,75.0%,50,16.7,12.5,1,156.2,17,19,31,0,0,0,0,0,6,0,0.0%,202011290jax
+B.J. Goodson,GoodB.00,defense,CLE,0,4,2,50.0%,26,13,6.5,0,70.8,7,17,9,0,0,0,0,0,6,1,14.3%,202011290jax
+Malcolm Smith,SmitMa02,defense,CLE,0,2,2,100.0%,15,7.5,7.5,0,97.9,4.5,9,6,3,0,0,0,0,5,0,0.0%,202011290jax
+Mack Wilson,WilsMa03,defense,CLE,0,4,1,25.0%,4,4,1,0,39.6,11.5,-5,9,1,0,0,0,0,3,1,25.0%,202011290jax
+Jacob Phillips,PhilJa01,defense,CLE,0,1,1,100.0%,13,13,13,0,118.7,-2,-2,15,2,0,0,0,0,2,0,0.0%,202011290jax
+Olivier Vernon,VernOl00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,2,0,2,2,1,33.3%,202011290jax
+Andrew Sendejo,SendAn00,defense,CLE,0,2,0,0.0%,NA,NA,0,NA,39.6,32,NA,NA,0,0,0,0,0,1,2,66.7%,202011290jax
+M.J. Stewart,StewM.00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202011290jax
+Luq Barcoo,BarcLu00,defense,JAX,0,6,4,66.7%,48,12,8,1,130.6,9,34,14,0,0,0,0,0,4,2,33.3%,202011290jax
+Tre Herndon,HernTr00,defense,JAX,0,6,4,66.7%,48,12,8,1,130.6,8.2,35,13,0,0,0,0,0,4,1,20.0%,202011290jax
+Jarrod Wilson,WilsJa00,defense,JAX,0,3,3,100.0%,38,12.7,12.7,0,118.7,8.7,26,12,3,0,0,0,0,7,0,0.0%,202011290jax
+Josiah Scott,ScotJo00,defense,JAX,0,3,3,100.0%,59,19.7,19.7,0,118.7,15.7,47,12,0,0,0,0,0,4,0,0.0%,202011290jax
+Joe Schobert,SchoJo00,defense,JAX,0,4,2,50.0%,34,17,8.5,0,79.2,9,6,28,2,0,0,0,0,8,1,11.1%,202011290jax
+Doug Costin,CostDo00,defense,JAX,0,1,1,100.0%,4,4,4,0,83.3,-5,-5,9,6,0,0,0,0,2,0,0.0%,202011290jax
+Myles Jack,JackMy00,defense,JAX,0,1,1,100.0%,14,14,14,0,118.7,-1,-1,15,3,0,0,0,0,9,1,10.0%,202011290jax
+Brandon Rusnak,WatsBr01,defense,JAX,0,2,1,50.0%,13,13,6.5,0,70.8,1,-1,14,0,0,0,0,0,4,2,33.3%,202011290jax
+Dawuane Smoot,SmooDa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,1,1,50.0%,202011290jax
+Aaron Lynch,LyncAa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,2,0,0.0%,202011290jax
+Andrew Wingard,WingAn01,defense,JAX,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,2,0,0,0,0,3,0,0.0%,202011290jax
+Kamalei Correa,CorrKa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0,0,1,1,50.0%,202011290jax
+DaVon Hamilton,HamiDa02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0,0,1,0,0.0%,202011290jax

@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Boston Scott,ScotBo02,rushing,PHI,19,54,5,13,0.7,41,2.2,0,NA,201912290nyg
+Miles Sanders,SandMi01,rushing,PHI,9,52,2,19,2.1,33,3.7,0,NA,201912290nyg
+Carson Wentz,WentCa00,rushing,PHI,3,15,2,8,2.7,7,2.3,0,NA,201912290nyg
+Saquon Barkley,BarkSa00,rushing,NYG,17,92,2,-3,-0.2,95,5.6,0,NA,201912290nyg
+Daniel Jones,JoneDa05,rushing,NYG,3,26,1,26,8.7,0,0,0,NA,201912290nyg
+Javorius Allen,AlleJa01,rushing,NYG,1,4,1,-2,-2,6,6,0,NA,201912290nyg

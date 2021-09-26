@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,9,12,2,1,0.1,11,1.2,0,NA,201811180chi
+Latavius Murray,MurrLa00,rushing,MIN,4,5,NA,3,0.8,2,0.5,0,NA,201811180chi
+Kirk Cousins,CousKi00,rushing,MIN,1,5,0,5,5,0,0,0,NA,201811180chi
+Jordan Howard,HowaJo00,rushing,CHI,18,63,1,26,1.4,37,2.1,0,NA,201811180chi
+Mitchell Trubisky,TrubMi00,rushing,CHI,10,43,4,38,3.8,5,0.5,0,NA,201811180chi
+Tarik Cohen,CoheTa00,rushing,CHI,7,27,2,20,2.9,7,1,1,7,201811180chi
+Taylor Gabriel,GabrTa00,rushing,CHI,2,17,1,13,6.5,4,2,0,NA,201811180chi
+Anthony Miller,MillAn02,rushing,CHI,1,-1,0,-1,-1,0,0,0,NA,201811180chi
+Taquan Mizzell,MizzTa00,rushing,CHI,1,-1,NA,-1,-1,0,0,0,NA,201811180chi

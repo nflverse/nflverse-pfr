@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Benny Snell Jr.,SnelBe00,rushing,PIT,18,91,4,32,1.8,59,3.3,1,18,201912290rav
+Kerrith Whyte Jr,WhytKe00,rushing,PIT,3,1,NA,-3,-1,4,1.3,0,NA,201912290rav
+Jordan Berry,BerrJo00,rushing,PIT,1,0,NA,0,0,0,0,0,NA,201912290rav
+Devlin Hodges,HodgDe00,rushing,PIT,1,-1,0,-1,-1,0,0,0,NA,201912290rav
+Gus Edwards,EdwaGu00,rushing,BAL,21,130,7,45,2.1,85,4,0,NA,201912290rav
+Justice Hill,HillJu00,rushing,BAL,10,39,2,13,1.3,26,2.6,3,3.3,201912290rav
+Robert Griffin III,GrifRo01,rushing,BAL,8,50,4,40,5,10,1.3,0,NA,201912290rav
+Anthony Levine,LeviAn00,rushing,BAL,1,2,1,2,2,0,0,0,NA,201912290rav
+Trace McSorley,McSoTr00,rushing,BAL,1,1,1,0,0,1,1,0,NA,201912290rav
+Chris Moore,MoorCh00,rushing,BAL,1,0,NA,0,0,0,0,0,NA,201912290rav
+Willie Snead,SneaWi00,rushing,BAL,1,0,NA,0,0,0,0,0,NA,201912290rav
+De'Anthony Thomas,ThomDe05,rushing,BAL,1,1,NA,0,0,1,1,0,NA,201912290rav

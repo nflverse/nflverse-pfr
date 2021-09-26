@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Demario Davis,DaviDe00,defense,NOR,0,6,5,83.3%,40,8,6.7,0,94.4,0.5,3,37,8,0,0,0,0,6,1,14.3%,201910130jax
+A.J. Klein,KleiAJ00,defense,NOR,0,4,3,75.0%,48,16,12,0,114.6,11,40,8,5,0,0,0,0,6,0,0.0%,201910130jax
+Marshon Lattimore,LattMa01,defense,NOR,1,7,2,28.6%,35,17.5,5,0,8.3,10.7,4,31,0,0,0,0,0,3,1,25.0%,201910130jax
+Chauncey Gardner-Johnson,GardCh00,defense,NOR,0,2,2,100.0%,11,5.5,5.5,0,89.6,1.5,3,8,0,0,0,0,0,2,0,0.0%,201910130jax
+Vonn Bell,BellVo00,defense,NOR,0,2,1,50.0%,9,9,4.5,0,62.5,3,2,7,5,2,0,0,2,3,1,25.0%,201910130jax
+Eli Apple,ApplEl00,defense,NOR,0,3,1,33.3%,20,20,6.7,0,57.6,8.7,15,5,0,0,0,0,0,2,0,0.0%,201910130jax
+Cameron Jordan,JordCa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2,3,5,0,0.0%,201910130jax
+Marcus Davenport,DaveMa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,5,0,0.0%,201910130jax
+Kiko Alonso,AlonKi00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,3,0,0.0%,201910130jax
+P.J. Williams,WillP.00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,2,0,0.0%,201910130jax
+Marcus Williams,WillMa06,defense,NOR,0,3,0,0.0%,NA,NA,0,NA,39.6,15.3,NA,NA,1,0,0,0,0,5,1,16.7%,201910130jax
+Tre Herndon,HernTr00,defense,JAX,0,9,5,55.6%,77,15.4,8.6,0,84,13.8,58,19,0,0,0,0,0,9,0,0.0%,201910130jax
+Myles Jack,JackMy00,defense,JAX,0,6,5,83.3%,60,12,10,0,108.3,2.7,12,48,1,0,0,0,0,8,2,20.0%,201910130jax
+Najee Goode,GoodNa00,defense,JAX,0,4,3,75.0%,13,4.3,3.3,0,78.1,3,9,4,3,1,0,1,2,6,1,14.3%,201910130jax
+A.J. Bouye,BouyA.00,defense,JAX,0,4,3,75.0%,21,7,5.3,0,86.5,3.5,11,10,0,0,0,0,0,5,0,0.0%,201910130jax
+D.J. Hayden,HaydDJ00,defense,JAX,0,3,3,100.0%,18,6,6,0,91.7,-1.3,-4,22,1,0,0,0,0,6,0,0.0%,201910130jax
+Leon Jacobs,JacoLe00,defense,JAX,0,3,2,66.7%,25,12.5,8.3,0,92.4,-0.3,-1,26,1,0,0,0,0,3,1,25.0%,201910130jax
+Lerentee McCray,McCrLe01,defense,JAX,0,1,1,100.0%,14,14,14,0,118.7,-6,-6,20,0,0,0,0,0,1,0,0.0%,201910130jax
+Ronnie Harrison,HarrRo02,defense,JAX,0,2,1,50.0%,8,8,4,0,60.4,17,8,0,1,0,0,0,0,4,0,0.0%,201910130jax
+Josh Allen,AlleJo03,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,2,2,0,0.0%,201910130jax
+Calais Campbell,CampCa99,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,5,2,28.6%,201910130jax
+Yannick Ngakoue,NgakYa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,1,50.0%,201910130jax
+Dawuane Smoot,SmooDa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201910130jax
+Abry Jones,JoneAb00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201910130jax

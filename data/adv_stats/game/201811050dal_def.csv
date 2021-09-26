@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Malcolm Butler,ButlMa01,defense,TEN,0,12,9,75.0%,118,13.1,9.8,2,145.1,12.3,81,37,0,0,0,0,0,5,0,0.0%,201811050dal
+Adoree' Jackson,JackAd00,defense,TEN,0,5,4,80.0%,46,11.5,9.2,0,105,5.4,14,32,0,0,0,0,0,3,0,0.0%,201811050dal
+Logan Ryan,RyanLo00,defense,TEN,0,6,2,33.3%,12,6,2,0,42.4,3.8,0,12,3,1,1,0,2,4,0,0.0%,201811050dal
+Kenny Vaccaro,VaccKe00,defense,TEN,0,2,2,100.0%,11,5.5,5.5,0,89.6,5,10,1,1,0,0,0,0,5,0,0.0%,201811050dal
+Jayon Brown,BrowJa06,defense,TEN,0,2,1,50.0%,8,8,4,0,60.4,-6.5,-4,12,3,0,0,1,1,4,1,20.0%,201811050dal
+Wesley Woodyard,WoodWe20,defense,TEN,0,2,1,50.0%,6,6,3,0,56.2,7.5,4,2,0,0,0,1,1,10,1,9.1%,201811050dal
+Kamalei Correa,CorrKa00,defense,TEN,0,1,1,100.0%,37,37,37,0,118.7,-2,-2,39,2,0,0,0,0,2,1,33.3%,201811050dal
+Kevin Byard,ByarKe01,defense,TEN,1,2,1,50.0%,5,5,2.5,0,16.7,5,4,1,1,0,0,0,0,5,0,0.0%,201811050dal
+Brian Orakpo,OrakBr99,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,1,5,1,0,0.0%,201811050dal
+Jurrell Casey,CaseJu00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,0,4,2,0,0.0%,201811050dal
+Sharif Finch,FincSh00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201811050dal
+Harold Landry,LandHa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,201811050dal
+Austin Johnson,JohnAu01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201811050dal
+Rashaan Evans,EvanRa01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,1,33.3%,201811050dal
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,5,5,100.0%,52,10.4,10.4,0,110,10,50,2,0,0,0,0,0,7,1,12.5%,201811050dal
+Anthony Brown,BrowAn02,defense,DAL,0,4,4,100.0%,64,16,16,1,158.3,-1.8,-7,71,1,0,1,0,1,4,1,20.0%,201811050dal
+Damien Wilson,WilsDa02,defense,DAL,0,3,3,100.0%,13,4.3,4.3,1,124.3,3.3,4,9,2,1,0,0,1,3,1,25.0%,201811050dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,3,2,66.7%,14,7,4.7,0,77.1,2,2,12,2,1,0,0,1,9,2,18.2%,201811050dal
+Byron Jones,JoneBy00,defense,DAL,0,6,2,33.3%,29,14.5,4.8,0,50,17.5,27,2,0,0,0,0,0,2,0,0.0%,201811050dal
+Sean Lee,LeexSe99,defense,DAL,0,2,2,100.0%,62,31,31,0,118.7,25.5,51,11,0,0,0,0,0,1,0,0.0%,201811050dal
+Jaylon Smith,SmitJa05,defense,DAL,0,2,2,100.0%,7,3.5,3.5,0,81.2,-0.5,-1,8,3,0,0,0,0,9,0,0.0%,201811050dal
+Jeff Heath,HeatJe00,defense,DAL,0,2,2,100.0%,39,19.5,19.5,0,118.7,15,30,9,0,0,0,0,0,5,0,0.0%,201811050dal
+Xavier Woods,WoodXa00,defense,DAL,0,1,1,100.0%,-4,-4,-4,0,79.2,-5,-5,1,0,0,0,0,0,7,0,0.0%,201811050dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,1,4,4,0,0.0%,201811050dal
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0.5,3,2,0,0.0%,201811050dal
+Taco Charlton,CharTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,201811050dal
+Antwaun Woods,WoodAn02,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,1,33.3%,201811050dal
+Tyrone Crawford,CrawTy00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,1,33.3%,201811050dal
+Caraun Reid,ReidCa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,201811050dal
+Maliek Collins,CollMa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,201811050dal
+Daniel Ross,RossDa02,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201811050dal

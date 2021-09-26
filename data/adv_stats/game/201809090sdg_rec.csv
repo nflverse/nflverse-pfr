@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyreek Hill,HillTy00,receiving,KAN,8,7,169,2,6,95,13.6,74,10.6,17.9,0,NA,0,0,0,158.3,201809090sdg
+Sammy Watkins,WatkSa00,receiving,KAN,5,3,21,0,1,14,4.7,7,2.3,5.4,0,NA,1,20,0,69.6,201809090sdg
+Chris Conley,ConlCh00,receiving,KAN,1,1,15,0,1,7,7,8,8,7,0,NA,0,0,0,118.7,201809090sdg
+Travis Kelce,KelcTr00,receiving,KAN,6,1,6,0,NA,5,5,1,1,15.3,0,NA,0,0,0,39.6,201809090sdg
+Anthony Sherman,SherAn00,receiving,KAN,1,1,36,1,1,21,21,15,15,21,0,NA,0,0,0,158.3,201809090sdg
+De'Anthony Thomas,ThomDe05,receiving,KAN,2,1,1,1,1,-3,-3,4,4,21,0,NA,0,0,0,95.8,201809090sdg
+Spencer Ware,WareSp00,receiving,KAN,1,1,8,0,0,4,4,4,4,4,0,NA,0,0,0,100,201809090sdg
+Kareem Hunt,HuntKa00,receiving,KAN,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,201809090sdg
+Melvin Gordon,GordMe00,receiving,LAC,13,9,102,0,6,-17,-1.9,119,13.2,-1.2,3,3,2,15.4,0,92.5,201809090sdg
+Keenan Allen,AlleKe00,receiving,LAC,11,8,108,1,5,55,6.9,53,6.6,8.6,1,8,0,0,0,133.9,201809090sdg
+Austin Ekeler,EkelAu00,receiving,LAC,5,5,87,1,4,37,7.4,50,10,7.4,1,5,0,0,0,158.3,201809090sdg
+Mike Williams,WillMi07,receiving,LAC,6,5,81,0,5,66,13.2,15,3,14.7,3,1.7,0,0,0,118.7,201809090sdg
+Antonio Gates,GateAn00,receiving,LAC,3,2,16,0,1,11,5.5,5,2.5,9,0,NA,0,0,0,79.9,201809090sdg
+Virgil Green,GreeVi00,receiving,LAC,2,2,21,0,1,17,8.5,4,2,8.5,0,NA,0,0,0,110.4,201809090sdg
+Tyrell Williams,WillTy00,receiving,LAC,5,2,8,1,1,7,3.5,1,0.5,16.6,0,NA,1,20,1,47.9,201809090sdg
+Travis Benjamin,BenjTr00,receiving,LAC,5,1,1,0,0,-1,-1,2,2,30.4,0,NA,2,40,0,39.6,201809090sdg

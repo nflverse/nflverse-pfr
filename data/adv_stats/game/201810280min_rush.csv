@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mark Ingram,IngrMa01,rushing,NOR,13,63,3,30,2.3,33,2.5,1,13,201810280min
+Alvin Kamara,KamaAl00,rushing,NOR,13,45,3,30,2.3,15,1.2,0,NA,201810280min
+Taysom Hill,HillTa00,rushing,NOR,3,-2,0,-6,-2,4,1.3,1,3,201810280min
+Latavius Murray,MurrLa00,rushing,MIN,13,56,3,23,1.8,33,2.5,2,6.5,201810280min
+Mike Boone,BoonMi00,rushing,MIN,3,11,NA,5,1.7,6,2,0,NA,201810280min
+Kirk Cousins,CousKi00,rushing,MIN,2,3,0,1,0.5,2,1,0,NA,201810280min
+C.J. Ham,HamxC.00,rushing,MIN,2,1,NA,1,0.5,0,0,0,NA,201810280min
+Adam Thielen,ThieAd00,rushing,MIN,1,15,1,2,2,13,13,0,NA,201810280min
+Roc Thomas,ThomRo05,rushing,MIN,1,-1,NA,-1,-1,0,0,0,NA,201810280min

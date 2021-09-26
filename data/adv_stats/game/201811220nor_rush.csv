@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Tevin Coleman,ColeTe01,rushing,ATL,8,6,0,6,0.8,0,0,0,NA,201811220nor
+Ito Smith,SmitIt00,rushing,ATL,4,0,0,0,0,0,0,0,NA,201811220nor
+Matt Ryan,RyanMa00,rushing,ATL,2,16,1,16,8,0,0,0,NA,201811220nor
+Julio Jones,JoneJu02,rushing,ATL,1,1,0,1,1,0,0,0,NA,201811220nor
+Mohamed Sanu,SanuMo00,rushing,ATL,1,3,1,3,3,0,0,0,NA,201811220nor
+Alvin Kamara,KamaAl00,rushing,NOR,14,89,6,61,4.4,28,2,3,4.7,201811220nor
+Mark Ingram,IngrMa01,rushing,NOR,11,52,2,32,2.9,20,1.8,1,11,201811220nor
+Drew Brees,BreeDr00,rushing,NOR,4,-4,0,-4,-1,0,0,0,NA,201811220nor
+Taysom Hill,HillTa00,rushing,NOR,2,13,1,2,1,11,5.5,0,NA,201811220nor

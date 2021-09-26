@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Patrick Chung,ChunPa99,defense,NWE,0,14,10,71.4%,109,10.9,7.8,0,94,9.2,60,49,2,0,1,0,1,7,0,0.0%,201810210chi
+Jonathan Jones,JoneJo03,defense,NWE,1,8,5,62.5%,67,13.4,8.4,1,89.1,17.9,41,26,2,0,1,0,1,2,1,33.3%,201810210chi
+Elandon Roberts,RobeEl00,defense,NWE,0,4,3,75.0%,41,13.7,10.3,0,107.3,6,21,20,2,0,1,0,1,2,2,50.0%,201810210chi
+Jason McCourty,McCoJa99,defense,NWE,0,6,3,50.0%,77,25.7,12.8,0,95.8,15.3,69,8,0,0,0,0,0,2,0,0.0%,201810210chi
+Dont'a Hightower,HighDo01,defense,NWE,0,3,2,66.7%,39,19.5,13,0,109.7,10.7,29,10,5,0,0,0,0,4,0,0.0%,201810210chi
+Devin McCourty,McCoDe99,defense,NWE,0,2,1,50.0%,17,17,8.5,0,79.2,24,17,0,1,1,0,0,1,4,0,0.0%,201810210chi
+Eric Rowe,RoweEr00,defense,NWE,0,4,1,25.0%,16,16,4,0,43.7,8,4,12,2,1,0,0,1,2,0,0.0%,201810210chi
+Stephon Gilmore,GilmSt00,defense,NWE,0,5,1,20.0%,8,8,1.6,0,39.6,14.4,7,1,0,0,0,0,0,1,1,50.0%,201810210chi
+Keion Crossen,CrosKe00,defense,NWE,0,1,1,100.0%,3,3,3,0,79.2,1,1,2,0,0,0,0,0,2,0,0.0%,201810210chi
+J.C. Jackson,JackJ.00,defense,NWE,1,3,1,33.3%,21,21,7,0,19.4,16.7,17,4,0,0,0,0,0,1,0,0.0%,201810210chi
+Adrian Clayborn,ClayAd00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,201810210chi
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201810210chi
+Trey Flowers,FlowTr00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201810210chi
+Kyle Van Noy,VanNKy00,defense,NWE,0,2,0,0.0%,NA,NA,0,NA,39.6,-2.5,NA,NA,3,0,0,0,0,6,0,0.0%,201810210chi
+Duron Harmon,HarmDu00,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,24,NA,NA,1,0,0,0,0,1,0,0.0%,201810210chi
+Kyle Fuller,FullKy00,defense,CHI,1,6,5,83.3%,61,12.2,10.2,0,69.4,9.2,54,7,0,0,0,0,0,5,0,0.0%,201810210chi
+Roquan Smith,SmitRo07,defense,CHI,0,5,4,80.0%,35,8.8,7,1,135.4,0.4,1,34,1,0,0,1,1,5,0,0.0%,201810210chi
+Leonard Floyd,FloyLe00,defense,CHI,0,3,3,100.0%,21,7,7,1,135.4,4.3,13,8,0,0,0,0,0,3,0,0.0%,201810210chi
+Bryce Callahan,CallBr00,defense,CHI,0,3,2,66.7%,12,6,4,0,74.3,6.3,4,8,0,0,0,0,0,3,1,25.0%,201810210chi
+Sherrick McManis,McMaSh99,defense,CHI,0,2,2,100.0%,14,7,7,0,95.8,5.5,11,3,0,0,0,0,0,2,0,0.0%,201810210chi
+Eddie Jackson,JackEd01,defense,CHI,0,4,2,50.0%,29,14.5,7.3,0,74,17.8,23,6,0,0,0,0,0,5,1,16.7%,201810210chi
+Prince Amukamara,AmukPr00,defense,CHI,0,4,2,50.0%,54,27,13.5,0,95.8,7.8,17,37,0,0,0,0,0,4,2,33.3%,201810210chi
+Danny Trevathan,TrevDa00,defense,CHI,0,4,2,50.0%,18,9,4.5,0,62.5,5,10,8,4,0,0,0,0,10,1,9.1%,201810210chi
+Khalil Mack,MackKh00,defense,CHI,0,2,2,100.0%,14,7,7,1,135.4,1.5,3,11,0,0,0,0,0,1,1,50.0%,201810210chi
+Adrian Amos,AmosAd00,defense,CHI,0,2,1,50.0%,8,8,4,0,60.4,4,7,1,0,0,0,0,0,4,0,0.0%,201810210chi
+Roy Robertson-Harris,RobeRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,201810210chi
+Bilal Nichols,NichBi00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,201810210chi

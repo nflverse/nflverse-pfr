@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Ahkello Witherspoon,WithAh00,defense,SFO,1,10,7,70.0%,65,9.3,6.5,0,47.9,10.1,42,23,1,1,0,0,1,7,0,0.0%,202012260crd
+Fred Warner,WarnFr00,defense,SFO,0,11,6,54.5%,41,6.8,3.7,0,63.1,8.5,22,19,11,0,0,0,0,14,1,6.7%,202012260crd
+Jason Verrett,VerrJa00,defense,SFO,0,11,6,54.5%,33,5.5,3,0,60,5.9,16,17,1,0,0,0,0,7,1,12.5%,202012260crd
+Marcell Harris,HarrMa03,defense,SFO,0,5,4,80.0%,70,17.5,14,0,118.7,19.2,61,9,1,0,0,0,0,7,0,0.0%,202012260crd
+Dre Greenlaw,GreeDr00,defense,SFO,0,4,4,100.0%,16,4,4,0,83.3,2.3,9,7,10,0,0,0,0,7,0,0.0%,202012260crd
+Tarvarius Moore,MoorTa00,defense,SFO,0,3,2,66.7%,14,7,4.7,0,77.1,15.7,3,11,0,0,0,0,0,11,0,0.0%,202012260crd
+K'Waun Williams,WillKW00,defense,SFO,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,6,0,0,1,1,6,0,0.0%,202012260crd
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,0,0,NA,202012260crd
+D.J. Jones,JoneD.01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202012260crd
+Alex Barrett,BarrAl00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202012260crd
+Kerry Hyder,HydeKe01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,1,33.3%,202012260crd
+De'Vondre Campbell,CampDe00,defense,ARI,0,3,3,100.0%,40,13.3,13.3,2,158.3,3.3,10,30,0,0,0,0,0,5,0,0.0%,202012260crd
+Budda Baker,BakeBu00,defense,ARI,0,5,3,60.0%,33,11,6.6,1,119.2,1.6,-5,38,2,0,0,0,0,9,1,10.0%,202012260crd
+Chris Banjo,BanjCh00,defense,ARI,0,2,2,100.0%,37,18.5,18.5,0,118.7,13,26,11,0,0,0,0,0,6,1,14.3%,202012260crd
+Kevin Peterson,PeteKe01,defense,ARI,0,3,2,66.7%,27,13.5,9,0,95.1,15,15,12,0,0,0,0,0,0,1,100.0%,202012260crd
+Byron Murphy,MurpBy00,defense,ARI,0,2,2,100.0%,22,11,11,0,112.5,4.5,9,13,1,0,0,0,0,5,2,28.6%,202012260crd
+Jordan Hicks,HickJo00,defense,ARI,0,4,1,25.0%,23,23,5.8,0,51,7,18,5,0,0,0,0,0,6,0,0.0%,202012260crd
+Haason Reddick,ReddHa00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,0,1.5,4,3,0,0.0%,202012260crd
+Markus Golden,GoldMa00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,1,0,2,2,0,0.0%,202012260crd
+Leki Fotu,FotuLe00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202012260crd
+Devon Kennard,KennDe00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,1,1,4,0,0.0%,202012260crd
+Angelo Blackson,BlacAn00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,202012260crd
+Isaiah Simmons,SimmIs00,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,1,0,0,0,0,3,0,0.0%,202012260crd
+Deionte Thompson,ThomDe06,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,0,0,1,1,50.0%,202012260crd

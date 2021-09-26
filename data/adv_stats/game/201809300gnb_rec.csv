@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Charles Clay,ClayCh00,receiving,BUF,6,4,40,0,3,20,5,20,5,4,0,NA,0,0,0,85.4,201809300gnb
+Zay Jones,JoneZa00,receiving,BUF,7,4,38,0,2,34,8.5,4,1,11.6,0,NA,0,0,1,32.7,201809300gnb
+LeSean McCoy,McCoLe01,receiving,BUF,6,3,13,0,0,-10,-3.3,23,7.7,-0.5,0,NA,0,0,0,56.2,201809300gnb
+Andre Holmes,HolmAn00,receiving,BUF,3,2,8,0,NA,4,2,4,2,3.3,0,NA,0,0,0,70.1,201809300gnb
+Kelvin Benjamin,BenjKe00,receiving,BUF,6,1,34,0,1,29,29,5,5,16.2,0,NA,0,0,1,11.1,201809300gnb
+Jason Croom,CrooJa00,receiving,BUF,1,1,13,0,NA,6,6,7,7,6,0,NA,0,0,0,118.7,201809300gnb
+Khari Lee,LeexKh00,receiving,BUF,1,1,5,0,NA,-1,-1,6,6,-1,0,NA,0,0,0,87.5,201809300gnb
+Robert Foster,FostRo01,receiving,BUF,2,0,0,0,NA,0,NA,0,NA,31.5,0,NA,0,0,0,39.6,201809300gnb
+Taiwan Jones,JoneTa00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,30,0,NA,0,0,0,39.6,201809300gnb
+Davante Adams,AdamDa01,receiving,GNB,14,8,81,0,2,37,4.6,44,5.5,10.4,0,NA,0,0,0,73.8,201809300gnb
+Geronimo Allison,AlliGe01,receiving,GNB,11,6,80,0,3,42,7,38,6.3,14,0,NA,3,27.3,0,77.8,201809300gnb
+Jimmy Graham,GrahJi00,receiving,GNB,6,3,21,1,2,12,4,9,3,7.8,0,NA,1,16.7,1,58.3,201809300gnb
+Ty Montgomery,MontTy01,receiving,GNB,3,2,56,0,2,27,13.5,29,14.5,9.7,0,NA,0,0,0,109.7,201809300gnb
+Aaron Jones,JoneAa00,receiving,GNB,1,1,17,0,1,-1,-1,18,18,-1,0,NA,0,0,0,118.7,201809300gnb
+Lance Kendricks,KendLa00,receiving,GNB,2,1,5,0,1,5,5,0,0,4.5,0,NA,1,50,0,56.2,201809300gnb
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,3,1,38,0,1,32,32,6,6,13,0,NA,0,0,0,81.9,201809300gnb

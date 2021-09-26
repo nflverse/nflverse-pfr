@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+L'Jarius Sneed,SneeLJ00,defense,KAN,1,8,7,87.5%,68,9.7,8.5,0,62.5,8.3,26,42,1,0,0,0,0,7,2,22.2%,202009200sdg
+Ben Niemann,NiemBe00,defense,KAN,0,6,4,66.7%,55,13.8,9.2,0,95.8,9.2,18,37,3,0,1,0,1,9,1,10.0%,202009200sdg
+Rashad Fenton,FentRa00,defense,KAN,0,5,4,80.0%,60,15,12,1,156.2,10.4,46,14,0,0,0,0,0,3,0,0.0%,202009200sdg
+Daniel Sorensen,SoreDa01,defense,KAN,0,2,2,100.0%,41,20.5,20.5,0,118.7,9,18,23,3,0,1,0,1,4,2,33.3%,202009200sdg
+Tyrann Mathieu,MathTy00,defense,KAN,0,4,2,50.0%,21,10.5,5.3,0,65.6,8.8,-7,28,5,0,0,0,0,5,3,37.5%,202009200sdg
+Juan Thornhill,ThorJu00,defense,KAN,0,4,2,50.0%,26,13,6.5,0,70.8,12,12,14,0,0,0,0,0,4,2,33.3%,202009200sdg
+Tedric Thompson,ThomTe00,defense,KAN,0,2,2,100.0%,19,9.5,9.5,0,106.2,9,18,1,0,0,0,0,0,3,0,0.0%,202009200sdg
+Anthony Hitchens,HitcAn00,defense,KAN,0,1,1,100.0%,35,35,35,0,118.7,-8,-8,43,3,0,0,0,0,9,1,10.0%,202009200sdg
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,3,2,40.0%,202009200sdg
+Taco Charlton,CharTa00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,2,0,0.0%,202009200sdg
+Frank Clark,ClarFr01,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202009200sdg
+Michael Danna,DannMi00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,1,1,3,1,25.0%,202009200sdg
+Willie Gay Jr.,GayJWi00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,202009200sdg
+Dorian O'Daniel,ODanDo00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202009200sdg
+Derrick Nnadi,NnadDe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,9,3,25.0%,202009200sdg
+Tanoh Kpassagnon,KpasTa00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,4,50.0%,202009200sdg
+Damien Wilson,WilsDa02,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,11,0,0.0%,202009200sdg
+Michael Davis,DaviMi03,defense,LAC,0,15,9,60.0%,98,10.9,6.5,1,101.5,10,60,38,0,0,0,0,0,6,3,33.3%,202009200sdg
+Kyzir White,WhitKy00,defense,LAC,0,7,5,71.4%,22,4.4,3.1,0,74.7,0.6,8,14,2,0,1,0,1,7,1,12.5%,202009200sdg
+Chris Harris Jr.,HarrCh01,defense,LAC,0,8,4,50.0%,83,20.8,10.4,1,126.6,9.1,50,33,2,1,0,0,1,8,0,0.0%,202009200sdg
+Kenneth Murray,MurrKe00,defense,LAC,0,4,3,75.0%,33,11,8.3,0,99,6,26,7,0,0,0,0,0,10,1,9.1%,202009200sdg
+Desmond King,KingDe01,defense,LAC,0,3,2,66.7%,18,9,6,0,82.6,11,14,4,0,0,0,0,0,6,0,0.0%,202009200sdg
+Rayshawn Jenkins,JenkRa00,defense,LAC,0,3,2,66.7%,25,12.5,8.3,0,92.4,2,8,17,0,0,0,0,0,3,0,0.0%,202009200sdg
+Casey Hayward,HaywCa00,defense,LAC,0,3,1,33.3%,14,14,4.7,0,49.3,9.3,13,1,0,0,0,0,0,3,2,40.0%,202009200sdg
+Nasir Adderley,AddeNa00,defense,LAC,0,1,1,100.0%,22,22,22,0,118.7,13,13,9,0,0,0,0,0,4,2,33.3%,202009200sdg
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,7,1,1,9,4,1,20.0%,202009200sdg
+Jerry Tillery,TillJe00,defense,LAC,0,1,0,0.0%,NA,NA,0,NA,39.6,-6,NA,NA,0,2,3,0,5,1,0,0.0%,202009200sdg
+Uchenna Nwosu,NwosUc00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,0,0,NA,202009200sdg
+Isaac Rochell,RochIs00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,202009200sdg
+Melvin Ingram,IngrMe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,0,0,NA,202009200sdg
+Damion Square,SquaDa00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202009200sdg
+Denzel Perryman,PerrDe00,defense,LAC,0,1,0,0.0%,NA,NA,0,NA,39.6,14,NA,NA,1,0,0,0,0,3,0,0.0%,202009200sdg

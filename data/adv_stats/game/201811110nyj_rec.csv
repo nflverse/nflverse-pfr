@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Zay Jones,JoneZa00,receiving,BUF,11,8,93,1,7,58,7.3,35,4.4,9.6,0,NA,0,0,0,128.2,201811110nyj
+Robert Foster,FostRo01,receiving,BUF,4,3,105,0,3,93,31,12,4,26.5,0,NA,0,0,0,116.7,201811110nyj
+Dion Dawkins,DawkDi00,receiving,BUF,1,1,7,1,1,7,7,0,0,7,0,NA,0,0,0,135.4,201811110nyj
+Andre Holmes,HolmAn00,receiving,BUF,1,1,22,0,1,11,11,11,11,11,1,1,0,0,0,118.7,201811110nyj
+Logan Thomas,ThomLo00,receiving,BUF,1,1,1,0,0,-3,-3,4,4,-3,0,NA,0,0,0,79.2,201811110nyj
+LeSean McCoy,McCoLe01,receiving,BUF,1,1,5,0,0,1,1,4,4,1,0,NA,0,0,0,87.5,201811110nyj
+Isaiah McKenzie,McKeIs00,receiving,BUF,1,1,14,0,1,-4,-4,18,18,-4,1,1,0,0,0,118.7,201811110nyj
+Kelvin Benjamin,BenjKe00,receiving,BUF,3,0,0,0,NA,0,NA,0,NA,16.3,0,NA,0,0,0,39.6,201811110nyj
+Terrelle Pryor,PryoTe00,receiving,BUF,3,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,201811110nyj
+Quincy Enunwa,EnunQu00,receiving,NYJ,8,4,18,0,1,-3,-0.8,21,5.3,3,1,4,0,0,0,56.2,201811110nyj
+Chris Herndon,HernCh00,receiving,NYJ,4,3,34,0,1,5,1.7,29,9.7,2.3,0,NA,0,0,0,100,201811110nyj
+Elijah McGuire,McGuEl00,receiving,NYJ,6,3,27,0,3,8,2.7,19,6.3,3.5,1,3,0,0,0,62.5,201811110nyj
+Isaiah Crowell,CrowIs00,receiving,NYJ,2,2,18,0,1,-3,-1.5,21,10.5,-1.5,0,NA,0,0,0,104.2,201811110nyj
+Jermaine Kearse,KearJe01,receiving,NYJ,5,2,16,0,NA,10,5,6,3,6.4,0,NA,0,0,1,9.2,201811110nyj
+Trenton Cannon,CannTr00,receiving,NYJ,4,1,5,0,0,-4,-4,9,9,16,0,NA,2,50,1,0,201811110nyj
+Charone Peake,PeakCh00,receiving,NYJ,1,1,11,0,1,11,11,0,0,11,0,NA,0,0,0,112.5,201811110nyj
+Jordan Leggett,LeggJo00,receiving,NYJ,1,1,6,0,NA,5,5,1,1,5,0,NA,0,0,0,91.7,201811110nyj
+Rishard Matthews,MattRi00,receiving,NYJ,1,0,0,0,NA,0,NA,0,NA,24,0,NA,0,0,0,39.6,201811110nyj
+Eric Tomlinson,TomlEr01,receiving,NYJ,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,201811110nyj

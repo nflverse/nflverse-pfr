@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Terry McLaurin,McLaTe00,receiving,WAS,6,4,39,0,3,29,7.3,10,2.5,7.8,0,NA,0,0,1,45.1,201910240min
+Paul Richardson,RichPa01,receiving,WAS,4,3,34,0,2,30,10,4,1.3,15,0,NA,0,0,0,100,201910240min
+Adrian Peterson,PeteAd01,receiving,WAS,2,2,27,0,1,1,0.5,26,13,0.5,1,2,0,0,0,118.7,201910240min
+Jeremy Sprinkle,SpriJe00,receiving,WAS,2,2,12,0,NA,6,3,6,3,3,0,NA,0,0,0,91.7,201910240min
+Kelvin Harmon,HarmKe00,receiving,WAS,1,1,12,0,1,6,6,6,6,6,1,1,0,0,0,116.7,201910240min
+Hale Hentges,HentHa00,receiving,WAS,1,1,13,0,1,-4,-4,17,17,-4,0,NA,0,0,0,118.7,201910240min
+Trey Quinn,QuinTr00,receiving,WAS,3,1,15,0,1,13,13,2,2,6.3,0,NA,0,0,0,50.7,201910240min
+Wendell Smallwood,SmalWe00,receiving,WAS,2,1,11,0,1,10,10,1,1,2,0,NA,0,0,0,66.7,201910240min
+Stefon Diggs,DiggSt00,receiving,MIN,7,7,143,0,4,75,10.7,68,9.7,10.7,0,NA,0,0,0,118.7,201910240min
+Dalvin Cook,CookDa01,receiving,MIN,6,5,73,0,2,-1,-0.2,74,14.8,-0.3,0,NA,1,16.7,0,117.4,201910240min
+Kyle Rudolph,RudoKy00,receiving,MIN,3,3,17,0,NA,-3,-1,20,6.7,-1,0,NA,0,0,0,90.3,201910240min
+Irv Smith Jr.,SmitIr01,receiving,MIN,3,3,21,0,2,6,2,15,5,2,0,NA,0,0,0,95.8,201910240min
+Olabisi Johnson,JohnOl00,receiving,MIN,2,2,27,0,1,23,11.5,4,2,11.5,0,NA,0,0,0,118.7,201910240min
+Alexander Mattison,MattAl01,receiving,MIN,2,2,3,0,0,-4,-2,7,3.5,-2,0,NA,0,0,0,79.2,201910240min
+Laquon Treadwell,TreaLa00,receiving,MIN,1,1,1,0,NA,1,1,0,0,1,0,NA,0,0,0,79.2,201910240min

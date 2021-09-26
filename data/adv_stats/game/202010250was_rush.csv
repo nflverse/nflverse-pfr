@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,12,45,3,16,1.3,29,2.4,0,NA,202010250was
+Tony Pollard,PollTo00,rushing,DAL,8,16,1,3,0.4,13,1.6,0,NA,202010250was
+Andy Dalton,DaltAn00,rushing,DAL,3,16,0,12,4,4,1.3,0,NA,202010250was
+Amari Cooper,CoopAm00,rushing,DAL,1,5,0,3,3,2,2,0,NA,202010250was
+Ben DiNucci,DiNuBe00,rushing,DAL,1,0,0,0,0,0,0,0,NA,202010250was
+CeeDee Lamb,LambCe00,rushing,DAL,1,1,NA,0,0,1,1,0,NA,202010250was
+Antonio Gibson,GibsAn00,rushing,WAS,20,128,3,66,3.3,62,3.1,1,20,202010250was
+Peyton Barber,BarbPe01,rushing,WAS,10,34,3,15,1.5,19,1.9,0,NA,202010250was
+J.D. McKissic,McKiJ.00,rushing,WAS,5,35,3,23,4.6,12,2.4,0,NA,202010250was
+Kyle Allen,AlleKy00,rushing,WAS,4,11,1,-2,-0.5,13,3.3,2,2,202010250was

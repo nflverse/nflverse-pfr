@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Rashad Fenton,FentRa00,defense,KAN,0,6,6,100.0%,106,17.7,17.7,0,118.7,15,90,16,1,0,0,0,0,6,0,0.0%,202011290tam
+Daniel Sorensen,SoreDa01,defense,KAN,0,7,5,71.4%,79,15.8,11.3,0,108.6,8.4,43,36,7,1,0,0,1,7,1,12.5%,202011290tam
+Anthony Hitchens,HitcAn00,defense,KAN,0,5,4,80.0%,17,4.3,3.4,1,120.4,3.6,11,6,3,1,2,0,3,7,0,0.0%,202011290tam
+Charvarius Ward,WardCh01,defense,KAN,0,7,4,57.1%,52,13,7.4,1,120.2,12.1,41,11,1,0,1,0,1,4,0,0.0%,202011290tam
+Juan Thornhill,ThorJu00,defense,KAN,0,5,4,80.0%,66,16.5,13.2,0,118.7,14.4,58,8,1,0,0,0,0,3,0,0.0%,202011290tam
+Tyrann Mathieu,MathTy00,defense,KAN,1,5,3,60.0%,31,10.3,6.2,0,38.3,7.8,20,11,3,0,0,0,0,5,0,0.0%,202011290tam
+Damien Wilson,WilsDa02,defense,KAN,0,3,3,100.0%,57,19,19,1,158.3,5,15,42,0,0,0,0,0,3,1,25.0%,202011290tam
+Alex Okafor,OkafAl00,defense,KAN,0,2,2,100.0%,35,17.5,17.5,0,118.7,13.5,27,8,0,0,0,0.5,1,3,0,0.0%,202011290tam
+L'Jarius Sneed,SneeLJ00,defense,KAN,0,4,2,50.0%,10,5,2.5,0,56.2,3.3,4,6,1,0,0,0,0,3,0,0.0%,202011290tam
+Frank Clark,ClarFr01,defense,KAN,0,1,1,100.0%,6,6,6,0,91.7,-2,-2,8,0,0,1,0,1,1,1,50.0%,202011290tam
+Bashaud Breeland,BreeBa00,defense,KAN,1,6,1,16.7%,9,9,1.5,0,0,14.5,-2,11,0,0,0,0,0,1,0,0.0%,202011290tam
+Tanoh Kpassagnon,KpasTa00,defense,KAN,0,1,1,100.0%,-4,-4,-4,0,79.2,-4,-4,0,0,0,0,0,0,0,0,NA,202011290tam
+Armani Watts,WattAr00,defense,KAN,0,1,1,100.0%,31,31,31,1,158.3,26,26,5,0,0,0,0,0,0,0,NA,202011290tam
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,1,100.0%,202011290tam
+Michael Danna,DannMi00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0.5,1,3,0,0.0%,202011290tam
+Ben Niemann,NiemBe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,0,0,0,0,0,NA,202011290tam
+Willie Gay Jr.,GayJWi00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202011290tam
+Carlton Davis,DaviCa02,defense,TAM,0,14,11,78.6%,222,20.2,15.9,3,158.3,16.3,172,50,0,0,0,0,0,5,1,16.7%,202011290tam
+Lavonte David,DaviLa00,defense,TAM,0,9,9,100.0%,91,10.1,10.1,0,108.8,5.9,53,38,1,0,0,0,0,8,1,11.1%,202011290tam
+Devin White,WhitDe02,defense,TAM,0,8,8,100.0%,52,6.5,6.5,0,93.7,4.3,34,18,0,0,0,0,0,12,1,7.7%,202011290tam
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,9,6,66.7%,95,15.8,10.6,0,101.6,8.3,57,38,0,0,0,0,0,5,1,16.7%,202011290tam
+Ross Cockrell,CockRo00,defense,TAM,0,7,5,71.4%,34,6.8,4.9,0,81.8,6.9,15,19,0,0,0,0,0,4,2,33.3%,202011290tam
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,5,4,80.0%,122,30.5,24.4,1,158.3,27.2,94,28,1,0,0,0,0,8,0,0.0%,202011290tam
+Jason Pierre-Paul,PierJa99,defense,TAM,0,1,1,100.0%,1,1,1,0,79.2,-4,-4,5,0,3,0,1,4,4,1,20.0%,202011290tam
+Ndamukong Suh,SuhxNd99,defense,TAM,0,1,1,100.0%,9,9,9,0,104.2,7,7,2,0,2,1,0,3,5,0,0.0%,202011290tam
+Shaquil Barrett,BarrSh00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,2,1,3,3,0,0.0%,202011290tam
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,2,1,33.3%,202011290tam
+Khalil Davis,DaviKh00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202011290tam
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202011290tam
+Mike Edwards,EdwaMi01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202011290tam
+Rakeem Nunez-Roches,NuneRa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,0,0,NA,202011290tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,29,NA,NA,1,0,0,0,0,1,2,66.7%,202011290tam

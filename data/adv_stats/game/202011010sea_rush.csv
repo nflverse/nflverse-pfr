@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jamycal Hasty,HastJa02,rushing,SFO,12,29,2,19,1.6,10,0.8,0,NA,202011010sea
+Jimmy Garoppolo,GaroJi00,rushing,SFO,4,4,1,3,0.8,1,0.3,0,NA,202011010sea
+Tevin Coleman,ColeTe01,rushing,SFO,3,20,2,8,2.7,12,4,0,NA,202011010sea
+Jerick McKinnon,McKiJe00,rushing,SFO,3,-1,1,-2,-0.7,1,0.3,0,NA,202011010sea
+DeeJay Dallas,DallDe00,rushing,SEA,18,41,3,18,1,23,1.3,0,NA,202011010sea
+Russell Wilson,WilsRu00,rushing,SEA,6,23,1,23,3.8,0,0,0,NA,202011010sea
+David Moore,MoorDa03,rushing,SEA,2,28,2,21,10.5,7,3.5,0,NA,202011010sea
+Nick Bellore,BellNi01,rushing,SEA,1,5,0,1,1,4,4,0,NA,202011010sea
+Travis Homer,HomeTr00,rushing,SEA,1,4,1,2,2,2,2,0,NA,202011010sea

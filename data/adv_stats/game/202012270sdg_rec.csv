@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Noah Fant,FantNo00,receiving,DEN,9,6,65,0,4,42,7,23,3.8,8.9,0,NA,2,22.2,0,87.7,202012270sdg
+Jerry Jeudy,JeudJe00,receiving,DEN,15,6,61,0,3,33,5.5,28,4.7,12,0,NA,6,40,0,52.4,202012270sdg
+DaeSean Hamilton,HamiDa01,receiving,DEN,9,5,77,0,4,65,13,12,2.4,16,0,NA,1,11.1,1,44.4,202012270sdg
+Tim Patrick,PatrTi00,receiving,DEN,4,3,39,0,3,22,7.3,17,5.7,8.8,0,NA,0,0,0,105.2,202012270sdg
+Royce Freeman,FreeRo00,receiving,DEN,2,2,7,0,0,2,1,5,2.5,1,0,NA,0,0,0,81.2,202012270sdg
+LeVante Bellamy,BellLe02,receiving,DEN,1,1,5,0,NA,0,0,5,5,0,0,NA,0,0,0,87.5,202012270sdg
+Diontae Spencer,SpenDi00,receiving,DEN,2,1,10,0,1,0,0,10,10,10,0,NA,0,0,0,64.6,202012270sdg
+Troy Fumagalli,FumaTr00,receiving,DEN,1,0,0,0,NA,0,NA,0,NA,20,0,NA,0,0,0,39.6,202012270sdg
+Stephen Anderson,AndeSt01,receiving,LAC,6,4,48,0,3,10,2.5,38,9.5,3.8,1,4,0,0,0,91,202012270sdg
+Mike Williams,WillMi07,receiving,LAC,10,4,54,0,3,34,8.5,20,5,9.2,0,NA,1,10,0,57.9,202012270sdg
+Austin Ekeler,EkelAu00,receiving,LAC,3,3,23,1,1,5,1.7,18,6,1.7,0,NA,0,0,0,138.2,202012270sdg
+Jalen Guyton,GuytJa01,receiving,LAC,5,3,43,0,2,27,9,16,5.3,5.4,1,3,1,20,0,87.9,202012270sdg
+Tyron Johnson,JohnTy03,receiving,LAC,3,3,26,0,1,20,6.7,6,2,6.7,0,NA,0,0,0,102.8,202012270sdg
+Kalen Ballage,BallKa00,receiving,LAC,3,2,12,0,NA,-3,-1.5,15,7.5,-1.3,0,NA,0,0,0,74.3,202012270sdg
+Donald Parham,ParhDo00,receiving,LAC,3,2,47,0,2,31,15.5,16,8,15,0,NA,0,0,0,109.7,202012270sdg

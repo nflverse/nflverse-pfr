@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Sam Darnold,DarnSa00,passing,NYJ,16,24,170,9,37.5,181,7.5,111,6.9,4.6,59,3.7,0,0.0%,5,21.7%,0,6,4,0,4,16.7%,0,NA,201812090buf
+Josh McCown,McCoJo01,passing,NYJ,0,1,0,NA,NA,5,5,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201812090buf
+Josh Allen,AlleJo02,passing,BUF,18,36,206,9,23.1,301,8.4,129,7.2,3.6,77,4.3,3,8.8%,13,38.2%,3,14,7,6,16,35.6%,6,12.8,201812090buf
+Zay Jones,JoneZa00,passing,BUF,0,1,0,0,0,13,13,0,NA,0,0,NA,0,0.0%,1,100.0%,0,0,0,1,1,100.0%,0,NA,201812090buf

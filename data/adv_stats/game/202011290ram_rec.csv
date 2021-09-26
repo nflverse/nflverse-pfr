@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Deebo Samuel,SamuDe00,receiving,SFO,13,11,133,0,4,-3,-0.3,136,12.4,0.6,1,11,1,7.7,1,77.2,202011290ram
+Kendrick Bourne,BourKe00,receiving,SFO,5,3,34,0,2,26,8.7,8,2.7,4.6,0,NA,1,20,0,80.4,202011290ram
+Kyle Juszczyk,JuszKy00,receiving,SFO,2,2,24,0,1,22,11,2,1,11,0,NA,0,0,0,116.7,202011290ram
+Jerick McKinnon,McKiJe00,receiving,SFO,3,2,11,0,NA,5,2.5,6,3,3.3,0,NA,0,0,0,72.9,202011290ram
+Raheem Mostert,MostRa00,receiving,SFO,2,2,0,0,0,-11,-5.5,11,5.5,-5.5,0,NA,0,0,0,79.2,202011290ram
+Jordan Reed,ReedJo02,receiving,SFO,6,2,18,0,2,14,7,4,2,14,0,NA,1,16.7,0,42.4,202011290ram
+Ross Dwelley,DwelRo00,receiving,SFO,2,1,3,0,NA,1,1,2,2,6.5,0,NA,0,0,0,56.2,202011290ram
+Richie James,JameRi00,receiving,SFO,1,1,29,0,1,23,23,6,6,23,0,NA,0,0,0,118.7,202011290ram
+Robert Woods,WoodRo02,receiving,LAR,12,7,80,0,3,45,6.4,35,5,10.2,0,NA,1,8.3,1,43.8,202011290ram
+Josh Reynolds,ReynJo00,receiving,LAR,6,5,40,0,1,18,3.6,22,4.4,10.8,0,NA,0,0,0,94.4,202011290ram
+Malcolm Brown,BrowMa03,receiving,LAR,2,2,15,0,1,-3,-1.5,18,9,-1.5,0,NA,0,0,0,97.9,202011290ram
+Gerald Everett,EverGe00,receiving,LAR,2,2,16,0,1,-1,-0.5,17,8.5,-0.5,1,2,0,0,0,100,202011290ram
+Cooper Kupp,KuppCo00,receiving,LAR,5,2,41,0,1,11,5.5,30,15,7,0,NA,0,0,1,30,202011290ram
+Tyler Higbee,HigbTy00,receiving,LAR,2,1,6,0,1,3,3,3,3,5,0,NA,0,0,0,56.2,202011290ram
+Darrell Henderson,HendDa00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,23,0,NA,0,0,0,39.6,202011290ram

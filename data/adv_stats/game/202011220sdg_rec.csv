@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Ty Johnson,JohnTy02,receiving,NYJ,6,4,17,0,1,-7,-1.8,24,6,0.2,0,NA,0,0,0,70.1,202011220sdg
+Denzel Mims,MimsDe00,receiving,NYJ,7,3,71,0,3,64,21.3,7,2.3,25.3,0,NA,0,0,0,80.1,202011220sdg
+Frank Gore,GoreFr00,receiving,NYJ,2,2,10,0,0,-2,-1,12,6,-1,0,NA,0,0,0,87.5,202011220sdg
+Chris Herndon,HernCh00,receiving,NYJ,3,2,32,1,2,32,16,0,0,12.7,0,NA,1,33.3,0,141.7,202011220sdg
+Breshad Perriman,PerrBr02,receiving,NYJ,4,2,54,1,1,51,25.5,3,1.5,30.3,0,NA,0,0,0,135.4,202011220sdg
+Jamison Crowder,CrowJa00,receiving,NYJ,4,1,16,0,1,15,15,1,1,6,0,NA,0,0,1,4.2,202011220sdg
+Jeff Smith,SmitJe03,receiving,NYJ,1,1,5,0,1,5,5,0,0,5,0,NA,0,0,0,87.5,202011220sdg
+La'Mical Perine,PeriLa00,receiving,NYJ,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,202011220sdg
+Keenan Allen,AlleKe00,receiving,LAC,19,16,145,1,8,65,4.1,80,5,3.8,0,NA,1,5.3,0,116,202011220sdg
+Kalen Ballage,BallKa00,receiving,LAC,9,7,27,0,1,-4,-0.6,31,4.4,-0.8,1,7,1,11.1,0,79.2,202011220sdg
+Hunter Henry,HenrHu00,receiving,LAC,7,4,48,1,3,37,9.3,11,2.8,9.7,0,NA,0,0,0,117.9,202011220sdg
+Mike Williams,WillMi07,receiving,LAC,7,4,72,1,4,43,10.8,29,7.3,17.4,0,NA,0,0,0,132.1,202011220sdg
+Joshua Kelley,KellJo01,receiving,LAC,2,2,4,0,1,-4,-2,8,4,-2,0,NA,0,0,0,79.2,202011220sdg
+Troymaine Pope,PopeTr00,receiving,LAC,2,2,12,0,NA,5,2.5,7,3.5,2.5,0,NA,0,0,0,91.7,202011220sdg
+Jalen Guyton,GuytJa01,receiving,LAC,1,1,4,0,NA,4,4,0,0,4,0,NA,0,0,0,83.3,202011220sdg
+Tyron Johnson,JohnTy03,receiving,LAC,1,1,54,0,1,50,50,4,4,50,0,NA,0,0,0,118.7,202011220sdg

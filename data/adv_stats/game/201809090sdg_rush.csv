@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kareem Hunt,HuntKa00,rushing,KAN,16,49,2,11,0.7,38,2.4,2,8,201809090sdg
+Patrick Mahomes,MahoPa00,rushing,KAN,5,21,2,21,4.2,0,0,0,NA,201809090sdg
+Spencer Ware,WareSp00,rushing,KAN,3,32,2,16,5.3,16,5.3,1,3,201809090sdg
+Tyreek Hill,HillTy00,rushing,KAN,2,4,0,4,2,0,0,0,NA,201809090sdg
+Damien Williams,WillDa05,rushing,KAN,1,0,NA,0,0,0,0,0,NA,201809090sdg
+Melvin Gordon,GordMe00,rushing,LAC,15,64,3,29,1.9,35,2.3,2,7.5,201809090sdg
+Austin Ekeler,EkelAu00,rushing,LAC,5,39,2,17,3.4,22,4.4,4,1.3,201809090sdg
+Travis Benjamin,BenjTr00,rushing,LAC,1,19,1,19,19,0,0,0,NA,201809090sdg
+Derek Watt,WattDe00,rushing,LAC,1,1,1,0,0,1,1,0,NA,201809090sdg

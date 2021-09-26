@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jarvis Landry,LandJa00,receiving,CLE,13,6,51,1,4,17,2.8,34,5.7,3.7,1,6,2,15.4,0,82.5,201911030den
+Odell Beckham Jr.,BeckOd00,receiving,CLE,6,5,87,0,4,37,7.4,50,10,8.7,0,NA,1,16.7,0,118.7,201911030den
+Antonio Callaway,CallAn00,receiving,CLE,5,4,56,0,1,15,3.8,41,10.3,5.4,0,NA,0,0,0,113.3,201911030den
+Nick Chubb,ChubNi00,receiving,CLE,5,4,26,0,1,-2,-0.5,28,7,-1,0,NA,0,0,0,88.3,201911030den
+Demetrius Harris,HarrDe03,receiving,CLE,4,3,25,0,1,2,0.7,23,7.7,2.8,1,3,0,0,0,90.6,201911030den
+Dontrell Hilliard,HillDo00,receiving,CLE,2,2,6,0,NA,-11,-5.5,17,8.5,-5.5,0,NA,0,0,0,79.2,201911030den
+Ricky Seals-Jones,SealRi00,receiving,CLE,2,2,12,0,1,4,2,8,4,2,0,NA,0,0,0,91.7,201911030den
+KhaDarel Hodge,HodgKh00,receiving,CLE,1,1,10,0,1,7,7,3,3,7,0,NA,0,0,0,108.3,201911030den
+Stephen Carlson,CarlSt00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,21,0,NA,0,0,0,39.6,201911030den
+Rashard Higgins,HiggRa00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,201911030den
+Courtland Sutton,SuttCo00,receiving,DEN,8,5,56,1,3,36,7.2,20,4,8.8,1,5,0,0,0,122.9,201911030den
+Noah Fant,FantNo00,receiving,DEN,4,3,115,1,3,42,14,73,24.3,11.3,1,3,0,0,0,156.2,201911030den
+Devontae Booker,BookDe00,receiving,DEN,1,1,14,0,NA,4,4,10,10,4,0,NA,0,0,0,118.7,201911030den
+Royce Freeman,FreeRo00,receiving,DEN,1,1,-1,0,0,-1,-1,0,0,-1,0,NA,0,0,0,79.2,201911030den
+Troy Fumagalli,FumaTr00,receiving,DEN,1,1,9,0,NA,9,9,0,0,9,0,NA,0,0,0,104.2,201911030den
+Diontae Spencer,SpenDi00,receiving,DEN,3,1,0,0,NA,-3,-3,3,3,16,0,NA,1,33.3,0,42.4,201911030den

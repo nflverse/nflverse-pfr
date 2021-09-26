@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Phillip Lindsay,LindPh00,receiving,DEN,4,4,33,0,1,5,1.3,28,7,1.3,0,NA,0,0,0,101,201910060sdg
+Courtland Sutton,SuttCo00,receiving,DEN,7,4,92,1,2,39,9.8,53,13.3,7.6,3,1.3,0,0,0,141.4,201910060sdg
+Royce Freeman,FreeRo00,receiving,DEN,2,2,6,0,0,-3,-1.5,9,4.5,-1.5,1,2,0,0,0,79.2,201910060sdg
+Andrew Beck,BeckAn01,receiving,DEN,1,1,10,0,1,7,7,3,3,7,0,NA,0,0,0,108.3,201910060sdg
+Noah Fant,FantNo00,receiving,DEN,1,1,6,0,NA,6,6,0,0,6,0,NA,0,0,0,91.7,201910060sdg
+Jeff Heuerman,HeueJe00,receiving,DEN,3,1,26,0,1,23,23,3,3,9.7,0,NA,0,0,1,26.4,201910060sdg
+Emmanuel Sanders,SandEm00,receiving,DEN,1,1,9,0,1,9,9,0,0,9,0,NA,0,0,0,104.2,201910060sdg
+Austin Ekeler,EkelAu00,receiving,LAC,16,15,86,0,6,-14,-0.9,100,6.7,-0.6,1,15,0,0,0,89.1,201910060sdg
+Mike Williams,WillMi07,receiving,LAC,13,6,74,0,4,65,10.8,9,1.5,11.9,1,6,0,0,2,24.7,201910060sdg
+Keenan Allen,AlleKe00,receiving,LAC,6,4,18,0,3,20,5,-2,-0.5,8.3,0,NA,1,16.7,0,70.1,201910060sdg
+Melvin Gordon,GordMe00,receiving,LAC,6,4,7,0,NA,-9,-2.3,16,4,-3.5,0,NA,0,0,0,70.1,201910060sdg
+Travis Benjamin,BenjTr00,receiving,LAC,2,1,13,0,1,13,13,0,0,14,0,NA,0,0,0,70.8,201910060sdg
+Virgil Green,GreeVi00,receiving,LAC,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,201910060sdg
+Derek Watt,WattDe00,receiving,LAC,1,1,8,0,NA,1,1,7,7,1,0,NA,0,0,0,100,201910060sdg
+Lance Kendricks,KendLa00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,201910060sdg

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,DEN,11,46,2,16,1.5,30,2.7,6,1.8,202011150rai
+Phillip Lindsay,LindPh00,rushing,DEN,4,2,1,-1,-0.3,3,0.8,1,4,202011150rai
+Royce Freeman,FreeRo00,rushing,DEN,2,11,0,6,3,5,2.5,0,NA,202011150rai
+Drew Lock,LockDr00,rushing,DEN,2,7,1,7,3.5,0,0,0,NA,202011150rai
+Josh Jacobs,JacoJo01,rushing,LVR,21,112,6,61,2.9,51,2.4,3,7,202011150rai
+Devontae Booker,BookDe00,rushing,LVR,16,81,5,49,3.1,32,2,3,5.3,202011150rai
+Derek Carr,CarrDe02,rushing,LVR,4,10,0,10,2.5,0,0,0,NA,202011150rai

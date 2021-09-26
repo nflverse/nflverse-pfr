@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Sony Michel,MichSo00,rushing,NWE,10,74,4,46,4.6,28,2.8,1,10,202012200mia
+Cam Newton,NewtCa00,rushing,NWE,9,38,3,32,3.6,6,0.7,0,NA,202012200mia
+James White,WhitJa02,rushing,NWE,2,3,0,3,1.5,0,0,0,NA,202012200mia
+J.J. Taylor,TaylJJ01,rushing,NWE,1,2,NA,2,2,0,0,0,NA,202012200mia
+Salvon Ahmed,AhmeSa01,rushing,MIA,23,122,6,96,4.2,26,1.1,3,7.7,202012200mia
+Matt Breida,BreiMa00,rushing,MIA,12,86,4,76,6.3,10,0.8,1,12,202012200mia
+Tua Tagovailoa,TagoTu00,rushing,MIA,3,9,3,9,3,0,0,0,NA,202012200mia
+Patrick Laird,LairPa00,rushing,MIA,2,20,1,20,10,0,0,0,NA,202012200mia
+Lynn Bowden Jr.,BowdLy00,rushing,MIA,1,9,0,2,2,7,7,2,0.5,202012200mia
+Malcolm Perry,PerrMa00,rushing,MIA,1,4,1,1,1,3,3,0,NA,202012200mia

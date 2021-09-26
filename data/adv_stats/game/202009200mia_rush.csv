@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devin Singletary,SingDe00,rushing,BUF,10,56,4,9,0.9,47,4.7,2,5,202009200mia
+Zack Moss,MossZa00,rushing,BUF,8,37,2,19,2.4,18,2.3,0,NA,202009200mia
+Josh Allen,AlleJo02,rushing,BUF,4,19,1,15,3.8,4,1,1,4,202009200mia
+Gabriel Davis,DaviGa01,rushing,BUF,1,0,0,0,0,0,0,0,NA,202009200mia
+Matt Breida,BreiMa00,rushing,MIA,7,37,2,15,2.1,22,3.1,0,NA,202009200mia
+Myles Gaskin,GaskMy00,rushing,MIA,7,46,2,19,2.7,27,3.9,1,7,202009200mia
+Jordan Howard,HowaJo00,rushing,MIA,5,4,2,0,0,4,0.8,0,NA,202009200mia
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,3,12,0,7,2.3,5,1.7,0,NA,202009200mia

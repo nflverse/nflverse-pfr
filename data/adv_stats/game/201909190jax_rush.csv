@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,17,44,3,-4,-0.2,48,2.8,1,17,201909190jax
+Marcus Mariota,MariMa01,rushing,TEN,6,34,2,22,3.7,12,2,1,6,201909190jax
+Dion Lewis,LewiDi00,rushing,TEN,3,13,0,8,2.7,5,1.7,0,NA,201909190jax
+Leonard Fournette,FourLe00,rushing,JAX,15,66,2,-6,-0.4,72,4.8,1,15,201909190jax
+Gardner Minshew II,MinsGa00,rushing,JAX,4,18,0,12,3,6,1.5,1,4,201909190jax
+Dede Westbrook,WestDe00,rushing,JAX,1,4,0,4,4,0,0,0,NA,201909190jax

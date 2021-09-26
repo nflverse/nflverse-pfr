@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Raven Greene,GreeRa02,defense,GNB,0,10,8,80.0%,93,11.6,9.3,0,105.4,9.3,74,19,0,1,0,0,1,8,0,0.0%,202010250htx
+Krys Barnes,BarnKr00,defense,GNB,0,6,5,83.3%,47,9.4,7.8,0,99.3,7,31,16,1,0,0,1,1,8,0,0.0%,202010250htx
+Josh Jackson,JackJo01,defense,GNB,0,6,5,83.3%,55,11,9.2,0,104.9,6.5,30,25,0,0,0,0,0,4,2,33.3%,202010250htx
+Ty Summers,SummTy00,defense,GNB,0,5,5,100.0%,42,8.4,8.4,2,141.2,3.2,16,26,0,0,0,0,0,3,0,0.0%,202010250htx
+Adrian Amos,AmosAd00,defense,GNB,0,4,4,100.0%,63,15.8,15.8,0,118.7,13.5,54,9,1,0,0,1,1,6,0,0.0%,202010250htx
+Chandon Sullivan,SullCh00,defense,GNB,0,5,4,80.0%,34,8.5,6.8,0,95,5.2,22,12,3,1,0,0,1,3,0,0.0%,202010250htx
+Henry Black,BlacHe00,defense,GNB,0,2,2,100.0%,14,7,7,1,135.4,5,10,4,0,0,0,0,0,2,0,0.0%,202010250htx
+Kamal Martin,MartKa01,defense,GNB,0,2,2,100.0%,28,14,14,0,118.7,8,16,12,0,0,0,0,0,6,0,0.0%,202010250htx
+Preston Smith,SmitPr00,defense,GNB,0,1,1,100.0%,8,8,8,0,100,5,5,3,0,1,0,0,1,3,0,0.0%,202010250htx
+Vernon Scott,ScotVe00,defense,GNB,0,1,1,100.0%,-3,-3,-3,0,79.2,-2,-2,-1,1,0,0,0,0,1,1,50.0%,202010250htx
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,2,3,0,0.0%,202010250htx
+Kingsley Keke,KekeKi00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202010250htx
+Will Redmond,RedmWi00,defense,GNB,0,2,0,0.0%,NA,NA,0,NA,39.6,7,NA,NA,1,1,0,0,1,6,1,14.3%,202010250htx
+Jaire Alexander,AlexJa00,defense,GNB,0,3,0,0.0%,NA,NA,0,NA,39.6,7.7,NA,NA,1,0,0,0,0,0,0,NA,202010250htx
+Eric Murray,MurrEr00,defense,HOU,0,7,7,100.0%,85,12.1,12.1,2,156.8,3,21,64,2,0,0,0,0,6,0,0.0%,202010250htx
+Vernon Hargreaves III,HargVe00,defense,HOU,0,12,6,50.0%,97,16.2,8.1,0,77.4,11.3,68,29,0,0,0,0,0,3,1,25.0%,202010250htx
+Phillip Gaines,GainPh00,defense,HOU,0,8,5,62.5%,61,12.2,7.6,1,125.5,9.8,34,27,0,0,0,0,0,5,0,0.0%,202010250htx
+Tyrell Adams,AdamTy00,defense,HOU,0,4,4,100.0%,35,8.8,8.8,1,142.7,1.3,5,30,3,0,0,0,0,11,0,0.0%,202010250htx
+Justin Reid,ReidJu00,defense,HOU,0,2,2,100.0%,6,3,3,0,79.2,-1,-2,8,0,0,0,0,0,4,0,0.0%,202010250htx
+Zach Cunningham,CunnZa00,defense,HOU,0,2,1,50.0%,17,17,8.5,0,79.2,10.5,2,15,1,1,0,0,1,11,0,0.0%,202010250htx
+Whitney Mercilus,MercWh00,defense,HOU,0,1,1,100.0%,-1,-1,-1,0,79.2,-4,-4,3,2,0,0,0,0,1,1,50.0%,202010250htx
+Charles Omenihu,OmenCh00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202010250htx
+Carlos Watkins,WatkCa00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,-2,NA,NA,0,0,0,0,0,2,0,0.0%,202010250htx
+Michael Thomas,ThomMi02,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,18,NA,NA,2,0,0,0,0,2,0,0.0%,202010250htx

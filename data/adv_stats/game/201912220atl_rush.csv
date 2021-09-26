@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,JAX,15,71,3,24,1.6,47,3.1,0,NA,201912220atl
+Gardner Minshew II,MinsGa00,rushing,JAX,7,36,2,35,5,1,0.1,0,NA,201912220atl
+Ryquell Armstead,ArmsRy00,rushing,JAX,1,2,NA,0,0,2,2,0,NA,201912220atl
+Keelan Cole,ColeKe00,rushing,JAX,1,6,0,1,1,5,5,0,NA,201912220atl
+Devonta Freeman,FreeDe00,rushing,ATL,13,53,2,41,3.2,12,0.9,0,NA,201912220atl
+Brian Hill,HillBr02,rushing,ATL,7,66,4,33,4.7,33,4.7,0,NA,201912220atl
+Matt Ryan,RyanMa00,rushing,ATL,4,6,1,6,1.5,0,0,0,NA,201912220atl
+Russell Gage,GageRu00,rushing,ATL,2,7,0,3,1.5,4,2,0,NA,201912220atl
+Qadree Ollison,OlliQa00,rushing,ATL,1,3,1,3,3,0,0,0,NA,201912220atl

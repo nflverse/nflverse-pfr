@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Giovani Bernard,BernGi00,rushing,CIN,7,21,1,5,0.7,16,2.3,1,7,201909080sea
+Joe Mixon,MixoJo00,rushing,CIN,6,10,NA,8,1.3,2,0.3,0,NA,201909080sea
+Tyler Boyd,BoydTy00,rushing,CIN,1,3,0,3,3,0,0,0,NA,201909080sea
+Chris Carson,CarsCh00,rushing,SEA,15,46,4,24,1.6,22,1.5,2,7.5,201909080sea
+Rashaad Penny,PennRa00,rushing,SEA,6,18,NA,18,3,0,0,0,NA,201909080sea
+Russell Wilson,WilsRu00,rushing,SEA,4,8,0,8,2,0,0,0,NA,201909080sea

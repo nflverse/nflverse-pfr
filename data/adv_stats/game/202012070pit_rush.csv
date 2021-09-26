@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Peyton Barber,BarbPe01,rushing,WAS,14,23,3,13,0.9,10,0.7,0,NA,202012070pit
+J.D. McKissic,McKiJ.00,rushing,WAS,5,8,0,5,1,3,0.6,0,NA,202012070pit
+Antonio Gibson,GibsAn00,rushing,WAS,2,14,1,4,2,10,5,0,NA,202012070pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,8,5,1,2,0.3,3,0.4,0,NA,202012070pit
+Anthony McFarland Jr.,McFaAn00,rushing,PIT,4,15,NA,8,2,7,1.8,0,NA,202012070pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,0,0,0,0,0,0,0,NA,202012070pit
+Jaylen Samuels,SamuJa00,rushing,PIT,1,1,0,1,1,0,0,0,NA,202012070pit

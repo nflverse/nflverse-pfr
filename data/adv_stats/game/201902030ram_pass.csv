@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Tom Brady,BradTo00,passing,NWE,21,35,262,12,33.3,268,7.7,136,6.5,3.9,126,6,3,8.6%,6,17.1%,1,8,2,4,7,19.4%,0,NA,201902030ram
+Jared Goff,GoffJa00,passing,LAR,19,38,229,11,26.2,393,10.3,154,8.1,4.1,75,3.9,1,2.9%,8,22.9%,4,16,5,7,16,38.1%,0,NA,201902030ram

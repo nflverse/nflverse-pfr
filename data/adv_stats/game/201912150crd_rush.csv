@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,17,127,6,56,3.3,71,4.2,3,5.7,201912150crd
+Kareem Hunt,HuntKa00,rushing,CLE,4,14,0,6,1.5,8,2,0,NA,201912150crd
+Baker Mayfield,MayfBa00,rushing,CLE,2,11,2,7,3.5,4,2,1,2,201912150crd
+Kenyan Drake,DrakKe00,rushing,ARI,22,137,11,96,4.4,41,1.9,2,11,201912150crd
+Kyler Murray,MurrKy00,rushing,ARI,8,56,2,50,6.3,6,0.8,0,NA,201912150crd
+David Johnson,JohnDa08,rushing,ARI,3,6,NA,4,1.3,2,0.7,0,NA,201912150crd
+Andy Isabella,IsabAn00,rushing,ARI,1,-1,NA,-1,-1,0,0,0,NA,201912150crd
+Christian Kirk,KirkCh01,rushing,ARI,1,28,1,28,28,0,0,0,NA,201912150crd

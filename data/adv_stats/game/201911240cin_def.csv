@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Mark Barron,BarrMa00,defense,PIT,0,5,4,80.0%,37,9.3,7.4,0,97.5,2.6,13,24,3,0,0,1,1,6,0,0.0%,201911240cin
+Joe Haden,HadeJo99,defense,PIT,0,8,2,25.0%,25,12.5,3.1,1,79.7,14.8,22,3,0,0,1,0,1,2,0,0.0%,201911240cin
+Terrell Edmunds,EdmuTe00,defense,PIT,0,2,2,100.0%,58,29,29,0,118.7,24.5,49,9,0,0,0,0,0,5,1,16.7%,201911240cin
+Mike Hilton,HiltMi01,defense,PIT,0,5,2,40.0%,43,21.5,8.6,0,71.2,7.8,19,24,3,0,0,0,0,3,0,0.0%,201911240cin
+Devin Bush Jr.,BushDe01,defense,PIT,0,1,1,100.0%,22,22,22,0,118.7,18,18,4,2,0,1,0,1,4,1,20.0%,201911240cin
+Cameron Sutton,SuttCa00,defense,PIT,0,1,1,100.0%,7,7,7,0,95.8,6,6,1,0,0,0,0,0,1,0,0.0%,201911240cin
+Cameron Heyward,HeywCa01,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,1,4,6,0,0.0%,201911240cin
+T.J. Watt,WattT.00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,1,2,2,1,33.3%,201911240cin
+Bud Dupree,DuprAl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,1,2,2,0,0.0%,201911240cin
+Anthony Chickillo,ChicAn00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,2,0,0.0%,201911240cin
+Steven Nelson,NelsSt01,defense,PIT,0,3,0,0.0%,NA,NA,0,NA,39.6,11.3,NA,NA,0,0,0,0,0,3,1,25.0%,201911240cin
+B.W. Webb,WebbBW00,defense,CIN,0,10,4,40.0%,134,33.5,13.4,1,120.8,18.5,74,60,0,0,0,0,0,4,0,0.0%,201911240cin
+William Jackson III,JackWi02,defense,CIN,0,4,3,75.0%,20,6.7,5,0,85.4,9,21,-1,1,0,0,0,0,4,0,0.0%,201911240cin
+Carlos Dunlap,DunlCa99,defense,CIN,0,1,1,100.0%,7,7,7,0,95.8,4,4,3,0,0,1,1,2,6,0,0.0%,201911240cin
+Nick Vigil,VigiNi00,defense,CIN,0,1,1,100.0%,8,8,8,0,100,-5,-5,13,3,0,1,0,1,7,0,0.0%,201911240cin
+Sam Hubbard,HubbSa00,defense,CIN,0,1,1,100.0%,9,9,9,0,104.2,-1,-1,10,0,0,0,1,1,6,0,0.0%,201911240cin
+Germaine Pratt,PratGe00,defense,CIN,0,1,1,100.0%,11,11,11,0,112.5,3,3,8,2,0,0,0,0,7,0,0.0%,201911240cin
+Shawn Williams,WillSh02,defense,CIN,1,2,1,50.0%,1,1,0.5,0,16.7,3,0,1,2,0,0,0,0,3,0,0.0%,201911240cin
+Andrew Billings,BillAn00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,201911240cin
+Carl Lawson,LawsCa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201911240cin
+Darqueze Dennard,DennDa00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,8,NA,NA,2,0,1,0,1,5,1,16.7%,201911240cin
+Brandon Wilson,WilsBr01,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,NA,NA,NA,0,0,0,0,0,1,0,0.0%,201911240cin

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Julian Edelman,EdelJu00,receiving,NWE,10,5,53,0,4,42,8.4,11,2.2,12.9,0,NA,2,20,0,65.8,201911170phi
+James White,WhitJa02,receiving,NWE,7,4,16,0,1,-3,-0.8,19,4.8,-0.9,0,NA,0,0,0,62.2,201911170phi
+Phillip Dorsett,DorsPh00,receiving,NWE,5,3,33,1,2,23,7.7,10,3.3,10.8,0,NA,0,0,0,119.2,201911170phi
+N'Keal Harry,HarrNK00,receiving,NWE,4,3,18,0,1,12,4,6,2,4,0,NA,0,0,0,83.3,201911170phi
+Ben Watson,WatsBe00,receiving,NWE,4,3,52,0,3,21,7,31,10.3,16.3,1,3,0,0,0,116.7,201911170phi
+Rex Burkhead,BurkRe00,receiving,NWE,3,2,34,0,1,1,0.5,33,16.5,0.3,1,2,1,33.3,0,104.9,201911170phi
+Matt LaCosse,LaCoMa00,receiving,NWE,2,2,3,0,NA,-2,-1,5,2.5,-1,0,NA,0,0,0,79.2,201911170phi
+Sony Michel,MichSo00,receiving,NWE,4,2,11,0,1,-6,-3,17,8.5,0,0,NA,1,25,0,56.2,201911170phi
+Mohamed Sanu,SanuMo00,receiving,NWE,4,2,4,0,NA,3,1.5,1,0.5,5.8,0,NA,0,0,0,56.2,201911170phi
+Jakobi Meyers,MeyeJa01,receiving,NWE,2,1,7,0,1,6,6,1,1,17.5,0,NA,0,0,0,58.3,201911170phi
+Zach Ertz,ErtzZa00,receiving,PHI,11,9,94,0,4,62,6.9,32,3.6,7,2,4.5,0,0,0,102.3,201911170phi
+Nelson Agholor,AghoNe00,receiving,PHI,9,4,40,0,2,33,8.3,7,1.8,8.8,0,NA,1,11.1,0,57.6,201911170phi
+Dallas Goedert,GoedDa00,receiving,PHI,6,3,36,1,3,9,3,27,9,6,2,1.5,1,16.7,0,108.3,201911170phi
+Miles Sanders,SandMi01,receiving,PHI,4,2,9,0,1,3,1.5,6,3,6,2,1,0,0,0,56.2,201911170phi
+JJ Arcega-Whiteside,ArceJJ00,receiving,PHI,1,1,29,0,1,29,29,0,0,29,0,NA,0,0,0,118.7,201911170phi
+Jordan Matthews,MattJo00,receiving,PHI,6,1,6,0,NA,4,4,2,2,13.2,0,NA,0,0,0,39.6,201911170phi
+Mack Hollins,HollMa00,receiving,PHI,1,0,0,0,NA,0,NA,0,NA,28,0,NA,0,0,0,39.6,201911170phi

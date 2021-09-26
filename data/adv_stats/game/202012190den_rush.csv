@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Zack Moss,MossZa00,rushing,BUF,13,81,2,53,4.1,28,2.2,3,4.3,202012190den
+Devin Singletary,SingDe00,rushing,BUF,8,68,2,10,1.3,58,7.3,0,NA,202012190den
+Josh Allen,AlleJo02,rushing,BUF,3,33,2,33,11,0,0,0,NA,202012190den
+Melvin Gordon,GordMe00,rushing,DEN,11,61,5,44,4,17,1.5,1,11,202012190den
+Phillip Lindsay,LindPh00,rushing,DEN,11,38,1,23,2.1,15,1.4,1,11,202012190den
+Drew Lock,LockDr00,rushing,DEN,5,37,2,35,7,2,0.4,0,NA,202012190den
+Royce Freeman,FreeRo00,rushing,DEN,1,4,NA,3,3,1,1,0,NA,202012190den

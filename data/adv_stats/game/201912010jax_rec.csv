@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+O.J. Howard,HowaO.00,receiving,TAM,6,5,61,0,2,54,10.8,7,1.4,8.7,0,NA,0,0,0,109,201912010jax
+Breshad Perriman,PerrBr02,receiving,TAM,6,5,87,0,4,70,14,17,3.4,13.8,0,NA,0,0,0,118.7,201912010jax
+Mike Evans,EvanMi00,receiving,TAM,11,4,53,0,3,31,7.8,22,5.5,15.5,0,NA,1,9.1,0,52.5,201912010jax
+Chris Godwin,GodwCh00,receiving,TAM,6,4,50,0,2,1,0.3,49,12.3,1.2,1,4,0,0,0,92.4,201912010jax
+Dare Ogunbowale,OgunDa00,receiving,TAM,2,2,12,0,NA,-3,-1.5,15,7.5,-1.5,0,NA,0,0,0,91.7,201912010jax
+Cameron Brate,BratCa00,receiving,TAM,1,1,5,0,1,5,5,0,0,5,0,NA,0,0,0,87.5,201912010jax
+Justin Watson,WatsJu01,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,23,0,NA,0,0,0,39.6,201912010jax
+Leonard Fournette,FourLe00,receiving,JAX,11,9,53,0,1,0,0,53,5.9,0.1,3,3,1,9.1,0,86.7,201912010jax
+Dede Westbrook,WestDe00,receiving,JAX,8,5,60,1,3,35,7,25,5,7.6,0,NA,0,0,2,85.4,201912010jax
+Chris Conley,ConlCh00,receiving,JAX,5,4,57,0,3,29,7.3,28,7,7.8,1,4,0,0,0,114.2,201912010jax
+DJ Chark,CharDJ00,receiving,JAX,5,2,47,0,2,34,17,13,6.5,15.8,1,2,0,0,0,74.6,201912010jax
+Keelan Cole,ColeKe00,receiving,JAX,2,1,11,0,1,8,8,3,3,4,0,NA,0,0,0,66.7,201912010jax
+Nick O'Leary,OLeaNi00,receiving,JAX,4,1,6,0,NA,2,2,4,4,2.8,0,NA,0,0,0,39.6,201912010jax
+Michael Walker,WalkMi00,receiving,JAX,2,1,6,0,NA,2,2,4,4,3,0,NA,0,0,0,56.2,201912010jax
+Ryquell Armstead,ArmsRy00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,-1,0,NA,0,0,0,39.6,201912010jax

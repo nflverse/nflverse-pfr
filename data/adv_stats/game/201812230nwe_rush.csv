@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Keith Ford,FordKe00,rushing,BUF,7,33,1,16,2.3,17,2.4,0,NA,201812230nwe
+LeSean McCoy,McCoLe01,rushing,BUF,6,9,NA,4,0.7,5,0.8,0,NA,201812230nwe
+Josh Allen,AlleJo02,rushing,BUF,5,30,2,14,2.8,16,3.2,1,5,201812230nwe
+Sony Michel,MichSo00,rushing,NWE,18,116,5,56,3.1,60,3.3,1,18,201812230nwe
+Rex Burkhead,BurkRe00,rushing,NWE,13,39,3,15,1.2,24,1.8,0,NA,201812230nwe
+James White,WhitJa02,rushing,NWE,8,41,2,27,3.4,14,1.8,0,NA,201812230nwe
+Cordarrelle Patterson,PattCo00,rushing,NWE,4,66,4,46,11.5,20,5,0,NA,201812230nwe
+Phillip Dorsett,DorsPh00,rushing,NWE,2,13,1,10,5,3,1.5,0,NA,201812230nwe
+Brian Hoyer,HoyeBr00,rushing,NWE,2,-2,NA,-2,-1,0,0,0,NA,201812230nwe

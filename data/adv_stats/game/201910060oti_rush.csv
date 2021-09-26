@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Frank Gore,GoreFr00,rushing,BUF,14,60,2,18,1.3,42,3,2,7,201910060oti
+Josh Allen,AlleJo02,rushing,BUF,10,27,2,14,1.4,13,1.3,1,10,201910060oti
+T.J. Yeldon,YeldT.00,rushing,BUF,2,15,1,4,2,11,5.5,0,NA,201910060oti
+Andre Roberts,RobeAn00,rushing,BUF,1,7,NA,5,5,2,2,0,NA,201910060oti
+Derrick Henry,HenrDe00,rushing,TEN,20,78,4,24,1.2,54,2.7,3,6.7,201910060oti
+Marcus Mariota,MariMa01,rushing,TEN,5,13,0,10,2,3,0.6,0,NA,201910060oti
+Dion Lewis,LewiDi00,rushing,TEN,2,11,1,5,2.5,6,3,0,NA,201910060oti

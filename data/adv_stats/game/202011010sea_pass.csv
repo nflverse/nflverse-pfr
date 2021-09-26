@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Nick Mullens,MullNi00,passing,SFO,18,25,238,12,48,185,7.4,148,8.2,5.9,90,5,0,0.0%,3,12.5%,0,14,0,4,4,16.0%,0,NA,202011010sea
+Jimmy Garoppolo,GaroJi00,passing,SFO,11,16,84,4,21.1,106,6.6,60,5.5,3.8,24,2.2,1,6.3%,2,12.5%,3,10,2,1,6,30.0%,1,2,202011010sea
+Russell Wilson,WilsRu00,passing,SEA,27,37,261,16,41,260,7,133,4.9,3.6,128,4.7,1,2.8%,6,16.7%,2,18,5,1,8,20.0%,1,21,202011010sea

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Julio Jones,JoneJu02,receiving,ATL,14,11,147,0,7,120,10.9,27,2.5,11.6,0,NA,0,0,1,80.7,201811220nor
+Calvin Ridley,RidlCa00,receiving,ATL,13,8,93,1,3,47,5.9,46,5.8,11.5,0,NA,1,7.7,0,108.8,201811220nor
+Austin Hooper,HoopAu00,receiving,ATL,5,5,31,0,2,19,3.8,12,2.4,3.8,0,NA,0,0,0,92.5,201811220nor
+Mohamed Sanu,SanuMo00,receiving,ATL,4,4,74,0,2,64,16,10,2.5,16,0,NA,0,0,0,118.7,201811220nor
+Tevin Coleman,ColeTe01,receiving,ATL,4,3,17,1,2,0,0,17,5.7,-0.8,0,NA,0,0,0,121.9,201811220nor
+Ito Smith,SmitIt00,receiving,ATL,2,2,7,0,1,-5,-2.5,12,6,-2.5,1,2,0,0,0,81.2,201811220nor
+Justin Hardy,HardJu00,receiving,ATL,2,1,6,0,NA,-5,-5,11,11,-1.5,0,NA,0,0,0,56.2,201811220nor
+Logan Paulsen,PaulLo00,receiving,ATL,1,1,2,0,NA,0,0,2,2,0,0,NA,0,0,0,79.2,201811220nor
+Marvin Hall,HallMa02,receiving,ATL,2,0,0,0,NA,0,NA,0,NA,12,0,NA,0,0,0,39.6,201811220nor
+Dan Arnold,ArnoDa00,receiving,NOR,6,4,45,1,2,36,9,9,2.3,10.5,0,NA,0,0,0,128.5,201811220nor
+Michael Thomas,ThomMi05,receiving,NOR,6,4,38,0,1,33,8.3,5,1.3,12.8,0,NA,0,0,0,84,201811220nor
+Mark Ingram,IngrMa01,receiving,NOR,2,2,14,0,0,6,3,8,4,3,0,NA,0,0,0,95.8,201811220nor
+Alvin Kamara,KamaAl00,receiving,NOR,1,1,9,0,1,4,4,5,5,4,0,NA,0,0,0,104.2,201811220nor
+Ben Watson,WatsBe00,receiving,NOR,2,1,20,0,1,16,16,4,4,23,0,NA,1,50,0,85.4,201811220nor
+Tommylee Lewis,LewiTo00,receiving,NOR,1,1,28,1,1,27,27,1,1,27,0,NA,0,0,0,158.3,201811220nor
+Keith Kirkwood,KirkKe00,receiving,NOR,3,1,5,1,1,5,5,0,0,13.7,0,NA,0,0,1,42.4,201811220nor
+Austin Carr,CarrAu00,receiving,NOR,1,1,12,1,1,12,12,0,0,12,0,NA,0,0,0,156.2,201811220nor

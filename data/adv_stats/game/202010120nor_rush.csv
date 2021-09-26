@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Justin Jackson,JackJu01,rushing,LAC,15,71,4,51,3.4,20,1.3,1,15,202010120nor
+Joshua Kelley,KellJo01,rushing,LAC,11,29,1,17,1.5,12,1.1,1,11,202010120nor
+Justin Herbert,HerbJu00,rushing,LAC,4,8,0,5,1.3,3,0.8,0,NA,202010120nor
+Jalen Guyton,GuytJa01,rushing,LAC,1,-4,0,-4,-4,0,0,0,NA,202010120nor
+Tyron Johnson,JohnTy03,rushing,LAC,1,7,NA,4,4,3,3,0,NA,202010120nor
+Alvin Kamara,KamaAl00,rushing,NOR,11,45,3,33,3,12,1.1,0,NA,202010120nor
+Latavius Murray,MurrLa00,rushing,NOR,8,34,0,22,2.8,12,1.5,0,NA,202010120nor
+Taysom Hill,HillTa00,rushing,NOR,3,13,1,13,4.3,0,0,0,NA,202010120nor
+Michael Burton,BurtMi00,rushing,NOR,2,2,1,1,0.5,1,0.5,0,NA,202010120nor
+Drew Brees,BreeDr00,rushing,NOR,1,1,1,1,1,0,0,0,NA,202010120nor

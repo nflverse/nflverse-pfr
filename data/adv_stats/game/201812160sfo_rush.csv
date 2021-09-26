@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chris Carson,CarsCh00,rushing,SEA,22,119,5,76,3.5,43,2,3,7.3,201812160sfo
+Mike Davis,DaviMi01,rushing,SEA,5,21,0,11,2.2,10,2,1,5,201812160sfo
+Russell Wilson,WilsRu00,rushing,SEA,5,15,0,15,3,0,0,0,NA,201812160sfo
+J.D. McKissic,McKiJ.00,rushing,SEA,2,2,NA,1,0.5,1,0.5,0,NA,201812160sfo
+Tyler Lockett,LockTy00,rushing,SEA,1,11,0,11,11,0,0,0,NA,201812160sfo
+Matt Breida,BreiMa00,rushing,SFO,17,50,1,24,1.4,26,1.5,1,17,201812160sfo
+Jeff Wilson,WilsJe01,rushing,SFO,7,46,1,22,3.1,24,3.4,0,NA,201812160sfo
+Nick Mullens,MullNi00,rushing,SFO,2,-2,0,-2,-1,0,0,0,NA,201812160sfo

@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,20,64,2,36,1.8,28,1.4,2,10,202009280rav
+Patrick Mahomes,MahoPa00,rushing,KAN,4,26,2,19,4.8,7,1.8,0,NA,202009280rav
+Tyreek Hill,HillTy00,rushing,KAN,2,25,1,22,11,3,1.5,0,NA,202009280rav
+Darwin Thompson,ThomDa06,rushing,KAN,2,11,NA,11,5.5,0,0,0,NA,202009280rav
+Darrel Williams,WillDa10,rushing,KAN,2,6,0,6,3,0,0,0,NA,202009280rav
+Anthony Sherman,SherAn00,rushing,KAN,1,0,0,0,0,0,0,0,NA,202009280rav
+Lamar Jackson,JackLa00,rushing,BAL,9,83,3,80,8.9,3,0.3,1,9,202009280rav
+Mark Ingram,IngrMa01,rushing,BAL,7,30,2,22,3.1,8,1.1,1,7,202009280rav
+Gus Edwards,EdwaGu00,rushing,BAL,4,39,2,14,3.5,25,6.3,1,4,202009280rav
+J.K. Dobbins,DobbJK00,rushing,BAL,1,6,1,1,1,5,5,1,1,202009280rav

@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jarvis Landry,LandJa00,receiving,CLE,10,8,167,0,5,43,5.4,124,15.5,6,1,8,0,0,1,79.2,201909290rav
+Nick Chubb,ChubNi00,receiving,CLE,4,3,18,0,1,-9,-3,27,9,-3,1,3,1,25,0,83.3,201909290rav
+Ricky Seals-Jones,SealRi00,receiving,CLE,3,3,82,1,3,33,11,49,16.3,11,0,NA,0,0,0,158.3,201909290rav
+Odell Beckham Jr.,BeckOd00,receiving,CLE,7,2,20,0,1,15,7.5,5,2.5,10,0,NA,0,0,0,39.6,201909290rav
+Dontrell Hilliard,HillDo00,receiving,CLE,3,2,27,0,1,-1,-0.5,28,14,2,0,NA,0,0,0,95.1,201909290rav
+Pharaoh Brown,BrowPh01,receiving,CLE,1,1,18,0,NA,7,7,11,11,7,0,NA,0,0,0,118.7,201909290rav
+Damion Ratley,RatlDa00,receiving,CLE,3,1,10,0,1,5,5,5,5,20.3,0,NA,0,0,0,43.7,201909290rav
+Mark Andrews,AndrMa00,receiving,BAL,8,4,31,1,2,26,6.5,5,1.3,11.8,0,NA,1,12.5,2,59.9,201909290rav
+Marquise Brown,BrowMa04,receiving,BAL,7,4,22,0,2,14,3.5,8,2,5.9,0,NA,1,14.3,0,62.8,201909290rav
+Seth Roberts,RobeSe00,receiving,BAL,5,4,36,0,3,26,6.5,10,2.5,7.2,0,NA,0,0,0,96.7,201909290rav
+Miles Boykin,BoykMi00,receiving,BAL,3,3,32,1,2,31,10.3,1,0.3,10.3,0,NA,0,0,0,150.7,201909290rav
+Willie Snead,SneaWi00,receiving,BAL,2,2,61,1,2,16,8,45,22.5,8,0,NA,0,0,0,158.3,201909290rav
+Hayden Hurst,HursHa00,receiving,BAL,2,2,39,0,1,21,10.5,18,9,10.5,0,NA,0,0,0,118.7,201909290rav
+Justice Hill,HillJu00,receiving,BAL,2,2,9,0,NA,0,0,9,4.5,0,0,NA,0,0,0,85.4,201909290rav
+Mark Ingram,IngrMa01,receiving,BAL,1,1,0,0,0,-4,-4,4,4,-4,0,NA,0,0,0,79.2,201909290rav
+Gus Edwards,EdwaGu00,receiving,BAL,1,1,8,0,0,2,2,6,6,2,0,NA,0,0,0,100,201909290rav
+Nick Boyle,BoylNi00,receiving,BAL,1,1,9,0,NA,5,5,4,4,5,0,NA,0,0,0,104.2,201909290rav
+Chris Moore,MoorCh00,receiving,BAL,1,0,0,0,NA,0,NA,0,NA,26,0,NA,0,0,0,39.6,201909290rav

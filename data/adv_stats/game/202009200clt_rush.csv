@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,14,63,3,33,2.4,30,2.1,1,14,202009200clt
+Alexander Mattison,MattAl01,rushing,MIN,3,13,NA,13,4.3,0,0,0,NA,202009200clt
+C.J. Ham,HamxC.00,rushing,MIN,1,4,NA,3,3,1,1,0,NA,202009200clt
+Jonathan Taylor,TaylJo02,rushing,IND,26,101,7,47,1.8,54,2.1,1,26,202009200clt
+Jordan Wilkins,WilkJo01,rushing,IND,9,40,3,15,1.7,25,2.8,0,NA,202009200clt
+Philip Rivers,RivePh00,rushing,IND,4,3,0,1,0.3,2,0.5,0,NA,202009200clt
+Parris Campbell,CampPa00,rushing,IND,1,7,1,7,7,0,0,0,NA,202009200clt

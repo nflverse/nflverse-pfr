@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Brandon Jones,JoneBr06,defense,MIA,0,7,7,100.0%,56,8,8,0,100,2.4,17,39,1,0,0,0,0,5,3,37.5%,202009240jax
+Eric Rowe,RoweEr00,defense,MIA,0,9,7,77.8%,62,8.9,6.9,0,95.4,4.6,30,32,0,0,0,0,0,5,1,16.7%,202009240jax
+Kyle Van Noy,VanNKy00,defense,MIA,0,4,4,100.0%,49,12.3,12.3,0,117.7,2.8,11,38,1,1,1,1,3,3,2,40.0%,202009240jax
+Jerome Baker,BakeJe00,defense,MIA,0,6,4,66.7%,48,12,8,0,91,8.7,20,28,0,1,0,0,1,8,0,0.0%,202009240jax
+Elandon Roberts,RobeEl00,defense,MIA,0,4,4,100.0%,46,11.5,11.5,0,114.6,2.3,9,37,2,0,1,0,1,7,0,0.0%,202009240jax
+Jamal Perry,WiltJo01,defense,MIA,0,4,3,75.0%,27,9,6.8,0,92.7,4,13,14,0,0,0,0,0,6,1,14.3%,202009240jax
+Kamu Grugier-Hill,GrugKa00,defense,MIA,0,2,2,100.0%,12,6,6,0,91.7,-0.5,-1,13,0,0,0,1,1,8,0,0.0%,202009240jax
+Xavien Howard,HowaXa00,defense,MIA,1,7,2,28.6%,28,14,4,0,4.2,20.1,22,6,0,0,0,0,0,1,0,0.0%,202009240jax
+Noah Igbinoghene,IgbiNo00,defense,MIA,0,3,1,33.3%,2,2,0.7,0,42.4,12,2,0,0,0,0,0,0,3,1,25.0%,202009240jax
+Kavon Frazier,FrazKa00,defense,MIA,0,1,1,100.0%,8,8,8,0,100,8,8,0,0,0,0,0,0,3,0,0.0%,202009240jax
+Bobby McCain,McCaBo01,defense,MIA,0,3,1,33.3%,4,4,1.3,0,42.4,25.3,4,0,1,0,0,0,0,3,0,0.0%,202009240jax
+Shaq Lawson,LawsSh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,3,0,0.0%,202009240jax
+Emmanuel Ogbah,OgbaEm00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0.5,2,2,0,0.0%,202009240jax
+Zach Sieler,SielZa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,0,0.0%,202009240jax
+Davon Godchaux,GodcDa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202009240jax
+Andrew Van Ginkel,VanGAn00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202009240jax
+Christian Wilkins,WilkCh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202009240jax
+C.J. Henderson,HendCJ00,defense,JAX,0,5,5,100.0%,62,12.4,12.4,1,157.9,10.2,51,11,0,0,0,0,0,2,2,50.0%,202009240jax
+Joe Schobert,SchoJo00,defense,JAX,0,4,4,100.0%,29,7.3,7.3,0,96.9,2.5,10,19,0,0,0,0,0,8,1,11.1%,202009240jax
+Tre Herndon,HernTr00,defense,JAX,0,3,3,100.0%,44,14.7,14.7,0,118.7,13,39,5,0,0,0,0,0,5,0,0.0%,202009240jax
+Josh Jones,JoneJo06,defense,JAX,0,2,2,100.0%,7,3.5,3.5,1,120.8,3.5,7,0,2,0,0,0,0,8,0,0.0%,202009240jax
+Myles Jack,JackMy00,defense,JAX,0,2,1,50.0%,3,3,1.5,0,56.2,11,2,1,4,1,0,0,1,11,0,0.0%,202009240jax
+Leon Jacobs,JacoLe00,defense,JAX,0,1,1,100.0%,7,7,7,0,95.8,2,2,5,0,0,0,0,0,1,0,0.0%,202009240jax
+Cassius Marsh,MarsCa00,defense,JAX,0,1,1,100.0%,8,8,8,0,100,6,6,2,0,0,0,0,0,3,0,0.0%,202009240jax
+D.J. Hayden,HaydDJ00,defense,JAX,0,1,1,100.0%,3,3,3,0,79.2,3,3,0,0,0,0,0,0,3,0,0.0%,202009240jax
+Andrew Wingard,WingAn01,defense,JAX,0,1,1,100.0%,8,8,8,0,100,6,6,2,0,0,0,0,0,3,0,0.0%,202009240jax
+Josh Allen,AlleJo03,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,2,0,0.0%,202009240jax
+K'Lavon Chaisson,ChaiKL00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202009240jax
+Taven Bryan,BryaTa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202009240jax
+DaVon Hamilton,HamiDa02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202009240jax
+Brandon Rusnak,WatsBr01,defense,JAX,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,1,0,0,0,0,3,0,0.0%,202009240jax
+Abry Jones,JoneAb00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202009240jax

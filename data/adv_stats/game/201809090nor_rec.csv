@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Mike Evans,EvanMi00,receiving,TAM,7,7,147,1,7,102,14.6,45,6.4,14.6,0,NA,0,0,0,158.3,201809090nor
+DeSean Jackson,JackDe00,receiving,TAM,5,5,146,2,4,117,23.4,29,5.8,23.4,0,NA,0,0,0,158.3,201809090nor
+Chris Godwin,GodwCh00,receiving,TAM,4,3,41,1,3,37,12.3,4,1.3,18.3,0,NA,0,0,0,146.9,201809090nor
+Adam Humphries,HumpAd00,receiving,TAM,5,3,27,0,1,-3,-1,30,10,0,0,NA,0,0,0,74.6,201809090nor
+O.J. Howard,HowaO.00,receiving,TAM,2,2,54,0,2,36,18,18,9,18,0,NA,0,0,0,118.7,201809090nor
+Jacquizz Rodgers,RodgJa00,receiving,TAM,1,1,2,0,NA,-2,-2,4,4,-2,0,NA,0,0,0,79.2,201809090nor
+Cameron Brate,BratCa00,receiving,TAM,2,0,0,0,NA,0,NA,0,NA,6,0,NA,0,0,0,39.6,201809090nor
+Alan Cross,CrosAl00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,0,0,NA,1,100,0,39.6,201809090nor
+Freddie Martino,MartFr00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,201809090nor
+Michael Thomas,ThomMi05,receiving,NOR,17,16,180,1,7,117,7.3,63,3.9,7.5,1,16,1,5.9,0,130.4,201809090nor
+Alvin Kamara,KamaAl00,receiving,NOR,12,9,112,1,4,43,4.8,69,7.7,5.8,0,NA,0,0,0,131.2,201809090nor
+Ted Ginn Jr.,GinnTe00,receiving,NOR,6,5,68,1,3,64,12.8,4,0.8,12,0,NA,0,0,0,153.5,201809090nor
+Ben Watson,WatsBe00,receiving,NOR,4,4,44,0,4,41,10.3,3,0.8,10.3,0,NA,0,0,0,112.5,201809090nor
+Austin Carr,CarrAu00,receiving,NOR,2,2,20,0,NA,13,6.5,7,3.5,6.5,0,NA,0,0,0,108.3,201809090nor
+Josh Hill,HillJo02,receiving,NOR,1,1,15,0,1,-6,-6,21,21,-6,1,1,0,0,0,118.7,201809090nor
+Zach Line,LineZa01,receiving,NOR,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,201809090nor
+Tre'Quan Smith,SmitTr03,receiving,NOR,1,0,0,0,NA,0,NA,0,NA,20,0,NA,0,0,0,39.6,201809090nor

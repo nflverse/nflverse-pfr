@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Mike Davis,DaviMi01,receiving,ATL,7,7,25,0,0,-11,-1.6,36,5.1,-1.6,2,3.5,0,0,0,81.5,202109190tam
+Calvin Ridley,RidlCa00,receiving,ATL,10,7,63,1,3,40,5.7,23,3.3,10.6,0,NA,0,0,0,120,202109190tam
+Kyle Pitts,PittKy00,receiving,ATL,6,5,73,0,3,39,7.8,34,6.8,6.8,0,NA,0,0,0,117.4,202109190tam
+Russell Gage,GageRu00,receiving,ATL,7,5,28,0,2,5,1,23,4.6,0.9,0,NA,0,0,2,38.7,202109190tam
+Cordarrelle Patterson,PattCo00,receiving,ATL,7,5,58,1,3,0,0,58,11.6,-2.6,2,2.5,0,0,1,96.1,202109190tam
+Olamide Zaccheaus,ZaccOl01,receiving,ATL,4,2,22,0,2,16,8,6,3,4.8,0,NA,0,0,0,66.7,202109190tam
+Christian Blake,BlakCh00,receiving,ATL,1,1,8,0,1,8,8,0,0,8,0,NA,0,0,0,100,202109190tam
+Lee Smith,SmitLe00,receiving,ATL,1,1,9,0,NA,6,6,3,3,6,0,NA,0,0,0,104.2,202109190tam
+Tajae Sharpe,SharTa00,receiving,ATL,2,1,8,0,NA,4,4,4,4,10,0,NA,0,0,0,60.4,202109190tam
+Hayden Hurst,HursHa00,receiving,ATL,1,1,6,0,1,6,6,0,0,6,0,NA,0,0,0,91.7,202109190tam
+Parker Hesse,HessPa00,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202109190tam
+Keith Smith,SmitKe03,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,3,0,NA,1,100,0,39.6,202109190tam
+Mike Evans,EvanMi00,receiving,TAM,9,5,75,2,5,68,13.6,7,1.4,17.9,0,NA,0,0,0,122.7,202109190tam
+Rob Gronkowski,GronRo00,receiving,TAM,5,4,39,2,2,27,6.8,12,3,9.4,1,4,0,0,0,138.7,202109190tam
+Chris Godwin,GodwCh00,receiving,TAM,5,4,62,1,4,47,11.8,15,3.8,10.6,0,NA,0,0,0,157.9,202109190tam
+Leonard Fournette,FourLe00,receiving,TAM,4,4,24,0,1,-6,-1.5,30,7.5,-1.5,1,4,0,0,0,91.7,202109190tam
+Giovani Bernard,BernGi00,receiving,TAM,2,2,16,0,NA,1,0.5,15,7.5,0.5,0,NA,0,0,0,100,202109190tam
+O.J. Howard,HowaO.00,receiving,TAM,1,1,21,0,1,19,19,2,2,19,0,NA,0,0,0,118.7,202109190tam
+Tyler Johnson,JohnTy00,receiving,TAM,2,1,5,0,NA,5,5,0,0,2,0,NA,0,0,0,56.2,202109190tam
+Ronald Jones II,JoneRo01,receiving,TAM,3,1,9,0,0,3,3,6,6,0.3,0,NA,0,0,0,42.4,202109190tam
+Antonio Brown,BrowAn04,receiving,TAM,3,1,17,0,1,17,17,0,0,21,0,NA,0,0,0,53.5,202109190tam
+Cameron Brate,BratCa00,receiving,TAM,1,1,8,0,NA,7,7,1,1,7,0,NA,0,0,0,100,202109190tam

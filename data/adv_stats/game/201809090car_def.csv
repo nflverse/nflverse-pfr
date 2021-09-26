@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jaylon Smith,SmitJa05,defense,DAL,0,4,4,100.0%,32,8,8,0,100,1.3,5,27,1,2,0,1,3,4,2,33.3%,201809090car
+Sean Lee,LeexSe99,defense,DAL,0,4,3,75.0%,35,11.7,8.8,0,101,6.8,-2,37,1,0,1,0,1,4,4,50.0%,201809090car
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,5,3,60.0%,25,8.3,5,0,72.9,3.8,7,18,0,0,0,0,0,4,0,0.0%,201809090car
+Byron Jones,JoneBy00,defense,DAL,0,5,3,60.0%,41,13.7,8.2,0,86.2,15.4,41,0,1,0,0,0,0,5,1,16.7%,201809090car
+Jeff Heath,HeatJe00,defense,DAL,0,3,2,66.7%,10,5,3.3,0,71.5,2.3,7,3,0,0,0,0,0,6,2,25.0%,201809090car
+Kavon Frazier,FrazKa00,defense,DAL,0,3,2,66.7%,16,8,5.3,0,79.9,4,10,6,0,0,0,0,0,8,1,11.1%,201809090car
+Anthony Brown,BrowAn02,defense,DAL,0,2,1,50.0%,5,5,2.5,0,56.2,4,4,1,0,0,0,0,0,3,0,0.0%,201809090car
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,7,0,0.0%,201809090car
+Taco Charlton,CharTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,201809090car
+Antwaun Woods,WoodAn02,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201809090car
+Maliek Collins,CollMa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201809090car
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201809090car
+Justin March,MarcJu00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201809090car
+Tyrone Crawford,CrawTy00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201809090car
+Damien Wilson,WilsDa02,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,2,66.7%,201809090car
+Luke Kuechly,KuecLu00,defense,CAR,0,4,4,100.0%,33,8.3,8.3,0,101,7.8,31,2,2,1,0,0,1,13,1,7.1%,201809090car
+Captain Munnerlyn,MunnCa99,defense,CAR,0,6,4,66.7%,48,12,8,0,91,6.8,40,8,3,0,0,0,0,2,0,0.0%,201809090car
+Donte Jackson,JackDo02,defense,CAR,0,6,4,66.7%,33,8.3,5.5,0,80.6,8.7,30,3,0,0,0,0,0,5,1,16.7%,201809090car
+Mike Adams,AdamMi21,defense,CAR,0,4,3,75.0%,25,8.3,6.3,0,90.6,2.5,10,15,0,0,0,0,0,5,0,0.0%,201809090car
+Shaq Thompson,ThomSh01,defense,CAR,0,3,2,66.7%,20,10,6.7,0,85.4,7,6,14,6,1,0,1,2,9,0,0.0%,201809090car
+Da'Norris Searcy,SearDa00,defense,CAR,0,3,2,66.7%,24,12,8,0,91,14.3,11,13,0,0,0,0,0,3,0,0.0%,201809090car
+Wes Horton,HortWe00,defense,CAR,0,1,1,100.0%,0,0,0,0,79.2,-1,-1,1,1,2,0,1.5,4,3,1,25.0%,201809090car
+David Mayo,MayoDa00,defense,CAR,0,1,1,100.0%,11,11,11,0,112.5,-4,-4,15,1,0,0,0,0,1,1,50.0%,201809090car
+James Bradberry,BradJa00,defense,CAR,0,4,1,25.0%,9,9,2.3,0,39.6,13,8,1,1,0,0,0,0,1,0,0.0%,201809090car
+Kawann Short,ShorKa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,2,4,2,1,33.3%,201809090car
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1.5,3,3,0,0.0%,201809090car
+Julius Peppers,PeppJu99,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201809090car
+Vernon Butler,ButlVe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201809090car
+Kyle Love,LoveKy00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201809090car
+Bryan Cox Jr.,CoxxBr01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201809090car
+Colin Jones,JoneCo01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,201809090car

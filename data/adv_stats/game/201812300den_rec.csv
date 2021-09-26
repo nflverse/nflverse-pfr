@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Mike Williams,WillMi07,receiving,LAC,6,5,65,1,4,59,11.8,6,1.2,12.7,0,NA,0,0,0,151.4,201812300den
+Keenan Allen,AlleKe00,receiving,LAC,7,4,64,0,4,36,9,28,7,7.7,0,NA,0,0,0,87.8,201812300den
+Melvin Gordon,GordMe00,receiving,LAC,3,3,24,0,0,-5,-1.7,29,9.7,-1.7,1,3,0,0,0,100,201812300den
+Tyrell Williams,WillTy00,receiving,LAC,3,2,23,0,2,8,4,15,7.5,6.3,0,NA,0,0,1,50,201812300den
+Travis Benjamin,BenjTr00,receiving,LAC,1,0,0,0,0,0,NA,0,NA,18,0,NA,1,100,0,39.6,201812300den
+Austin Ekeler,EkelAu00,receiving,LAC,1,0,0,0,0,0,NA,0,NA,2,0,NA,0,0,0,39.6,201812300den
+Antonio Gates,GateAn00,receiving,LAC,2,0,0,0,NA,0,NA,0,NA,11.5,0,NA,0,0,1,0,201812300den
+Virgil Green,GreeVi00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,3,0,NA,1,100,0,39.6,201812300den
+Royce Freeman,FreeRo00,receiving,DEN,10,8,43,0,1,11,1.4,32,4,0.7,0,NA,1,10,0,84.6,201812300den
+Devontae Booker,BookDe00,receiving,DEN,7,5,20,0,0,8,1.6,12,2.4,-0.6,0,NA,1,14.3,0,74.1,201812300den
+DaeSean Hamilton,HamiDa01,receiving,DEN,8,5,49,0,3,38,7.6,11,2.2,8.5,1,5,1,12.5,0,79.7,201812300den
+Matt LaCosse,LaCoMa00,receiving,DEN,8,5,33,0,NA,12,2.4,21,4.2,4.1,0,NA,1,12.5,1,31.8,201812300den
+Tim Patrick,PatrTi00,receiving,DEN,7,4,48,0,3,43,10.8,5,1.3,7.7,1,4,0,0,0,78.3,201812300den
+Andy Janovich,JanoAn00,receiving,DEN,2,2,30,1,2,11,5.5,19,9.5,5.5,0,NA,0,0,0,158.3,201812300den
+River Cracraft,CracRi00,receiving,DEN,2,1,44,0,1,37,37,7,7,34,0,NA,0,0,0,95.8,201812300den
+Courtland Sutton,SuttCo00,receiving,DEN,3,1,25,0,1,22,22,3,3,32.3,0,NA,0,0,0,64.6,201812300den

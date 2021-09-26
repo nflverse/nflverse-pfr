@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+K'Waun Williams,WillKW00,defense,SFO,0,6,5,83.3%,16,3.2,2.7,0,79.2,1.5,-1,17,1,0,0,0,0,3,0,0.0%,201910200was
+Jimmie Ward,WardJi01,defense,SFO,0,1,1,100.0%,11,11,11,0,112.5,7,7,4,0,0,0,0,0,5,0,0.0%,201910200was
+Fred Warner,WarnFr00,defense,SFO,0,1,1,100.0%,18,18,18,0,118.7,-2,-2,20,0,0,0,0,0,2,1,33.3%,201910200was
+Jaquiski Tartt,TartJa00,defense,SFO,0,1,1,100.0%,13,13,13,0,118.7,13,13,0,1,0,0,0,0,4,1,20.0%,201910200was
+Dee Ford,FordDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201910200was
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201910200was
+Nick Bosa,BosaNi00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,7,0,0.0%,201910200was
+Kwon Alexander,AlexKw00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,5,1,16.7%,201910200was
+Emmanuel Moseley,MoseEm00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,0,0,0,0,2,1,33.3%,201910200was
+Jonathan Bostic,BostJo00,defense,WAS,0,6,4,66.7%,42,10.5,7,0,86.8,5.5,1,41,1,0,0,0,0,7,2,22.2%,201910200was
+Quinton Dunbar,DunbQu00,defense,WAS,0,4,2,50.0%,22,11,5.5,0,66.7,11,19,3,0,0,0,0,0,1,0,0.0%,201910200was
+Landon Collins,CollLa00,defense,WAS,0,3,2,66.7%,28,14,9.3,0,96.5,5.7,17,11,1,0,0,0,0,4,2,33.3%,201910200was
+Shaun Dion Hamilton,DionSh00,defense,WAS,0,1,1,100.0%,15,15,15,0,118.7,9,9,6,3,0,0,0,0,3,0,0.0%,201910200was
+Jimmy Moreland,MoreJi00,defense,WAS,0,1,1,100.0%,16,16,16,0,118.7,14,14,2,0,0,0,0,0,3,1,25.0%,201910200was
+Cole Holcomb,HolcCo00,defense,WAS,0,1,1,100.0%,2,2,2,0,79.2,1,1,1,0,0,0,0,0,4,1,20.0%,201910200was
+Fabian Moreau,MoreFa00,defense,WAS,0,2,1,50.0%,26,26,13,0,95.8,19.5,23,3,0,0,0,0,0,2,0,0.0%,201910200was
+Matthew Ioannidis,IoanMa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,9,1,10.0%,201910200was
+Noah Spence,SpenNo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201910200was
+Ryan Kerrigan,KerrRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0.5,1,4,0,0.0%,201910200was
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0.5,1,4,0,0.0%,201910200was
+Troy Apke,ApkeTr00,defense,WAS,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,6,1,14.3%,201910200was
+Montae Nicholson,NichMo00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,8,NA,NA,0,0,0,0,0,1,0,0.0%,201910200was
+Ryan Anderson,AndeRy00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,3,0,0,0,0,3,0,0.0%,201910200was
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,7,1,12.5%,201910200was

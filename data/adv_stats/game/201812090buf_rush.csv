@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Elijah McGuire,McGuEl00,rushing,NYJ,17,60,4,-6,-0.4,66,3.9,2,8.5,201812090buf
+Trenton Cannon,CannTr00,rushing,NYJ,5,3,1,-4,-0.8,7,1.4,1,5,201812090buf
+Sam Darnold,DarnSa00,rushing,NYJ,4,10,0,3,0.8,7,1.8,0,NA,201812090buf
+Isaiah Crowell,CrowIs00,rushing,NYJ,2,5,NA,0,0,5,2.5,1,2,201812090buf
+Chris Ivory,IvorCh00,rushing,BUF,12,42,3,7,0.6,35,2.9,1,12,201812090buf
+Josh Allen,AlleJo02,rushing,BUF,9,101,6,27,3,74,8.2,1,9,201812090buf
+Isaiah McKenzie,McKeIs00,rushing,BUF,4,22,1,18,4.5,4,1,0,NA,201812090buf
+Marcus Murphy,MurpMa03,rushing,BUF,4,10,0,3,0.8,7,1.8,2,2,201812090buf
+LeSean McCoy,McCoLe01,rushing,BUF,2,1,NA,-1,-0.5,2,1,0,NA,201812090buf

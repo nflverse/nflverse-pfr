@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Baker Mayfield,MayfBa00,passing,CLE,19,26,258,14,53.8,256,9.8,144,7.6,5.5,114,6,1,4.0%,3,12.0%,0,5,3,1,4,14.8%,1,5,201811250cin
+Jeff Driskel,DrisJe00,passing,CIN,17,29,155,8,26.7,204,7,83,4.9,2.9,72,4.2,3,10.7%,5,17.9%,1,6,1,1,3,9.4%,2,3.5,201811250cin
+Andy Dalton,DaltAn00,passing,CIN,10,17,100,6,35.3,148,8.7,54,5.4,3.2,46,4.6,0,0.0%,4,23.5%,0,4,0,0,0,0.0%,1,21,201811250cin

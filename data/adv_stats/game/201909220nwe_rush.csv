@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Le'Veon Bell,BellLe00,rushing,NYJ,18,35,0,6,0.3,29,1.6,0,NA,201909220nwe
+Ty Montgomery,MontTy01,rushing,NYJ,2,1,NA,0,0,1,0.5,0,NA,201909220nwe
+Rex Burkhead,BurkRe00,rushing,NWE,11,47,1,26,2.4,21,1.9,1,11,201909220nwe
+Sony Michel,MichSo00,rushing,NWE,9,11,1,5,0.6,6,0.7,1,9,201909220nwe
+Brandon Bolden,BoldBr00,rushing,NWE,2,-2,0,-3,-1.5,1,0.5,0,NA,201909220nwe
+Tom Brady,BradTo00,rushing,NWE,2,-1,0,-1,-0.5,0,0,0,NA,201909220nwe
+Phillip Dorsett,DorsPh00,rushing,NWE,2,12,0,11,5.5,1,0.5,0,NA,201909220nwe
+Josh Gordon,GordJo02,rushing,NWE,1,1,0,1,1,0,0,0,NA,201909220nwe

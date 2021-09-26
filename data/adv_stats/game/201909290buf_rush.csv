@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Sony Michel,MichSo00,rushing,NWE,17,63,2,37,2.2,26,1.5,1,17,201909290buf
+Tom Brady,BradTo00,rushing,NWE,3,-3,0,-3,-1,0,0,0,NA,201909290buf
+Brandon Bolden,BoldBr00,rushing,NWE,1,4,1,4,4,0,0,0,NA,201909290buf
+Phillip Dorsett,DorsPh00,rushing,NWE,1,9,1,7,7,2,2,0,NA,201909290buf
+James White,WhitJa02,rushing,NWE,1,1,1,0,0,1,1,0,NA,201909290buf
+Frank Gore,GoreFr00,rushing,BUF,17,109,4,44,2.6,65,3.8,2,8.5,201909290buf
+Josh Allen,AlleJo02,rushing,BUF,5,26,2,15,3,11,2.2,0,NA,201909290buf

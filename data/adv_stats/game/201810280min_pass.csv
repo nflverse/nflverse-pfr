@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Drew Brees,BreeDr00,passing,NOR,18,23,120,8,34.8,53,2.3,42,2.3,1.8,78,4.3,1,4.5%,1,4.5%,0,3,2,0,2,8.7%,0,NA,201810280min
+Taysom Hill,HillTa00,passing,NOR,1,1,44,1,100,39,39,39,39,39,5,5,0,0.0%,0,0.0%,0,0,0,1,1,100.0%,0,NA,201810280min
+Kirk Cousins,CousKi00,passing,MIN,31,41,359,19,42.2,281,6.9,230,7.4,5.6,129,4.2,0,0.0%,2,5.0%,4,9,1,2,7,15.6%,0,NA,201810280min

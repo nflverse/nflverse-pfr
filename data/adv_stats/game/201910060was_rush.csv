@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Sony Michel,MichSo00,rushing,NWE,16,91,4,71,4.4,20,1.3,1,16,201910060was
+James White,WhitJa02,rushing,NWE,6,26,2,15,2.5,11,1.8,0,NA,201910060was
+Brandon Bolden,BoldBr00,rushing,NWE,5,13,0,12,2.4,1,0.2,0,NA,201910060was
+Adrian Peterson,PeteAd01,rushing,WAS,7,18,NA,4,0.6,14,2,0,NA,201910060was
+Wendell Smallwood,SmalWe00,rushing,WAS,6,27,2,17,2.8,10,1.7,0,NA,201910060was
+Chris Thompson,ThomCh03,rushing,WAS,4,21,1,14,3.5,7,1.8,1,4,201910060was
+Colt McCoy,McCoCo00,rushing,WAS,2,14,1,14,7,0,0,0,NA,201910060was
+Steven Sims,SimsSt00,rushing,WAS,1,65,1,11,11,54,54,2,0.5,201910060was

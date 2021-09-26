@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Tyrann Mathieu,MathTy00,defense,KAN,0,8,5,62.5%,32,6.4,4,0,70.8,8.1,7,25,2,0,0,0,0,6,0,0.0%,201912220chi
+Kendall Fuller,FullKe00,defense,KAN,0,4,4,100.0%,36,9,9,0,104.2,6,24,12,4,0,0,0,0,5,1,16.7%,201912220chi
+Daniel Sorensen,SoreDa01,defense,KAN,0,4,3,75.0%,36,12,9,0,102.1,4.5,17,19,6,0,1,0,1,4,1,20.0%,201912220chi
+Bashaud Breeland,BreeBa00,defense,KAN,0,3,2,66.7%,18,9,6,0,82.6,5,11,7,2,0,1,0,1,2,2,50.0%,201912220chi
+Juan Thornhill,ThorJu00,defense,KAN,0,2,1,50.0%,2,2,1,0,56.2,15,-4,6,0,0,0,0,0,3,1,25.0%,201912220chi
+Darron Lee,LeexDa00,defense,KAN,0,1,1,100.0%,12,12,12,0,116.7,1,1,11,2,0,0,0,0,0,0,NA,201912220chi
+Charvarius Ward,WardCh01,defense,KAN,0,7,1,14.3%,13,13,1.9,0,39.6,12.1,6,7,0,0,0,0,0,3,0,0.0%,201912220chi
+Reggie Ragland,RaglRe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,0,1,2,1,0,0.0%,201912220chi
+Alex Brown,BrowAl02,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,0,0,NA,201912220chi
+Jordan Lucas,LucaJo00,defense,KAN,0,1,0,0.0%,NA,NA,0,NA,39.6,11,NA,NA,1,0,1,0,1,0,0,NA,201912220chi
+Frank Clark,ClarFr01,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,50.0%,201912220chi
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201912220chi
+Terrell Suggs,SuggTe99,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,1,0,0.0%,201912220chi
+Ben Niemann,NiemBe00,defense,KAN,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,2,0,0,0,0,3,0,0.0%,201912220chi
+Armani Watts,WattAr00,defense,KAN,0,1,0,0.0%,NA,NA,0,NA,39.6,17,NA,NA,0,0,0,0,0,0,0,NA,201912220chi
+Anthony Hitchens,HitcAn00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0,0,6,0,0.0%,201912220chi
+Tanoh Kpassagnon,KpasTa00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201912220chi
+Kyle Fuller,FullKy00,defense,CHI,0,5,5,100.0%,63,12.6,12.6,0,118.7,9.4,47,16,0,0,0,0,0,6,0,0.0%,201912220chi
+Kevin Pierre-Louis,PierKe00,defense,CHI,0,6,4,66.7%,37,9.3,6.2,0,83.3,2.7,19,18,1,0,0,0,0,12,1,7.7%,201912220chi
+Nick Kwiatkoski,KwiaNi00,defense,CHI,0,4,3,75.0%,39,13,9.8,1,144.8,5.5,13,26,4,0,0,0,0,10,4,28.6%,201912220chi
+Buster Skrine,SkriBu00,defense,CHI,0,4,3,75.0%,38,12.7,9.5,1,143.7,9.3,34,4,2,0,0,0,0,2,0,0.0%,201912220chi
+Ha Ha Clinton-Dix,ClinHa00,defense,CHI,0,3,3,100.0%,27,9,9,0,104.2,7.7,23,4,1,0,0,0,0,6,2,25.0%,201912220chi
+Prince Amukamara,AmukPr00,defense,CHI,0,3,2,66.7%,17,8.5,5.7,0,81.2,5,5,12,0,0,0,0,0,2,0,0.0%,201912220chi
+Eddie Jackson,JackEd01,defense,CHI,0,3,1,33.3%,13,13,4.3,0,47.9,21.3,8,5,0,0,0,0,0,2,1,33.3%,201912220chi
+Leonard Floyd,FloyLe00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,0,0,1,5,1,16.7%,201912220chi
+Khalil Mack,MackKh00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,1,1,4,2,33.3%,201912220chi
+Roy Robertson-Harris,RobeRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201912220chi
+Brent Urban,UrbaBr00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201912220chi
+Bilal Nichols,NichBi00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,2,50.0%,201912220chi

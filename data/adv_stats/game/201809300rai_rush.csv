@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Carlos Hyde,HydeCa00,rushing,CLE,22,82,3,45,2,37,1.7,0,NA,201809300rai
+Baker Mayfield,MayfBa00,rushing,CLE,4,10,1,8,2,2,0.5,0,NA,201809300rai
+Nick Chubb,ChubNi00,rushing,CLE,3,105,2,11,3.7,94,31.3,0,NA,201809300rai
+Duke Johnson,JohnDu00,rushing,CLE,2,11,0,7,3.5,4,2,0,NA,201809300rai
+Marshawn Lynch,LyncMa00,rushing,OAK,20,130,5,58,2.9,72,3.6,2,10,201809300rai
+Doug Martin,MartDo00,rushing,OAK,5,11,NA,3,0.6,8,1.6,0,NA,201809300rai
+Derek Carr,CarrDe02,rushing,OAK,2,1,1,0,0,1,0.5,0,NA,201809300rai
+Dwayne Harris,HarrDw00,rushing,OAK,1,-1,NA,-4,-4,3,3,0,NA,201809300rai
+Jalen Richard,RichJa01,rushing,OAK,1,-2,0,-2,-2,0,0,0,NA,201809300rai

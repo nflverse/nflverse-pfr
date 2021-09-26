@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jamison Crowder,CrowJa00,receiving,WAS,7,5,78,0,3,45,9,33,6.6,9.7,0,NA,0,0,0,108,201812220oti
+Josh Doctson,DoctJo00,receiving,WAS,6,3,30,0,2,24,8,6,2,20.8,0,NA,0,0,2,25,201812220oti
+Jeremy Sprinkle,SpriJe00,receiving,WAS,3,2,22,0,1,16,8,6,3,6.3,0,NA,0,0,0,88.2,201812220oti
+Michael Floyd,FloyMi00,receiving,WAS,3,1,7,1,1,2,2,5,5,14.3,0,NA,1,33.3,0,81.9,201812220oti
+Adrian Peterson,PeteAd01,receiving,WAS,2,1,8,0,1,2,2,6,6,3.5,0,NA,0,0,0,60.4,201812220oti
+Chris Thompson,ThomCh03,receiving,WAS,1,1,8,0,1,2,2,6,6,2,0,NA,0,0,0,100,201812220oti
+Byron Marshall,MarsBy01,receiving,WAS,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,201812220oti
+Corey Davis,DaviCo03,receiving,TEN,5,3,45,0,3,35,11.7,10,3.3,8.8,0,NA,0,0,0,89.6,201812220oti
+Darius Jennings,JennDa00,receiving,TEN,3,3,29,0,1,22,7.3,7,2.3,7.3,0,NA,0,0,0,106.9,201812220oti
+Dion Lewis,LewiDi00,receiving,TEN,4,3,20,0,1,-11,-3.7,31,10.3,-1.5,1,3,0,0,0,85.4,201812220oti
+Taywan Taylor,TaylTa00,receiving,TEN,3,3,64,0,3,48,16,16,5.3,16,0,NA,0,0,0,118.7,201812220oti
+Anthony Firkser,FirkAn00,receiving,TEN,3,2,16,0,1,7,3.5,9,4.5,4,0,NA,0,0,0,79.9,201812220oti
+MyCole Pruitt,PruiMy00,receiving,TEN,3,2,29,1,2,26,13,3,1.5,18.7,0,NA,0,0,0,137.5,201812220oti
+Derrick Henry,HenrDe00,receiving,TEN,1,1,8,0,0,-3,-3,11,11,-3,0,NA,0,0,0,100,201812220oti
+Luke Stocker,StocLu00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,19,0,NA,0,0,0,39.6,201812220oti

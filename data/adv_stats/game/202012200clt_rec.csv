@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+David Johnson,JohnDa08,receiving,HOU,11,11,106,0,4,36,3.3,70,6.4,3.3,0,NA,0,0,0,106.8,202012200clt
+Brandin Cooks,CookBr00,receiving,HOU,7,6,59,0,4,53,8.8,6,1,10.7,0,NA,0,0,0,101.8,202012200clt
+Jordan Akins,AkinJo00,receiving,HOU,6,5,50,0,2,40,8,10,2,7.3,0,NA,1,16.7,0,101.4,202012200clt
+Keke Coutee,CoutKe00,receiving,HOU,7,5,53,1,2,33,6.6,20,4,8.6,1,5,0,0,0,132.7,202012200clt
+Chad Hansen,HansCh00,receiving,HOU,3,2,55,1,2,38,19,17,8.5,15,0,NA,0,0,0,149.3,202012200clt
+Kahale Warring,WarrKa00,receiving,HOU,2,2,32,0,2,25,12.5,7,3.5,12.5,0,NA,0,0,0,118.7,202012200clt
+Pharaoh Brown,BrowPh01,receiving,HOU,1,1,11,0,1,5,5,6,6,5,0,NA,0,0,0,112.5,202012200clt
+Scottie Phillips,PhilSc01,receiving,HOU,1,1,7,0,NA,3,3,4,4,3,0,NA,0,0,0,95.8,202012200clt
+Zach Pascal,PascZa00,receiving,IND,6,5,79,2,5,60,12,19,3.8,11,0,NA,0,0,0,158.3,202012200clt
+T.Y. Hilton,HiltT.00,receiving,IND,6,4,71,0,2,53,13.3,18,4.5,12.7,0,NA,0,0,0,106.9,202012200clt
+Jonathan Taylor,TaylJo02,receiving,IND,5,4,12,0,0,-10,-2.5,22,5.5,1.8,0,NA,0,0,0,79.2,202012200clt
+Mo Alie-Cox,AlieMo00,receiving,IND,2,2,14,0,NA,7,3.5,7,3.5,3.5,0,NA,0,0,0,95.8,202012200clt
+Jack Doyle,DoylJa00,receiving,IND,2,2,14,0,1,7,3.5,7,3.5,3.5,0,NA,0,0,0,95.8,202012200clt
+Nyheim Hines,HineNy00,receiving,IND,3,2,11,0,0,-4,-2,15,7.5,-1,0,NA,0,0,0,72.9,202012200clt
+Michael Pittman Jr.,PittMi01,receiving,IND,3,2,19,0,1,10,5,9,4.5,9,0,NA,0,0,0,84,202012200clt
+Trey Burton,BurtTr01,receiving,IND,2,1,8,0,1,2,2,6,6,5,0,NA,1,50,0,60.4,202012200clt

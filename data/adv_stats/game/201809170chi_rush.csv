@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Rashaad Penny,PennRa00,rushing,SEA,10,30,2,20,2,10,1,1,10,201809170chi
+Chris Carson,CarsCh00,rushing,SEA,6,24,1,8,1.3,16,2.7,2,3,201809170chi
+Mike Davis,DaviMi01,rushing,SEA,3,3,1,3,1,0,0,0,NA,201809170chi
+Russell Wilson,WilsRu00,rushing,SEA,3,17,2,9,3,8,2.7,1,3,201809170chi
+Jordan Howard,HowaJo00,rushing,CHI,14,35,4,26,1.9,9,0.6,1,14,201809170chi
+Mitchell Trubisky,TrubMi00,rushing,CHI,5,24,1,24,4.8,0,0,0,NA,201809170chi
+Tarik Cohen,CoheTa00,rushing,CHI,4,8,0,1,0.3,7,1.8,1,4,201809170chi
+Taylor Gabriel,GabrTa00,rushing,CHI,3,17,1,13,4.3,4,1.3,0,NA,201809170chi
+Trey Burton,BurtTr01,rushing,CHI,1,2,1,0,0,2,2,0,NA,201809170chi

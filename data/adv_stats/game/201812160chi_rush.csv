@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jamaal Williams,WillJa06,rushing,GNB,12,55,3,36,3,19,1.6,0,NA,201812160chi
+Aaron Jones,JoneAa00,rushing,GNB,4,8,NA,2,0.5,6,1.5,0,NA,201812160chi
+Aaron Rodgers,RodgAa00,rushing,GNB,3,25,1,25,8.3,0,0,0,NA,201812160chi
+Jordan Howard,HowaJo00,rushing,CHI,19,60,4,26,1.4,34,1.8,2,9.5,201812160chi
+Tarik Cohen,CoheTa00,rushing,CHI,5,24,1,16,3.2,8,1.6,0,NA,201812160chi
+Mitchell Trubisky,TrubMi00,rushing,CHI,3,16,1,16,5.3,0,0,0,NA,201812160chi
+Benny Cunningham,CunnBe01,rushing,CHI,1,-1,NA,-1,-1,0,0,0,NA,201812160chi
+Taquan Mizzell,MizzTa00,rushing,CHI,1,1,NA,-1,-1,2,2,0,NA,201812160chi

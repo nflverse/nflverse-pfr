@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Alec Ogletree,OgleAl00,defense,NYG,0,8,7,87.5%,38,5.4,4.8,0,86.5,2.4,17,21,8,1,0,0,1,6,0,0.0%,201809160dal
+Janoris Jenkins,JenkJa03,defense,NYG,0,7,7,100.0%,105,15,15,1,158.3,9.6,67,38,0,0,0,0,0,6,0,0.0%,201809160dal
+B.W. Webb,WebbBW00,defense,NYG,0,3,3,100.0%,20,6.7,6.7,0,94.4,5.3,16,4,0,0,0,0,0,2,0,0.0%,201809160dal
+Landon Collins,CollLa00,defense,NYG,0,3,2,66.7%,17,8.5,5.7,0,81.2,9.7,17,0,1,0,0,0,0,6,2,25.0%,201809160dal
+Eli Apple,ApplEl00,defense,NYG,0,4,1,25.0%,9,9,2.3,0,39.6,21.5,7,2,0,0,0,0,0,1,0,0.0%,201809160dal
+Curtis Riley,RileCu00,defense,NYG,0,3,1,33.3%,64,64,21.3,1,121.5,21,38,26,1,0,0,0,0,5,2,28.6%,201809160dal
+Donte Deayon,DeayDo01,defense,NYG,0,2,1,50.0%,10,10,5,0,64.6,12,10,0,0,0,0,0,0,0,1,100.0%,201809160dal
+Kareem Martin,MartKa00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,1,0,1,2,3,60.0%,201809160dal
+Lorenzo Carter,CartLo01,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,3,0,0.0%,201809160dal
+Damon Harrison,HarrDa03,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,201809160dal
+Connor Barwin,BarwCo99,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,201809160dal
+B.J. Goodson,GoodB.00,defense,NYG,0,1,0,0.0%,NA,NA,0,NA,39.6,11,NA,NA,1,0,0,0,0,1,0,0.0%,201809160dal
+Kavon Frazier,FrazKa00,defense,DAL,0,9,6,66.7%,48,8,5.3,1,116.9,5.6,13,35,1,0,0,1,1,4,3,42.9%,201809160dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,6,6,100.0%,39,6.5,6.5,0,93.7,4.2,25,14,1,0,0,0,0,7,0,0.0%,201809160dal
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,7,5,71.4%,88,17.6,12.6,0,113.7,14.9,80,8,0,0,0,0,0,8,1,11.1%,201809160dal
+Anthony Brown,BrowAn02,defense,DAL,0,5,4,80.0%,16,4,3.2,0,80,4.4,0,16,2,0,0,0,0,1,1,50.0%,201809160dal
+Jaylon Smith,SmitJa05,defense,DAL,0,5,4,80.0%,41,10.3,8.2,0,100.8,9,8,33,6,0,0,0,0,10,3,23.1%,201809160dal
+Damien Wilson,WilsDa02,defense,DAL,0,5,3,60.0%,16,5.3,3.2,0,65.4,5,-1,17,2,0,0,1,1,4,1,20.0%,201809160dal
+Sean Lee,LeexSe99,defense,DAL,0,3,3,100.0%,19,6.3,6.3,0,93.1,3,9,10,3,0,0,0,0,5,0,0.0%,201809160dal
+Jeff Heath,HeatJe00,defense,DAL,0,4,3,75.0%,15,5,3.8,0,80.2,3.5,-6,21,0,0,0,0,0,4,2,33.3%,201809160dal
+Byron Jones,JoneBy00,defense,DAL,0,6,2,33.3%,3,1.5,0.5,0,42.4,13.5,-1,4,0,0,0,0,0,6,0,0.0%,201809160dal
+Joe Thomas,ThomJo04,defense,DAL,0,3,2,66.7%,10,5,3.3,0,71.5,0.7,2,8,1,0,0,0,0,2,1,33.3%,201809160dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,2,1,33.3%,201809160dal
+Tyrone Crawford,CrawTy00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,201809160dal
+Taco Charlton,CharTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,0,0.0%,201809160dal
+Antwaun Woods,WoodAn02,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201809160dal

@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jeff Gladney,GladJe00,defense,MIN,0,10,7,70.0%,62,8.9,6.2,2,125.8,9.2,38,24,3,1,0,0,1,8,1,11.1%,202011010gnb
+Eric Wilson,WilsEr00,defense,MIN,0,4,4,100.0%,20,5,5,0,87.5,0.3,1,19,5,0,0,0,0,4,0,0.0%,202011010gnb
+Eric Kendricks,KendEr00,defense,MIN,0,7,4,57.1%,10,2.5,1.4,0,62.2,4.1,-1,11,4,0,0,0,0,12,0,0.0%,202011010gnb
+Kris Boyd,BoydKr00,defense,MIN,0,4,3,75.0%,56,18.7,14,0,116.7,12,31,25,0,0,0,0,0,2,1,33.3%,202011010gnb
+Cameron Dantzler,DantCa00,defense,MIN,0,2,2,100.0%,18,9,9,0,104.2,4.5,9,9,0,0,0,0,0,2,0,0.0%,202011010gnb
+Josh Metellus,MeteJo00,defense,MIN,0,1,1,100.0%,7,7,7,1,135.4,7,7,0,0,0,0,0,0,1,0,0.0%,202011010gnb
+Harrison Hand,HandHa00,defense,MIN,0,2,1,50.0%,15,15,7.5,0,75,7.5,15,0,0,0,0,0,0,2,0,0.0%,202011010gnb
+Mark Fields II,FielMa01,defense,MIN,0,2,1,50.0%,12,12,6,0,68.7,14,11,1,0,0,0,0,0,1,0,0.0%,202011010gnb
+Harrison Smith,SmitHa00,defense,MIN,0,2,1,50.0%,27,27,13.5,0,95.8,28.5,20,7,0,0,0,0,0,8,0,0.0%,202011010gnb
+Anthony Harris,HarrAn01,defense,MIN,0,2,1,50.0%,45,45,22.5,0,95.8,28.5,40,5,2,0,0,0,0,6,0,0.0%,202011010gnb
+Troy Dye,DyexTr00,defense,MIN,0,2,1,50.0%,8,8,4,0,60.4,-2,0,8,1,0,0,0,0,1,0,0.0%,202011010gnb
+Jaleel Johnson,JohnJa09,defense,MIN,0,1,1,100.0%,5,5,5,0,87.5,-3,-3,8,0,0,0,0,0,4,0,0.0%,202011010gnb
+D.J. Wonnum,WonnDJ00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,1,4,1,0,0.0%,202011010gnb
+Jalyn Holmes,HolmJa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,4,0,0.0%,202011010gnb
+Hercules Mata'afa,MataHe00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202011010gnb
+Ifeadi Odenigbo,OdenIf00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202011010gnb
+Jaire Alexander,AlexJa00,defense,GNB,0,4,3,75.0%,25,8.3,6.3,0,90.6,4,11,14,0,0,0,0,0,5,0,0.0%,202011010gnb
+Josh Jackson,JackJo01,defense,GNB,0,2,2,100.0%,21,10.5,10.5,0,110.4,3,6,15,0,0,0,0,0,5,1,16.7%,202011010gnb
+Krys Barnes,BarnKr00,defense,GNB,0,1,1,100.0%,50,50,50,1,158.3,-4,-4,54,3,0,0,0,0,4,3,42.9%,202011010gnb
+Adrian Amos,AmosAd00,defense,GNB,0,1,1,100.0%,7,7,7,0,95.8,7,7,0,1,0,0,0,0,7,2,22.2%,202011010gnb
+Chandon Sullivan,SullCh00,defense,GNB,0,1,1,100.0%,16,16,16,0,118.7,5,5,11,0,0,0,0,0,1,0,0.0%,202011010gnb
+Preston Smith,SmitPr00,defense,GNB,0,1,1,100.0%,12,12,12,0,116.7,1,1,11,4,0,0,0,0,3,0,0.0%,202011010gnb
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,1,1,100.0%,16,16,16,0,118.7,7,7,9,0,0,0,0,0,4,3,42.9%,202011010gnb
+Kamal Martin,MartKa01,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,-4,NA,NA,5,1,0,0,1,3,0,0.0%,202011010gnb
+Dean Lowry,LowrDe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202011010gnb
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,6,0,0.0%,202011010gnb
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202011010gnb

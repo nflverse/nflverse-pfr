@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kenyan Drake,DrakKe00,rushing,ARI,22,78,5,52,2.4,26,1.2,0,NA,202011290nwe
+Chase Edmonds,EdmoCh00,rushing,ARI,6,29,2,23,3.8,6,1,0,NA,202011290nwe
+Kyler Murray,MurrKy00,rushing,ARI,5,31,2,31,6.2,0,0,0,NA,202011290nwe
+Christian Kirk,KirkCh01,rushing,ARI,1,0,0,0,0,0,0,0,NA,202011290nwe
+Damien Harris,HarrDa06,rushing,NWE,14,47,2,20,1.4,27,1.9,1,14,202011290nwe
+Cam Newton,NewtCa00,rushing,NWE,9,46,4,35,3.9,11,1.2,1,9,202011290nwe
+James White,WhitJa02,rushing,NWE,5,18,2,10,2,8,1.6,0,NA,202011290nwe
+N'Keal Harry,HarrNK00,rushing,NWE,1,-2,NA,-2,-2,0,0,0,NA,202011290nwe
+Gunner Olszewski,OlszGu00,rushing,NWE,1,1,NA,0,0,1,1,0,NA,202011290nwe

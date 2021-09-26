@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cooper Kupp,KuppCo00,receiving,LAR,9,8,66,0,6,45,5.6,21,2.6,5,0,NA,0,0,0,97.2,202012270sea
+Josh Reynolds,ReynJo00,receiving,LAR,10,6,65,0,3,38,6.3,27,4.5,5.7,1,6,0,0,0,79.2,202012270sea
+Robert Woods,WoodRo02,receiving,LAR,9,4,48,0,3,42,10.5,6,1.5,10,0,NA,0,0,1,21.8,202012270sea
+Tyler Higbee,HigbTy00,receiving,LAR,6,3,34,0,1,16,5.3,18,6,9.2,1,3,1,16.7,0,67.4,202012270sea
+Gerald Everett,EverGe00,receiving,LAR,3,2,13,0,2,13,6.5,0,0,6.7,0,NA,0,0,0,75.7,202012270sea
+Malcolm Brown,BrowMa03,receiving,LAR,3,1,8,0,0,2,2,6,6,2,0,NA,1,33.3,0,42.4,202012270sea
+Van Jefferson,JeffVa00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202012270sea
+D.K. Metcalf,MetcDK00,receiving,SEA,8,6,59,0,3,32,5.3,27,4.5,11.3,0,NA,0,0,0,95.3,202012270sea
+Chris Carson,CarsCh00,receiving,SEA,3,3,10,0,0,-9,-3,19,6.3,-3,0,NA,0,0,0,80.6,202012270sea
+Will Dissly,DissWi00,receiving,SEA,3,3,17,0,NA,10,3.3,7,2.3,3.3,0,NA,0,0,0,90.3,202012270sea
+Tyler Lockett,LockTy00,receiving,SEA,5,3,44,0,3,34,11.3,10,3.3,19.6,0,NA,0,0,0,88.7,202012270sea
+Jacob Hollister,HollJa03,receiving,SEA,6,2,17,1,1,14,7,3,1.5,6.8,0,NA,0,0,0,81.9,202012270sea
+Carlos Hyde,HydeCa00,receiving,SEA,1,1,18,0,1,5,5,13,13,5,0,NA,0,0,0,118.7,202012270sea
+David Moore,MoorDa03,receiving,SEA,1,1,45,0,1,45,45,0,0,45,0,NA,0,0,0,118.7,202012270sea
+Greg Olsen,OlseGr00,receiving,SEA,2,1,15,0,1,12,12,3,3,8.5,0,NA,0,0,0,75,202012270sea

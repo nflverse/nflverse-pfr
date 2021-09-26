@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Doug Baldwin,BaldDo00,receiving,SEA,7,5,39,0,2,13,2.6,26,5.2,7.9,0,NA,0,0,0,84.8,201811250car
+Tyler Lockett,LockTy00,receiving,SEA,5,5,107,1,5,73,14.6,34,6.8,14.6,0,NA,0,0,0,158.3,201811250car
+David Moore,MoorDa03,receiving,SEA,5,4,103,1,2,96,24,7,1.8,21.6,0,NA,0,0,0,158.3,201811250car
+Chris Carson,CarsCh00,receiving,SEA,2,2,8,0,0,0,0,8,4,0,0,NA,0,0,0,83.3,201811250car
+Ed Dickson,DickEd00,receiving,SEA,2,2,13,0,NA,7,3.5,6,3,3.5,0,NA,0,0,0,93.7,201811250car
+Nick Vannett,VannNi00,receiving,SEA,2,2,22,0,2,5,2.5,17,8.5,2.5,0,NA,0,0,0,112.5,201811250car
+Tre Madden,MaddTr01,receiving,SEA,1,1,28,0,1,19,19,9,9,19,0,NA,0,0,0,118.7,201811250car
+Malik Turner,TurnMa00,receiving,SEA,2,1,19,0,1,9,9,10,10,7,0,NA,0,0,0,83.3,201811250car
+Jaron Brown,BrowJa03,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,23,0,NA,0,0,0,39.6,201811250car
+Mike Davis,DaviMi01,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,13,0,NA,1,100,0,39.6,201811250car
+Christian McCaffrey,McCaCh01,receiving,CAR,11,11,112,1,6,-10,-0.9,122,11.1,-0.9,0,NA,0,0,0,139.4,201811250car
+D.J. Moore,MoorD.00,receiving,CAR,9,8,91,0,4,65,8.1,26,3.3,7.3,0,NA,0,0,0,108.8,201811250car
+Greg Olsen,OlseGr00,receiving,CAR,4,2,11,0,NA,8,4,3,1.5,8.3,0,NA,1,25,0,56.2,201811250car
+Curtis Samuel,SamuCu00,receiving,CAR,2,2,17,1,2,16,8,1,0.5,8,0,NA,0,0,0,141.7,201811250car
+Jarius Wright,WrigJa02,receiving,CAR,2,2,25,0,1,15,7.5,10,5,7.5,0,NA,0,0,0,118.7,201811250car
+Chris Manhertz,ManhCh00,receiving,CAR,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,1,0,201811250car

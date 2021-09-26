@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Chris Thompson,ThomCh03,receiving,WAS,10,7,68,0,2,24,3.4,44,6.3,1.8,0,NA,1,10,0,88.7,201909080phi
+Terry McLaurin,McLaTe00,receiving,WAS,7,5,125,1,4,91,18.2,34,6.8,20.4,0,NA,0,0,0,153.3,201909080phi
+Vernon Davis,DaviVe00,receiving,WAS,7,4,59,1,1,5,1.3,54,13.5,4.7,2,2,0,0,0,124.4,201909080phi
+Trey Quinn,QuinTr00,receiving,WAS,6,4,33,1,2,16,4,17,4.3,4.8,0,NA,0,0,0,120.1,201909080phi
+Paul Richardson,RichPa01,receiving,WAS,7,4,36,0,2,32,8,4,1,10.7,0,NA,1,14.3,0,71.1,201909080phi
+Derrius Guice,GuicDe00,receiving,WAS,3,3,20,0,1,-1,-0.3,21,7,-0.3,0,NA,0,0,0,94.4,201909080phi
+Kelvin Harmon,HarmKe00,receiving,WAS,2,2,31,0,2,26,13,5,2.5,13,0,NA,0,0,0,118.7,201909080phi
+Jeremy Sprinkle,SpriJe00,receiving,WAS,1,1,8,0,1,1,1,7,7,1,0,NA,0,0,0,100,201909080phi
+DeSean Jackson,JackDe00,receiving,PHI,9,8,154,2,6,139,17.4,15,1.9,15.8,1,8,1,11.1,0,158.3,201909080phi
+Zach Ertz,ErtzZa00,receiving,PHI,7,5,54,0,3,33,6.6,21,4.2,5.9,0,NA,0,0,0,93.7,201909080phi
+Alshon Jeffery,JeffAl00,receiving,PHI,7,5,49,1,4,39,7.8,10,2,8,0,NA,0,0,0,130.4,201909080phi
+Darren Sproles,SproDa00,receiving,PHI,3,3,16,0,0,-3,-1,19,6.3,-1,0,NA,0,0,0,88.9,201909080phi
+Nelson Agholor,AghoNe00,receiving,PHI,5,2,11,0,NA,1,0.5,10,5,15.2,0,NA,0,0,0,47.9,201909080phi
+Dallas Goedert,GoedDa00,receiving,PHI,3,2,16,0,NA,6,3,10,5,12.3,0,NA,1,33.3,0,79.9,201909080phi
+Jordan Howard,HowaJo00,receiving,PHI,3,2,11,0,0,3,1.5,8,4,-0.3,0,NA,0,0,0,72.9,201909080phi
+Miles Sanders,SandMi01,receiving,PHI,2,1,2,0,0,1,1,1,1,-2.5,0,NA,0,0,0,56.2,201909080phi

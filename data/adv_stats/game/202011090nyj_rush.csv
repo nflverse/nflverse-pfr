@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Harris,HarrDa06,rushing,NWE,14,71,4,42,3,29,2.1,5,2.8,202011090nyj
+Rex Burkhead,BurkRe00,rushing,NWE,12,56,4,39,3.3,17,1.4,0,NA,202011090nyj
+Cam Newton,NewtCa00,rushing,NWE,10,16,5,8,0.8,8,0.8,1,10,202011090nyj
+Gunner Olszewski,OlszGu00,rushing,NWE,3,16,1,16,5.3,0,0,0,NA,202011090nyj
+James White,WhitJa02,rushing,NWE,2,0,0,0,0,0,0,0,NA,202011090nyj
+Frank Gore,GoreFr00,rushing,NYJ,12,46,3,23,1.9,23,1.9,2,6,202011090nyj
+La'Mical Perine,PeriLa00,rushing,NYJ,6,19,1,7,1.2,12,2,1,6,202011090nyj

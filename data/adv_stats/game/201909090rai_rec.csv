@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Courtland Sutton,SuttCo00,receiving,DEN,8,7,120,0,5,77,11,43,6.1,11.9,1,7,0,0,0,118.7,201909090rai
+Emmanuel Sanders,SandEm00,receiving,DEN,7,5,86,1,3,54,10.8,32,6.4,12.4,0,NA,0,0,0,152.4,201909090rai
+Phillip Lindsay,LindPh00,receiving,DEN,6,4,23,0,1,5,1.3,18,4.5,0.8,0,NA,0,0,0,73.6,201909090rai
+Noah Fant,FantNo00,receiving,DEN,4,2,29,0,1,20,10,9,4.5,6.5,0,NA,0,0,0,74,201909090rai
+DaeSean Hamilton,HamiDa01,receiving,DEN,4,2,5,0,1,3,1.5,2,1,6.8,0,NA,1,25,0,56.2,201909090rai
+Royce Freeman,FreeRo00,receiving,DEN,1,1,5,0,0,5,5,0,0,5,0,NA,0,0,0,87.5,201909090rai
+Darren Waller,WallDa01,receiving,OAK,8,7,70,0,3,39,5.6,31,4.4,6.9,0,NA,0,0,0,103.1,201909090rai
+Tyrell Williams,WillTy00,receiving,OAK,7,6,105,1,5,80,13.3,25,4.2,17.9,0,NA,0,0,0,158.3,201909090rai
+Ryan Grant,GranRy01,receiving,OAK,4,3,16,0,1,13,4.3,3,1,3,0,NA,0,0,0,81.2,201909090rai
+Foster Moreau,MoreFo00,receiving,OAK,2,2,20,0,NA,7,3.5,13,6.5,3.5,1,2,0,0,0,108.3,201909090rai
+Hunter Renfrow,RenfHu00,receiving,OAK,3,2,13,0,1,8,4,5,2.5,3.7,0,NA,0,0,0,75.7,201909090rai
+Dwayne Harris,HarrDw00,receiving,OAK,1,1,7,0,NA,0,0,7,7,0,0,NA,0,0,0,95.8,201909090rai
+Josh Jacobs,JacoJo01,receiving,OAK,1,1,28,0,1,4,4,24,24,4,2,0.5,0,0,0,118.7,201909090rai

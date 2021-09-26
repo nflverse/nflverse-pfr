@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Ben Roethlisberger,RoetBe00,passing,PIT,21,32,229,14,41.2,221,6.9,124,5.9,3.9,105,5,3,9.7%,4,12.9%,2,7,4,3,9,25.7%,1,11,202009140nyg
+Daniel Jones,JoneDa05,passing,NYG,26,41,279,16,36.4,232,5.7,163,6.3,4,116,4.5,4,10.3%,5,12.8%,3,26,9,5,17,36.2%,3,7.7,202009140nyg

@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Daniel Jones,JoneDa05,passing,NYG,21,36,150,9,24.3,246,6.8,73,3.5,2,77,3.7,1,2.9%,8,23.5%,1,7,7,7,15,38.5%,2,13.5,201911240chi
+Mitchell Trubisky,TrubMi00,passing,CHI,25,41,278,14,32.6,365,8.9,149,6,3.6,129,5.2,2,4.9%,10,24.4%,2,6,4,4,10,21.7%,3,6.3,201911240chi

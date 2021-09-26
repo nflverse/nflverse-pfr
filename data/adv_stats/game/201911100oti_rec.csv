@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyreek Hill,HillTy00,receiving,KAN,19,11,157,1,8,88,8,69,6.3,12.5,1,11,2,10.5,0,102.3,201911100oti
+Travis Kelce,KelcTr00,receiving,KAN,7,7,75,1,4,41,5.9,34,4.9,5.9,0,NA,0,0,0,150.9,201911100oti
+Sammy Watkins,WatkSa00,receiving,KAN,9,5,39,0,2,19,3.8,20,4,8.6,0,NA,1,11.1,0,66.4,201911100oti
+Damien Williams,WillDa05,receiving,KAN,5,5,32,0,2,1,0.2,31,6.2,0.2,1,5,0,0,0,93.3,201911100oti
+Demarcus Robinson,RobiDe01,receiving,KAN,5,4,56,0,3,34,8.5,22,5.5,9,0,NA,0,0,0,113.3,201911100oti
+Mecole Hardman,HardMe00,receiving,KAN,1,1,63,1,1,15,15,48,48,15,0,NA,0,0,0,158.3,201911100oti
+Darwin Thompson,ThomDa06,receiving,KAN,1,1,8,0,NA,0,0,8,8,0,0,NA,0,0,0,100,201911100oti
+Darrel Williams,WillDa10,receiving,KAN,1,1,9,0,0,-1,-1,10,10,-1,0,NA,0,0,0,104.2,201911100oti
+Deon Yelder,YeldDe00,receiving,KAN,1,1,7,0,NA,1,1,6,6,1,0,NA,0,0,0,95.8,201911100oti
+Jonnu Smith,SmitJo01,receiving,TEN,6,4,30,0,1,6,1.5,24,6,6.8,1,4,0,0,0,78.5,201911100oti
+Anthony Firkser,FirkAn00,receiving,TEN,4,3,36,1,2,29,9.7,7,2.3,7.8,0,NA,0,0,0,141.7,201911100oti
+Derrick Henry,HenrDe00,receiving,TEN,2,2,3,0,0,3,1.5,0,0,1.5,0,NA,0,0,0,79.2,201911100oti
+A.J. Brown,BrowAJ00,receiving,TEN,4,1,17,0,1,5,5,12,12,22.3,0,NA,0,0,0,44.8,201911100oti
+Adam Humphries,HumpAd00,receiving,TEN,1,1,23,1,1,17,17,6,6,17,0,NA,0,0,0,158.3,201911100oti
+Kalif Raymond,RaymKa00,receiving,TEN,1,1,52,0,1,50,50,2,2,50,0,NA,0,0,0,118.7,201911100oti
+Tajae Sharpe,SharTa00,receiving,TEN,1,1,20,0,1,20,20,0,0,20,0,NA,0,0,0,118.7,201911100oti

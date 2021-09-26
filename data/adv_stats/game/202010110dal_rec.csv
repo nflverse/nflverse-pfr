@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Darius Slayton,SlayDa01,receiving,NYG,11,8,129,0,7,89,11.1,40,5,13.2,0,NA,1,9.1,0,111.6,202010110dal
+Golden Tate,TateGo00,receiving,NYG,5,4,42,0,2,28,7,14,3.5,7.6,0,NA,0,0,0,101.7,202010110dal
+Devonta Freeman,FreeDe00,receiving,NYG,3,2,27,0,1,-6,-3,33,16.5,-2.7,0,NA,1,33.3,0,95.1,202010110dal
+Wayne Gallman,GallWa00,receiving,NYG,2,2,0,0,0,-8,-4,8,4,-4,0,NA,0,0,0,79.2,202010110dal
+Dion Lewis,LewiDi00,receiving,NYG,4,2,1,0,NA,-3,-1.5,4,2,1.5,0,NA,0,0,0,56.2,202010110dal
+Kaden Smith,SmitKa00,receiving,NYG,1,1,7,0,NA,5,5,2,2,5,0,NA,0,0,0,95.8,202010110dal
+Evan Engram,EngrEv00,receiving,NYG,2,1,16,0,1,6,6,10,10,5,0,NA,0,0,0,77.1,202010110dal
+Damion Ratley,RatlDa00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202010110dal
+CeeDee Lamb,LambCe00,receiving,DAL,11,8,124,0,6,107,13.4,17,2.1,12.2,0,NA,1,9.1,0,109.7,202010110dal
+Cedrick Wilson Jr.,WilsCe01,receiving,DAL,4,4,22,0,2,-5,-1.3,27,6.8,-1.3,0,NA,0,0,0,89.6,202010110dal
+Michael Gallup,GallMi00,receiving,DAL,4,4,73,0,3,69,17.3,4,1,17.3,1,4,0,0,0,118.7,202010110dal
+Tony Pollard,PollTo00,receiving,DAL,3,2,2,0,0,-11,-5.5,13,6.5,-4.3,0,NA,1,33.3,0,70.1,202010110dal
+Amari Cooper,CoopAm00,receiving,DAL,4,2,23,0,1,9,4.5,14,7,5.5,2,1,0,0,0,67.7,202010110dal
+Dak Prescott,PresDa01,receiving,DAL,1,1,11,1,1,10,10,1,1,10,0,NA,0,0,0,152.1,202010110dal
+Dalton Schultz,SchuDa00,receiving,DAL,3,1,6,0,NA,2,2,4,4,3.3,0,NA,0,0,0,42.4,202010110dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,2,1,14,0,1,0,0,14,14,3,0,NA,0,0,1,33.3,202010110dal
+Blake Bell,BellBl00,receiving,DAL,1,1,13,0,1,4,4,9,9,4,0,NA,0,0,0,118.7,202010110dal

@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Eric Murray,MurrEr00,defense,HOU,0,11,11,100.0%,116,10.5,10.5,2,150.2,2.1,23,93,2,1,0,2,3,11,0,0.0%,202012130chi
+Keion Crossen,CrosKe00,defense,HOU,0,8,7,87.5%,91,13,11.4,1,153.6,6.5,38,53,0,0,0,0,0,9,0,0.0%,202012130chi
+Justin Reid,ReidJu00,defense,HOU,0,6,3,50.0%,58,19.3,9.7,0,84,6.7,22,36,2,0,0,0,0,4,4,50.0%,202012130chi
+Tyrell Adams,AdamTy00,defense,HOU,0,2,2,100.0%,14,7,7,1,135.4,1,2,12,4,0,0,1,1,7,2,22.2%,202012130chi
+J.J. Watt,WattJ.00,defense,HOU,0,2,2,100.0%,31,15.5,15.5,0,118.7,-4,-8,39,0,0,1,0,1,2,0,0.0%,202012130chi
+Vernon Hargreaves III,HargVe00,defense,HOU,0,4,2,50.0%,10,5,2.5,1,95.8,6.3,10,0,0,0,0,0,0,2,0,0.0%,202012130chi
+Lonnie Johnson Jr.,JohnLo01,defense,HOU,0,5,2,40.0%,16,8,3.2,0,48.7,9,11,5,2,0,0,0,0,6,0,0.0%,202012130chi
+Zach Cunningham,CunnZa00,defense,HOU,0,2,1,50.0%,12,12,6,0,68.7,9.5,-1,13,0,0,0,0,0,8,0,0.0%,202012130chi
+Jonathan Greenard,GreeJo04,defense,HOU,0,1,1,100.0%,11,11,11,0,112.5,2,2,9,0,0,0,0,0,0,1,100.0%,202012130chi
+Jacob Martin,MartJa02,defense,HOU,0,1,1,100.0%,16,16,16,0,118.7,7,7,9,0,0,0,0,0,2,1,33.3%,202012130chi
+Whitney Mercilus,MercWh00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,0,0,NA,202012130chi
+Charles Omenihu,OmenCh00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202012130chi
+A.J. Moore,MoorA.00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,1,0,0,0,0,0,0,NA,202012130chi
+Jonathan Owens,OwenJo01,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202012130chi
+Danny Trevathan,TrevDa00,defense,CHI,0,6,5,83.3%,37,7.4,6.2,0,92.4,6.8,28,9,1,0,0,0,0,10,0,0.0%,202012130chi
+Duke Shelley,ShelDu00,defense,CHI,0,5,4,80.0%,35,8.8,7,0,95.8,3.6,11,24,2,0,0,0,0,3,0,0.0%,202012130chi
+Eddie Jackson,JackEd01,defense,CHI,0,6,4,66.7%,29,7.3,4.8,1,117.4,6.8,27,2,1,0,0,0,0,5,0,0.0%,202012130chi
+Tashaun Gipson,GipsTa00,defense,CHI,0,3,3,100.0%,30,10,10,0,108.3,9.7,29,1,0,0,0,0,0,6,0,0.0%,202012130chi
+Roquan Smith,SmitRo07,defense,CHI,0,2,2,100.0%,15,7.5,7.5,0,97.9,2,4,11,5,0,1,2,3,12,0,0.0%,202012130chi
+Jaylon Johnson,JohnJa13,defense,CHI,0,3,2,66.7%,53,26.5,17.7,0,109.7,9.7,1,52,0,0,0,0,0,3,2,40.0%,202012130chi
+Kyle Fuller,FullKy00,defense,CHI,0,2,2,100.0%,21,10.5,10.5,0,110.4,3,6,15,0,0,0,0,0,5,0,0.0%,202012130chi
+DeAndre Houston-Carson,HousDe00,defense,CHI,0,1,1,100.0%,10,10,10,0,108.3,3,3,7,0,0,0,0,0,1,0,0.0%,202012130chi
+Kindle Vildor,VildKi00,defense,CHI,0,1,1,100.0%,15,15,15,0,118.7,15,15,0,0,0,0,0,0,2,0,0.0%,202012130chi
+Akiem Hicks,HickAk00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,4,0,0.0%,202012130chi
+Khalil Mack,MackKh00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,2,0,0.0%,202012130chi
+Brent Urban,UrbaBr00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202012130chi
+Mario Edwards,EdwaMa01,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,2,0,0.0%,202012130chi
+Robert Quinn,QuinRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,0,0,NA,202012130chi
+Trevis Gipson,GipsTr00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202012130chi
+Bilal Nichols,NichBi00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202012130chi
+Barkevious Mingo,MingBa00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202012130chi
+Josh Woods,WoodJo02,defense,CHI,0,1,0,0.0%,NA,NA,0,NA,39.6,23,NA,NA,0,0,0,0,0,2,0,0.0%,202012130chi

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Adams,AdamJo03,rushing,PHI,7,36,1,-8,-1.1,44,6.3,1,7,201812090dal
+Carson Wentz,WentCa00,rushing,PHI,4,-3,0,-12,-3,9,2.3,0,NA,201812090dal
+Corey Clement,ClemCo00,rushing,PHI,1,-4,NA,-4,-4,0,0,0,NA,201812090dal
+Wendell Smallwood,SmalWe00,rushing,PHI,1,3,NA,3,3,0,0,0,NA,201812090dal
+Darren Sproles,SproDa00,rushing,PHI,1,2,0,0,0,2,2,0,NA,201812090dal
+Ezekiel Elliott,ElliEz00,rushing,DAL,28,113,5,40,1.4,73,2.6,3,9.3,201812090dal
+Dak Prescott,PresDa01,rushing,DAL,4,2,0,-1,-0.3,3,0.8,0,NA,201812090dal
+Rod Smith,SmitRo06,rushing,DAL,4,27,1,18,4.5,9,2.3,0,NA,201812090dal

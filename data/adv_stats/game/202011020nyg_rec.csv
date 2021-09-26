@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Mike Evans,EvanMi00,receiving,TAM,7,5,55,1,4,44,8.8,11,2.2,13.4,0,NA,0,0,0,133.9,202011020nyg
+Jaydon Mickens,MickJa01,receiving,TAM,8,5,36,0,5,21,4.2,15,3,8.4,0,NA,0,0,0,72.9,202011020nyg
+Rob Gronkowski,GronRo00,receiving,TAM,4,4,41,1,3,27,6.8,14,3.5,6.8,0,NA,0,0,0,149,202011020nyg
+Ronald Jones II,JoneRo01,receiving,TAM,4,4,23,0,0,1,0.3,22,5.5,0.3,0,NA,0,0,0,90.6,202011020nyg
+Leonard Fournette,FourLe00,receiving,TAM,6,3,19,0,0,1,0.3,18,6,0.5,0,NA,0,0,0,56.9,202011020nyg
+Scott Miller,MillSc01,receiving,TAM,6,3,35,0,2,35,11.7,0,0,16.3,0,NA,0,0,0,68.1,202011020nyg
+Tyler Johnson,JohnTy00,receiving,TAM,2,2,35,0,2,35,17.5,0,0,17.5,0,NA,0,0,0,118.7,202011020nyg
+Cameron Brate,BratCa00,receiving,TAM,2,2,35,0,2,21,10.5,14,7,10.5,0,NA,0,0,0,118.7,202011020nyg
+Tanner Hudson,HudsTa00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,0,39.6,202011020nyg
+Sterling Shepard,ShepSt00,receiving,NYG,10,8,74,0,4,43,5.4,31,3.9,8.7,0,NA,0,0,1,57.9,202011020nyg
+Evan Engram,EngrEv00,receiving,NYG,10,5,61,0,3,41,8.2,20,4,6.8,0,NA,0,0,0,69.2,202011020nyg
+Darius Slayton,SlayDa01,receiving,NYG,9,5,56,0,5,25,5,31,6.2,13.6,0,NA,0,0,0,74.3,202011020nyg
+Dion Lewis,LewiDi00,receiving,NYG,3,2,8,1,1,3,1.5,5,2.5,1.3,0,NA,0,0,0,109.7,202011020nyg
+Golden Tate,TateGo00,receiving,NYG,3,2,31,1,2,25,12.5,6,3,8.3,0,NA,0,0,1,100.7,202011020nyg
+Elijhaa Penny,PennEl00,receiving,NYG,1,1,11,0,1,2,2,9,9,2,0,NA,0,0,0,112.5,202011020nyg
+Kaden Smith,SmitKa00,receiving,NYG,2,1,6,0,NA,-5,-5,11,11,-0.5,0,NA,0,0,0,56.2,202011020nyg
+Wayne Gallman,GallWa00,receiving,NYG,1,1,18,0,1,-5,-5,23,23,-5,0,NA,0,0,0,118.7,202011020nyg
+Levine Toilolo,ToilLe00,receiving,NYG,2,1,9,0,NA,5,5,4,4,5.5,0,NA,0,0,0,62.5,202011020nyg

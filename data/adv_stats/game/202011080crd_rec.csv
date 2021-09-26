@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeVante Parker,ParkDe01,receiving,MIA,7,6,64,0,3,53,8.8,11,1.8,10.6,1,6,0,0,0,104.8,202011080crd
+Preston Williams,WillPr01,receiving,MIA,5,4,60,1,3,50,12.5,10,2.5,15.8,0,NA,0,0,0,156.2,202011080crd
+Jakeem Grant,GranJa00,receiving,MIA,5,4,35,0,1,25,6.3,10,2.5,4,0,NA,0,0,0,95.8,202011080crd
+Mike Gesicki,GesiMi00,receiving,MIA,4,3,42,0,2,37,12.3,5,1.7,9.8,0,NA,0,0,0,108.3,202011080crd
+Durham Smythe,SmytDu00,receiving,MIA,1,1,19,0,1,5,5,14,14,5,0,NA,0,0,0,118.7,202011080crd
+Mack Hollins,HollMa00,receiving,MIA,1,1,11,1,1,11,11,0,0,11,0,NA,0,0,0,152.1,202011080crd
+Patrick Laird,LairPa00,receiving,MIA,1,1,17,0,1,-1,-1,18,18,-1,0,NA,0,0,0,118.7,202011080crd
+Adam Shaheen,ShahAd00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,202011080crd
+Malcolm Perry,PerrMa00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202011080crd
+Christian Kirk,KirkCh01,receiving,ARI,8,5,123,1,5,108,21.6,15,3,13,0,NA,0,0,0,145.8,202011080crd
+Larry Fitzgerald,FitzLa00,receiving,ARI,5,4,54,0,4,46,11.5,8,2,11,0,NA,0,0,0,111.7,202011080crd
+Chase Edmonds,EdmoCh00,receiving,ARI,3,3,18,0,1,0,0,18,6,0,1,3,0,0,0,91.7,202011080crd
+DeAndre Hopkins,HopkDe00,receiving,ARI,3,3,30,0,3,25,8.3,5,1.7,8.3,0,NA,0,0,0,108.3,202011080crd
+Andy Isabella,IsabAn00,receiving,ARI,3,2,10,0,NA,12,6,-2,-1,8.7,0,NA,0,0,0,71.5,202011080crd
+Dan Arnold,ArnoDa00,receiving,ARI,1,1,16,0,1,15,15,1,1,15,0,NA,0,0,0,118.7,202011080crd
+D.J. Foster,FostD.01,receiving,ARI,1,1,7,0,1,4,4,3,3,4,0,NA,0,0,0,95.8,202011080crd
+Maxx Williams,WillMa04,receiving,ARI,1,1,4,1,1,0,0,4,4,0,0,NA,0,0,0,122.9,202011080crd
+Darrell Daniels,DaniDa02,receiving,ARI,1,1,21,1,1,21,21,0,0,21,0,NA,0,0,0,158.3,202011080crd

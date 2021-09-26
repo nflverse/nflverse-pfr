@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Amari Cooper,CoopAm00,receiving,DAL,16,13,139,2,8,110,8.5,29,2.2,7.9,0,NA,0,0,0,142.4,202109090tam
+CeeDee Lamb,LambCe00,receiving,DAL,15,7,104,1,5,41,5.9,63,9,9.6,0,NA,2,13.3,1,64.3,202109090tam
+Dalton Schultz,SchuDa00,receiving,DAL,6,6,45,0,3,14,2.3,31,5.2,2.3,2,3,0,0,0,97.9,202109090tam
+Michael Gallup,GallMi00,receiving,DAL,7,4,36,0,3,10,2.5,26,6.5,6,1,4,0,0,0,71.1,202109090tam
+Tony Pollard,PollTo00,receiving,DAL,4,4,29,0,1,-9,-2.3,38,9.5,-2.3,0,NA,0,0,0,96.9,202109090tam
+Blake Jarwin,JarwBl00,receiving,DAL,4,3,20,0,NA,15,5,5,1.7,3.8,0,NA,0,0,0,85.4,202109090tam
+Cedrick Wilson Jr.,WilsCe01,receiving,DAL,3,3,24,0,1,24,8,0,0,8,0,NA,0,0,0,100,202109090tam
+Ezekiel Elliott,ElliEz00,receiving,DAL,2,2,6,0,0,0,0,6,3,0,0,NA,0,0,0,79.2,202109090tam
+Chris Godwin,GodwCh00,receiving,TAM,14,9,105,1,7,47,5.2,58,6.4,7.9,2,4.5,2,14.3,0,110.7,202109090tam
+Rob Gronkowski,GronRo00,receiving,TAM,8,8,90,2,5,53,6.6,37,4.6,6.6,0,NA,0,0,0,153.1,202109090tam
+Antonio Brown,BrowAn04,receiving,TAM,7,5,121,1,4,94,18.8,27,5.4,20.6,0,NA,0,0,0,153.3,202109090tam
+Leonard Fournette,FourLe00,receiving,TAM,7,5,27,0,3,-8,-1.6,35,7,-0.6,0,NA,1,14.3,1,38.1,202109090tam
+Mike Evans,EvanMi00,receiving,TAM,6,3,24,0,2,18,6,6,2,7.7,0,NA,0,0,0,60.4,202109090tam
+Giovani Bernard,BernGi00,receiving,TAM,3,2,12,0,1,-1,-0.5,13,6.5,6.3,0,NA,0,0,0,74.3,202109090tam
+Tyler Johnson,JohnTy00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,202109090tam

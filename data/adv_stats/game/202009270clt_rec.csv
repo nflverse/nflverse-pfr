@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Kalen Ballage,BallKa00,receiving,NYJ,5,5,44,0,1,-20,-4,64,12.8,-4,1,5,0,0,0,103.3,202009270clt
+Braxton Berrios,BerrBr00,receiving,NYJ,4,4,64,1,3,43,10.8,21,5.3,10.8,0,NA,0,0,0,158.3,202009270clt
+Chris Herndon,HernCh00,receiving,NYJ,5,3,21,0,1,0,0,21,7,4.8,0,NA,0,0,0,69.6,202009270clt
+Lawrence Cager,CageLa01,receiving,NYJ,4,2,35,0,2,21,10.5,14,7,9,0,NA,0,0,2,40.6,202009270clt
+La'Mical Perine,PeriLa00,receiving,NYJ,2,2,-1,0,NA,-1,-0.5,0,0,-0.5,0,NA,0,0,0,79.2,202009270clt
+Frank Gore,GoreFr00,receiving,NYJ,1,1,5,0,0,3,3,2,2,3,0,NA,0,0,0,87.5,202009270clt
+Ryan Griffin,GrifRy00,receiving,NYJ,2,0,0,0,NA,0,NA,0,NA,12,0,NA,1,50,0,39.6,202009270clt
+Chris Hogan,HogaCh00,receiving,NYJ,3,0,0,0,NA,0,NA,0,NA,20.7,0,NA,0,0,1,0,202009270clt
+Nyheim Hines,HineNy00,receiving,IND,5,4,40,0,3,1,0.3,39,9.8,-1,1,4,0,0,0,100,202009270clt
+T.Y. Hilton,HiltT.00,receiving,IND,3,3,52,0,3,37,12.3,15,5,12.3,0,NA,0,0,0,118.7,202009270clt
+Michael Pittman Jr.,PittMi01,receiving,IND,4,3,26,0,2,1,0.3,25,8.3,1.5,0,NA,0,0,0,91.7,202009270clt
+Mo Alie-Cox,AlieMo00,receiving,IND,3,3,50,1,2,21,7,29,9.7,7,0,NA,0,0,0,158.3,202009270clt
+Zach Pascal,PascZa00,receiving,IND,4,2,34,0,2,33,16.5,1,0.5,14.5,0,NA,0,0,0,79.2,202009270clt
+Daurice Fountain,FounDa00,receiving,IND,2,2,23,0,2,23,11.5,0,0,11.5,0,NA,0,0,0,114.6,202009270clt
+Jonathan Taylor,TaylJo02,receiving,IND,1,1,3,0,0,0,0,3,3,0,0,NA,0,0,0,79.2,202009270clt
+Jordan Wilkins,WilkJo01,receiving,IND,1,1,6,0,0,-1,-1,7,7,-1,0,NA,0,0,0,91.7,202009270clt
+Ashton Dulin,DuliAs00,receiving,IND,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,202009270clt
+Noah Togiai,TogiNo00,receiving,IND,1,0,0,0,NA,0,NA,0,NA,3,0,NA,1,100,0,39.6,202009270clt

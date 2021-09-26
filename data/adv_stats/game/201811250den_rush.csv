@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,PIT,13,53,3,38,2.9,15,1.2,2,6.5,201811250den
+Ben Roethlisberger,RoetBe00,rushing,PIT,2,18,1,18,9,0,0,0,NA,201811250den
+Ryan Switzer,SwitRy00,rushing,PIT,1,4,0,2,2,2,2,0,NA,201811250den
+Phillip Lindsay,LindPh00,rushing,DEN,14,110,4,99,7.1,11,0.8,0,NA,201811250den
+Royce Freeman,FreeRo00,rushing,DEN,6,17,1,11,1.8,6,1,0,NA,201811250den
+Case Keenum,KeenCa00,rushing,DEN,3,-3,0,-3,-1,0,0,0,NA,201811250den

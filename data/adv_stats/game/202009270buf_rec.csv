@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cooper Kupp,KuppCo00,receiving,LAR,10,9,107,1,6,64,7.1,43,4.8,7.2,1,9,0,0,0,144.6,202009270buf
+Robert Woods,WoodRo02,receiving,LAR,6,5,74,1,3,10,2,64,12.8,1.7,0,NA,0,0,0,157.6,202009270buf
+Josh Reynolds,ReynJo00,receiving,LAR,5,4,60,0,3,49,12.3,11,2.8,13.4,0,NA,0,0,0,116.7,202009270buf
+Gerald Everett,EverGe00,receiving,LAR,2,2,34,0,2,21,10.5,13,6.5,10.5,0,NA,0,0,0,118.7,202009270buf
+Tyler Higbee,HigbTy00,receiving,LAR,2,2,40,0,1,21,10.5,19,9.5,10.5,0,NA,0,0,0,118.7,202009270buf
+Darrell Henderson,HendDa00,receiving,LAR,3,1,6,0,0,2,2,4,4,-1.7,0,NA,0,0,0,42.4,202009270buf
+Malcolm Brown,BrowMa03,receiving,LAR,2,0,0,0,0,0,NA,0,NA,-2.5,0,NA,0,0,0,39.6,202009270buf
+Van Jefferson,JeffVa00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,1,0,202009270buf
+Cole Beasley,BeasCo00,receiving,BUF,7,6,100,0,4,63,10.5,37,6.2,10.6,0,NA,0,0,0,118.7,202009270buf
+Gabriel Davis,DaviGa01,receiving,BUF,4,4,81,0,3,61,15.3,20,5,15.3,0,NA,0,0,0,118.7,202009270buf
+Stefon Diggs,DiggSt00,receiving,BUF,6,4,49,1,2,38,9.5,11,2.8,7,0,NA,1,16.7,0,131.2,202009270buf
+Tyler Kroft,KrofTy00,receiving,BUF,5,4,24,2,3,12,3,12,3,10,0,NA,0,0,1,86.7,202009270buf
+Devin Singletary,SingDe00,receiving,BUF,5,4,50,0,1,0,0,50,12.5,4.6,1,4,0,0,0,108.3,202009270buf
+Isaiah McKenzie,McKeIs00,receiving,BUF,2,1,6,0,NA,-4,-4,10,10,-2,0,NA,0,0,0,56.2,202009270buf
+Lee Smith,SmitLe00,receiving,BUF,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202009270buf
+John Brown,BrowJo02,receiving,BUF,2,0,0,0,NA,0,NA,0,NA,32.5,0,NA,0,0,0,39.6,202009270buf

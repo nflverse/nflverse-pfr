@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jarvis Landry,LandJa00,receiving,CLE,6,5,61,0,4,57,11.4,4,0.8,12.7,0,NA,0,0,0,109,202009130rav
+Kareem Hunt,HuntKa00,receiving,CLE,6,4,9,0,0,-2,-0.5,11,2.8,0.2,1,4,0,0,0,70.1,202009130rav
+Odell Beckham Jr.,BeckOd00,receiving,CLE,10,3,22,0,1,14,4.7,8,2.7,11.8,1,3,1,10,0,39.6,202009130rav
+David Njoku,NjokDa00,receiving,CLE,3,3,50,1,3,43,14.3,7,2.3,14.3,0,NA,0,0,0,158.3,202009130rav
+Austin Hooper,HoopAu00,receiving,CLE,2,2,15,0,NA,15,7.5,0,0,7.5,0,NA,0,0,0,97.9,202009130rav
+Harrison Bryant,BryaHa00,receiving,CLE,2,1,5,0,NA,5,5,0,0,4.5,0,NA,0,0,0,56.2,202009130rav
+Nick Chubb,ChubNi00,receiving,CLE,1,1,6,0,1,6,6,0,0,6,0,NA,0,0,0,91.7,202009130rav
+Rashard Higgins,HiggRa00,receiving,CLE,1,1,9,0,NA,7,7,2,2,7,0,NA,0,0,0,104.2,202009130rav
+KhaDarel Hodge,HodgKh00,receiving,CLE,3,1,12,0,1,10,10,2,2,11,0,NA,0,0,1,6.9,202009130rav
+Stephen Carlson,CarlSt00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202009130rav
+Mark Andrews,AndrMa00,receiving,BAL,6,5,58,2,5,54,10.8,4,0.8,10.5,0,NA,0,0,0,146.5,202009130rav
+Marquise Brown,BrowMa04,receiving,BAL,6,5,101,0,4,89,17.8,12,2.4,19,0,NA,0,0,0,118.7,202009130rav
+Willie Snead,SneaWi00,receiving,BAL,4,4,64,1,4,44,11,20,5,11,0,NA,0,0,0,158.3,202009130rav
+Miles Boykin,BoykMi00,receiving,BAL,4,3,37,0,1,16,5.3,21,7,6.3,0,NA,0,0,0,103.1,202009130rav
+Nick Boyle,BoylNi00,receiving,BAL,3,2,3,0,NA,3,1.5,0,0,2.7,0,NA,0,0,0,70.1,202009130rav
+Devin Duvernay,DuveDe00,receiving,BAL,1,1,12,0,1,-1,-1,13,13,-1,0,NA,0,0,0,116.7,202009130rav
+Patrick Ricard,RicaPa00,receiving,BAL,1,1,9,0,1,2,2,7,7,2,0,NA,0,0,0,104.2,202009130rav

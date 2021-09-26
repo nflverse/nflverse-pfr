@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Thomas,ThomMi05,receiving,NOR,17,12,136,1,10,89,7.4,47,3.9,10,0,NA,0,0,0,113.8,201912220oti
+Alvin Kamara,KamaAl00,receiving,NOR,7,6,30,0,2,-6,-1,36,6,-1.9,0,NA,1,14.3,0,84.5,201912220oti
+Jared Cook,CookJa02,receiving,NOR,4,3,84,2,2,36,12,48,16,12,1,3,0,0,0,156.2,201912220oti
+Latavius Murray,MurrLa00,receiving,NOR,3,2,11,0,0,5,2.5,6,3,2.3,0,NA,0,0,0,72.9,201912220oti
+Taysom Hill,HillTa00,receiving,NOR,2,2,21,0,1,19,9.5,2,1,9.5,0,NA,0,0,0,110.4,201912220oti
+Krishawn Hogan,HogaKr00,receiving,NOR,1,1,4,0,NA,2,2,2,2,2,0,NA,0,0,0,83.3,201912220oti
+Tre'Quan Smith,SmitTr03,receiving,NOR,2,1,13,0,1,6,6,7,7,6,0,NA,0,0,0,70.8,201912220oti
+Deonte Harris,HarrDe07,receiving,NOR,1,1,0,0,NA,-3,-3,3,3,-3,0,NA,0,0,0,79.2,201912220oti
+Justin Hardee,HardJu01,receiving,NOR,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,201912220oti
+Ted Ginn Jr.,GinnTe00,receiving,NOR,1,0,0,0,NA,0,NA,0,NA,27,0,NA,0,0,0,39.6,201912220oti
+Tajae Sharpe,SharTa00,receiving,TEN,6,5,69,2,4,34,6.8,35,7,12.5,0,NA,0,0,0,154.2,201912220oti
+Jonnu Smith,SmitJo01,receiving,TEN,4,3,63,1,2,12,4,51,17,4,0,NA,1,25,0,156.2,201912220oti
+Corey Davis,DaviCo03,receiving,TEN,4,3,40,0,3,35,11.7,5,1.7,13,1,3,1,25,0,106.2,201912220oti
+MyCole Pruitt,PruiMy00,receiving,TEN,2,2,15,0,NA,4,2,11,5.5,2,0,NA,0,0,0,97.9,201912220oti
+Kalif Raymond,RaymKa00,receiving,TEN,2,2,32,0,NA,28,14,4,2,14,0,NA,0,0,0,118.7,201912220oti
+Dion Lewis,LewiDi00,receiving,TEN,2,1,19,0,1,-2,-2,21,21,-1,0,NA,0,0,0,83.3,201912220oti
+A.J. Brown,BrowAJ00,receiving,TEN,2,1,34,0,1,29,29,5,5,25,0,NA,0,0,0,95.8,201912220oti
+Khari Blasingame,BlasKh00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,-1,0,NA,1,100,0,39.6,201912220oti
+Anthony Firkser,FirkAn00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,201912220oti
+Dalyn Dawkins,DawkDa01,receiving,TEN,1,0,0,0,0,0,NA,0,NA,2,0,NA,1,100,0,39.6,201912220oti

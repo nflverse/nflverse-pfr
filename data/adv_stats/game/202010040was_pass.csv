@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Lamar Jackson,JackLa00,passing,BAL,14,21,193,9,40.9,320,15.2,148,10.6,7,45,3.2,1,4.8%,4,19.0%,1,8,2,1,4,16.0%,3,4,202010040was
+Robert Griffin III,GrifRo01,passing,BAL,0,1,0,NA,NA,37,37,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,1,1,100.0%,0,NA,202010040was
+Sam Koch,KochSa20,passing,BAL,1,1,15,1,100,9,9,9,9,9,6,6,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202010040was
+Dwayne Haskins,HaskDw00,passing,WAS,32,45,314,17,35.4,200,4.4,108,3.4,2.4,206,6.4,0,0.0%,8,18.2%,3,16,4,6,13,27.1%,0,NA,202010040was

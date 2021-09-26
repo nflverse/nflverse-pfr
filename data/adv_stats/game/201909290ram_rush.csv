@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ronald Jones II,JoneRo01,rushing,TAM,19,70,2,16,0.8,54,2.8,4,4.8,201909290ram
+Peyton Barber,BarbPe01,rushing,TAM,9,19,1,5,0.6,14,1.6,0,NA,201909290ram
+Dare Ogunbowale,OgunDa00,rushing,TAM,1,0,NA,-1,-1,1,1,0,NA,201909290ram
+Jameis Winston,WinsJa00,rushing,TAM,1,-1,0,-1,-1,0,0,0,NA,201909290ram
+Malcolm Brown,BrowMa03,rushing,LAR,5,14,1,3,0.6,11,2.2,0,NA,201909290ram
+Todd Gurley,GurlTo01,rushing,LAR,5,16,2,4,0.8,12,2.4,1,5,201909290ram
+Cooper Kupp,KuppCo00,rushing,LAR,1,-2,0,-2,-2,0,0,0,NA,201909290ram

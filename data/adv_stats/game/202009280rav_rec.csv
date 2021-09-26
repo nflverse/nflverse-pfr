@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Sammy Watkins,WatkSa00,receiving,KAN,8,7,62,0,5,52,7.4,10,1.4,7,0,NA,0,0,0,99,202009280rav
+Travis Kelce,KelcTr00,receiving,KAN,7,6,87,0,5,38,6.3,49,8.2,6.3,2,3,0,0,0,118.5,202009280rav
+Tyreek Hill,HillTy00,receiving,KAN,6,5,77,1,4,52,10.4,25,5,15,0,NA,0,0,0,158.3,202009280rav
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,6,5,70,0,3,8,1.6,62,12.4,1.7,0,NA,0,0,0,115.3,202009280rav
+Mecole Hardman,HardMe00,receiving,KAN,6,4,81,1,2,65,16.3,16,4,20.3,0,NA,1,16.7,0,149.3,202009280rav
+Darrel Williams,WillDa10,receiving,KAN,2,2,1,0,1,-7,-3.5,8,4,-3.5,0,NA,0,0,0,79.2,202009280rav
+Eric Fisher,FishEr00,receiving,KAN,1,1,2,1,1,1,1,1,1,1,0,NA,0,0,0,118.7,202009280rav
+Anthony Sherman,SherAn00,receiving,KAN,1,1,5,1,1,-2,-2,7,7,-2,0,NA,0,0,0,127.1,202009280rav
+Nick Keizer,KeizNi00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,0,39.6,202009280rav
+Demarcus Robinson,RobiDe01,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,20,0,NA,0,0,0,39.6,202009280rav
+Darwin Thompson,ThomDa06,receiving,KAN,2,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202009280rav
+J.K. Dobbins,DobbJK00,receiving,BAL,4,4,38,0,1,20,5,18,4.5,5,0,NA,0,0,0,106.2,202009280rav
+Mark Andrews,AndrMa00,receiving,BAL,8,3,22,0,1,23,7.7,-1,-0.3,13.4,0,NA,3,37.5,0,45.8,202009280rav
+Devin Duvernay,DuveDe00,receiving,BAL,3,2,7,0,NA,-6,-3,13,6.5,-0.7,0,NA,0,0,0,70.1,202009280rav
+Marquise Brown,BrowMa04,receiving,BAL,6,2,13,0,2,11,5.5,2,1,14.2,0,NA,2,33.3,0,42.4,202009280rav
+Willie Snead,SneaWi00,receiving,BAL,2,2,4,0,NA,4,2,0,0,2,0,NA,0,0,0,79.2,202009280rav
+Nick Boyle,BoylNi00,receiving,BAL,1,1,5,1,1,5,5,0,0,5,0,NA,0,0,0,127.1,202009280rav
+Miles Boykin,BoykMi00,receiving,BAL,2,1,8,0,NA,8,8,0,0,19.5,0,NA,0,0,0,60.4,202009280rav
+Mark Ingram,IngrMa01,receiving,BAL,1,0,0,0,0,0,NA,0,NA,-6,0,NA,0,0,0,39.6,202009280rav

@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,21,71,3,15,0.7,56,2.7,0,NA,201911030kan
+Alexander Mattison,MattAl01,rushing,MIN,3,6,NA,3,1,3,1,0,NA,201911030kan
+Ameer Abdullah,AbduAm00,rushing,MIN,1,2,0,2,2,0,0,0,NA,201911030kan
+Kirk Cousins,CousKi00,rushing,MIN,1,5,0,5,5,0,0,0,NA,201911030kan
+Stefon Diggs,DiggSt00,rushing,MIN,1,12,1,10,10,2,2,0,NA,201911030kan
+Damien Williams,WillDa05,rushing,KAN,12,125,2,31,2.6,94,7.8,0,NA,201911030kan
+LeSean McCoy,McCoLe01,rushing,KAN,3,9,NA,4,1.3,5,1.7,0,NA,201911030kan
+Mecole Hardman,HardMe00,rushing,KAN,1,7,NA,7,7,0,0,0,NA,201911030kan
+Tyreek Hill,HillTy00,rushing,KAN,1,5,0,4,4,1,1,0,NA,201911030kan
+Darrel Williams,WillDa10,rushing,KAN,1,1,NA,0,0,1,1,0,NA,201911030kan

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Darren Waller,WallDa01,receiving,LVR,17,13,200,2,9,92,7.1,108,8.3,7.9,2,6.5,0,0,0,154,202012060nyj
+Nelson Agholor,AghoNe00,receiving,LVR,11,4,38,0,3,25,6.3,13,3.3,19.5,0,NA,0,0,0,46.8,202012060nyj
+Hunter Renfrow,RenfHu00,receiving,LVR,6,4,47,0,3,33,8.3,14,3.5,11,0,NA,0,0,0,90.3,202012060nyj
+Henry Ruggs III,RuggHe00,receiving,LVR,4,3,84,1,2,67,22.3,17,5.7,18.5,0,NA,1,25,1,116.7,202012060nyj
+Devontae Booker,BookDe00,receiving,LVR,2,1,1,0,0,-3,-3,4,4,-1.5,0,NA,0,0,0,56.2,202012060nyj
+Theo Riddick,RiddTh00,receiving,LVR,1,1,3,0,NA,-5,-5,8,8,-5,0,NA,0,0,0,79.2,202012060nyj
+Alec Ingold,IngoAl01,receiving,LVR,1,1,2,0,NA,1,1,1,1,1,0,NA,0,0,0,79.2,202012060nyj
+Jalen Richard,RichJa01,receiving,LVR,1,1,6,0,0,1,1,5,5,1,0,NA,0,0,0,91.7,202012060nyj
+Zay Jones,JoneZa00,receiving,LVR,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,202012060nyj
+Jason Witten,WittJa00,receiving,LVR,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,202012060nyj
+Bryan Edwards,EdwaBr01,receiving,LVR,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202012060nyj
+Jamison Crowder,CrowJa00,receiving,NYJ,7,5,47,2,5,28,5.6,19,3.8,4.3,0,NA,0,0,0,129.2,202012060nyj
+Denzel Mims,MimsDe00,receiving,NYJ,3,2,40,0,2,22,11,18,9,15.3,2,1,0,0,0,109.7,202012060nyj
+Ty Johnson,JohnTy02,receiving,NYJ,2,2,13,0,0,-1,-0.5,14,7,-0.5,0,NA,0,0,0,93.7,202012060nyj
+Ryan Griffin,GrifRy00,receiving,NYJ,2,2,31,0,2,6,3,25,12.5,3,0,NA,0,0,0,118.7,202012060nyj
+Braxton Berrios,BerrBr00,receiving,NYJ,2,2,33,0,1,2,1,31,15.5,1,0,NA,0,0,0,118.7,202012060nyj
+Breshad Perriman,PerrBr02,receiving,NYJ,4,1,22,0,1,13,13,9,9,14,0,NA,1,25,1,10.4,202012060nyj

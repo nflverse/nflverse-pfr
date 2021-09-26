@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Bradley Roby,RobyBr00,defense,DEN,0,5,3,60.0%,125,41.7,25,2,143.7,18.2,84,41,0,0,0,0,0,0,1,100.0%,201810070nyj
+Todd Davis,DaviTo01,defense,DEN,0,3,3,100.0%,27,9,9,0,104.2,-0.3,-1,28,2,0,0,0,0,6,1,14.3%,201810070nyj
+Isaac Yiadom,YiadIs00,defense,DEN,0,3,2,66.7%,24,12,8,1,130.6,10.7,22,2,0,0,0,0,0,3,1,25.0%,201810070nyj
+Shaquil Barrett,BarrSh00,defense,DEN,0,1,1,100.0%,12,12,12,0,116.7,12,12,0,0,0,1,0,1,1,0,0.0%,201810070nyj
+Chris Harris Jr.,HarrCh01,defense,DEN,0,6,1,16.7%,12,12,2,0,39.6,11.2,12,0,0,0,0,0,0,3,1,25.0%,201810070nyj
+Bradley Chubb,ChubBr00,defense,DEN,0,2,1,50.0%,12,12,6,0,68.7,3.5,4,8,0,0,0,0,0,2,1,33.3%,201810070nyj
+Justin Simmons,SimmJu00,defense,DEN,0,1,1,100.0%,10,10,10,0,108.3,1,1,9,3,0,0,0,0,7,0,0.0%,201810070nyj
+Derek Wolfe,WolfDe00,defense,DEN,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,0,0.0%,201810070nyj
+Domata Peko,PekoDo20,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,1,25.0%,201810070nyj
+Josey Jewell,JeweJo00,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,1,0,0,0,0,2,0,0.0%,201810070nyj
+Zach Kerr,KerrZa00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201810070nyj
+Von Miller,MillVo00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,1,16.7%,201810070nyj
+Darian Stewart,StewDa00,defense,DEN,0,2,0,0.0%,NA,NA,0,NA,39.6,3.5,NA,NA,1,0,0,0,0,3,2,40.0%,201810070nyj
+Brandon Marshall,MarsBr01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,1,20.0%,201810070nyj
+Darron Lee,LeexDa00,defense,NYJ,0,11,10,90.9%,93,9.3,8.5,0,101.9,1,12,81,1,0,0,0,0,5,0,0.0%,201810070nyj
+Darryl Roberts,RobeDa00,defense,NYJ,0,8,6,75.0%,68,11.3,8.5,1,139.6,13.9,46,22,0,0,0,0,0,6,5,45.5%,201810070nyj
+Parry Nickerson,NickPa00,defense,NYJ,0,6,6,100.0%,78,13,13,0,118.7,6,36,42,3,0,0,0,0,7,0,0.0%,201810070nyj
+Morris Claiborne,ClaiMo00,defense,NYJ,0,12,5,41.7%,57,11.4,4.8,0,56.6,9.8,38,19,0,0,0,0,0,5,0,0.0%,201810070nyj
+Avery Williamson,WillAv00,defense,NYJ,0,8,4,50.0%,33,8.3,4.1,0,60.9,3.8,21,12,3,1,0,0,1,9,0,0.0%,201810070nyj
+Marcus Maye,MayeMa00,defense,NYJ,1,6,4,66.7%,35,8.8,5.8,1,81.9,12,20,15,0,0,0,0.5,1,8,0,0.0%,201810070nyj
+Jamal Adams,AdamJa00,defense,NYJ,0,4,2,50.0%,14,7,3.5,0,58.3,4,7,7,5,0,0,0,0,6,1,14.3%,201810070nyj
+Buster Skrine,SkriBu00,defense,NYJ,0,4,2,50.0%,25,12.5,6.3,0,69.8,5.3,12,13,0,0,0,0,0,3,0,0.0%,201810070nyj
+Frankie Luvu,LuvuFr00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,0,3,2,1,33.3%,201810070nyj
+Leonard Williams,WillLe02,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,3,5,0,0.0%,201810070nyj
+Brandon Copeland,CopeBr00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201810070nyj
+Jeremiah Attaochu,AttaJe00,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,7,NA,NA,0,0,0,1,1,1,0,0.0%,201810070nyj
+Jordan Jenkins,JenkJo01,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,201810070nyj

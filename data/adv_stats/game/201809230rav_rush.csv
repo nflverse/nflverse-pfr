@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Royce Freeman,FreeRo00,rushing,DEN,13,53,5,18,1.4,35,2.7,4,3.3,201809230rav
+Devontae Booker,BookDe00,rushing,DEN,5,10,0,5,1,5,1,0,NA,201809230rav
+Phillip Lindsay,LindPh00,rushing,DEN,4,20,1,11,2.8,9,2.3,0,NA,201809230rav
+Andy Janovich,JanoAn00,rushing,DEN,1,2,1,1,1,1,1,0,NA,201809230rav
+Emmanuel Sanders,SandEm00,rushing,DEN,1,35,1,35,35,0,0,0,NA,201809230rav
+Alex Collins,CollAl00,rushing,BAL,18,68,3,40,2.2,28,1.6,2,9,201809230rav
+Javorius Allen,AlleJa01,rushing,BAL,6,7,1,4,0.7,3,0.5,0,NA,201809230rav
+Joe Flacco,FlacJo00,rushing,BAL,4,2,1,0,0,2,0.5,0,NA,201809230rav

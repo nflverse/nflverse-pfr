@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Matt Breida,BreiMa00,rushing,SFO,15,37,3,28,1.9,9,0.6,0,NA,201909080tam
+Raheem Mostert,MostRa00,rushing,SFO,9,40,2,19,2.1,21,2.3,2,4.5,201909080tam
+Tevin Coleman,ColeTe01,rushing,SFO,6,23,1,12,2,11,1.8,0,NA,201909080tam
+Jimmy Garoppolo,GaroJi00,rushing,SFO,2,-2,0,-2,-1,0,0,0,NA,201909080tam
+Ronald Jones II,JoneRo01,rushing,TAM,13,75,4,61,4.7,14,1.1,1,13,201909080tam
+Peyton Barber,BarbPe01,rushing,TAM,8,33,2,27,3.4,6,0.8,0,NA,201909080tam
+Jameis Winston,WinsJa00,rushing,TAM,5,13,1,13,2.6,0,0,0,NA,201909080tam

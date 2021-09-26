@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Keenan Allen,AlleKe00,receiving,LAC,6,6,68,1,3,47,7.8,21,3.5,7.8,0,NA,0,0,0,153.5,201912010den
+Mike Williams,WillMi07,receiving,LAC,7,5,117,0,4,97,19.4,20,4,20.3,0,NA,0,0,0,113.7,201912010den
+Austin Ekeler,EkelAu00,receiving,LAC,5,4,51,1,3,7,1.8,44,11,0.4,0,NA,0,0,1,109.2,201912010den
+Melvin Gordon,GordMe00,receiving,LAC,3,2,11,0,0,-8,-4,19,9.5,-2.7,0,NA,0,0,0,72.9,201912010den
+Hunter Henry,HenrHu00,receiving,LAC,3,2,10,0,NA,8,4,2,1,3.7,0,NA,0,0,0,71.5,201912010den
+Andre Patton,PattAn00,receiving,LAC,2,1,8,0,1,5,5,3,3,8,0,NA,0,0,0,60.4,201912010den
+Virgil Green,GreeVi00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,-5,0,NA,0,0,0,39.6,201912010den
+Royce Freeman,FreeRo00,receiving,DEN,4,4,13,0,NA,-8,-2,21,5.3,-2,0,NA,0,0,0,80.2,201912010den
+Courtland Sutton,SuttCo00,receiving,DEN,5,4,74,2,3,72,18,2,0.5,18.6,0,NA,0,0,0,158.3,201912010den
+Jeff Heuerman,HeueJe00,receiving,DEN,5,3,15,0,3,13,4.3,2,0.7,6.2,0,NA,0,0,0,64.6,201912010den
+Phillip Lindsay,LindPh00,receiving,DEN,3,3,4,0,0,-12,-4,16,5.3,-4,0,NA,0,0,0,79.2,201912010den
+DaeSean Hamilton,HamiDa01,receiving,DEN,3,2,12,0,1,11,5.5,1,0.5,5.7,0,NA,1,33.3,0,74.3,201912010den
+Andrew Beck,BeckAn01,receiving,DEN,1,1,11,0,1,-1,-1,12,12,-1,0,NA,0,0,0,112.5,201912010den
+Noah Fant,FantNo00,receiving,DEN,3,1,5,0,NA,5,5,0,0,12.7,0,NA,0,0,0,42.4,201912010den
+Tim Patrick,PatrTi00,receiving,DEN,2,0,0,0,NA,0,NA,0,NA,7.5,0,NA,0,0,1,0,201912010den

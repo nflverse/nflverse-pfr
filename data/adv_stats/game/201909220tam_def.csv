@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Janoris Jenkins,JenkJa03,defense,NYG,0,14,8,57.1%,188,23.5,13.4,3,141.4,16.1,165,23,1,0,0,0,0,5,1,16.7%,201909220tam
+Grant Haley,HaleGr00,defense,NYG,0,3,3,100.0%,58,19.3,19.3,0,118.7,18.3,55,3,2,0,0,0,0,3,0,0.0%,201909220tam
+Jabrill Peppers,PeppJa00,defense,NYG,0,3,2,66.7%,32,16,10.7,0,102.1,16.7,29,3,5,2,1,0,3,8,0,0.0%,201909220tam
+Antoine Bethea,BethAn20,defense,NYG,0,2,2,100.0%,15,7.5,7.5,0,97.9,4.5,9,6,1,0,0,0,0,9,0,0.0%,201909220tam
+Deandre Baker,BakeDe00,defense,NYG,0,4,2,50.0%,24,12,6,0,68.7,24.8,22,2,0,0,0,0,0,7,0,0.0%,201909220tam
+Ryan Connelly,ConnRy00,defense,NYG,1,4,2,50.0%,14,7,3.5,0,18.7,7.5,13,1,6,0,0,0,0,7,0,0.0%,201909220tam
+Tae Davis,DaviTa00,defense,NYG,0,2,2,100.0%,7,3.5,3.5,0,81.2,1,2,5,0,0,0,0,0,2,0,0.0%,201909220tam
+Michael Thomas,ThomMi02,defense,NYG,0,1,1,100.0%,1,1,1,0,79.2,0,0,1,4,1,0,0,1,2,0,0.0%,201909220tam
+Olsen Pierre,PierOl00,defense,NYG,0,1,1,100.0%,41,41,41,0,118.7,0,0,41,0,0,0,0,0,1,0,0.0%,201909220tam
+Dexter Lawrence,LawrDe03,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,1,4,2,0,0.0%,201909220tam
+Lorenzo Carter,CartLo01,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,3,1,0,4,5,1,16.7%,201909220tam
+Markus Golden,GoldMa00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,2,2,4,5,0,0.0%,201909220tam
+Dalvin Tomlinson,TomlDa00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201909220tam
+Oshane Ximines,XimiOs00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,0,1,1,4,0,0.0%,201909220tam
+Alec Ogletree,OgleAl00,defense,NYG,0,2,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,5,0,0,0,0,2,1,33.3%,201909220tam
+Tuzar Skipper,SkipTu00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201909220tam
+Mike Edwards,EdwaMi01,defense,TAM,0,7,7,100.0%,158,22.6,22.6,2,158.3,10.6,74,84,1,0,0,0,0,6,1,14.3%,201909220tam
+M.J. Stewart,StewM.00,defense,TAM,0,5,4,80.0%,55,13.8,11,0,112.5,7.2,33,22,1,0,0,0,0,5,1,16.7%,201909220tam
+Lavonte David,DaviLa00,defense,TAM,0,5,3,60.0%,11,3.7,2.2,0,64.6,2.4,7,4,3,2,1,0,3,9,0,0.0%,201909220tam
+Kevin Minter,MintKe00,defense,TAM,0,4,3,75.0%,21,7,5.3,0,86.5,4,13,8,6,1,0,0,1,2,1,33.3%,201909220tam
+Carlton Davis,DaviCa02,defense,TAM,0,8,3,37.5%,41,13.7,5.1,0,54.7,16.4,36,5,0,0,0,0,0,4,1,20.0%,201909220tam
+Vernon Hargreaves III,HargVe00,defense,TAM,0,4,2,50.0%,53,26.5,13.3,1,135.4,17.3,47,6,0,0,0,0,0,1,1,50.0%,201909220tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,1,1,100.0%,18,18,18,0,118.7,3,3,15,1,0,0,0,0,3,0,0.0%,201909220tam
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,1,1,100.0%,26,26,26,0,118.7,16,16,10,1,0,0,0,0,1,0,0.0%,201909220tam
+Shaquil Barrett,BarrSh00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,3,1,4,8,8,0,0.0%,201909220tam
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,2,0,5,1,0,0.0%,201909220tam
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2,2,0,4,2,0,0.0%,201909220tam
+Carl Nassib,NassCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,2,1,1,4,4,0,0.0%,201909220tam
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201909220tam
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,3,0,0.0%,201909220tam

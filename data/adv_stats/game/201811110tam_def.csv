@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Mason Foster,FostMa00,defense,WAS,0,6,6,100.0%,51,8.5,8.5,0,102.1,1.8,11,40,4,0,0,0,0,10,1,9.1%,201811110tam
+Greg Stroman,StroGr00,defense,WAS,1,9,6,66.7%,65,10.8,7.2,0,48.1,14.6,51,14,0,0,0,0,0,5,0,0.0%,201811110tam
+Fabian Moreau,MoreFa00,defense,WAS,0,6,5,83.3%,109,21.8,18.2,0,118.7,15.7,85,24,2,0,0,0,0,6,0,0.0%,201811110tam
+Danny Johnson,JohnDa09,defense,WAS,0,6,5,83.3%,79,15.8,13.2,0,118.7,15,51,28,0,0,0,0,0,4,1,20.0%,201811110tam
+Zach Brown,BrowZa00,defense,WAS,0,4,2,50.0%,11,5.5,2.8,0,56.2,3.3,1,10,1,0,0,0,0,9,0,0.0%,201811110tam
+D.J. Swearinger,SweaDJ00,defense,WAS,0,4,2,50.0%,20,10,5,0,64.6,9,17,3,0,0,0,0,0,3,2,40.0%,201811110tam
+Ha Ha Clinton-Dix,ClinHa00,defense,WAS,0,4,2,50.0%,29,14.5,7.3,0,74,14.3,16,13,0,0,0,0,0,8,0,0.0%,201811110tam
+Josh Harvey-Clemons,HarvJo01,defense,WAS,0,1,1,100.0%,18,18,18,0,118.7,5,5,13,0,0,0,0,0,1,1,50.0%,201811110tam
+Josh Norman,NormJo01,defense,WAS,1,3,1,33.3%,24,24,8,0,23.6,14,1,23,0,0,0,0,0,1,1,50.0%,201811110tam
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,3,1,25.0%,201811110tam
+Matthew Ioannidis,IoanMa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,2,0,0.0%,201811110tam
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,2,66.7%,201811110tam
+Ryan Anderson,AndeRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,1,50.0%,201811110tam
+Preston Smith,SmitPr00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,3,0,0.0%,201811110tam
+Ryan Kerrigan,KerrRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,1,33.3%,201811110tam
+Andrew Adams,AdamAn00,defense,TAM,0,6,5,83.3%,56,11.2,9.3,0,105.6,8,45,11,1,0,0,0,0,5,0,0.0%,201811110tam
+Lavonte David,DaviLa00,defense,TAM,0,7,4,57.1%,29,7.3,4.1,0,67,6.4,17,12,3,0,0,0,0,7,0,0.0%,201811110tam
+Javien Elliott,ElliJa01,defense,TAM,0,3,3,100.0%,22,7.3,7.3,0,97.2,3.7,11,11,2,0,0,0,0,2,1,33.3%,201811110tam
+Carlton Davis,DaviCa02,defense,TAM,0,1,1,100.0%,12,12,12,0,116.7,12,12,0,0,0,0,0,0,5,1,16.7%,201811110tam
+Adarius Taylor,GlanAd00,defense,TAM,0,1,1,100.0%,-1,-1,-1,0,79.2,-1,-1,0,2,0,0,0,0,4,0,0.0%,201811110tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,4,1,25.0%,9,9,2.3,0,39.6,18,9,0,0,0,0,0,0,4,1,20.0%,201811110tam
+Justin Evans,EvanJu01,defense,TAM,0,1,1,100.0%,6,6,6,1,131.2,6,6,0,1,0,0,0,0,9,0,0.0%,201811110tam
+Isaiah Johnson,JohnIs00,defense,TAM,0,1,1,100.0%,12,12,12,0,116.7,8,8,4,1,0,0,0,0,4,0,0.0%,201811110tam
+Brent Grimes,GrimBr20,defense,TAM,0,1,1,100.0%,24,24,24,0,118.7,17,17,7,0,0,0,0,0,3,0,0.0%,201811110tam
+Gerald McCoy,McCoGe99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,1,0,0.0%,201811110tam
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201811110tam
+Carl Nassib,NassCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,0.0%,201811110tam

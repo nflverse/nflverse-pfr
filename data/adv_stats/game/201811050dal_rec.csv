@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Corey Davis,DaviCo03,receiving,TEN,10,6,56,0,3,54,9,2,0.3,9.7,0,NA,1,10,0,75.4,201811050dal
+Dion Lewis,LewiDi00,receiving,TEN,4,4,60,1,2,-13,-3.3,73,18.3,-3.3,0,NA,0,0,0,158.3,201811050dal
+Cameron Batson,BatsCa00,receiving,TEN,3,2,21,0,2,9,4.5,12,6,16.7,0,NA,0,0,0,86.8,201811050dal
+Taywan Taylor,TaylTa00,receiving,TEN,2,2,24,0,1,23,11.5,1,0.5,11.5,0,NA,0,0,0,116.7,201811050dal
+Derrick Henry,HenrDe00,receiving,TEN,2,2,5,0,0,-10,-5,15,7.5,-5,0,NA,0,0,0,79.2,201811050dal
+Jonnu Smith,SmitJo01,receiving,TEN,2,2,33,1,2,15,7.5,18,9,7.5,1,2,0,0,0,158.3,201811050dal
+Luke Stocker,StocLu00,receiving,TEN,2,1,5,0,NA,5,5,0,0,4.5,0,NA,1,50,0,56.2,201811050dal
+Darius Jennings,JennDa00,receiving,TEN,1,1,36,0,1,34,34,2,2,34,0,NA,0,0,0,118.7,201811050dal
+Tajae Sharpe,SharTa00,receiving,TEN,1,1,0,0,NA,0,0,0,0,0,0,NA,0,0,0,79.2,201811050dal
+Amari Cooper,CoopAm00,receiving,DAL,8,5,58,1,5,39,7.8,19,3.8,9.8,0,NA,0,0,1,84.4,201811050dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,5,4,51,0,1,-8,-2,59,14.8,-3.4,0,NA,0,0,0,109.2,201811050dal
+Cole Beasley,BeasCo00,receiving,DAL,4,3,16,0,1,14,4.7,2,0.7,4.5,0,NA,0,0,0,81.2,201811050dal
+Michael Gallup,GallMi00,receiving,DAL,6,3,51,0,2,24,8,27,9,14,0,NA,1,16.7,0,79.2,201811050dal
+Blake Jarwin,JarwBl00,receiving,DAL,2,2,15,0,1,12,6,3,1.5,6,0,NA,0,0,0,97.9,201811050dal
+Deonte Thompson,ThomDe04,receiving,DAL,2,2,21,0,1,12,6,9,4.5,6,0,NA,0,0,0,110.4,201811050dal
+Rod Smith,SmitRo06,receiving,DAL,2,1,8,0,NA,-4,-4,12,12,-2,0,NA,0,0,0,60.4,201811050dal
+Allen Hurns,HurnAl01,receiving,DAL,1,1,23,1,1,18,18,5,5,18,0,NA,0,0,0,158.3,201811050dal
+Dak Prescott,PresDa01,receiving,DAL,1,0,0,0,0,0,NA,0,NA,11,0,NA,0,0,0,39.6,201811050dal

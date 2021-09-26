@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Telvin Smith,SmitTe01,defense,JAX,1,8,7,87.5%,54,7.7,6.8,1,94.8,5.9,23,31,0,0,0,0,0,8,0,0.0%,201811110clt
+Barry Church,ChurBa99,defense,JAX,0,5,5,100.0%,34,6.8,6.8,1,134.6,7.6,33,1,0,0,0,0,0,5,0,0.0%,201811110clt
+Jalen Ramsey,RamsJa00,defense,JAX,0,6,4,66.7%,80,20,13.3,0,109.7,12.8,60,20,0,0,0,0,0,5,0,0.0%,201811110clt
+Tashaun Gipson,GipsTa00,defense,JAX,0,4,4,100.0%,95,23.8,23.8,1,158.3,13,52,43,0,0,0,0,0,3,1,25.0%,201811110clt
+Myles Jack,JackMy00,defense,JAX,0,4,3,75.0%,69,23,17.3,0,116.7,13.8,50,19,1,0,0,0,0,3,0,0.0%,201811110clt
+Leon Jacobs,JacoLe00,defense,JAX,0,2,2,100.0%,5,2.5,2.5,1,118.7,-1.5,-3,8,0,0,0,0,0,2,0,0.0%,201811110clt
+Tyler Patmon,PatmTy00,defense,JAX,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,0,0,0,0,0,1,0,0.0%,201811110clt
+Ronnie Harrison,HarrRo02,defense,JAX,0,2,1,50.0%,7,7,3.5,0,58.3,3.5,3,4,0,0,0,0,0,0,0,NA,201811110clt
+D.J. Hayden,HaydDJ00,defense,JAX,0,2,1,50.0%,7,7,3.5,0,58.3,5.5,-1,8,2,0,0,0,0,1,1,50.0%,201811110clt
+Abry Jones,JoneAb00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201811110clt
+Yannick Ngakoue,NgakYa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,2,0,0.0%,201811110clt
+Anthony Walker,WalkAn01,defense,IND,0,8,8,100.0%,76,9.5,9.5,1,145.8,-0.9,-7,83,0,0,0,0,0,10,1,9.1%,201811110clt
+Kenny Moore,MoorKe03,defense,IND,0,10,5,50.0%,46,9.2,4.6,0,62.9,6,21,25,1,1,0,0,1,6,4,40.0%,201811110clt
+Quincy Wilson,WilsQu01,defense,IND,0,7,5,71.4%,59,11.8,8.4,0,96.7,5.1,15,44,0,0,0,0,0,6,0,0.0%,201811110clt
+Arthur Maulet,MaulAr00,defense,IND,0,3,3,100.0%,101,33.7,33.7,1,158.3,12,36,65,0,0,0,0,0,1,1,50.0%,201811110clt
+Darius Leonard,LeonDa00,defense,IND,0,4,2,50.0%,11,5.5,2.8,0,56.2,0.5,-9,20,1,0,0,0,0,9,0,0.0%,201811110clt
+Tyquan Lewis,LewiTy00,defense,IND,0,1,1,100.0%,12,12,12,0,116.7,9,9,3,0,1,1,0,2,3,0,0.0%,201811110clt
+Jabaal Sheard,SheaJa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,201811110clt
+Denico Autry,AutrDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201811110clt
+Pierre Desir,DesiPi00,defense,IND,0,2,0,0.0%,NA,NA,0,NA,39.6,9,NA,NA,0,0,0,0,0,3,0,0.0%,201811110clt
+Malik Hooker,HookMa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201811110clt
+Clayton Geathers,GeatCl00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,0,0,0,0,0,10,0,0.0%,201811110clt

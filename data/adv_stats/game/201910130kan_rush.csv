@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Carlos Hyde,HydeCa00,rushing,HOU,26,116,7,66,2.5,50,1.9,2,13,201910130kan
+Deshaun Watson,WatsDe00,rushing,HOU,10,42,3,35,3.5,7,0.7,0,NA,201910130kan
+Duke Johnson,JohnDu00,rushing,HOU,5,34,2,21,4.2,13,2.6,0,NA,201910130kan
+LeSean McCoy,McCoLe01,rushing,KAN,8,44,3,35,4.4,9,1.1,1,8,201910130kan
+Patrick Mahomes,MahoPa00,rushing,KAN,1,-1,0,-1,-1,0,0,0,NA,201910130kan
+De'Anthony Thomas,ThomDe05,rushing,KAN,1,4,1,2,2,2,2,0,NA,201910130kan
+Damien Williams,WillDa05,rushing,KAN,1,6,1,1,1,5,5,0,NA,201910130kan

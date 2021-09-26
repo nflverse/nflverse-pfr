@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeAndre Hopkins,HopkDe00,receiving,HOU,12,9,106,1,7,80,8.9,26,2.9,10.3,1,9,0,0,0,129.2,201910200clt
+Kenny Stills,StilKe00,receiving,HOU,5,4,105,0,4,69,17.3,36,9,13,0,NA,1,20,0,118.7,201910200clt
+Keke Coutee,CoutKe00,receiving,HOU,5,3,25,0,1,6,2,19,6.3,6.6,0,NA,0,0,1,33.3,201910200clt
+Jordan Akins,AkinJo00,receiving,HOU,2,2,17,0,1,8,4,9,4.5,4,0,NA,0,0,0,102.1,201910200clt
+Darren Fells,FellDa01,receiving,HOU,2,2,27,0,1,17,8.5,10,5,8.5,1,2,0,0,0,118.7,201910200clt
+Duke Johnson,JohnDu00,receiving,HOU,5,2,22,0,1,0,0,22,11,3,1,2,0,0,1,14.2,201910200clt
+Will Fuller,FullWi01,receiving,HOU,1,1,6,0,NA,3,3,3,3,3,0,NA,0,0,0,91.7,201910200clt
+Carlos Hyde,HydeCa00,receiving,HOU,1,0,0,0,0,0,NA,0,NA,0,0,NA,1,100,0,39.6,201910200clt
+T.Y. Hilton,HiltT.00,receiving,IND,11,6,74,1,5,39,6.5,35,5.8,11.5,1,6,2,18.2,0,105.9,201910200clt
+Zach Pascal,PascZa00,receiving,IND,7,6,106,2,6,48,8,58,9.7,7.4,0,NA,0,0,0,158.3,201910200clt
+Eric Ebron,EbroEr00,receiving,IND,5,4,70,1,4,35,8.8,35,8.8,7.8,0,NA,0,0,0,158.3,201910200clt
+Jack Doyle,DoylJa00,receiving,IND,5,3,21,0,1,-5,-1.7,26,8.7,3.8,0,NA,0,0,0,69.6,201910200clt
+Marlon Mack,MackMa00,receiving,IND,3,3,12,0,NA,2,0.7,10,3.3,0.7,0,NA,0,0,0,83.3,201910200clt
+Chester Rogers,RogeCh02,receiving,IND,2,2,24,0,1,21,10.5,3,1.5,10.5,0,NA,0,0,0,116.7,201910200clt
+Nyheim Hines,HineNy00,receiving,IND,2,1,13,0,1,2,2,11,11,11.5,0,NA,0,0,0,70.8,201910200clt
+Jordan Wilkins,WilkJo01,receiving,IND,1,1,6,0,NA,3,3,3,3,3,0,NA,0,0,0,91.7,201910200clt

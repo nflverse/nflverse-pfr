@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Amari Cooper,CoopAm00,receiving,DAL,9,6,65,1,1,19,3.2,46,7.7,4.7,0,NA,1,11.1,0,124.8,201901120ram
+Michael Gallup,GallMi00,receiving,DAL,9,6,119,0,4,90,15,29,4.8,12.6,0,NA,0,0,0,109.7,201901120ram
+Ezekiel Elliott,ElliEz00,receiving,DAL,5,2,19,0,2,9,4.5,10,5,3.6,0,NA,1,20,0,51.2,201901120ram
+Blake Jarwin,JarwBl00,receiving,DAL,2,2,17,0,2,4,2,13,6.5,2,0,NA,0,0,0,102.1,201901120ram
+Tavon Austin,AustTa00,receiving,DAL,1,1,-2,0,NA,-4,-4,2,2,-4,0,NA,0,0,0,79.2,201901120ram
+Cole Beasley,BeasCo00,receiving,DAL,2,1,15,0,1,8,8,7,7,8,0,NA,0,0,0,75,201901120ram
+Noah Brown,BrowNo00,receiving,DAL,1,1,13,0,NA,13,13,0,0,13,0,NA,0,0,0,118.7,201901120ram
+Dalton Schultz,SchuDa00,receiving,DAL,2,1,20,0,1,12,12,8,8,15,0,NA,0,0,0,85.4,201901120ram
+Rico Gathers,GathRi00,receiving,DAL,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,201901120ram
+Robert Woods,WoodRo02,receiving,LAR,8,6,69,0,4,37,6.2,32,5.3,6.1,1,6,0,0,0,100.5,201901120ram
+Brandin Cooks,CookBr00,receiving,LAR,6,4,65,0,3,62,15.5,3,0.8,12.7,0,NA,0,0,0,102.8,201901120ram
+Todd Gurley,GurlTo01,receiving,LAR,2,2,3,0,1,2,1,1,0.5,1,0,NA,0,0,0,79.2,201901120ram
+Tyler Higbee,HigbTy00,receiving,LAR,4,2,30,0,2,-1,-0.5,31,15.5,9.5,0,NA,0,0,0,75,201901120ram
+Josh Reynolds,ReynJo00,receiving,LAR,4,1,19,0,1,15,15,4,4,13.8,0,NA,0,0,0,46.9,201901120ram
+C.J. Anderson,AndeC.00,receiving,LAR,1,0,0,0,0,0,NA,0,NA,-2,0,NA,1,100,0,39.6,201901120ram
+Gerald Everett,EverGe00,receiving,LAR,2,0,0,0,NA,0,NA,0,NA,9.5,0,NA,0,0,0,39.6,201901120ram

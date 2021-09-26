@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Odell Beckham Jr.,BeckOd00,receiving,CLE,7,5,52,0,2,31,6.2,21,4.2,11.4,0,NA,1,14.3,0,92.6,201910270nwe
+Jarvis Landry,LandJa00,receiving,CLE,10,5,65,0,4,57,11.4,8,1.6,9.5,0,NA,0,0,1,31.2,201910270nwe
+Dontrell Hilliard,HillDo00,receiving,CLE,4,4,24,0,NA,-9,-2.3,33,8.3,-2.3,0,NA,0,0,0,91.7,201910270nwe
+Antonio Callaway,CallAn00,receiving,CLE,3,2,11,0,NA,12,6,-1,-0.5,8.7,0,NA,0,0,0,72.9,201910270nwe
+Demetrius Harris,HarrDe03,receiving,CLE,3,2,33,1,2,26,13,7,3.5,15,0,NA,0,0,0,143.1,201910270nwe
+Nick Chubb,ChubNi00,receiving,CLE,1,1,7,0,1,-6,-6,13,13,-6,1,1,0,0,0,95.8,201910270nwe
+Rashard Higgins,HiggRa00,receiving,CLE,2,1,2,0,NA,2,2,0,0,4,0,NA,0,0,0,56.2,201910270nwe
+Julian Edelman,EdelJu00,receiving,NWE,11,8,78,2,4,60,7.5,18,2.3,9,0,NA,0,0,0,131.8,201910270nwe
+James White,WhitJa02,receiving,NWE,5,4,75,0,1,3,0.8,72,18,1.8,0,NA,0,0,0,118.7,201910270nwe
+Phillip Dorsett,DorsPh00,receiving,NWE,6,3,43,0,2,40,13.3,3,1,11.3,0,NA,0,0,0,73.6,201910270nwe
+Mohamed Sanu,SanuMo00,receiving,NWE,5,2,23,0,2,20,10,3,1.5,5.8,0,NA,2,40,0,54.6,201910270nwe
+Rex Burkhead,BurkRe00,receiving,NWE,1,1,9,0,NA,-3,-3,12,12,-3,0,NA,0,0,0,104.2,201910270nwe
+Jakobi Meyers,MeyeJa01,receiving,NWE,2,1,5,0,1,4,4,1,1,3.5,0,NA,0,0,0,56.2,201910270nwe
+Ben Watson,WatsBe00,receiving,NWE,1,1,26,0,1,25,25,1,1,25,0,NA,0,0,0,118.7,201910270nwe
+Brandon Bolden,BoldBr00,receiving,NWE,1,0,0,0,NA,0,NA,0,NA,5,0,NA,1,100,0,39.6,201910270nwe

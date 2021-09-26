@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,JAX,8,23,2,19,2.4,4,0.5,0,NA,201911170clt
+Ryquell Armstead,ArmsRy00,rushing,JAX,1,6,0,2,2,4,4,0,NA,201911170clt
+Marlon Mack,MackMa00,rushing,IND,14,109,5,68,4.9,41,2.9,5,2.8,201911170clt
+Jonathan Williams,WillJo07,rushing,IND,13,116,4,50,3.8,66,5.1,4,3.3,201911170clt
+Nyheim Hines,HineNy00,rushing,IND,3,11,1,5,1.7,6,2,0,NA,201911170clt
+Jacoby Brissett,BrisJa00,rushing,IND,2,12,1,12,6,0,0,0,NA,201911170clt
+Brian Hoyer,HoyeBr00,rushing,IND,2,-2,NA,-2,-1,0,0,0,NA,201911170clt
+Quenton Nelson,NelsQu00,rushing,IND,1,0,NA,0,0,0,0,0,NA,201911170clt
+Chester Rogers,RogeCh02,rushing,IND,1,18,1,18,18,0,0,0,NA,201911170clt

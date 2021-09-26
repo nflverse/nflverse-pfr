@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Myles Jack,JackMy00,defense,JAX,0,1,1,100.0%,7,7,7,0,95.8,-5,-5,12,6,1,1,0,2,4,1,20.0%,201811250buf
+Telvin Smith,SmitTe01,defense,JAX,0,2,1,50.0%,5,5,2.5,0,56.2,24.5,-3,8,2,0,1,0,1,10,0,0.0%,201811250buf
+Tashaun Gipson,GipsTa00,defense,JAX,0,4,1,25.0%,16,16,4,0,43.7,13.8,9,7,0,0,0,0,0,3,2,40.0%,201811250buf
+Barry Church,ChurBa99,defense,JAX,0,3,1,33.3%,94,94,31.3,1,121.5,26,57,37,0,0,0,0,0,3,0,0.0%,201811250buf
+D.J. Hayden,HaydDJ00,defense,JAX,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,1,0,0,0,0,7,1,12.5%,201811250buf
+Yannick Ngakoue,NgakYa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,3,0,5,1,3,75.0%,201811250buf
+Calais Campbell,CampCa99,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,4,3,42.9%,201811250buf
+Malik Jackson,JackMa02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201811250buf
+Abry Jones,JoneAb00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201811250buf
+Jalen Ramsey,RamsJa00,defense,JAX,0,3,0,0.0%,32,NA,10.7,0,71.5,23.3,19,13,0,0,0,0,0,4,0,0.0%,201811250buf
+A.J. Bouye,BouyA.00,defense,JAX,0,3,0,0.0%,NA,NA,0,NA,39.6,14.3,NA,NA,0,0,0,0,0,2,0,0.0%,201811250buf
+Lorenzo Alexander,AlexLo99,defense,BUF,0,3,2,66.7%,24,12,8,0,91,-0.7,-2,26,0,0,0,1,1,8,0,0.0%,201811250buf
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,5,2,40.0%,20,10,4,0,52.1,2.2,-3,23,1,0,1,0,1,8,2,20.0%,201811250buf
+Taron Johnson,JohnTa01,defense,BUF,0,2,2,100.0%,16,8,8,0,100,3,6,10,1,1,0,0,1,5,2,28.6%,201811250buf
+Jordan Poyer,PoyeJo00,defense,BUF,1,1,1,100.0%,25,25,25,0,79.2,16,16,9,2,0,0,0,0,10,1,9.1%,201811250buf
+Levi Wallace,WallLe00,defense,BUF,0,3,1,33.3%,29,29,9.7,0,70.1,9,27,2,0,0,0,0,0,5,1,16.7%,201811250buf
+Micah Hyde,HydeMi00,defense,BUF,0,2,1,50.0%,13,13,6.5,1,110.4,28.5,13,0,0,0,0,0,0,3,0,0.0%,201811250buf
+Tre'Davious White,WhitTr01,defense,BUF,0,4,1,25.0%,25,25,6.3,0,53.1,20.3,16,9,0,0,0,0,0,2,0,0.0%,201811250buf
+Jerry Hughes,HughJe99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0.5,2,2,1,33.3%,201811250buf
+Kyle Williams,WillKy20,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1.5,2,6,0,0.0%,201811250buf
+Trent Murphy,MurpTr00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,2,66.7%,201811250buf
+Shaq Lawson,LawsSh00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201811250buf
+Matt Milano,MilaMa00,defense,BUF,1,4,0,0.0%,NA,NA,0,NA,0,7,NA,NA,3,0,0,0,0,3,2,40.0%,201811250buf
+Jordan Phillips,PhilJo01,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201811250buf

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jonathan Taylor,TaylJo02,rushing,IND,18,74,6,36,2,38,2.1,4,4.5,202012270pit
+Nyheim Hines,HineNy00,rushing,IND,8,44,3,28,3.5,16,2,2,4,202012270pit
+Jacoby Brissett,BrisJa00,rushing,IND,1,1,1,1,1,0,0,0,NA,202012270pit
+Ashton Dulin,DuliAs00,rushing,IND,1,8,NA,8,8,0,0,0,NA,202012270pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,6,0,1,-2,-0.3,2,0.3,0,NA,202012270pit
+James Conner,ConnJa00,rushing,PIT,5,21,3,17,3.4,4,0.8,0,NA,202012270pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,2,-1,0,-1,-0.5,0,0,0,NA,202012270pit
+Diontae Johnson,JohnDi01,rushing,PIT,1,2,0,2,2,0,0,0,NA,202012270pit

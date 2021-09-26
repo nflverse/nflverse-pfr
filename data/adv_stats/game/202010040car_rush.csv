@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kenyan Drake,DrakKe00,rushing,ARI,13,35,1,20,1.5,15,1.2,2,6.5,202010040car
+Kyler Murray,MurrKy00,rushing,ARI,6,78,3,72,12,6,1,0,NA,202010040car
+Chase Edmonds,EdmoCh00,rushing,ARI,4,16,2,10,2.5,6,1.5,0,NA,202010040car
+Mike Davis,DaviMi01,rushing,CAR,16,84,5,13,0.8,71,4.4,3,5.3,202010040car
+Reggie Bonnafon,BonnRe00,rushing,CAR,10,53,3,36,3.6,17,1.7,0,NA,202010040car
+Teddy Bridgewater,BridTe00,rushing,CAR,6,32,2,21,3.5,11,1.8,1,6,202010040car
+Curtis Samuel,SamuCu00,rushing,CAR,2,-3,0,-4,-2,1,0.5,0,NA,202010040car
+Alex Armah,ArmaAl00,rushing,CAR,1,2,1,2,2,0,0,0,NA,202010040car

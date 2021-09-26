@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Johnson,JohnDa08,rushing,ARI,18,54,4,28,1.6,26,1.4,1,18,201810140min
+Derrick Coleman,ColeDe00,rushing,ARI,1,2,NA,0,0,2,2,0,NA,201810140min
+Chase Edmonds,EdmoCh00,rushing,ARI,1,4,1,3,3,1,1,0,NA,201810140min
+Latavius Murray,MurrLa00,rushing,MIN,24,155,4,60,2.5,95,4,2,12,201810140min
+Kirk Cousins,CousKi00,rushing,MIN,4,14,2,13,3.3,1,0.3,0,NA,201810140min
+Mike Boone,BoonMi00,rushing,MIN,1,20,1,18,18,2,2,0,NA,201810140min
+Stefon Diggs,DiggSt00,rushing,MIN,1,9,1,7,7,2,2,0,NA,201810140min
+C.J. Ham,HamxC.00,rushing,MIN,1,1,NA,1,1,0,0,0,NA,201810140min
+Roc Thomas,ThomRo05,rushing,MIN,1,-4,NA,-4,-4,0,0,0,NA,201810140min

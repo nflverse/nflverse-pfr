@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,WAS,11,28,1,5,0.5,23,2.1,1,11,201909290nyg
+Chris Thompson,ThomCh03,rushing,WAS,4,4,0,3,0.8,1,0.3,0,NA,201909290nyg
+Dwayne Haskins,HaskDw00,rushing,WAS,2,23,1,19,9.5,4,2,0,NA,201909290nyg
+Wayne Gallman,GallWa00,rushing,NYG,18,63,2,43,2.4,20,1.1,0,NA,201909290nyg
+Jon Hilliman,HillJo03,rushing,NYG,10,33,2,19,1.9,14,1.4,0,NA,201909290nyg
+Daniel Jones,JoneDa05,rushing,NYG,5,33,2,33,6.6,0,0,0,NA,201909290nyg
+Elijhaa Penny,PennEl00,rushing,NYG,3,12,NA,8,2.7,4,1.3,0,NA,201909290nyg
+Sterling Shepard,ShepSt00,rushing,NYG,1,23,1,21,21,2,2,0,NA,201909290nyg

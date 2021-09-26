@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alfred Morris,MorrAl00,rushing,SFO,16,111,5,43,2.7,68,4.3,3,5.3,201812300ram
+Jeff Wilson,WilsJe01,rushing,SFO,3,9,NA,7,2.3,2,0.7,0,NA,201812300ram
+Kyle Juszczyk,JuszKy00,rushing,SFO,2,9,0,7,3.5,2,1,0,NA,201812300ram
+Nick Mullens,MullNi00,rushing,SFO,1,-2,0,-2,-2,0,0,0,NA,201812300ram
+C.J. Anderson,AndeC.00,rushing,LAR,23,132,9,68,3,64,2.8,0,NA,201812300ram
+John Kelly,KellJo00,rushing,LAR,15,30,3,2,0.1,28,1.9,0,NA,201812300ram
+Sean Mannion,MannSe00,rushing,LAR,2,-8,0,-8,-4,0,0,0,NA,201812300ram
+Jared Goff,GoffJa00,rushing,LAR,1,0,0,0,0,0,0,0,NA,201812300ram
+Robert Woods,WoodRo02,rushing,LAR,1,1,0,1,1,0,0,0,NA,201812300ram

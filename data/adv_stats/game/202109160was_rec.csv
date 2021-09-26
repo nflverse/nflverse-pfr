@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Sterling Shepard,ShepSt00,receiving,NYG,10,9,94,0,4,77,8.6,17,1.9,8.4,0,NA,0,0,0,105.8,202109160was
+Kenny Golladay,GollKe00,receiving,NYG,8,3,38,0,1,36,12,2,0.7,15.4,0,NA,1,12.5,0,53.1,202109160was
+Darius Slayton,SlayDa01,receiving,NYG,6,3,54,1,2,51,17,3,1,18.7,0,NA,1,16.7,0,120.8,202109160was
+Saquon Barkley,BarkSa00,receiving,NYG,3,2,12,0,0,4,2,8,4,0,0,NA,1,33.3,0,74.3,202109160was
+Kyle Rudolph,RudoKy00,receiving,NYG,2,2,25,0,2,23,11.5,2,1,11.5,0,NA,0,0,0,118.7,202109160was
+Kaden Smith,SmitKa00,receiving,NYG,2,2,24,0,1,17,8.5,7,3.5,8.5,0,NA,0,0,0,116.7,202109160was
+Devontae Booker,BookDe00,receiving,NYG,1,1,2,0,NA,0,0,2,2,0,0,NA,0,0,0,79.2,202109160was
+Terry McLaurin,McLaTe00,receiving,WAS,14,11,107,1,7,71,6.5,36,3.3,7.8,0,NA,0,0,1,92.6,202109160was
+Adam Humphries,HumpAd00,receiving,WAS,8,7,44,0,2,4,0.6,40,5.7,2.1,1,7,1,12.5,0,89.6,202109160was
+J.D. McKissic,McKiJ.00,receiving,WAS,6,5,83,0,1,31,6.2,52,10.4,6.5,0,NA,0,0,0,118.7,202109160was
+Logan Thomas,ThomLo00,receiving,WAS,7,5,45,0,1,29,5.8,16,3.2,9.9,0,NA,0,0,0,88.4,202109160was
+Dyami Brown,BrowDy00,receiving,WAS,6,3,34,0,1,30,10,4,1.3,14.5,0,NA,0,0,0,67.4,202109160was
+Antonio Gibson,GibsAn00,receiving,WAS,2,2,4,0,0,0,0,4,2,0,0,NA,0,0,0,79.2,202109160was
+Ricky Seals-Jones,SealRi00,receiving,WAS,1,1,19,1,1,19,19,0,0,19,0,NA,0,0,0,158.3,202109160was

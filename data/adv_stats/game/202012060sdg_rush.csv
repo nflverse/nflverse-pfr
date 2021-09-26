@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Harris,HarrDa06,rushing,NWE,16,80,3,42,2.6,38,2.4,2,8,202012060sdg
+Cam Newton,NewtCa00,rushing,NWE,14,48,6,23,1.6,25,1.8,1,14,202012060sdg
+Sony Michel,MichSo00,rushing,NWE,10,35,2,17,1.7,18,1.8,0,NA,202012060sdg
+Jarrett Stidham,StidJa00,rushing,NWE,2,-2,0,-2,-1,0,0,0,NA,202012060sdg
+Donte Moncrief,MoncDo00,rushing,NWE,1,4,1,0,0,4,4,1,1,202012060sdg
+Austin Ekeler,EkelAu00,rushing,LAC,8,36,1,23,2.9,13,1.6,0,NA,202012060sdg
+Kalen Ballage,BallKa00,rushing,LAC,7,34,3,22,3.1,12,1.7,1,7,202012060sdg

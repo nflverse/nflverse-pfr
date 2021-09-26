@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,20,65,4,24,1.2,41,2.1,2,10,201911030den
+Dontrell Hilliard,HillDo00,rushing,CLE,5,8,NA,5,1,3,0.6,0,NA,201911030den
+Baker Mayfield,MayfBa00,rushing,CLE,3,22,1,21,7,1,0.3,0,NA,201911030den
+Odell Beckham Jr.,BeckOd00,rushing,CLE,1,-5,0,-5,-5,0,0,0,NA,201911030den
+Phillip Lindsay,LindPh00,rushing,DEN,9,92,3,72,8,20,2.2,1,9,201911030den
+Brandon Allen,AlleBr00,rushing,DEN,5,13,1,11,2.2,2,0.4,0,NA,201911030den
+Royce Freeman,FreeRo00,rushing,DEN,5,15,1,5,1,10,2,0,NA,201911030den
+Courtland Sutton,SuttCo00,rushing,DEN,1,7,0,7,7,0,0,0,NA,201911030den

@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,LAC,10,42,1,31,3.1,11,1.1,0,NA,201812300den
+Austin Ekeler,EkelAu00,rushing,LAC,8,58,2,0,0,58,7.3,0,NA,201812300den
+Justin Jackson,JackJu01,rushing,LAC,6,10,1,5,0.8,5,0.8,0,NA,201812300den
+Geno Smith,SmitGe00,rushing,LAC,2,-2,NA,-2,-1,0,0,0,NA,201812300den
+Travis Benjamin,BenjTr00,rushing,LAC,1,11,1,11,11,0,0,0,NA,201812300den
+Philip Rivers,RivePh00,rushing,LAC,1,0,0,0,0,0,0,0,NA,201812300den
+Derek Watt,WattDe00,rushing,LAC,1,8,NA,2,2,6,6,1,1,201812300den
+Mike Williams,WillMi07,rushing,LAC,1,-11,0,-11,-11,0,0,0,NA,201812300den
+Royce Freeman,FreeRo00,rushing,DEN,17,60,4,27,1.6,33,1.9,0,NA,201812300den
+Devontae Booker,BookDe00,rushing,DEN,5,14,2,3,0.6,11,2.2,0,NA,201812300den
+Case Keenum,KeenCa00,rushing,DEN,3,8,1,8,2.7,0,0,0,NA,201812300den

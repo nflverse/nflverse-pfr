@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,DET,15,40,3,29,1.9,11,0.7,1,15,202010180jax
+D'Andre Swift,SwifDA00,rushing,DET,14,116,6,85,6.1,31,2.2,2,7,202010180jax
+Matthew Stafford,StafMa00,rushing,DET,5,14,2,14,2.8,0,0,0,NA,202010180jax
+Kerryon Johnson,JohnKe06,rushing,DET,4,9,1,6,1.5,3,0.8,0,NA,202010180jax
+Marvin Hall,HallMa02,rushing,DET,1,1,NA,0,0,1,1,1,1,202010180jax
+James Robinson,RobiJa00,rushing,JAX,12,29,0,15,1.3,14,1.2,0,NA,202010180jax
+Gardner Minshew II,MinsGa00,rushing,JAX,3,14,2,14,4.7,0,0,0,NA,202010180jax
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,1,1,1,0,0,1,1,0,NA,202010180jax

@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Darren Waller,WallDa01,receiving,OAK,14,13,134,0,7,68,5.2,66,5.1,6.2,0,NA,1,7.1,0,106.5,201909220min
+JJ Nelson,NelsJJ00,receiving,OAK,5,4,36,1,1,21,5.3,15,3.8,5.2,0,NA,0,0,0,136.2,201909220min
+Hunter Renfrow,RenfHu00,receiving,OAK,4,3,28,0,3,25,8.3,3,1,12.5,0,NA,0,0,0,93.7,201909220min
+Jalen Richard,RichJa01,receiving,OAK,3,3,14,0,1,4,1.3,10,3.3,1.3,0,NA,0,0,0,86.1,201909220min
+Tyrell Williams,WillTy00,receiving,OAK,3,3,29,1,2,20,6.7,9,3,6.7,0,NA,0,0,0,146.5,201909220min
+Foster Moreau,MoreFo00,receiving,OAK,2,1,1,0,NA,-1,-1,2,2,6.5,0,NA,0,0,1,16.7,201909220min
+Josh Jacobs,JacoJo01,receiving,OAK,2,0,0,0,0,0,NA,0,NA,-1,0,NA,1,50,0,39.6,201909220min
+Dalvin Cook,CookDa01,receiving,MIN,5,4,33,0,2,-7,-1.8,40,10,-2.2,0,NA,1,20,0,94.2,201909220min
+Stefon Diggs,DiggSt00,receiving,MIN,3,3,15,0,1,13,4.3,2,0.7,4.3,0,NA,0,0,0,87.5,201909220min
+Irv Smith Jr.,SmitIr01,receiving,MIN,3,3,60,0,2,32,10.7,28,9.3,10.7,0,NA,0,0,0,118.7,201909220min
+Adam Thielen,ThieAd00,receiving,MIN,5,3,55,1,2,36,12,19,6.3,11.8,0,NA,0,0,0,137.5,201909220min
+C.J. Ham,HamxC.00,receiving,MIN,2,1,0,0,NA,0,0,0,0,4.5,0,NA,1,50,0,56.2,201909220min
+Kyle Rudolph,RudoKy00,receiving,MIN,1,1,11,0,1,-3,-3,14,14,-3,0,NA,0,0,0,112.5,201909220min
+Ameer Abdullah,AbduAm00,receiving,MIN,1,0,0,0,NA,0,NA,0,NA,-3,0,NA,0,0,0,39.6,201909220min

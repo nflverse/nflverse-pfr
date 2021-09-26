@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Odell Beckham Jr.,BeckOd00,receiving,NYG,14,8,131,1,7,102,12.8,29,3.6,12.3,0,NA,1,7.1,1,82.7,201810070car
+Saquon Barkley,BarkSa00,receiving,NYG,4,4,81,2,2,31,7.8,50,12.5,7.8,0,NA,0,0,0,158.3,201810070car
+Sterling Shepard,ShepSt00,receiving,NYG,7,4,75,0,3,34,8.5,41,10.3,9.6,0,NA,0,0,1,54.8,201810070car
+Russell Shepard,ShepRu00,receiving,NYG,4,3,52,0,1,48,16,4,1.3,13,0,NA,1,25,0,116.7,201810070car
+Jawill Davis,DaviJa07,receiving,NYG,4,2,27,0,1,25,12.5,2,1,13.5,0,NA,0,0,0,71.9,201810070car
+Rhett Ellison,ElliRh00,receiving,NYG,3,2,17,0,1,10,5,7,3.5,7.7,0,NA,0,0,0,81.2,201810070car
+Scott Simonson,SimoSc00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,201810070car
+Christian McCaffrey,McCaCh01,receiving,CAR,6,5,35,1,2,-11,-2.2,46,9.2,-1,0,NA,0,0,0,130.6,201810070car
+Devin Funchess,FuncDe00,receiving,CAR,7,4,53,0,4,47,11.8,6,1.5,12,0,NA,0,0,0,81.2,201810070car
+D.J. Moore,MoorD.00,receiving,CAR,4,4,49,0,2,17,4.3,32,8,4.3,1,4,0,0,0,117.7,201810070car
+Ian Thomas,ThomIa00,receiving,CAR,6,3,38,0,1,28,9.3,10,3.3,11,0,NA,0,0,2,30.6,201810070car
+Jarius Wright,WrigJa02,receiving,CAR,6,3,25,0,1,7,2.3,18,6,10.3,0,NA,1,16.7,0,61.1,201810070car
+Curtis Samuel,SamuCu00,receiving,CAR,4,2,37,1,2,13,6.5,24,12,16,1,2,1,25,0,121.9,201810070car
+Torrey Smith,SmitTo02,receiving,CAR,1,0,0,0,NA,0,NA,0,NA,26,0,NA,0,0,0,39.6,201810070car

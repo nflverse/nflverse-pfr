@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,DEN,15,131,4,95,6.3,36,2.4,1,15,202012060kan
+Phillip Lindsay,LindPh00,rushing,DEN,14,26,2,14,1,12,0.9,0,NA,202012060kan
+KJ Hamler,HamlKJ00,rushing,DEN,2,13,0,13,6.5,0,0,0,NA,202012060kan
+Drew Lock,LockDr00,rushing,DEN,2,9,1,6,3,3,1.5,0,NA,202012060kan
+Le'Veon Bell,BellLe00,rushing,KAN,11,40,1,22,2,18,1.6,0,NA,202012060kan
+Darrel Williams,WillDa10,rushing,KAN,6,38,2,28,4.7,10,1.7,0,NA,202012060kan
+Patrick Mahomes,MahoPa00,rushing,KAN,4,26,2,26,6.5,0,0,0,NA,202012060kan
+Tyreek Hill,HillTy00,rushing,KAN,1,30,1,30,30,0,0,0,NA,202012060kan

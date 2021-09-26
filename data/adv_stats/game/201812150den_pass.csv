@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Baker Mayfield,MayfBa00,passing,CLE,18,31,188,13,39.4,314,10.1,121,6.7,3.9,67,3.7,3,10.0%,4,13.3%,2,13,3,1,6,17.6%,1,9,201812150den
+Case Keenum,KeenCa00,passing,DEN,31,48,257,17,34,290,6,104,3.4,2.2,153,4.9,2,4.7%,7,16.3%,2,21,4,4,10,19.6%,1,1,201812150den

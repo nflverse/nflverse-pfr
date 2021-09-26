@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Johnson,JohnDa08,rushing,ARI,20,69,3,22,1.1,47,2.4,2,10,201812020gnb
+Chase Edmonds,EdmoCh00,rushing,ARI,5,53,3,30,6,23,4.6,1,5,201812020gnb
+Josh Rosen,RoseJo01,rushing,ARI,2,32,1,-8,-4,40,20,0,NA,201812020gnb
+Christian Kirk,KirkCh01,rushing,ARI,1,23,1,23,23,0,0,0,NA,201812020gnb
+T.J. Logan,LogaT.00,rushing,ARI,1,5,NA,3,3,2,2,0,NA,201812020gnb
+Aaron Jones,JoneAa00,rushing,GNB,11,36,2,9,0.8,27,2.5,2,5.5,201812020gnb
+Jamaal Williams,WillJa06,rushing,GNB,7,13,0,5,0.7,8,1.1,0,NA,201812020gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,3,20,2,20,6.7,0,0,0,NA,201812020gnb
+Marquez Valdes-Scantling,ValdMa00,rushing,GNB,2,29,2,29,14.5,0,0,0,NA,201812020gnb

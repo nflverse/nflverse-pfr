@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jarvis Landry,LandJa00,receiving,CLE,10,8,62,1,6,25,3.1,37,4.6,4,0,NA,1,10,0,125.8,202012060oti
+Rashard Higgins,HiggRa00,receiving,CLE,9,6,95,1,4,71,11.8,24,4,11.7,0,NA,0,0,0,138.7,202012060oti
+Kareem Hunt,HuntKa00,receiving,CLE,3,3,24,0,2,-9,-3,33,11,-3,0,NA,0,0,0,100,202012060oti
+Donovan Peoples-Jones,PeopDo00,receiving,CLE,3,2,92,1,2,49,24.5,43,21.5,19.3,0,NA,1,33.3,0,149.3,202012060oti
+Austin Hooper,HoopAu00,receiving,CLE,2,2,24,0,1,15,7.5,9,4.5,7.5,0,NA,0,0,0,116.7,202012060oti
+Nick Chubb,ChubNi00,receiving,CLE,1,1,26,0,1,-2,-2,28,28,-2,0,NA,0,0,0,118.7,202012060oti
+David Njoku,NjokDa00,receiving,CLE,1,1,5,0,NA,-5,-5,10,10,-5,1,1,0,0,0,87.5,202012060oti
+D'Ernest Johnson,JohnDE04,receiving,CLE,1,1,5,0,NA,0,0,5,5,0,0,NA,0,0,0,87.5,202012060oti
+Kendall Lamm,LammKe00,receiving,CLE,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202012060oti
+Baker Mayfield,MayfBa00,receiving,CLE,1,1,6,0,1,5,5,1,1,5,0,NA,0,0,0,91.7,202012060oti
+Corey Davis,DaviCo03,receiving,TEN,12,11,182,1,8,132,12,50,4.5,11.4,1,11,0,0,0,146.5,202012060oti
+Anthony Firkser,FirkAn00,receiving,TEN,7,5,51,0,4,21,4.2,30,6,6.7,0,NA,0,0,0,92,202012060oti
+A.J. Brown,BrowAJ00,receiving,TEN,7,4,87,0,3,61,15.3,26,6.5,22.4,0,NA,1,14.3,0,101.5,202012060oti
+Cameron Batson,BatsCa00,receiving,TEN,3,3,14,1,2,9,3,5,1.7,3,0,NA,0,0,0,125.7,202012060oti
+Jeremy McNichols,McNiJe00,receiving,TEN,4,3,15,0,0,8,2.7,7,2.3,3,0,NA,1,25,0,80.2,202012060oti
+MyCole Pruitt,PruiMy00,receiving,TEN,2,1,22,1,1,16,16,6,6,8,0,NA,1,50,0,129.2,202012060oti
+Adam Humphries,HumpAd00,receiving,TEN,4,1,9,0,NA,9,9,0,0,9.5,0,NA,1,25,1,0,202012060oti
+Derrick Henry,HenrDe00,receiving,TEN,1,1,9,0,0,1,1,8,8,1,0,NA,0,0,0,104.2,202012060oti
+Geoff Swaim,SwaiGe00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,17,0,NA,0,0,0,39.6,202012060oti
+Aaron Brewer,BrewAa01,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,202012060oti

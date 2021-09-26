@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Malcolm Butler,ButlMa01,defense,TEN,0,6,4,66.7%,54,13.5,9,0,95.1,15.3,43,11,0,0,0,0,0,4,3,42.9%,202009270min
+Johnathan Joseph,JoseJo20,defense,TEN,1,6,4,66.7%,106,26.5,17.7,2,109.7,18.7,61,45,0,0,0,0,0,7,2,22.2%,202009270min
+Jayon Brown,BrowJa06,defense,TEN,0,6,3,50.0%,55,18.3,9.2,0,81.9,1.7,16,39,4,1,1,0,2,8,0,0.0%,202009270min
+Kevin Byard,ByarKe01,defense,TEN,0,2,2,100.0%,15,7.5,7.5,0,97.9,1.5,3,12,0,0,0,0,0,4,1,20.0%,202009270min
+Rashaan Evans,EvanRa01,defense,TEN,0,2,2,100.0%,18,9,9,0,104.2,2,4,14,4,0,0,0,0,7,1,12.5%,202009270min
+Jeffery Simmons,SimmJe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,3,1,5,5,0,0.0%,202009270min
+Harold Landry,LandHa00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,6,2,2,0,4,5,1,16.7%,202009270min
+DaQuan Jones,JoneDa04,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,1,33.3%,202009270min
+Jadeveon Clowney,ClowJa00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,0,0,2,0,2,2,1,33.3%,202009270min
+Kristian Fulton,FultKr00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,NA,NA,NA,1,0,0,1,1,2,0,0.0%,202009270min
+Kenny Vaccaro,VaccKe00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,5,2,28.6%,202009270min
+Jeff Gladney,GladJe00,defense,MIN,0,10,6,60.0%,98,16.3,9.8,0,92.9,12.1,66,32,2,0,0,0,0,5,0,0.0%,202009270min
+Eric Kendricks,KendEr00,defense,MIN,0,6,5,83.3%,55,11,9.2,0,104.9,7.3,39,16,9,1,0,0,1,10,0,0.0%,202009270min
+Kris Boyd,BoydKr00,defense,MIN,0,3,3,100.0%,52,17.3,17.3,0,118.7,8.3,25,27,0,0,0,0,0,2,1,33.3%,202009270min
+Holton Hill,HillHo00,defense,MIN,0,5,3,60.0%,65,21.7,13,0,104.2,19.4,62,3,0,0,0,0,0,7,0,0.0%,202009270min
+Harrison Smith,SmitHa00,defense,MIN,1,3,2,66.7%,35,17.5,11.7,0,66.7,9.3,28,7,2,1,1,0,2,9,2,18.2%,202009270min
+Eric Wilson,WilsEr00,defense,MIN,0,3,1,33.3%,6,6,2,0,42.4,10.3,5,1,7,1,0,1,2,7,2,22.2%,202009270min
+Anthony Harris,HarrAn01,defense,MIN,0,2,1,50.0%,5,5,2.5,0,56.2,6,5,0,2,0,0,0,0,8,0,0.0%,202009270min
+Todd Davis,DaviTo01,defense,MIN,0,1,1,100.0%,5,5,5,0,87.5,3,3,2,0,0,0,0,0,1,0,0.0%,202009270min
+Ifeadi Odenigbo,OdenIf00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,4,0,5,3,0,0.0%,202009270min
+Jalyn Holmes,HolmJa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202009270min
+Yannick Ngakoue,NgakYa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,2,50.0%,202009270min
+Hardy Nickerson,NickHa02,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,2,0,0.0%,202009270min
+Jaleel Johnson,JohnJa09,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202009270min
+D.J. Wonnum,WonnDJ00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202009270min

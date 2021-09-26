@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Boyd,BoydTy00,receiving,CIN,11,6,68,0,4,47,7.8,21,3.5,8.8,2,3,0,0,1,35.4,201909220buf
+Auden Tate,TateAu00,receiving,CIN,10,6,88,0,3,53,8.8,35,5.8,8.5,1,6,0,0,1,49.2,201909220buf
+Giovani Bernard,BernGi00,receiving,CIN,2,2,7,0,NA,-1,-0.5,8,4,-0.5,0,NA,0,0,0,81.2,201909220buf
+John Ross,RossJo00,receiving,CIN,6,2,22,0,1,18,9,4,2,12,1,2,1,16.7,0,45.1,201909220buf
+Joe Mixon,MixoJo00,receiving,CIN,2,2,34,1,2,-3,-1.5,37,18.5,-1.5,0,NA,0,0,0,158.3,201909220buf
+Tyler Eifert,EifeTy00,receiving,CIN,1,1,18,0,1,17,17,1,1,17,0,NA,0,0,0,118.7,201909220buf
+Alex Erickson,EricAl01,receiving,CIN,1,1,13,0,1,6,6,7,7,6,0,NA,0,0,0,118.7,201909220buf
+C.J. Uzomah,UzomC.00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,201909220buf
+Cole Beasley,BeasCo00,receiving,BUF,10,8,48,0,2,26,3.3,22,2.8,3.8,0,NA,0,0,1,47.1,201909220buf
+John Brown,BrowJo02,receiving,BUF,5,4,51,0,3,51,12.8,0,0,11.4,0,NA,0,0,0,109.2,201909220buf
+Dawson Knox,KnoxDa00,receiving,BUF,4,3,67,1,3,29,9.7,38,12.7,12.3,2,1.5,1,25,0,156.2,201909220buf
+Zay Jones,JoneZa00,receiving,BUF,3,2,33,0,2,20,10,13,6.5,20,0,NA,0,0,0,103.5,201909220buf
+Frank Gore,GoreFr00,receiving,BUF,2,2,13,0,1,-3,-1.5,16,8,-1.5,0,NA,0,0,0,93.7,201909220buf
+T.J. Yeldon,YeldT.00,receiving,BUF,3,2,19,0,1,1,0.5,18,9,1.3,1,2,0,0,0,84,201909220buf
+Isaiah McKenzie,McKeIs00,receiving,BUF,1,1,9,0,0,-5,-5,14,14,-5,0,NA,0,0,0,104.2,201909220buf
+Tommy Sweeney,SweeTo00,receiving,BUF,3,1,3,0,NA,2,2,1,1,14,0,NA,0,0,0,42.4,201909220buf
+Lee Smith,SmitLe00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,10,0,NA,1,100,0,39.6,201909220buf
+Robert Foster,FostRo01,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,40,0,NA,0,0,0,39.6,201909220buf

@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Duke Johnson,JohnDu00,rushing,HOU,14,54,4,43,3.1,11,0.8,1,14,202011150cle
+Deshaun Watson,WatsDe00,rushing,HOU,8,36,4,36,4.5,0,0,0,NA,202011150cle
+Nick Chubb,ChubNi00,rushing,CLE,19,126,8,114,6,12,0.6,1,19,202011150cle
+Kareem Hunt,HuntKa00,rushing,CLE,19,104,5,74,3.9,30,1.6,3,6.3,202011150cle
+Baker Mayfield,MayfBa00,rushing,CLE,3,1,0,1,0.3,0,0,0,NA,202011150cle

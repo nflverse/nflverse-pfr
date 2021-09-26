@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alex Collins,CollAl00,rushing,BAL,12,59,4,14,1.2,45,3.8,3,4,201810070cle
+Javorius Allen,AlleJa01,rushing,BAL,8,34,2,13,1.6,21,2.6,0,NA,201810070cle
+Lamar Jackson,JackLa00,rushing,BAL,3,10,1,3,1,7,2.3,0,NA,201810070cle
+Joe Flacco,FlacJo00,rushing,BAL,2,13,2,12,6,1,0.5,0,NA,201810070cle
+Carlos Hyde,HydeCa00,rushing,CLE,17,63,4,3,0.2,60,3.5,3,5.7,201810070cle
+Duke Johnson,JohnDu00,rushing,CLE,5,35,2,12,2.4,23,4.6,0,NA,201810070cle
+Nick Chubb,ChubNi00,rushing,CLE,3,2,NA,-3,-1,5,1.7,0,NA,201810070cle
+Baker Mayfield,MayfBa00,rushing,CLE,2,23,0,21,10.5,2,1,0,NA,201810070cle
+Rod Streater,StreRo00,rushing,CLE,1,-11,NA,-11,-11,0,0,0,NA,201810070cle

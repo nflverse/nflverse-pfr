@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dallas Goedert,GoedDa00,receiving,PHI,6,5,77,1,4,36,7.2,41,8.2,5.5,1,5,0,0,0,158.3,202011220cle
+Jalen Reagor,ReagJa00,receiving,PHI,5,4,52,0,3,29,7.3,23,5.8,8.2,0,NA,0,0,0,110,202011220cle
+Miles Sanders,SandMi01,receiving,PHI,5,3,15,0,1,5,1.7,10,3.3,0,1,3,0,0,1,25,202011220cle
+Boston Scott,ScotBo02,receiving,PHI,3,3,26,0,1,11,3.7,15,5,3.7,0,NA,0,0,0,102.8,202011220cle
+Greg Ward,WardGr02,receiving,PHI,4,3,9,0,NA,-3,-1,12,4,4.3,0,NA,0,0,0,77.1,202011220cle
+Richard Rodgers,RodgRi00,receiving,PHI,2,2,48,1,2,44,22,4,2,22,0,NA,0,0,0,158.3,202011220cle
+Travis Fulgham,FulgTr00,receiving,PHI,7,1,8,0,NA,8,8,0,0,13.4,0,NA,0,0,0,39.6,202011220cle
+Alshon Jeffery,JeffAl00,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,3.5,0,NA,0,0,1,0,202011220cle
+Rashard Higgins,HiggRa00,receiving,CLE,4,3,65,0,2,63,21,2,0.7,20.8,0,NA,0,0,0,116.7,202011220cle
+KhaDarel Hodge,HodgKh00,receiving,CLE,5,3,73,0,3,59,19.7,14,4.7,24,0,NA,0,0,0,104.2,202011220cle
+Austin Hooper,HoopAu00,receiving,CLE,5,3,33,0,1,22,7.3,11,3.7,4.8,0,NA,1,20,0,79.6,202011220cle
+Jarvis Landry,LandJa00,receiving,CLE,2,2,23,0,2,16,8,7,3.5,8,0,NA,0,0,0,114.6,202011220cle
+Kareem Hunt,HuntKa00,receiving,CLE,1,1,10,0,1,2,2,8,8,2,0,NA,0,0,0,108.3,202011220cle
+David Njoku,NjokDa00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,202011220cle

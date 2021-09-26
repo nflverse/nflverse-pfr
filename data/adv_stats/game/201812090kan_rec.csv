@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Willie Snead,SneaWi00,receiving,BAL,7,5,61,0,5,55,11,6,1.2,11,0,NA,0,0,0,97.9,201812090kan
+Michael Crabtree,CrabMi00,receiving,BAL,4,3,31,0,3,26,8.7,5,1.7,10.8,0,NA,0,0,0,96.9,201812090kan
+John Brown,BrowJo02,receiving,BAL,6,2,23,1,2,23,11.5,0,0,11.2,0,NA,0,0,0,85.4,201812090kan
+Maxx Williams,WillMa04,receiving,BAL,1,1,10,1,1,3,3,7,7,3,0,NA,0,0,0,147.9,201812090kan
+Ty Montgomery,MontTy01,receiving,BAL,3,1,1,0,NA,-3,-3,4,4,1,0,NA,0,0,0,42.4,201812090kan
+Kenneth Dixon,DixoKe00,receiving,BAL,1,1,21,0,1,4,4,17,17,4,0,NA,0,0,0,118.7,201812090kan
+Chris Moore,MoorCh00,receiving,BAL,2,0,0,0,NA,0,NA,0,NA,49.5,0,NA,0,0,0,39.6,201812090kan
+Mark Andrews,AndrMa00,receiving,BAL,2,0,0,0,NA,0,NA,0,NA,5.5,0,NA,1,50,0,39.6,201812090kan
+Tyreek Hill,HillTy00,receiving,KAN,14,8,139,0,6,48,6,91,11.4,13.7,0,NA,2,14.3,1,61.3,201812090kan
+Travis Kelce,KelcTr00,receiving,KAN,9,7,77,1,6,60,8.6,17,2.4,9.1,0,NA,1,11.1,0,139.4,201812090kan
+Demarcus Robinson,RobiDe01,receiving,KAN,7,5,42,0,1,16,3.2,26,5.2,12,0,NA,0,0,0,86.6,201812090kan
+Spencer Ware,WareSp00,receiving,KAN,5,5,54,0,2,-12,-2.4,66,13.2,-2.4,3,1.7,0,0,0,111.7,201812090kan
+Damien Williams,WillDa05,receiving,KAN,5,4,16,1,1,-3,-0.8,19,4.8,0.2,1,4,0,0,0,119.6,201812090kan
+Demetrius Harris,HarrDe03,receiving,KAN,3,3,28,0,2,-2,-0.7,30,10,-0.7,1,3,0,0,0,105.6,201812090kan
+Chris Conley,ConlCh00,receiving,KAN,3,2,13,0,NA,3,1.5,10,5,6.7,0,NA,0,0,0,75.7,201812090kan
+Darrel Williams,WillDa10,receiving,KAN,1,1,8,0,NA,-4,-4,12,12,-4,0,NA,0,0,0,100,201812090kan
+Anthony Sherman,SherAn00,receiving,KAN,1,0,0,0,0,0,NA,0,NA,4,0,NA,1,100,0,39.6,201812090kan

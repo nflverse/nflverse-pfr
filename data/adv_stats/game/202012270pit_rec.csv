@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jack Doyle,DoylJa00,receiving,IND,6,4,50,0,2,44,11,6,1.5,10.3,0,NA,0,0,0,92.4,202012270pit
+Nyheim Hines,HineNy00,receiving,IND,4,4,20,0,1,-8,-2,28,7,-2,1,4,0,0,0,87.5,202012270pit
+Trey Burton,BurtTr01,receiving,IND,4,3,18,0,NA,7,2.3,11,3.7,5.8,0,NA,1,25,0,83.3,202012270pit
+T.Y. Hilton,HiltT.00,receiving,IND,7,3,60,0,3,36,12,24,8,18.9,1,3,0,0,0,73.5,202012270pit
+Zach Pascal,PascZa00,receiving,IND,6,3,64,1,2,46,15.3,18,6,12,0,NA,0,0,0,127.8,202012270pit
+Michael Pittman Jr.,PittMi01,receiving,IND,6,3,38,0,1,10,3.3,28,9.3,15.7,2,1.5,0,0,1,30.6,202012270pit
+Mo Alie-Cox,AlieMo00,receiving,IND,1,1,20,0,1,4,4,16,16,4,0,NA,0,0,0,118.7,202012270pit
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,13,9,96,1,6,65,7.2,31,3.4,6.8,0,NA,0,0,0,116.2,202012270pit
+Diontae Johnson,JohnDi01,receiving,PIT,14,8,74,1,2,60,7.5,14,1.8,10.4,0,NA,1,7.1,0,95.5,202012270pit
+James Conner,ConnJa00,receiving,PIT,5,5,45,0,3,-7,-1.4,52,10.4,-1.4,1,5,0,0,0,104.2,202012270pit
+Eric Ebron,EbroEr00,receiving,PIT,7,5,47,1,4,25,5,22,4.4,6,0,NA,0,0,0,129.2,202012270pit
+Chase Claypool,ClayCh01,receiving,PIT,6,4,54,0,2,39,9.8,15,3.8,8.2,0,NA,1,16.7,0,95.1,202012270pit
+James Washington,WashJa00,receiving,PIT,3,2,20,0,1,20,10,0,0,7.3,0,NA,0,0,0,85.4,202012270pit
+Vance McDonald,McDoVa00,receiving,PIT,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,202012270pit

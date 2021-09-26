@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kerryon Johnson,JohnKe06,rushing,DET,8,32,3,18,2.3,14,1.8,0,NA,202009200gnb
+Adrian Peterson,PeteAd01,rushing,DET,7,41,3,30,4.3,11,1.6,0,NA,202009200gnb
+D'Andre Swift,SwifDA00,rushing,DET,5,12,1,4,0.8,8,1.6,0,NA,202009200gnb
+Matthew Stafford,StafMa00,rushing,DET,1,4,1,4,4,0,0,0,NA,202009200gnb
+Aaron Jones,JoneAa00,rushing,GNB,18,168,5,64,3.6,104,5.8,0,NA,202009200gnb
+Jamaal Williams,WillJa06,rushing,GNB,8,63,3,40,5,23,2.9,0,NA,202009200gnb
+AJ Dillon,DillAJ00,rushing,GNB,5,17,1,4,0.8,13,2.6,2,2.5,202009200gnb
+Tim Boyle,BoylTi00,rushing,GNB,2,-1,NA,-1,-0.5,0,0,0,NA,202009200gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,2,12,0,12,6,0,0,0,NA,202009200gnb

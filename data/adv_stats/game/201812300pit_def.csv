@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Nick Vigil,VigiNi00,defense,CIN,0,11,9,81.8%,91,10.1,8.3,0,101.1,2.7,11,80,4,0,1,0,1,17,1,5.6%,201812300pit
+KeiVarae Russell,RussKe00,defense,CIN,0,10,8,80.0%,99,12.4,9.9,1,141.2,7,51,48,0,0,0,0,0,6,2,25.0%,201812300pit
+Darqueze Dennard,DennDa00,defense,CIN,0,8,5,62.5%,44,8.8,5.5,0,77.1,6.3,13,31,1,0,0,0,0,7,1,12.5%,201812300pit
+William Jackson III,JackWi02,defense,CIN,0,4,2,50.0%,8,4,2,0,56.2,9.3,3,5,0,0,0,0,0,3,1,25.0%,201812300pit
+Shawn Williams,WillSh02,defense,CIN,1,3,2,66.7%,16,8,5.3,0,40.3,2,-5,21,1,0,0,0,0,8,1,11.1%,201812300pit
+Christian Ringo,RingCh00,defense,CIN,0,1,1,100.0%,12,12,12,0,116.7,-3,-3,15,0,0,1,1,2,2,0,0.0%,201812300pit
+Darius Phillips,PhilDa02,defense,CIN,0,1,1,100.0%,2,2,2,0,79.2,2,2,0,0,0,0,0,0,1,0,0.0%,201812300pit
+Hardy Nickerson,NickHa02,defense,CIN,0,2,1,50.0%,3,3,1.5,0,56.2,3,3,0,2,0,0,0,0,3,0,0.0%,201812300pit
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,0,3,0,0,NA,201812300pit
+Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,4,1,20.0%,201812300pit
+Geno Atkins,AtkiGe99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812300pit
+Jessie Bates III,BateJe00,defense,CIN,0,3,0,0.0%,NA,NA,0,NA,39.6,15.7,NA,NA,0,0,0,0,0,3,0,0.0%,201812300pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,2,2,100.0%,16,8,8,0,100,7.5,15,1,0,0,0,0,0,5,1,16.7%,201812300pit
+Morgan Burnett,BurnMo99,defense,PIT,0,3,2,66.7%,1,0.5,0.3,0,70.1,9.3,-1,2,2,0,0,0,0,3,0,0.0%,201812300pit
+L.J. Fort,FortL.00,defense,PIT,0,4,2,50.0%,20,10,5,0,64.6,1,4,16,6,0,0,0,0,8,0,0.0%,201812300pit
+Cameron Sutton,SuttCa00,defense,PIT,0,1,1,100.0%,13,13,13,0,118.7,13,13,0,2,0,2,0,2,2,0,0.0%,201812300pit
+T.J. Watt,WattT.00,defense,PIT,0,1,1,100.0%,5,5,5,0,87.5,5,5,0,0,0,0,1,1,7,0,0.0%,201812300pit
+Marcus Allen,AlleMa03,defense,PIT,0,1,1,100.0%,13,13,13,0,118.7,9,9,4,0,0,0,0,0,1,0,0.0%,201812300pit
+Mike Hilton,HiltMi01,defense,PIT,0,1,1,100.0%,11,11,11,0,112.5,5,5,6,1,0,0,0,0,1,0,0.0%,201812300pit
+Jordan Dangerfield,DangJo00,defense,PIT,0,1,1,100.0%,10,10,10,0,108.3,10,10,0,0,0,0,0,0,2,1,33.3%,201812300pit
+Coty Sensabaugh,SensCo00,defense,PIT,0,4,1,25.0%,15,15,3.8,0,42.7,14.3,13,2,0,0,0,0,0,2,0,0.0%,201812300pit
+Joe Haden,HadeJo99,defense,PIT,0,5,1,20.0%,1,1,0.2,0,39.6,15.8,-2,3,0,0,0,0,0,1,0,0.0%,201812300pit
+Stephon Tuitt,TuitSt00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0.5,2,3,0,0.0%,201812300pit
+Cameron Heyward,HeywCa01,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,2,2,2,0,0.0%,201812300pit
+Bud Dupree,DuprAl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201812300pit
+Anthony Chickillo,ChicAn00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,0,0.0%,201812300pit
+Javon Hargrave,HargJa00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201812300pit

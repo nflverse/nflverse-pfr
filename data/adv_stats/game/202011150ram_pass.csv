@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Russell Wilson,WilsRu00,passing,SEA,22,37,248,13,30.2,367,9.9,105,4.8,2.8,143,6.5,1,2.9%,8,22.9%,6,13,3,7,16,32.0%,7,8.6,202011150ram
+Jared Goff,GoffJa00,passing,LAR,27,37,302,15,37.5,277,7.5,140,5.2,3.8,162,6,3,8.3%,4,11.1%,3,21,3,2,8,19.0%,2,2.5,202011150ram

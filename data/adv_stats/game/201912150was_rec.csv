@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Boston Scott,ScotBo02,receiving,PHI,7,7,39,0,2,-13,-1.9,52,7.4,-1.9,0,NA,0,0,0,89.9,201912150was
+Greg Ward,WardGr02,receiving,PHI,9,7,61,1,5,46,6.6,15,2.1,6.9,0,NA,0,0,0,131.9,201912150was
+Miles Sanders,SandMi01,receiving,PHI,6,6,50,1,2,-5,-0.8,55,9.2,-0.8,1,6,0,0,0,141,201912150was
+Zach Ertz,ErtzZa00,receiving,PHI,10,5,61,1,4,32,6.4,29,5.8,10.1,1,5,1,10,0,102.5,201912150was
+Dallas Goedert,GoedDa00,receiving,PHI,6,5,55,0,2,16,3.2,39,7.8,5.8,1,5,0,0,0,104.9,201912150was
+JJ Arcega-Whiteside,ArceJJ00,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,15.5,0,NA,0,0,0,39.6,201912150was
+Terry McLaurin,McLaTe00,receiving,WAS,5,5,130,1,3,63,12.6,67,13.4,12.6,1,5,0,0,0,158.3,201912150was
+Steven Sims,SimsSt00,receiving,WAS,11,5,45,1,2,29,5.8,16,3.2,9.5,0,NA,2,18.2,0,87.3,201912150was
+Adrian Peterson,PeteAd01,receiving,WAS,3,3,25,0,1,-6,-2,31,10.3,-2,2,1.5,0,0,0,101.4,201912150was
+Kelvin Harmon,HarmKe00,receiving,WAS,3,2,22,0,1,20,10,2,1,8.3,0,NA,0,0,0,88.2,201912150was
+Jeremy Sprinkle,SpriJe00,receiving,WAS,2,2,13,0,1,13,6.5,0,0,6.5,0,NA,0,0,0,93.7,201912150was
+Chris Thompson,ThomCh03,receiving,WAS,3,2,26,0,2,-2,-1,28,14,0.7,1,2,0,0,0,93.7,201912150was

@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Johnson,JohnDa08,rushing,ARI,13,48,1,25,1.9,23,1.8,0,NA,201809160ram
+Derrick Coleman,ColeDe00,rushing,ARI,1,1,NA,1,1,0,0,0,NA,201809160ram
+Chase Edmonds,EdmoCh00,rushing,ARI,1,5,0,4,4,1,1,0,NA,201809160ram
+Todd Gurley,GurlTo01,rushing,LAR,19,42,5,10,0.5,32,1.7,1,19,201809160ram
+Malcolm Brown,BrowMa03,rushing,LAR,12,46,2,19,1.6,27,2.3,1,12,201809160ram
+Jared Goff,GoffJa00,rushing,LAR,2,2,1,1,0.5,1,0.5,0,NA,201809160ram

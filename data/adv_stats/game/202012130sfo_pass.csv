@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Alex Smith,SmitAl03,passing,WAS,8,19,57,4,20,157,8.3,23,2.9,1.2,34,4.3,0,0.0%,8,47.1%,1,4,5,2,8,40.0%,0,NA,202012130sfo
+Dwayne Haskins,HaskDw00,passing,WAS,7,12,51,3,23.1,43,3.6,24,3.4,2,27,3.9,0,0.0%,4,36.4%,1,4,1,0,2,15.4%,0,NA,202012130sfo
+Isaiah Wright,WrigIs01,passing,WAS,0,1,0,0,0,-3,-3,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,1,1,100.0%,0,NA,202012130sfo
+Nick Mullens,MullNi00,passing,SFO,25,45,260,13,26.5,268,6,129,5.2,2.9,131,5.2,4,9.1%,5,11.4%,4,23,7,8,19,38.8%,0,NA,202012130sfo

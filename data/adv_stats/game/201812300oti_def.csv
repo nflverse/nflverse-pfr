@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Darius Leonard,LeonDa00,defense,IND,1,8,7,87.5%,65,9.3,8.1,1,100.5,5.3,16,49,3,0,0,0,0,8,0,0.0%,201812300oti
+Kenny Moore,MoorKe03,defense,IND,1,6,5,83.3%,42,8.4,7,0,56.2,6.5,26,16,3,0,0,0,0,4,1,20.0%,201812300oti
+Pierre Desir,DesiPi00,defense,IND,0,8,5,62.5%,30,6,3.8,0,69.8,9.5,6,24,0,0,0,0,0,6,1,14.3%,201812300oti
+Zaire Franklin,FranZa00,defense,IND,0,2,2,100.0%,20,10,10,0,108.3,3,6,14,0,0,0,0,0,3,0,0.0%,201812300oti
+Matthew Adams,AdamMa00,defense,IND,0,1,1,100.0%,5,5,5,0,87.5,-3,-3,8,0,0,0,0,0,2,0,0.0%,201812300oti
+Malik Hooker,HookMa00,defense,IND,0,2,1,50.0%,17,17,8.5,0,79.2,14,14,3,0,0,0,0,0,3,1,25.0%,201812300oti
+Denico Autry,AutrDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,201812300oti
+George Odum,OdumGe00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,18,NA,NA,0,0,0,0,0,7,2,22.2%,201812300oti
+Quincy Wilson,WilsQu01,defense,IND,0,3,0,0.0%,NA,NA,0,NA,39.6,13,NA,NA,0,0,0,0,0,1,0,0.0%,201812300oti
+Anthony Walker,WalkAn01,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,14,NA,NA,0,0,0,0,0,2,2,50.0%,201812300oti
+J.J. Wilcox,WilcJ.00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,1,0,0,0,0,2,0,0.0%,201812300oti
+Malcolm Butler,ButlMa01,defense,TEN,0,8,6,75.0%,73,12.2,9.1,0,102.6,9.3,61,12,0,0,0,0,0,6,1,14.3%,201812300oti
+Wesley Woodyard,WoodWe20,defense,TEN,0,6,5,83.3%,44,8.8,7.3,1,136.8,2.3,14,30,2,0,0,0,0,14,0,0.0%,201812300oti
+Adoree' Jackson,JackAd00,defense,TEN,0,6,4,66.7%,94,23.5,15.7,0,109.7,12.3,38,56,3,0,0,0,0,4,0,0.0%,201812300oti
+Jayon Brown,BrowJa06,defense,TEN,1,5,3,60.0%,15,5,3,0,25,3.4,-10,25,0,0,0,0,0,9,2,18.2%,201812300oti
+Kevin Byard,ByarKe01,defense,TEN,0,4,3,75.0%,24,8,6,1,129.2,10.3,20,4,0,0,0,0,0,10,1,9.1%,201812300oti
+LeShaun Sims,SimsLe00,defense,TEN,0,4,2,50.0%,20,10,5,0,64.6,12.3,19,1,4,0,0,0,0,4,1,20.0%,201812300oti
+Rashaan Evans,EvanRa01,defense,TEN,0,2,1,50.0%,6,6,3,0,56.2,8,5,1,1,0,0,0,0,3,0,0.0%,201812300oti
+Derrick Morgan,MorgDe99,defense,TEN,0,1,1,100.0%,22,22,22,0,118.7,15,15,7,0,0,0,0,0,2,0,0.0%,201812300oti
+Kenny Vaccaro,VaccKe00,defense,TEN,0,3,1,33.3%,11,11,3.7,1,84.7,11.3,11,0,1,0,0,0,0,9,0,0.0%,201812300oti
+Harold Landry,LandHa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,4,0,0.0%,201812300oti
+Matt Dickerson,DickMa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812300oti
+DaQuan Jones,JoneDa04,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,201812300oti
+Austin Johnson,JohnAu01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812300oti
+Sharif Finch,FincSh00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,201812300oti

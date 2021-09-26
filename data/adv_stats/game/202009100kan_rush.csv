@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Johnson,JohnDa08,rushing,HOU,11,77,4,34,3.1,43,3.9,0,NA,202009100kan
+Deshaun Watson,WatsDe00,rushing,HOU,6,27,3,17,2.8,10,1.7,0,NA,202009100kan
+Duke Johnson,JohnDu00,rushing,HOU,5,14,1,5,1,9,1.8,0,NA,202009100kan
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,25,138,6,38,1.5,100,4,0,NA,202009100kan
+Darrel Williams,WillDa10,rushing,KAN,7,23,2,10,1.4,13,1.9,0,NA,202009100kan
+Anthony Sherman,SherAn00,rushing,KAN,1,2,1,0,0,2,2,0,NA,202009100kan
+Sammy Watkins,WatkSa00,rushing,KAN,1,3,0,1,1,2,2,0,NA,202009100kan

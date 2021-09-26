@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Raheem Mostert,MostRa00,rushing,SFO,13,83,4,34,2.6,49,3.8,1,13,201909150cin
+Matt Breida,BreiMa00,rushing,SFO,12,121,4,62,5.2,59,4.9,0,NA,201909150cin
+Jeff Wilson,WilsJe01,rushing,SFO,10,34,4,27,2.7,7,0.7,0,NA,201909150cin
+Jimmy Garoppolo,GaroJi00,rushing,SFO,4,8,1,6,1.5,2,0.5,0,NA,201909150cin
+Deebo Samuel,SamuDe00,rushing,SFO,2,7,0,5,2.5,2,1,0,NA,201909150cin
+Kyle Juszczyk,JuszKy00,rushing,SFO,1,6,0,3,3,3,3,0,NA,201909150cin
+Joe Mixon,MixoJo00,rushing,CIN,11,17,2,7,0.6,10,0.9,0,NA,201909150cin
+Giovani Bernard,BernGi00,rushing,CIN,6,6,NA,5,0.8,1,0.2,0,NA,201909150cin
+Andy Dalton,DaltAn00,rushing,CIN,2,2,0,2,1,0,0,0,NA,201909150cin

@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+B.W. Webb,WebbBW00,defense,CIN,0,9,6,66.7%,83,13.8,9.2,0,96.1,11.6,70,13,0,0,0,0,0,7,1,12.5%,201912220mia
+Shawn Williams,WillSh02,defense,CIN,0,5,5,100.0%,44,8.8,8.8,0,103.3,4,20,24,5,1,1,1,3,13,4,23.5%,201912220mia
+Darqueze Dennard,DennDa00,defense,CIN,0,8,5,62.5%,68,13.6,8.5,1,129.2,8.1,35,33,2,0,1,0,1,8,1,11.1%,201912220mia
+William Jackson III,JackWi02,defense,CIN,0,10,4,40.0%,111,27.8,11.1,2,121.2,18,101,10,0,0,0,0,0,2,0,0.0%,201912220mia
+Nick Vigil,VigiNi00,defense,CIN,0,5,3,60.0%,34,11.3,6.8,0,80.4,3.4,17,17,7,1,0,0,1,4,1,20.0%,201912220mia
+Jessie Bates III,BateJe00,defense,CIN,0,2,2,100.0%,20,10,10,1,147.9,9.5,19,1,2,0,0,0,0,4,1,20.0%,201912220mia
+Germaine Pratt,PratGe00,defense,CIN,0,3,2,66.7%,14,7,4.7,0,77.1,3,9,5,5,0,0,0,0,11,0,0.0%,201912220mia
+Carl Lawson,LawsCa00,defense,CIN,0,1,1,100.0%,28,28,28,0,118.7,9,9,19,0,1,4,0,5,2,0,0.0%,201912220mia
+Darius Phillips,PhilDa02,defense,CIN,1,4,1,25.0%,6,6,1.5,0,0,14.3,5,1,1,1,0,0,1,1,0,0.0%,201912220mia
+Clayton Fejedelem,FejeCl00,defense,CIN,0,1,1,100.0%,7,7,7,0,95.8,4,4,3,0,0,0,0,0,3,0,0.0%,201912220mia
+Hardy Nickerson,NickHa02,defense,CIN,0,1,1,100.0%,4,4,4,0,83.3,4,4,0,2,0,0,0,0,1,0,0.0%,201912220mia
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,2,0,2,4,0,0.0%,201912220mia
+Geno Atkins,AtkiGe99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201912220mia
+Sam Hubbard,HubbSa00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,9,NA,NA,1,0,0,1,1,7,0,0.0%,201912220mia
+Andrew Billings,BillAn00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201912220mia
+Greg Mabin,MabiGr00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,19,NA,NA,0,0,0,0,0,0,0,NA,201912220mia
+Nik Needham,NeedNi00,defense,MIA,0,9,7,77.8%,117,16.7,13,2,158.3,12,88,29,0,0,0,0,0,4,1,20.0%,201912220mia
+Eric Rowe,RoweEr00,defense,MIA,0,9,4,44.4%,43,10.8,4.8,0,59,8.1,38,5,2,0,0,0,0,4,0,0.0%,201912220mia
+Montre Hartage,HartMo01,defense,MIA,0,4,4,100.0%,36,9,9,0,104.2,7,28,8,0,0,0,0,0,4,0,0.0%,201912220mia
+Tae Hayes,HayeTa00,defense,MIA,0,9,4,44.4%,55,13.8,6.1,0,64.6,19.6,39,16,2,0,0,0,0,3,1,25.0%,201912220mia
+Jerome Baker,BakeJe00,defense,MIA,0,5,3,60.0%,31,10.3,6.2,0,77.9,4.2,17,14,6,0,0,0.5,1,12,1,7.7%,201912220mia
+Nate Brooks,BrooNa00,defense,MIA,0,6,3,50.0%,23,7.7,3.8,0,59.7,9.7,19,4,0,0,0,0,0,4,0,0.0%,201912220mia
+Linden Stephens,StepLi00,defense,MIA,0,2,2,100.0%,27,13.5,13.5,0,118.7,13,26,1,0,0,0,0,0,1,0,0.0%,201912220mia
+Jamal Perry,WiltJo01,defense,MIA,0,4,2,50.0%,17,8.5,4.3,0,61.5,5,1,16,1,0,0,0,0,3,3,50.0%,201912220mia
+Vince Biegel,BiegVi00,defense,MIA,0,1,1,100.0%,-2,-2,-2,0,79.2,2,2,-4,7,0,0,0.5,1,2,0,0.0%,201912220mia
+Andrew Van Ginkel,VanGAn00,defense,MIA,0,1,1,100.0%,6,6,6,0,91.7,-5,-5,11,10,0,1,0,1,2,1,33.3%,201912220mia
+Calvin Munson,MunsCa00,defense,MIA,0,1,1,100.0%,10,10,10,0,108.3,1,1,9,2,0,0,0,0,5,0,0.0%,201912220mia
+Zach Sieler,SielZa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,7,1,12.5%,201912220mia
+Christian Wilkins,WilkCh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201912220mia
+Trent Harris,HarrTr01,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,0,0.5,2,5,1,16.7%,201912220mia
+Davon Godchaux,GodcDa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,6,2,25.0%,201912220mia
+Adrian Colbert,ColbAd00,defense,MIA,0,1,0,0.0%,NA,NA,0,NA,39.6,47,NA,NA,0,0,0,0,0,4,0,0.0%,201912220mia

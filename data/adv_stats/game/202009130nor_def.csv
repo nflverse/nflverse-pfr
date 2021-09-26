@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,5,4,80.0%,12,3,2.4,0,79.2,3,3,9,2,1,0,0,1,5,1,16.7%,202009130nor
+Devin White,WhitDe02,defense,TAM,0,5,4,80.0%,22,5.5,4.4,0,85,-1.2,-6,28,6,0,0,0,0,11,1,8.3%,202009130nor
+Carlton Davis,DaviCa02,defense,TAM,0,5,3,60.0%,14,4.7,2.8,1,104.2,7.8,8,6,0,0,0,0,0,4,1,20.0%,202009130nor
+Jamel Dean,DeanJa00,defense,TAM,0,4,3,75.0%,56,18.7,14,0,116.7,12,45,11,0,0,0,0,0,7,0,0.0%,202009130nor
+Jordan Whitehead,WhitJo03,defense,TAM,0,4,2,50.0%,48,24,12,0,93.7,13.5,27,21,0,0,0,0,0,6,0,0.0%,202009130nor
+Jason Pierre-Paul,PierJa99,defense,TAM,0,2,1,50.0%,4,4,2,0,56.2,6.5,3,1,0,0,0,1,1,3,0,0.0%,202009130nor
+Lavonte David,DaviLa00,defense,TAM,0,1,1,100.0%,18,18,18,0,118.7,16,16,2,3,0,1,0,1,11,0,0.0%,202009130nor
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,2,1,50.0%,17,17,8.5,0,79.2,-2,-7,24,2,0,1,0,1,6,1,14.3%,202009130nor
+Vita Vea,VeaxVi00,defense,TAM,0,1,1,100.0%,12,12,12,1,156.2,-4,-4,16,0,0,0,0,0,1,1,50.0%,202009130nor
+Shaquil Barrett,BarrSh00,defense,TAM,0,3,0,0.0%,NA,NA,0,NA,39.6,0.3,NA,NA,9,4,0,0,4,3,1,25.0%,202009130nor
+Chauncey Gardner-Johnson,GardCh00,defense,NOR,0,6,6,100.0%,29,4.8,4.8,0,86.8,0.2,1,28,1,0,0,0,0,10,2,16.7%,202009130nor
+Janoris Jenkins,JenkJa03,defense,NOR,1,8,6,75.0%,96,16,12,0,75,13.6,75,21,0,0,0,0,0,9,1,10.0%,202009130nor
+Demario Davis,DaviDe00,defense,NOR,0,5,3,60.0%,20,6.7,4,1,108.3,5,11,9,4,1,0,1,2,6,0,0.0%,202009130nor
+Marcus Williams,WillMa06,defense,NOR,1,3,2,66.7%,17,8.5,5.7,1,81.2,12,10,7,0,0,0,0,0,1,0,0.0%,202009130nor
+D.J. Swearinger,SweaDJ00,defense,NOR,0,2,2,100.0%,44,22,22,0,118.7,21,42,2,0,0,0,0,0,4,0,0.0%,202009130nor
+Malcolm Jenkins,JenkMa99,defense,NOR,0,4,1,25.0%,14,14,3.5,0,41.7,12.5,0,14,4,1,0,0,1,6,0,0.0%,202009130nor
+Cameron Jordan,JordCa00,defense,NOR,0,1,1,100.0%,8,8,8,0,100,-2,-2,10,0,0,1,0,1,4,0,0.0%,202009130nor
+Patrick Robinson,RobiPa99,defense,NOR,0,1,1,100.0%,9,9,9,0,104.2,9,9,0,0,0,0,0,0,1,0,0.0%,202009130nor
+Margus Hunt,HuntMa00,defense,NOR,0,1,1,100.0%,2,2,2,0,79.2,3,3,-1,0,0,0,0,0,1,0,0.0%,202009130nor
+Trey Hendrickson,HendTr00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,4,0,0.0%,202009130nor
+Sheldon Rankins,RankSh00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,202009130nor
+Carl Granderson,GranCa01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202009130nor
+Alex Anzalone,AnzaAl00,defense,NOR,0,2,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,0,0,0,0,4,0,0.0%,202009130nor
+Marshon Lattimore,LattMa01,defense,NOR,0,2,0,0.0%,NA,NA,0,NA,39.6,9.5,NA,NA,0,0,0,0,0,2,0,0.0%,202009130nor
+David Onyemata,OnyeDa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202009130nor

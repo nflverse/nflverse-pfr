@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Marlon Mack,MackMa00,rushing,IND,24,148,8,99,4.1,49,2,0,NA,201901050htx
+Andrew Luck,LuckAn00,rushing,IND,8,29,1,29,3.6,0,0,0,NA,201901050htx
+Jordan Wilkins,WilkJo01,rushing,IND,2,9,NA,3,1.5,6,3,0,NA,201901050htx
+Zach Pascal,PascZa00,rushing,IND,1,14,1,12,12,2,2,0,NA,201901050htx
+Deshaun Watson,WatsDe00,rushing,HOU,8,76,4,60,7.5,16,2,1,8,201901050htx
+Lamar Miller,MillLa01,rushing,HOU,5,18,2,13,2.6,5,1,1,5,201901050htx
+Alfred Blue,BlueAl00,rushing,HOU,2,8,1,6,3,2,1,0,NA,201901050htx
+D'Onta Foreman,ForeDO00,rushing,HOU,1,3,NA,0,0,3,3,0,NA,201901050htx

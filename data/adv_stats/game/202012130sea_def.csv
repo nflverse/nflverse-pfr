@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Blessuan Austin,AustBl00,defense,NYJ,0,7,5,71.4%,24,4.8,3.4,0,75.9,4,10,14,0,0,0,0,0,7,0,0.0%,202012130sea
+Bryce Hall,HallBr02,defense,NYJ,0,6,5,83.3%,46,9.2,7.7,1,138.2,10,22,24,0,0,0,0,0,3,0,0.0%,202012130sea
+Neville Hewitt,HewiNe00,defense,NYJ,0,5,4,80.0%,52,13,10.4,0,110,6.2,34,18,4,0,0,0,0,9,0,0.0%,202012130sea
+Javelin Guidry,GuidJa01,defense,NYJ,0,4,3,75.0%,43,14.3,10.8,1,149,6.3,28,15,1,0,1,0,1,5,1,16.7%,202012130sea
+Harvey Langi,LangHa00,defense,NYJ,0,3,2,66.7%,12,6,4,0,74.3,5,9,3,7,0,0,0,0,8,1,11.1%,202012130sea
+Tarell Basham,BashTa00,defense,NYJ,0,2,2,100.0%,23,11.5,11.5,0,114.6,2.5,5,18,9,0,0,0,0,1,2,66.7%,202012130sea
+Matthias Farley,FarlMa00,defense,NYJ,0,2,2,100.0%,13,6.5,6.5,2,133.3,1,2,11,2,0,0,0,0,8,1,11.1%,202012130sea
+Marcus Maye,MayeMa00,defense,NYJ,1,2,1,50.0%,20,20,10,0,45.8,27.5,18,2,1,0,0,0,0,4,0,0.0%,202012130sea
+Frankie Luvu,LuvuFr00,defense,NYJ,0,1,1,100.0%,6,6,6,0,91.7,6,6,0,5,0,0,0,0,3,0,0.0%,202012130sea
+Folorunso Fatukasi,FatuFo00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,2,0,0.0%,202012130sea
+John Franklin-Myers,FranJo02,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,202012130sea
+Quinnen Williams,WillQu00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,6,1,14.3%,202012130sea
+Bobby Wagner,WagnBo00,defense,SEA,0,3,3,100.0%,56,18.7,18.7,0,118.7,11.7,35,21,5,0,1,0,1,6,0,0.0%,202012130sea
+Shaquill Griffin,GrifSh00,defense,SEA,0,7,3,42.9%,7,2.3,1,0,50.3,11.7,5,2,0,0,0,0,0,3,0,0.0%,202012130sea
+Jamal Adams,AdamJa00,defense,SEA,0,2,2,100.0%,17,8.5,8.5,0,102.1,1.5,3,14,6,1,0,1,2,5,0,0.0%,202012130sea
+D.J. Reed,ReedD.00,defense,SEA,0,4,2,50.0%,31,15.5,7.8,0,76,14,30,1,0,0,0,0,0,4,0,0.0%,202012130sea
+Ugo Amadi,AmadUg00,defense,SEA,0,4,2,50.0%,7,3.5,1.8,0,56.2,11.3,7,0,1,0,0,0,0,3,0,0.0%,202012130sea
+K.J. Wright,WrigK.00,defense,SEA,0,1,1,100.0%,5,5,5,0,87.5,-2,-2,7,7,0,0,0,0,6,0,0.0%,202012130sea
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,2,0,0.0%,202012130sea
+Benson Mayowa,MayoBe00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,202012130sea
+Alton Robinson,RobiAl03,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,1,33.3%,202012130sea
+Shaquem Griffin,GrifSh01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,1,1,1,0,0.0%,202012130sea
+Quandre Diggs,DiggQu00,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,-4,NA,NA,0,0,0,0,0,1,0,0.0%,202012130sea
+L.J. Collier,CollLJ00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202012130sea

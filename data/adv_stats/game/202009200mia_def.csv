@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Levi Wallace,WallLe00,defense,BUF,0,13,9,69.2%,119,13.2,9.2,1,123.6,9.9,91,28,0,0,0,0,0,10,0,0.0%,202009200mia
+Tyrel Dodson,DodsTy01,defense,BUF,0,7,6,85.7%,34,5.7,4.9,0,86.9,3.4,12,22,8,0,0,0,0,8,4,33.3%,202009200mia
+A.J. Klein,KleiAJ00,defense,BUF,0,6,5,83.3%,27,5.4,4.5,0,85.4,1,0,27,6,1,0,0,1,5,3,37.5%,202009200mia
+Tre'Davious White,WhitTr01,defense,BUF,0,7,3,42.9%,37,12.3,5.3,1,99.4,10.1,33,4,0,0,0,0,0,4,0,0.0%,202009200mia
+Micah Hyde,HydeMi00,defense,BUF,0,3,2,66.7%,21,10.5,7,0,86.8,4.3,12,9,2,0,0,0,0,9,1,10.0%,202009200mia
+Taron Johnson,JohnTa01,defense,BUF,0,3,2,66.7%,24,12,8,0,91,8.7,23,1,3,0,0,0,0,5,0,0.0%,202009200mia
+Dean Marlowe,MarlDe00,defense,BUF,0,2,2,100.0%,39,19.5,19.5,0,118.7,13.5,27,12,0,0,0,0,0,1,0,0.0%,202009200mia
+Jordan Poyer,PoyeJo00,defense,BUF,0,3,1,33.3%,14,14,4.7,0,49.3,7,12,2,8,0,0,1,1,8,1,11.1%,202009200mia
+Jerry Hughes,HughJe99,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,-1,NA,NA,0,1,2,0,3,1,2,66.7%,202009200mia
+Mario Addison,AddiMa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,202009200mia
+Ed Oliver,OlivEd00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,4,1,20.0%,202009200mia
+Harrison Phillips,PhilHa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,1,0,0.0%,202009200mia
+Trent Murphy,MurpTr00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202009200mia
+Quinton Jefferson,JeffQu00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202009200mia
+Noah Igbinoghene,IgbiNo00,defense,MIA,0,11,7,63.6%,145,20.7,13.2,2,146.8,12.6,115,30,0,0,0,0,0,4,2,33.3%,202009200mia
+Nik Needham,NeedNi00,defense,MIA,0,7,6,85.7%,93,15.5,13.3,0,118.7,6,40,53,0,0,0,0,0,12,0,0.0%,202009200mia
+Xavien Howard,HowaXa00,defense,MIA,0,6,4,66.7%,82,20.5,13.7,1,149.3,19.8,77,5,0,0,0,0,0,3,0,0.0%,202009200mia
+Jerome Baker,BakeJe00,defense,MIA,0,3,2,66.7%,32,16,10.7,0,102.1,10,18,14,5,0,0,0,0,6,1,14.3%,202009200mia
+Byron Jones,JoneBy00,defense,MIA,0,2,1,50.0%,5,5,2.5,0,56.2,7,1,4,0,0,0,0,0,1,0,0.0%,202009200mia
+Eric Rowe,RoweEr00,defense,MIA,0,2,1,50.0%,9,9,4.5,0,62.5,9,5,4,1,0,0,0,0,2,0,0.0%,202009200mia
+Kamu Grugier-Hill,GrugKa00,defense,MIA,0,1,1,100.0%,NA,NA,0,NA,79.2,-5,NA,NA,1,0,0,0,0,2,0,0.0%,202009200mia
+Brandon Jones,JoneBr06,defense,MIA,0,1,1,100.0%,1,1,1,1,118.7,1,1,0,2,0,0,0,0,1,0,0.0%,202009200mia
+Emmanuel Ogbah,OgbaEm00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,2,0,0.0%,202009200mia
+Andrew Van Ginkel,VanGAn00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0.5,1,4,1,20.0%,202009200mia
+Shaq Lawson,LawsSh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,1,25.0%,202009200mia
+Davon Godchaux,GodcDa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,6,0,0.0%,202009200mia
+Kyle Van Noy,VanNKy00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,1,0,0,1,4,4,50.0%,202009200mia
+Bobby McCain,McCaBo01,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,3,1,25.0%,202009200mia
+Calvin Munson,MunsCa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202009200mia

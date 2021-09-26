@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kareem Hunt,HuntKa00,rushing,CLE,13,72,4,25,1.9,47,3.6,2,6.5,202009130rav
+Nick Chubb,ChubNi00,rushing,CLE,10,60,2,26,2.6,34,3.4,1,10,202009130rav
+Baker Mayfield,MayfBa00,rushing,CLE,2,3,0,3,1.5,0,0,0,NA,202009130rav
+Jamie Gillan,GillJa00,rushing,CLE,1,-2,NA,-2,-2,0,0,0,NA,202009130rav
+D'Ernest Johnson,JohnDE04,rushing,CLE,1,5,NA,3,3,2,2,1,1,202009130rav
+Mark Ingram,IngrMa01,rushing,BAL,10,29,1,14,1.4,15,1.5,0,NA,202009130rav
+J.K. Dobbins,DobbJK00,rushing,BAL,7,22,3,14,2,8,1.1,0,NA,202009130rav
+Lamar Jackson,JackLa00,rushing,BAL,7,45,2,37,5.3,8,1.1,1,7,202009130rav
+Gus Edwards,EdwaGu00,rushing,BAL,4,17,1,4,1,13,3.3,0,NA,202009130rav
+Robert Griffin III,GrifRo01,rushing,BAL,1,-1,0,-1,-1,0,0,0,NA,202009130rav
+Patrick Ricard,RicaPa00,rushing,BAL,1,-1,0,-1,-1,0,0,0,NA,202009130rav

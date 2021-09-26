@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,8,5,NA,-3,-0.4,8,1,1,8,202109190car
+Tony Jones,JoneTo04,rushing,NOR,3,7,NA,4,1.3,3,1,2,1.5,202109190car
+Jameis Winston,WinsJa00,rushing,NOR,3,19,1,17,5.7,2,0.7,0,NA,202109190car
+Taysom Hill,HillTa00,rushing,NOR,2,16,1,3,1.5,13,6.5,1,2,202109190car
+Deonte Harris,HarrDe07,rushing,NOR,1,1,NA,1,1,0,0,0,NA,202109190car
+Christian McCaffrey,McCaCh01,rushing,CAR,24,72,4,27,1.1,45,1.9,6,4,202109190car
+Chuba Hubbard,HubbCh01,rushing,CAR,8,10,NA,-1,-0.1,11,1.4,0,NA,202109190car
+Sam Darnold,DarnSa00,rushing,CAR,1,7,0,7,7,0,0,0,NA,202109190car

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeAndre Hopkins,HopkDe00,receiving,HOU,12,9,55,0,7,24,2.7,31,3.4,6.9,1,9,1,8.3,1,49,201910130kan
+Darren Fells,FellDa01,receiving,HOU,7,6,69,0,4,28,4.7,41,6.8,4.7,0,NA,0,0,0,107.7,201910130kan
+Will Fuller,FullWi01,receiving,HOU,9,5,44,0,2,7,1.4,37,7.4,17.6,0,NA,3,33.3,0,68.7,201910130kan
+Keke Coutee,CoutKe00,receiving,HOU,6,4,39,0,2,9,2.3,30,7.5,9.5,0,NA,0,0,1,45.1,201910130kan
+Jordan Akins,AkinJo00,receiving,HOU,3,3,39,0,2,29,9.7,10,3.3,9.7,1,3,0,0,0,118.7,201910130kan
+Duke Johnson,JohnDu00,receiving,HOU,4,2,20,1,2,8,4,12,6,2.5,0,NA,0,0,0,104.2,201910130kan
+Carlos Hyde,HydeCa00,receiving,HOU,1,1,14,0,1,-1,-1,15,15,-1,0,NA,0,0,0,118.7,201910130kan
+Tyreek Hill,HillTy00,receiving,KAN,10,5,80,2,3,71,14.2,9,1.8,17.1,2,2.5,0,0,0,116.7,201910130kan
+Mecole Hardman,HardMe00,receiving,KAN,4,4,45,0,2,6,1.5,39,9.8,1.5,0,NA,0,0,0,113.5,201910130kan
+Travis Kelce,KelcTr00,receiving,KAN,6,4,58,0,3,27,6.8,31,7.8,5.7,2,2,2,33.3,0,97.9,201910130kan
+LeSean McCoy,McCoLe01,receiving,KAN,2,2,0,0,0,-9,-4.5,9,4.5,-4.5,0,NA,0,0,0,79.2,201910130kan
+Byron Pringle,PrinBy00,receiving,KAN,4,2,24,0,1,11,5.5,13,6.5,12.8,0,NA,1,25,1,29.2,201910130kan
+Darrel Williams,WillDa10,receiving,KAN,2,1,52,0,1,6,6,46,46,14.5,0,NA,0,0,0,95.8,201910130kan
+Damien Williams,WillDa05,receiving,KAN,1,1,14,1,1,-4,-4,18,18,-4,0,NA,0,0,0,158.3,201910130kan
+De'Anthony Thomas,ThomDe05,receiving,KAN,1,0,0,0,0,0,NA,0,NA,-4,0,NA,1,100,0,39.6,201910130kan
+Demarcus Robinson,RobiDe01,receiving,KAN,4,0,0,0,NA,0,NA,0,NA,18.5,0,NA,0,0,0,39.6,201910130kan
+Blake Bell,BellBl00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,201910130kan

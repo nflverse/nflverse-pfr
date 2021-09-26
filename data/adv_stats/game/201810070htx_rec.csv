@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Ezekiel Elliott,ElliEz00,receiving,DAL,7,7,30,0,1,-14,-2,44,6.3,-2,1,7,0,0,0,84.5,201810070htx
+Geoff Swaim,SwaiGe00,receiving,DAL,3,3,55,0,2,-1,-0.3,56,18.7,-0.3,1,3,0,0,0,118.7,201810070htx
+Deonte Thompson,ThomDe04,receiving,DAL,4,2,19,0,1,10,5,9,4.5,8.5,1,2,1,25,1,24,201810070htx
+Tavon Austin,AustTa00,receiving,DAL,3,1,44,0,1,44,44,0,0,25.3,0,NA,2,66.7,1,42.4,201810070htx
+Cole Beasley,BeasCo00,receiving,DAL,3,1,8,0,NA,6,6,2,2,5.3,0,NA,0,0,0,42.4,201810070htx
+Michael Gallup,GallMi00,receiving,DAL,3,1,6,0,NA,5,5,1,1,8.3,0,NA,0,0,0,42.4,201810070htx
+Rico Gathers,GathRi00,receiving,DAL,1,1,32,0,1,21,21,11,11,21,0,NA,0,0,0,118.7,201810070htx
+Allen Hurns,HurnAl01,receiving,DAL,2,1,3,1,1,3,3,0,0,9,0,NA,0,0,0,95.8,201810070htx
+Blake Jarwin,JarwBl00,receiving,DAL,2,1,11,0,1,2,2,9,9,-3.5,1,1,0,0,0,66.7,201810070htx
+DeAndre Hopkins,HopkDe00,receiving,HOU,13,9,151,0,6,84,9.3,67,7.4,10.7,1,9,0,0,1,76.1,201810070htx
+Alfred Blue,BlueAl00,receiving,HOU,8,8,73,0,2,10,1.3,63,7.9,1.3,1,8,0,0,0,104.7,201810070htx
+Keke Coutee,CoutKe00,receiving,HOU,7,6,51,1,4,38,6.3,13,2.2,8.6,0,NA,0,0,0,136.6,201810070htx
+Ryan Griffin,GrifRy00,receiving,HOU,9,6,65,0,4,48,8,17,2.8,6.8,0,NA,1,11.1,0,87.7,201810070htx
+Will Fuller,FullWi01,receiving,HOU,3,2,15,0,1,1,0.5,14,7,2.7,0,NA,0,0,0,78.5,201810070htx
+Jordan Akins,AkinJo00,receiving,HOU,2,1,9,0,NA,4,4,5,5,1.5,0,NA,0,0,0,62.5,201810070htx
+Jordan Thomas,ThomJo05,receiving,HOU,1,1,11,0,1,7,7,4,4,7,1,1,0,0,0,112.5,201810070htx

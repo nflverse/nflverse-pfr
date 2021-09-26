@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+C.J. Henderson,HendCJ00,defense,JAX,0,5,4,80.0%,48,12,9.6,1,146.2,9,38,10,0,0,0,0,0,6,0,0.0%,202009200oti
+D.J. Hayden,HaydDJ00,defense,JAX,0,5,4,80.0%,45,11.3,9,1,143.7,4.8,25,20,0,0,0,0,0,1,0,0.0%,202009200oti
+Joe Schobert,SchoJo00,defense,JAX,0,4,3,75.0%,22,7.3,5.5,1,127.1,4.3,16,6,2,0,0,0,0,10,0,0.0%,202009200oti
+Josh Jones,JoneJo06,defense,JAX,0,2,2,100.0%,67,33.5,33.5,0,118.7,8.5,17,50,3,0,0,0,0,5,0,0.0%,202009200oti
+Andrew Wingard,WingAn01,defense,JAX,0,2,2,100.0%,29,14.5,14.5,1,158.3,13.5,27,2,1,0,0,0,0,9,1,10.0%,202009200oti
+Tre Herndon,HernTr00,defense,JAX,0,3,2,66.7%,23,11.5,7.7,0,89.6,13.7,22,1,0,0,0,0,0,2,0,0.0%,202009200oti
+Myles Jack,JackMy00,defense,JAX,0,3,1,33.3%,5,5,1.7,0,42.4,6.7,5,0,2,0,0,0,0,11,1,8.3%,202009200oti
+Josh Allen,AlleJo03,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,1,0,0.0%,202009200oti
+Taven Bryan,BryaTa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202009200oti
+Leon Jacobs,JacoLe00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202009200oti
+K'Lavon Chaisson,ChaiKL00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,2,0,0.0%,202009200oti
+Dawuane Smoot,SmooDa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202009200oti
+Adam Gotsis,GotsAd00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202009200oti
+Jayon Brown,BrowJa06,defense,TEN,0,9,8,88.9%,71,8.9,7.9,2,139.1,3.4,27,44,4,1,0,0,1,7,0,0.0%,202009200oti
+Kenny Vaccaro,VaccKe00,defense,TEN,0,8,6,75.0%,69,11.5,8.6,1,140.1,10.8,55,14,5,1,0,1,2,11,2,15.4%,202009200oti
+Malcolm Butler,ButlMa01,defense,TEN,0,12,6,50.0%,99,16.5,8.3,0,78.1,11.9,90,9,0,0,0,0,0,11,0,0.0%,202009200oti
+Chris Jackson,JackCh01,defense,TEN,0,6,5,83.3%,51,10.2,8.5,0,102.1,7,25,26,2,0,0,0,0,6,0,0.0%,202009200oti
+Johnathan Joseph,JoseJo20,defense,TEN,0,3,2,66.7%,25,12.5,8.3,0,92.4,7,23,2,0,0,0,0,0,4,0,0.0%,202009200oti
+Kristian Fulton,FultKr00,defense,TEN,1,2,1,50.0%,9,9,4.5,0,22.9,1.5,9,0,0,0,0,0,0,3,0,0.0%,202009200oti
+Tye Smith,SmitTy01,defense,TEN,0,1,1,100.0%,9,9,9,0,104.2,9,9,0,0,0,0,0,0,2,0,0.0%,202009200oti
+Rashaan Evans,EvanRa01,defense,TEN,0,2,1,50.0%,6,6,3,0,56.2,15,5,1,5,0,0,0,0,7,0,0.0%,202009200oti
+Harold Landry,LandHa00,defense,TEN,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,1,0,3,5,0,0.0%,202009200oti
+Jadeveon Clowney,ClowJa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,2,0,0.0%,202009200oti
+Jack Crawford,CrawJa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202009200oti
+Kevin Byard,ByarKe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,2,40.0%,202009200oti

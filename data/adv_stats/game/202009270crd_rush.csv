@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,DET,22,75,2,46,2.1,29,1.3,1,22,202009270crd
+Kerryon Johnson,JohnKe06,rushing,DET,3,16,1,10,3.3,6,2,1,3,202009270crd
+Jamal Agnew,AgneJa00,rushing,DET,1,2,0,2,2,0,0,0,NA,202009270crd
+Matthew Stafford,StafMa00,rushing,DET,1,-3,0,-3,-3,0,0,0,NA,202009270crd
+Kenyan Drake,DrakKe00,rushing,ARI,18,73,7,67,3.7,6,0.3,2,9,202009270crd
+Kyler Murray,MurrKy00,rushing,ARI,5,29,3,24,4.8,5,1,1,5,202009270crd
+Chase Edmonds,EdmoCh00,rushing,ARI,3,13,0,13,4.3,0,0,0,NA,202009270crd
+Andy Isabella,IsabAn00,rushing,ARI,1,-6,0,-6,-6,0,0,0,NA,202009270crd

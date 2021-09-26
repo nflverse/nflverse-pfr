@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+J.C. Jackson,JackJ.00,defense,NWE,1,6,4,66.7%,34,8.5,5.7,0,41.7,5.7,16,18,1,1,0,0,1,4,1,20.0%,202012200mia
+Terez Hall,HallTe01,defense,NWE,0,3,3,100.0%,27,9,9,0,104.2,6.7,20,7,1,0,0,0,0,13,1,7.1%,202012200mia
+Adrian Phillips,PhilAd00,defense,NWE,0,2,2,100.0%,10,5,5,0,87.5,0.5,1,9,1,0,0,1,1,7,0,0.0%,202012200mia
+John Simon,SimoJo01,defense,NWE,0,2,2,100.0%,7,3.5,3.5,0,81.2,1,2,5,0,0,0,0,0,4,0,0.0%,202012200mia
+Kyle Dugger,DuggKy00,defense,NWE,0,3,2,66.7%,23,11.5,7.7,0,89.6,6,8,15,0,0,0,0,0,5,1,16.7%,202012200mia
+Stephon Gilmore,GilmSt00,defense,NWE,0,1,1,100.0%,8,8,8,0,100,5,5,3,0,0,0,0,0,2,1,33.3%,202012200mia
+Shilique Calhoun,CalhSh00,defense,NWE,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,1,0,0,0,0,4,2,33.3%,202012200mia
+Anfernee Jennings,JennAn00,defense,NWE,0,2,1,50.0%,4,4,2,0,56.2,0.5,1,3,0,0,0,0,0,3,1,25.0%,202012200mia
+Myles Bryant,BryaMy01,defense,NWE,0,1,1,100.0%,9,9,9,0,104.2,7,7,2,0,0,0,0,0,2,0,0.0%,202012200mia
+Devin McCourty,McCoDe99,defense,NWE,0,1,1,100.0%,5,5,5,0,87.5,1,1,4,0,0,0,0,0,5,0,0.0%,202012200mia
+Lawrence Guy,GuyxLa00,defense,NWE,0,1,1,100.0%,1,1,1,0,79.2,-2,-2,3,0,0,0,0,0,8,0,0.0%,202012200mia
+Jonathan Jones,JoneJo03,defense,NWE,0,1,1,100.0%,14,14,14,0,118.7,7,7,7,2,0,0,0,0,1,1,50.0%,202012200mia
+Chase Winovich,WinoCh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,1,100.0%,202012200mia
+Tashawn Bower,BoweTa00,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,0,1,0,0,1,4,1,20.0%,202012200mia
+Adam Butler,ButlAd00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,1,20.0%,202012200mia
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,0,0.0%,202012200mia
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202012200mia
+Jerome Baker,BakeJe00,defense,MIA,0,6,6,100.0%,54,9,9,0,104.2,3.7,22,32,8,0,0,1,1,8,0,0.0%,202012200mia
+Xavien Howard,HowaXa00,defense,MIA,0,5,4,80.0%,35,8.8,7,0,95.8,8.2,27,8,0,0,0,0,0,5,0,0.0%,202012200mia
+Nik Needham,NeedNi00,defense,MIA,0,4,2,50.0%,61,30.5,15.3,0,95.8,18.3,36,25,0,0,0,0,0,4,0,0.0%,202012200mia
+Elandon Roberts,RobeEl00,defense,MIA,0,2,2,100.0%,20,10,10,0,108.3,5.5,11,9,4,0,0,0,0,9,0,0.0%,202012200mia
+Byron Jones,JoneBy00,defense,MIA,0,4,1,25.0%,23,23,5.8,0,51,11.5,20,3,0,0,0,0,0,1,0,0.0%,202012200mia
+Eric Rowe,RoweEr00,defense,MIA,0,2,1,50.0%,11,11,5.5,0,66.7,14.5,5,6,1,0,0,0,0,3,0,0.0%,202012200mia
+Brandon Jones,JoneBr06,defense,MIA,0,1,1,100.0%,5,5,5,0,87.5,1,1,4,1,0,0,0,0,6,0,0.0%,202012200mia
+Emmanuel Ogbah,OgbaEm00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,1,25.0%,202012200mia
+Shaq Lawson,LawsSh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,2,0,0.0%,202012200mia
+Zach Sieler,SielZa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,5,0,0.0%,202012200mia
+Andrew Van Ginkel,VanGAn00,defense,MIA,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,2,0,0,0,0,1,1,50.0%,202012200mia
+Kyle Van Noy,VanNKy00,defense,MIA,0,1,0,0.0%,NA,NA,0,NA,39.6,14,NA,NA,7,0,0,0,0,3,0,0.0%,202012200mia
+Christian Wilkins,WilkCh00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202012200mia

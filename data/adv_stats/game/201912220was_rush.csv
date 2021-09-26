@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,22,189,7,62,2.8,127,5.8,2,11,201912220was
+Daniel Jones,JoneDa05,rushing,NYG,3,12,1,4,1.3,8,2.7,0,NA,201912220was
+Da'Mari Scott,ScotDa02,rushing,NYG,1,5,0,2,2,3,3,0,NA,201912220was
+Adrian Peterson,PeteAd01,rushing,WAS,15,36,2,-3,-0.2,39,2.6,0,NA,201912220was
+Chris Thompson,ThomCh03,rushing,WAS,8,34,3,12,1.5,22,2.8,0,NA,201912220was
+Steven Sims,SimsSt00,rushing,WAS,2,9,1,6,3,3,1.5,0,NA,201912220was
+Case Keenum,KeenCa00,rushing,WAS,1,1,1,0,0,1,1,0,NA,201912220was

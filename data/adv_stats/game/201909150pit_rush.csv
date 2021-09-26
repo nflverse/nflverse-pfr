@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chris Carson,CarsCh00,rushing,SEA,15,60,4,33,2.2,27,1.8,0,NA,201909150pit
+Rashaad Penny,PennRa00,rushing,SEA,10,62,2,8,0.8,54,5.4,0,NA,201909150pit
+Russell Wilson,WilsRu00,rushing,SEA,6,22,1,7,1.2,15,2.5,0,NA,201909150pit
+C.J. Prosise,ProsC.00,rushing,SEA,2,7,1,1,0.5,6,3,0,NA,201909150pit
+James Conner,ConnJa00,rushing,PIT,11,33,2,4,0.4,29,2.6,1,11,201909150pit
+Jaylen Samuels,SamuJa00,rushing,PIT,3,18,1,8,2.7,10,3.3,0,NA,201909150pit
+Mason Rudolph,RudoMa00,rushing,PIT,1,7,1,2,2,5,5,0,NA,201909150pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,1,23,1,1,1,22,22,0,NA,201909150pit

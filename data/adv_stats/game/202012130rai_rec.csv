@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+T.Y. Hilton,HiltT.00,receiving,IND,7,5,86,2,5,80,16,6,1.2,19.4,0,NA,0,0,0,152.4,202012130rai
+Nyheim Hines,HineNy00,receiving,IND,4,4,17,0,0,6,1.5,11,2.8,1.5,0,NA,0,0,0,84.4,202012130rai
+Jack Doyle,DoylJa00,receiving,IND,3,3,44,0,1,24,8,20,6.7,8,0,NA,0,0,0,118.7,202012130rai
+Jonathan Taylor,TaylJo02,receiving,IND,2,2,15,0,1,-4,-2,19,9.5,-2,0,NA,0,0,0,97.9,202012130rai
+Michael Pittman Jr.,PittMi01,receiving,IND,5,2,42,0,2,22,11,20,10,5.4,0,NA,0,0,0,70.4,202012130rai
+Mo Alie-Cox,AlieMo00,receiving,IND,1,1,9,0,NA,-2,-2,11,11,-2,0,NA,0,0,0,104.2,202012130rai
+Jordan Wilkins,WilkJo01,receiving,IND,2,1,4,0,0,-6,-6,10,10,4.5,0,NA,0,0,0,56.2,202012130rai
+Zach Pascal,PascZa00,receiving,IND,2,1,27,0,1,19,19,8,8,18,0,NA,0,0,0,95.8,202012130rai
+Marcus Johnson,JohnMa07,receiving,IND,1,0,0,0,NA,0,NA,0,NA,19,0,NA,0,0,0,39.6,202012130rai
+Darren Waller,WallDa01,receiving,LVR,10,7,75,0,4,32,4.6,43,6.1,9,1,7,0,0,1,52.1,202012130rai
+Hunter Renfrow,RenfHu00,receiving,LVR,7,5,38,0,4,22,4.4,16,3.2,3.9,0,NA,1,14.3,0,84.2,202012130rai
+Nelson Agholor,AghoNe00,receiving,LVR,9,5,100,1,3,80,16,20,4,14.6,0,NA,1,11.1,0,131.7,202012130rai
+Jalen Richard,RichJa01,receiving,LVR,5,4,31,0,2,13,3.3,18,4.5,3,0,NA,1,20,1,52.9,202012130rai
+Josh Jacobs,JacoJo01,receiving,LVR,5,3,25,0,2,7,2.3,18,6,3.6,0,NA,1,20,0,72.9,202012130rai
+Henry Ruggs III,RuggHe00,receiving,LVR,3,3,18,0,1,8,2.7,10,3.3,2.7,0,NA,0,0,0,91.7,202012130rai
+Devontae Booker,BookDe00,receiving,LVR,3,3,11,0,0,3,1,8,2.7,1,1,3,0,0,0,81.9,202012130rai
+Foster Moreau,MoreFo00,receiving,LVR,2,1,47,1,1,22,22,25,25,13.5,0,NA,0,0,0,135.4,202012130rai
+Alec Ingold,IngoAl01,receiving,LVR,1,1,0,0,NA,-1,-1,1,1,-1,0,NA,0,0,0,79.2,202012130rai

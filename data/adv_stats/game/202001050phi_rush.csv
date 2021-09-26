@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Travis Homer,HomeTr00,rushing,SEA,11,12,1,-1,-0.1,13,1.2,0,NA,202001050phi
+Russell Wilson,WilsRu00,rushing,SEA,9,45,2,37,4.1,8,0.9,1,9,202001050phi
+Marshawn Lynch,LyncMa00,rushing,SEA,6,7,1,-5,-0.8,12,2,0,NA,202001050phi
+Miles Sanders,SandMi01,rushing,PHI,14,69,3,20,1.4,49,3.5,2,7,202001050phi
+Boston Scott,ScotBo02,rushing,PHI,6,25,2,13,2.2,12,2,1,6,202001050phi
+Josh McCown,McCoJo01,rushing,PHI,5,23,2,12,2.4,11,2.2,0,NA,202001050phi
+Greg Ward,WardGr02,rushing,PHI,1,3,0,0,0,3,3,0,NA,202001050phi

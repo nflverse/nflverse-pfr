@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,13,50,3,31,2.4,19,1.5,0,NA,201810210kan
+Mark Walton,WaltMa00,rushing,CIN,4,10,1,3,0.8,7,1.8,0,NA,201810210kan
+Jeff Driskel,DrisJe00,rushing,CIN,1,5,0,5,5,0,0,0,NA,201810210kan
+Clayton Fejedelem,FejeCl00,rushing,CIN,1,0,NA,0,0,0,0,0,NA,201810210kan
+Kareem Hunt,HuntKa00,rushing,KAN,15,86,6,25,1.7,61,4.1,1,15,201810210kan
+Spencer Ware,WareSp00,rushing,KAN,8,59,2,42,5.3,17,2.1,1,8,201810210kan
+Patrick Mahomes,MahoPa00,rushing,KAN,4,45,3,31,7.8,14,3.5,0,NA,201810210kan
+Tyreek Hill,HillTy00,rushing,KAN,2,8,0,8,4,0,0,0,NA,201810210kan

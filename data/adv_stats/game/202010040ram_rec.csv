@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Evan Engram,EngrEv00,receiving,NYG,10,6,35,0,NA,-2,-0.3,37,6.2,-1.1,1,6,1,10,0,66.7,202010040ram
+Golden Tate,TateGo00,receiving,NYG,6,4,20,0,NA,3,0.8,17,4.3,0,0,NA,1,16.7,NA,71.5,202010040ram
+Devonta Freeman,FreeDe00,receiving,NYG,4,4,35,0,NA,-2,-0.5,37,9.3,-0.5,0,NA,0,0,0,103.1,202010040ram
+Darius Slayton,SlayDa01,receiving,NYG,7,3,48,0,NA,31,10.3,17,5.7,0,0,NA,0,0,NA,66.4,202010040ram
+Damion Ratley,RatlDa00,receiving,NYG,4,3,34,0,1,29,9.7,5,1.7,4,0,NA,0,0,0,100,202010040ram
+Dion Lewis,LewiDi00,receiving,NYG,3,2,8,0,NA,5,2.5,3,1.5,0,0,NA,0,0,NA,70.1,202010040ram
+Kaden Smith,SmitKa00,receiving,NYG,1,1,10,0,NA,8,8,2,2,0,0,NA,0,0,NA,108.3,202010040ram
+C.J. Board,BoarC.00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,NA,39.6,202010040ram
+Robert Woods,WoodRo02,receiving,LAR,7,6,36,0,NA,24,4,12,2,0,0,NA,0,0,NA,88.1,202010040ram
+Cooper Kupp,KuppCo00,receiving,LAR,7,5,69,1,NA,18,3.6,51,10.2,2.1,0,NA,1,14.3,0,142.3,202010040ram
+Malcolm Brown,BrowMa03,receiving,LAR,6,5,19,0,1,5,1,14,2.8,1,0,NA,0,0,0,79.9,202010040ram
+Josh Reynolds,ReynJo00,receiving,LAR,4,3,25,0,NA,22,7.3,3,1,0,0,NA,0,0,NA,90.6,202010040ram
+Tyler Higbee,HigbTy00,receiving,LAR,4,3,20,0,NA,10,3.3,10,3.3,0,0,NA,0,0,0,85.4,202010040ram
+Johnny Mundt,MundJo00,receiving,LAR,1,1,5,0,NA,1,1,4,4,0,0,NA,0,0,NA,87.5,202010040ram
+Darrell Henderson,HendDa00,receiving,LAR,1,1,16,0,1,-2,-2,18,18,-2,0,NA,0,0,0,118.7,202010040ram
+Gerald Everett,EverGe00,receiving,LAR,1,1,10,0,0,4,4,6,6,4,0,NA,0,0,0,108.3,202010040ram
+Van Jefferson,JeffVa00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,NA,39.6,202010040ram

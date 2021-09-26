@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Sony Michel,MichSo00,rushing,NWE,21,133,7,86,4.1,47,2.2,2,10.5,201811250nyj
+James White,WhitJa02,rushing,NWE,9,73,2,65,7.2,8,0.9,0,NA,201811250nyj
+Cordarrelle Patterson,PattCo00,rushing,NWE,5,10,2,-2,-0.4,12,2.4,0,NA,201811250nyj
+Tom Brady,BradTo00,rushing,NWE,1,-1,0,-1,-1,0,0,0,NA,201811250nyj
+Isaiah Crowell,CrowIs00,rushing,NYJ,6,30,2,23,3.8,7,1.2,0,NA,201811250nyj
+Elijah McGuire,McGuEl00,rushing,NYJ,6,19,NA,16,2.7,3,0.5,0,NA,201811250nyj
+Josh McCown,McCoJo01,rushing,NYJ,3,25,2,23,7.7,2,0.7,0,NA,201811250nyj

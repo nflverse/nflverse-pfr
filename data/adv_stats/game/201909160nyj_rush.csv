@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,18,62,3,34,1.9,28,1.6,5,3.6,201909160nyj
+D'Ernest Johnson,JohnDE04,rushing,CLE,3,8,0,8,2.7,0,0,0,NA,201909160nyj
+Le'Veon Bell,BellLe00,rushing,NYJ,21,68,3,37,1.8,31,1.5,2,10.5,201909160nyj
+Ty Montgomery,MontTy01,rushing,NYJ,3,25,1,25,8.3,0,0,0,NA,201909160nyj

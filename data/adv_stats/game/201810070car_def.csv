@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Eli Apple,ApplEl00,defense,NYG,0,8,6,75.0%,70,11.7,8.8,0,101,10.1,58,12,0,0,0,0,0,5,0,0.0%,201810070car
+Landon Collins,CollLa00,defense,NYG,0,5,4,80.0%,43,10.8,8.6,0,102.5,5.4,22,21,2,0,1,0,1,8,1,11.1%,201810070car
+Janoris Jenkins,JenkJa03,defense,NYG,1,8,4,50.0%,66,16.5,8.3,1,78.1,10.4,26,40,0,0,0,0,0,4,0,0.0%,201810070car
+Alec Ogletree,OgleAl00,defense,NYG,0,2,2,100.0%,6,3,3,0,79.2,-0.5,-1,7,8,0,0,0,0,6,1,14.3%,201810070car
+B.W. Webb,WebbBW00,defense,NYG,0,4,1,25.0%,-3,-3,-0.8,0,39.6,17,-4,1,1,1,0,0,1,4,1,20.0%,201810070car
+Curtis Riley,RileCu00,defense,NYG,1,3,1,33.3%,27,27,9,0,27.8,12.7,13,14,0,0,0,0,0,3,0,0.0%,201810070car
+Josh Mauro,MaurJo00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201810070car
+Connor Barwin,BarwCo99,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,1,1,2,0,0.0%,201810070car
+Lorenzo Carter,CartLo01,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,0,0,0,2,0,0.0%,201810070car
+Ray-Ray Armstrong,ArmsRa01,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201810070car
+Michael Thomas,ThomMi02,defense,NYG,0,1,0,0.0%,NA,NA,0,NA,39.6,30,NA,NA,0,0,0,0,0,0,0,NA,201810070car
+James Bradberry,BradJa00,defense,CAR,0,12,7,58.3%,112,16,9.3,1,117.4,13.3,93,19,0,0,0,0,0,8,0,0.0%,201810070car
+Donte Jackson,JackDo02,defense,CAR,0,9,5,55.6%,85,17,9.4,0,87.7,11.1,68,17,0,0,0,0,0,6,0,0.0%,201810070car
+Luke Kuechly,KuecLu00,defense,CAR,0,3,3,100.0%,17,5.7,5.7,0,90.3,3.3,10,7,3,1,0,1,2,3,0,0.0%,201810070car
+Mike Adams,AdamMi21,defense,CAR,2,5,2,40.0%,29,14.5,5.8,0,20,7.4,7,22,1,0,0,0,0,6,1,14.3%,201810070car
+Efe Obada,ObadEf00,defense,CAR,0,1,1,100.0%,15,15,15,1,158.3,3,3,12,0,0,1,0,1,1,0,0.0%,201810070car
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,1,1,100.0%,57,57,57,1,158.3,24,24,33,1,0,1,0,1,1,0,0.0%,201810070car
+Eric Reid,ReidEr00,defense,CAR,0,1,1,100.0%,22,22,22,0,118.7,20,20,2,1,0,0,0,0,3,0,0.0%,201810070car
+Captain Munnerlyn,MunnCa99,defense,CAR,0,3,1,33.3%,26,26,8.7,0,66,13,19,7,4,0,0,0,0,3,0,0.0%,201810070car
+Shaq Thompson,ThomSh01,defense,CAR,0,1,1,100.0%,9,9,9,0,104.2,4,4,5,4,0,0,0,0,3,0,0.0%,201810070car
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201810070car
+Dontari Poe,PoexDo00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201810070car
+David Mayo,MayoDa00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,0,1,0,0,1,1,0,0.0%,201810070car

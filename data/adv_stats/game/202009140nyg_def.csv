@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Steven Nelson,NelsSt01,defense,PIT,0,9,6,66.7%,82,13.7,9.1,2,135.2,9.1,63,19,0,0,0,0,0,4,0,0.0%,202009140nyg
+Terrell Edmunds,EdmuTe00,defense,PIT,0,7,5,71.4%,60,12,8.6,0,97.3,8.1,45,15,1,0,0,0,0,8,1,11.1%,202009140nyg
+Devin Bush Jr.,BushDe01,defense,PIT,0,6,4,66.7%,32,8,5.3,0,79.9,6.3,15,17,9,0,0,0,0,7,0,0.0%,202009140nyg
+Joe Haden,HadeJo99,defense,PIT,0,5,3,60.0%,32,10.7,6.4,0,78.7,7.2,32,0,0,0,0,0,0,6,0,0.0%,202009140nyg
+Mike Hilton,HiltMi01,defense,PIT,0,3,2,66.7%,11,5.5,3.7,0,72.9,4.3,7,4,10,0,1,1,2,5,2,28.6%,202009140nyg
+Tyson Alualu,AluaTy99,defense,PIT,0,2,2,100.0%,43,21.5,21.5,0,118.7,-1,-2,45,0,0,1,0,1,4,1,20.0%,202009140nyg
+Minkah Fitzpatrick,FitzMi00,defense,PIT,0,3,2,66.7%,8,4,2.7,0,70.1,4.3,6,2,0,0,0,0,0,2,1,33.3%,202009140nyg
+T.J. Watt,WattT.00,defense,PIT,1,2,1,50.0%,NA,NA,0,NA,16.7,4,NA,NA,17,2,2,0,4,1,0,0.0%,202009140nyg
+Vince Williams,WillVi01,defense,PIT,0,2,1,50.0%,10,10,5,0,64.6,2.5,4,6,9,1,0,1,2,5,0,0.0%,202009140nyg
+Cameron Sutton,SuttCa00,defense,PIT,0,1,1,100.0%,1,1,1,0,79.2,-7,-7,8,1,0,0,0,0,1,0,0.0%,202009140nyg
+Bud Dupree,DuprAl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,4,1,0,5,4,0,0.0%,202009140nyg
+Olasunkanmi Adeniyi,AdenOl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2,0,0,2,1,0,0.0%,202009140nyg
+Cameron Heyward,HeywCa01,defense,PIT,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,202009140nyg
+Stephon Tuitt,TuitSt00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202009140nyg
+Alex Highsmith,HighAl02,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202009140nyg
+Darnay Holmes,HolmDa01,defense,NYG,0,7,5,71.4%,56,11.2,8,0,94.9,7.6,10,46,2,0,0,0,0,3,2,40.0%,202009140nyg
+Corey Ballentine,BallCo00,defense,NYG,0,5,4,80.0%,50,12.5,10,0,108.3,7.6,35,15,0,0,0,0,0,9,1,10.0%,202009140nyg
+James Bradberry,BradJa00,defense,NYG,0,7,4,57.1%,70,17.5,10,2,131,13.9,56,14,0,0,0,0,0,5,0,0.0%,202009140nyg
+Dexter Lawrence,LawrDe03,defense,NYG,0,2,2,100.0%,3,1.5,1.5,0,79.2,-3,-6,9,0,0,0,1,1,4,0,0.0%,202009140nyg
+Jabrill Peppers,PeppJa00,defense,NYG,0,3,2,66.7%,29,14.5,9.7,0,97.9,6,17,12,1,0,0,0,0,4,1,20.0%,202009140nyg
+Lorenzo Carter,CartLo01,defense,NYG,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,5,2,1,0,3,7,1,12.5%,202009140nyg
+Kyler Fackrell,FackKy00,defense,NYG,0,1,1,100.0%,6,6,6,0,91.7,4,4,2,3,0,0,0,0,2,1,33.3%,202009140nyg
+Markus Golden,GoldMa00,defense,NYG,0,1,1,100.0%,2,2,2,0,79.2,-4,-4,6,5,0,0,0,0,2,0,0.0%,202009140nyg
+Oshane Ximines,XimiOs00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,2,0,0,NA,202009140nyg
+Leonard Williams,WillLe02,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,5,0,0.0%,202009140nyg
+Austin Johnson,JohnAu01,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202009140nyg
+Logan Ryan,RyanLo00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,0,0.0%,202009140nyg
+Julian Love,LoveJu00,defense,NYG,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,1,25.0%,202009140nyg
+Devante Downs,DownDe00,defense,NYG,0,1,0,0.0%,NA,NA,0,NA,39.6,-1,NA,NA,0,0,0,0,0,1,0,0.0%,202009140nyg
+Blake Martinez,MartBl01,defense,NYG,0,1,0,0.0%,NA,NA,0,NA,39.6,-2,NA,NA,4,0,0,0,0,13,0,0.0%,202009140nyg

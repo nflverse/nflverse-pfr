@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Frank Gore,GoreFr00,rushing,BUF,11,20,1,5,0.5,15,1.4,1,11,201909080nyj
+Josh Allen,AlleJo02,rushing,BUF,10,38,3,22,2.2,16,1.6,0,NA,201909080nyj
+Devin Singletary,SingDe00,rushing,BUF,4,70,4,62,15.5,8,2,0,NA,201909080nyj
+Le'Veon Bell,BellLe00,rushing,NYJ,17,60,3,9,0.5,51,3,8,2.1,201909080nyj
+Ty Montgomery,MontTy01,rushing,NYJ,2,4,NA,4,2,0,0,0,NA,201909080nyj
+Jamison Crowder,CrowJa00,rushing,NYJ,1,4,0,0,0,4,4,1,1,201909080nyj
+Sam Darnold,DarnSa00,rushing,NYJ,1,0,0,0,0,0,0,0,NA,201909080nyj

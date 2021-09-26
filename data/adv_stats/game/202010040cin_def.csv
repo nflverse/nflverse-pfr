@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Myles Jack,JackMy00,defense,JAX,1,5,4,80.0%,32,8,6.4,0,53.7,0.8,3,29,1,0,0,0,0,4,0,0.0%,202010040cin
+Josh Jones,JoneJo06,defense,JAX,0,5,4,80.0%,70,17.5,14,0,118.7,11.2,47,23,1,0,0,0,0,11,1,8.3%,202010040cin
+Joe Schobert,SchoJo00,defense,JAX,0,4,4,100.0%,62,15.5,15.5,0,118.7,8,32,30,2,0,0,0,0,7,3,30.0%,202010040cin
+Dakota Allen,AlleDa01,defense,JAX,0,4,3,75.0%,9,3,2.3,0,77.1,5.3,1,8,1,0,0,0,0,6,1,14.3%,202010040cin
+Tre Herndon,HernTr00,defense,JAX,0,4,3,75.0%,22,7.3,5.5,0,87.5,9.8,18,4,0,0,0,0,0,2,0,0.0%,202010040cin
+Andrew Wingard,WingAn01,defense,JAX,0,4,3,75.0%,42,14,10.5,0,108.3,12.3,32,10,1,0,0,0,0,10,0,0.0%,202010040cin
+D.J. Hayden,HaydDJ00,defense,JAX,0,3,2,66.7%,43,21.5,14.3,0,109.7,16.3,30,13,1,0,0,0,0,3,2,40.0%,202010040cin
+Chris Claybrooks,ClayCh02,defense,JAX,0,3,1,33.3%,15,15,5,0,50.7,20.3,14,1,0,0,0,0,0,8,1,11.1%,202010040cin
+C.J. Henderson,HendCJ00,defense,JAX,0,2,1,50.0%,3,3,1.5,0,56.2,17,3,0,0,0,0,0,0,2,0,0.0%,202010040cin
+Josh Allen,AlleJo03,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202010040cin
+DaVon Hamilton,HamiDa02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,5,0,0.0%,202010040cin
+Doug Costin,CostDo00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202010040cin
+K'Lavon Chaisson,ChaiKL00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202010040cin
+Cassius Marsh,MarsCa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,1,0,1,2,2,50.0%,202010040cin
+Taven Bryan,BryaTa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202010040cin
+Dawuane Smoot,SmooDa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202010040cin
+Sidney Jones,JoneSi00,defense,JAX,0,1,0,0.0%,NA,NA,0,NA,39.6,35,NA,NA,0,0,0,0,0,0,0,NA,202010040cin
+LeShaun Sims,SimsLe00,defense,CIN,0,11,9,81.8%,116,12.9,10.5,1,140.9,7.1,68,48,0,0,0,0,0,8,0,0.0%,202010040cin
+Akeem Davis-Gaither,DaviAk01,defense,CIN,0,5,4,80.0%,72,18,14.4,0,118.7,5.6,25,47,3,1,0,0.5,2,2,1,33.3%,202010040cin
+William Jackson III,JackWi02,defense,CIN,0,5,4,80.0%,36,9,7.2,1,136.2,14.8,36,0,0,0,0,0,0,5,0,0.0%,202010040cin
+Darius Phillips,PhilDa02,defense,CIN,0,5,4,80.0%,56,14,11.2,0,113.3,9.2,46,10,0,0,0,0,0,3,2,40.0%,202010040cin
+Germaine Pratt,PratGe00,defense,CIN,0,3,3,100.0%,31,10.3,10.3,0,109.7,3,9,22,2,0,0,0,0,4,1,20.0%,202010040cin
+Jessie Bates III,BateJe00,defense,CIN,0,3,2,66.7%,25,12.5,8.3,0,92.4,8.3,23,2,0,0,0,0,0,10,0,0.0%,202010040cin
+Jordan Evans,EvanJo01,defense,CIN,1,2,1,50.0%,9,9,4.5,0,22.9,3.5,7,2,3,0,0,1,1,2,0,0.0%,202010040cin
+Shawn Williams,WillSh02,defense,CIN,0,1,1,100.0%,26,26,26,0,118.7,18,18,8,0,0,0,0,0,1,0,0.0%,202010040cin
+Vonn Bell,BellVo00,defense,CIN,0,4,1,25.0%,26,26,6.5,0,54.2,12,18,8,3,0,0,0,0,6,1,14.3%,202010040cin
+Josh Bynes,ByneJo00,defense,CIN,0,1,1,100.0%,7,7,7,0,95.8,-2,-2,9,3,0,0,0,0,4,3,42.9%,202010040cin
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,1,50.0%,202010040cin
+D.J. Reader,ReadD.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,202010040cin
+Carl Lawson,LawsCa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,202010040cin
+Andrew Brown,BrowAn05,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202010040cin
+Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202010040cin

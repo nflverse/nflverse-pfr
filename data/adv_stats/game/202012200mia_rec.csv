@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jakobi Meyers,MeyeJa01,receiving,NWE,10,7,111,0,4,69,9.9,42,6,12,1,7,0,0,0,106.7,202012200mia
+James White,WhitJa02,receiving,NWE,4,4,52,0,2,21,5.3,31,7.8,5.3,0,NA,0,0,0,118.7,202012200mia
+Damiere Byrd,ByrdDa00,receiving,NWE,4,3,24,0,1,18,6,6,2,6.8,0,NA,0,0,0,89.6,202012200mia
+N'Keal Harry,HarrNK00,receiving,NWE,2,1,12,0,1,8,8,4,4,12,0,NA,0,0,0,68.7,202012200mia
+Dalton Keene,KeenDa00,receiving,NWE,2,1,2,0,NA,2,2,0,0,13,0,NA,0,0,0,56.2,202012200mia
+Sony Michel,MichSo00,receiving,NWE,1,1,8,0,0,4,4,4,4,4,0,NA,0,0,0,100,202012200mia
+Devin Asiasi,AsiaDe00,receiving,NWE,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,202012200mia
+Jakob Johnson,JohnJa12,receiving,NWE,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202012200mia
+Lynn Bowden Jr.,BowdLy00,receiving,MIA,7,6,37,0,2,11,1.8,26,4.3,2,1,6,0,0,1,49.1,202012200mia
+Durham Smythe,SmytDu00,receiving,MIA,5,5,40,0,4,14,2.8,26,5.2,2.8,1,5,0,0,0,100,202012200mia
+Isaiah Ford,FordIs00,receiving,MIA,3,3,18,0,NA,13,4.3,5,1.7,4.3,0,NA,0,0,0,91.7,202012200mia
+Mack Hollins,HollMa00,receiving,MIA,3,2,18,0,2,15,7.5,3,1.5,10,0,NA,1,33.3,0,82.6,202012200mia
+Patrick Laird,LairPa00,receiving,MIA,2,2,12,0,1,9,4.5,3,1.5,4.5,0,NA,0,0,0,91.7,202012200mia
+Salvon Ahmed,AhmeSa01,receiving,MIA,3,1,5,0,0,5,5,0,0,2.3,0,NA,0,0,0,42.4,202012200mia
+Adam Shaheen,ShahAd00,receiving,MIA,2,1,15,0,1,1,1,14,14,5.5,3,0.3,0,0,0,75,202012200mia

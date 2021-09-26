@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,8,10,0,3,0.4,7,0.9,0,NA,201909220tam
+Wayne Gallman,GallWa00,rushing,NYG,5,13,1,4,0.8,9,1.8,0,NA,201909220tam
+Daniel Jones,JoneDa05,rushing,NYG,4,28,3,26,6.5,2,0.5,0,NA,201909220tam
+Sterling Shepard,ShepSt00,rushing,NYG,2,21,1,21,10.5,0,0,0,NA,201909220tam
+Ronald Jones II,JoneRo01,rushing,TAM,14,80,3,56,4,24,1.7,0,NA,201909220tam
+Peyton Barber,BarbPe01,rushing,TAM,13,48,2,24,1.8,24,1.8,2,6.5,201909220tam
+Jameis Winston,WinsJa00,rushing,TAM,4,3,0,3,0.8,0,0,0,NA,201909220tam
+Breshad Perriman,PerrBr02,rushing,TAM,1,13,1,13,13,0,0,0,NA,201909220tam

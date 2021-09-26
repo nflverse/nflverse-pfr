@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Austin Ekeler,EkelAu00,rushing,LAC,15,57,3,25,1.7,32,2.1,0,NA,202109120was
+Larry Rountree,RounLa00,rushing,LAC,8,27,1,15,1.9,12,1.5,0,NA,202109120was
+Justin Herbert,HerbJu00,rushing,LAC,4,-1,1,-1,-0.3,0,0,0,NA,202109120was
+Justin Jackson,JackJu01,rushing,LAC,1,5,NA,3,3,2,2,0,NA,202109120was
+Gabe Nabers,NabeGa00,rushing,LAC,1,2,1,1,1,1,1,0,NA,202109120was
+Antonio Gibson,GibsAn00,rushing,WAS,20,90,5,41,2.1,49,2.5,0,NA,202109120was
+Taylor Heinicke,HeinTa00,rushing,WAS,3,17,1,14,4.7,3,1,0,NA,202109120was
+Jaret Patterson,PattJa01,rushing,WAS,2,9,NA,7,3.5,2,1,0,NA,202109120was
+Ryan Fitzpatrick,FitzRy00,rushing,WAS,1,2,NA,2,2,0,0,0,NA,202109120was
+J.D. McKissic,McKiJ.00,rushing,WAS,1,8,NA,5,5,3,3,0,NA,202109120was

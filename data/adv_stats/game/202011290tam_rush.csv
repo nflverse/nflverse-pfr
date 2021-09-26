@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,11,37,NA,25,2.3,12,1.1,0,NA,202011290tam
+Le'Veon Bell,BellLe00,rushing,KAN,5,22,2,8,1.6,14,2.8,1,5,202011290tam
+Patrick Mahomes,MahoPa00,rushing,KAN,4,28,3,27,6.8,1,0.3,0,NA,202011290tam
+Ronald Jones II,JoneRo01,rushing,TAM,9,66,2,19,2.1,47,5.2,1,9,202011290tam
+Leonard Fournette,FourLe00,rushing,TAM,3,10,1,5,1.7,5,1.7,0,NA,202011290tam
+Tom Brady,BradTo00,rushing,TAM,1,-1,0,-1,-1,0,0,0,NA,202011290tam

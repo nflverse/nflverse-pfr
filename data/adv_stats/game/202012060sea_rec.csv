@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Evan Engram,EngrEv00,receiving,NYG,8,4,32,0,2,25,6.3,7,1.8,10.6,0,NA,1,12.5,1,20.8,202012060sea
+Golden Tate,TateGo00,receiving,NYG,4,4,30,0,1,22,5.5,8,2,5.5,0,NA,0,0,0,97.9,202012060sea
+C.J. Board,BoarC.00,receiving,NYG,1,1,-2,0,NA,-2,-2,0,0,-2,0,NA,0,0,0,79.2,202012060sea
+Alfred Morris,MorrAl00,receiving,NYG,1,1,6,1,1,1,1,5,5,1,0,NA,0,0,0,131.2,202012060sea
+Sterling Shepard,ShepSt00,receiving,NYG,6,1,22,0,1,16,16,6,6,10.5,0,NA,1,16.7,0,42.4,202012060sea
+Darius Slayton,SlayDa01,receiving,NYG,1,1,14,0,1,14,14,0,0,14,0,NA,0,0,0,118.7,202012060sea
+Kaden Smith,SmitKa00,receiving,NYG,1,1,3,0,NA,1,1,2,2,1,0,NA,0,0,0,79.2,202012060sea
+Tyler Lockett,LockTy00,receiving,SEA,9,6,63,0,3,45,7.5,18,3,6.7,0,NA,1,11.1,0,86.8,202012060sea
+D.K. Metcalf,MetcDK00,receiving,SEA,8,5,80,0,5,60,12,20,4,13.8,1,5,1,12.5,0,95.8,202012060sea
+Will Dissly,DissWi00,receiving,SEA,5,4,28,0,1,10,2.5,18,4.5,4.2,0,NA,0,0,0,90,202012060sea
+Chris Carson,CarsCh00,receiving,SEA,6,3,45,1,2,33,11,12,4,8.3,0,NA,2,33.3,1,75,202012060sea
+Jacob Hollister,HollJa03,receiving,SEA,4,3,20,0,2,17,5.7,3,1,7.5,0,NA,0,0,0,85.4,202012060sea
+Carlos Hyde,HydeCa00,receiving,SEA,3,3,10,0,NA,-1,-0.3,11,3.7,-0.3,0,NA,0,0,0,80.6,202012060sea
+DeeJay Dallas,DallDe00,receiving,SEA,3,2,11,0,NA,-5,-2.5,16,8,-3,0,NA,0,0,0,72.9,202012060sea
+David Moore,MoorDa03,receiving,SEA,2,1,6,0,NA,-4,-4,10,10,4.5,0,NA,0,0,0,56.2,202012060sea
+Freddie Swain,SwaiFr00,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,36,0,NA,0,0,0,39.6,202012060sea

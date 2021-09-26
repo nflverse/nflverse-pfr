@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Josh Allen,AlleJo02,passing,BUF,24,46,264,13,26.5,412,9,105,4.4,2.3,159,6.6,4,9.5%,9,21.4%,3,19,2,8,13,26.0%,1,18,202001040htx
+Corey Bojorquez,BojoCo00,passing,BUF,0,1,0,NA,NA,0,0,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202001040htx
+John Brown,BrowJo02,passing,BUF,1,1,16,1,100,12,12,12,12,12,4,4,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202001040htx
+Deshaun Watson,WatsDe00,passing,HOU,20,25,247,13,40.6,216,8.6,150,7.5,6,97,4.9,1,4.0%,2,8.0%,7,12,2,5,14,35.9%,7,3,202001040htx

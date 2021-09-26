@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Darrell Henderson,HendDa00,rushing,LAR,20,114,10,58,2.9,56,2.8,0,NA,202009270buf
+Malcolm Brown,BrowMa03,rushing,LAR,7,19,1,6,0.9,13,1.9,0,NA,202009270buf
+Robert Woods,WoodRo02,rushing,LAR,3,30,1,13,4.3,17,5.7,0,NA,202009270buf
+Jared Goff,GoffJa00,rushing,LAR,2,4,1,3,1.5,1,0.5,0,NA,202009270buf
+Devin Singletary,SingDe00,rushing,BUF,13,71,5,35,2.7,36,2.8,2,6.5,202009270buf
+Josh Allen,AlleJo02,rushing,BUF,4,8,2,3,0.8,5,1.3,0,NA,202009270buf
+T.J. Yeldon,YeldT.00,rushing,BUF,3,18,1,10,3.3,8,2.7,0,NA,202009270buf
+Isaiah McKenzie,McKeIs00,rushing,BUF,1,4,NA,2,2,2,2,0,NA,202009270buf

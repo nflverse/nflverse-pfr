@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ronald Jones II,JoneRo01,rushing,TAM,13,53,4,31,2.4,22,1.7,0,NA,202009270den
+Leonard Fournette,FourLe00,rushing,TAM,7,15,1,7,1,8,1.1,0,NA,202009270den
+Tom Brady,BradTo00,rushing,TAM,5,0,0,-1,-0.2,1,0.2,0,NA,202009270den
+Melvin Gordon,GordMe00,rushing,DEN,8,26,NA,11,1.4,15,1.9,0,NA,202009270den
+Jeff Driskel,DrisJe00,rushing,DEN,3,14,2,4,1.3,10,3.3,0,NA,202009270den
+Royce Freeman,FreeRo00,rushing,DEN,2,4,0,1,0.5,3,1.5,0,NA,202009270den
+KJ Hamler,HamlKJ00,rushing,DEN,1,-2,0,-2,-2,0,0,0,NA,202009270den

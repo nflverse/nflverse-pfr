@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Patrick Peterson,PetePa00,defense,ARI,0,6,5,83.3%,78,15.6,13,1,158.3,13.2,59,19,0,0,0,0,0,3,0,0.0%,201812160atl
+Haason Reddick,ReddHa00,defense,ARI,0,5,4,80.0%,54,13.5,10.8,0,111.7,5.6,25,29,3,0,0,1,1,5,0,0.0%,201812160atl
+Tre Boston,BostTr00,defense,ARI,0,6,4,66.7%,38,9.5,6.3,1,123.6,9.3,34,4,0,0,0,0,0,7,0,0.0%,201812160atl
+Budda Baker,BakeBu00,defense,ARI,0,5,3,60.0%,20,6.7,4,0,68.7,2.2,0,20,6,0,0,0,0,3,0,0.0%,201812160atl
+Gerald Hodges,HodgGe00,defense,ARI,0,3,3,100.0%,26,8.7,8.7,0,102.8,5,15,11,1,0,0,0,0,5,2,28.6%,201812160atl
+Brandon Williams,WillBr07,defense,ARI,0,5,2,40.0%,15,7.5,3,0,47.9,12,13,2,0,0,0,0,0,3,1,25.0%,201812160atl
+Antoine Bethea,BethAn20,defense,ARI,0,2,1,50.0%,5,5,2.5,0,56.2,4,5,0,1,0,1,0,1,5,3,37.5%,201812160atl
+David Amerson,AmerDa00,defense,ARI,0,1,1,100.0%,9,9,9,0,104.2,9,9,0,0,0,0,0,0,1,0,0.0%,201812160atl
+Markus Golden,GoldMa00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,201812160atl
+Chandler Jones,JoneCh03,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812160atl
+Benson Mayowa,MayoBe00,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,0,0,0,0,0,2,0,0.0%,201812160atl
+Deone Bucannon,BucaDe00,defense,ARI,0,2,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,0,0,0,0,0,3,1,25.0%,201812160atl
+Foyesade Oluokun,OluoFo00,defense,ATL,0,7,5,71.4%,45,9,6.4,0,88.4,11.1,28,17,2,1,0,0,1,5,3,37.5%,201812160atl
+Brian Poole,PoolBr01,defense,ATL,1,5,4,80.0%,62,15.5,12.4,0,78.7,8,23,39,2,0,0,1,1,6,1,14.3%,201812160atl
+Deion Jones,JoneDe01,defense,ATL,1,7,4,57.1%,67,16.8,9.6,0,50,5.9,33,34,0,0,0,0,0,4,3,42.9%,201812160atl
+Sharrod Neasman,NeasSh00,defense,ATL,0,4,3,75.0%,3,1,0.8,0,77.1,2.3,-2,5,0,0,0,0,0,6,0,0.0%,201812160atl
+Desmond Trufant,TrufDe00,defense,ATL,0,3,3,100.0%,20,6.7,6.7,1,134,3,9,11,0,0,0,0,0,3,1,25.0%,201812160atl
+Duke Riley,RileDu00,defense,ATL,0,3,2,66.7%,20,10,6.7,0,85.4,3,2,18,0,0,0,0,0,2,2,50.0%,201812160atl
+De'Vondre Campbell,CampDe00,defense,ATL,0,2,1,50.0%,13,13,6.5,0,70.8,-2.5,-3,16,1,0,0,0.5,1,3,0,0.0%,201812160atl
+Bruce Irvin,IrviBr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1.5,3,3,0,0.0%,201812160atl
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,7,0,0.0%,201812160atl
+Vic Beasley,BeasVi00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,1,2,3,1,25.0%,201812160atl
+Steven Means,MeanSt00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201812160atl
+Takkarist McKinley,McKiTa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812160atl
+Jack Crawford,CrawJa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201812160atl
+Robert Alford,AlfoRo00,defense,ATL,0,2,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,1,1,50.0%,201812160atl

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dalvin Cook,CookDa01,receiving,MIN,10,8,22,0,1,-2,-0.3,24,3,-0.8,0,NA,0,0,0,79.2,201812020nwe
+Stefon Diggs,DiggSt00,receiving,MIN,6,5,49,0,2,15,3,34,6.8,4.2,1,5,0,0,0,100.7,201812020nwe
+Adam Thielen,ThieAd00,receiving,MIN,10,5,28,1,1,23,4.6,5,1,10.6,0,NA,2,20,1,50,201812020nwe
+Aldrick Robinson,RobiAl00,receiving,MIN,9,5,37,0,3,19,3.8,18,3.6,15.1,0,NA,0,0,1,25.9,201812020nwe
+Kyle Rudolph,RudoKy00,receiving,MIN,3,3,38,0,3,24,8,14,4.7,8,0,NA,0,0,0,118.7,201812020nwe
+Laquon Treadwell,TreaLa00,receiving,MIN,2,2,13,0,1,12,6,1,0.5,6,0,NA,0,0,0,93.7,201812020nwe
+C.J. Ham,HamxC.00,receiving,MIN,2,2,11,0,NA,1,0.5,10,5,0.5,0,NA,0,0,0,89.6,201812020nwe
+Latavius Murray,MurrLa00,receiving,MIN,2,2,3,0,0,2,1,1,0.5,1,0,NA,0,0,0,79.2,201812020nwe
+James White,WhitJa02,receiving,NWE,9,7,92,0,4,-6,-0.9,98,14,-1,1,7,0,0,0,109.3,201812020nwe
+Rob Gronkowski,GronRo00,receiving,NWE,4,3,26,0,1,23,7.7,3,1,9.5,0,NA,0,0,0,91.7,201812020nwe
+Josh Gordon,GordJo02,receiving,NWE,3,3,58,1,3,21,7,37,12.3,7,2,1.5,0,0,0,158.3,201812020nwe
+Julian Edelman,EdelJu00,receiving,NWE,8,3,25,0,0,14,4.7,11,3.7,5.3,0,NA,1,12.5,1,6.8,201812020nwe
+Chris Hogan,HogaCh00,receiving,NWE,2,2,20,0,2,1,0.5,19,9.5,0.5,0,NA,0,0,0,108.3,201812020nwe
+Cordarrelle Patterson,PattCo00,receiving,NWE,2,2,53,0,2,31,15.5,22,11,15.5,0,NA,0,0,0,118.7,201812020nwe
+Rex Burkhead,BurkRe00,receiving,NWE,2,2,21,0,1,-7,-3.5,28,14,-3.5,0,NA,0,0,0,110.4,201812020nwe
+Sony Michel,MichSo00,receiving,NWE,1,1,7,0,0,3,3,4,4,3,0,NA,0,0,0,95.8,201812020nwe
+James Develin,DeveJa00,receiving,NWE,1,1,9,0,1,3,3,6,6,3,0,NA,0,0,0,104.2,201812020nwe

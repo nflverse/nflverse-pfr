@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alfred Morris,MorrAl00,rushing,SFO,14,67,6,41,2.9,26,1.9,1,14,201809230kan
+Matt Breida,BreiMa00,rushing,SFO,10,90,4,42,4.2,48,4.8,0,NA,201809230kan
+Jimmy Garoppolo,GaroJi00,rushing,SFO,3,23,1,-14,-4.7,37,12.3,0,NA,201809230kan
+Marquise Goodwin,GoodMa00,rushing,SFO,1,-2,0,-2,-2,0,0,0,NA,201809230kan
+Raheem Mostert,MostRa00,rushing,SFO,1,0,NA,0,0,0,0,0,NA,201809230kan
+Kareem Hunt,HuntKa00,rushing,KAN,18,44,6,13,0.7,31,1.7,2,9,201809230kan
+Patrick Mahomes,MahoPa00,rushing,KAN,5,7,1,6,1.2,1,0.2,0,NA,201809230kan
+Tyreek Hill,HillTy00,rushing,KAN,2,5,1,4,2,1,0.5,0,NA,201809230kan
+Sammy Watkins,WatkSa00,rushing,KAN,2,20,1,4,2,16,8,1,2,201809230kan
+Spencer Ware,WareSp00,rushing,KAN,1,1,0,0,0,1,1,0,NA,201809230kan

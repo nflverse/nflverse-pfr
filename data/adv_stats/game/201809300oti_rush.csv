@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jay Ajayi,AjayJa00,rushing,PHI,15,70,4,38,2.5,32,2.1,0,NA,201809300oti
+Wendell Smallwood,SmalWe00,rushing,PHI,5,39,2,6,1.2,33,6.6,1,5,201809300oti
+Carson Wentz,WentCa00,rushing,PHI,2,8,0,6,3,2,1,0,NA,201809300oti
+Marcus Mariota,MariMa01,rushing,TEN,10,46,2,40,4,6,0.6,1,10,201809300oti
+Derrick Henry,HenrDe00,rushing,TEN,8,24,1,0,0,24,3,1,8,201809300oti
+Dion Lewis,LewiDi00,rushing,TEN,4,0,0,-1,-0.3,1,0.3,0,NA,201809300oti

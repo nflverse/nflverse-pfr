@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Julio Jones,JoneJu02,receiving,ATL,11,8,106,2,4,77,9.6,29,3.6,15.3,0,NA,1,9.1,0,142.4,201812090gnb
+Mohamed Sanu,SanuMo00,receiving,ATL,8,6,54,0,5,31,5.2,23,3.8,9.3,1,6,0,0,0,92.7,201812090gnb
+Austin Hooper,HoopAu00,receiving,ATL,6,4,37,0,1,30,7.5,7,1.8,7.8,1,4,0,0,1,43.7,201812090gnb
+Justin Hardy,HardJu00,receiving,ATL,4,3,30,1,2,19,6.3,11,3.7,4.3,1,3,0,0,0,135.4,201812090gnb
+Ito Smith,SmitIt00,receiving,ATL,4,3,14,0,2,-1,-0.3,15,5,-1.5,0,NA,0,0,0,79.2,201812090gnb
+Eric Saubert,SaubEr00,receiving,ATL,3,2,15,0,1,5,2.5,10,5,0.3,0,NA,1,33.3,0,78.5,201812090gnb
+Tevin Coleman,ColeTe01,receiving,ATL,1,1,-4,0,0,-4,-4,0,0,-4,0,NA,0,0,0,79.2,201812090gnb
+Calvin Ridley,RidlCa00,receiving,ATL,4,1,10,0,1,4,4,6,6,11,0,NA,2,50,0,39.6,201812090gnb
+Marvin Hall,HallMa02,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,17,0,NA,0,0,0,39.6,201812090gnb
+Davante Adams,AdamDa01,receiving,GNB,11,7,81,1,5,66,9.4,15,2.1,10.1,0,NA,0,0,0,116.1,201812090gnb
+Randall Cobb,CobbRa00,receiving,GNB,6,5,43,1,1,35,7,8,1.6,8.7,0,NA,0,0,0,136.1,201812090gnb
+Aaron Jones,JoneAa00,receiving,GNB,3,3,28,0,2,-3,-1,31,10.3,-1,1,3,0,0,0,105.6,201812090gnb
+Jimmy Graham,GrahJi00,receiving,GNB,5,2,13,0,1,12,6,1,0.5,18.2,0,NA,0,0,0,47.9,201812090gnb
+Equanimeous St. Brown,St.BEq00,receiving,GNB,3,2,12,0,1,4,2,8,4,4.7,0,NA,0,0,0,74.3,201812090gnb
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,2,2,19,0,1,4,2,15,7.5,2,0,NA,0,0,0,106.2,201812090gnb
+Jamaal Williams,WillJa06,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,-1,0,NA,0,0,0,39.6,201812090gnb

@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Demario Davis,DaviDe00,defense,NOR,0,7,4,57.1%,34,8.5,4.9,0,69.9,4.6,16,18,9,1,0,1,2,8,2,20.0%,201812170car
+Alex Anzalone,AnzaAl00,defense,NOR,0,3,2,66.7%,3,1.5,1,0,70.1,3,2,1,4,1,0,0,1,4,0,0.0%,201812170car
+P.J. Williams,WillP.00,defense,NOR,0,2,2,100.0%,14,7,7,0,95.8,3.5,7,7,0,0,0,0,0,5,1,16.7%,201812170car
+Eli Apple,ApplEl00,defense,NOR,1,7,2,28.6%,12,6,1.7,0,0,8.9,9,3,0,0,0,0,0,3,1,25.0%,201812170car
+Marshon Lattimore,LattMa01,defense,NOR,0,2,2,100.0%,25,12.5,12.5,0,118.7,9,18,7,1,0,0,0,0,2,1,33.3%,201812170car
+Cameron Jordan,JordCa00,defense,NOR,0,2,1,50.0%,5,5,2.5,0,56.2,3,2,3,0,2,0,0,2,5,1,16.7%,201812170car
+Vonn Bell,BellVo00,defense,NOR,0,3,1,33.3%,7,7,2.3,0,42.4,6,7,0,4,1,0,1,2,7,1,12.5%,201812170car
+Marcus Williams,WillMa06,defense,NOR,0,1,1,100.0%,17,17,17,0,118.7,17,17,0,0,0,0,0,0,5,0,0.0%,201812170car
+Sheldon Rankins,RankSh00,defense,NOR,0,1,1,100.0%,7,7,7,0,95.8,5,5,2,0,0,0,0,0,3,0,0.0%,201812170car
+David Onyemata,OnyeDa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,201812170car
+Alex Okafor,OkafAl00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,2,4,1,20.0%,201812170car
+Marcus Davenport,DaveMa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812170car
+Kurt Coleman,ColeKu99,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201812170car
+A.J. Klein,KleiAJ00,defense,NOR,0,1,0,0.0%,NA,NA,0,NA,39.6,9,NA,NA,3,0,0,0,0,4,1,20.0%,201812170car
+Thomas Davis,DaviTh20,defense,CAR,0,8,6,75.0%,57,9.5,7.1,0,94.3,6.4,34,23,2,0,0,0,0,12,3,20.0%,201812170car
+Luke Kuechly,KuecLu00,defense,CAR,0,6,5,83.3%,43,8.6,7.2,0,96.5,-0.8,-5,48,1,0,0,0,0,13,0,0.0%,201812170car
+Captain Munnerlyn,MunnCa99,defense,CAR,0,4,2,50.0%,15,7.5,3.8,0,59.4,10,11,4,2,1,0,1,2,3,0,0.0%,201812170car
+Shaq Thompson,ThomSh01,defense,CAR,0,2,2,100.0%,20,10,10,0,108.3,5.5,11,9,2,1,0,0.5,2,7,1,12.5%,201812170car
+Mike Adams,AdamMi21,defense,CAR,0,2,2,100.0%,28,14,14,0,118.7,13,26,2,0,0,0,0,0,6,0,0.0%,201812170car
+Eric Reid,ReidEr00,defense,CAR,0,4,2,50.0%,29,14.5,7.3,0,74,11.5,29,0,0,0,0,0,0,7,2,22.2%,201812170car
+Mario Addison,AddiMa00,defense,CAR,0,1,1,100.0%,-5,-5,-5,0,79.2,-6,-6,1,0,1,0,0,1,2,0,0.0%,201812170car
+James Bradberry,BradJa00,defense,CAR,1,3,1,33.3%,9,9,3,0,2.8,6,6,3,0,0,0,0,0,3,0,0.0%,201812170car
+Donte Jackson,JackDo02,defense,CAR,0,4,1,25.0%,-3,-3,-0.8,0,39.6,8.8,-3,0,0,0,0,0,0,3,3,50.0%,201812170car
+Julius Peppers,PeppJu99,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,201812170car
+Vernon Butler,ButlVe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,2,0,0.0%,201812170car
+Kawann Short,ShorKa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201812170car

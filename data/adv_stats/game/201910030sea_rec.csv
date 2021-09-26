@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cooper Kupp,KuppCo00,receiving,LAR,17,9,117,1,6,67,7.4,50,5.6,7.9,0,NA,1,5.9,0,94.5,201910030sea
+Gerald Everett,EverGe00,receiving,LAR,11,7,136,0,5,65,9.3,71,10.1,9.1,4,1.8,0,0,1,68.8,201910030sea
+Robert Woods,WoodRo02,receiving,LAR,9,5,48,0,2,26,5.2,22,4.4,6.7,0,NA,0,0,0,70.6,201910030sea
+Todd Gurley,GurlTo01,receiving,LAR,5,3,6,0,0,0,0,6,2,1,0,NA,1,20,0,64.6,201910030sea
+Tyler Higbee,HigbTy00,receiving,LAR,3,3,47,0,3,-1,-0.3,48,16,-0.3,0,NA,0,0,0,118.7,201910030sea
+Brandin Cooks,CookBr00,receiving,LAR,3,1,29,0,1,29,29,0,0,33.7,0,NA,0,0,0,70.1,201910030sea
+Josh Reynolds,ReynJo00,receiving,LAR,1,1,12,0,1,12,12,0,0,12,0,NA,0,0,0,116.7,201910030sea
+Will Dissly,DissWi00,receiving,SEA,4,4,81,0,3,55,13.8,26,6.5,13.8,0,NA,0,0,0,118.7,201910030sea
+Tyler Lockett,LockTy00,receiving,SEA,4,4,51,1,3,41,10.3,10,2.5,10.3,0,NA,0,0,0,158.3,201910030sea
+Jaron Brown,BrowJa03,receiving,SEA,4,2,36,0,1,22,11,14,7,14.5,0,NA,0,0,0,81.2,201910030sea
+D.K. Metcalf,MetcDK00,receiving,SEA,3,2,44,1,1,44,22,0,0,18.3,0,NA,0,0,0,149.3,201910030sea
+Rashaad Penny,PennRa00,receiving,SEA,2,2,31,0,1,20,10,11,5.5,10,0,NA,0,0,0,118.7,201910030sea
+Chris Carson,CarsCh00,receiving,SEA,2,1,5,1,1,5,5,0,0,1,0,NA,0,0,0,95.8,201910030sea
+David Moore,MoorDa03,receiving,SEA,2,1,10,1,1,-2,-2,12,12,3.5,1,1,0,0,0,104.2,201910030sea
+Luke Willson,WillLu00,receiving,SEA,1,1,10,0,1,5,5,5,5,5,0,NA,0,0,0,108.3,201910030sea

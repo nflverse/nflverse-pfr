@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,17,64,4,30,1.8,34,2,1,17,201810210rav
+Mark Ingram,IngrMa01,rushing,NOR,12,32,2,12,1,20,1.7,1,12,201810210rav
+Taysom Hill,HillTa00,rushing,NOR,6,35,3,25,4.2,10,1.7,0,NA,201810210rav
+Drew Brees,BreeDr00,rushing,NOR,4,3,3,3,0.8,0,0,0,NA,201810210rav
+Alex Collins,CollAl00,rushing,BAL,11,38,1,17,1.5,21,1.9,0,NA,201810210rav
+Javorius Allen,AlleJa01,rushing,BAL,3,3,0,0,0,3,1,0,NA,201810210rav
+Lamar Jackson,JackLa00,rushing,BAL,3,9,2,2,0.7,7,2.3,0,NA,201810210rav
+Gus Edwards,EdwaGu00,rushing,BAL,2,0,NA,0,0,0,0,0,NA,201810210rav
+Joe Flacco,FlacJo00,rushing,BAL,1,4,1,4,4,0,0,0,NA,201810210rav
+Chris Moore,MoorCh00,rushing,BAL,1,9,0,7,7,2,2,0,NA,201810210rav
+Willie Snead,SneaWi00,rushing,BAL,1,13,1,13,13,0,0,0,NA,201810210rav
+Maxx Williams,WillMa04,rushing,BAL,1,1,1,1,1,0,0,0,NA,201810210rav

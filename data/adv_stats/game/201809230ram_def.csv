@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jahleel Addae,AddaJa00,defense,LAC,0,5,5,100.0%,61,12.2,12.2,0,117.5,6.6,33,28,0,0,0,0,0,6,3,33.3%,201809230ram
+Desmond King,KingDe01,defense,LAC,0,6,5,83.3%,42,8.4,7,0,95.8,-0.5,-3,45,0,0,0,0,0,5,0,0.0%,201809230ram
+Kyzir White,WhitKy00,defense,LAC,0,6,4,66.7%,31,7.8,5.2,1,118.7,6.8,20,11,0,0,0,0,0,7,1,12.5%,201809230ram
+Trevor Williams,WillTr05,defense,LAC,0,4,4,100.0%,92,23,23,1,158.3,9.5,38,54,0,0,0,0,0,2,1,33.3%,201809230ram
+Derwin James,JameDe00,defense,LAC,1,4,3,75.0%,54,18,13.5,0,77.1,15,50,4,2,0,0,0,0,9,0,0.0%,201809230ram
+Casey Hayward,HaywCa00,defense,LAC,0,3,3,100.0%,24,8,8,1,139.6,7.7,23,1,0,0,0,0,0,5,0,0.0%,201809230ram
+Jatavis Brown,BrowJa05,defense,LAC,0,2,2,100.0%,20,10,10,0,108.3,9.5,19,1,1,0,0,0,0,4,1,20.0%,201809230ram
+Denzel Perryman,PerrDe00,defense,LAC,0,4,2,50.0%,19,9.5,4.8,0,63.5,2.5,4,15,0,0,0,0,0,10,1,9.1%,201809230ram
+Brandon Mebane,MebaBr99,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,6,0,0.0%,201809230ram
+Melvin Ingram,IngrMe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,1,50.0%,201809230ram
+Uchenna Nwosu,NwosUc00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,2,1,33.3%,201809230ram
+Adrian Phillips,PhilAd00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,201809230ram
+Ramik Wilson,WilsRa00,defense,LAR,0,7,4,57.1%,22,5.5,3.1,0,62.8,-0.9,-6,28,0,0,0,0,0,9,1,10.0%,201809230ram
+John Johnson,JohnJo10,defense,LAR,0,4,3,75.0%,42,14,10.5,0,108.3,11.5,22,20,1,0,0,0,0,4,1,20.0%,201809230ram
+Nickell Robey-Coleman,RobeNi00,defense,LAR,0,5,2,40.0%,19,9.5,3.8,0,51.2,11.8,15,4,0,0,0,0,0,3,3,50.0%,201809230ram
+Aqib Talib,TaliAq99,defense,LAR,0,2,2,100.0%,23,11.5,11.5,0,114.6,4.5,9,14,0,0,0,0,0,2,0,0.0%,201809230ram
+Marqui Christian,ChriMa00,defense,LAR,0,3,2,66.7%,14,7,4.7,0,77.1,5,5,9,1,0,0,0,0,3,0,0.0%,201809230ram
+Sam Shields,ShieSa00,defense,LAR,0,3,2,66.7%,38,19,12.7,0,109.7,17,29,9,0,0,0,0,0,4,1,20.0%,201809230ram
+Lamarcus Joyner,JoynLa00,defense,LAR,0,5,2,40.0%,45,22.5,9,1,112.5,16,42,3,1,0,0,0,0,4,3,42.9%,201809230ram
+Samson Ebukam,EbukSa00,defense,LAR,0,1,1,100.0%,1,1,1,0,79.2,-2,-2,3,3,0,1,0,1,1,3,75.0%,201809230ram
+Cory Littleton,LittCo01,defense,LAR,0,2,1,50.0%,6,6,3,0,56.2,14,4,2,3,0,0,0,0,10,1,9.1%,201809230ram
+Aaron Donald,DonaAa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5,0,0,5,2,0,0.0%,201809230ram
+Ndamukong Suh,SuhxNd99,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,3,0,0.0%,201809230ram
+John Franklin-Myers,FranJo02,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,201809230ram
+Michael Brockers,BrocMi00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201809230ram
+Ethan Westbrooks,WestEt00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201809230ram

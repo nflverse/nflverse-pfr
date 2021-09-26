@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Evan Engram,EngrEv00,receiving,NYG,9,6,46,0,1,20,3.3,26,4.3,6.2,0,NA,2,22.2,1,39.4,202010220phi
+Sterling Shepard,ShepSt00,receiving,NYG,8,6,59,1,4,30,5,29,4.8,6.8,0,NA,0,0,0,134.9,202010220phi
+Wayne Gallman,GallWa00,receiving,NYG,5,5,20,0,1,-9,-1.8,29,5.8,-1.8,0,NA,0,0,0,83.3,202010220phi
+Darius Slayton,SlayDa01,receiving,NYG,3,2,23,0,1,23,11.5,0,0,11,0,NA,0,0,0,89.6,202010220phi
+Golden Tate,TateGo00,receiving,NYG,2,1,39,1,1,26,26,13,13,14,0,NA,0,0,0,135.4,202010220phi
+Devonta Freeman,FreeDe00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,0,0,NA,1,100,0,39.6,202010220phi
+Richard Rodgers,RodgRi00,receiving,PHI,8,6,85,0,3,61,10.2,24,4,7.6,0,NA,0,0,0,108.9,202010220phi
+Travis Fulgham,FulgTr00,receiving,PHI,11,5,73,0,3,53,10.6,20,4,12.1,0,NA,0,0,0,67.6,202010220phi
+Greg Ward,WardGr02,receiving,PHI,6,5,42,1,3,34,6.8,8,1.6,7.2,0,NA,0,0,0,135.4,202010220phi
+DeSean Jackson,JackDe00,receiving,PHI,5,3,34,0,2,31,10.3,3,1,9,0,NA,0,0,0,80.4,202010220phi
+Boston Scott,ScotBo02,receiving,PHI,5,3,46,1,3,15,5,31,10.3,2.8,0,NA,0,0,0,130,202010220phi
+JJ Arcega-Whiteside,ArceJJ00,receiving,PHI,1,1,8,0,1,3,3,5,5,3,0,NA,0,0,0,100,202010220phi
+Corey Clement,ClemCo00,receiving,PHI,1,1,12,0,NA,1,1,11,11,1,0,NA,0,0,0,116.7,202010220phi
+John Hightower,HighJo00,receiving,PHI,2,1,59,0,1,46,46,13,13,33,0,NA,0,0,1,56.2,202010220phi
+Hakeem Butler,ButlHa00,receiving,PHI,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,202010220phi
+Jason Huntley,HuntJa01,receiving,PHI,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,202010220phi

@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ke'Shawn Vaughn,VaugKe00,rushing,TAM,15,62,3,44,2.9,18,1.2,1,15,202012260det
+Leonard Fournette,FourLe00,rushing,TAM,9,34,2,29,3.2,5,0.6,0,NA,202012260det
+Blaine Gabbert,GabbBl00,rushing,TAM,2,15,0,15,7.5,0,0,0,NA,202012260det
+D'Andre Swift,SwifDA00,rushing,DET,10,45,2,39,3.9,6,0.6,0,NA,202012260det
+Adrian Peterson,PeteAd01,rushing,DET,4,10,1,7,1.8,3,0.8,0,NA,202012260det
+David Blough,BlouDa00,rushing,DET,1,18,1,18,18,0,0,0,NA,202012260det

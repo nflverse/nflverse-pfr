@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jimmy Moreland,MoreJi00,defense,WAS,0,4,4,100.0%,39,9.8,9.8,0,107.3,4.8,19,20,0,0,0,0,0,7,1,12.5%,201912080gnb
+Landon Collins,CollLa00,defense,WAS,0,5,3,60.0%,38,12.7,7.6,0,83.7,13.4,25,13,1,0,0,0,0,4,1,20.0%,201912080gnb
+Cole Holcomb,HolcCo00,defense,WAS,0,4,3,75.0%,22,7.3,5.5,0,87.5,0.3,-2,24,2,0,0,0,0,7,1,12.5%,201912080gnb
+Fabian Moreau,MoreFa00,defense,WAS,0,3,3,100.0%,25,8.3,8.3,1,141,8.3,25,0,0,0,0,0,0,2,0,0.0%,201912080gnb
+Jonathan Bostic,BostJo00,defense,WAS,0,3,2,66.7%,11,5.5,3.7,0,72.9,-5,-8,19,3,0,1,0,1,6,1,14.3%,201912080gnb
+Montae Nicholson,NichMo00,defense,WAS,0,4,2,50.0%,37,18.5,9.3,1,121.9,15,37,0,0,0,0,0,0,3,1,25.0%,201912080gnb
+Ryan Kerrigan,KerrRy00,defense,WAS,0,1,1,100.0%,2,2,2,0,79.2,2,2,0,7,2,0,1,3,1,0,0.0%,201912080gnb
+Jeremy Reaves,ReavJe00,defense,WAS,0,2,1,50.0%,20,20,10,0,85.4,24.5,13,7,0,0,0,0,0,0,0,NA,201912080gnb
+Simeon Thomas,ThomSi00,defense,WAS,0,3,1,33.3%,15,15,5,0,50.7,10,12,3,0,0,0,0,0,3,0,0.0%,201912080gnb
+Ryan Anderson,AndeRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,1,1,2,2,1,33.3%,201912080gnb
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201912080gnb
+Matthew Ioannidis,IoanMa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201912080gnb
+Nate Orchard,OrchNa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0.0%,201912080gnb
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,201912080gnb
+Tim Settle,SettTi00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201912080gnb
+Montez Sweat,SweaMo00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,4,0,0,0,0,2,0,0.0%,201912080gnb
+Shaun Dion Hamilton,DionSh00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,2,0,0.0%,201912080gnb
+Chandon Sullivan,SullCh00,defense,GNB,0,6,3,50.0%,24,8,4,0,60.4,10,8,16,2,0,0,0,0,4,0,0.0%,201912080gnb
+Jaire Alexander,AlexJa00,defense,GNB,0,8,3,37.5%,36,12,4.5,1,91.7,16.4,33,3,0,0,0,0,0,3,0,0.0%,201912080gnb
+Blake Martinez,MartBl01,defense,GNB,0,4,3,75.0%,35,11.7,8.8,0,101,6.8,10,25,1,0,0,0,0,11,2,15.4%,201912080gnb
+Tramon Williams,WillTr99,defense,GNB,0,2,2,100.0%,10,5,5,0,87.5,1,2,8,1,0,0,0,0,2,0,0.0%,201912080gnb
+Adrian Amos,AmosAd00,defense,GNB,1,2,1,50.0%,11,11,5.5,0,27.1,19.5,11,0,1,1,0,1,2,6,0,0.0%,201912080gnb
+Kenny Clark,ClarKe01,defense,GNB,0,1,1,100.0%,9,9,9,0,104.2,-3,-3,12,0,0,0,1.5,2,3,1,25.0%,201912080gnb
+Kyler Fackrell,FackKy00,defense,GNB,0,1,1,100.0%,14,14,14,0,118.7,6,6,8,1,0,0,0.5,1,2,1,33.3%,201912080gnb
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,1,1,100.0%,30,30,30,0,118.7,16,16,14,0,0,0,0,0,3,0,0.0%,201912080gnb
+Josh Jackson,JackJo01,defense,GNB,0,1,1,100.0%,1,1,1,0,79.2,1,1,0,0,0,0,0,0,1,0,0.0%,201912080gnb
+Preston Smith,SmitPr00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,4,2,1,33.3%,201912080gnb
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,0,3,3,1,25.0%,201912080gnb
+Ibraheim Campbell,CampIb00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,2,0,0,0,0,1,0,0.0%,201912080gnb

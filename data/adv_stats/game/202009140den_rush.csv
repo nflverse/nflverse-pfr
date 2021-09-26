@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,31,116,4,67,2.2,49,1.6,2,15.5,202009140den
+Ryan Tannehill,TannRy00,rushing,TEN,3,14,2,14,4.7,0,0,0,NA,202009140den
+Melvin Gordon,GordMe00,rushing,DEN,15,78,4,30,2,48,3.2,1,15,202009140den
+Phillip Lindsay,LindPh00,rushing,DEN,7,24,0,19,2.7,5,0.7,0,NA,202009140den
+Drew Lock,LockDr00,rushing,DEN,3,5,2,5,1.7,0,0,0,NA,202009140den
+Royce Freeman,FreeRo00,rushing,DEN,1,0,0,0,0,0,0,0,NA,202009140den

@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Aaron Rodgers,RodgAa00,passing,GNB,18,30,203,10,28.6,300,10,116,6.4,3.9,87,4.8,0,0.0%,5,17.9%,5,8,6,2,13,36.1%,1,10,201909050chi
+Mitchell Trubisky,TrubMi00,passing,CHI,26,45,228,10,20,378,8.4,130,5,2.9,98,3.8,2,4.5%,8,18.2%,5,17,7,5,17,32.7%,2,5,201909050chi

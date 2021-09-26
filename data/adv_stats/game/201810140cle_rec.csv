@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Keenan Allen,AlleKe00,receiving,LAC,6,4,62,0,3,29,7.3,33,8.3,7,0,NA,0,0,0,100.7,201810140cle
+Tyrell Williams,WillTy00,receiving,LAC,4,3,118,2,3,113,37.7,5,1.7,32.3,0,NA,0,0,0,156.2,201810140cle
+Melvin Gordon,GordMe00,receiving,LAC,4,2,18,0,1,2,1,16,8,1,0,NA,1,25,1,22.9,201810140cle
+Antonio Gates,GateAn00,receiving,LAC,2,1,5,0,NA,5,5,0,0,6,0,NA,0,0,0,56.2,201810140cle
+Justin Jackson,JackJu01,receiving,LAC,1,1,8,0,NA,-3,-3,11,11,-3,0,NA,0,0,0,100,201810140cle
+Mike Williams,WillMi07,receiving,LAC,4,1,4,0,0,1,1,3,3,12.8,0,NA,0,0,0,39.6,201810140cle
+David Njoku,NjokDa00,receiving,CLE,12,7,55,1,5,37,5.3,18,2.6,6.9,0,NA,2,16.7,1,62.8,201810140cle
+Damion Ratley,RatlDa00,receiving,CLE,8,6,82,0,3,73,12.2,9,1.5,16.5,0,NA,1,12.5,0,107.3,201810140cle
+Duke Johnson,JohnDu00,receiving,CLE,5,4,73,0,4,7,1.8,66,16.5,1.4,1,4,0,0,0,118.7,201810140cle
+Antonio Callaway,CallAn00,receiving,CLE,7,2,9,0,1,5,2.5,4,2,13.7,0,NA,2,28.6,0,39.6,201810140cle
+Jarvis Landry,LandJa00,receiving,CLE,10,2,11,0,NA,1,0.5,10,5,9.2,0,NA,2,20,1,0,201810140cle
+Orson Charles,CharOr00,receiving,CLE,1,1,8,0,NA,1,1,7,7,1,0,NA,0,0,0,100,201810140cle

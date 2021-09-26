@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alex Collins,CollAl00,rushing,BAL,11,42,1,28,2.5,14,1.3,0,NA,201809300pit
+Javorius Allen,AlleJa01,rushing,BAL,10,30,3,10,1,20,2,0,NA,201809300pit
+Lamar Jackson,JackLa00,rushing,BAL,4,17,1,11,2.8,6,1.5,0,NA,201809300pit
+Joe Flacco,FlacJo00,rushing,BAL,2,-3,0,-3,-1.5,0,0,0,NA,201809300pit
+John Brown,BrowJo02,rushing,BAL,1,3,0,3,3,0,0,0,NA,201809300pit
+Chris Moore,MoorCh00,rushing,BAL,1,3,1,1,1,2,2,0,NA,201809300pit
+De'Lance Turner,TurnDe01,rushing,BAL,1,4,NA,1,1,3,3,0,NA,201809300pit
+James Conner,ConnJa00,rushing,PIT,9,19,1,7,0.8,12,1.3,0,NA,201809300pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,-1,0,-1,-1,0,0,0,NA,201809300pit
+Ryan Switzer,SwitRy00,rushing,PIT,1,1,0,0,0,1,1,0,NA,201809300pit

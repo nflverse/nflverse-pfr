@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Christian McCaffrey,McCaCh01,receiving,CAR,12,11,82,0,5,-16,-1.5,98,8.9,-1.2,3,3.7,0,0,0,95.1,201912080atl
+Ian Thomas,ThomIa00,receiving,CAR,10,5,57,1,4,24,4.8,33,6.6,11.8,0,NA,1,10,1,61.2,201912080atl
+D.J. Moore,MoorD.00,receiving,CAR,6,4,81,0,4,60,15,21,5.3,14.7,1,4,0,0,0,109.7,201912080atl
+Jarius Wright,WrigJa02,receiving,CAR,5,4,30,0,1,17,4.3,13,3.3,13.4,0,NA,0,0,1,52.1,201912080atl
+Curtis Samuel,SamuCu00,receiving,CAR,4,2,25,0,2,12,6,13,6.5,20.8,1,2,0,0,0,69.8,201912080atl
+Chris Manhertz,ManhCh00,receiving,CAR,1,1,11,0,1,2,2,9,9,2,0,NA,0,0,0,112.5,201912080atl
+Brandon Zylstra,ZylsBr00,receiving,CAR,2,1,7,0,1,6,6,1,1,16.5,0,NA,0,0,0,58.3,201912080atl
+Julio Jones,JoneJu02,receiving,ATL,8,5,66,0,3,46,9.2,20,4,14.1,2,2.5,0,0,0,88.5,201912080atl
+Calvin Ridley,RidlCa00,receiving,ATL,5,5,76,1,4,64,12.8,12,2.4,12.8,0,NA,0,0,0,158.3,201912080atl
+Devonta Freeman,FreeDe00,receiving,ATL,4,4,10,0,1,-7,-1.8,17,4.3,-1.8,0,NA,0,0,0,79.2,201912080atl
+Russell Gage,GageRu00,receiving,ATL,4,2,17,0,1,8,4,9,4.5,4.8,0,NA,0,0,0,61.5,201912080atl
+Austin Hooper,HoopAu00,receiving,ATL,6,2,32,0,2,15,7.5,17,8.5,9,0,NA,0,0,0,52.1,201912080atl
+Justin Hardy,HardJu00,receiving,ATL,1,1,19,0,1,10,10,9,9,10,0,NA,0,0,0,118.7,201912080atl
+Olamide Zaccheaus,ZaccOl01,receiving,ATL,2,1,93,1,1,40,40,53,53,25,1,1,0,0,0,135.4,201912080atl
+Luke Stocker,StocLu00,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,1,0,NA,1,100,0,39.6,201912080atl

@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Lavonte David,DaviLa00,defense,TAM,0,7,7,100.0%,16,2.3,2.3,0,79.2,0.4,3,13,3,0,0,0,0,6,2,25.0%,202011150car
+Carlton Davis,DaviCa02,defense,TAM,0,6,4,66.7%,69,17.3,11.5,0,105.6,13.7,65,4,1,0,0,0,0,3,0,0.0%,202011150car
+Shaquil Barrett,BarrSh00,defense,TAM,0,3,3,100.0%,2,0.7,0.7,0,79.2,-2.7,-8,10,7,0,1,1,2,3,1,25.0%,202011150car
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,2,2,100.0%,24,12,12,1,156.2,7.5,15,9,1,0,0,0,0,1,0,0.0%,202011150car
+Jamel Dean,DeanJa00,defense,TAM,0,4,2,50.0%,11,5.5,2.8,0,56.2,13.5,1,10,3,0,0,0,0,3,1,25.0%,202011150car
+William Gholston,GholWi00,defense,TAM,0,1,1,100.0%,7,7,7,0,95.8,7,7,0,0,2,2,0,4,2,0,0.0%,202011150car
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,3,1,33.3%,2,2,0.7,0,42.4,3.7,-5,7,3,0,0,0,0,3,0,0.0%,202011150car
+Ross Cockrell,CockRo00,defense,TAM,0,1,1,100.0%,24,24,24,1,158.3,-2,-2,26,0,0,0,0,0,0,0,NA,202011150car
+Mike Edwards,EdwaMi01,defense,TAM,0,1,1,100.0%,NA,NA,0,NA,79.2,40,NA,NA,0,0,0,0,0,0,0,NA,202011150car
+Jason Pierre-Paul,PierJa99,defense,TAM,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,1,25.0%,202011150car
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202011150car
+Devin White,WhitDe02,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,4,0,1,0,1,6,1,14.3%,202011150car
+Justin Watson,WatsJu01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202011150car
+Jordan Whitehead,WhitJo03,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,0,0.0%,202011150car
+Rasul Douglas,DougRa00,defense,CAR,0,12,7,58.3%,99,14.1,8.3,1,112.8,7.9,47,52,0,0,0,0,0,4,2,33.3%,202011150car
+Corn Elder,EldeCo00,defense,CAR,0,4,4,100.0%,39,9.8,9.8,0,107.3,7.5,30,9,3,0,0,0,0,8,0,0.0%,202011150car
+Troy Pride Jr.,PridTr00,defense,CAR,0,4,4,100.0%,62,15.5,15.5,0,118.7,6,24,38,0,0,0,0,0,7,0,0.0%,202011150car
+Shaq Thompson,ThomSh01,defense,CAR,0,4,3,75.0%,14,4.7,3.5,0,79.2,1.8,6,8,8,0,1,0,1,7,0,0.0%,202011150car
+Donte Jackson,JackDo02,defense,CAR,0,4,3,75.0%,35,11.7,8.8,0,101,16,20,15,0,0,0,0,0,2,0,0.0%,202011150car
+Jeremy Chinn,ChinJe00,defense,CAR,0,3,3,100.0%,52,17.3,17.3,1,158.3,7.3,22,30,6,0,0,0,0,3,1,25.0%,202011150car
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,2,2,100.0%,25,12.5,12.5,0,118.7,6,12,13,0,0,0,0,0,4,0,0.0%,202011150car
+Juston Burris,BurrJu00,defense,CAR,0,2,1,50.0%,7,7,3.5,1,97.9,8,7,0,1,0,0,0,0,4,0,0.0%,202011150car
+Tre Boston,BostTr00,defense,CAR,0,3,1,33.3%,8,8,2.7,0,42.4,17,5,3,1,0,0,0,0,5,2,28.6%,202011150car
+Zach Kerr,KerrZa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,5,0,0.0%,202011150car
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3,0,0,3,3,0,0.0%,202011150car
+Bravvion Roy,RoyxBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,3,0,0.0%,202011150car
+Derrick Brown,BrowDe05,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202011150car
+Yetur Gross-Matos,GrosYe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202011150car
+Efe Obada,ObadEf00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202011150car
+Tahir Whitehead,WhitTa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,5,0,0.0%,202011150car
+Sam Franklin,FranSa00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,0,0,4,0,0.0%,202011150car
+Austin Larkin,LarkAu00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202011150car

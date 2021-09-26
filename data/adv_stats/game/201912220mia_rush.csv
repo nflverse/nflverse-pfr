@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,21,50,1,24,1.1,26,1.2,0,NA,201912220mia
+Giovani Bernard,BernGi00,rushing,CIN,2,3,1,1,0.5,2,1,0,NA,201912220mia
+John Ross,RossJo00,rushing,CIN,2,6,0,4,2,2,1,0,NA,201912220mia
+Myles Gaskin,GaskMy00,rushing,MIA,16,55,4,21,1.3,34,2.1,0,NA,201912220mia
+Patrick Laird,LairPa00,rushing,MIA,8,17,NA,5,0.6,12,1.5,1,8,201912220mia
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,5,9,1,9,1.8,0,0,0,NA,201912220mia
+De'Lance Turner,TurnDe01,rushing,MIA,4,6,NA,1,0.3,5,1.3,0,NA,201912220mia
+Albert Wilson,WilsAl02,rushing,MIA,1,9,0,8,8,1,1,0,NA,201912220mia

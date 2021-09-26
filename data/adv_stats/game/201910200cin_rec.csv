@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dede Westbrook,WestDe00,receiving,JAX,9,6,103,0,5,58,9.7,45,7.5,6.4,0,NA,0,0,0,105.3,201910200cin
+DJ Chark,CharDJ00,receiving,JAX,5,3,53,0,1,18,6,35,11.7,5,0,NA,1,20,0,96.2,201910200cin
+Chris Conley,ConlCh00,receiving,JAX,7,3,83,0,2,24,8,59,19.7,10.9,1,3,1,14.3,0,87.2,201910200cin
+Leonard Fournette,FourLe00,receiving,JAX,2,2,14,0,1,4,2,10,5,2,0,NA,0,0,0,95.8,201910200cin
+Keelan Cole,ColeKe00,receiving,JAX,2,1,2,1,1,0,0,2,2,3.5,0,NA,0,0,0,95.8,201910200cin
+Ryquell Armstead,ArmsRy00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,201910200cin
+Seth Devalve,DevaSe00,receiving,JAX,2,0,0,0,NA,0,NA,0,NA,0,0,NA,1,50,0,39.6,201910200cin
+Alex Erickson,EricAl01,receiving,CIN,14,8,137,0,6,30,3.8,107,13.4,6.6,0,NA,2,14.3,0,90.5,201910200cin
+Tyler Boyd,BoydTy00,receiving,CIN,14,5,55,0,2,9,1.8,46,9.2,5.4,0,NA,1,7.1,2,8.6,201910200cin
+Auden Tate,TateAu00,receiving,CIN,6,3,65,0,3,65,21.7,0,0,13.3,1,3,0,0,0,88.9,201910200cin
+Giovani Bernard,BernGi00,receiving,CIN,3,2,4,0,NA,7,3.5,-3,-1.5,0.7,0,NA,0,0,1,30.6,201910200cin
+Tyler Eifert,EifeTy00,receiving,CIN,2,2,10,0,NA,0,0,10,5,0,0,NA,0,0,0,87.5,201910200cin
+Joe Mixon,MixoJo00,receiving,CIN,2,1,2,1,1,0,0,2,2,0,0,NA,0,0,0,95.8,201910200cin
+Drew Sample,SampDr00,receiving,CIN,1,1,3,0,NA,0,0,3,3,0,0,NA,0,0,0,79.2,201910200cin

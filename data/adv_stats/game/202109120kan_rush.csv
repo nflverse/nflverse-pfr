@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,15,83,4,48,3.2,35,2.3,2,7.5,202109120kan
+Kareem Hunt,HuntKa00,rushing,CLE,6,33,2,20,3.3,13,2.2,0,NA,202109120kan
+Jarvis Landry,LandJa00,rushing,CLE,2,13,2,9,4.5,4,2,0,NA,202109120kan
+Jamie Gillan,GillJa00,rushing,CLE,1,0,NA,0,0,0,0,0,NA,202109120kan
+Baker Mayfield,MayfBa00,rushing,CLE,1,7,0,6,6,1,1,0,NA,202109120kan
+Anthony Schwartz,SchwAn00,rushing,CLE,1,17,1,17,17,0,0,0,NA,202109120kan
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,14,43,0,31,2.2,12,0.9,0,NA,202109120kan
+Patrick Mahomes,MahoPa00,rushing,KAN,5,18,2,18,3.6,0,0,0,NA,202109120kan
+Blake Bell,BellBl00,rushing,KAN,1,2,1,2,2,0,0,0,NA,202109120kan
+Michael Burton,BurtMi00,rushing,KAN,1,2,1,2,2,0,0,0,NA,202109120kan
+Tyreek Hill,HillTy00,rushing,KAN,1,4,0,2,2,2,2,0,NA,202109120kan
+Darrel Williams,WillDa10,rushing,KAN,1,4,NA,4,4,0,0,0,NA,202109120kan

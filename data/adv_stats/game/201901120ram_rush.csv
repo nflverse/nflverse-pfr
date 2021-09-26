@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,20,47,4,14,0.7,33,1.7,1,20,201901120ram
+Dak Prescott,PresDa01,rushing,DAL,2,3,2,2,1,1,0.5,0,NA,201901120ram
+C.J. Anderson,AndeC.00,rushing,LAR,23,123,11,75,3.3,48,2.1,0,NA,201901120ram
+Todd Gurley,GurlTo01,rushing,LAR,16,115,3,92,5.8,23,1.4,1,16,201901120ram
+Jared Goff,GoffJa00,rushing,LAR,6,12,2,12,2,0,0,0,NA,201901120ram
+Brandin Cooks,CookBr00,rushing,LAR,1,5,1,5,5,0,0,0,NA,201901120ram
+Josh Reynolds,ReynJo00,rushing,LAR,1,9,0,7,7,2,2,0,NA,201901120ram
+Robert Woods,WoodRo02,rushing,LAR,1,9,0,5,5,4,4,0,NA,201901120ram

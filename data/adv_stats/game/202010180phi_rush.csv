@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Gus Edwards,EdwaGu00,rushing,BAL,14,26,1,11,0.8,15,1.1,0,NA,202010180phi
+J.K. Dobbins,DobbJK00,rushing,BAL,9,28,1,13,1.4,15,1.7,0,NA,202010180phi
+Lamar Jackson,JackLa00,rushing,BAL,9,108,4,90,10,18,2,2,4.5,202010180phi
+Mark Ingram,IngrMa01,rushing,BAL,5,20,1,12,2.4,8,1.6,0,NA,202010180phi
+Miles Sanders,SandMi01,rushing,PHI,9,118,2,94,10.4,24,2.7,1,9,202010180phi
+Carson Wentz,WentCa00,rushing,PHI,5,49,2,15,3,34,6.8,2,2.5,202010180phi
+Jalen Hurts,HurtJa00,rushing,PHI,2,23,2,12,6,11,5.5,1,2,202010180phi
+Boston Scott,ScotBo02,rushing,PHI,2,4,NA,2,1,2,1,0,NA,202010180phi

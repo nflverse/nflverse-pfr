@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Tevin Coleman,ColeTe01,rushing,ATL,10,51,2,21,2.1,30,3,1,10,201812230car
+Brian Hill,HillBr02,rushing,ATL,8,115,3,100,12.5,15,1.9,1,8,201812230car
+Mohamed Sanu,SanuMo00,rushing,ATL,2,29,1,26,13,3,1.5,0,NA,201812230car
+Matt Ryan,RyanMa00,rushing,ATL,1,-1,0,-1,-1,0,0,0,NA,201812230car
+Christian McCaffrey,McCaCh01,rushing,CAR,21,101,5,57,2.7,44,2.1,2,10.5,201812230car
+Taylor Heinicke,HeinTa00,rushing,CAR,3,33,2,33,11,0,0,0,NA,201812230car
+Cameron Artis-Payne,ArtiCa00,rushing,CAR,1,7,1,4,4,3,3,0,NA,201812230car

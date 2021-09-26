@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Williams,WillDa05,rushing,KAN,13,103,4,36,2.8,67,5.2,0,NA,201812230sea
+Patrick Mahomes,MahoPa00,rushing,KAN,3,33,1,6,2,27,9,0,NA,201812230sea
+Tyreek Hill,HillTy00,rushing,KAN,2,17,0,13,6.5,4,2,0,NA,201812230sea
+Charcandrick West,WestCh01,rushing,KAN,1,1,1,1,1,0,0,0,NA,201812230sea
+Chris Carson,CarsCh00,rushing,SEA,27,116,8,49,1.8,67,2.5,3,9,201812230sea
+Russell Wilson,WilsRu00,rushing,SEA,8,57,2,19,2.4,38,4.8,1,8,201812230sea
+Mike Davis,DaviMi01,rushing,SEA,7,31,1,23,3.3,8,1.1,0,NA,201812230sea
+J.D. McKissic,McKiJ.00,rushing,SEA,1,6,NA,4,4,2,2,0,NA,201812230sea

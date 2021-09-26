@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Pierre Desir,DesiPi00,defense,IND,0,6,5,83.3%,76,15.2,12.7,2,158.3,10.5,65,11,0,0,0,0,0,3,1,25.0%,201912160nor
+Rock Ya-Sin,Ya-SRo00,defense,IND,0,5,5,100.0%,57,11.4,11.4,0,114.2,9.8,49,8,0,0,0,0,0,10,0,0.0%,201912160nor
+Khari Willis,WillKh00,defense,IND,0,4,4,100.0%,29,7.3,7.3,1,136.5,2.3,9,20,1,0,0,0,0,10,1,9.1%,201912160nor
+Malik Hooker,HookMa00,defense,IND,0,3,3,100.0%,62,20.7,20.7,1,158.3,16,48,14,0,0,0,0,0,2,0,0.0%,201912160nor
+Darius Leonard,LeonDa00,defense,IND,0,3,3,100.0%,17,5.7,5.7,0,90.3,4,12,5,8,0,0,0,0,12,0,0.0%,201912160nor
+Quincy Wilson,WilsQu01,defense,IND,0,2,2,100.0%,29,14.5,14.5,0,118.7,14.5,29,0,1,1,0,0,1,3,0,0.0%,201912160nor
+Rolan Milligan,MillRo03,defense,IND,0,2,2,100.0%,10,5,5,0,87.5,0,0,10,1,0,0,0,0,2,0,0.0%,201912160nor
+Marvell Tell III,TellMa00,defense,IND,0,2,2,100.0%,12,6,6,0,91.7,-0.5,-1,13,0,0,0,0,0,2,0,0.0%,201912160nor
+Anthony Walker,WalkAn01,defense,IND,0,1,1,100.0%,1,1,1,0,79.2,-4,-4,5,3,0,0,0,0,10,0,0.0%,201912160nor
+Bobby Okereke,OkerBo00,defense,IND,0,1,1,100.0%,10,10,10,0,108.3,2,2,8,1,0,0,0,0,6,0,0.0%,201912160nor
+Margus Hunt,HuntMa00,defense,IND,0,1,1,100.0%,4,4,4,0,83.3,-5,-5,9,0,0,0,0,0,1,2,66.7%,201912160nor
+Grover Stewart,StewGr00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201912160nor
+Justin Houston,HousJu00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,201912160nor
+P.J. Williams,WillP.00,defense,NOR,0,5,5,100.0%,49,9.8,9.8,0,107.5,3.8,19,30,3,0,0,0,0,3,3,50.0%,201912160nor
+Eli Apple,ApplEl00,defense,NOR,0,4,3,75.0%,35,11.7,8.8,0,101,16.8,33,2,0,0,0,0,0,6,0,0.0%,201912160nor
+Chauncey Gardner-Johnson,GardCh00,defense,NOR,0,5,3,60.0%,37,12.3,7.4,0,82.9,10,26,11,2,0,0,0,0,8,1,11.1%,201912160nor
+Saquan Hampton,HampSa00,defense,NOR,0,3,2,66.7%,9,4.5,3,0,70.1,1.7,-1,10,1,0,0,0,0,1,0,0.0%,201912160nor
+T.J. Green,GreeT.00,defense,NOR,0,4,2,50.0%,26,13,6.5,0,70.8,20.8,24,2,0,0,0,0,0,2,0,0.0%,201912160nor
+A.J. Klein,KleiAJ00,defense,NOR,0,1,1,100.0%,7,7,7,0,95.8,4,4,3,7,0,1,0.5,2,6,0,0.0%,201912160nor
+Demario Davis,DaviDe00,defense,NOR,0,4,1,25.0%,1,1,0.3,0,39.6,8.3,0,1,4,1,0,0,1,3,0,0.0%,201912160nor
+Shy Tuttle,TuttSh00,defense,NOR,0,1,1,100.0%,1,1,1,0,79.2,-6,-6,7,0,0,0,0,0,1,1,50.0%,201912160nor
+Trey Hendrickson,HendTr00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0.5,3,3,0,0.0%,201912160nor
+David Onyemata,OnyeDa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,201912160nor
+Cameron Jordan,JordCa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,201912160nor
+Carl Granderson,GranCa01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201912160nor
+Manti Te'o,TeoxMa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,1,1,50.0%,201912160nor
+Malcom Brown,BrowMa01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201912160nor
+Marshon Lattimore,LattMa01,defense,NOR,0,4,0,0.0%,NA,NA,0,NA,39.6,16.3,NA,NA,0,0,0,0,0,0,0,NA,201912160nor

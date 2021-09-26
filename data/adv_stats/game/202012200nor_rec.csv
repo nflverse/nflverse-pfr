@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Travis Kelce,KelcTr00,receiving,KAN,12,8,68,1,5,27,3.4,41,5.1,6.1,0,NA,0,0,0,109,202012200nor
+Tyreek Hill,HillTy00,receiving,KAN,10,6,53,1,4,41,6.8,12,2,6.4,0,NA,1,10,0,107.5,202012200nor
+Sammy Watkins,WatkSa00,receiving,KAN,6,4,60,0,3,36,9,24,6,15.2,0,NA,1,16.7,0,99.3,202012200nor
+Mecole Hardman,HardMe00,receiving,KAN,9,3,22,1,2,16,5.3,6,2,17.1,0,NA,1,11.1,0,79.4,202012200nor
+Demarcus Robinson,RobiDe01,receiving,KAN,3,2,27,0,1,12,6,15,7.5,7.7,0,NA,0,0,0,95.1,202012200nor
+Deon Yelder,YeldDe00,receiving,KAN,1,1,6,0,NA,-2,-2,8,8,-2,0,NA,0,0,0,91.7,202012200nor
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,2,1,4,0,0,-7,-7,11,11,-0.5,0,NA,0,0,0,56.2,202012200nor
+Le'Veon Bell,BellLe00,receiving,KAN,1,1,14,0,1,3,3,11,11,3,0,NA,0,0,0,118.7,202012200nor
+Emmanuel Sanders,SandEm00,receiving,NOR,5,4,76,0,2,47,11.8,29,7.3,13.2,0,NA,0,0,0,118.7,202012200nor
+Alvin Kamara,KamaAl00,receiving,NOR,6,3,40,1,3,-9,-3,49,16.3,-2.2,1,3,1,16.7,0,111.1,202012200nor
+Latavius Murray,MurrLa00,receiving,NOR,3,2,26,1,1,-6,-3,32,16,-4,0,NA,1,33.3,0,133.3,202012200nor
+Lil'Jordan Humphrey,HumpLi01,receiving,NOR,4,2,29,1,2,21,10.5,8,4,9.5,0,NA,0,0,1,74,202012200nor
+Jared Cook,CookJa02,receiving,NOR,5,2,29,0,1,22,11,7,3.5,16.4,0,NA,0,0,0,59.6,202012200nor
+Tre'Quan Smith,SmitTr03,receiving,NOR,2,1,25,0,1,17,17,8,8,13,0,NA,0,0,0,95.8,202012200nor
+Michael Burton,BurtMi00,receiving,NOR,1,1,9,0,NA,3,3,6,6,3,0,NA,0,0,0,104.2,202012200nor
+Juwan Johnson,JohnJu02,receiving,NOR,4,0,0,0,NA,0,NA,0,NA,9.8,0,NA,1,25,0,39.6,202012200nor
+Tommylee Lewis,LewiTo00,receiving,NOR,1,0,0,0,NA,0,NA,0,NA,-3,0,NA,1,100,0,39.6,202012200nor
+Taysom Hill,HillTa00,receiving,NOR,2,0,0,0,0,0,NA,0,NA,11,0,NA,0,0,0,39.6,202012200nor

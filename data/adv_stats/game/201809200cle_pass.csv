@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Sam Darnold,DarnSa00,passing,NYJ,15,31,169,9,27.3,202,6.5,61,4.1,2,108,7.2,0,0.0%,8,28.6%,2,10,6,3,11,33.3%,0,NA,201809200cle
+Baker Mayfield,MayfBa00,passing,CLE,17,23,201,9,37.5,221,9.6,145,8.5,6.3,56,3.3,3,13.6%,0,0.0%,1,13,3,2,6,25.0%,0,NA,201809200cle
+Tyrod Taylor,TaylTy00,passing,CLE,4,14,19,1,5.9,198,14.1,6,1.5,0.4,13,3.3,0,0.0%,4,36.4%,3,13,4,3,10,55.6%,1,22,201809200cle

@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Richard Sherman,SherRi00,defense,SFO,0,6,6,100.0%,44,7.3,7.3,2,136.8,2,12,32,0,0,0,0,0,2,2,50.0%,202012200dal
+Tarvarius Moore,MoorTa00,defense,SFO,0,6,4,66.7%,83,20.8,13.8,1,149.3,17.3,65,18,1,0,0,0,0,6,0,0.0%,202012200dal
+K'Waun Williams,WillKW00,defense,SFO,0,4,3,75.0%,18,6,4.5,0,83.3,1,-2,20,6,1,0,0,1,2,0,0.0%,202012200dal
+Jimmie Ward,WardJi01,defense,SFO,0,3,3,100.0%,62,20.7,20.7,0,118.7,7,21,41,0,0,0,0,0,4,0,0.0%,202012200dal
+Arik Armstead,ArmsAr01,defense,SFO,0,3,2,66.7%,14,7,4.7,0,77.1,-3,-7,21,0,2,0,2,4,8,1,11.1%,202012200dal
+Dre Greenlaw,GreeDr00,defense,SFO,0,3,2,66.7%,5,2.5,1.7,0,70.1,1.3,-3,8,4,0,0,0,0,5,1,16.7%,202012200dal
+Jordan Willis,WillJo09,defense,SFO,0,1,1,100.0%,1,1,1,0,79.2,-4,-4,5,0,0,1,0,1,1,0,0.0%,202012200dal
+Emmanuel Moseley,MoseEm00,defense,SFO,0,3,1,33.3%,9,9,3,0,42.4,15,9,0,0,0,0,0,0,1,0,0.0%,202012200dal
+Ahkello Witherspoon,WithAh00,defense,SFO,0,5,1,20.0%,12,12,2.4,0,39.6,13.4,8,4,0,0,0,0,0,1,1,50.0%,202012200dal
+Marcell Harris,HarrMa03,defense,SFO,0,1,1,100.0%,45,45,45,0,118.7,32,32,13,0,0,0,0,0,3,0,0.0%,202012200dal
+Kerry Hyder,HydeKe01,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,2,0,0,2,3,0,0.0%,202012200dal
+Fred Warner,WarnFr00,defense,SFO,0,2,0,0.0%,NA,NA,0,NA,39.6,-1,NA,NA,6,0,0,0,0,5,1,16.7%,202012200dal
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,0,0.0%,202012200dal
+Jourdan Lewis,LewiJo01,defense,DAL,0,10,7,70.0%,30,4.3,3,1,106.2,0.8,8,22,1,0,0,1,1,6,1,14.3%,202012200dal
+Donovan Wilson,WilsDo01,defense,DAL,1,8,6,75.0%,132,22,16.5,2,116.7,16.4,103,29,1,0,0,0,0,8,0,0.0%,202012200dal
+Jaylon Smith,SmitJa05,defense,DAL,0,10,5,50.0%,68,13.6,6.8,0,72.1,5,35,33,2,0,1,0,1,10,2,16.7%,202012200dal
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,9,4,44.4%,34,8.5,3.8,0,54.9,12.4,27,7,0,0,0,0,0,8,1,11.1%,202012200dal
+Anthony Brown,BrowAn02,defense,DAL,1,5,4,80.0%,48,12,9.6,0,67.1,7.6,27,21,0,0,0,0,0,7,0,0.0%,202012200dal
+Darian Thompson,ThomDa05,defense,DAL,0,3,3,100.0%,75,25,25,1,158.3,19,57,18,3,0,0,0,0,2,0,0.0%,202012200dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,2,2,100.0%,48,24,24,0,118.7,19.5,39,9,0,0,0,0,0,3,0,0.0%,202012200dal
+Trevon Diggs,DiggTr00,defense,DAL,0,5,2,40.0%,8,4,1.6,0,47.9,0.6,-5,13,2,0,0,0,0,5,0,0.0%,202012200dal
+Sean Lee,LeexSe99,defense,DAL,0,2,1,50.0%,22,22,11,0,89.6,9.5,20,2,0,0,0,0,0,3,1,25.0%,202012200dal
+Joe Thomas,ThomJo04,defense,DAL,0,1,1,100.0%,26,26,26,0,118.7,21,21,5,2,0,0,0,0,2,0,0.0%,202012200dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,5,0,0.0%,202012200dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202012200dal
+Neville Gallimore,GallNe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,202012200dal
+Tyrone Crawford,CrawTy00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202012200dal
+Aldon Smith,SmitAl04,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,0,0,NA,202012200dal
+Justin Hamilton,HamiJu00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202012200dal
+Eli Ankou,AnkoEl00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202012200dal
+Xavier Woods,WoodXa00,defense,DAL,0,1,0,0.0%,NA,NA,0,NA,39.6,14,NA,NA,1,0,0,0,0,2,0,0.0%,202012200dal

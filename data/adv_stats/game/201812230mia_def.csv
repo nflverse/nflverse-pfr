@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jalen Ramsey,RamsJa00,defense,JAX,0,5,5,100.0%,50,10,10,0,108.3,7.4,37,13,0,0,0,0,0,3,0,0.0%,201812230mia
+A.J. Bouye,BouyA.00,defense,JAX,0,3,3,100.0%,21,7,7,0,95.8,5.3,16,5,0,0,0,0,0,3,0,0.0%,201812230mia
+Myles Jack,JackMy00,defense,JAX,0,3,3,100.0%,41,13.7,13.7,0,118.7,0,0,41,2,0,0,0,0,8,1,11.1%,201812230mia
+D.J. Hayden,HaydDJ00,defense,JAX,0,4,2,50.0%,12,6,3,1,95.8,5.8,2,10,1,0,0,0,0,1,1,50.0%,201812230mia
+Telvin Smith,SmitTe01,defense,JAX,1,4,2,50.0%,22,11,5.5,0,27.1,2.5,2,20,1,0,0,0,0,6,1,14.3%,201812230mia
+Calais Campbell,CampCa99,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,3,0,0.0%,201812230mia
+Yannick Ngakoue,NgakYa00,defense,JAX,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,0,0,1,1,2,2,0,0.0%,201812230mia
+Tashaun Gipson,GipsTa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,3,0,0.0%,201812230mia
+Jarrod Wilson,WilsJa00,defense,JAX,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,3,1,0,0,1,3,0,0.0%,201812230mia
+Lerentee McCray,McCrLe01,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,201812230mia
+Malik Jackson,JackMa02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201812230mia
+Bobby McCain,McCaBo01,defense,MIA,0,5,4,80.0%,21,5.3,4.2,0,84.2,7,11,10,0,0,0,0,0,7,0,0.0%,201812230mia
+Torry McTyer,McTyTo00,defense,MIA,0,3,3,100.0%,24,8,8,0,100,6.7,20,4,1,0,0,0,0,5,0,0.0%,201812230mia
+Minkah Fitzpatrick,FitzMi00,defense,MIA,0,3,3,100.0%,40,13.3,13.3,0,118.7,8,24,16,0,0,0,0,0,5,1,16.7%,201812230mia
+Mike Hull,HullMi01,defense,MIA,0,1,1,100.0%,5,5,5,0,87.5,4,4,1,3,2,0,0,2,2,1,33.3%,201812230mia
+Jalen Davis,DaviJa06,defense,MIA,0,3,1,33.3%,12,12,4,0,46.5,7,7,5,1,0,0,1,1,2,0,0.0%,201812230mia
+Cornell Armstrong,ArmsCo00,defense,MIA,0,1,1,100.0%,10,10,10,0,108.3,10,10,0,0,0,0,0,0,1,0,0.0%,201812230mia
+Raekwon McMillan,McMiRa02,defense,MIA,0,1,1,100.0%,11,11,11,0,112.5,6,6,5,5,0,0,0,0,10,2,16.7%,201812230mia
+Jerome Baker,BakeJe00,defense,MIA,0,2,1,50.0%,7,7,3.5,0,58.3,6,0,7,5,0,0,0,0,4,1,20.0%,201812230mia
+Akeem Spence,SpenAk00,defense,MIA,0,1,1,100.0%,11,11,11,0,112.5,-3,-3,14,0,0,0,0,0,3,0,0.0%,201812230mia
+Cameron Wake,WakeCa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1.5,4,2,0,0.0%,201812230mia
+Robert Quinn,QuinRo00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,3,1,25.0%,201812230mia
+Charles Harris,HarrCh03,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,1,0,0.0%,201812230mia
+Andre Branch,BranAn00,defense,MIA,0,1,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,0,0,0,0.5,1,2,1,33.3%,201812230mia
+Reshad Jones,JoneRe99,defense,MIA,0,2,0,0.0%,NA,NA,0,NA,39.6,11.5,NA,NA,0,0,1,0,1,7,0,0.0%,201812230mia
+Jonathan Woodard,WoodJo00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812230mia

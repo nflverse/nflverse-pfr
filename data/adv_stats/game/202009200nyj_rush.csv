@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Tevin Coleman,ColeTe01,rushing,SFO,14,12,0,-7,-0.5,19,1.4,2,7,202009200nyj
+Raheem Mostert,MostRa00,rushing,SFO,8,92,1,85,10.6,7,0.9,0,NA,202009200nyj
+Jerick McKinnon,McKiJe00,rushing,SFO,3,77,2,69,23,8,2.7,0,NA,202009200nyj
+Nick Mullens,MullNi00,rushing,SFO,2,-2,0,-2,-1,0,0,0,NA,202009200nyj
+Jeff Wilson,WilsJe01,rushing,SFO,2,3,NA,0,0,3,1.5,0,NA,202009200nyj
+Frank Gore,GoreFr00,rushing,NYJ,21,63,2,14,0.7,49,2.3,0,NA,202009200nyj
+La'Mical Perine,PeriLa00,rushing,NYJ,3,17,1,10,3.3,7,2.3,0,NA,202009200nyj
+Sam Darnold,DarnSa00,rushing,NYJ,2,7,1,-1,-0.5,8,4,1,2,202009200nyj
+Josh Adams,AdamJo03,rushing,NYJ,1,0,NA,0,0,0,0,0,NA,202009200nyj
+Kalen Ballage,BallKa00,rushing,NYJ,1,5,NA,1,1,4,4,0,NA,202009200nyj
+Josh Malone,MaloJo00,rushing,NYJ,1,12,1,9,9,3,3,0,NA,202009200nyj

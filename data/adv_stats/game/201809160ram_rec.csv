@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Chase Edmonds,EdmoCh00,receiving,ARI,5,5,15,0,1,-3,-0.6,18,3.6,-0.6,2,2.5,0,0,0,79.2,201809160ram
+Christian Kirk,KirkCh01,receiving,ARI,5,4,27,0,1,14,3.5,13,3.3,4.2,0,NA,0,0,0,89.2,201809160ram
+Ricky Seals-Jones,SealRi00,receiving,ARI,6,4,17,0,NA,6,1.5,11,2.8,4.2,0,NA,0,0,0,70.1,201809160ram
+Larry Fitzgerald,FitzLa00,receiving,ARI,5,3,28,0,2,27,9,1,0.3,10,0,NA,0,0,0,75.4,201809160ram
+David Johnson,JohnDa08,receiving,ARI,2,1,3,0,0,-3,-3,6,6,1,0,NA,0,0,0,56.2,201809160ram
+JJ Nelson,NelsJJ00,receiving,ARI,1,0,0,0,NA,0,NA,0,NA,6,0,NA,0,0,0,39.6,201809160ram
+Chad Williams,WillCh05,receiving,ARI,3,0,0,0,NA,0,NA,0,NA,10.7,0,NA,0,0,1,0,201809160ram
+Brandin Cooks,CookBr00,receiving,LAR,9,7,159,0,6,115,16.4,44,6.3,15.1,0,NA,0,0,1,79.2,201809160ram
+Cooper Kupp,KuppCo00,receiving,LAR,6,6,63,0,2,16,2.7,47,7.8,2.7,0,NA,0,0,0,110.4,201809160ram
+Robert Woods,WoodRo02,receiving,LAR,9,6,81,0,4,64,10.7,17,2.8,13.2,0,NA,0,0,0,95.1,201809160ram
+Todd Gurley,GurlTo01,receiving,LAR,3,3,31,0,1,2,0.7,29,9.7,0.7,1,3,0,0,0,109.7,201809160ram
+Gerald Everett,EverGe00,receiving,LAR,1,1,17,0,NA,5,5,12,12,5,0,NA,0,0,0,118.7,201809160ram
+Tyler Higbee,HigbTy00,receiving,LAR,2,1,3,1,1,3,3,0,0,9.5,0,NA,0,0,0,95.8,201809160ram
+Malcolm Brown,BrowMa03,receiving,LAR,1,0,0,0,0,0,NA,0,NA,2,0,NA,0,0,0,39.6,201809160ram

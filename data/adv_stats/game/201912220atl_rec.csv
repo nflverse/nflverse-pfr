@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Seth Devalve,DevaSe00,receiving,JAX,6,3,45,0,2,12,4,33,11,5.2,0,NA,0,0,0,75,201912220atl
+Leonard Fournette,FourLe00,receiving,JAX,6,3,34,0,1,-10,-3.3,44,14.7,0,2,1.5,0,0,0,67.4,201912220atl
+DJ Chark,CharDJ00,receiving,JAX,7,2,18,0,1,12,6,6,3,6.3,0,NA,0,0,0,39.6,201912220atl
+Chris Conley,ConlCh00,receiving,JAX,5,2,56,1,2,49,24.5,7,3.5,18,0,NA,0,0,0,121.7,201912220atl
+Dede Westbrook,WestDe00,receiving,JAX,4,2,5,0,1,5,2.5,0,0,10.3,0,NA,0,0,0,56.2,201912220atl
+Keelan Cole,ColeKe00,receiving,JAX,2,1,23,0,1,22,22,1,1,15,0,NA,0,0,0,91.7,201912220atl
+Cody Davis,DaviCo02,receiving,JAX,1,1,7,0,1,2,2,5,5,2,0,NA,0,0,0,95.8,201912220atl
+Julio Jones,JoneJu02,receiving,ATL,15,10,166,0,9,127,12.7,39,3.9,14.8,1,10,1,6.7,2,64.2,201912220atl
+Devonta Freeman,FreeDe00,receiving,ATL,10,9,74,1,5,28,3.1,46,5.1,2.9,0,NA,0,0,0,130.8,201912220atl
+Austin Hooper,HoopAu00,receiving,ATL,9,7,82,0,3,65,9.3,17,2.4,8.7,0,NA,1,11.1,0,104.6,201912220atl
+Russell Gage,GageRu00,receiving,ATL,6,5,49,0,2,42,8.4,7,1.4,8.2,0,NA,0,0,0,100.7,201912220atl
+Keith Smith,SmitKe03,receiving,ATL,1,1,13,0,1,0,0,13,13,0,0,NA,0,0,0,118.7,201912220atl
+Justin Hardy,HardJu00,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,0,39.6,201912220atl
+Luke Stocker,StocLu00,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,201912220atl

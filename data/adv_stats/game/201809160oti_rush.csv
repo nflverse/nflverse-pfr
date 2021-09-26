@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Lamar Miller,MillLa01,rushing,HOU,14,68,3,42,3,26,1.9,1,14,201809160oti
+Alfred Blue,BlueAl00,rushing,HOU,7,36,1,22,3.1,14,2,0,NA,201809160oti
+Deshaun Watson,WatsDe00,rushing,HOU,5,44,2,37,7.4,7,1.4,0,NA,201809160oti
+Derrick Henry,HenrDe00,rushing,TEN,18,56,4,12,0.7,44,2.4,3,6,201809160oti
+Dion Lewis,LewiDi00,rushing,TEN,14,42,1,9,0.6,33,2.4,2,7,201809160oti
+Blaine Gabbert,GabbBl00,rushing,TEN,2,2,2,2,1,0,0,0,NA,201809160oti

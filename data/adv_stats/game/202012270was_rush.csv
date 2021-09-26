@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mike Davis,DaviMi01,rushing,CAR,14,28,2,6,0.4,22,1.6,3,4.7,202012270was
+Curtis Samuel,SamuCu00,rushing,CAR,7,52,1,19,2.7,33,4.7,1,7,202012270was
+Rodney Smith,SmitRo08,rushing,CAR,7,23,1,6,0.9,17,2.4,2,3.5,202012270was
+Teddy Bridgewater,BridTe00,rushing,CAR,6,7,2,6,1,1,0.2,0,NA,202012270was
+Alex Armah,ArmaAl00,rushing,CAR,1,3,1,1,1,2,2,0,NA,202012270was
+Antonio Gibson,GibsAn00,rushing,WAS,10,61,3,31,3.1,30,3,2,5,202012270was
+J.D. McKissic,McKiJ.00,rushing,WAS,4,15,2,8,2,7,1.8,0,NA,202012270was
+Taylor Heinicke,HeinTa00,rushing,WAS,3,22,2,22,7.3,0,0,0,NA,202012270was
+Peyton Barber,BarbPe01,rushing,WAS,1,10,1,3,3,7,7,1,1,202012270was
+Logan Thomas,ThomLo00,rushing,WAS,1,0,0,0,0,0,0,0,NA,202012270was

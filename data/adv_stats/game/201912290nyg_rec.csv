@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Greg Ward,WardGr02,receiving,PHI,7,6,43,0,5,38,6.3,5,0.8,7.3,0,NA,0,0,0,92.3,201912290nyg
+Dallas Goedert,GoedDa00,receiving,PHI,10,4,65,0,3,55,13.8,10,2.5,7.3,0,NA,0,0,0,62.5,201912290nyg
+Joshua Perkins,PerkJo02,receiving,PHI,6,4,50,1,2,34,8.5,16,4,12,0,NA,0,0,0,131.9,201912290nyg
+Boston Scott,ScotBo02,receiving,PHI,6,4,84,0,3,-10,-2.5,94,23.5,2.2,0,NA,1,16.7,0,109.7,201912290nyg
+Miles Sanders,SandMi01,receiving,PHI,5,3,-1,0,0,-5,-1.7,4,1.3,-2,0,NA,1,20,0,64.6,201912290nyg
+Deontay Burnett,BurnDe00,receiving,PHI,4,2,48,0,1,42,21,6,3,22,0,NA,0,0,0,93.7,201912290nyg
+Robert Davis,DaviRo00,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,201912290nyg
+Kaden Smith,SmitKa00,receiving,NYG,11,8,98,0,5,82,10.3,16,2,10,0,NA,0,0,0,99.8,201912290nyg
+Sterling Shepard,ShepSt00,receiving,NYG,10,5,39,0,2,35,7,4,0.8,13.2,0,NA,0,0,0,60,201912290nyg
+Golden Tate,TateGo00,receiving,NYG,8,5,68,1,3,70,14,-2,-0.4,10.6,0,NA,1,12.5,0,129.2,201912290nyg
+Darius Slayton,SlayDa01,receiving,NYG,9,4,50,0,1,42,10.5,8,2,18.3,0,NA,0,0,1,22.7,201912290nyg
+Saquon Barkley,BarkSa00,receiving,NYG,4,3,25,0,1,-9,-3,34,11.3,-0.3,0,NA,0,0,0,90.6,201912290nyg
+Cody Latimer,LatiCo00,receiving,NYG,3,2,12,0,1,7,3.5,5,2.5,6.3,0,NA,0,0,0,74.3,201912290nyg
+Javorius Allen,AlleJa01,receiving,NYG,2,1,9,0,0,5,5,4,4,5.5,0,NA,0,0,0,62.5,201912290nyg

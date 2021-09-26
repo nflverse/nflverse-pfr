@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Malcolm Jenkins,JenkMa99,defense,NOR,0,7,6,85.7%,82,13.7,11.7,0,115.5,8.4,44,38,12,0,0,1,1,7,1,12.5%,202009210rai
+Demario Davis,DaviDe00,defense,NOR,0,6,5,83.3%,37,7.4,6.2,1,131.9,2.7,11,26,13,0,0,0,0,8,1,11.1%,202009210rai
+Marshon Lattimore,LattMa01,defense,NOR,0,5,4,80.0%,59,14.8,11.8,0,115.8,8,24,35,0,0,0,0,0,7,2,22.2%,202009210rai
+P.J. Williams,WillP.00,defense,NOR,0,3,3,100.0%,30,10,10,0,108.3,7.7,23,7,0,0,0,0,0,7,0,0.0%,202009210rai
+Marcus Williams,WillMa06,defense,NOR,0,3,3,100.0%,26,8.7,8.7,1,142.4,6,18,8,0,0,0,0,0,9,1,10.0%,202009210rai
+Janoris Jenkins,JenkJa03,defense,NOR,0,6,3,50.0%,29,9.7,4.8,0,63.9,10.7,7,22,0,0,0,0,0,5,1,16.7%,202009210rai
+Chauncey Gardner-Johnson,GardCh00,defense,NOR,0,3,2,66.7%,6,3,2,1,109.7,7.3,4,2,1,0,0,0,0,1,1,50.0%,202009210rai
+Alex Anzalone,AnzaAl00,defense,NOR,0,1,1,100.0%,9,9,9,0,104.2,7,7,2,6,0,0,0,0,5,1,16.7%,202009210rai
+Cameron Jordan,JordCa00,defense,NOR,0,1,1,100.0%,6,6,6,0,91.7,-1,-1,7,0,0,0,0,0,5,1,16.7%,202009210rai
+David Onyemata,OnyeDa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,1,4,5,0,0.0%,202009210rai
+Trey Hendrickson,HendTr00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,5,0,0.0%,202009210rai
+Sheldon Rankins,RankSh00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202009210rai
+Carl Granderson,GranCa01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202009210rai
+Cory Littleton,LittCo01,defense,LVR,0,8,6,75.0%,63,10.5,7.9,0,97.4,2.1,2,61,3,0,0,0,0,3,1,25.0%,202009210rai
+Lamarcus Joyner,JoynLa00,defense,LVR,0,7,5,71.4%,51,10.2,7.3,0,92,4.1,10,41,3,0,0,0,0,6,1,14.3%,202009210rai
+Damon Arnette,ArneDa00,defense,LVR,0,5,4,80.0%,41,10.3,8.2,0,100.8,5.4,25,16,0,0,0,0,0,7,2,22.2%,202009210rai
+Nicholas Morrow,MorrNi00,defense,LVR,1,6,3,50.0%,45,15,7.5,0,35.4,1.7,-2,47,2,0,0,0,0,7,2,22.2%,202009210rai
+Erik Harris,HarrEr00,defense,LVR,0,4,3,75.0%,71,23.7,17.8,0,116.7,13,44,27,0,0,0,0,0,5,1,16.7%,202009210rai
+Arden Key,KeyxAr00,defense,LVR,0,2,2,100.0%,8,4,4,0,83.3,-1.5,-3,11,0,0,1,0,1,0,1,100.0%,202009210rai
+Trayvon Mullen,MullTr00,defense,LVR,0,2,2,100.0%,15,7.5,7.5,1,137.5,3,6,9,0,0,0,0,0,3,1,25.0%,202009210rai
+Johnathan Abram,AbraJo01,defense,LVR,0,2,1,50.0%,18,18,9,0,81.2,18,17,1,5,0,1,0,1,4,0,0.0%,202009210rai
+Maurice Hurst Jr.,HursMa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,2,0,2,2,1,33.3%,202009210rai
+Clelin Ferrell,FerrCl00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202009210rai
+Carl Nassib,NassCa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202009210rai
+Maliek Collins,CollMa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202009210rai
+Nevin Lawson,LawsNe00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202009210rai

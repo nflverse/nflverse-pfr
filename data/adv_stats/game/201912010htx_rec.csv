@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+James White,WhitJa02,receiving,NWE,11,8,98,2,4,29,3.6,69,8.6,4.6,0,NA,0,0,0,139.4,201912010htx
+Julian Edelman,EdelJu00,receiving,NWE,11,6,106,1,6,76,12.7,30,5,14.6,0,NA,0,0,0,118,201912010htx
+Mohamed Sanu,SanuMo00,receiving,NWE,5,3,14,0,1,13,4.3,1,0.3,4.8,0,NA,1,20,0,64.6,201912010htx
+Jakobi Meyers,MeyeJa01,receiving,NWE,7,3,46,0,2,42,14,4,1.3,13.3,0,NA,0,0,0,65.2,201912010htx
+Phillip Dorsett,DorsPh00,receiving,NWE,6,2,15,0,1,15,7.5,0,0,20.7,0,NA,0,0,0,42.4,201912010htx
+Ben Watson,WatsBe00,receiving,NWE,1,1,23,0,1,7,7,16,16,7,1,1,0,0,0,118.7,201912010htx
+Matt LaCosse,LaCoMa00,receiving,NWE,2,1,24,0,1,16,16,8,8,8.5,0,NA,1,50,0,93.7,201912010htx
+Rex Burkhead,BurkRe00,receiving,NWE,1,0,0,0,0,0,NA,0,NA,3,0,NA,0,0,0,39.6,201912010htx
+N'Keal Harry,HarrNK00,receiving,NWE,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,1,0,201912010htx
+Duke Johnson,JohnDu00,receiving,HOU,6,5,54,1,2,10,2,44,8.8,1.2,0,NA,0,0,0,143.7,201912010htx
+DeAndre Hopkins,HopkDe00,receiving,HOU,8,5,64,0,4,41,8.2,23,4.6,8.1,0,NA,0,0,0,87.5,201912010htx
+Kenny Stills,StilKe00,receiving,HOU,4,3,61,1,2,56,18.7,5,1.7,16.3,0,NA,0,0,0,156.2,201912010htx
+Darren Fells,FellDa01,receiving,HOU,3,2,23,1,2,9,4.5,14,7,5.3,0,NA,0,0,0,129.2,201912010htx
+Carlos Hyde,HydeCa00,receiving,HOU,1,1,5,0,0,0,0,5,5,0,0,NA,0,0,0,87.5,201912010htx
+Will Fuller,FullWi01,receiving,HOU,2,1,8,0,NA,6,6,2,2,20.5,1,1,0,0,0,60.4,201912010htx
+Deshaun Watson,WatsDe00,receiving,HOU,1,1,6,1,1,0,0,6,6,0,0,NA,0,0,0,131.2,201912010htx
+Jordan Akins,AkinJo00,receiving,HOU,1,1,19,0,1,1,1,18,18,1,1,1,0,0,0,118.7,201912010htx

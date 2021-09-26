@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Matt Breida,BreiMa00,rushing,SFO,9,39,3,16,1.8,23,2.6,0,NA,201809300sdg
+C.J. Beathard,BeatC.00,rushing,SFO,7,19,1,5,0.7,14,2,0,NA,201809300sdg
+Alfred Morris,MorrAl00,rushing,SFO,4,14,1,8,2,6,1.5,0,NA,201809300sdg
+Marquise Goodwin,GoodMa00,rushing,SFO,1,4,0,4,4,0,0,0,NA,201809300sdg
+Melvin Gordon,GordMe00,rushing,LAC,15,104,4,41,2.7,63,4.2,4,3.8,201809300sdg
+Austin Ekeler,EkelAu00,rushing,LAC,8,25,1,-1,-0.1,26,3.3,0,NA,201809300sdg
+Philip Rivers,RivePh00,rushing,LAC,4,-3,1,-3,-0.8,0,0,0,NA,201809300sdg

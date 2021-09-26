@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Gus Edwards,EdwaGu00,rushing,BAL,14,92,2,56,4,36,2.6,1,14,201812220sdg
+Lamar Jackson,JackLa00,rushing,BAL,13,39,3,4,0.3,35,2.7,0,NA,201812220sdg
+Kenneth Dixon,DixoKe00,rushing,BAL,8,28,1,16,2,12,1.5,0,NA,201812220sdg
+Melvin Gordon,GordMe00,rushing,LAC,12,41,2,18,1.5,23,1.9,0,NA,201812220sdg
+Travis Benjamin,BenjTr00,rushing,LAC,1,6,0,2,2,4,4,0,NA,201812220sdg
+Justin Jackson,JackJu01,rushing,LAC,1,-1,0,-3,-3,2,2,1,1,201812220sdg
+Philip Rivers,RivePh00,rushing,LAC,1,1,0,0,0,1,1,0,NA,201812220sdg
+Mike Williams,WillMi07,rushing,LAC,1,4,0,4,4,0,0,0,NA,201812220sdg

@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Robert Woods,WoodRo02,receiving,LAR,13,8,70,0,3,24,3,46,5.8,7.4,1,8,1,7.7,1,43.8,201909080car
+Cooper Kupp,KuppCo00,receiving,LAR,10,7,46,0,3,24,3.4,22,3.1,5,0,NA,0,0,0,79.6,201909080car
+Tyler Higbee,HigbTy00,receiving,LAR,5,4,20,1,2,5,1.3,15,3.8,4.6,0,NA,0,0,0,122.9,201909080car
+Brandin Cooks,CookBr00,receiving,LAR,6,2,39,0,2,27,13.5,12,6,15.3,0,NA,0,0,0,56.9,201909080car
+Gerald Everett,EverGe00,receiving,LAR,1,1,7,0,1,6,6,1,1,6,0,NA,0,0,0,95.8,201909080car
+Todd Gurley,GurlTo01,receiving,LAR,1,1,4,0,1,4,4,0,0,4,0,NA,0,0,0,83.3,201909080car
+Josh Reynolds,ReynJo00,receiving,LAR,2,0,0,0,NA,0,NA,0,NA,1,0,NA,2,100,0,39.6,201909080car
+Christian McCaffrey,McCaCh01,receiving,CAR,11,10,81,0,3,26,2.6,55,5.5,2.2,1,10,0,0,0,97.3,201909080car
+D.J. Moore,MoorD.00,receiving,CAR,10,7,76,0,5,61,8.7,15,2.1,10.3,0,NA,0,0,0,92.1,201909080car
+Greg Olsen,OlseGr00,receiving,CAR,9,4,36,0,2,20,5,16,4,6.9,0,NA,1,11.1,1,16.2,201909080car
+Curtis Samuel,SamuCu00,receiving,CAR,4,3,32,0,2,8,2.7,24,8,9.5,1,3,0,0,0,97.9,201909080car
+Jarius Wright,WrigJa02,receiving,CAR,1,1,14,0,1,10,10,4,4,10,0,NA,0,0,0,118.7,201909080car
+Chris Hogan,HogaCh00,receiving,CAR,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,201909080car
+Ian Thomas,ThomIa00,receiving,CAR,1,0,0,0,NA,0,NA,0,NA,-2,0,NA,0,0,0,39.6,201909080car

@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Zay Jones,JoneZa00,receiving,BUF,9,5,67,1,4,59,11.8,8,1.6,16.3,0,NA,0,0,0,116.4,201812230nwe
+Jason Croom,CrooJa00,receiving,BUF,6,4,55,0,1,29,7.3,26,6.5,7.3,1,4,0,0,0,95.8,201812230nwe
+Robert Foster,FostRo01,receiving,BUF,7,4,52,0,3,38,9.5,14,3.5,18.1,0,NA,2,28.6,0,80.7,201812230nwe
+LeSean McCoy,McCoLe01,receiving,BUF,3,3,10,0,NA,-8,-2.7,18,6,-2.7,0,NA,0,0,0,80.6,201812230nwe
+Keith Ford,FordKe00,receiving,BUF,4,2,14,0,1,-3,-1.5,17,8.5,-2.8,0,NA,0,0,0,58.3,201812230nwe
+Isaiah McKenzie,McKeIs00,receiving,BUF,8,1,8,0,NA,5,5,3,3,12.4,0,NA,1,12.5,1,0,201812230nwe
+Deonte Thompson,ThomDe04,receiving,BUF,2,1,11,0,1,7,7,4,4,14,0,NA,0,0,1,27.1,201812230nwe
+Logan Thomas,ThomLo00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,22,0,NA,1,100,0,39.6,201812230nwe
+Julian Edelman,EdelJu00,receiving,NWE,10,6,70,1,3,26,4.3,44,7.3,5.4,2,3,1,10,0,114.6,201812230nwe
+Rex Burkhead,BurkRe00,receiving,NWE,5,4,40,0,1,1,0.3,39,9.8,1,0,NA,0,0,1,60.4,201812230nwe
+James White,WhitJa02,receiving,NWE,4,2,13,0,0,6,3,7,3.5,4,0,NA,0,0,0,57.3,201812230nwe
+Cordarrelle Patterson,PattCo00,receiving,NWE,2,1,3,0,0,0,0,3,3,2.5,0,NA,0,0,0,56.2,201812230nwe
+Rob Gronkowski,GronRo00,receiving,NWE,3,0,0,0,NA,0,NA,0,NA,12.3,0,NA,1,33.3,1,0,201812230nwe

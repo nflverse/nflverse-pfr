@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Carlos Hyde,HydeCa00,rushing,HOU,10,83,4,59,5.9,24,2.4,1,10,201909090nor
+Duke Johnson,JohnDu00,rushing,HOU,9,57,2,33,3.7,24,2.7,1,9,201909090nor
+Deshaun Watson,WatsDe00,rushing,HOU,4,40,2,40,10,0,0,0,NA,201909090nor
+Alvin Kamara,KamaAl00,rushing,NOR,13,97,4,76,5.8,21,1.6,3,4.3,201909090nor
+Latavius Murray,MurrLa00,rushing,NOR,6,43,2,37,6.2,6,1,1,6,201909090nor
+Taysom Hill,HillTa00,rushing,NOR,2,8,0,5,2.5,3,1.5,1,2,201909090nor

@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Brandon Aiyuk,AiyuBr00,receiving,SFO,8,5,70,0,4,55,11,15,3,10.3,0,NA,0,0,0,90.6,202009270nyg
+Kendrick Bourne,BourKe00,receiving,SFO,6,4,63,0,3,46,11.5,17,4.3,11,1,4,0,0,0,101.4,202009270nyg
+Ross Dwelley,DwelRo00,receiving,SFO,4,4,49,0,3,19,4.8,30,7.5,4.8,1,4,0,0,0,117.7,202009270nyg
+Jerick McKinnon,McKiJe00,receiving,SFO,4,3,39,0,2,33,11,6,2,6.5,0,NA,1,25,0,105.2,202009270nyg
+Jeff Wilson,WilsJe01,receiving,SFO,3,3,54,1,3,9,3,45,15,3,0,NA,0,0,0,158.3,202009270nyg
+Jordan Reed,ReedJo02,receiving,SFO,6,2,23,0,2,21,10.5,2,1,9.3,0,NA,0,0,0,45.8,202009270nyg
+Jamycal Hasty,HastJa02,receiving,SFO,1,1,9,0,NA,5,5,4,4,5,0,NA,0,0,0,104.2,202009270nyg
+Kyle Juszczyk,JuszKy00,receiving,SFO,1,1,7,0,NA,4,4,3,3,4,0,NA,0,0,0,95.8,202009270nyg
+Mohamed Sanu,SanuMo00,receiving,SFO,1,1,9,0,1,5,5,4,4,5,0,NA,0,0,0,104.2,202009270nyg
+Trent Taylor,TaylTr02,receiving,SFO,1,1,20,0,1,5,5,15,15,5,0,NA,0,0,0,118.7,202009270nyg
+Golden Tate,TateGo00,receiving,NYG,7,5,36,0,2,33,6.6,3,0.6,6,0,NA,0,0,0,83,202009270nyg
+Evan Engram,EngrEv00,receiving,NYG,5,3,22,0,2,10,3.3,12,4,6.4,0,NA,0,0,1,30.8,202009270nyg
+Darius Slayton,SlayDa01,receiving,NYG,7,3,53,0,1,48,16,5,1.7,13.1,0,NA,0,0,0,69.3,202009270nyg
+Wayne Gallman,GallWa00,receiving,NYG,3,2,7,0,NA,7,3.5,0,0,3,0,NA,0,0,0,70.1,202009270nyg
+Dion Lewis,LewiDi00,receiving,NYG,3,1,10,0,1,5,5,5,5,2,0,NA,0,0,0,43.7,202009270nyg
+Damion Ratley,RatlDa00,receiving,NYG,2,1,29,0,1,24,24,5,5,14,0,NA,0,0,0,95.8,202009270nyg
+Kaden Smith,SmitKa00,receiving,NYG,2,1,13,0,1,4,4,9,9,4,0,NA,0,0,0,70.8,202009270nyg
+C.J. Board,BoarC.00,receiving,NYG,2,1,9,0,NA,9,9,0,0,27.5,0,NA,0,0,0,62.5,202009270nyg

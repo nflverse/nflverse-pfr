@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,LAC,15,80,5,29,1.9,51,3.4,2,7.5,201809230ram
+Austin Ekeler,EkelAu00,rushing,LAC,4,47,1,21,5.3,26,6.5,0,NA,201809230ram
+Tyrell Williams,WillTy00,rushing,LAC,1,14,1,14,14,0,0,0,NA,201809230ram
+Todd Gurley,GurlTo01,rushing,LAR,23,105,7,57,2.5,48,2.1,0,NA,201809230ram
+Malcolm Brown,BrowMa03,rushing,LAR,5,42,3,35,7,7,1.4,0,NA,201809230ram
+Jared Goff,GoffJa00,rushing,LAR,3,14,1,14,4.7,0,0,0,NA,201809230ram
+Robert Woods,WoodRo02,rushing,LAR,3,13,1,11,3.7,2,0.7,0,NA,201809230ram
+Cooper Kupp,KuppCo00,rushing,LAR,1,-3,0,-3,-3,0,0,0,NA,201809230ram

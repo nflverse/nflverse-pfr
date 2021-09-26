@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Miles Sanders,SandMi01,rushing,PHI,11,80,3,73,6.6,7,0.6,0,NA,202010110pit
+Carson Wentz,WentCa00,rushing,PHI,4,11,1,10,2.5,1,0.3,1,4,202010110pit
+Boston Scott,ScotBo02,rushing,PHI,1,3,NA,1,1,2,2,0,NA,202010110pit
+James Conner,ConnJa00,rushing,PIT,15,44,3,26,1.7,18,1.2,1,15,202010110pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,7,19,1,10,1.4,9,1.3,0,NA,202010110pit
+Chase Claypool,ClayCh01,rushing,PIT,3,6,2,4,1.3,2,0.7,0,NA,202010110pit
+Anthony McFarland Jr.,McFaAn00,rushing,PIT,3,6,NA,3,1,3,1,0,NA,202010110pit
+Ray-Ray McCloud,McClRa00,rushing,PIT,2,63,1,40,20,23,11.5,0,NA,202010110pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,2,-2,0,-2,-1,0,0,0,NA,202010110pit

@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Myles Gaskin,GaskMy00,rushing,MIA,22,66,4,22,1,44,2,1,22,202009240jax
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,7,38,4,33,4.7,5,0.7,0,NA,202009240jax
+Matt Breida,BreiMa00,rushing,MIA,3,4,NA,3,1,1,0.3,0,NA,202009240jax
+Jordan Howard,HowaJo00,rushing,MIA,3,1,1,-1,-0.3,2,0.7,0,NA,202009240jax
+Jakeem Grant,GranJa00,rushing,MIA,1,29,1,21,21,8,8,0,NA,202009240jax
+James Robinson,RobiJa00,rushing,JAX,11,46,3,15,1.4,31,2.8,0,NA,202009240jax
+Gardner Minshew II,MinsGa00,rushing,JAX,3,22,1,22,7.3,0,0,0,NA,202009240jax
+Chris Thompson,ThomCh03,rushing,JAX,2,3,NA,1,0.5,2,1,0,NA,202009240jax
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,1,1,1,0,0,1,1,0,NA,202009240jax

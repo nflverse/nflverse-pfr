@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Jacobs,JacoJo01,rushing,LVR,14,65,4,21,1.5,44,3.1,1,14,202011080sdg
+Devontae Booker,BookDe00,rushing,LVR,8,68,4,56,7,12,1.5,0,NA,202011080sdg
+Derek Carr,CarrDe02,rushing,LVR,2,14,1,13,6.5,1,0.5,0,NA,202011080sdg
+Jalen Richard,RichJa01,rushing,LVR,1,3,0,2,2,1,1,0,NA,202011080sdg
+Henry Ruggs III,RuggHe00,rushing,LVR,1,10,1,7,7,3,3,0,NA,202011080sdg
+Kalen Ballage,BallKa00,rushing,LAC,15,69,4,40,2.7,29,1.9,0,NA,202011080sdg
+Joshua Kelley,KellJo01,rushing,LAC,9,28,1,14,1.6,14,1.6,0,NA,202011080sdg
+Justin Herbert,HerbJu00,rushing,LAC,5,24,1,14,2.8,10,2,0,NA,202011080sdg
+Joe Reed,ReedJo03,rushing,LAC,2,7,NA,5,2.5,2,1,0,NA,202011080sdg

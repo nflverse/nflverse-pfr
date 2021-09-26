@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Matt Ryan,RyanMa00,passing,ATL,15,26,239,8,29.6,285,11,128,8.5,4.9,111,7.4,2,7.7%,4,15.4%,1,6,1,2,4,14.8%,0,NA,201812230car
+Taylor Heinicke,HeinTa00,passing,CAR,33,53,274,17,30.9,411,7.8,133,4,2.5,141,4.3,0,0.0%,14,28.6%,2,15,4,6,12,21.1%,2,15,201812230car
+Kyle Allen,AlleKy00,passing,CAR,4,4,38,2,50,34,8.5,34,8.5,8.5,4,1,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,201812230car

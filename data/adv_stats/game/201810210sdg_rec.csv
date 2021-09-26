@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tajae Sharpe,SharTa00,receiving,TEN,9,7,101,0,7,83,11.9,18,2.6,9.8,0,NA,0,0,0,113.4,201810210sdg
+Dion Lewis,LewiDi00,receiving,TEN,6,6,64,0,3,-7,-1.2,71,11.8,-1.2,1,6,0,0,0,111.1,201810210sdg
+Corey Davis,DaviCo03,receiving,TEN,7,3,10,0,1,2,0.7,8,2.7,2.6,0,NA,2,28.6,0,50.3,201810210sdg
+Derrick Henry,HenrDe00,receiving,TEN,2,2,32,0,2,5,2.5,27,13.5,2.5,1,2,0,0,0,118.7,201810210sdg
+Jonnu Smith,SmitJo01,receiving,TEN,3,2,11,0,1,6,3,5,2.5,4,1,2,0,0,1,33.3,201810210sdg
+Luke Stocker,StocLu00,receiving,TEN,2,2,11,1,2,6,3,5,2.5,3,0,NA,0,0,0,129.2,201810210sdg
+Cameron Batson,BatsCa00,receiving,TEN,1,1,0,0,NA,0,0,0,0,0,0,NA,0,0,0,79.2,201810210sdg
+Taywan Taylor,TaylTa00,receiving,TEN,2,1,8,0,NA,5,5,3,3,13.5,0,NA,1,50,0,60.4,201810210sdg
+Keenan Allen,AlleKe00,receiving,LAC,5,5,72,0,5,47,9.4,25,5,9.4,0,NA,0,0,0,118.7,201810210sdg
+Austin Ekeler,EkelAu00,receiving,LAC,7,5,26,0,1,-16,-3.2,42,8.4,-1.6,2,2.5,1,14.3,0,77.1,201810210sdg
+Tyrell Williams,WillTy00,receiving,LAC,4,4,118,1,2,77,19.3,41,10.3,19.3,0,NA,0,0,0,158.3,201810210sdg
+Antonio Gates,GateAn00,receiving,LAC,3,2,11,0,1,5,2.5,6,3,5.3,0,NA,0,0,0,72.9,201810210sdg
+Travis Benjamin,BenjTr00,receiving,LAC,1,1,13,0,1,13,13,0,0,13,0,NA,0,0,0,118.7,201810210sdg
+Justin Jackson,JackJu01,receiving,LAC,1,1,11,0,1,1,1,10,10,1,0,NA,0,0,0,112.5,201810210sdg
+Mike Williams,WillMi07,receiving,LAC,3,1,55,1,1,39,39,16,16,20,0,NA,0,0,0,121.5,201810210sdg
+Virgil Green,GreeVi00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,201810210sdg

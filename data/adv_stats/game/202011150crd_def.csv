@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+A.J. Klein,KleiAJ00,defense,BUF,0,4,4,100.0%,59,14.8,14.8,0,118.7,9,36,23,7,0,0,1,1,11,2,15.4%,202011150crd
+Taron Johnson,JohnTa01,defense,BUF,0,6,3,50.0%,19,6.3,3.2,0,56.9,2.5,3,16,2,1,0,1,2,9,3,25.0%,202011150crd
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,4,3,75.0%,47,15.7,11.8,0,113.5,12,28,19,6,0,0,0,0,10,2,16.7%,202011150crd
+Tre'Davious White,WhitTr01,defense,BUF,0,5,3,60.0%,49,16.3,9.8,1,132.5,13,45,4,0,0,0,0,0,3,1,25.0%,202011150crd
+Dane Jackson,JackDa02,defense,BUF,0,6,3,50.0%,27,9,4.5,0,62.5,6,13,14,0,0,0,0,0,8,1,11.1%,202011150crd
+Siran Neal,NealSi00,defense,BUF,0,2,2,100.0%,16,8,8,0,100,6.5,13,3,1,0,0,0,0,2,0,0.0%,202011150crd
+Trent Murphy,MurpTr00,defense,BUF,0,2,2,100.0%,16,8,8,0,100,6.5,13,3,0,0,0,0,0,4,1,20.0%,202011150crd
+Jerry Hughes,HughJe99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,1,100.0%,202011150crd
+Justin Zimmer,ZimmJu00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,50.0%,202011150crd
+Mario Addison,AddiMa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202011150crd
+Micah Hyde,HydeMi00,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,7,NA,NA,0,0,0,0,0,7,0,0.0%,202011150crd
+Jordan Poyer,PoyeJo00,defense,BUF,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0,0,4,2,33.3%,202011150crd
+Byron Murphy,MurpBy00,defense,ARI,0,8,7,87.5%,65,9.3,8.1,0,100.5,7.6,41,24,13,0,1,0,1,6,0,0.0%,202011150crd
+Dre Kirkpatrick,KirkDr00,defense,ARI,1,8,5,62.5%,66,13.2,8.3,0,49,13,27,39,0,0,0,0,0,3,1,25.0%,202011150crd
+Patrick Peterson,PetePa00,defense,ARI,1,5,4,80.0%,45,11.3,9,1,104.2,13,44,1,0,0,0,0,0,2,1,33.3%,202011150crd
+Budda Baker,BakeBu00,defense,ARI,0,4,3,75.0%,29,9.7,7.3,1,134.4,8.3,24,5,11,1,0,0,1,9,0,0.0%,202011150crd
+Jalen Thompson,ThomJa04,defense,ARI,0,3,3,100.0%,17,5.7,5.7,0,90.3,1,3,14,1,0,0,0,0,7,0,0.0%,202011150crd
+Haason Reddick,ReddHa00,defense,ARI,0,2,2,100.0%,0,0,0,0,79.2,-4,-8,8,13,3,0,0,3,4,0,0.0%,202011150crd
+Isaiah Simmons,SimmIs00,defense,ARI,0,4,2,50.0%,33,16.5,8.3,0,78.1,7.8,2,31,5,0,1,0,1,4,1,20.0%,202011150crd
+Jordan Hicks,HickJo00,defense,ARI,0,3,2,66.7%,10,5,3.3,0,71.5,0.3,4,6,13,0,0,0,0,8,0,0.0%,202011150crd
+Markus Golden,GoldMa00,defense,ARI,0,2,1,50.0%,10,10,5,0,64.6,0.5,-4,14,13,0,1,0,1,1,0,0.0%,202011150crd
+De'Vondre Campbell,CampDe00,defense,ARI,0,2,1,50.0%,5,5,2.5,0,56.2,4,4,1,7,1,0,0,1,3,1,25.0%,202011150crd
+Trevon Coley,ColeTr01,defense,ARI,0,1,1,100.0%,-3,-3,-3,0,79.2,-6,-6,3,0,0,1,0,1,3,0,0.0%,202011150crd
+Kylie Fitts,FittKy00,defense,ARI,0,1,1,100.0%,7,7,7,0,95.8,4,4,3,4,0,0,0,0,1,0,0.0%,202011150crd
+Angelo Blackson,BlacAn00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202011150crd
+Johnathan Joseph,JoseJo20,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,2,0,0,0,0,1,0,0.0%,202011150crd

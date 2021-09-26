@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Ben Roethlisberger,RoetBe00,passing,PIT,27,47,314,10,20.4,387,8.2,175,6.5,3.7,139,5.1,4,8.9%,8,17.8%,2,1,2,4,8,16.3%,0,NA,201811180jax
+Blake Bortles,BortBl00,passing,JAX,10,18,104,5,20.8,151,8.4,52,5.2,2.9,52,5.2,1,5.6%,5,27.8%,6,12,1,1,8,30.8%,2,8.5,201811180jax

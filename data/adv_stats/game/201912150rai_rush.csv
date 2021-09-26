@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,JAX,15,42,2,6,0.4,36,2.4,1,15,201912150rai
+Gardner Minshew II,MinsGa00,rushing,JAX,5,27,2,18,3.6,9,1.8,0,NA,201912150rai
+Ryquell Armstead,ArmsRy00,rushing,JAX,1,1,NA,-1,-1,2,2,0,NA,201912150rai
+Dede Westbrook,WestDe00,rushing,JAX,1,7,0,0,0,7,7,0,NA,201912150rai
+Josh Jacobs,JacoJo01,rushing,OAK,24,89,4,16,0.7,73,3,3,8,201912150rai
+DeAndre Washington,WashDe00,rushing,OAK,6,16,2,7,1.2,9,1.5,0,NA,201912150rai
+Derek Carr,CarrDe02,rushing,OAK,1,12,1,12,12,0,0,0,NA,201912150rai
+Jalen Richard,RichJa01,rushing,OAK,1,11,1,11,11,0,0,0,NA,201912150rai

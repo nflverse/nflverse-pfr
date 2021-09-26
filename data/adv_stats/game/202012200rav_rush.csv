@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Robinson,RobiJa00,rushing,JAX,16,35,3,9,0.6,26,1.6,1,16,202012200rav
+Gardner Minshew II,MinsGa00,rushing,JAX,2,9,1,9,4.5,0,0,0,NA,202012200rav
+Dare Ogunbowale,OgunDa00,rushing,JAX,2,17,1,6,3,11,5.5,0,NA,202012200rav
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,2,1,0,0,0,1,0.5,0,NA,202012200rav
+J.K. Dobbins,DobbJK00,rushing,BAL,14,64,4,40,2.9,24,1.7,0,NA,202012200rav
+Lamar Jackson,JackLa00,rushing,BAL,10,35,3,21,2.1,14,1.4,0,NA,202012200rav
+Gus Edwards,EdwaGu00,rushing,BAL,9,42,2,14,1.6,28,3.1,1,9,202012200rav
+Tyler Huntley,HuntTy01,rushing,BAL,4,18,1,17,4.3,1,0.3,0,NA,202012200rav

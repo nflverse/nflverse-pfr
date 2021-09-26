@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,14,170,3,137,9.8,33,2.4,2,7,201812090was
+Wayne Gallman,GallWa00,rushing,NYG,14,38,2,26,1.9,12,0.9,0,NA,201812090was
+Elijhaa Penny,PennEl00,rushing,NYG,5,21,1,7,1.4,14,2.8,0,NA,201812090was
+Kyle Lauletta,LaulKy00,rushing,NYG,1,-2,NA,-2,-2,0,0,0,NA,201812090was
+Adrian Peterson,PeteAd01,rushing,WAS,10,16,1,4,0.4,12,1.2,2,5,201812090was
+Josh Johnson,JohnJo05,rushing,WAS,7,45,4,38,5.4,7,1,0,NA,201812090was
+Chris Thompson,ThomCh03,rushing,WAS,3,23,1,16,5.3,7,2.3,0,NA,201812090was
+Jehu Chesson,ChesJe00,rushing,WAS,1,-4,NA,-4,-4,0,0,0,NA,201812090was
+Byron Marshall,MarsBy01,rushing,WAS,1,4,NA,4,4,0,0,0,NA,201812090was

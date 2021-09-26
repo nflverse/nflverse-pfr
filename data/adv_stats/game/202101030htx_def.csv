@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Malcolm Butler,ButlMa01,defense,TEN,0,12,7,58.3%,100,14.3,8.3,1,113.2,14.3,93,7,1,0,0,0,0,6,0,0.0%,202101030htx
+David Long,LongDa04,defense,TEN,0,6,6,100.0%,78,13,13,1,158.3,7,42,36,7,0,0,0,0,8,5,38.5%,202101030htx
+Adoree' Jackson,JackAd00,defense,TEN,0,8,6,75.0%,91,15.2,11.4,1,151.6,12.9,83,8,1,0,0,0,0,4,0,0.0%,202101030htx
+Desmond King,KingDe01,defense,TEN,0,5,4,80.0%,22,5.5,4.4,0,85,3.8,7,15,4,0,0,1,1,4,0,0.0%,202101030htx
+Amani Hooker,HookAm00,defense,TEN,1,2,2,100.0%,23,11.5,11.5,0,75,10,20,3,0,0,0,0,0,3,0,0.0%,202101030htx
+Rashaan Evans,EvanRa01,defense,TEN,0,3,1,33.3%,0,0,0,0,42.4,0.3,-1,1,7,0,0,0,0,4,0,0.0%,202101030htx
+Kristian Fulton,FultKr00,defense,TEN,0,2,1,50.0%,9,9,4.5,0,62.5,11,9,0,0,0,0,0,0,1,0,0.0%,202101030htx
+Kenny Vaccaro,VaccKe00,defense,TEN,0,1,1,100.0%,42,42,42,0,118.7,19,19,23,2,0,0,0,0,7,0,0.0%,202101030htx
+Harold Landry,LandHa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,3,1,1,5,4,0,0.0%,202101030htx
+Jeffery Simmons,SimmJe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,202101030htx
+Jack Crawford,CrawJa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202101030htx
+Brooks Reed,ReedBr00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,1,1,3,0,0.0%,202101030htx
+Kevin Byard,ByarKe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,0,0.0%,202101030htx
+Vernon Hargreaves III,HargVe00,defense,HOU,0,10,9,90.0%,91,10.1,9.1,1,137.9,9.6,59,32,0,0,0,0,0,6,0,0.0%,202101030htx
+Keion Crossen,CrosKe00,defense,HOU,0,9,3,33.3%,71,23.7,7.9,0,62.7,18.6,68,3,0,0,0,0,0,5,2,28.6%,202101030htx
+Tyrell Adams,AdamTy00,defense,HOU,0,2,2,100.0%,16,8,8,0,100,7,14,2,6,0,1,0,1,7,1,12.5%,202101030htx
+Zach Cunningham,CunnZa00,defense,HOU,0,2,2,100.0%,25,12.5,12.5,0,118.7,7,14,11,4,0,0,0,0,13,0,0.0%,202101030htx
+John Reid,ReidJo00,defense,HOU,0,2,1,50.0%,5,5,2.5,0,56.2,5,-1,6,0,0,0,0,0,0,1,100.0%,202101030htx
+Brennan Scarlett,ScarBr00,defense,HOU,0,1,1,100.0%,8,8,8,0,100,5,5,3,2,0,0,0,0,2,1,33.3%,202101030htx
+Lonnie Johnson Jr.,JohnLo01,defense,HOU,0,1,1,100.0%,NA,NA,0,NA,79.2,5,NA,NA,1,0,0,0,0,4,1,20.0%,202101030htx
+Charles Omenihu,OmenCh00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,4,0,0.0%,202101030htx
+J.J. Watt,WattJ.00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,3,0,0.0%,202101030htx
+A.J. Moore,MoorA.00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,10,1,9.1%,202101030htx
+Jonathan Greenard,GreeJo04,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,1,0,1,9,1,10.0%,202101030htx
+Carlos Watkins,WatkCa00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,202101030htx
+Andrew Brown,BrowAn05,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,202101030htx
+Jacob Martin,MartJa02,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202101030htx

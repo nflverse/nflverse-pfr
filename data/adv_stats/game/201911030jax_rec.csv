@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeAndre Hopkins,HopkDe00,receiving,HOU,11,8,48,1,2,33,4.1,15,1.9,7.5,0,NA,0,0,0,111.2,201911030jax
+Duke Johnson,JohnDu00,receiving,HOU,5,5,68,0,1,23,4.6,45,9,4.6,0,NA,0,0,0,118.7,201911030jax
+Kenny Stills,StilKe00,receiving,HOU,4,4,52,0,4,48,12,4,1,12,0,NA,0,0,0,118.7,201911030jax
+Jordan Akins,AkinJo00,receiving,HOU,3,3,24,0,2,3,1,21,7,1,0,NA,0,0,0,100,201911030jax
+DeAndre Carter,CartDe02,receiving,HOU,1,1,8,0,1,3,3,5,5,3,0,NA,0,0,0,100,201911030jax
+Darren Fells,FellDa01,receiving,HOU,3,1,1,1,1,0,0,1,1,2,0,NA,1,33.3,0,81.9,201911030jax
+Steven Mitchell,MitcSt02,receiving,HOU,1,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,201911030jax
+Ryquell Armstead,ArmsRy00,receiving,JAX,5,5,65,0,3,19,3.8,46,9.2,3.8,0,NA,0,0,0,118.7,201911030jax
+Keelan Cole,ColeKe00,receiving,JAX,6,5,80,0,4,53,10.6,27,5.4,11.8,0,NA,0,0,1,79.2,201911030jax
+Leonard Fournette,FourLe00,receiving,JAX,6,5,32,0,1,-5,-1,37,7.4,-0.7,1,5,1,16.7,0,88.9,201911030jax
+DJ Chark,CharDJ00,receiving,JAX,9,4,32,0,2,23,5.8,9,2.3,13,0,NA,0,0,0,53.9,201911030jax
+Seth Devalve,DevaSe00,receiving,JAX,5,4,41,0,2,26,6.5,15,3.8,6.4,0,NA,0,0,0,100.8,201911030jax
+Chris Conley,ConlCh00,receiving,JAX,7,2,32,0,2,31,15.5,1,0.5,13.7,0,NA,1,14.3,0,46.1,201911030jax
+C.J. Board,BoarC.00,receiving,JAX,3,1,23,0,1,18,18,5,5,8,0,NA,0,0,0,61.8,201911030jax
+Josh Oliver,OlivJo00,receiving,JAX,2,1,4,0,NA,1,1,3,3,10.5,0,NA,0,0,1,16.7,201911030jax
+Ben Koyack,KoyaBe00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,-1,0,NA,1,100,0,39.6,201911030jax

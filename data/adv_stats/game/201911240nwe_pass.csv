@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Dak Prescott,PresDa01,passing,DAL,19,33,212,8,24.2,185,5.6,74,3.9,2.2,138,7.3,2,6.3%,7,21.9%,0,10,2,6,8,23.5%,1,4,201911240nwe
+Tom Brady,BradTo00,passing,NWE,17,37,190,10,25.6,385,10.4,143,8.4,3.9,47,2.8,5,14.7%,9,26.5%,2,9,1,5,8,20.5%,0,NA,201911240nwe

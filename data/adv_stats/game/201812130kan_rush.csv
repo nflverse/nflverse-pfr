@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Justin Jackson,JackJu01,rushing,LAC,16,58,4,23,1.4,35,2.2,1,16,201812130kan
+Detrez Newsome,NewsDe00,rushing,LAC,6,34,2,16,2.7,18,3,1,6,201812130kan
+Travis Benjamin,BenjTr00,rushing,LAC,1,8,0,8,8,0,0,0,NA,201812130kan
+Mike Williams,WillMi07,rushing,LAC,1,19,1,17,17,2,2,0,NA,201812130kan
+Damien Williams,WillDa05,rushing,KAN,10,49,5,38,3.8,11,1.1,0,NA,201812130kan
+Tyreek Hill,HillTy00,rushing,KAN,3,-5,0,-6,-2,1,0.3,0,NA,201812130kan
+Patrick Mahomes,MahoPa00,rushing,KAN,2,3,2,3,1.5,0,0,0,NA,201812130kan
+Darrel Williams,WillDa10,rushing,KAN,2,13,0,5,2.5,8,4,1,2,201812130kan

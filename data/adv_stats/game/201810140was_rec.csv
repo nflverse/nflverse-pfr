@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Christian McCaffrey,McCaCh01,receiving,CAR,8,7,46,0,2,8,1.1,38,5.4,3,0,NA,0,0,0,90.6,201810140was
+Torrey Smith,SmitTo02,receiving,CAR,5,5,43,1,3,40,8,3,0.6,8,0,NA,0,0,0,142.1,201810140was
+Devin Funchess,FuncDe00,receiving,CAR,8,5,74,1,5,60,12,14,2.8,13.9,0,NA,0,0,1,92.7,201810140was
+Greg Olsen,OlseGr00,receiving,CAR,7,4,48,0,3,17,4.3,31,7.8,6.7,0,NA,0,0,0,78.3,201810140was
+D.J. Moore,MoorD.00,receiving,CAR,5,4,59,0,2,32,8,27,6.8,9,1,4,0,0,0,115.8,201810140was
+Jarius Wright,WrigJa02,receiving,CAR,2,1,3,0,NA,3,3,0,0,4.5,0,NA,0,0,0,56.2,201810140was
+Chris Manhertz,ManhCh00,receiving,CAR,2,1,2,0,NA,-6,-6,8,8,0.5,0,NA,1,50,0,56.2,201810140was
+Jordan Reed,ReedJo02,receiving,WAS,9,5,36,0,2,16,3.2,20,4,6.1,0,NA,0,0,0,65,201810140was
+Maurice Harris,HarrMa05,receiving,WAS,4,3,13,0,1,10,3.3,3,1,5.3,0,NA,0,0,0,78.1,201810140was
+Josh Doctson,DoctJo00,receiving,WAS,5,3,20,0,NA,17,5.7,3,1,15.4,0,NA,0,0,0,68.7,201810140was
+Paul Richardson,RichPa01,receiving,WAS,5,3,31,1,3,24,8,7,2.3,7.8,0,NA,0,0,0,117.5,201810140was
+Vernon Davis,DaviVe00,receiving,WAS,3,3,48,1,2,46,15.3,2,0.7,15.3,0,NA,0,0,0,158.3,201810140was
+Brian Quick,QuicBr00,receiving,WAS,2,2,12,0,2,12,6,0,0,6,0,NA,0,0,0,91.7,201810140was
+Samaje Perine,PeriSa00,receiving,WAS,1,1,-3,0,NA,-5,-5,2,2,-5,0,NA,0,0,0,79.2,201810140was
+Kapri Bibbs,BibbKa00,receiving,WAS,2,1,6,0,NA,-1,-1,7,7,0.5,0,NA,1,50,0,56.2,201810140was
+Michael Floyd,FloyMi00,receiving,WAS,1,0,0,0,NA,0,NA,0,NA,11,0,NA,0,0,0,39.6,201810140was
+Adrian Peterson,PeteAd01,receiving,WAS,1,0,0,0,0,0,NA,0,NA,1,0,NA,0,0,0,39.6,201810140was

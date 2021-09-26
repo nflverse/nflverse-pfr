@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,WAS,20,76,3,43,2.2,33,1.7,1,20,201912080gnb
+Derrius Guice,GuicDe00,rushing,WAS,5,42,2,12,2.4,30,6,1,5,201912080gnb
+Wendell Smallwood,SmalWe00,rushing,WAS,2,4,NA,1,0.5,3,1.5,0,NA,201912080gnb
+Dwayne Haskins,HaskDw00,rushing,WAS,1,-1,0,-2,-2,1,1,0,NA,201912080gnb
+Aaron Jones,JoneAa00,rushing,GNB,16,134,7,64,4,70,4.4,2,8,201912080gnb
+Jamaal Williams,WillJa06,rushing,GNB,7,24,1,12,1.7,12,1.7,0,NA,201912080gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,5,16,1,16,3.2,0,0,0,NA,201912080gnb

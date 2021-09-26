@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Latavius Murray,MurrLa00,rushing,MIN,11,42,3,24,2.2,18,1.6,1,11,201810070phi
+Kirk Cousins,CousKi00,rushing,MIN,5,1,0,1,0.2,0,0,0,NA,201810070phi
+Roc Thomas,ThomRo05,rushing,MIN,4,8,1,3,0.8,5,1.3,1,4,201810070phi
+Stefon Diggs,DiggSt00,rushing,MIN,2,25,1,25,12.5,0,0,0,NA,201810070phi
+Mike Boone,BoonMi00,rushing,MIN,1,1,NA,1,1,0,0,0,NA,201810070phi
+Jay Ajayi,AjayJa00,rushing,PHI,8,29,1,25,3.1,4,0.5,0,NA,201810070phi
+Carson Wentz,WentCa00,rushing,PHI,5,26,1,24,4.8,2,0.4,0,NA,201810070phi
+Wendell Smallwood,SmalWe00,rushing,PHI,3,27,1,22,7.3,5,1.7,0,NA,201810070phi
+Josh Adams,AdamJo03,rushing,PHI,1,-1,NA,-1,-1,0,0,0,NA,201810070phi

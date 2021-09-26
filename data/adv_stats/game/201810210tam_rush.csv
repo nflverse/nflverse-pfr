@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,18,80,6,24,1.3,56,3.1,2,9,201810210tam
+Baker Mayfield,MayfBa00,rushing,CLE,4,43,1,18,4.5,25,6.3,0,NA,201810210tam
+Duke Johnson,JohnDu00,rushing,CLE,1,-4,0,-4,-4,0,0,0,NA,201810210tam
+Peyton Barber,BarbPe01,rushing,TAM,11,30,2,8,0.7,22,2,2,5.5,201810210tam
+Jameis Winston,WinsJa00,rushing,TAM,10,55,4,13,1.3,42,4.2,0,NA,201810210tam
+Ronald Jones II,JoneRo01,rushing,TAM,6,13,1,1,0.2,12,2,0,NA,201810210tam
+Jacquizz Rodgers,RodgJa00,rushing,TAM,3,8,0,2,0.7,6,2,0,NA,201810210tam
+DeSean Jackson,JackDe00,rushing,TAM,2,8,1,8,4,0,0,0,NA,201810210tam

@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Peyton Barber,BarbPe01,rushing,TAM,19,85,5,55,2.9,30,1.6,1,19,201810280cin
+Jameis Winston,WinsJa00,rushing,TAM,3,18,2,18,6,0,0,0,NA,201810280cin
+Ronald Jones II,JoneRo01,rushing,TAM,2,-3,NA,-3,-1.5,0,0,0,NA,201810280cin
+Ryan Fitzpatrick,FitzRy00,rushing,TAM,1,18,0,18,18,0,0,0,NA,201810280cin
+DeSean Jackson,JackDe00,rushing,TAM,1,4,0,3,3,1,1,0,NA,201810280cin
+Jacquizz Rodgers,RodgJa00,rushing,TAM,1,4,0,4,4,0,0,0,NA,201810280cin
+Joe Mixon,MixoJo00,rushing,CIN,21,123,6,79,3.8,44,2.1,1,21,201810280cin
+Andy Dalton,DaltAn00,rushing,CIN,3,10,0,10,3.3,0,0,0,NA,201810280cin
+Mark Walton,WaltMa00,rushing,CIN,2,7,2,6,3,1,0.5,0,NA,201810280cin
+Tyler Boyd,BoydTy00,rushing,CIN,1,-2,0,-2,-2,0,0,0,NA,201810280cin

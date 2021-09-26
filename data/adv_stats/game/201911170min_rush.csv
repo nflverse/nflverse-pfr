@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Phillip Lindsay,LindPh00,rushing,DEN,16,67,1,51,3.2,16,1,0,NA,201911170min
+Royce Freeman,FreeRo00,rushing,DEN,8,31,1,14,1.8,17,2.1,0,NA,201911170min
+Brandon Allen,AlleBr00,rushing,DEN,3,18,2,14,4.7,4,1.3,0,NA,201911170min
+Noah Fant,FantNo00,rushing,DEN,2,-7,0,-7,-3.5,0,0,0,NA,201911170min
+Courtland Sutton,SuttCo00,rushing,DEN,2,10,1,6,3,4,2,0,NA,201911170min
+Devontae Booker,BookDe00,rushing,DEN,1,4,NA,0,0,4,4,0,NA,201911170min
+Andy Janovich,JanoAn00,rushing,DEN,1,1,1,0,0,1,1,0,NA,201911170min
+Dalvin Cook,CookDa01,rushing,MIN,11,26,4,19,1.7,7,0.6,0,NA,201911170min
+Alexander Mattison,MattAl01,rushing,MIN,3,5,NA,5,1.7,0,0,0,NA,201911170min
+Kirk Cousins,CousKi00,rushing,MIN,2,1,1,0,0,1,0.5,0,NA,201911170min
+Ameer Abdullah,AbduAm00,rushing,MIN,1,5,0,5,5,0,0,0,NA,201911170min
+C.J. Ham,HamxC.00,rushing,MIN,1,0,NA,0,0,0,0,0,NA,201911170min

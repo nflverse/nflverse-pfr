@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Ben Roethlisberger,RoetBe00,passing,PIT,25,29,282,16,53.3,137,4.7,91,3.6,3.1,191,7.6,0,0.0%,2,6.9%,1,6,1,1,3,10.0%,0,NA,201812090rai
+Joshua Dobbs,DobbJo00,passing,PIT,4,9,24,1,11.1,44,4.9,4,1,0.4,20,5,0,0.0%,1,11.1%,0,1,0,1,1,9.1%,2,7.5,201812090rai
+Derek Carr,CarrDe02,passing,OAK,25,34,322,17,44.7,301,8.9,230,9.2,6.8,92,3.7,2,6.3%,2,6.3%,4,14,4,1,9,23.7%,0,NA,201812090rai

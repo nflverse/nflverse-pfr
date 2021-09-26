@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+T.J. Carrie,CarrTr00,defense,CLE,0,7,5,71.4%,42,8.4,6,0,86.6,12.7,33,9,0,0,0,0,0,7,0,0.0%,201810280pit
+Denzel Ward,WardDe02,defense,CLE,0,5,4,80.0%,58,14.5,11.6,2,154.6,11,47,11,0,0,0,0,0,7,0,0.0%,201810280pit
+Jabrill Peppers,PeppJa00,defense,CLE,0,3,3,100.0%,26,8.7,8.7,0,102.8,4,12,14,3,0,0,0,0,4,0,0.0%,201810280pit
+Christian Kirksey,KirkCh00,defense,CLE,0,4,3,75.0%,45,15,11.3,0,111.5,7.8,19,26,3,0,0,0,0,7,1,12.5%,201810280pit
+Derrick Kindred,KindDe00,defense,CLE,1,3,2,66.7%,6,3,2,0,30.6,0.7,3,3,3,0,0,0,0,5,0,0.0%,201810280pit
+Jamie Collins,CollJa00,defense,CLE,0,2,2,100.0%,28,14,14,0,118.7,1.5,3,25,1,0,0,0,0,11,1,8.3%,201810280pit
+Briean Boddy-Calhoun,BoddBr01,defense,CLE,0,5,2,40.0%,12,6,2.4,0,47.9,7.8,11,1,0,0,0,0,0,3,0,0.0%,201810280pit
+Damarious Randall,RandDa00,defense,CLE,0,3,1,33.3%,15,15,5,0,50.7,32,15,0,0,0,0,0,0,4,1,20.0%,201810280pit
+Myles Garrett,GarrMy00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,1,0,0.0%,201810280pit
+Larry Ogunjobi,OgunLa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201810280pit
+Genard Avery,AverGe00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,1,0,0.0%,201810280pit
+Joe Haden,HadeJo99,defense,PIT,1,10,5,50.0%,50,10,5,0,25,11.8,39,11,0,0,0,0,0,3,2,40.0%,201810280pit
+T.J. Watt,WattT.00,defense,PIT,0,4,3,75.0%,36,12,9,0,102.1,4,-2,38,7,3,0,1,4,7,2,22.2%,201810280pit
+Coty Sensabaugh,SensCo00,defense,PIT,0,4,3,75.0%,12,4,3,1,116.7,5,-5,17,0,0,0,0,0,3,1,25.0%,201810280pit
+Jonathan Bostic,BostJo00,defense,PIT,0,2,2,100.0%,14,7,7,0,95.8,0,0,14,7,0,1,0,1,4,0,0.0%,201810280pit
+L.J. Fort,FortL.00,defense,PIT,0,2,2,100.0%,6,3,3,0,79.2,0.5,1,5,4,1,0,0,1,3,0,0.0%,201810280pit
+Mike Hilton,HiltMi01,defense,PIT,0,6,2,33.3%,10,5,1.7,0,42.4,10.2,7,3,7,1,0,0,1,4,0,0.0%,201810280pit
+Vince Williams,WillVi01,defense,PIT,0,1,1,100.0%,-1,-1,-1,0,79.2,-1,-1,0,4,1,1,0,2,5,0,0.0%,201810280pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,2,1,50.0%,21,21,10.5,0,87.5,14.5,11,10,7,0,0,0,0,4,0,0.0%,201810280pit
+Sean Davis,DaviSe00,defense,PIT,0,2,1,50.0%,24,24,12,1,133.3,16.5,24,0,0,0,0,0,0,5,0,0.0%,201810280pit
+Anthony Chickillo,ChicAn00,defense,PIT,0,2,1,50.0%,8,8,4,0,60.4,1,-5,13,3,0,0,0,0,2,0,0.0%,201810280pit
+Bud Dupree,DuprAl00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,1,2,0,3,4,1,20.0%,201810280pit
+Stephon Tuitt,TuitSt00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,7,0,0.0%,201810280pit
+Cameron Heyward,HeywCa01,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201810280pit

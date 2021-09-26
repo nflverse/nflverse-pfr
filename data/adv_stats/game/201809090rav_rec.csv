@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Zay Jones,JoneZa00,receiving,BUF,6,3,26,0,2,25,8.3,1,0.3,9.5,0,NA,0,0,0,61.8,201809090rav
+Jason Croom,CrooJa00,receiving,BUF,3,2,18,0,1,6,3,12,6,9,0,NA,0,0,0,82.6,201809090rav
+Jeremy Kerley,KerlJe00,receiving,BUF,4,2,7,0,NA,-8,-4,15,7.5,3.8,0,NA,1,25,0,56.2,201809090rav
+Kelvin Benjamin,BenjKe00,receiving,BUF,7,1,10,0,NA,9,9,1,1,16.1,0,NA,0,0,2,0,201809090rav
+Logan Thomas,ThomLo00,receiving,BUF,2,1,24,0,1,24,24,0,0,19.5,0,NA,0,0,0,93.7,201809090rav
+LeSean McCoy,McCoLe01,receiving,BUF,3,1,-1,0,0,-5,-5,4,4,-3.7,0,NA,1,33.3,0,42.4,201809090rav
+Andre Holmes,HolmAn00,receiving,BUF,1,1,14,0,1,14,14,0,0,14,0,NA,0,0,0,118.7,201809090rav
+Charles Clay,ClayCh00,receiving,BUF,2,0,0,0,NA,0,NA,0,NA,14,0,NA,0,0,0,39.6,201809090rav
+Marcus Murphy,MurpMa03,receiving,BUF,2,0,0,0,NA,0,NA,0,NA,2,0,NA,1,50,0,39.6,201809090rav
+Robert Foster,FostRo01,receiving,BUF,2,0,0,0,NA,0,NA,0,NA,32.5,0,NA,0,0,0,39.6,201809090rav
+Javorius Allen,AlleJa01,receiving,BAL,6,5,15,0,1,5,1,10,2,2.5,1,5,0,0,0,79.2,201809090rav
+Willie Snead,SneaWi00,receiving,BAL,6,4,49,1,3,25,6.3,24,6,8.2,0,NA,0,0,0,131.2,201809090rav
+Maxx Williams,WillMa04,receiving,BAL,3,3,32,0,1,16,5.3,16,5.3,5.3,0,NA,0,0,0,111.1,201809090rav
+Michael Crabtree,CrabMi00,receiving,BAL,6,3,38,1,2,32,10.7,6,2,10.2,0,NA,1,16.7,0,109.7,201809090rav
+John Brown,BrowJo02,receiving,BAL,4,3,44,1,2,42,14,2,0.7,11.8,0,NA,0,0,0,150,201809090rav
+Nick Boyle,BoylNi00,receiving,BAL,6,3,40,0,2,14,4.7,26,8.7,3,0,NA,1,16.7,0,71.5,201809090rav
+Mark Andrews,AndrMa00,receiving,BAL,4,3,31,0,2,21,7,10,3.3,8.8,0,NA,0,0,0,96.9,201809090rav
+Chris Moore,MoorCh00,receiving,BAL,1,1,5,0,NA,2,2,3,3,2,0,NA,0,0,0,87.5,201809090rav
+Alex Collins,CollAl00,receiving,BAL,1,1,6,0,0,-1,-1,7,7,-1,0,NA,0,0,0,91.7,201809090rav

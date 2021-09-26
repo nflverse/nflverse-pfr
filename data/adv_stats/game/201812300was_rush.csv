@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Wendell Smallwood,SmalWe00,rushing,PHI,12,53,3,28,2.3,25,2.1,0,NA,201812300was
+Josh Adams,AdamJo03,rushing,PHI,11,50,3,33,3,17,1.5,0,NA,201812300was
+Darren Sproles,SproDa00,rushing,PHI,7,24,2,15,2.1,9,1.3,0,NA,201812300was
+Nick Foles,FoleNi00,rushing,PHI,2,4,2,4,2,0,0,0,NA,201812300was
+Nate Sudfeld,SudfNa00,rushing,PHI,2,-2,0,-2,-1,0,0,0,NA,201812300was
+Adrian Peterson,PeteAd01,rushing,WAS,4,0,NA,-3,-0.8,3,0.8,0,NA,201812300was
+Josh Johnson,JohnJo05,rushing,WAS,3,4,0,0,0,4,1.3,0,NA,201812300was
+Samaje Perine,PeriSa00,rushing,WAS,3,7,1,1,0.3,6,2,0,NA,201812300was
+Chris Thompson,ThomCh03,rushing,WAS,2,10,0,7,3.5,3,1.5,0,NA,201812300was

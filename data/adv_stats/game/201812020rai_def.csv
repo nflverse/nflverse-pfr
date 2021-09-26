@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kendall Fuller,FullKe00,defense,KAN,0,10,8,80.0%,52,6.5,5.2,0,88.3,2.6,10,42,1,0,0,0,0,8,0,0.0%,201812020rai
+Orlando Scandrick,ScanOr99,defense,KAN,0,10,6,60.0%,83,13.8,8.3,0,86.7,15.9,74,9,0,0,0,0,0,9,0,0.0%,201812020rai
+Steven Nelson,NelsSt01,defense,KAN,0,5,5,100.0%,52,10.4,10.4,1,149.6,7.6,38,14,1,0,0,0,0,6,0,0.0%,201812020rai
+Ron Parker,ParkRo01,defense,KAN,0,4,3,75.0%,37,12.3,9.3,0,103.1,12.3,18,19,0,0,0,0,0,7,1,12.5%,201812020rai
+Anthony Hitchens,HitcAn00,defense,KAN,0,2,2,100.0%,36,18,18,1,158.3,15,30,6,0,0,0,0,0,9,1,10.0%,201812020rai
+Reggie Ragland,RaglRe00,defense,KAN,0,2,1,50.0%,5,5,2.5,0,56.2,7,3,2,0,0,0,0,0,5,0,0.0%,201812020rai
+Dorian O'Daniel,ODanDo00,defense,KAN,0,1,1,100.0%,4,4,4,0,83.3,0,0,4,0,0,0,0,0,2,2,50.0%,201812020rai
+Daniel Sorensen,SoreDa01,defense,KAN,0,2,1,50.0%,15,15,7.5,0,75,3.5,6,9,1,0,0,0,0,2,1,33.3%,201812020rai
+Dee Ford,FordDe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,1.5,5,5,0,0.0%,201812020rai
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1.5,3,5,0,0.0%,201812020rai
+Justin Houston,HousJu00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,201812020rai
+Nick Nelson,NelsNi00,defense,OAK,0,10,8,80.0%,108,13.5,10.8,1,145,17.4,76,32,0,0,0,0,0,2,1,33.3%,201812020rai
+Tahir Whitehead,WhitTa00,defense,OAK,0,5,5,100.0%,90,18,18,0,118.7,10.8,54,36,0,1,1,0,2,7,0,0.0%,201812020rai
+Nicholas Morrow,MorrNi00,defense,OAK,0,4,4,100.0%,30,7.5,7.5,0,97.9,2,8,22,0,0,0,0,0,7,1,12.5%,201812020rai
+Reggie Nelson,NelsRe99,defense,OAK,0,5,3,60.0%,66,22,13.2,0,104.2,21.6,62,4,0,0,0,0,0,4,1,20.0%,201812020rai
+Gareon Conley,ConlGa00,defense,OAK,0,4,2,50.0%,8,4,2,0,56.2,5,-3,11,0,0,0,0,0,4,0,0.0%,201812020rai
+Marcus Gilchrist,GilcMa00,defense,OAK,0,5,2,40.0%,19,9.5,3.8,2,90.8,9.8,19,0,0,0,0,0,0,2,0,0.0%,201812020rai
+Daryl Worley,WorlDa00,defense,OAK,0,3,2,66.7%,12,6,4,1,113.9,17,10,2,0,0,0,0,0,5,1,16.7%,201812020rai
+Karl Joseph,JoseKa00,defense,OAK,0,2,1,50.0%,13,13,6.5,1,110.4,32,13,0,0,0,0,0,0,3,0,0.0%,201812020rai
+Shilique Calhoun,CalhSh00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,0,4,5,0,0.0%,201812020rai
+Arden Key,KeyxAr00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,0,0,NA,201812020rai
+Fadol Brown,BrowFa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201812020rai
+Frostee Rucker,RuckFr99,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,2,33.3%,201812020rai
+Clinton McDonald,McDoCl99,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812020rai
+Rashaan Melvin,MelvRa00,defense,OAK,0,4,0,0.0%,NA,NA,0,NA,39.6,17,NA,NA,1,0,0,0,0,2,0,0.0%,201812020rai

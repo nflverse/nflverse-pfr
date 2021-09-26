@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Jared Goff,GoffJa00,passing,LAR,19,24,216,11,42.3,185,7.7,135,7.1,5.6,81,4.3,0,0.0%,1,4.3%,2,16,1,2,5,19.2%,0,NA,201812230crd
+Josh Rosen,RoseJo01,passing,ARI,12,23,87,2,7.4,207,9,42,3.5,1.8,45,3.8,1,4.3%,5,21.7%,4,3,1,4,9,29.0%,4,12.3,201812230crd
+Mike Glennon,GlenMi00,passing,ARI,5,7,63,3,42.9,54,7.7,44,8.8,6.3,19,3.8,0,0.0%,1,14.3%,0,1,0,0,0,0.0%,0,NA,201812230crd
+Larry Fitzgerald,FitzLa00,passing,ARI,1,1,32,1,100,28,28,28,28,28,4,4,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201812230crd

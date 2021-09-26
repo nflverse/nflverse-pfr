@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+D'Ernest Johnson,JohnDE04,rushing,CLE,13,95,5,53,4.1,42,3.2,1,13,202010040dal
+Kareem Hunt,HuntKa00,rushing,CLE,11,71,5,29,2.6,42,3.8,0,NA,202010040dal
+Nick Chubb,ChubNi00,rushing,CLE,6,43,2,17,2.8,26,4.3,1,6,202010040dal
+Dontrell Hilliard,HillDo00,rushing,CLE,5,19,2,3,0.6,16,3.2,1,5,202010040dal
+Baker Mayfield,MayfBa00,rushing,CLE,3,6,0,6,2,0,0,0,NA,202010040dal
+Odell Beckham Jr.,BeckOd00,rushing,CLE,2,73,2,19,9.5,54,27,0,NA,202010040dal
+Ezekiel Elliott,ElliEz00,rushing,DAL,12,54,3,30,2.5,24,2,2,6,202010040dal
+Tony Pollard,PollTo00,rushing,DAL,3,16,2,9,3,7,2.3,0,NA,202010040dal
+Dak Prescott,PresDa01,rushing,DAL,2,12,1,9,4.5,3,1.5,0,NA,202010040dal
+CeeDee Lamb,LambCe00,rushing,DAL,1,3,0,2,2,1,1,0,NA,202010040dal

@@ -1,0 +1,22 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kenny Moore,MoorKe03,defense,IND,0,9,7,77.8%,55,7.9,6.1,0,92.1,8.3,15,40,2,0,0,0,0,6,1,14.3%,201812020jax
+Clayton Geathers,GeatCl00,defense,IND,0,3,3,100.0%,25,8.3,8.3,0,101.4,-1,-3,28,0,0,1,0,1,7,3,30.0%,201812020jax
+Darius Leonard,LeonDa00,defense,IND,0,3,3,100.0%,33,11,11,0,112.5,-0.3,-1,34,0,0,0,0,0,9,1,10.0%,201812020jax
+Quincy Wilson,WilsQu01,defense,IND,0,3,3,100.0%,29,9.7,9.7,0,106.9,7.3,22,7,0,0,0,0,0,3,0,0.0%,201812020jax
+Pierre Desir,DesiPi00,defense,IND,0,3,2,66.7%,8,4,2.7,0,70.1,4,2,6,0,0,0,0,0,8,0,0.0%,201812020jax
+Matthew Adams,AdamMa00,defense,IND,0,1,1,100.0%,5,5,5,0,87.5,1,1,4,0,0,0,0,0,2,0,0.0%,201812020jax
+Denico Autry,AutrDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,3,4,7,1,12.5%,201812020jax
+Tyquan Lewis,LewiTy00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,0,0,NA,201812020jax
+Mike Mitchell,MitcMi99,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812020jax
+Margus Hunt,HuntMa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812020jax
+A.J. Bouye,BouyA.00,defense,JAX,0,8,7,87.5%,40,5.7,5,0,87.5,4.5,19,21,0,0,0,0,0,6,0,0.0%,201812020jax
+Telvin Smith,SmitTe01,defense,JAX,0,7,7,100.0%,48,6.9,6.9,0,95.2,4.3,30,18,4,0,0,0,0,12,0,0.0%,201812020jax
+D.J. Hayden,HaydDJ00,defense,JAX,1,9,7,77.8%,64,9.1,7.1,0,56.7,4.1,7,57,1,0,0,0,0,4,1,20.0%,201812020jax
+Myles Jack,JackMy00,defense,JAX,0,6,6,100.0%,38,6.3,6.3,0,93.1,2.3,14,24,2,0,0,0,0,10,0,0.0%,201812020jax
+Jalen Ramsey,RamsJa00,defense,JAX,0,13,5,38.5%,58,11.6,4.5,0,52.7,14.3,51,7,0,0,0,0,0,6,0,0.0%,201812020jax
+Yannick Ngakoue,NgakYa00,defense,JAX,0,1,1,100.0%,0,0,0,0,79.2,0,0,0,0,1,1,1,3,4,0,0.0%,201812020jax
+Tashaun Gipson,GipsTa00,defense,JAX,0,3,1,33.3%,6,6,2,0,42.4,10,1,5,3,0,1,0,1,2,0,0.0%,201812020jax
+Ronnie Harrison,HarrRo02,defense,JAX,0,2,1,50.0%,10,10,5,0,64.6,3,6,4,3,0,0,1,1,3,0,0.0%,201812020jax
+Calais Campbell,CampCa99,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,2,0,0.0%,201812020jax
+Dawuane Smoot,SmooDa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,2,0,0.0%,201812020jax
+Marcell Dareus,DareMa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,1,50.0%,201812020jax

@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jaire Alexander,AlexJa00,defense,GNB,0,7,5,71.4%,70,14,10,0,103.3,7,26,44,0,0,0,0,0,3,1,25.0%,201812160chi
+Josh Jackson,JackJo01,defense,GNB,0,3,3,100.0%,35,11.7,11.7,0,115.3,3.7,11,24,1,0,0,0,0,5,1,16.7%,201812160chi
+Blake Martinez,MartBl01,defense,GNB,0,3,3,100.0%,33,11,11,0,112.5,7.7,23,10,3,0,0,0,0,7,0,0.0%,201812160chi
+Eddie Pleasant,PleaEd00,defense,GNB,0,2,2,100.0%,11,5.5,5.5,0,89.6,-1,-2,13,3,2,0,0,2,2,1,33.3%,201812160chi
+Kentrell Brice,BricKe00,defense,GNB,0,3,2,66.7%,21,10.5,7,1,126.4,7.7,8,13,0,0,0,0,0,2,1,33.3%,201812160chi
+Josh Jones,JoneJo06,defense,GNB,0,4,2,50.0%,26,13,6.5,1,110.4,10.8,18,8,2,0,0,0,0,6,0,0.0%,201812160chi
+Tony Brown,BrowTo01,defense,GNB,0,3,2,66.7%,30,15,10,0,99.3,12.3,22,8,0,0,0,0,0,3,0,0.0%,201812160chi
+Tramon Williams,WillTr99,defense,GNB,0,2,1,50.0%,9,9,4.5,0,62.5,4.5,7,2,1,0,0,0,0,4,0,0.0%,201812160chi
+Kyler Fackrell,FackKy00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0.5,3,4,1,20.0%,201812160chi
+Clay Matthews,MattCl99,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201812160chi
+Montravius Adams,AdamMo00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,0,0.0%,201812160chi
+Bashaud Breeland,BreeBa00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,1,1,0,0,1,1,2,66.7%,201812160chi
+Roquan Smith,SmitRo07,defense,CHI,0,8,6,75.0%,87,14.5,10.9,0,109.9,6.4,40,47,4,1,0,0,1,10,0,0.0%,201812160chi
+Prince Amukamara,AmukPr00,defense,CHI,0,6,5,83.3%,80,16,13.3,0,118.7,13.5,60,20,0,0,0,0,0,4,0,0.0%,201812160chi
+Kyle Fuller,FullKy00,defense,CHI,0,8,4,50.0%,40,10,5,0,64.6,12.9,15,25,0,0,0,0,0,2,1,33.3%,201812160chi
+Sherrick McManis,McMaSh99,defense,CHI,0,8,3,37.5%,17,5.7,2.1,0,45.8,14.9,1,16,2,0,1,0,1,2,0,0.0%,201812160chi
+Eddie Jackson,JackEd01,defense,CHI,1,6,3,50.0%,34,11.3,5.7,0,27.8,24,20,14,0,0,0,0,0,6,1,14.3%,201812160chi
+Danny Trevathan,TrevDa00,defense,CHI,0,3,2,66.7%,16,8,5.3,0,79.9,2,6,10,1,0,0,0,0,4,0,0.0%,201812160chi
+Leonard Floyd,FloyLe00,defense,CHI,0,1,1,100.0%,6,6,6,0,91.7,2,2,4,0,3,0,2,5,6,0,0.0%,201812160chi
+Adrian Amos,AmosAd00,defense,CHI,0,1,1,100.0%,2,2,2,0,79.2,0,0,2,0,0,0,0,0,5,1,16.7%,201812160chi
+Deon Bush,BushDe00,defense,CHI,0,2,1,50.0%,8,8,4,0,60.4,7,5,3,0,0,0,0,0,1,0,0.0%,201812160chi
+Khalil Mack,MackKh00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,6,0,2.5,9,6,0,0.0%,201812160chi
+Isaiah Irving,IrviIs00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201812160chi
+Bilal Nichols,NichBi00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,201812160chi
+Akiem Hicks,HickAk00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201812160chi

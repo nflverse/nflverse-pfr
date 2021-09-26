@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Williams,WillDa05,rushing,KAN,19,77,3,37,1.9,40,2.1,2,9.5,201911100oti
+Sammy Watkins,WatkSa00,rushing,KAN,2,12,1,10,5,2,1,0,NA,201911100oti
+Darrel Williams,WillDa10,rushing,KAN,2,6,1,4,2,2,1,0,NA,201911100oti
+Tyreek Hill,HillTy00,rushing,KAN,1,3,1,2,2,1,1,0,NA,201911100oti
+Darwin Thompson,ThomDa06,rushing,KAN,1,-1,NA,-1,-1,0,0,0,NA,201911100oti
+Derrick Henry,HenrDe00,rushing,TEN,23,188,7,61,2.7,127,5.5,3,7.7,201911100oti
+Ryan Tannehill,TannRy00,rushing,TEN,3,37,2,24,8,13,4.3,0,NA,201911100oti

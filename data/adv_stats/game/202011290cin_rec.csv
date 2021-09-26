@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Sterling Shepard,ShepSt00,receiving,NYG,8,7,64,0,3,60,8.6,4,0.6,10.1,0,NA,0,0,0,100,202011290cin
+Evan Engram,EngrEv00,receiving,NYG,9,6,129,0,2,92,15.3,37,6.2,11.9,0,NA,0,0,0,109.7,202011290cin
+Golden Tate,TateGo00,receiving,NYG,9,4,36,0,3,28,7,8,2,8.1,0,NA,0,0,0,55.8,202011290cin
+Wayne Gallman,GallWa00,receiving,NYG,5,3,-3,0,1,-3,-1,0,0,-2.4,0,NA,1,20,0,64.6,202011290cin
+C.J. Board,BoarC.00,receiving,NYG,1,1,11,0,1,5,5,6,6,5,0,NA,0,0,0,112.5,202011290cin
+Dion Lewis,LewiDi00,receiving,NYG,3,1,7,0,1,-2,-2,9,9,0.7,0,NA,1,33.3,0,42.4,202011290cin
+Darius Slayton,SlayDa01,receiving,NYG,2,0,0,0,NA,0,NA,0,NA,32,0,NA,0,0,0,39.6,202011290cin
+Tee Higgins,HiggTe00,receiving,CIN,5,5,44,1,2,29,5.8,15,3,5.8,0,NA,0,0,0,142.9,202011290cin
+Drew Sample,SampDr00,receiving,CIN,5,4,40,0,1,29,7.3,11,2.8,6.8,1,4,0,0,0,100,202011290cin
+Tyler Boyd,BoydTy00,receiving,CIN,6,3,15,0,NA,1,0.3,14,4.7,5.7,0,NA,0,0,1,16.7,202011290cin
+Giovani Bernard,BernGi00,receiving,CIN,3,2,17,0,1,0,0,17,8.5,0,1,2,1,33.3,0,81.2,202011290cin
+Cethan Carter,CartCe00,receiving,CIN,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,202011290cin
+Samaje Perine,PeriSa00,receiving,CIN,1,1,2,0,NA,-4,-4,6,6,-4,0,NA,0,0,0,79.2,202011290cin
+Trayveon Williams,WillTr06,receiving,CIN,1,1,13,0,1,-2,-2,15,15,-2,0,NA,0,0,0,118.7,202011290cin
+A.J. Green,GreeA.00,receiving,CIN,3,0,0,0,NA,0,NA,0,NA,25,0,NA,1,33.3,0,39.6,202011290cin
+Auden Tate,TateAu00,receiving,CIN,2,0,0,0,NA,0,NA,0,NA,15.5,0,NA,0,0,0,39.6,202011290cin

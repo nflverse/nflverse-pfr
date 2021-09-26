@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,15,88,3,37,2.5,51,3.4,3,5,202012060atl
+Taysom Hill,HillTa00,rushing,NOR,14,83,4,77,5.5,6,0.4,0,NA,202012060atl
+Latavius Murray,MurrLa00,rushing,NOR,5,17,1,10,2,7,1.4,0,NA,202012060atl
+Tommylee Lewis,LewiTo00,rushing,NOR,1,16,1,10,10,6,6,1,1,202012060atl
+Tre'Quan Smith,SmitTr03,rushing,NOR,1,3,0,1,1,2,2,0,NA,202012060atl
+Todd Gurley,GurlTo01,rushing,ATL,8,16,2,11,1.4,5,0.6,2,4,202012060atl
+Ito Smith,SmitIt00,rushing,ATL,8,36,1,28,3.5,8,1,1,8,202012060atl
+Brian Hill,HillBr02,rushing,ATL,5,18,1,9,1.8,9,1.8,0,NA,202012060atl

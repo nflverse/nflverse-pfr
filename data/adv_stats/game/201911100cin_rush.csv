@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mark Ingram,IngrMa01,rushing,BAL,9,34,1,19,2.1,15,1.7,2,4.5,201911100cin
+Lamar Jackson,JackLa00,rushing,BAL,7,65,2,33,4.7,32,4.6,0,NA,201911100cin
+Gus Edwards,EdwaGu00,rushing,BAL,4,17,2,6,1.5,11,2.8,0,NA,201911100cin
+Justice Hill,HillJu00,rushing,BAL,3,11,1,6,2,5,1.7,0,NA,201911100cin
+Robert Griffin III,GrifRo01,rushing,BAL,0,9,1,9,NA,0,NA,0,NA,201911100cin
+Joe Mixon,MixoJo00,rushing,CIN,30,114,7,55,1.8,59,2,1,30,201911100cin
+Ryan Finley,FinlRy00,rushing,CIN,5,22,2,18,3.6,4,0.8,0,NA,201911100cin
+Giovani Bernard,BernGi00,rushing,CIN,4,8,1,7,1.8,1,0.3,1,4,201911100cin
+Alex Erickson,EricAl01,rushing,CIN,1,13,1,10,10,3,3,0,NA,201911100cin

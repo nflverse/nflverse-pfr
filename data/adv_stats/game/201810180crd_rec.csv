@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Emmanuel Sanders,SandEm00,receiving,DEN,7,6,102,1,2,51,8.5,51,8.5,11.1,0,NA,0,0,1,118.7,201810180crd
+Demaryius Thomas,ThomDe03,receiving,DEN,6,5,42,0,3,32,6.4,10,2,6.8,0,NA,1,16.7,0,95.8,201810180crd
+Devontae Booker,BookDe00,receiving,DEN,1,1,-1,0,NA,-2,-2,1,1,-2,0,NA,0,0,0,79.2,201810180crd
+Matt LaCosse,LaCoMa00,receiving,DEN,1,1,12,0,1,5,5,7,7,5,0,NA,0,0,0,116.7,201810180crd
+Phillip Lindsay,LindPh00,receiving,DEN,1,1,6,0,1,-6,-6,12,12,-6,0,NA,0,0,0,91.7,201810180crd
+Courtland Sutton,SuttCo00,receiving,DEN,3,1,28,1,1,28,28,0,0,23,0,NA,1,33.3,0,108.3,201810180crd
+Larry Fitzgerald,FitzLa00,receiving,ARI,8,4,40,1,2,23,5.8,17,4.3,4.5,0,NA,0,0,0,104.2,201810180crd
+Chad Williams,WillCh05,receiving,ARI,8,4,34,0,1,34,8.5,0,0,10.8,0,NA,1,12.5,0,61.5,201810180crd
+Chase Edmonds,EdmoCh00,receiving,ARI,3,3,12,0,0,-5,-1.7,17,5.7,-1.7,0,NA,0,0,0,83.3,201810180crd
+David Johnson,JohnDa08,receiving,ARI,3,3,31,0,2,6,2,25,8.3,2,0,NA,0,0,0,109.7,201810180crd
+Christian Kirk,KirkCh01,receiving,ARI,6,3,57,0,2,51,17,6,2,17,0,NA,0,0,1,43.7,201810180crd
+JJ Nelson,NelsJJ00,receiving,ARI,4,2,8,0,1,3,1.5,5,2.5,8,0,NA,0,0,1,16.7,201810180crd
+Ricky Seals-Jones,SealRi00,receiving,ARI,4,2,12,0,NA,10,5,2,1,8.8,0,NA,0,0,1,16.7,201810180crd

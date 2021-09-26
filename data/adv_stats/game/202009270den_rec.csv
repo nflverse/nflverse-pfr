@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Rob Gronkowski,GronRo00,receiving,TAM,7,6,48,0,3,20,3.3,28,4.7,5.9,0,NA,0,0,0,95.2,202009270den
+Chris Godwin,GodwCh00,receiving,TAM,6,5,64,1,3,38,7.6,26,5.2,6.8,0,NA,0,0,0,150.7,202009270den
+O.J. Howard,HowaO.00,receiving,TAM,4,3,49,0,2,34,11.3,15,5,13,1,3,0,0,0,115.6,202009270den
+Scott Miller,MillSc01,receiving,TAM,5,3,83,0,2,70,23.3,13,4.3,26.2,0,NA,0,0,0,104.2,202009270den
+Mike Evans,EvanMi00,receiving,TAM,4,2,2,2,2,1,0.5,1,0.5,5.5,0,NA,0,0,0,95.8,202009270den
+Leonard Fournette,FourLe00,receiving,TAM,2,2,7,0,0,5,2.5,2,1,2.5,0,NA,0,0,0,81.2,202009270den
+Ronald Jones II,JoneRo01,receiving,TAM,4,2,20,0,0,10,5,10,5,3.3,0,NA,1,25,0,64.6,202009270den
+LeSean McCoy,McCoLe01,receiving,TAM,4,2,24,0,NA,8,4,16,8,2,0,NA,0,0,0,68.7,202009270den
+Noah Fant,FantNo00,receiving,DEN,10,5,46,0,1,25,5,21,4.2,7.6,2,2.5,2,20,0,62.9,202009270den
+Jerry Jeudy,JeudJe00,receiving,DEN,9,5,55,0,3,31,6.2,24,4.8,9.1,0,NA,0,0,1,34.3,202009270den
+Melvin Gordon,GordMe00,receiving,DEN,6,4,12,0,NA,0,0,12,3,-0.2,0,NA,0,0,0,70.1,202009270den
+Tim Patrick,PatrTi00,receiving,DEN,4,4,43,1,3,35,8.8,8,2,8.8,0,NA,0,0,0,151,202009270den
+KJ Hamler,HamlKJ00,receiving,DEN,5,3,30,0,1,26,8.7,4,1.3,9,0,NA,1,20,1,37.5,202009270den
+Royce Freeman,FreeRo00,receiving,DEN,2,2,31,0,1,9,4.5,22,11,4.5,0,NA,0,0,0,118.7,202009270den
+Jake Butt,ButtJa00,receiving,DEN,1,1,5,0,NA,4,4,1,1,4,0,NA,0,0,0,87.5,202009270den
+Diontae Spencer,SpenDi00,receiving,DEN,1,1,7,0,NA,7,7,0,0,7,0,NA,0,0,0,95.8,202009270den

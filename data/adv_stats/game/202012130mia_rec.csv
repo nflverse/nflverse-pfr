@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Travis Kelce,KelcTr00,receiving,KAN,10,8,136,1,6,93,11.6,43,5.4,10.6,0,NA,0,0,1,112.5,202012130mia
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,6,5,59,0,3,4,0.8,55,11,1.8,4,1.3,0,0,1,68.1,202012130mia
+Tyreek Hill,HillTy00,receiving,KAN,7,3,79,1,3,57,19,22,7.3,21,0,NA,0,0,1,84.8,202012130mia
+Mecole Hardman,HardMe00,receiving,KAN,3,3,40,0,NA,-4,-1.3,44,14.7,-1.3,1,3,0,0,0,118.7,202012130mia
+Sammy Watkins,WatkSa00,receiving,KAN,3,2,52,0,2,26,13,26,13,10.7,1,2,1,33.3,0,109.7,202012130mia
+Le'Veon Bell,BellLe00,receiving,KAN,3,2,14,0,0,5,2.5,9,4.5,3,0,NA,0,0,0,77.1,202012130mia
+Demarcus Robinson,RobiDe01,receiving,KAN,1,1,13,0,1,7,7,6,6,7,0,NA,0,0,0,118.7,202012130mia
+Anthony Sherman,SherAn00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,10,0,NA,1,100,0,39.6,202012130mia
+Lynn Bowden Jr.,BowdLy00,receiving,MIA,9,7,82,0,6,56,8,26,3.7,9.3,1,7,0,0,0,104.6,202012130mia
+Mike Gesicki,GesiMi00,receiving,MIA,6,5,65,2,4,59,11.8,6,1.2,11.5,0,NA,0,0,0,151.4,202012130mia
+Mack Hollins,HollMa00,receiving,MIA,9,5,66,0,2,56,11.2,10,2,11.7,0,NA,0,0,0,78.9,202012130mia
+Jakeem Grant,GranJa00,receiving,MIA,5,3,32,0,2,4,1.3,28,9.3,13,1,3,1,20,1,39.2,202012130mia
+Adam Shaheen,ShahAd00,receiving,MIA,3,2,26,0,2,3,1.5,23,11.5,4,0,NA,0,0,0,93.7,202012130mia
+Durham Smythe,SmytDu00,receiving,MIA,3,2,19,0,1,13,6.5,6,3,9.3,1,2,0,0,0,84,202012130mia
+DeAndre Washington,WashDe00,receiving,MIA,4,2,17,0,1,9,4.5,8,4,6,0,NA,0,0,0,61.5,202012130mia
+Patrick Laird,LairPa00,receiving,MIA,1,1,4,0,0,2,2,2,2,2,0,NA,0,0,0,83.3,202012130mia
+Malcolm Perry,PerrMa00,receiving,MIA,2,1,5,0,NA,4,4,1,1,20.5,0,NA,0,0,0,56.2,202012130mia
+Antonio Callaway,CallAn00,receiving,MIA,2,0,0,0,NA,0,NA,0,NA,5.5,0,NA,0,0,0,39.6,202012130mia
+DeVante Parker,ParkDe01,receiving,MIA,2,0,0,0,NA,0,NA,0,NA,15,0,NA,1,50,0,39.6,202012130mia

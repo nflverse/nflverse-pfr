@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Ryan Griffin,GrifRy00,receiving,NYJ,5,5,109,1,5,43,8.6,66,13.2,8.6,0,NA,0,0,0,158.3,201911170was
+Jamison Crowder,CrowJa00,receiving,NYJ,8,5,76,1,4,66,13.2,10,2,12.9,0,NA,0,0,0,133.3,201911170was
+Demaryius Thomas,ThomDe03,receiving,NYJ,5,4,44,0,2,39,9.8,5,1.3,9.8,0,NA,0,0,0,103.3,201911170was
+Le'Veon Bell,BellLe00,receiving,NYJ,2,2,33,0,2,21,10.5,12,6,10.5,0,NA,0,0,0,118.7,201911170was
+Daniel Brown,BrowDa04,receiving,NYJ,1,1,20,1,1,20,20,0,0,20,0,NA,0,0,0,158.3,201911170was
+Bilal Powell,PoweBi00,receiving,NYJ,2,1,5,0,0,4,4,1,1,3,0,NA,0,0,0,56.2,201911170was
+Robby Anderson,AndeRo04,receiving,NYJ,3,1,6,1,1,6,6,0,0,17,0,NA,0,0,0,81.9,201911170was
+Ty Montgomery,MontTy01,receiving,NYJ,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,1,0,201911170was
+Vyncint Smith,SmitVy00,receiving,NYJ,1,0,0,0,NA,0,NA,0,NA,13,0,NA,1,100,0,39.6,201911170was
+Kelvin Harmon,HarmKe00,receiving,WAS,6,5,53,0,2,42,8.4,11,2.2,9.7,0,NA,0,0,0,103.5,201911170was
+Terry McLaurin,McLaTe00,receiving,WAS,4,3,69,0,2,68,22.7,1,0.3,19.8,0,NA,0,0,0,116.7,201911170was
+Adrian Peterson,PeteAd01,receiving,WAS,2,2,5,0,0,-2,-1,7,3.5,-1,0,NA,0,0,0,79.2,201911170was
+Trey Quinn,QuinTr00,receiving,WAS,4,2,9,0,NA,8,4,1,0.5,3.5,0,NA,0,0,1,16.7,201911170was
+Steven Sims,SimsSt00,receiving,WAS,4,2,6,0,NA,-2,-1,8,4,1.3,0,NA,1,25,0,56.2,201911170was
+Jeremy Sprinkle,SpriJe00,receiving,WAS,3,2,16,1,2,16,8,0,0,9,0,NA,1,33.3,0,119.4,201911170was
+Derrius Guice,GuicDe00,receiving,WAS,2,1,45,1,1,-4,-4,49,49,-0.5,0,NA,1,50,0,135.4,201911170was
+Hale Hentges,HentHa00,receiving,WAS,3,1,0,0,NA,0,0,0,0,6.3,0,NA,1,33.3,0,42.4,201911170was
+Wendell Smallwood,SmalWe00,receiving,WAS,3,1,11,0,1,5,5,6,6,5.3,0,NA,1,33.3,0,45.1,201911170was
+Michael Burton,BurtMi00,receiving,WAS,1,0,0,0,NA,0,NA,0,NA,-2,0,NA,1,100,0,39.6,201911170was

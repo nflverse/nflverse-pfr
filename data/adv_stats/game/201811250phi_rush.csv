@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,13,101,2,11,0.8,90,6.9,5,2.6,201811250phi
+Wayne Gallman,GallWa00,rushing,NYG,5,25,2,6,1.2,19,3.8,2,2.5,201811250phi
+Josh Adams,AdamJo03,rushing,PHI,22,84,5,25,1.1,59,2.7,2,11,201811250phi
+Corey Clement,ClemCo00,rushing,PHI,5,45,1,9,1.8,36,7.2,0,NA,201811250phi
+Carson Wentz,WentCa00,rushing,PHI,2,-2,0,-2,-1,0,0,0,NA,201811250phi

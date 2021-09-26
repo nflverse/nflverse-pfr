@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Peyton Barber,BarbPe01,rushing,LVR,13,32,2,12,0.9,20,1.5,3,4.3,202109190pit
+Kenyan Drake,DrakKe00,rushing,LVR,7,9,0,4,0.6,5,0.7,1,7,202109190pit
+Derek Carr,CarrDe02,rushing,LVR,4,9,2,9,2.3,0,0,0,NA,202109190pit
+Henry Ruggs III,RuggHe00,rushing,LVR,1,2,0,2,2,0,0,0,NA,202109190pit
+Najee Harris,HarrNa00,rushing,PIT,10,38,2,21,2.1,17,1.7,3,3.3,202109190pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,2,1,NA,1,0.5,0,0,0,NA,202109190pit
+Chase Claypool,ClayCh01,rushing,PIT,1,-3,0,-3,-3,0,0,0,NA,202109190pit
+JuJu Smith-Schuster,SmitJu00,rushing,PIT,1,3,1,0,0,3,3,1,1,202109190pit

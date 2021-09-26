@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Marlon Mack,MackMa00,rushing,IND,21,89,6,51,2.4,38,1.8,0,NA,201911030pit
+Parris Campbell,CampPa00,rushing,IND,3,27,1,19,6.3,8,2.7,1,3,201911030pit
+Jacoby Brissett,BrisJa00,rushing,IND,2,4,0,4,2,0,0,1,2,201911030pit
+Nyheim Hines,HineNy00,rushing,IND,1,7,1,2,2,5,5,0,NA,201911030pit
+Brian Hoyer,HoyeBr00,rushing,IND,1,6,0,1,1,5,5,0,NA,201911030pit
+Jordan Wilkins,WilkJo01,rushing,IND,1,6,NA,1,1,5,5,0,NA,201911030pit
+Trey Edmunds,EdmuTr00,rushing,PIT,12,73,2,43,3.6,30,2.5,0,NA,201911030pit
+Jaylen Samuels,SamuJa00,rushing,PIT,8,10,0,-4,-0.5,14,1.8,0,NA,201911030pit
+Mason Rudolph,RudoMa00,rushing,PIT,3,5,1,5,1.7,0,0,0,NA,201911030pit
+Tony Brooks-James,BrooTo01,rushing,PIT,1,0,NA,0,0,0,0,0,NA,201911030pit
+Diontae Johnson,JohnDi01,rushing,PIT,1,2,NA,0,0,2,2,0,NA,201911030pit

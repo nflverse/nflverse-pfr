@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Courtland Sutton,SuttCo00,receiving,DEN,12,9,159,0,5,136,15.1,23,2.6,21.5,0,NA,0,0,0,116.7,202109190jax
+Noah Fant,FantNo00,receiving,DEN,6,4,33,1,1,18,4.5,15,3.8,4,0,NA,0,0,0,120.1,202109190jax
+Albert Okwuegbunam,OkwuAl00,receiving,DEN,4,4,24,0,1,9,2.3,15,3.8,2.3,0,NA,0,0,0,91.7,202109190jax
+Tim Patrick,PatrTi00,receiving,DEN,4,3,37,1,2,13,4.3,24,8,7,0,NA,0,0,0,142.7,202109190jax
+Melvin Gordon,GordMe00,receiving,DEN,2,2,38,0,1,10,5,28,14,5,1,2,0,0,0,118.7,202109190jax
+Javonte Williams,WillJa10,receiving,DEN,1,1,10,0,0,-3,-3,13,13,-3,0,NA,0,0,0,108.3,202109190jax
+Eric Saubert,SaubEr00,receiving,DEN,1,1,7,0,NA,0,0,7,7,0,0,NA,0,0,0,95.8,202109190jax
+Kendall Hinton,HintKe00,receiving,DEN,1,1,15,0,1,9,9,6,6,9,0,NA,0,0,0,118.7,202109190jax
+KJ Hamler,HamlKJ00,receiving,DEN,3,1,5,0,NA,5,5,0,0,18,0,NA,0,0,0,42.4,202109190jax
+Marvin Jones,JoneMa02,receiving,JAX,11,6,55,1,2,49,8.2,6,1,15.9,0,NA,0,0,0,98.7,202109190jax
+James Robinson,RobiJa00,receiving,JAX,3,3,17,0,1,-7,-2.3,24,8,-2.3,0,NA,0,0,0,90.3,202109190jax
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,7,2,-3,0,1,-6,-3,3,1.5,5.4,0,NA,0,0,0,39.6,202109190jax
+James O'Shaughnessy,O'ShJa00,receiving,JAX,1,1,24,0,1,20,20,4,4,20,0,NA,0,0,0,118.7,202109190jax
+Luke Farrell,FarrLu00,receiving,JAX,2,1,6,0,NA,6,6,0,0,12,0,NA,0,0,1,16.7,202109190jax
+DJ Chark,CharDJ00,receiving,JAX,4,1,19,0,1,17,17,2,2,15.5,0,NA,0,0,0,46.9,202109190jax
+Tyron Johnson,JohnTy03,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,44,0,NA,0,0,1,0,202109190jax
+Chris Manhertz,ManhCh00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,202109190jax
+Carlos Hyde,HydeCa00,receiving,JAX,2,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,202109190jax
+Laquon Treadwell,TreaLa00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,32,0,NA,0,0,0,39.6,202109190jax

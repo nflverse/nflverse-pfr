@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nyheim Hines,HineNy00,rushing,IND,15,45,3,10,0.7,35,2.3,0,NA,201810040nwe
+Jordan Wilkins,WilkJo01,rushing,IND,6,39,2,28,4.7,11,1.8,0,NA,201810040nwe
+Sony Michel,MichSo00,rushing,NWE,18,98,6,54,3,44,2.4,1,18,201810040nwe
+Tom Brady,BradTo00,rushing,NWE,3,-1,1,-1,-0.3,0,0,0,NA,201810040nwe
+James White,WhitJa02,rushing,NWE,2,0,0,0,0,0,0,0,NA,201810040nwe

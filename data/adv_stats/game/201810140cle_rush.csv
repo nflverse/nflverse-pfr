@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,LAC,18,132,8,40,2.2,92,5.1,4,4.5,201810140cle
+Austin Ekeler,EkelAu00,rushing,LAC,7,60,3,26,3.7,34,4.9,2,3.5,201810140cle
+Keenan Allen,AlleKe00,rushing,LAC,4,41,3,31,7.8,10,2.5,1,4,201810140cle
+Justin Jackson,JackJu01,rushing,LAC,3,4,NA,3,1,1,0.3,0,NA,201810140cle
+Geno Smith,SmitGe00,rushing,LAC,2,-2,NA,-2,-1,0,0,0,NA,201810140cle
+Mike Williams,WillMi07,rushing,LAC,1,10,1,8,8,2,2,0,NA,201810140cle
+Tyrell Williams,WillTy00,rushing,LAC,1,1,0,1,1,0,0,0,NA,201810140cle
+Carlos Hyde,HydeCa00,rushing,CLE,14,34,1,-3,-0.2,37,2.6,5,2.8,201810140cle
+Nick Chubb,ChubNi00,rushing,CLE,3,25,NA,6,2,19,6.3,2,1.5,201810140cle
+Duke Johnson,JohnDu00,rushing,CLE,2,36,2,25,12.5,11,5.5,0,NA,201810140cle
+Baker Mayfield,MayfBa00,rushing,CLE,2,8,1,3,1.5,5,2.5,0,NA,201810140cle

@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Kenyan Drake,DrakKe00,receiving,LVR,6,5,46,0,2,5,1,41,8.2,2.2,0,NA,0,0,0,98.6,202109190pit
+Hunter Renfrow,RenfHu00,receiving,LVR,7,5,57,0,4,40,8,17,3.4,8.7,0,NA,0,0,0,95.5,202109190pit
+Henry Ruggs III,RuggHe00,receiving,LVR,7,5,113,1,3,66,13.2,47,9.4,11.3,1,5,0,0,0,153.3,202109190pit
+Darren Waller,WallDa01,receiving,LVR,7,5,65,0,3,50,10,15,3,9.4,0,NA,0,0,0,100.3,202109190pit
+Bryan Edwards,EdwaBr01,receiving,LVR,3,3,40,0,2,23,7.7,17,5.7,7.7,1,3,0,0,0,118.7,202109190pit
+Derek Carrier,CarrDe00,receiving,LVR,2,2,13,0,NA,7,3.5,6,3,3.5,0,NA,0,0,0,93.7,202109190pit
+Foster Moreau,MoreFo00,receiving,LVR,3,2,34,1,2,30,15,4,2,11.7,0,NA,0,0,0,144.4,202109190pit
+Willie Snead,SneaWi00,receiving,LVR,1,1,14,0,1,7,7,7,7,7,1,1,0,0,0,118.7,202109190pit
+Alec Ingold,IngoAl01,receiving,LVR,1,0,0,0,NA,0,NA,0,NA,17,0,NA,0,0,0,39.6,202109190pit
+Diontae Johnson,JohnDi01,receiving,PIT,12,9,105,0,5,45,5,60,6.7,11.3,0,NA,0,0,1,66.3,202109190pit
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,7,6,41,0,2,15,2.5,26,4.3,2.4,2,3,0,0,0,91.1,202109190pit
+Najee Harris,HarrNa00,receiving,PIT,5,5,43,1,2,2,0.4,41,8.2,0.4,2,2.5,0,0,0,142.1,202109190pit
+Pat Freiermuth,FreiPa00,receiving,PIT,4,4,36,0,2,22,5.5,14,3.5,5.5,0,NA,0,0,0,104.2,202109190pit
+Chase Claypool,ClayCh01,receiving,PIT,9,3,70,0,2,54,18,16,5.3,21.6,0,NA,0,0,0,62.3,202109190pit
+Eric Ebron,EbroEr00,receiving,PIT,2,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,202109190pit
+James Washington,WashJa00,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,4,0,NA,1,100,0,39.6,202109190pit

@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Deion Jones,JoneDe01,defense,ATL,0,8,7,87.5%,51,7.3,6.4,0,93.2,1.9,20,31,1,0,0,0,0,14,2,12.5%,201812230car
+Brian Poole,PoolBr01,defense,ATL,1,10,6,60.0%,43,7.2,4.3,0,30.4,7,13,30,3,0,0,0,0,7,2,22.2%,201812230car
+De'Vondre Campbell,CampDe00,defense,ATL,0,7,6,85.7%,42,7,6,0,91.7,4.6,27,15,9,0,0,0,0,8,0,0.0%,201812230car
+Desmond Trufant,TrufDe00,defense,ATL,0,13,5,38.5%,40,8,3.1,0,47,14.7,30,10,0,0,0,0,0,7,0,0.0%,201812230car
+Sharrod Neasman,NeasSh00,defense,ATL,0,6,5,83.3%,65,13,10.8,0,111.8,9,50,15,0,0,0,0,0,11,1,8.3%,201812230car
+Robert Alford,AlfoRo00,defense,ATL,0,5,4,80.0%,41,10.3,8.2,0,100.8,8.6,18,23,1,0,0,0,0,5,0,0.0%,201812230car
+Damontae Kazee,KazeDa00,defense,ATL,0,3,2,66.7%,30,15,10,0,99.3,9.3,25,5,1,0,0,0,0,4,0,0.0%,201812230car
+Isaiah Oliver,OlivIs00,defense,ATL,1,4,2,50.0%,30,15,7.5,0,35.4,21,23,7,0,0,0,0,0,3,0,0.0%,201812230car
+Foyesade Oluokun,OluoFo00,defense,ATL,0,2,2,100.0%,-1,-0.5,-0.5,0,79.2,-1.5,-3,2,0,0,0,0,0,5,0,0.0%,201812230car
+Jordan Richards,RichJo00,defense,ATL,0,1,1,100.0%,7,7,7,0,95.8,-9,-9,16,0,0,0,0,0,1,0,0.0%,201812230car
+Takkarist McKinley,McKiTa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,3,0.5,6,3,0,0.0%,201812230car
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,3,1,25.0%,201812230car
+Bruce Irvin,IrviBr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,2,0,0.0%,201812230car
+Jack Crawford,CrawJa00,defense,ATL,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,1,25.0%,201812230car
+Steven Means,MeanSt00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,0,0.0%,201812230car
+Vic Beasley,BeasVi00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0,0,2,1,33.3%,201812230car
+Captain Munnerlyn,MunnCa99,defense,CAR,0,5,4,80.0%,63,15.8,12.6,1,158.3,5.6,28,35,1,0,0,0,0,3,0,0.0%,201812230car
+Thomas Davis,DaviTh20,defense,CAR,0,3,3,100.0%,19,6.3,6.3,0,93.1,4.7,14,5,3,0,0,0,0,5,1,16.7%,201812230car
+Mike Adams,AdamMi21,defense,CAR,0,2,2,100.0%,50,25,25,0,118.7,17.5,35,15,0,0,0,0,0,4,0,0.0%,201812230car
+James Bradberry,BradJa00,defense,CAR,0,8,2,25.0%,11,5.5,1.4,1,79.2,16.8,5,6,0,0,0,0,0,1,2,66.7%,201812230car
+Donte Jackson,JackDo02,defense,CAR,0,3,2,66.7%,86,43,28.7,1,149.3,17,44,42,0,0,0,0,0,3,0,0.0%,201812230car
+Luke Kuechly,KuecLu00,defense,CAR,0,3,1,33.3%,6,6,2,0,42.4,2.3,4,2,3,0,0,0,0,6,0,0.0%,201812230car
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,1,1,100.0%,4,4,4,0,83.3,-2,-2,6,0,0,0,0,0,2,1,33.3%,201812230car
+Kyle Love,LoveKy00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201812230car
+Bryan Cox Jr.,CoxxBr01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201812230car
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201812230car
+Eric Reid,ReidEr00,defense,CAR,0,2,0,0.0%,NA,NA,0,NA,39.6,12.5,NA,NA,1,1,0,0,1,2,0,0.0%,201812230car

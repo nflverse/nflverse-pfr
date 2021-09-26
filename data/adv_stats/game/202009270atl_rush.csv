@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,14,45,4,21,1.5,24,1.7,2,7,202009270atl
+Cordarrelle Patterson,PattCo00,rushing,CHI,4,13,1,11,2.8,2,0.5,0,NA,202009270atl
+Nick Foles,FoleNi00,rushing,CHI,3,-3,0,-3,-1,0,0,0,NA,202009270atl
+Tarik Cohen,CoheTa00,rushing,CHI,2,21,1,13,6.5,8,4,0,NA,202009270atl
+Anthony Miller,MillAn02,rushing,CHI,1,9,1,9,9,0,0,0,NA,202009270atl
+Mitchell Trubisky,TrubMi00,rushing,CHI,1,45,1,40,40,5,5,0,NA,202009270atl
+Todd Gurley,GurlTo01,rushing,ATL,14,80,4,46,3.3,34,2.4,1,14,202009270atl
+Brian Hill,HillBr02,rushing,ATL,9,58,1,49,5.4,9,1,0,NA,202009270atl
+Calvin Ridley,RidlCa00,rushing,ATL,1,7,1,7,7,0,0,0,NA,202009270atl
+Matt Ryan,RyanMa00,rushing,ATL,1,-1,0,-1,-1,0,0,0,NA,202009270atl

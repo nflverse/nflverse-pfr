@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Robinson,RobiJa00,rushing,JAX,13,48,3,22,1.7,26,2,1,13,202010110htx
+Gardner Minshew II,MinsGa00,rushing,JAX,4,18,2,18,4.5,0,0,0,NA,202010110htx
+Chris Thompson,ThomCh03,rushing,JAX,2,7,0,4,2,3,1.5,0,NA,202010110htx
+Keelan Cole,ColeKe00,rushing,JAX,1,2,0,0,0,2,2,0,NA,202010110htx
+David Johnson,JohnDa08,rushing,HOU,17,96,6,53,3.1,43,2.5,0,NA,202010110htx
+Duke Johnson,JohnDu00,rushing,HOU,3,8,0,3,1,5,1.7,0,NA,202010110htx
+Deshaun Watson,WatsDe00,rushing,HOU,2,25,1,14,7,11,5.5,0,NA,202010110htx

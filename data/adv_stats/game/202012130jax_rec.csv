@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+A.J. Brown,BrowAJ00,receiving,TEN,9,7,112,1,6,92,13.1,20,2.9,12.1,0,NA,1,11.1,0,155.6,202012130jax
+Corey Davis,DaviCo03,receiving,TEN,3,3,34,0,1,24,8,10,3.3,8,0,NA,0,0,0,113.9,202012130jax
+Geoff Swaim,SwaiGe00,receiving,TEN,3,3,34,1,3,21,7,13,4.3,7,0,NA,0,0,0,153.5,202012130jax
+Derrick Henry,HenrDe00,receiving,TEN,2,2,7,0,0,-8,-4,15,7.5,-4,0,NA,0,0,0,81.2,202012130jax
+Jonnu Smith,SmitJo01,receiving,TEN,2,2,20,0,1,12,6,8,4,6,0,NA,0,0,0,108.3,202012130jax
+Anthony Firkser,FirkAn00,receiving,TEN,1,1,5,0,NA,4,4,1,1,4,0,NA,0,0,0,87.5,202012130jax
+Jeremy McNichols,McNiJe00,receiving,TEN,1,1,0,0,NA,-6,-6,6,6,-6,0,NA,0,0,0,79.2,202012130jax
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,202012130jax
+Kalif Raymond,RaymKa00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,33,0,NA,0,0,0,39.6,202012130jax
+Keelan Cole,ColeKe00,receiving,JAX,12,7,67,1,5,49,7,18,2.6,11.8,0,NA,2,16.7,0,101.7,202012130jax
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,11,6,49,0,4,33,5.5,16,2.7,8.4,0,NA,0,0,0,66.1,202012130jax
+Devine Ozigbo,OzigDe01,receiving,JAX,4,4,30,0,2,7,1.8,23,5.8,1.8,1,4,0,0,0,97.9,202012130jax
+James Robinson,RobiJa00,receiving,JAX,4,4,16,0,0,-5,-1.3,21,5.3,-1.3,0,NA,0,0,0,83.3,202012130jax
+James O'Shaughnessy,O'ShJa00,receiving,JAX,2,2,14,0,1,5,2.5,9,4.5,2.5,0,NA,0,0,0,95.8,202012130jax
+Collin Johnson,JohnCo01,receiving,JAX,3,2,33,0,1,17,8.5,16,8,8,0,NA,0,0,0,103.5,202012130jax
+Tyler Eifert,EifeTy00,receiving,JAX,2,2,22,0,1,15,7.5,7,3.5,7.5,0,NA,0,0,0,112.5,202012130jax
+DJ Chark,CharDJ00,receiving,JAX,9,2,16,0,1,9,4.5,7,3.5,14.8,0,NA,0,0,1,0,202012130jax
+Eric Saubert,SaubEr00,receiving,JAX,1,1,4,0,NA,2,2,2,2,2,0,NA,0,0,0,83.3,202012130jax
+Dare Ogunbowale,OgunDa00,receiving,JAX,1,1,12,0,1,2,2,10,10,2,0,NA,0,0,0,116.7,202012130jax

@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cooper Kupp,KuppCo00,receiving,LAR,9,6,90,1,5,35,5.8,55,9.2,14,0,NA,0,0,1,96.8,201810070sea
+Robert Woods,WoodRo02,receiving,LAR,7,5,92,0,5,37,7.4,55,11,7.9,0,NA,0,0,0,113.7,201810070sea
+Todd Gurley,GurlTo01,receiving,LAR,5,4,36,0,2,-13,-3.3,49,12.3,-2.2,1,4,0,0,1,57.1,201810070sea
+Gerald Everett,EverGe00,receiving,LAR,3,3,24,0,NA,18,6,6,2,6,0,NA,0,0,0,100,201810070sea
+Tyler Higbee,HigbTy00,receiving,LAR,4,2,26,0,1,12,6,14,7,4.3,0,NA,1,25,0,70.8,201810070sea
+Josh Reynolds,ReynJo00,receiving,LAR,3,2,39,0,2,36,18,3,1.5,17.3,0,NA,0,0,0,109.7,201810070sea
+KhaDarel Hodge,HodgKh00,receiving,LAR,1,1,14,0,1,14,14,0,0,14,0,NA,0,0,0,118.7,201810070sea
+Tyler Lockett,LockTy00,receiving,SEA,4,3,98,1,3,94,31.3,4,1.3,23.5,0,NA,0,0,0,156.2,201810070sea
+David Moore,MoorDa03,receiving,SEA,4,3,38,2,2,37,12.3,1,0.3,9.5,0,NA,0,0,0,143.7,201810070sea
+Nick Vannett,VannNi00,receiving,SEA,4,3,43,0,2,8,2.7,35,11.7,6,0,NA,0,0,0,109.4,201810070sea
+Mike Davis,DaviMi01,receiving,SEA,2,2,7,0,1,-2,-1,9,4.5,-1,0,NA,0,0,0,81.2,201810070sea
+Doug Baldwin,BaldDo00,receiving,SEA,1,1,1,0,NA,1,1,0,0,1,0,NA,0,0,0,79.2,201810070sea
+Chris Carson,CarsCh00,receiving,SEA,1,1,11,0,1,1,1,10,10,1,0,NA,0,0,0,112.5,201810070sea
+Darrell Daniels,DaniDa02,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,21,0,NA,0,0,0,39.6,201810070sea
+Tre Madden,MaddTr01,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,6,0,NA,0,0,0,39.6,201810070sea
+Brandon Marshall,MarsBr00,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,30,0,NA,0,0,0,39.6,201810070sea

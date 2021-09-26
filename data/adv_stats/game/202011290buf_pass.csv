@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Justin Herbert,HerbJu00,passing,LAC,31,52,316,16,29.1,312,6,166,5.4,3.2,150,4.8,4,7.8%,8,15.7%,3,28,5,5,13,23.6%,0,NA,202011290buf
+Josh Allen,AlleJo02,passing,BUF,18,24,157,7,26.9,86,3.6,83,4.6,3.5,74,4.1,0,0.0%,3,12.5%,2,7,0,5,7,25.9%,1,8,202011290buf
+Cole Beasley,BeasCo00,passing,BUF,1,1,20,1,100,20,20,20,20,20,0,0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202011290buf

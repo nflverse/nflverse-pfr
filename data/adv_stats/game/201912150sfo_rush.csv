@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devonta Freeman,FreeDe00,rushing,ATL,12,39,1,28,2.3,11,0.9,1,12,201912150sfo
+Matt Ryan,RyanMa00,rushing,ATL,5,27,0,27,5.4,0,0,0,NA,201912150sfo
+Russell Gage,GageRu00,rushing,ATL,1,6,0,1,1,5,5,0,NA,201912150sfo
+Brian Hill,HillBr02,rushing,ATL,1,16,1,11,11,5,5,0,NA,201912150sfo
+Qadree Ollison,OlliQa00,rushing,ATL,1,1,1,1,1,0,0,0,NA,201912150sfo
+Raheem Mostert,MostRa00,rushing,SFO,14,54,4,32,2.3,22,1.6,0,NA,201912150sfo
+Matt Breida,BreiMa00,rushing,SFO,4,11,1,8,2,3,0.8,0,NA,201912150sfo
+Tevin Coleman,ColeTe01,rushing,SFO,4,40,1,33,8.3,7,1.8,0,NA,201912150sfo
+Jimmy Garoppolo,GaroJi00,rushing,SFO,2,6,1,6,3,0,0,0,NA,201912150sfo
+Kyle Juszczyk,JuszKy00,rushing,SFO,2,1,1,-1,-0.5,2,1,0,NA,201912150sfo
+Deebo Samuel,SamuDe00,rushing,SFO,1,8,0,6,6,2,2,1,1,201912150sfo

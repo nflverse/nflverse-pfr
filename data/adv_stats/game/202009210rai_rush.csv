@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,13,79,6,33,2.5,46,3.5,3,4.3,202009210rai
+Latavius Murray,MurrLa00,rushing,NOR,3,14,1,6,2,8,2.7,0,NA,202009210rai
+Taysom Hill,HillTa00,rushing,NOR,2,8,NA,5,2.5,3,1.5,0,NA,202009210rai
+Deonte Harris,HarrDe07,rushing,NOR,1,11,1,11,11,0,0,0,NA,202009210rai
+Josh Jacobs,JacoJo01,rushing,LVR,27,88,4,47,1.7,41,1.5,4,6.8,202009210rai
+Devontae Booker,BookDe00,rushing,LVR,3,-1,NA,-1,-0.3,0,0,0,NA,202009210rai
+Derek Carr,CarrDe02,rushing,LVR,3,3,0,3,1,0,0,0,NA,202009210rai
+Jalen Richard,RichJa01,rushing,LVR,2,26,1,22,11,4,2,0,NA,202009210rai

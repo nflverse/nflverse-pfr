@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kevin King,KingKe01,defense,GNB,0,5,5,100.0%,120,24,24,1,158.3,15.6,78,42,0,0,0,0,0,5,0,0.0%,201911240sfo
+Blake Martinez,MartBl01,defense,GNB,0,4,4,100.0%,56,14,14,0,118.7,5,20,36,1,0,0,1,1,6,2,25.0%,201911240sfo
+Za'Darius Smith,SmitZa00,defense,GNB,0,1,1,100.0%,2,2,2,0,79.2,-5,-5,7,3,0,1,1.5,3,6,0,0.0%,201911240sfo
+Adrian Amos,AmosAd00,defense,GNB,0,1,1,100.0%,18,18,18,0,118.7,3,3,15,1,0,0,0,0,4,1,20.0%,201911240sfo
+Tramon Williams,WillTr99,defense,GNB,0,2,1,50.0%,42,42,21,1,135.4,8,13,29,0,0,0,0,0,1,0,0.0%,201911240sfo
+Chandon Sullivan,SullCh00,defense,GNB,0,3,1,33.3%,13,13,4.3,0,47.9,2.7,8,5,0,0,0,0,0,3,0,0.0%,201911240sfo
+Kyler Fackrell,FackKy00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,1,0,0.0%,201911240sfo
+Preston Smith,SmitPr00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,0,0.0%,201911240sfo
+Jaire Alexander,AlexJa00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,7,NA,NA,0,0,0,0,0,1,0,0.0%,201911240sfo
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201911240sfo
+Ibraheim Campbell,CampIb00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201911240sfo
+Dre Greenlaw,GreeDr00,defense,SFO,0,6,5,83.3%,32,6.4,5.3,0,88.9,3.8,7,25,5,0,0,0,0,8,0,0.0%,201911240sfo
+K'Waun Williams,WillKW00,defense,SFO,0,6,4,66.7%,11,2.8,1.8,0,70.1,0.5,-4,15,2,0,0,0,0,2,0,0.0%,201911240sfo
+Jimmie Ward,WardJi01,defense,SFO,0,4,3,75.0%,10,3.3,2.5,0,77.1,7.3,9,1,0,0,0,0,0,6,0,0.0%,201911240sfo
+Fred Warner,WarnFr00,defense,SFO,0,2,2,100.0%,2,1,1,0,79.2,-4,-8,10,3,0,0,1,1,11,1,8.3%,201911240sfo
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,3,2,66.7%,19,9.5,6.3,0,84,1.3,1,18,1,0,0,0,0,1,1,50.0%,201911240sfo
+Richard Sherman,SherRi00,defense,SFO,0,3,1,33.3%,7,7,2.3,0,42.4,9.3,1,6,0,0,0,0,0,1,0,0.0%,201911240sfo
+Emmanuel Moseley,MoseEm00,defense,SFO,0,2,1,50.0%,3,3,1.5,0,56.2,4.5,0,3,0,0,0,0,0,5,0,0.0%,201911240sfo
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,2,4,5,0,0.0%,201911240sfo
+DeForest Buckner,BuckDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0.5,2,5,0,0.0%,201911240sfo
+Nick Bosa,BosaNi00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201911240sfo
+Damontre Moore,MoorDa01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201911240sfo
+Jaquiski Tartt,TartJa00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,36,NA,NA,2,0,0,0.5,1,4,0,0.0%,201911240sfo
+Marcell Harris,HarrMa03,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201911240sfo
+Jullian Taylor,TaylJu00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,201911240sfo
+Tarvarius Moore,MoorTa00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201911240sfo

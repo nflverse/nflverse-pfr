@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Christian Kirk,KirkCh01,receiving,ARI,4,3,85,1,1,60,20,25,8.3,15,0,NA,1,25,0,156.2,201810070sfo
+Chad Williams,WillCh05,receiving,ARI,6,2,23,0,2,19,9.5,4,2,10.3,0,NA,1,16.7,0,45.8,201810070sfo
+Larry Fitzgerald,FitzLa00,receiving,ARI,3,2,35,0,1,23,11.5,12,6,16,0,NA,0,0,0,106.2,201810070sfo
+David Johnson,JohnDa08,receiving,ARI,3,2,16,0,0,-4,-2,20,10,-0.7,2,1,0,0,0,79.9,201810070sfo
+Jermaine Gresham,GresJe00,receiving,ARI,1,1,11,0,1,-2,-2,13,13,-2,0,NA,0,0,0,112.5,201810070sfo
+Chase Edmonds,EdmoCh00,receiving,ARI,1,0,0,0,NA,0,NA,0,NA,1,0,NA,1,100,0,39.6,201810070sfo
+Ricky Seals-Jones,SealRi00,receiving,ARI,5,0,0,0,NA,0,NA,0,NA,19.6,0,NA,0,0,0,39.6,201810070sfo
+Trent Taylor,TaylTr02,receiving,SFO,8,7,61,1,5,27,3.9,34,4.9,5,0,NA,0,0,0,138,201810070sfo
+Kyle Juszczyk,JuszKy00,receiving,SFO,7,6,75,0,5,13,2.2,62,10.3,2.6,0,NA,0,0,0,111.3,201810070sfo
+George Kittle,KittGe00,receiving,SFO,7,5,83,0,3,15,3,68,13.6,3,1,5,0,0,0,111,201810070sfo
+Pierre Garcon,GarcPi00,receiving,SFO,13,5,47,0,2,21,4.2,26,5.2,7.4,0,NA,2,15.4,1,17.1,201810070sfo
+Kendrick Bourne,BourKe00,receiving,SFO,7,4,33,0,2,20,5,13,3.3,5.4,1,4,1,14.3,0,69.3,201810070sfo
+Alfred Morris,MorrAl00,receiving,SFO,4,3,30,0,3,5,1.7,25,8.3,1.3,0,NA,0,0,0,95.8,201810070sfo
+Victor Bolden,BoldVi00,receiving,SFO,4,1,10,0,1,9,9,1,1,11.8,0,NA,0,0,1,0,201810070sfo
+Richie James,JameRi00,receiving,SFO,1,1,7,0,NA,0,0,7,7,0,0,NA,0,0,0,95.8,201810070sfo
+Raheem Mostert,MostRa00,receiving,SFO,1,1,-2,0,0,-5,-5,3,3,-5,0,NA,0,0,0,79.2,201810070sfo
+Matt Breida,BreiMa00,receiving,SFO,1,1,5,1,1,-1,-1,6,6,-1,0,NA,0,0,0,127.1,201810070sfo
+Cole Wick,WickCo00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,1,0,NA,1,100,0,39.6,201810070sfo

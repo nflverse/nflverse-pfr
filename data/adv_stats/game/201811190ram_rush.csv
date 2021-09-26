@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kareem Hunt,HuntKa00,rushing,KAN,14,70,2,43,3.1,27,1.9,1,14,201811190ram
+Patrick Mahomes,MahoPa00,rushing,KAN,6,28,0,28,4.7,0,0,0,NA,201811190ram
+Todd Gurley,GurlTo01,rushing,LAR,12,55,2,45,3.8,10,0.8,0,NA,201811190ram
+Malcolm Brown,BrowMa03,rushing,LAR,4,15,1,6,1.5,9,2.3,1,4,201811190ram
+Jared Goff,GoffJa00,rushing,LAR,4,6,1,6,1.5,0,0,0,NA,201811190ram
+Brandin Cooks,CookBr00,rushing,LAR,1,0,0,0,0,0,0,0,NA,201811190ram

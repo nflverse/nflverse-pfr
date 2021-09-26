@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Austin Ekeler,EkelAu00,rushing,LAC,13,60,1,28,2.2,32,2.5,0,NA,202012170rai
+Kalen Ballage,BallKa00,rushing,LAC,8,11,2,-2,-0.3,13,1.6,0,NA,202012170rai
+Justin Herbert,HerbJu00,rushing,LAC,4,14,2,13,3.3,1,0.3,0,NA,202012170rai
+Joshua Kelley,KellJo01,rushing,LAC,2,8,1,3,1.5,5,2.5,0,NA,202012170rai
+Keenan Allen,AlleKe00,rushing,LAC,1,-1,0,-1,-1,0,0,0,NA,202012170rai
+Jalen Guyton,GuytJa01,rushing,LAC,1,4,0,3,3,1,1,0,NA,202012170rai
+Josh Jacobs,JacoJo01,rushing,LVR,26,76,4,27,1,49,1.9,1,26,202012170rai
+Marcus Mariota,MariMa01,rushing,LVR,9,88,8,60,6.7,28,3.1,1,9,202012170rai
+Devontae Booker,BookDe00,rushing,LVR,3,12,NA,6,2,6,2,0,NA,202012170rai
+AJ Cole III,ColeAJ01,rushing,LVR,1,0,NA,0,0,0,0,0,NA,202012170rai
+Alec Ingold,IngoAl01,rushing,LVR,1,2,1,0,0,2,2,0,NA,202012170rai
+Theo Riddick,RiddTh00,rushing,LVR,1,-5,NA,-5,-5,0,0,0,NA,202012170rai

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jimmy Graham,GrahJi00,receiving,CHI,6,5,31,0,1,7,1.4,24,4.8,4,1,5,0,0,1,48.6,202010260ram
+David Montgomery,MontDa01,receiving,CHI,5,5,21,0,0,-5,-1,26,5.2,-1,2,2.5,0,0,0,84.2,202010260ram
+Allen Robinson,RobiAl02,receiving,CHI,4,4,70,0,3,67,16.8,3,0.8,16.8,0,NA,0,0,0,118.7,202010260ram
+Anthony Miller,MillAn02,receiving,CHI,5,3,20,0,2,15,5,5,1.7,12.6,0,NA,0,0,0,68.7,202010260ram
+Darnell Mooney,MoonDa00,receiving,CHI,7,3,40,0,2,20,6.7,20,6.7,22.1,1,3,0,0,1,22,202010260ram
+Cordarrelle Patterson,PattCo00,receiving,CHI,4,3,11,0,NA,0,0,11,3.7,2.5,0,NA,0,0,0,77.1,202010260ram
+Demetrius Harris,HarrDe03,receiving,CHI,3,2,15,0,NA,3,1.5,12,6,3,0,NA,1,33.3,0,78.5,202010260ram
+Cole Kmet,KmetCo00,receiving,CHI,2,2,45,0,1,35,17.5,10,5,17.5,0,NA,0,0,0,118.7,202010260ram
+Javon Wims,WimsJa00,receiving,CHI,2,1,8,0,NA,7,7,1,1,24,0,NA,0,0,0,60.4,202010260ram
+Cooper Kupp,KuppCo00,receiving,LAR,6,6,43,0,2,21,3.5,22,3.7,3.5,0,NA,0,0,0,96.5,202010260ram
+Gerald Everett,EverGe00,receiving,LAR,5,4,28,1,2,15,3.8,13,3.3,3.4,1,4,0,0,0,129.6,202010260ram
+Josh Reynolds,ReynJo00,receiving,LAR,8,4,52,1,4,32,8,20,5,17.6,0,NA,0,0,0,110.4,202010260ram
+Johnny Mundt,MundJo00,receiving,LAR,3,3,48,0,1,7,2.3,41,13.7,2.3,2,1.5,0,0,0,118.7,202010260ram
+Robert Woods,WoodRo02,receiving,LAR,5,3,22,0,1,12,4,10,3.3,9.8,0,NA,0,0,0,70.4,202010260ram
+Darrell Henderson,HendDa00,receiving,LAR,2,2,13,0,1,-1,-0.5,14,7,-0.5,0,NA,0,0,0,93.7,202010260ram
+Van Jefferson,JeffVa00,receiving,LAR,1,1,14,0,1,14,14,0,0,14,0,NA,0,0,0,118.7,202010260ram
+Malcolm Brown,BrowMa03,receiving,LAR,1,0,0,0,0,0,NA,0,NA,9,0,NA,0,0,0,39.6,202010260ram

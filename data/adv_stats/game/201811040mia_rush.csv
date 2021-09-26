@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Isaiah Crowell,CrowIs00,rushing,NYJ,13,49,3,19,1.5,30,2.3,1,13,201811040mia
+Elijah McGuire,McGuEl00,rushing,NYJ,7,30,2,18,2.6,12,1.7,0,NA,201811040mia
+Robby Anderson,AndeRo04,rushing,NYJ,1,1,0,1,1,0,0,0,NA,201811040mia
+Frank Gore,GoreFr00,rushing,MIA,20,53,1,21,1.1,32,1.6,1,20,201811040mia
+Kenyan Drake,DrakKe00,rushing,MIA,3,9,0,7,2.3,2,0.7,0,NA,201811040mia
+Brock Osweiler,OsweBr00,rushing,MIA,3,4,0,3,1,1,0.3,0,NA,201811040mia
+Kalen Ballage,BallKa00,rushing,MIA,1,-2,0,-2,-2,0,0,0,NA,201811040mia

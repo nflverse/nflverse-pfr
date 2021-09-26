@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cole Beasley,BeasCo00,receiving,DAL,8,7,73,0,5,46,6.6,27,3.9,6.4,0,NA,0,0,0,104.7,201809090car
+Ezekiel Elliott,ElliEz00,receiving,DAL,4,3,17,0,0,-1,-0.3,18,6,-0.3,0,NA,0,0,0,82.3,201809090car
+Geoff Swaim,SwaiGe00,receiving,DAL,4,3,18,0,2,0,0,18,6,4,0,NA,0,0,0,83.3,201809090car
+Deonte Thompson,ThomDe04,receiving,DAL,5,3,27,0,2,24,8,3,1,9.2,0,NA,0,0,0,74.6,201809090car
+Michael Gallup,GallMi00,receiving,DAL,1,1,9,0,NA,8,8,1,1,8,0,NA,0,0,0,104.2,201809090car
+Allen Hurns,HurnAl01,receiving,DAL,3,1,20,0,1,19,19,1,1,15.7,0,NA,0,0,0,57.6,201809090car
+Terrance Williams,WillTe01,receiving,DAL,2,1,6,0,NA,6,6,0,0,10.5,0,NA,0,0,0,56.2,201809090car
+Blake Jarwin,JarwBl00,receiving,DAL,1,0,0,0,NA,0,NA,0,NA,32,0,NA,0,0,0,39.6,201809090car
+Rod Smith,SmitRo06,receiving,DAL,1,0,0,0,NA,0,NA,0,NA,-4,0,NA,0,0,0,39.6,201809090car
+Christian McCaffrey,McCaCh01,receiving,CAR,9,6,45,0,3,-1,-0.2,46,7.7,3.3,1,6,0,0,0,78.5,201809090car
+Devin Funchess,FuncDe00,receiving,CAR,5,3,41,0,2,41,13.7,0,0,15.4,0,NA,0,0,0,86.2,201809090car
+Jarius Wright,WrigJa02,receiving,CAR,5,3,23,0,2,4,1.3,19,6.3,1.6,2,1.5,0,0,0,71.2,201809090car
+Greg Olsen,OlseGr00,receiving,CAR,2,2,33,0,1,25,12.5,8,4,12.5,0,NA,0,0,0,118.7,201809090car
+Ian Thomas,ThomIa00,receiving,CAR,2,2,4,0,NA,-8,-4,12,6,-4,0,NA,0,0,0,79.2,201809090car
+Torrey Smith,SmitTo02,receiving,CAR,2,1,15,0,1,11,11,4,4,11.5,0,NA,0,0,0,75,201809090car

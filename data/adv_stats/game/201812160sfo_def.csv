@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Tedric Thompson,ThomTe00,defense,SEA,0,6,6,100.0%,131,21.8,21.8,1,158.3,12.3,74,57,0,0,0,0,0,5,1,16.7%,201812160sfo
+Austin Calitro,CaliAu00,defense,SEA,0,6,5,83.3%,41,8.2,6.8,0,95.1,8,16,25,0,0,0,0,0,8,0,0.0%,201812160sfo
+Bobby Wagner,WagnBo00,defense,SEA,0,4,3,75.0%,31,10.3,7.8,0,96.9,0.8,-3,34,1,0,0,0,0,7,0,0.0%,201812160sfo
+Shaquill Griffin,GrifSh00,defense,SEA,0,3,2,66.7%,42,21,14,0,109.7,18,35,7,1,0,0,0,0,3,0,0.0%,201812160sfo
+Barkevious Mingo,MingBa00,defense,SEA,0,2,2,100.0%,11,5.5,5.5,0,89.6,-3.5,-7,18,1,0,0,0,0,2,1,33.3%,201812160sfo
+Lano Hill,HillDe02,defense,SEA,0,6,1,16.7%,8,8,1.3,0,39.6,12.5,7,1,3,1,0,0,1,2,0,0.0%,201812160sfo
+Shalom Luani,LuanSh00,defense,SEA,0,1,1,100.0%,3,3,3,0,79.2,3,3,0,1,0,1,0,1,2,0,0.0%,201812160sfo
+Tre Flowers,FlowTr01,defense,SEA,0,2,1,50.0%,20,20,10,0,85.4,2.5,-1,21,0,0,0,0,0,2,0,0.0%,201812160sfo
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,2,5,3,0,0.0%,201812160sfo
+Frank Clark,ClarFr01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,5,0,0.0%,201812160sfo
+Bradley McDougald,McDoBr01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812160sfo
+Justin Coleman,ColeJu01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,201812160sfo
+Elijah Lee,LeexEl00,defense,SFO,0,6,6,100.0%,34,5.7,5.7,0,90.3,-0.2,-1,35,7,0,0,0,0,10,1,9.1%,201812160sfo
+Marcell Harris,HarrMa03,defense,SFO,0,5,5,100.0%,33,6.6,6.6,0,94.2,1,5,28,3,1,0,0,1,6,2,25.0%,201812160sfo
+Tarvarius Moore,MoorTa00,defense,SFO,0,9,5,55.6%,37,7.4,4.1,1,102.5,11.9,23,14,0,0,0,0,0,7,2,22.2%,201812160sfo
+D.J. Reed,ReedD.00,defense,SFO,0,3,3,100.0%,52,17.3,17.3,0,118.7,12.3,37,15,2,1,0,0,1,5,1,16.7%,201812160sfo
+Mark Nzeocha,NzeoMa00,defense,SFO,0,2,2,100.0%,20,10,10,0,108.3,-2.5,-5,25,1,0,0,1,1,3,0,0.0%,201812160sfo
+Antone Exum,ExumAn00,defense,SFO,0,3,2,66.7%,61,30.5,20.3,1,149.3,21,45,16,0,0,0,0,0,6,1,14.3%,201812160sfo
+Fred Warner,WarnFr00,defense,SFO,0,1,1,100.0%,5,5,5,0,87.5,1,1,4,9,0,0,0,0,9,1,10.0%,201812160sfo
+DeForest Buckner,BuckDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2,3,11,0,0.0%,201812160sfo
+Ronald Blair,BlaiRo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201812160sfo
+Solomon Thomas,ThomSo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,201812160sfo
+Cassius Marsh,MarsCa00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0.0%,201812160sfo
+D.J. Jones,JoneD.01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201812160sfo

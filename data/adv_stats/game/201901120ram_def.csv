@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,5,4,80.0%,40,10,8,0,100,13,31,9,0,0,0,0,0,6,1,14.3%,201901120ram
+Byron Jones,JoneBy00,defense,DAL,0,6,4,66.7%,69,17.3,11.5,0,105.6,11.5,62,7,0,0,0,0,0,4,0,0.0%,201901120ram
+Jaylon Smith,SmitJa05,defense,DAL,0,4,4,100.0%,39,9.8,9.8,0,107.3,5.3,21,18,9,0,0,0,0,9,0,0.0%,201901120ram
+Anthony Brown,BrowAn02,defense,DAL,0,4,3,75.0%,3,1,0.8,0,77.1,3.3,-1,4,2,0,0,0,0,4,0,0.0%,201901120ram
+Jeff Heath,HeatJe00,defense,DAL,0,5,3,60.0%,19,6.3,3.8,0,67.9,8.2,3,16,0,0,0,0,0,8,1,11.1%,201901120ram
+Sean Lee,LeexSe99,defense,DAL,0,1,1,100.0%,11,11,11,0,112.5,-4,-4,15,0,0,0,0,0,7,0,0.0%,201901120ram
+Jourdan Lewis,LewiJo01,defense,DAL,0,1,1,100.0%,5,5,5,0,87.5,3,3,2,0,0,0,0,0,2,0,0.0%,201901120ram
+Leighton Vander Esch,VandLe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,4,2,33.3%,201901120ram
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201901120ram
+Xavier Woods,WoodXa00,defense,DAL,0,2,0,0.0%,NA,NA,0,NA,39.6,14.5,NA,NA,0,0,0,0,0,8,2,20.0%,201901120ram
+Marcus Peters,PeteMa00,defense,LAR,0,9,7,77.8%,101,14.4,11.2,0,113.4,8.4,68,33,0,0,0,0,0,1,3,75.0%,201901120ram
+Lamarcus Joyner,JoynLa00,defense,LAR,0,4,4,100.0%,101,25.3,25.3,1,158.3,18,72,29,1,0,0,0,0,6,2,25.0%,201901120ram
+Cory Littleton,LittCo01,defense,LAR,0,4,2,50.0%,16,8,4,0,60.4,3,6,10,3,0,0,0,0,7,1,12.5%,201901120ram
+Mark Barron,BarrMa00,defense,LAR,0,5,2,40.0%,25,12.5,5,0,56.2,7,7,18,2,0,0,0,0,5,1,16.7%,201901120ram
+Aqib Talib,TaliAq99,defense,LAR,0,5,2,40.0%,14,7,2.8,0,47.9,5.6,-4,18,0,0,0,0,0,7,0,0.0%,201901120ram
+Samson Ebukam,EbukSa00,defense,LAR,0,1,1,100.0%,-2,-2,-2,0,79.2,-4,-4,2,5,1,0,0,1,2,0,0.0%,201901120ram
+John Johnson,JohnJo10,defense,LAR,0,2,1,50.0%,4,4,2,0,56.2,5.5,3,1,0,0,0,0,0,7,1,12.5%,201901120ram
+Nickell Robey-Coleman,RobeNi00,defense,LAR,0,1,1,100.0%,7,7,7,0,95.8,3,3,4,0,0,0,0,0,2,0,0.0%,201901120ram
+Ndamukong Suh,SuhxNd99,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201901120ram
+Dante Fowler,FowlDa00,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,0,0,0,1,1,3,0,0.0%,201901120ram

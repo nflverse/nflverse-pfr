@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mike Davis,DaviMi01,rushing,CAR,13,46,1,14,1.1,32,2.5,6,2.2,202009270sdg
+Curtis Samuel,SamuCu00,rushing,CAR,4,7,0,3,0.8,4,1,0,NA,202009270sdg
+Reggie Bonnafon,BonnRe00,rushing,CAR,2,16,1,13,6.5,3,1.5,0,NA,202009270sdg
+Teddy Bridgewater,BridTe00,rushing,CAR,2,12,0,11,5.5,1,0.5,0,NA,202009270sdg
+Austin Ekeler,EkelAu00,rushing,LAC,12,59,4,29,2.4,30,2.5,2,6,202009270sdg
+Joshua Kelley,KellJo01,rushing,LAC,8,43,1,22,2.8,21,2.6,1,8,202009270sdg
+Justin Herbert,HerbJu00,rushing,LAC,3,15,2,15,5,0,0,0,NA,202009270sdg

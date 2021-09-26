@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,11,80,3,67,6.1,13,1.2,1,11,201912220oti
+Latavius Murray,MurrLa00,rushing,NOR,7,14,1,10,1.4,4,0.6,0,NA,201912220oti
+Drew Brees,BreeDr00,rushing,NOR,3,-3,0,-3,-1,0,0,0,NA,201912220oti
+Taysom Hill,HillTa00,rushing,NOR,2,11,1,11,5.5,0,0,0,NA,201912220oti
+Dion Lewis,LewiDi00,rushing,TEN,15,68,1,31,2.1,37,2.5,2,7.5,201912220oti
+Dalyn Dawkins,DawkDa01,rushing,TEN,9,24,2,16,1.8,8,0.9,0,NA,201912220oti
+A.J. Brown,BrowAJ00,rushing,TEN,1,49,1,4,4,45,45,1,1,201912220oti
+Ryan Tannehill,TannRy00,rushing,TEN,1,8,0,8,8,0,0,0,NA,201912220oti

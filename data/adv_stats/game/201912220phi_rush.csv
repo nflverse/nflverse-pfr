@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,13,47,4,24,1.8,23,1.8,2,6.5,201912220phi
+Tony Pollard,PollTo00,rushing,DAL,2,0,NA,-2,-1,2,1,1,2,201912220phi
+Dak Prescott,PresDa01,rushing,DAL,1,7,0,0,0,7,7,1,1,201912220phi
+Miles Sanders,SandMi01,rushing,PHI,20,79,4,29,1.5,50,2.5,2,10,201912220phi
+Carson Wentz,WentCa00,rushing,PHI,6,22,0,13,2.2,9,1.5,2,3,201912220phi
+Boston Scott,ScotBo02,rushing,PHI,3,12,0,10,3.3,2,0.7,0,NA,201912220phi
+Greg Ward,WardGr02,rushing,PHI,1,5,0,5,5,0,0,0,NA,201912220phi

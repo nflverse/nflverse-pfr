@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Lavonte David,DaviLa00,defense,TAM,0,4,4,100.0%,45,11.3,11.3,0,113.5,4.3,17,28,3,0,0,0.5,1,8,1,11.1%,201811040car
+Carlton Davis,DaviCa02,defense,TAM,0,5,4,80.0%,40,10,8,1,139.6,11.8,38,2,0,0,0,0,0,5,2,28.6%,201811040car
+Adarius Taylor,GlanAd00,defense,TAM,0,4,3,75.0%,38,12.7,9.5,1,143.7,4.5,18,20,1,0,0,0,0,9,1,10.0%,201811040car
+Javien Elliott,ElliJa01,defense,TAM,0,2,2,100.0%,16,8,8,0,100,6,12,4,4,0,0,0,0,1,1,50.0%,201811040car
+Brent Grimes,GrimBr20,defense,TAM,0,5,2,40.0%,39,19.5,7.8,0,67.9,14.8,34,5,0,0,0,0,0,3,0,0.0%,201811040car
+Jordan Whitehead,WhitJo03,defense,TAM,0,1,1,100.0%,11,11,11,0,112.5,10,10,1,1,0,0,0,0,8,3,27.3%,201811040car
+Devante Bond,BondDe00,defense,TAM,0,1,1,100.0%,20,20,20,0,118.7,3,3,17,0,0,0,0,0,4,0,0.0%,201811040car
+Carl Nassib,NassCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,0,0.0%,201811040car
+Beau Allen,AlleBe00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201811040car
+Gerald McCoy,McCoGe99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,201811040car
+Captain Munnerlyn,MunnCa99,defense,CAR,0,7,6,85.7%,48,8,6.9,1,134.8,7.9,20,28,2,1,0,0,1,8,0,0.0%,201811040car
+Donte Jackson,JackDo02,defense,CAR,1,8,6,75.0%,90,15,11.3,1,111.5,10.6,44,46,0,0,0,0,0,5,2,28.6%,201811040car
+Mike Adams,AdamMi21,defense,CAR,0,6,5,83.3%,84,16.8,14,1,158.3,14.2,67,17,2,0,0,0,0,6,0,0.0%,201811040car
+Luke Kuechly,KuecLu00,defense,CAR,0,2,2,100.0%,2,1,1,1,118.7,-1.5,-3,5,9,0,1,0,1,7,1,12.5%,201811040car
+Eric Reid,ReidEr00,defense,CAR,1,3,1,33.3%,4,4,1.3,0,2.8,13,4,0,4,1,0,0,1,3,1,25.0%,201811040car
+Thomas Davis,DaviTh20,defense,CAR,0,2,1,50.0%,4,4,2,0,56.2,1.5,-1,5,12,0,1,0,1,8,0,0.0%,201811040car
+Shaq Thompson,ThomSh01,defense,CAR,0,2,1,50.0%,3,3,1.5,0,56.2,2,3,0,5,1,0,0,1,4,0,0.0%,201811040car
+James Bradberry,BradJa00,defense,CAR,0,9,1,11.1%,16,16,1.8,0,39.6,11.1,16,0,0,0,0,0,0,4,0,0.0%,201811040car
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,3,3,5,0,0.0%,201811040car
+Kyle Love,LoveKy00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201811040car
+Vernon Butler,ButlVe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201811040car
+Kawann Short,ShorKa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201811040car

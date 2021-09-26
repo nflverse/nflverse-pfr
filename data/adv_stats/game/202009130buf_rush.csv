@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Le'Veon Bell,BellLe00,rushing,NYJ,6,14,1,1,0.2,13,2.2,0,NA,202009130buf
+Frank Gore,GoreFr00,rushing,NYJ,6,24,1,7,1.2,17,2.8,0,NA,202009130buf
+Josh Adams,AdamJo03,rushing,NYJ,2,8,2,2,1,6,3,0,NA,202009130buf
+Sam Darnold,DarnSa00,rushing,NYJ,1,6,0,6,6,0,0,0,NA,202009130buf
+Josh Allen,AlleJo02,rushing,BUF,14,57,5,9,0.6,48,3.4,1,14,202009130buf
+Zack Moss,MossZa00,rushing,BUF,9,11,0,0,0,11,1.2,2,4.5,202009130buf
+Devin Singletary,SingDe00,rushing,BUF,9,30,3,11,1.2,19,2.1,0,NA,202009130buf

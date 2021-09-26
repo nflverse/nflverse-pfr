@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jacob Hollister,HollJa03,receiving,SEA,10,8,62,1,5,11,1.4,51,6.4,3.2,1,8,0,0,1,86.2,201911110sfo
+D.K. Metcalf,MetcDK00,receiving,SEA,10,6,70,0,2,29,4.8,41,6.8,9,0,NA,0,0,0,81.2,201911110sfo
+Chris Carson,CarsCh00,receiving,SEA,4,3,12,0,0,-4,-1.3,16,5.3,-1.8,0,NA,1,25,0,77.1,201911110sfo
+Tyler Lockett,LockTy00,receiving,SEA,4,3,26,0,1,14,4.7,12,4,9,0,NA,0,0,0,91.7,201911110sfo
+Malik Turner,TurnMa00,receiving,SEA,2,2,35,0,1,14,7,21,10.5,7,0,NA,0,0,0,118.7,201911110sfo
+Josh Gordon,GordJo02,receiving,SEA,2,2,27,0,2,21,10.5,6,3,10.5,0,NA,0,0,0,118.7,201911110sfo
+David Moore,MoorDa03,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,-1,0,NA,0,0,0,39.6,201911110sfo
+Deebo Samuel,SamuDe00,receiving,SFO,11,8,112,0,5,41,5.1,71,8.9,8.6,2,4,1,9.1,0,105.1,201911110sfo
+Kendrick Bourne,BourKe00,receiving,SFO,8,4,42,1,3,23,5.8,19,4.8,10.1,0,NA,2,25,1,65.6,201911110sfo
+Tevin Coleman,ColeTe01,receiving,SFO,4,4,32,0,2,2,0.5,30,7.5,0.5,0,NA,0,0,0,100,201911110sfo
+Ross Dwelley,DwelRo00,receiving,SFO,7,3,24,0,2,5,1.7,19,6.3,4.3,0,NA,0,0,0,52.1,201911110sfo
+Matt Breida,BreiMa00,receiving,SFO,2,2,7,0,NA,-1,-0.5,8,4,-0.5,0,NA,0,0,0,81.2,201911110sfo
+Emmanuel Sanders,SandEm00,receiving,SFO,4,2,24,0,2,16,8,8,4,10.8,0,NA,0,0,0,68.7,201911110sfo
+Raheem Mostert,MostRa00,receiving,SFO,1,1,7,0,1,3,3,4,4,3,0,NA,0,0,0,95.8,201911110sfo
+Dante Pettis,PettDa00,receiving,SFO,3,0,0,0,NA,0,NA,0,NA,11.3,0,NA,2,66.7,0,39.6,201911110sfo
+Kyle Juszczyk,JuszKy00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,24,0,NA,1,100,0,39.6,201911110sfo
+Marquise Goodwin,GoodMa00,receiving,SFO,3,0,0,0,NA,0,NA,0,NA,14.3,0,NA,0,0,0,39.6,201911110sfo

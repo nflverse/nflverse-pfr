@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+T.Y. Hilton,HiltT.00,receiving,IND,10,5,85,0,5,81,16.2,4,0.8,13.3,0,NA,0,0,0,79.2,201901050htx
+Dontrelle Inman,InmaDo00,receiving,IND,4,4,53,1,3,44,11,9,2.3,11,0,NA,0,0,0,158.3,201901050htx
+Chester Rogers,RogeCh02,receiving,IND,5,4,46,0,3,24,6,22,5.5,5.6,0,NA,1,20,0,105,201901050htx
+Eric Ebron,EbroEr00,receiving,IND,6,3,26,1,3,18,6,8,2.7,10.5,0,NA,0,0,0,101.4,201901050htx
+Marlon Mack,MackMa00,receiving,IND,3,2,6,0,0,0,0,6,3,0.7,0,NA,0,0,1,30.6,201901050htx
+Zach Pascal,PascZa00,receiving,IND,3,1,6,0,0,7,7,-1,-1,17,0,NA,0,0,0,42.4,201901050htx
+Keke Coutee,CoutKe00,receiving,HOU,14,11,110,1,6,61,5.5,49,4.5,4.4,0,NA,1,7.1,0,123.2,201901050htx
+Lamar Miller,MillLa01,receiving,HOU,10,8,63,0,2,6,0.8,57,7.1,0.7,0,NA,0,0,0,92.9,201901050htx
+DeAndre Hopkins,HopkDe00,receiving,HOU,10,5,37,0,4,28,5.6,9,1.8,11.6,1,5,0,0,0,59.2,201901050htx
+Jordan Akins,AkinJo00,receiving,HOU,3,2,8,0,1,-1,-0.5,9,4.5,4.7,0,NA,0,0,0,70.1,201901050htx
+Alfred Blue,BlueAl00,receiving,HOU,2,2,11,0,0,1,0.5,10,5,0.5,0,NA,0,0,0,89.6,201901050htx
+Ryan Griffin,GrifRy00,receiving,HOU,5,1,6,0,NA,1,1,5,5,9.8,0,NA,0,0,1,0,201901050htx
+D'Onta Foreman,ForeDO00,receiving,HOU,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,201901050htx
+Vyncint Smith,SmitVy00,receiving,HOU,2,0,0,0,NA,0,NA,0,NA,36.5,0,NA,0,0,0,39.6,201901050htx

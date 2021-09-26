@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Parris Campbell,CampPa00,receiving,IND,5,5,53,0,3,10,2,43,8.6,2,1,5,0,0,0,110.8,201911030pit
+Zach Pascal,PascZa00,receiving,IND,6,5,76,1,3,75,15,1,0.2,13.3,0,NA,0,0,0,158.3,201911030pit
+Jack Doyle,DoylJa00,receiving,IND,4,3,22,1,1,19,6.3,3,1,8.8,0,NA,0,0,1,87.5,201911030pit
+Chester Rogers,RogeCh02,receiving,IND,5,3,22,1,2,21,7,1,0.3,4,0,NA,1,20,0,110,201911030pit
+Eric Ebron,EbroEr00,receiving,IND,2,2,16,0,1,9,4.5,7,3.5,4.5,0,NA,0,0,0,100,201911030pit
+Mo Alie-Cox,AlieMo00,receiving,IND,1,1,11,0,1,0,0,11,11,0,0,NA,0,0,0,112.5,201911030pit
+Nyheim Hines,HineNy00,receiving,IND,3,1,21,0,1,0,0,21,21,1.3,0,NA,0,0,0,59,201911030pit
+Jordan Wilkins,WilkJo01,receiving,IND,2,1,6,0,NA,2,2,4,4,-2,1,1,0,0,0,56.2,201911030pit
+Deon Cain,CainDe00,receiving,IND,2,0,0,0,NA,0,NA,0,NA,8,0,NA,1,50,0,39.6,201911030pit
+Jaylen Samuels,SamuJa00,receiving,PIT,13,13,73,0,4,0,0,73,5.6,0,0,NA,0,0,0,90.1,201911030pit
+Vance McDonald,McDoVa00,receiving,PIT,7,5,30,1,2,8,1.6,22,4.4,2,0,NA,0,0,0,119,201911030pit
+James Washington,WashJa00,receiving,PIT,4,4,69,0,4,65,16.3,4,1,16.3,0,NA,0,0,0,118.7,201911030pit
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,5,3,16,0,1,5,1.7,11,3.7,12.8,0,NA,1,20,1,25.8,201911030pit
+Diontae Johnson,JohnDi01,receiving,PIT,2,1,3,0,NA,1,1,2,2,4,1,1,0,0,0,56.2,201911030pit
+Roosevelt Nix,NixxRo01,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,201911030pit
+Nick Vannett,VannNi00,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,201911030pit
+Johnny Holton,HoltJo00,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,24,0,NA,0,0,0,39.6,201911030pit

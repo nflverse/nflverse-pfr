@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+AJ Terrell,TerrAJ00,defense,ATL,0,9,6,66.7%,111,18.5,12.3,1,146.1,17.6,85,26,0,0,0,0,0,5,1,16.7%,202010290car
+Isaiah Oliver,OlivIs00,defense,ATL,0,4,4,100.0%,23,5.8,5.8,0,90.6,2.8,11,12,4,0,0,1,1,3,0,0.0%,202010290car
+Keanu Neal,NealKe01,defense,ATL,0,7,3,42.9%,16,5.3,2.3,0,50.3,3.1,-1,17,3,0,1,0,1,7,0,0.0%,202010290car
+Ricardo Allen,AlleRi00,defense,ATL,0,4,2,50.0%,71,35.5,17.8,1,135.4,22.3,68,3,1,0,0,0,0,1,0,0.0%,202010290car
+Kendall Sheffield,ShefKe00,defense,ATL,0,3,2,66.7%,27,13.5,9,0,95.1,5.7,10,17,0,0,0,0,0,1,0,0.0%,202010290car
+Blidi Wreh-Wilson,WrehBl00,defense,ATL,1,4,2,50.0%,4,2,1,0,16.7,8.8,3,1,0,0,0,0,0,4,0,0.0%,202010290car
+Dante Fowler,FowlDa00,defense,ATL,0,1,1,100.0%,4,4,4,0,83.3,2,2,2,0,2,0,1,3,2,0,0.0%,202010290car
+Foyesade Oluokun,OluoFo00,defense,ATL,0,2,1,50.0%,3,3,1.5,0,56.2,2.5,0,3,5,1,0,0,1,5,1,16.7%,202010290car
+Deion Jones,JoneDe01,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,2,1,4,6,0,0.0%,202010290car
+Steven Means,MeanSt00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202010290car
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202010290car
+Charles Harris,HarrCh03,defense,ATL,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,0,0,NA,202010290car
+Donte Jackson,JackDo02,defense,CAR,1,8,6,75.0%,105,17.5,13.1,0,77.1,15.5,85,20,0,0,0,0,0,3,0,0.0%,202010290car
+Corn Elder,EldeCo00,defense,CAR,0,7,5,71.4%,62,12.4,8.9,0,98.5,3.3,28,34,2,0,0,0,0,3,1,25.0%,202010290car
+Jeremy Chinn,ChinJe00,defense,CAR,0,2,2,100.0%,29,14.5,14.5,0,118.7,12,24,5,7,1,1,0,2,10,0,0.0%,202010290car
+Shaq Thompson,ThomSh01,defense,CAR,0,3,2,66.7%,19,9.5,6.3,0,84,3.3,10,9,3,0,0,0,0,6,0,0.0%,202010290car
+Tahir Whitehead,WhitTa00,defense,CAR,0,3,2,66.7%,29,14.5,9.7,0,97.9,6.7,17,12,3,0,0,0,0,6,0,0.0%,202010290car
+Tre Boston,BostTr00,defense,CAR,0,3,2,66.7%,29,14.5,9.7,0,97.9,13.7,28,1,0,0,0,0,0,8,0,0.0%,202010290car
+Stantley Thomas-Oliver,ThomSt00,defense,CAR,0,2,2,100.0%,13,6.5,6.5,0,93.7,4.5,9,4,0,0,0,0,0,1,0,0.0%,202010290car
+Troy Pride Jr.,PridTr00,defense,CAR,0,4,2,50.0%,36,18,9,0,81.2,13.5,28,8,0,0,0,0,0,4,0,0.0%,202010290car
+Brian Burns,BurnBr00,defense,CAR,0,1,1,100.0%,12,12,12,0,116.7,2,2,10,0,3,0,0,3,5,0,0.0%,202010290car
+Marquis Haynes,HaynMa01,defense,CAR,0,1,1,100.0%,0,0,0,0,79.2,0,0,0,0,1,0,1,2,2,0,0.0%,202010290car
+Adarius Taylor,GlanAd00,defense,CAR,0,1,1,100.0%,16,16,16,0,118.7,16,16,0,0,0,0,0,0,2,0,0.0%,202010290car
+Efe Obada,ObadEf00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,1,0,0.0%,202010290car
+Stephen Weatherly,WeatSt00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,202010290car
+Derrick Brown,BrowDe05,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,2,33.3%,202010290car
+Sam Franklin,FranSa00,defense,CAR,0,2,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,4,1,20.0%,202010290car
+Myles Hartsfield,HartMy00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202010290car

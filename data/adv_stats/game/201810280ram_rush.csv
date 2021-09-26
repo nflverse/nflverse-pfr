@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,12,86,4,56,4.7,30,2.5,1,12,201810280ram
+Jamaal Williams,WillJa06,rushing,GNB,4,9,1,1,0.3,8,2,0,NA,201810280ram
+Ty Montgomery,MontTy01,rushing,GNB,2,6,NA,1,0.5,5,2.5,0,NA,201810280ram
+Aaron Rodgers,RodgAa00,rushing,GNB,1,5,0,3,3,2,2,0,NA,201810280ram
+Todd Gurley,GurlTo01,rushing,LAR,25,114,4,57,2.3,57,2.3,2,12.5,201810280ram
+Jared Goff,GoffJa00,rushing,LAR,5,7,0,5,1,2,0.4,0,NA,201810280ram
+Brandin Cooks,CookBr00,rushing,LAR,2,9,0,7,3.5,2,1,0,NA,201810280ram
+Malcolm Brown,BrowMa03,rushing,LAR,1,7,NA,3,3,4,4,0,NA,201810280ram
+Josh Reynolds,ReynJo00,rushing,LAR,1,-2,0,-2,-2,0,0,0,NA,201810280ram

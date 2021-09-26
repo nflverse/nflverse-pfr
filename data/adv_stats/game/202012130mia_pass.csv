@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Patrick Mahomes,MahoPa00,passing,KAN,24,34,393,15,40.5,318,9.4,188,7.8,5.5,205,8.5,2,5.9%,5,14.7%,3,12,2,3,8,20.5%,2,2,202012130mia
+Tua Tagovailoa,TagoTu00,passing,MIA,28,48,316,18,34.6,447,9.3,206,7.4,4.3,110,3.9,2,4.4%,8,17.8%,4,17,2,3,9,15.8%,5,4.6,202012130mia
+Lynn Bowden Jr.,BowdLy00,passing,MIA,0,1,0,0,0,19,19,0,NA,0,0,NA,0,0.0%,1,100.0%,0,1,0,1,1,50.0%,1,2,202012130mia

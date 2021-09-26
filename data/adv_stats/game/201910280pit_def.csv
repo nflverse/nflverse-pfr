@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Ryan Lewis,LewiRy01,defense,MIA,0,7,4,57.1%,79,19.8,11.3,0,96.7,21.3,69,10,0,0,0,0,0,6,1,14.3%,201910280pit
+Nik Needham,NeedNi00,defense,MIA,0,4,3,75.0%,38,12.7,9.5,0,104.2,11.8,28,10,3,0,1,0,1,3,0,0.0%,201910280pit
+Vince Biegel,BiegVi00,defense,MIA,0,3,2,66.7%,3,1.5,1,0,70.1,2.3,1,2,6,2,2,0,4,9,0,0.0%,201910280pit
+Jerome Baker,BakeJe00,defense,MIA,0,2,2,100.0%,9,4.5,4.5,0,85.4,1,2,7,6,0,1,0,1,9,0,0.0%,201910280pit
+Chris Lammons,LammCh00,defense,MIA,0,2,2,100.0%,27,13.5,13.5,1,158.3,12,24,3,1,0,0,0,0,2,0,0.0%,201910280pit
+Xavien Howard,HowaXa00,defense,MIA,1,6,2,33.3%,57,28.5,9.5,1,69.4,17.3,15,42,1,0,0,0,0,1,0,0.0%,201910280pit
+Eric Rowe,RoweEr00,defense,MIA,0,3,2,66.7%,16,8,5.3,0,79.9,8,1,15,3,0,0,0,0,5,1,16.7%,201910280pit
+Trent Harris,HarrTr01,defense,MIA,0,1,1,100.0%,4,4,4,0,83.3,4,4,0,1,0,0,0,0,2,0,0.0%,201910280pit
+Jamal Perry,WiltJo01,defense,MIA,0,4,1,25.0%,9,9,2.3,0,39.6,12.5,-1,10,1,0,0,0,0,1,1,50.0%,201910280pit
+Bobby McCain,McCaBo01,defense,MIA,0,1,1,100.0%,9,9,9,0,104.2,8,8,1,4,0,0,0,0,1,0,0.0%,201910280pit
+Taco Charlton,CharTa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201910280pit
+Samuel Eguavoen,EguaSa00,defense,MIA,0,1,0,0.0%,NA,NA,0,NA,39.6,-1,NA,NA,10,0,0,1,1,3,0,0.0%,201910280pit
+Davon Godchaux,GodcDa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,201910280pit
+Raekwon McMillan,McMiRa02,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,7,1,12.5%,201910280pit
+Ken Webster,WebsKe00,defense,MIA,0,2,0,0.0%,NA,NA,0,NA,39.6,30.5,NA,NA,0,0,0,0,0,2,0,0.0%,201910280pit
+Joe Haden,HadeJo99,defense,PIT,0,6,5,83.3%,57,11.4,9.5,0,106.2,10,51,6,0,0,0,0,0,8,0,0.0%,201910280pit
+Devin Bush Jr.,BushDe01,defense,PIT,0,4,4,100.0%,29,7.3,7.3,1,136.5,4.5,18,11,2,0,0,0,0,7,1,12.5%,201910280pit
+Mark Barron,BarrMa00,defense,PIT,0,4,3,75.0%,31,10.3,7.8,0,96.9,5.8,11,20,0,0,0,0,0,5,2,28.6%,201910280pit
+Steven Nelson,NelsSt01,defense,PIT,0,7,3,42.9%,30,10,4.3,0,55.7,12.7,30,0,0,0,0,0,0,1,0,0.0%,201910280pit
+Vince Williams,WillVi01,defense,PIT,0,2,2,100.0%,14,7,7,1,135.4,2.5,5,9,6,0,2,0,2,4,0,0.0%,201910280pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,3,2,66.7%,22,11,7.3,0,88.2,9.3,18,4,0,0,0,0,0,4,0,0.0%,201910280pit
+Bud Dupree,DuprAl00,defense,PIT,0,1,1,100.0%,7,7,7,0,95.8,-4,-4,11,0,1,0,1,2,5,2,28.6%,201910280pit
+T.J. Watt,WattT.00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3,1,2,6,3,0,0.0%,201910280pit
+Tyson Alualu,AluaTy99,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201910280pit
+Cameron Heyward,HeywCa01,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,-7,NA,NA,0,0,1,1,2,6,0,0.0%,201910280pit
+Mike Hilton,HiltMi01,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,-5,NA,NA,4,0,1,0,1,1,0,0.0%,201910280pit
+Javon Hargrave,HargJa00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201910280pit
+Jayrone Elliott,ElliJa02,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,201910280pit
+Minkah Fitzpatrick,FitzMi00,defense,PIT,2,2,0,0.0%,NA,NA,0,NA,0,37.5,NA,NA,0,0,0,0,0,2,0,0.0%,201910280pit

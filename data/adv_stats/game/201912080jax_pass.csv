@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Philip Rivers,RivePh00,passing,LAC,16,22,314,9,39.1,231,10.5,104,6.5,4.7,210,13.1,1,4.8%,2,9.5%,1,4,0,6,7,30.4%,0,NA,201912080jax
+Tyrod Taylor,TaylTy00,passing,LAC,3,5,26,2,40,25,5,7,2.3,1.4,19,6.3,1,20.0%,1,20.0%,0,0,0,0,0,0.0%,0,NA,201912080jax
+Gardner Minshew II,MinsGa00,passing,JAX,24,37,162,5,12.8,203,5.5,93,3.9,2.5,69,2.9,1,2.8%,8,22.2%,2,9,3,2,7,15.6%,6,5.2,201912080jax
+Logan Cooke,CookLo00,passing,JAX,1,1,9,1,100,6,6,6,6,6,3,3,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201912080jax

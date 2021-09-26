@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Tre Flowers,FlowTr01,defense,SEA,0,10,7,70.0%,124,17.7,12.4,1,145.4,11.3,81,43,0,0,0,0,0,8,1,11.1%,201809090den
+Shaquem Griffin,GrifSh01,defense,SEA,0,5,4,80.0%,81,20.3,16.2,1,158.3,4.8,8,73,0,0,0,0,0,3,1,25.0%,201809090den
+Shaquill Griffin,GrifSh00,defense,SEA,0,7,3,42.9%,21,7,3,1,89.9,11.6,16,5,0,0,0,0,0,6,1,14.3%,201809090den
+Barkevious Mingo,MingBa00,defense,SEA,0,3,3,100.0%,30,10,10,0,108.3,6.7,20,10,1,0,0,0,0,3,2,40.0%,201809090den
+Austin Calitro,CaliAu00,defense,SEA,0,2,2,100.0%,10,5,5,0,87.5,-1.5,-3,13,0,0,0,0,0,5,2,28.6%,201809090den
+Bobby Wagner,WagnBo00,defense,SEA,0,3,2,66.7%,15,7.5,5,0,78.5,15.7,10,5,2,0,0,0,0,5,0,0.0%,201809090den
+Justin Coleman,ColeJu01,defense,SEA,0,1,1,100.0%,14,14,14,0,118.7,14,14,0,1,1,0,0,1,1,0,0.0%,201809090den
+Tedric Thompson,ThomTe00,defense,SEA,0,1,1,100.0%,5,5,5,0,87.5,5,5,0,0,0,0,0,0,4,0,0.0%,201809090den
+Bradley McDougald,McDoBr01,defense,SEA,2,5,1,20.0%,25,25,5,0,8.3,12.4,10,15,0,0,0,0,0,4,0,0.0%,201809090den
+Frank Clark,ClarFr01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,1,0,0.0%,201809090den
+Dion Jordan,JordDi00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201809090den
+Earl Thomas,ThomEa99,defense,SEA,1,2,0,0.0%,NA,NA,0,NA,0,12.5,NA,NA,1,1,0,0,1,5,0,0.0%,201809090den
+Shamar Stephen,StepSh00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201809090den
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,201809090den
+Quinton Jefferson,JeffQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201809090den
+Chris Harris Jr.,HarrCh01,defense,DEN,0,5,3,60.0%,64,21.3,12.8,1,143.7,14.8,45,19,2,0,0,1,1,2,0,0.0%,201809090den
+Todd Davis,DaviTo01,defense,DEN,0,4,3,75.0%,43,14.3,10.8,0,109.4,9,16,27,3,0,1,0,1,8,0,0.0%,201809090den
+Bradley Roby,RobyBr00,defense,DEN,0,3,3,100.0%,33,11,11,1,152.1,9,27,6,0,0,0,0,0,2,1,33.3%,201809090den
+Justin Simmons,SimmJu00,defense,DEN,1,8,3,37.5%,31,10.3,3.9,0,9.9,11.5,3,28,0,0,0,0,0,4,2,33.3%,201809090den
+Bradley Chubb,ChubBr00,defense,DEN,0,3,2,66.7%,86,43,28.7,1,149.3,7.3,22,64,7,2,0,0.5,3,3,2,40.0%,201809090den
+Will Parks,ParkWi01,defense,DEN,0,2,2,100.0%,20,10,10,0,108.3,4.5,9,11,1,0,0,0,0,2,0,0.0%,201809090den
+Adam Jones,JonePa20,defense,DEN,1,3,1,33.3%,6,6,2,0,2.8,11.3,5,1,0,0,0,0,0,2,1,33.3%,201809090den
+Von Miller,MillVo00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,2,1,3,6,7,0,0.0%,201809090den
+Shaquil Barrett,BarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,201809090den
+Shelby Harris,HarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,1,0,0.0%,201809090den
+Shane Ray,RayxSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201809090den
+Darian Stewart,StewDa00,defense,DEN,0,2,0,0.0%,15,NA,7.5,1,97.9,13,10,5,2,0,0,0.5,1,3,1,25.0%,201809090den
+Brandon Marshall,MarsBr01,defense,DEN,0,2,0,0.0%,NA,NA,0,NA,39.6,-0.5,NA,NA,1,0,0,0,0,6,0,0.0%,201809090den

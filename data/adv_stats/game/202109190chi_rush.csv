@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,20,69,2,33,1.7,36,1.8,2,10,202109190chi
+David Montgomery,MontDa01,rushing,CHI,20,61,3,29,1.5,32,1.6,2,10,202109190chi
+Justin Fields,FielJu00,rushing,CHI,10,31,2,16,1.6,15,1.5,2,5,202109190chi
+Andy Dalton,DaltAn00,rushing,CHI,2,25,1,25,12.5,0,0,0,NA,202109190chi
+Damien Williams,WillDa05,rushing,CHI,2,6,NA,3,1.5,3,1.5,0,NA,202109190chi

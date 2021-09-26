@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chase Edmonds,EdmoCh00,rushing,ARI,7,8,1,5,0.7,3,0.4,0,NA,201910270nor
+Kyler Murray,MurrKy00,rushing,ARI,2,13,0,13,6.5,0,0,0,NA,201910270nor
+Christian Kirk,KirkCh01,rushing,ARI,1,19,1,19,19,0,0,0,NA,201910270nor
+Zach Zenner,ZennZa00,rushing,ARI,1,0,0,0,0,0,0,0,NA,201910270nor
+Latavius Murray,MurrLa00,rushing,NOR,21,102,5,68,3.2,34,1.6,0,NA,201910270nor
+Dwayne Washington,WashDw00,rushing,NOR,3,38,1,2,0.7,36,12,2,1.5,201910270nor
+Teddy Bridgewater,BridTe00,rushing,NOR,2,-2,NA,-2,-1,0,0,0,NA,201910270nor
+Zach Line,LineZa01,rushing,NOR,2,8,2,3,1.5,5,2.5,0,NA,201910270nor
+Michael Thomas,ThomMi05,rushing,NOR,1,-9,0,-9,-9,0,0,0,NA,201910270nor

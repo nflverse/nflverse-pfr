@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Ian Thomas,ThomIa00,receiving,CAR,11,9,77,0,6,36,4,41,4.6,4.1,0,NA,0,0,0,95.8,201812090cle
+Christian McCaffrey,McCaCh01,receiving,CAR,7,6,38,0,2,-12,-2,50,8.3,-1.7,0,NA,0,0,0,89.3,201812090cle
+D.J. Moore,MoorD.00,receiving,CAR,8,5,67,0,2,20,4,47,9.4,3.6,2,2.5,1,12.5,0,89.1,201812090cle
+Curtis Samuel,SamuCu00,receiving,CAR,8,4,80,0,3,74,18.5,6,1.5,15.9,0,NA,0,0,0,85.4,201812090cle
+Jarius Wright,WrigJa02,receiving,CAR,5,3,36,0,1,29,9.7,7,2.3,7.8,0,NA,0,0,0,82.1,201812090cle
+Devin Funchess,FuncDe00,receiving,CAR,3,0,0,0,NA,0,NA,0,NA,22,0,NA,0,0,1,0,201812090cle
+Nick Chubb,ChubNi00,receiving,CLE,6,4,17,0,0,-7,-1.8,24,6,4.3,0,NA,1,16.7,0,70.1,201812090cle
+Jarvis Landry,LandJa00,receiving,CLE,4,3,57,1,1,53,17.7,4,1.3,21.8,0,NA,0,0,0,156.2,201812090cle
+David Njoku,NjokDa00,receiving,CLE,4,3,35,0,1,27,9,8,2.7,12.3,0,NA,1,25,0,101,201812090cle
+Rashard Higgins,HiggRa00,receiving,CLE,3,2,19,0,1,13,6.5,6,3,11.3,0,NA,1,33.3,0,84,201812090cle
+Dontrell Hilliard,HillDo00,receiving,CLE,2,2,20,0,NA,12,6,8,4,6,0,NA,0,0,0,108.3,201812090cle
+Breshad Perriman,PerrBr02,receiving,CLE,2,2,81,0,2,68,34,13,6.5,34,0,NA,0,0,0,118.7,201812090cle
+Antonio Callaway,CallAn00,receiving,CLE,1,1,0,0,NA,-2,-2,2,2,-2,0,NA,0,0,0,79.2,201812090cle
+Orson Charles,CharOr00,receiving,CLE,1,1,9,0,NA,-1,-1,10,10,-1,0,NA,0,0,0,104.2,201812090cle

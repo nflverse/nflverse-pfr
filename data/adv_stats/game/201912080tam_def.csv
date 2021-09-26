@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Malik Hooker,HookMa00,defense,IND,1,7,7,100.0%,144,20.6,20.6,1,118.7,14.9,104,40,0,0,0,0,0,10,1,9.1%,201912080tam
+Rolan Milligan,MillRo03,defense,IND,0,8,5,62.5%,50,10,6.3,0,80.2,7.9,29,21,6,0,1,0,1,3,1,25.0%,201912080tam
+Khari Willis,WillKh00,defense,IND,0,4,4,100.0%,20,5,5,1,127.1,2.5,10,10,5,0,1,0,1,11,0,0.0%,201912080tam
+George Odum,OdumGe00,defense,IND,0,4,4,100.0%,67,16.8,16.8,0,118.7,4.5,18,49,1,0,0,0,0,5,0,0.0%,201912080tam
+Darius Leonard,LeonDa00,defense,IND,2,5,4,80.0%,49,12.3,9.8,0,67.9,4.6,20,29,5,0,0,0,0,9,0,0.0%,201912080tam
+Pierre Desir,DesiPi00,defense,IND,0,6,3,50.0%,70,23.3,11.7,1,131.9,12,44,26,0,0,0,0,0,4,2,33.3%,201912080tam
+Anthony Walker,WalkAn01,defense,IND,0,3,2,66.7%,17,8.5,5.7,0,81.2,7.7,17,0,2,0,1,0,1,6,2,25.0%,201912080tam
+Rock Ya-Sin,Ya-SRo00,defense,IND,0,5,2,40.0%,19,9.5,3.8,0,51.2,14.2,19,0,1,0,0,0,0,4,0,0.0%,201912080tam
+Clayton Geathers,GeatCl00,defense,IND,0,1,1,100.0%,4,4,4,0,83.3,4,4,0,0,0,0,0,0,2,0,0.0%,201912080tam
+Marvell Tell III,TellMa00,defense,IND,0,1,1,100.0%,NA,NA,0,NA,79.2,NA,NA,NA,0,0,0,0,0,0,0,NA,201912080tam
+Justin Houston,HousJu00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,5,0,0.0%,201912080tam
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,201912080tam
+Bobby Okereke,OkerBo00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,2,0,0.0%,201912080tam
+Grover Stewart,StewGr00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201912080tam
+Jabaal Sheard,SheaJa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,2,66.7%,201912080tam
+Denico Autry,AutrDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201912080tam
+Carlton Davis,DaviCa02,defense,TAM,0,9,4,44.4%,29,7.3,3.2,1,89.6,7.9,17,12,0,0,0,0,0,5,1,16.7%,201912080tam
+Andrew Adams,AdamAn00,defense,TAM,0,3,3,100.0%,91,30.3,30.3,1,158.3,21.7,65,26,1,0,0,0,0,4,0,0.0%,201912080tam
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,5,3,60.0%,12,4,2.4,0,64.6,12.4,7,5,3,0,0,0,0,2,0,0.0%,201912080tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,5,3,60.0%,77,25.7,15.4,0,104.2,18.2,66,11,2,0,0,0,0,9,1,10.0%,201912080tam
+Lavonte David,DaviLa00,defense,TAM,0,3,2,66.7%,13,6.5,4.3,0,75.7,3.3,8,5,6,1,1,0,2,6,0,0.0%,201912080tam
+Mike Edwards,EdwaMi01,defense,TAM,0,4,2,50.0%,12,6,3,0,56.2,4.5,-5,17,0,0,0,0,0,3,0,0.0%,201912080tam
+Devin White,WhitDe02,defense,TAM,0,3,1,33.3%,8,8,2.7,0,42.4,3,0,8,3,0,0,0,0,6,0,0.0%,201912080tam
+Jamel Dean,DeanJa00,defense,TAM,0,3,1,33.3%,9,9,3,0,42.4,13,9,0,0,0,0,0,0,1,0,0.0%,201912080tam
+Shaquil Barrett,BarrSh00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,2,1,4,7,0,0.0%,201912080tam
+Jason Pierre-Paul,PierJa99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1,0,0,1,1,0,0.0%,201912080tam
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,0,0,NA,201912080tam
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201912080tam
+Carl Nassib,NassCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,0,0,NA,201912080tam

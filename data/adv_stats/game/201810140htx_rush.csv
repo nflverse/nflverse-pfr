@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+LeSean McCoy,McCoLe01,rushing,BUF,16,73,3,58,3.6,15,0.9,0,NA,201810140htx
+Chris Ivory,IvorCh00,rushing,BUF,6,5,0,3,0.5,2,0.3,0,NA,201810140htx
+Josh Allen,AlleJo02,rushing,BUF,4,20,1,9,2.3,11,2.8,0,NA,201810140htx
+Nathan Peterman,PeteNa00,rushing,BUF,1,2,0,2,2,0,0,0,NA,201810140htx
+Lamar Miller,MillLa01,rushing,HOU,15,46,0,25,1.7,21,1.4,1,15,201810140htx
+Alfred Blue,BlueAl00,rushing,HOU,7,26,2,22,3.1,4,0.6,0,NA,201810140htx
+Deshaun Watson,WatsDe00,rushing,HOU,2,2,1,-1,-0.5,3,1.5,0,NA,201810140htx

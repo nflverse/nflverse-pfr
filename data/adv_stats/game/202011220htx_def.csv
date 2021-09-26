@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jonathan Jones,JoneJo03,defense,NWE,0,9,7,77.8%,67,9.6,7.4,1,134.7,6.8,31,36,1,0,0,0,0,6,1,14.3%,202011220htx
+J.C. Jackson,JackJ.00,defense,NWE,0,8,5,62.5%,88,17.6,11,0,100,10.8,36,52,0,0,0,0,0,1,2,66.7%,202011220htx
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,3,3,100.0%,17,5.7,5.7,0,90.3,1.3,4,13,0,0,0,0,0,5,2,28.6%,202011220htx
+Kyle Dugger,DuggKy00,defense,NWE,0,4,3,75.0%,47,15.7,11.8,0,113.5,11.5,30,17,2,0,0,0,0,6,3,33.3%,202011220htx
+Devin McCourty,McCoDe99,defense,NWE,0,2,2,100.0%,17,8.5,8.5,1,141.7,7,14,3,0,0,0,0,0,3,0,0.0%,202011220htx
+Stephon Gilmore,GilmSt00,defense,NWE,0,2,2,100.0%,17,8.5,8.5,0,102.1,1,2,15,0,0,0,0,0,6,1,14.3%,202011220htx
+Jason McCourty,McCoJa99,defense,NWE,0,3,2,66.7%,36,18,12,0,107.6,9.7,27,9,0,0,0,0,0,2,0,0.0%,202011220htx
+Terez Hall,HallTe01,defense,NWE,0,2,1,50.0%,4,4,2,0,56.2,8.5,1,3,1,0,0,0,0,4,0,0.0%,202011220htx
+Terrence Brooks,BrooTe00,defense,NWE,0,1,1,100.0%,21,21,21,0,118.7,14,14,7,0,0,0,0,0,1,0,0.0%,202011220htx
+Joejuan Williams,WillJo13,defense,NWE,0,1,1,100.0%,24,24,24,0,118.7,14,14,10,1,0,0,0,0,2,0,0.0%,202011220htx
+Chase Winovich,WinoCh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,202011220htx
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,6,2,25.0%,202011220htx
+Adrian Phillips,PhilAd00,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,23,NA,NA,0,1,0,0,1,6,0,0.0%,202011220htx
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202011220htx
+Byron Cowart,CowaBy00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202011220htx
+Josh Uche,UcheJo00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0.0%,202011220htx
+Eric Murray,MurrEr00,defense,HOU,0,6,6,100.0%,91,15.2,15.2,0,118.7,3.5,21,70,6,1,0,0,1,4,0,0.0%,202011220htx
+Tyrell Adams,AdamTy00,defense,HOU,0,6,4,66.7%,27,6.8,4.5,0,76.4,0.7,-10,37,4,1,0,0,1,6,1,14.3%,202011220htx
+Lonnie Johnson Jr.,JohnLo01,defense,HOU,0,4,3,75.0%,31,10.3,7.8,0,96.9,3.5,14,17,6,0,2,0,2,5,1,16.7%,202011220htx
+Bradley Roby,RobyBr00,defense,HOU,0,5,3,60.0%,39,13,7.8,0,84.6,8.8,36,3,0,0,0,0,0,5,0,0.0%,202011220htx
+Vernon Hargreaves III,HargVe00,defense,HOU,0,5,3,60.0%,47,15.7,9.4,0,91.2,7.8,16,31,0,0,0,0,0,3,1,25.0%,202011220htx
+Justin Reid,ReidJu00,defense,HOU,0,3,2,66.7%,12,6,4,0,74.3,1,2,10,6,0,1,1,2,9,0,0.0%,202011220htx
+Zach Cunningham,CunnZa00,defense,HOU,0,4,2,50.0%,17,8.5,4.3,0,61.5,3,1,16,2,1,1,0,2,9,0,0.0%,202011220htx
+Phillip Gaines,GainPh00,defense,HOU,0,2,2,100.0%,51,25.5,25.5,1,158.3,21,42,9,0,0,0,0,0,1,0,0.0%,202011220htx
+A.J. Moore,MoorA.00,defense,HOU,0,1,1,100.0%,50,50,50,0,118.7,50,50,0,0,0,0,0,0,4,0,0.0%,202011220htx
+Charles Omenihu,OmenCh00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,0,0,NA,202011220htx
+J.J. Watt,WattJ.00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,2,0,0.0%,202011220htx
+Ross Blacklock,BlacRo00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202011220htx
+Brandon Dunn,DunnBr00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202011220htx
+Jonathan Greenard,GreeJo04,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,1,1,1,0,0.0%,202011220htx
+Jacob Martin,MartJa02,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,1,0,0,1,2,1,33.3%,202011220htx
+Whitney Mercilus,MercWh00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,3,1,0,0,1,1,0,0.0%,202011220htx

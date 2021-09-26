@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Todd Gurley,GurlTo01,rushing,LAR,11,20,3,0,0,20,1.8,4,2.8,201912150dal
+Jared Goff,GoffJa00,rushing,LAR,3,2,0,2,0.7,0,0,0,NA,201912150dal
+Ezekiel Elliott,ElliEz00,rushing,DAL,24,117,10,37,1.5,80,3.3,7,3.4,201912150dal
+Tony Pollard,PollTo00,rushing,DAL,12,131,4,14,1.2,117,9.8,5,2.4,201912150dal
+Dak Prescott,PresDa01,rushing,DAL,7,12,2,-4,-0.6,16,2.3,0,NA,201912150dal
+Tavon Austin,AustTa00,rushing,DAL,2,3,0,2,1,1,0.5,0,NA,201912150dal

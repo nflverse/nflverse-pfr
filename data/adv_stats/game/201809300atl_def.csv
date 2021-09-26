@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+William Jackson III,JackWi02,defense,CIN,0,10,8,80.0%,148,18.5,14.8,1,152.1,12.2,91,57,0,0,0,0,0,4,1,20.0%,201809300atl
+Darqueze Dennard,DennDa00,defense,CIN,0,6,4,66.7%,50,12.5,8.3,0,92.4,11,33,17,2,1,0,0,1,5,0,0.0%,201809300atl
+Shawn Williams,WillSh02,defense,CIN,0,4,4,100.0%,35,8.8,8.8,0,103.1,5.3,21,14,0,0,0,0,0,5,0,0.0%,201809300atl
+Nick Vigil,VigiNi00,defense,CIN,0,5,4,80.0%,31,7.8,6.2,0,92.5,7,9,22,5,0,0,0,0,8,1,11.1%,201809300atl
+Jessie Bates III,BateJe00,defense,CIN,0,4,3,75.0%,43,14.3,10.8,1,149,11.8,36,7,0,0,0,0,0,8,1,11.1%,201809300atl
+Carlos Dunlap,DunlCa99,defense,CIN,0,1,1,100.0%,4,4,4,0,83.3,-1,-1,5,0,1,1,1,3,3,0,0.0%,201809300atl
+Dre Kirkpatrick,KirkDr00,defense,CIN,0,3,1,33.3%,30,30,10,1,111.1,26.3,26,4,0,0,0,0,0,1,1,50.0%,201809300atl
+Preston Brown,BrowPr00,defense,CIN,0,1,1,100.0%,15,15,15,0,118.7,3,3,12,0,0,0,0,0,6,0,0.0%,201809300atl
+Tony McRae,McRaTo00,defense,CIN,0,2,1,50.0%,7,7,3.5,0,58.3,0.5,-3,10,0,0,0,0,0,0,1,100.0%,201809300atl
+Jordan Evans,EvanJo01,defense,CIN,0,1,1,100.0%,7,7,7,0,95.8,-5,-5,12,0,0,0,0,0,3,1,25.0%,201809300atl
+Clayton Fejedelem,FejeCl00,defense,CIN,0,1,1,100.0%,49,49,49,0,118.7,46,46,3,0,0,0,0,0,2,0,0.0%,201809300atl
+Carl Lawson,LawsCa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,1,5,1,0,0.0%,201809300atl
+Geno Atkins,AtkiGe99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,5,0,0.0%,201809300atl
+Andrew Billings,BillAn00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,201809300atl
+Michael Johnson,JohnMi98,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201809300atl
+Hardy Nickerson,NickHa02,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,2,0,0.0%,201809300atl
+Desmond Trufant,TrufDe00,defense,ATL,0,12,8,66.7%,69,8.6,5.8,0,81.6,5.3,42,27,0,0,0,0,0,7,0,0.0%,201809300atl
+Robert Alford,AlfoRo00,defense,ATL,0,9,5,55.6%,78,15.6,8.7,0,84.5,14.3,40,38,0,0,0,0,0,4,1,20.0%,201809300atl
+De'Vondre Campbell,CampDe00,defense,ATL,0,5,4,80.0%,46,11.5,9.2,0,105,3,1,45,9,1,0,0,1,5,0,0.0%,201809300atl
+Duke Riley,RileDu00,defense,ATL,0,3,3,100.0%,17,5.7,5.7,0,90.3,2,6,11,0,0,0,0,0,5,0,0.0%,201809300atl
+Foyesade Oluokun,OluoFo00,defense,ATL,0,2,2,100.0%,21,10.5,10.5,0,110.4,7.5,15,6,0,0,0,0,0,3,0,0.0%,201809300atl
+Brian Poole,PoolBr01,defense,ATL,0,4,2,50.0%,28,14,7,2,112.5,6,28,0,1,0,0,0,0,5,1,16.7%,201809300atl
+Damontae Kazee,KazeDa00,defense,ATL,1,2,2,100.0%,47,23.5,23.5,1,118.7,14.5,29,18,0,0,0,0,0,7,0,0.0%,201809300atl
+Takkarist McKinley,McKiTa00,defense,ATL,0,1,1,100.0%,17,17,17,0,118.7,-7,-7,24,0,2,0,2.5,5,3,1,25.0%,201809300atl
+Deadrin Senat,SenaDe00,defense,ATL,0,1,1,100.0%,-1,-1,-1,0,79.2,-1,-1,0,0,0,1,0,1,1,0,0.0%,201809300atl
+Blidi Wreh-Wilson,WrehBl00,defense,ATL,0,1,1,100.0%,11,11,11,0,112.5,3,3,8,0,0,0,0,0,4,0,0.0%,201809300atl
+Isaiah Oliver,OlivIs00,defense,ATL,0,2,1,50.0%,13,13,6.5,0,70.8,8.5,4,9,0,0,0,0,0,4,0,0.0%,201809300atl
+Vic Beasley,BeasVi00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5,0,0,5,1,0,0.0%,201809300atl
+Brooks Reed,ReedBr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,1,50.0%,201809300atl
+Jack Crawford,CrawJa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,4,0,0.0%,201809300atl
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201809300atl
+Steven Means,MeanSt00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201809300atl

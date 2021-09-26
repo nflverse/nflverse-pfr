@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Maurice Canady,CanaMa00,defense,NYJ,0,7,6,85.7%,69,11.5,9.9,0,107.7,7.1,42,27,0,0,0,0,0,8,0,0.0%,201912010cin
+James Burgess,BurgJa01,defense,NYJ,0,6,6,100.0%,60,10,10,0,108.3,1.2,7,53,0,0,0,0,0,9,0,0.0%,201912010cin
+Arthur Maulet,MaulAr00,defense,NYJ,0,7,5,71.4%,49,9.8,7,0,90.8,8,29,20,0,0,0,0,0,6,0,0.0%,201912010cin
+Marcus Maye,MayeMa00,defense,NYJ,0,4,3,75.0%,41,13.7,10.3,1,146.9,5,20,21,0,0,0,0,0,2,1,33.3%,201912010cin
+Blessuan Austin,AustBl00,defense,NYJ,0,4,2,50.0%,21,10.5,5.3,0,65.6,8.5,8,13,0,0,0,0,0,1,2,66.7%,201912010cin
+Neville Hewitt,HewiNe00,defense,NYJ,0,5,2,40.0%,25,12.5,5,1,95.8,3.6,-1,26,1,0,0,0,0,4,0,0.0%,201912010cin
+Tarell Basham,BashTa00,defense,NYJ,0,2,2,100.0%,23,11.5,11.5,0,114.6,9.5,19,4,0,0,0,0,0,0,0,NA,201912010cin
+Henry Anderson,AndeHe00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,0,0.0%,201912010cin
+Brian Poole,PoolBr01,defense,NYJ,0,2,0,0.0%,NA,NA,0,NA,39.6,2.5,NA,NA,3,0,1,0,1,3,0,0.0%,201912010cin
+Steve McLendon,McLeSt00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,1,25.0%,201912010cin
+Jamal Adams,AdamJa00,defense,NYJ,0,2,0,0.0%,NA,NA,0,NA,39.6,22.5,NA,NA,5,0,0,0,0,1,0,0.0%,201912010cin
+Jordan Jenkins,JenkJo01,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201912010cin
+Brandon Copeland,CopeBr00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,1,50.0%,201912010cin
+Darryl Roberts,RobeDa00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,201912010cin
+William Jackson III,JackWi02,defense,CIN,0,12,11,91.7%,116,10.5,9.7,0,106.9,7.5,90,26,0,0,0,0,0,10,0,0.0%,201912010cin
+Jessie Bates III,BateJe00,defense,CIN,0,10,6,60.0%,68,11.3,6.8,0,80.4,9.6,43,25,2,0,0,0,0,7,1,12.5%,201912010cin
+B.W. Webb,WebbBW00,defense,CIN,0,5,3,60.0%,29,9.7,5.8,0,76.2,18.4,23,6,0,0,0,0,0,3,0,0.0%,201912010cin
+Sam Hubbard,HubbSa00,defense,CIN,0,3,2,66.7%,18,9,6,0,82.6,4.7,9,9,0,2,0,1,3,5,0,0.0%,201912010cin
+Nick Vigil,VigiNi00,defense,CIN,0,5,2,40.0%,6,3,1.2,0,47.9,4.8,7,-1,2,1,0,0,1,5,0,0.0%,201912010cin
+Shawn Williams,WillSh02,defense,CIN,0,3,2,66.7%,29,14.5,9.7,0,97.9,8,24,5,4,0,0,0,0,3,1,25.0%,201912010cin
+Carl Lawson,LawsCa00,defense,CIN,0,1,1,100.0%,1,1,1,0,79.2,-4,-4,5,1,1,1,0,2,0,0,NA,201912010cin
+Darqueze Dennard,DennDa00,defense,CIN,0,5,1,20.0%,8,8,1.6,0,39.6,3,5,3,1,0,0,0,0,2,0,0.0%,201912010cin
+Germaine Pratt,PratGe00,defense,CIN,0,2,1,50.0%,10,10,5,0,64.6,4,3,7,0,0,0,0,0,5,0,0.0%,201912010cin
+Brandon Wilson,WilsBr01,defense,CIN,0,3,1,33.3%,4,4,1.3,0,42.4,6,0,4,0,0,0,0,0,2,0,0.0%,201912010cin
+Jordan Evans,EvanJo01,defense,CIN,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,0,0,0,0,0,1,0,0.0%,201912010cin
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,3,3,8,7,0,0.0%,201912010cin
+Geno Atkins,AtkiGe99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201912010cin
+Darius Phillips,PhilDa02,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,0,0,0,0,1,0,0.0%,201912010cin
+Clayton Fejedelem,FejeCl00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,39,NA,NA,0,0,0,0,0,0,0,NA,201912010cin

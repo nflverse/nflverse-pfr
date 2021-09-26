@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Darrell Henderson,HendDa00,rushing,LAR,14,88,5,52,3.7,36,2.6,0,NA,202010180sfo
+Malcolm Brown,BrowMa03,rushing,LAR,2,4,0,3,1.5,1,0.5,0,NA,202010180sfo
+Robert Woods,WoodRo02,rushing,LAR,2,11,1,9,4.5,2,1,0,NA,202010180sfo
+Jared Goff,GoffJa00,rushing,LAR,1,10,1,9,9,1,1,0,NA,202010180sfo
+Raheem Mostert,MostRa00,rushing,SFO,17,65,2,42,2.5,23,1.4,0,NA,202010180sfo
+Jamycal Hasty,HastJa02,rushing,SFO,9,37,2,22,2.4,15,1.7,0,NA,202010180sfo
+Jerick McKinnon,McKiJe00,rushing,SFO,6,18,1,15,2.5,3,0.5,0,NA,202010180sfo
+Jimmy Garoppolo,GaroJi00,rushing,SFO,4,8,1,7,1.8,1,0.3,0,NA,202010180sfo
+Deebo Samuel,SamuDe00,rushing,SFO,1,-6,0,-6,-6,0,0,0,NA,202010180sfo

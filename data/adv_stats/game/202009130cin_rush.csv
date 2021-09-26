@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Austin Ekeler,EkelAu00,rushing,LAC,19,84,3,49,2.6,35,1.8,1,19,202009130cin
+Joshua Kelley,KellJo01,rushing,LAC,12,60,3,18,1.5,42,3.5,2,6,202009130cin
+Tyrod Taylor,TaylTy00,rushing,LAC,6,7,1,6,1,1,0.2,0,NA,202009130cin
+Justin Jackson,JackJu01,rushing,LAC,2,4,NA,2,1,2,1,0,NA,202009130cin
+Joe Mixon,MixoJo00,rushing,CIN,19,69,3,45,2.4,24,1.3,1,19,202009130cin
+Joe Burrow,BurrJo01,rushing,CIN,8,46,2,46,5.8,0,0,0,NA,202009130cin
+Giovani Bernard,BernGi00,rushing,CIN,1,7,0,2,2,5,5,1,1,202009130cin

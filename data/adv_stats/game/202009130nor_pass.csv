@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Tom Brady,BradTo00,passing,TAM,23,36,239,10,25.6,292,8.1,149,6.5,4.1,90,3.9,0,0.0%,8,23.5%,3,7,2,4,9,22.5%,1,4,202009130nor
+Drew Brees,BreeDr00,passing,NOR,18,30,160,9,29,145,4.8,61,3.4,2,99,5.5,2,6.9%,7,24.1%,1,13,4,2,7,21.9%,1,1,202009130nor
+Taysom Hill,HillTa00,passing,NOR,1,1,38,1,100,21,21,21,21,21,17,17,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,1,13,202009130nor

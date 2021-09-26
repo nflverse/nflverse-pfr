@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Allen Lazard,LazaAl00,receiving,GNB,8,6,146,1,5,96,16,50,8.3,13.3,0,NA,1,12.5,0,156.2,202009270nor
+Robert Tonyan,TonyRo00,receiving,GNB,5,5,50,1,4,12,2.4,38,7.6,2.4,0,NA,0,0,0,147.9,202009270nor
+Jace Sternberger,SterJa00,receiving,GNB,3,3,36,0,2,18,6,18,6,6,0,NA,0,0,0,116.7,202009270nor
+Tyler Ervin,ErviTy00,receiving,GNB,2,2,8,0,NA,-8,-4,16,8,-4,0,NA,0,0,0,83.3,202009270nor
+Aaron Jones,JoneAa00,receiving,GNB,4,2,17,0,1,-5,-2.5,22,11,3.3,0,NA,0,0,0,61.5,202009270nor
+Jamaal Williams,WillJa06,receiving,GNB,1,1,3,0,1,0,0,3,3,0,0,NA,0,0,0,79.2,202009270nor
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,4,1,5,0,NA,4,4,1,1,24.5,0,NA,0,0,0,39.6,202009270nor
+Marcedes Lewis,LewiMa00,receiving,GNB,2,1,18,1,1,15,15,3,3,8,0,NA,0,0,0,120.8,202009270nor
+Darrius Shepherd,ShepDa00,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,33,0,NA,0,0,0,39.6,202009270nor
+Alvin Kamara,KamaAl00,receiving,NOR,14,13,139,2,5,-2,-0.2,141,10.8,-0.6,7,1.9,1,7.1,0,147.6,202009270nor
+Emmanuel Sanders,SandEm00,receiving,NOR,5,4,56,1,4,54,13.5,2,0.5,12.2,0,NA,0,0,0,152.9,202009270nor
+Tre'Quan Smith,SmitTr03,receiving,NOR,6,4,42,0,3,32,8,10,2.5,6.7,0,NA,1,16.7,0,86.8,202009270nor
+Adam Trautman,TrauAd00,receiving,NOR,2,2,17,0,1,14,7,3,1.5,7,0,NA,0,0,0,102.1,202009270nor
+Deonte Harris,HarrDe07,receiving,NOR,3,2,5,0,NA,5,2.5,0,0,4.3,0,NA,0,0,0,70.1,202009270nor
+Jared Cook,CookJa02,receiving,NOR,3,2,21,0,1,21,10.5,0,0,10.3,0,NA,0,0,0,86.8,202009270nor
+Latavius Murray,MurrLa00,receiving,NOR,1,1,7,0,0,3,3,4,4,3,0,NA,0,0,0,95.8,202009270nor
+Taysom Hill,HillTa00,receiving,NOR,1,1,1,0,NA,-2,-2,3,3,-2,0,NA,0,0,0,79.2,202009270nor

@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Wendell Smallwood,SmalWe00,rushing,PHI,18,51,2,22,1.2,29,1.6,1,18,201810110nyg
+Corey Clement,ClemCo00,rushing,PHI,11,43,2,26,2.4,17,1.5,0,NA,201810110nyg
+Carson Wentz,WentCa00,rushing,PHI,2,14,1,14,7,0,0,0,NA,201810110nyg
+Saquon Barkley,BarkSa00,rushing,NYG,13,130,4,81,6.2,49,3.8,0,NA,201810110nyg
+Wayne Gallman,GallWa00,rushing,NYG,4,17,1,8,2,9,2.3,0,NA,201810110nyg

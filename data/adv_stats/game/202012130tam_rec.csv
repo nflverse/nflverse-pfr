@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Conklin,ConkTy00,receiving,MIN,5,5,40,0,4,9,1.8,31,6.2,1.8,0,NA,0,0,0,100,202012130tam
+Irv Smith Jr.,SmitIr01,receiving,MIN,4,4,63,1,3,43,10.8,20,5,10.8,0,NA,0,0,0,158.3,202012130tam
+Justin Jefferson,JeffJu00,receiving,MIN,8,4,39,0,2,22,5.5,17,4.3,10.5,1,4,0,0,0,64.1,202012130tam
+Adam Thielen,ThieAd00,receiving,MIN,4,3,39,0,3,30,10,9,3,11,0,NA,0,0,0,105.2,202012130tam
+C.J. Ham,HamxC.00,receiving,MIN,3,3,22,0,1,6,2,16,5.3,2,0,NA,0,0,0,97.2,202012130tam
+Dalvin Cook,CookDa01,receiving,MIN,4,2,8,0,0,-8,-4,16,8,-2.5,0,NA,1,25,0,56.2,202012130tam
+Ameer Abdullah,AbduAm00,receiving,MIN,2,2,10,0,1,0,0,10,5,0,0,NA,0,0,0,87.5,202012130tam
+Mike Boone,BoonMi00,receiving,MIN,1,1,4,0,NA,-3,-3,7,7,-3,0,NA,0,0,0,83.3,202012130tam
+Chad Beebe,BeebCh00,receiving,MIN,3,0,0,0,NA,0,NA,0,NA,4.3,0,NA,1,33.3,0,39.6,202012130tam
+Tajae Sharpe,SharTa00,receiving,MIN,1,0,0,0,NA,0,NA,0,NA,48,0,NA,0,0,0,39.6,202012130tam
+Antonio Brown,BrowAn04,receiving,TAM,5,5,49,0,2,15,3,34,6.8,3,0,NA,0,0,0,107.5,202012130tam
+Mike Evans,EvanMi00,receiving,TAM,5,3,56,0,2,52,17.3,4,1.3,12,0,NA,1,20,0,98.7,202012130tam
+Chris Godwin,GodwCh00,receiving,TAM,3,2,25,0,2,18,9,7,3.5,13.3,0,NA,0,0,0,92.4,202012130tam
+Ronald Jones II,JoneRo01,receiving,TAM,2,1,4,0,0,-1,-1,5,5,6.5,0,NA,0,0,0,56.2,202012130tam
+LeSean McCoy,McCoLe01,receiving,TAM,1,1,3,0,0,-4,-4,7,7,-4,0,NA,0,0,0,79.2,202012130tam
+Scott Miller,MillSc01,receiving,TAM,2,1,48,1,1,48,48,0,0,26,0,NA,0,0,0,135.4,202012130tam
+Rob Gronkowski,GronRo00,receiving,TAM,2,1,2,1,1,2,2,0,0,15.5,0,NA,0,0,0,95.8,202012130tam
+Cameron Brate,BratCa00,receiving,TAM,1,1,9,0,NA,9,9,0,0,9,0,NA,0,0,0,104.2,202012130tam
+Antony Auclair,AuclAn00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,12,0,NA,0,0,0,39.6,202012130tam

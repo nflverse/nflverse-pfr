@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyrell Williams,WillTy00,receiving,LAC,7,5,94,0,4,71,14.2,23,4.6,17.6,0,NA,0,0,0,113.7,201901130nwe
+Mike Williams,WillMi07,receiving,LAC,11,5,68,0,4,50,10,18,3.6,15.9,0,NA,1,9.1,0,65.7,201901130nwe
+Antonio Gates,GateAn00,receiving,LAC,8,5,41,1,3,21,4.2,20,4,7.3,0,NA,0,0,0,115.1,201901130nwe
+Justin Jackson,JackJu01,receiving,LAC,4,3,22,0,1,-7,-2.3,29,9.7,-2.8,0,NA,1,25,0,87.5,201901130nwe
+Austin Ekeler,EkelAu00,receiving,LAC,5,3,19,0,NA,-4,-1.3,23,7.7,5.2,0,NA,0,0,0,67.9,201901130nwe
+Keenan Allen,AlleKe00,receiving,LAC,6,2,75,1,2,68,34,7,3.5,20.8,0,NA,0,0,1,81.9,201901130nwe
+Melvin Gordon,GordMe00,receiving,LAC,2,1,11,0,1,4,4,7,7,2.5,0,NA,0,0,0,66.7,201901130nwe
+Virgil Green,GreeVi00,receiving,LAC,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,201901130nwe
+Travis Benjamin,BenjTr00,receiving,LAC,2,0,0,0,NA,0,NA,0,NA,24,0,NA,0,0,0,39.6,201901130nwe
+Hunter Henry,HenrHu00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,20,0,NA,0,0,0,39.6,201901130nwe
+James White,WhitJa02,receiving,NWE,17,15,97,0,5,-18,-1.2,115,7.7,-1.3,0,NA,1,5.9,0,90.4,201901130nwe
+Julian Edelman,EdelJu00,receiving,NWE,13,9,151,0,8,92,10.2,59,6.6,8.3,1,9,1,7.7,0,108.2,201901130nwe
+Phillip Dorsett,DorsPh00,receiving,NWE,5,4,41,1,4,36,9,5,1.3,13.6,0,NA,0,0,0,140.4,201901130nwe
+Chris Hogan,HogaCh00,receiving,NWE,5,3,13,0,NA,11,3.7,2,0.7,5.4,0,NA,0,0,0,64.6,201901130nwe
+Rob Gronkowski,GronRo00,receiving,NWE,1,1,25,0,1,6,6,19,19,6,1,1,0,0,0,118.7,201901130nwe
+Sony Michel,MichSo00,receiving,NWE,1,1,9,0,0,-1,-1,10,10,-1,0,NA,0,0,0,104.2,201901130nwe
+Rex Burkhead,BurkRe00,receiving,NWE,1,1,7,0,0,0,0,7,7,0,0,NA,0,0,0,95.8,201901130nwe
+Cordarrelle Patterson,PattCo00,receiving,NWE,1,0,0,0,NA,0,NA,0,NA,-5,0,NA,0,0,0,39.6,201901130nwe

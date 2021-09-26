@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Jalen Hurts,HurtJa00,passing,PHI,24,44,338,18,36,477,10.8,165,6.9,3.8,173,7.2,0,0.0%,11,26.2%,6,25,3,3,12,21.8%,5,6.6,202012200crd
+Kyler Murray,MurrKy00,passing,ARI,27,36,406,18,48.6,350,9.7,241,8.9,6.7,165,6.1,0,0.0%,5,13.9%,1,10,4,1,6,15.4%,2,5.5,202012200crd
+Andy Lee,LeexAn20,passing,ARI,1,1,26,1,100,14,14,14,14,14,12,12,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202012200crd

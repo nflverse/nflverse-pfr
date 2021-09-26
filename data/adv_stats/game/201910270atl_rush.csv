@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chris Carson,CarsCh00,rushing,SEA,20,90,6,2,0.1,88,4.4,1,20,201910270atl
+Rashaad Penny,PennRa00,rushing,SEA,8,55,3,42,5.3,13,1.6,0,NA,201910270atl
+Russell Wilson,WilsRu00,rushing,SEA,4,4,0,3,0.8,1,0.3,0,NA,201910270atl
+David Moore,MoorDa03,rushing,SEA,1,2,0,0,0,2,2,0,NA,201910270atl
+Devonta Freeman,FreeDe00,rushing,ATL,13,39,2,10,0.8,29,2.2,0,NA,201910270atl
+Brian Hill,HillBr02,rushing,ATL,3,29,2,-1,-0.3,30,10,0,NA,201910270atl
+Kenjon Barner,BarnKe00,rushing,ATL,1,1,NA,0,0,1,1,0,NA,201910270atl

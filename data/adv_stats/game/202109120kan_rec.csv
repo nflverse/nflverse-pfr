@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jarvis Landry,LandJa00,receiving,CLE,5,5,71,0,2,16,3.2,55,11,3.2,0,NA,0,0,0,118.7,202109120kan
+Anthony Schwartz,SchwAn00,receiving,CLE,5,3,69,0,2,62,20.7,7,2.3,25.2,0,NA,0,0,0,104.2,202109120kan
+David Njoku,NjokDa00,receiving,CLE,5,3,76,0,2,55,18.3,21,7,20.4,0,NA,0,0,0,104.2,202109120kan
+Austin Hooper,HoopAu00,receiving,CLE,3,3,27,0,2,16,5.3,11,3.7,5.3,0,NA,0,0,0,104.2,202109120kan
+Kareem Hunt,HuntKa00,receiving,CLE,3,3,28,0,1,0,0,28,9.3,-0.7,0,NA,0,0,0,105.6,202109120kan
+Nick Chubb,ChubNi00,receiving,CLE,2,2,18,0,2,-4,-2,22,11,-2,0,NA,0,0,0,104.2,202109120kan
+Harrison Bryant,BryaHa00,receiving,CLE,2,1,17,0,1,2,2,15,15,6,0,NA,0,0,1,39.6,202109120kan
+Donovan Peoples-Jones,PeopDo00,receiving,CLE,1,1,4,0,1,3,3,1,1,3,0,NA,0,0,0,83.3,202109120kan
+Andy Janovich,JanoAn00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,202109120kan
+Tyreek Hill,HillTy00,receiving,KAN,15,11,197,1,8,147,13.4,50,4.5,15.4,0,NA,0,0,0,137.5,202109120kan
+Travis Kelce,KelcTr00,receiving,KAN,7,6,76,2,6,45,7.5,31,5.2,7.7,2,3,0,0,0,151.5,202109120kan
+Mecole Hardman,HardMe00,receiving,KAN,3,3,19,0,1,1,0.3,18,6,0.3,0,NA,0,0,0,93.1,202109120kan
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,3,3,29,0,2,-4,-1.3,33,11,-1.3,0,NA,0,0,0,106.9,202109120kan
+Byron Pringle,PrinBy00,receiving,KAN,2,1,6,0,NA,3,3,3,3,1.5,0,NA,0,0,0,56.2,202109120kan
+Mike Remmers,RemmMi00,receiving,KAN,1,1,-2,0,NA,0,0,-2,-2,0,0,NA,0,0,0,79.2,202109120kan
+Demarcus Robinson,RobiDe01,receiving,KAN,2,1,9,0,NA,8,8,1,1,16.5,0,NA,0,0,0,62.5,202109120kan
+Blake Bell,BellBl00,receiving,KAN,1,1,3,0,0,1,1,2,2,1,0,NA,0,0,0,79.2,202109120kan

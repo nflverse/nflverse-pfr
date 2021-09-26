@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,28,133,6,43,1.5,90,3.2,1,28,202011220rav
+Ryan Tannehill,TannRy00,rushing,TEN,4,35,2,18,4.5,17,4.3,0,NA,202011220rav
+Cameron Batson,BatsCa00,rushing,TEN,1,4,0,2,2,2,2,0,NA,202011220rav
+D'Onta Foreman,ForeDO00,rushing,TEN,1,1,NA,0,0,1,1,0,NA,202011220rav
+J.K. Dobbins,DobbJK00,rushing,BAL,15,70,5,34,2.3,36,2.4,0,NA,202011220rav
+Lamar Jackson,JackLa00,rushing,BAL,13,51,4,42,3.2,9,0.7,0,NA,202011220rav
+Gus Edwards,EdwaGu00,rushing,BAL,3,6,NA,1,0.3,5,1.7,0,NA,202011220rav
+Mark Ingram,IngrMa01,rushing,BAL,2,2,NA,0,0,2,1,0,NA,202011220rav

@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Brandin Cooks,CookBr00,receiving,LAR,8,6,114,1,5,91,15.2,23,3.8,16.3,0,NA,0,0,0,156.2,201811040nor
+Todd Gurley,GurlTo01,receiving,LAR,7,6,11,0,0,-12,-2,23,3.8,0.7,0,NA,0,0,0,79.2,201811040nor
+Cooper Kupp,KuppCo00,receiving,LAR,6,5,89,1,3,39,7.8,50,10,8.3,0,NA,0,0,0,158.3,201811040nor
+Robert Woods,WoodRo02,receiving,LAR,9,5,71,0,5,52,10.4,19,3.8,9.4,0,NA,0,0,1,41.7,201811040nor
+Gerald Everett,EverGe00,receiving,LAR,5,3,48,0,2,22,7.3,26,8.7,6.2,0,NA,0,0,0,92.1,201811040nor
+Tyler Higbee,HigbTy00,receiving,LAR,4,2,40,0,1,21,10.5,19,9.5,10.8,1,2,0,0,0,85.4,201811040nor
+Malcolm Brown,BrowMa03,receiving,LAR,1,1,18,1,1,7,7,11,11,7,0,NA,0,0,0,158.3,201811040nor
+Michael Thomas,ThomMi05,receiving,NOR,15,12,211,1,11,107,8.9,104,8.7,8.5,3,4,0,0,0,141,201811040nor
+Alvin Kamara,KamaAl00,receiving,NOR,5,4,34,1,3,8,2,26,6.5,2.8,0,NA,0,0,0,134.6,201811040nor
+Ben Watson,WatsBe00,receiving,NOR,4,3,62,1,3,52,17.3,10,3.3,21.3,0,NA,0,0,0,156.2,201811040nor
+Josh Hill,HillJo02,receiving,NOR,4,2,10,0,NA,3,1.5,7,3.5,8,0,NA,0,0,0,56.2,201811040nor
+Tre'Quan Smith,SmitTr03,receiving,NOR,3,2,23,1,2,23,11.5,0,0,17,0,NA,0,0,0,129.2,201811040nor
+Mark Ingram,IngrMa01,receiving,NOR,2,1,3,0,0,1,1,2,2,1,0,NA,0,0,0,56.2,201811040nor
+Zach Line,LineZa01,receiving,NOR,1,1,3,0,NA,0,0,3,3,0,0,NA,0,0,0,79.2,201811040nor
+Dan Arnold,ArnoDa00,receiving,NOR,1,0,0,0,NA,0,NA,0,NA,25,0,NA,0,0,0,39.6,201811040nor
+Taysom Hill,HillTa00,receiving,NOR,1,0,0,0,0,0,NA,0,NA,3,0,NA,1,100,0,39.6,201811040nor

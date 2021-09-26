@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,PIT,15,61,2,29,1.9,32,2.1,4,3.8,201809240tam
+Ben Roethlisberger,RoetBe00,rushing,PIT,4,-1,1,-1,-0.3,0,0,0,NA,201809240tam
+Stevan Ridley,RidlSt00,rushing,PIT,3,18,NA,10,3.3,8,2.7,0,NA,201809240tam
+Peyton Barber,BarbPe01,rushing,TAM,8,33,1,28,3.5,5,0.6,1,8,201809240tam
+Ryan Fitzpatrick,FitzRy00,rushing,TAM,5,27,1,27,5.4,0,0,0,NA,201809240tam
+Jacquizz Rodgers,RodgJa00,rushing,TAM,2,-1,0,-1,-0.5,0,0,0,NA,201809240tam
+Adam Humphries,HumpAd00,rushing,TAM,1,4,0,4,4,0,0,0,NA,201809240tam

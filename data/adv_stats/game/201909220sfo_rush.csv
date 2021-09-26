@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,PIT,13,43,3,9,0.7,34,2.6,1,13,201909220sfo
+Mason Rudolph,RudoMa00,rushing,PIT,4,15,1,9,2.3,6,1.5,1,4,201909220sfo
+Benny Snell Jr.,SnelBe00,rushing,PIT,3,6,NA,1,0.3,5,1.7,0,NA,201909220sfo
+Johnny Holton,HoltJo00,rushing,PIT,1,9,1,7,7,2,2,0,NA,201909220sfo
+Diontae Johnson,JohnDi01,rushing,PIT,1,6,0,3,3,3,3,0,NA,201909220sfo
+Matt Breida,BreiMa00,rushing,SFO,14,68,3,33,2.4,35,2.5,1,14,201909220sfo
+Raheem Mostert,MostRa00,rushing,SFO,12,79,1,50,4.2,29,2.4,0,NA,201909220sfo
+Jeff Wilson,WilsJe01,rushing,SFO,8,18,3,9,1.1,9,1.1,0,NA,201909220sfo
+Jimmy Garoppolo,GaroJi00,rushing,SFO,6,3,2,3,0.5,0,0,0,NA,201909220sfo

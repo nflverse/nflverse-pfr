@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kerryon Johnson,JohnKe06,rushing,DET,20,36,4,3,0.2,33,1.7,4,5,201909220phi
+Ty Johnson,JohnTy02,rushing,DET,4,5,NA,-2,-0.5,7,1.8,1,4,201909220phi
+Matthew Stafford,StafMa00,rushing,DET,3,1,0,1,0.3,0,0,0,NA,201909220phi
+J.D. McKissic,McKiJ.00,rushing,DET,1,44,1,30,30,14,14,1,1,201909220phi
+Miles Sanders,SandMi01,rushing,PHI,13,53,2,9,0.7,44,3.4,3,4.3,201909220phi
+Jordan Howard,HowaJo00,rushing,PHI,11,37,3,10,0.9,27,2.5,1,11,201909220phi
+Carson Wentz,WentCa00,rushing,PHI,4,33,1,19,4.8,14,3.5,2,2,201909220phi
+Darren Sproles,SproDa00,rushing,PHI,2,4,NA,0,0,4,2,0,NA,201909220phi

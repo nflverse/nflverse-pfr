@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Sam Darnold,DarnSa00,passing,NYJ,16,21,198,10,43.5,166,7.9,115,7.2,5.5,83,5.2,1,5.0%,2,10.0%,2,4,8,0,10,43.5%,0,NA,201809100det
+Matthew Stafford,StafMa00,passing,DET,27,46,286,15,32.6,354,7.7,146,5.4,3.2,140,5.2,3,6.8%,5,11.4%,0,7,10,4,14,29.8%,1,6,201809100det
+Matt Cassel,CassMa00,passing,DET,2,6,14,NA,NA,49,8.2,10,5,1.7,4,2,0,0.0%,2,33.3%,0,2,1,0,1,16.7%,0,NA,201809100det

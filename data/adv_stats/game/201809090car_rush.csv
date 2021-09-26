@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,15,69,3,44,2.9,25,1.7,0,NA,201809090car
+Dak Prescott,PresDa01,rushing,DAL,5,19,1,-1,-0.2,20,4,0,NA,201809090car
+Tavon Austin,AustTa00,rushing,DAL,1,1,NA,0,0,1,1,0,NA,201809090car
+Rod Smith,SmitRo06,rushing,DAL,1,5,NA,2,2,3,3,0,NA,201809090car
+Cam Newton,NewtCa00,rushing,CAR,13,58,4,-1,-0.1,59,4.5,0,NA,201809090car
+Christian McCaffrey,McCaCh01,rushing,CAR,10,50,2,33,3.3,17,1.7,3,3.3,201809090car
+C.J. Anderson,AndeC.00,rushing,CAR,7,35,2,18,2.6,17,2.4,0,NA,201809090car
+Alex Armah,ArmaAl00,rushing,CAR,1,1,1,1,1,0,0,0,NA,201809090car
+D.J. Moore,MoorD.00,rushing,CAR,1,3,NA,0,0,3,3,0,NA,201809090car

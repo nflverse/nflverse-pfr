@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,18,103,6,27,1.5,76,4.2,2,9,201912080rai
+Dion Lewis,LewiDi00,rushing,TEN,9,26,1,2,0.2,24,2.7,1,9,201912080rai
+Ryan Tannehill,TannRy00,rushing,TEN,4,19,2,16,4,3,0.8,0,NA,201912080rai
+A.J. Brown,BrowAJ00,rushing,TEN,1,13,1,10,10,3,3,0,NA,201912080rai
+DeAndre Washington,WashDe00,rushing,OAK,14,53,4,12,0.9,41,2.9,0,NA,201912080rai
+Jalen Richard,RichJa01,rushing,OAK,7,28,2,5,0.7,23,3.3,0,NA,201912080rai
+Derek Carr,CarrDe02,rushing,OAK,2,17,1,17,8.5,0,0,0,NA,201912080rai
+Alec Ingold,IngoAl01,rushing,OAK,1,-1,NA,-2,-2,1,1,0,NA,201912080rai

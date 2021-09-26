@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,26,111,5,50,1.9,61,2.3,0,NA,201812090sdg
+Giovani Bernard,BernGi00,rushing,CIN,3,7,1,5,1.7,2,0.7,0,NA,201812090sdg
+Jeff Driskel,DrisJe00,rushing,CIN,2,12,1,10,5,2,1,0,NA,201812090sdg
+Alex Erickson,EricAl01,rushing,CIN,1,14,1,11,11,3,3,0,NA,201812090sdg
+Austin Ekeler,EkelAu00,rushing,LAC,15,66,5,35,2.3,31,2.1,0,NA,201812090sdg
+Justin Jackson,JackJu01,rushing,LAC,7,12,1,6,0.9,6,0.9,1,7,201812090sdg
+Philip Rivers,RivePh00,rushing,LAC,2,7,0,4,2,3,1.5,0,NA,201812090sdg
+Keenan Allen,AlleKe00,rushing,LAC,1,0,0,0,0,0,0,0,NA,201812090sdg

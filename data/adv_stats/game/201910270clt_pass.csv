@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Joe Flacco,FlacJo00,passing,DEN,20,32,174,8,22.9,167,5.2,71,3.6,2.2,103,5.2,4,13.3%,4,13.3%,3,10,3,1,7,19.4%,1,9,201910270clt
+Jacoby Brissett,BrisJa00,passing,IND,15,25,202,9,31,205,8.2,112,7.5,4.5,90,6,0,0.0%,4,16.7%,4,10,3,3,10,29.4%,5,6.4,201910270clt

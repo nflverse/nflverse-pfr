@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Jacobs,JacoJo01,rushing,LVR,16,71,3,39,2.4,32,2,0,NA,202009270nwe
+Devontae Booker,BookDe00,rushing,LVR,3,31,2,13,4.3,18,6,1,3,202009270nwe
+Derek Carr,CarrDe02,rushing,LVR,2,10,1,9,4.5,1,0.5,0,NA,202009270nwe
+Jalen Richard,RichJa01,rushing,LVR,1,14,1,5,5,9,9,1,1,202009270nwe
+J.J. Taylor,TaylJJ01,rushing,NWE,11,43,2,23,2.1,20,1.8,0,NA,202009270nwe
+Sony Michel,MichSo00,rushing,NWE,9,117,3,18,2,99,11,3,3,202009270nwe
+Cam Newton,NewtCa00,rushing,NWE,9,27,2,21,2.3,6,0.7,0,NA,202009270nwe
+Rex Burkhead,BurkRe00,rushing,NWE,6,49,6,30,5,19,3.2,3,2,202009270nwe
+Julian Edelman,EdelJu00,rushing,NWE,1,-1,0,-1,-1,0,0,0,NA,202009270nwe
+N'Keal Harry,HarrNK00,rushing,NWE,1,2,0,1,1,1,1,0,NA,202009270nwe
+Isaiah Zuber,ZubeIs00,rushing,NWE,1,13,1,11,11,2,2,0,NA,202009270nwe

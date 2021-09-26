@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Christian McCaffrey,McCaCh01,rushing,CAR,14,77,4,45,3.2,32,2.3,1,14,201811080pit
+C.J. Anderson,AndeC.00,rushing,CAR,2,-1,NA,-3,-1.5,2,1,0,NA,201811080pit
+Alex Armah,ArmaAl00,rushing,CAR,2,3,NA,1,0.5,2,1,0,NA,201811080pit
+Cam Newton,NewtCa00,rushing,CAR,2,10,1,7,3.5,3,1.5,0,NA,201811080pit
+D.J. Moore,MoorD.00,rushing,CAR,1,5,0,3,3,2,2,0,NA,201811080pit
+Curtis Samuel,SamuCu00,rushing,CAR,1,1,0,0,0,1,1,0,NA,201811080pit
+James Conner,ConnJa00,rushing,PIT,13,65,6,46,3.5,19,1.5,0,NA,201811080pit
+Stevan Ridley,RidlSt00,rushing,PIT,8,26,1,-1,-0.1,27,3.4,1,8,201811080pit
+Jaylen Samuels,SamuJa00,rushing,PIT,5,7,0,2,0.4,5,1,1,5,201811080pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,3,27,2,20,6.7,7,2.3,0,NA,201811080pit
+JuJu Smith-Schuster,SmitJu00,rushing,PIT,1,13,1,13,13,0,0,0,NA,201811080pit

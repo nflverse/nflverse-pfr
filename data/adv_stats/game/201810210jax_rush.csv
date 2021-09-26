@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Lamar Miller,MillLa01,rushing,HOU,22,100,5,62,2.8,38,1.7,0,NA,201810210jax
+Alfred Blue,BlueAl00,rushing,HOU,8,28,1,19,2.4,9,1.1,1,8,201810210jax
+Deshaun Watson,WatsDe00,rushing,HOU,7,13,1,6,0.9,7,1,0,NA,201810210jax
+T.J. Yeldon,YeldT.00,rushing,JAX,12,28,0,13,1.1,15,1.3,0,NA,201810210jax
+Blake Bortles,BortBl00,rushing,JAX,6,30,3,17,2.8,13,2.2,1,6,201810210jax
+Cody Kessler,KessCo00,rushing,JAX,2,8,1,8,4,0,0,0,NA,201810210jax
+Jamaal Charles,CharJa00,rushing,JAX,1,2,NA,1,1,1,1,0,NA,201810210jax
+David Williams,WillDa011,rushing,JAX,1,2,NA,0,0,2,2,0,NA,201810210jax

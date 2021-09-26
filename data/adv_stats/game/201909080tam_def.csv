@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Fred Warner,WarnFr00,defense,SFO,0,12,8,66.7%,83,10.4,6.9,0,86.5,6.6,43,40,0,0,0,0,0,9,1,10.0%,201909080tam
+Richard Sherman,SherRi00,defense,SFO,1,6,3,50.0%,27,9,4.5,1,62.5,11.7,26,1,0,0,0,0,0,5,1,16.7%,201909080tam
+K'Waun Williams,WillKW00,defense,SFO,0,2,2,100.0%,33,16.5,16.5,0,118.7,2.5,5,28,1,0,0,0,0,1,2,66.7%,201909080tam
+Kwon Alexander,AlexKw00,defense,SFO,0,2,2,100.0%,7,3.5,3.5,0,81.2,-2.5,-5,12,0,0,0,0,0,3,0,0.0%,201909080tam
+Ahkello Witherspoon,WithAh00,defense,SFO,1,7,2,28.6%,21,10.5,3,0,0,13.7,21,0,0,0,0,0,0,2,0,0.0%,201909080tam
+Jaquiski Tartt,TartJa00,defense,SFO,0,2,1,50.0%,15,15,7.5,0,75,28,15,0,2,1,0,0,1,5,0,0.0%,201909080tam
+Emmanuel Moseley,MoseEm00,defense,SFO,0,1,1,100.0%,7,7,7,0,95.8,2,2,5,0,0,0,0,0,1,0,0.0%,201909080tam
+Dre Greenlaw,GreeDr00,defense,SFO,0,2,1,50.0%,1,1,0.5,0,56.2,0.5,-3,4,0,0,0,0,0,4,0,0.0%,201909080tam
+Nick Bosa,BosaNi00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,1,5,3,0,0.0%,201909080tam
+Dee Ford,FordDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1,1,4,1,0,0.0%,201909080tam
+DeForest Buckner,BuckDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201909080tam
+Ronald Blair,BlaiRo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201909080tam
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,5,1,16.7%,201909080tam
+D.J. Jones,JoneD.01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201909080tam
+Tarvarius Moore,MoorTa00,defense,SFO,0,2,0,0.0%,NA,NA,0,NA,39.6,13.5,NA,NA,0,0,0,0,0,8,2,20.0%,201909080tam
+Devin White,WhitDe02,defense,TAM,0,5,5,100.0%,58,11.6,11.6,0,115,3,15,43,2,0,0,0,0,6,1,14.3%,201909080tam
+M.J. Stewart,StewM.00,defense,TAM,0,4,4,100.0%,47,11.8,11.8,1,155.2,5,20,27,0,0,0,0,0,5,0,0.0%,201909080tam
+Shaquil Barrett,BarrSh00,defense,TAM,0,2,2,100.0%,26,13,13,0,118.7,6,12,14,8,0,0,1,1,5,1,16.7%,201909080tam
+Lavonte David,DaviLa00,defense,TAM,0,2,2,100.0%,3,1.5,1.5,0,79.2,-2,-4,7,4,1,0,0,1,7,1,12.5%,201909080tam
+Vernon Hargreaves III,HargVe00,defense,TAM,1,4,2,50.0%,14,7,3.5,0,18.7,7.8,10,4,0,0,0,0,0,3,1,25.0%,201909080tam
+Carl Nassib,NassCa00,defense,TAM,0,1,1,100.0%,0,0,0,0,79.2,-3,-3,3,0,0,0,0,0,2,0,0.0%,201909080tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,2,1,50.0%,11,11,5.5,0,66.7,2,4,7,3,0,0,0,0,8,1,11.1%,201909080tam
+Carlton Davis,DaviCa02,defense,TAM,0,6,1,16.7%,7,7,1.2,0,39.6,11.3,5,2,0,0,0,0,0,3,1,25.0%,201909080tam
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201909080tam
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201909080tam
+Darian Stewart,StewDa00,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,5,3,37.5%,201909080tam
+Mike Edwards,EdwaMi01,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,0,0,0,0,NA,201909080tam

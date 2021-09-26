@@ -1,0 +1,34 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Malcolm Butler,ButlMa01,defense,TEN,1,8,6,75.0%,92,15.3,11.5,1,112.5,8.9,53,39,0,0,0,0,0,6,1,14.3%,202012270gnb
+Adoree' Jackson,JackAd00,defense,TEN,0,5,5,100.0%,48,9.6,9.6,2,146.2,6.8,34,14,0,0,0,0,0,6,3,33.3%,202012270gnb
+Desmond King,KingDe01,defense,TEN,0,3,3,100.0%,41,13.7,13.7,1,158.3,9.3,28,13,0,0,0,0,0,2,0,0.0%,202012270gnb
+Rashaan Evans,EvanRa01,defense,TEN,0,2,2,100.0%,11,5.5,5.5,0,89.6,0.5,1,10,2,0,1,0,1,5,0,0.0%,202012270gnb
+David Long,LongDa04,defense,TEN,0,1,1,100.0%,7,7,7,0,95.8,6,6,1,4,0,0,0,0,9,1,10.0%,202012270gnb
+Kenny Vaccaro,VaccKe00,defense,TEN,0,2,1,50.0%,-1,-1,-0.5,0,56.2,5.5,-6,5,3,0,0,0,0,5,1,16.7%,202012270gnb
+Teair Tart,TartTe00,defense,TEN,0,1,1,100.0%,17,17,17,0,118.7,2,2,15,0,0,0,0,0,2,1,33.3%,202012270gnb
+Kevin Byard,ByarKe01,defense,TEN,0,1,1,100.0%,7,7,7,0,95.8,4,4,3,5,0,0,0,0,9,1,10.0%,202012270gnb
+Amani Hooker,HookAm00,defense,TEN,0,1,1,100.0%,9,9,9,0,104.2,1,1,8,0,0,0,0,0,2,0,0.0%,202012270gnb
+Jeffery Simmons,SimmJe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202012270gnb
+Wyatt Ray,RayxWy01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202012270gnb
+Matt Dickerson,DickMa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202012270gnb
+Brooks Reed,ReedBr00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,1,0,0.0%,202012270gnb
+Harold Landry,LandHa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,0,0,0,8,1,11.1%,202012270gnb
+Jack Crawford,CrawJa00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,2,40.0%,202012270gnb
+DaQuan Jones,JoneDa04,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202012270gnb
+Chandon Sullivan,SullCh00,defense,GNB,0,5,4,80.0%,41,10.3,8.2,1,140.4,8.2,29,12,2,0,0,0,0,4,0,0.0%,202012270gnb
+Kevin King,KingKe01,defense,GNB,0,2,2,100.0%,24,12,12,0,116.7,9.5,19,5,1,0,1,0,1,4,1,20.0%,202012270gnb
+Preston Smith,SmitPr00,defense,GNB,0,1,1,100.0%,11,11,11,0,112.5,3,3,8,1,0,1,0,1,3,2,40.0%,202012270gnb
+Krys Barnes,BarnKr00,defense,GNB,0,2,1,50.0%,10,10,5,0,64.6,7.5,5,5,0,0,0,0,0,7,1,12.5%,202012270gnb
+Vernon Scott,ScotVe00,defense,GNB,0,1,1,100.0%,19,19,19,0,118.7,18,18,1,1,0,0,0,0,3,0,0.0%,202012270gnb
+Jaire Alexander,AlexJa00,defense,GNB,0,5,1,20.0%,10,10,2,0,39.6,7,5,5,1,0,0,0,0,2,0,0.0%,202012270gnb
+Adrian Amos,AmosAd00,defense,GNB,0,2,1,50.0%,6,6,3,0,56.2,8.5,4,2,1,0,0,0,0,5,1,16.7%,202012270gnb
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,3,2,0,0.0%,202012270gnb
+Christian Kirksey,KirkCh00,defense,GNB,1,1,0,0.0%,NA,NA,0,NA,0,2,NA,NA,1,0,0,1,1,1,0,0.0%,202012270gnb
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202012270gnb
+Randy Ramsey,RamsRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0.0%,202012270gnb
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,5,0,0.0%,202012270gnb
+Ty Summers,SummTy00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,0,0,0,0,0,2,0,0.0%,202012270gnb
+Kamal Martin,MartKa01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202012270gnb
+Ka'dar Hollman,HollKa00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,0,0,0,0,0,0,NA,202012270gnb
+Darnell Savage Jr.,SavaDa00,defense,GNB,1,4,0,0.0%,NA,NA,0,NA,0,9.3,NA,NA,0,0,0,0,0,5,1,16.7%,202012270gnb
+Brian Price,PricBr00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202012270gnb

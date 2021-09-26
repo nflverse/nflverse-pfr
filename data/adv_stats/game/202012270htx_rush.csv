@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Giovani Bernard,BernGi00,rushing,CIN,16,65,3,31,1.9,34,2.1,4,4,202012270htx
+Samaje Perine,PeriSa00,rushing,CIN,13,95,4,34,2.6,61,4.7,3,4.3,202012270htx
+Brandon Allen,AlleBr00,rushing,CIN,2,3,0,3,1.5,0,0,0,NA,202012270htx
+Trayveon Williams,WillTr06,rushing,CIN,2,6,NA,0,0,6,3,2,1,202012270htx
+David Johnson,JohnDa08,rushing,HOU,12,128,5,79,6.6,49,4.1,2,6,202012270htx
+Deshaun Watson,WatsDe00,rushing,HOU,5,38,3,19,3.8,19,3.8,2,2.5,202012270htx

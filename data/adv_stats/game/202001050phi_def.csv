@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Bradley McDougald,McDoBr01,defense,SEA,0,6,6,100.0%,44,7.3,7.3,0,97.2,4.2,25,19,2,0,0,1,1,11,0,0.0%,202001050phi
+Bobby Wagner,WagnBo00,defense,SEA,0,4,4,100.0%,51,12.8,12.8,0,118.7,7,28,23,5,0,0,0,0,7,0,0.0%,202001050phi
+Tre Flowers,FlowTr01,defense,SEA,0,4,3,75.0%,38,12.7,9.5,0,104.2,10.5,35,3,1,0,0,0,0,4,0,0.0%,202001050phi
+Cody Barton,BartCo00,defense,SEA,0,4,2,50.0%,35,17.5,8.8,0,80.2,6,7,28,5,0,0,1,1,5,0,0.0%,202001050phi
+Jadeveon Clowney,ClowJa00,defense,SEA,0,2,1,50.0%,-6,-6,-3,0,56.2,-2,-5,-1,0,1,0,1,2,5,4,44.4%,202001050phi
+K.J. Wright,WrigK.00,defense,SEA,0,2,1,50.0%,5,5,2.5,0,56.2,10,5,0,1,0,0,1,1,5,1,16.7%,202001050phi
+Ugo Amadi,AmadUg00,defense,SEA,0,2,1,50.0%,3,3,1.5,0,56.2,7,-2,5,0,0,0,0,0,2,0,0.0%,202001050phi
+Quinton Jefferson,JeffQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,2,0,0.0%,202001050phi
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,2,100.0%,202001050phi
+Rasheem Green,GreeRa01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202001050phi
+Ezekiel Ansah,AnsaEz00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202001050phi
+Shaquill Griffin,GrifSh00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,1,20.0%,202001050phi
+Quandre Diggs,DiggQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202001050phi
+Jalen Mills,MillJa02,defense,PHI,0,9,6,66.7%,66,11,7.3,0,88.2,14.9,51,15,1,0,0,0,0,4,0,0.0%,202001050phi
+Avonte Maddox,MaddAv00,defense,PHI,0,7,5,71.4%,122,24.4,17.4,1,153.3,7.6,58,64,1,0,0,0,0,3,0,0.0%,202001050phi
+Cre'von LeBlanc,LeBlCr01,defense,PHI,0,5,3,60.0%,74,24.7,14.8,0,104.2,12.6,35,39,3,0,1,0,1,4,2,33.3%,202001050phi
+Malcolm Jenkins,JenkMa99,defense,PHI,0,3,2,66.7%,14,7,4.7,0,77.1,-1.3,-1,15,11,0,2,1,3,9,0,0.0%,202001050phi
+T.J. Edwards,EdwaTJ02,defense,PHI,0,1,1,100.0%,13,13,13,0,118.7,13,13,0,0,0,0,0,0,1,0,0.0%,202001050phi
+Marcus Epps,EppsMa00,defense,PHI,0,1,1,100.0%,36,36,36,0,118.7,36,36,0,0,0,0,0,0,3,0,0.0%,202001050phi
+Derek Barnett,BarnDe01,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,3,1,25.0%,202001050phi
+Vinny Curry,CurrVi00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,202001050phi
+Nathan Gerry,GerrNa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,1,0,1,6,0,0.0%,202001050phi
+Fletcher Cox,CoxxFl00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,6,0,0.0%,202001050phi
+Nigel Bradham,BradNi00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,1,0,1,5,1,16.7%,202001050phi
+Rodney McLeod,McLeRo00,defense,PHI,0,3,0,0.0%,NA,NA,0,NA,39.6,10.3,NA,NA,2,0,0,0,0,2,0,0.0%,202001050phi

@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Alvin Kamara,KamaAl00,receiving,NOR,9,9,95,0,4,1,0.1,94,10.4,0.1,2,4.5,0,0,0,110.6,202009210rai
+Tre'Quan Smith,SmitTr03,receiving,NOR,7,5,86,0,4,50,10,36,7.2,9.4,2,2.5,0,0,0,112.8,202009210rai
+Deonte Harris,HarrDe07,receiving,NOR,5,3,23,0,2,3,1,20,6.7,3.2,1,3,0,0,1,31.7,202009210rai
+Jared Cook,CookJa02,receiving,NOR,5,2,13,1,2,10,5,3,1.5,10.4,0,NA,0,0,0,87.5,202009210rai
+Ty Montgomery,MontTy01,receiving,NOR,3,2,25,0,1,-1,-0.5,26,13,-0.7,0,NA,1,33.3,0,92.4,202009210rai
+Latavius Murray,MurrLa00,receiving,NOR,2,2,19,0,1,7,3.5,12,6,3.5,0,NA,0,0,0,106.2,202009210rai
+Josh Hill,HillJo02,receiving,NOR,2,1,16,0,1,-4,-4,20,20,5,1,1,0,0,0,77.1,202009210rai
+Adam Trautman,TrauAd00,receiving,NOR,1,1,17,0,1,16,16,1,1,16,0,NA,0,0,0,118.7,202009210rai
+Emmanuel Sanders,SandEm00,receiving,NOR,3,1,18,0,1,17,17,1,1,7.3,0,NA,1,33.3,0,54.9,202009210rai
+Darren Waller,WallDa01,receiving,LVR,16,12,105,1,8,51,4.3,54,4.5,6.6,2,6,0,0,0,112.8,202009210rai
+Josh Jacobs,JacoJo01,receiving,LVR,3,3,17,0,0,-10,-3.3,27,9,-3.3,1,3,0,0,0,90.3,202009210rai
+Hunter Renfrow,RenfHu00,receiving,LVR,3,3,37,0,2,25,8.3,12,4,8.3,1,3,0,0,0,118.1,202009210rai
+Bryan Edwards,EdwaBr01,receiving,LVR,2,2,42,0,2,23,11.5,19,9.5,11.5,1,2,0,0,0,118.7,202009210rai
+Alec Ingold,IngoAl01,receiving,LVR,2,2,5,1,2,3,1.5,2,1,1.5,0,NA,0,0,0,118.7,202009210rai
+Jason Witten,WittJa00,receiving,LVR,1,1,3,0,1,3,3,0,0,3,0,NA,0,0,0,79.2,202009210rai
+Nelson Agholor,AghoNe00,receiving,LVR,1,1,19,0,1,2,2,17,17,2,1,1,0,0,0,118.7,202009210rai
+Henry Ruggs III,RuggHe00,receiving,LVR,3,1,4,0,NA,4,4,0,0,17.3,0,NA,0,0,0,42.4,202009210rai
+Foster Moreau,MoreFo00,receiving,LVR,1,1,31,0,1,20,20,11,11,20,0,NA,0,0,0,118.7,202009210rai
+Zay Jones,JoneZa00,receiving,LVR,1,1,15,1,1,15,15,0,0,15,0,NA,0,0,0,158.3,202009210rai
+Devontae Booker,BookDe00,receiving,LVR,1,1,6,0,NA,1,1,5,5,1,0,NA,0,0,0,91.7,202009210rai

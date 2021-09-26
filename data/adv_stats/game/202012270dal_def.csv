@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Michael Jacquet,JacqMi00,defense,PHI,0,11,9,81.8%,204,22.7,18.5,1,149.1,9.6,69,135,1,0,0,0,0,4,0,0.0%,202012270dal
+Marcus Epps,EppsMa00,defense,PHI,0,3,3,100.0%,46,15.3,15.3,0,118.7,13,39,7,1,0,0,0,0,8,1,11.1%,202012270dal
+Alex Singleton,SingAl00,defense,PHI,0,2,2,100.0%,11,5.5,5.5,0,89.6,-0.5,-1,12,4,0,1,0,1,8,2,20.0%,202012270dal
+T.J. Edwards,EdwaTJ02,defense,PHI,0,3,2,66.7%,30,15,10,1,138.9,3.3,10,20,4,0,0,0,0,6,1,14.3%,202012270dal
+Nickell Robey-Coleman,RobeNi00,defense,PHI,0,2,2,100.0%,60,30,30,1,158.3,11,22,38,0,0,0,0,0,2,0,0.0%,202012270dal
+K'Von Wallace,WallKV00,defense,PHI,0,2,2,100.0%,15,7.5,7.5,0,97.9,1,2,13,2,0,0,0,0,3,0,0.0%,202012270dal
+Jalen Mills,MillJa02,defense,PHI,0,2,1,50.0%,6,6,3,0,56.2,4.5,6,0,2,0,0,0,0,5,0,0.0%,202012270dal
+Darius Slay,SlayDa00,defense,PHI,1,1,1,100.0%,5,5,5,0,47.9,5,5,0,0,0,0,0,0,2,0,0.0%,202012270dal
+Vinny Curry,CurrVi00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,2,0,0.0%,202012270dal
+Brandon Graham,GrahBr99,defense,PHI,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,0,1,1,2,3,0,0.0%,202012270dal
+T.Y. McGill,McGiT.00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,202012270dal
+Javon Hargrave,HargJa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,1,16.7%,202012270dal
+Shaun Bradley,BradSh00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202012270dal
+Grayland Arnold,ArnoGr01,defense,PHI,0,1,0,0.0%,NA,NA,0,NA,39.6,26,NA,NA,0,0,0,0,0,4,3,42.9%,202012270dal
+Rudy Ford,FordRu00,defense,PHI,0,2,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,2,0,0.0%,202012270dal
+Jaylon Smith,SmitJa05,defense,DAL,0,5,4,80.0%,42,10.5,8.4,0,101.7,6.8,22,20,4,0,1,0,1,11,0,0.0%,202012270dal
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,6,4,66.7%,105,26.3,17.5,1,149.3,17.2,56,49,0,0,0,0,0,4,0,0.0%,202012270dal
+Trevon Diggs,DiggTr00,defense,DAL,1,7,3,42.9%,53,17.7,7.6,0,29.8,10,50,3,0,0,0,0,0,1,0,0.0%,202012270dal
+Anthony Brown,BrowAn02,defense,DAL,1,3,3,100.0%,18,6,6,0,52.1,-1,-3,21,0,0,0,0,0,3,1,25.0%,202012270dal
+Darian Thompson,ThomDa05,defense,DAL,0,3,2,66.7%,66,33,22,0,109.7,21.3,56,10,0,0,0,0,0,4,0,0.0%,202012270dal
+Jourdan Lewis,LewiJo01,defense,DAL,0,4,1,25.0%,19,19,4.8,0,46.9,6.3,17,2,0,0,0,1,1,6,0,0.0%,202012270dal
+Donovan Wilson,WilsDo01,defense,DAL,0,2,1,50.0%,5,5,2.5,0,56.2,10.5,4,1,1,0,0,0,0,6,0,0.0%,202012270dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1.5,4,6,0,0.0%,202012270dal
+Justin Hamilton,HamiJu00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,202012270dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,1,20.0%,202012270dal
+Aldon Smith,SmitAl04,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,202012270dal
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202012270dal
+Neville Gallimore,GallNe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,202012270dal
+Tyrone Crawford,CrawTy00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202012270dal
+Ron'Dell Carter,CartRo02,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202012270dal
+Joe Thomas,ThomJo04,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,3,0,0.0%,202012270dal

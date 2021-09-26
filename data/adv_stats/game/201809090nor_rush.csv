@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Peyton Barber,BarbPe01,rushing,TAM,19,69,2,16,0.8,53,2.8,1,19,201809090nor
+Ryan Fitzpatrick,FitzRy00,rushing,TAM,12,36,3,35,2.9,1,0.1,0,NA,201809090nor
+Jacquizz Rodgers,RodgJa00,rushing,TAM,2,1,NA,-1,-0.5,2,1,0,NA,201809090nor
+Shaun Wilson,WilsSh01,rushing,TAM,1,6,NA,5,5,1,1,0,NA,201809090nor
+Alvin Kamara,KamaAl00,rushing,NOR,8,29,4,12,1.5,17,2.1,0,NA,201809090nor
+Mike Gillislee,GillMi00,rushing,NOR,3,9,1,1,0.3,8,2.7,0,NA,201809090nor
+Ted Ginn Jr.,GinnTe00,rushing,NOR,1,5,0,4,4,1,1,1,1,201809090nor
+Jonathan Williams,WillJo07,rushing,NOR,1,0,NA,-1,-1,1,1,0,NA,201809090nor

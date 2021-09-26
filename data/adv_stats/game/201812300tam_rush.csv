@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jeremy Langford,LangJe00,rushing,ATL,9,25,1,-2,-0.2,27,3,0,NA,201812300tam
+Tevin Coleman,ColeTe01,rushing,ATL,8,45,3,11,1.4,34,4.3,1,8,201812300tam
+Brian Hill,HillBr02,rushing,ATL,8,30,1,16,2,14,1.8,0,NA,201812300tam
+Matt Ryan,RyanMa00,rushing,ATL,4,7,1,6,1.5,1,0.3,0,NA,201812300tam
+Mohamed Sanu,SanuMo00,rushing,ATL,1,2,1,0,0,2,2,0,NA,201812300tam
+Peyton Barber,BarbPe01,rushing,TAM,15,66,3,28,1.9,38,2.5,3,5,201812300tam
+Jacquizz Rodgers,RodgJa00,rushing,TAM,3,3,NA,1,0.3,2,0.7,0,NA,201812300tam
+Jameis Winston,WinsJa00,rushing,TAM,2,23,1,18,9,5,2.5,0,NA,201812300tam

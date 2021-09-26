@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Leonard Johnson,JohnLe03,defense,ARI,0,8,8,100.0%,97,12.1,12.1,0,117.2,7.1,57,40,4,1,0,0,1,7,2,22.2%,201811250sdg
+Haason Reddick,ReddHa00,defense,ARI,0,8,6,75.0%,38,6.3,4.8,0,84.4,0.5,-3,41,2,0,0,0,0,8,3,27.3%,201811250sdg
+Gerald Hodges,HodgGe00,defense,ARI,0,6,5,83.3%,47,9.4,7.8,0,99.3,1.2,5,42,3,0,0,0,0,10,1,9.1%,201811250sdg
+Tre Boston,BostTr00,defense,ARI,0,3,3,100.0%,35,11.7,11.7,1,154.9,7.3,22,13,2,0,0,0,0,4,1,20.0%,201811250sdg
+Patrick Peterson,PetePa00,defense,ARI,0,3,3,100.0%,31,10.3,10.3,0,109.7,4.7,14,17,0,0,0,0,0,3,2,40.0%,201811250sdg
+Bene Benwikere,BenwBe00,defense,ARI,0,2,2,100.0%,27,13.5,13.5,1,158.3,7,14,13,0,0,0,0,0,1,1,50.0%,201811250sdg
+Josh Bynes,ByneJo00,defense,ARI,0,2,2,100.0%,4,2,2,0,79.2,-3.5,-7,11,2,0,0,0,0,3,1,25.0%,201811250sdg
+David Amerson,AmerDa00,defense,ARI,0,2,2,100.0%,18,9,9,1,143.7,8.5,17,1,0,0,0,0,0,3,0,0.0%,201811250sdg
+Antoine Bethea,BethAn20,defense,ARI,0,3,1,33.3%,24,24,8,0,63.2,10.3,24,0,1,0,0,0,0,7,2,22.2%,201811250sdg
+Robert Nkemdiche,NkemRo00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2.5,3,7,0,0.0%,201811250sdg
+Benson Mayowa,MayoBe00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,1,100.0%,201811250sdg
+Chandler Jones,JoneCh03,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0.5,2,3,1,25.0%,201811250sdg
+Rodney Gunter,GuntRo00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,1,25.0%,201811250sdg
+Olsen Pierre,PierOl00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201811250sdg
+Corey Peters,PeteCo00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201811250sdg
+Michael Davis,DaviMi03,defense,LAC,0,4,4,100.0%,42,10.5,10.5,1,150,5,20,22,0,0,0,0,0,4,1,20.0%,201811250sdg
+Desmond King,KingDe01,defense,LAC,0,3,3,100.0%,20,6.7,6.7,0,94.4,-1.3,-4,24,0,0,0,0,0,1,0,0.0%,201811250sdg
+Derwin James,JameDe00,defense,LAC,1,4,3,75.0%,24,8,6,0,50,6,12,12,2,0,0,0,0,7,1,12.5%,201811250sdg
+Jatavis Brown,BrowJa05,defense,LAC,0,3,2,66.7%,16,8,5.3,0,79.9,-1,-5,21,0,0,0,0,0,7,0,0.0%,201811250sdg
+Casey Hayward,HaywCa00,defense,LAC,0,4,1,25.0%,9,9,2.3,0,39.6,16.3,9,0,0,0,0,0,0,3,0,0.0%,201811250sdg
+Hayes Pullard,PullHa00,defense,LAC,0,1,1,100.0%,5,5,5,0,87.5,-5,-5,10,0,0,0,0,0,1,0,0.0%,201811250sdg
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2,3,5,0,0.0%,201811250sdg
+Melvin Ingram,IngrMe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,2,0,0.0%,201811250sdg
+Jahleel Addae,AddaJa00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201811250sdg
+Tre'von Johnson,JohnTr07,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201811250sdg
+Uchenna Nwosu,NwosUc00,defense,LAC,0,1,0,0.0%,NA,NA,0,NA,39.6,17,NA,NA,0,0,0,0,0,2,0,0.0%,201811250sdg

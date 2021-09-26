@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,23,111,6,56,2.4,55,2.4,1,23,201909150was
+Dak Prescott,PresDa01,rushing,DAL,5,69,3,59,11.8,10,2,0,NA,201909150was
+Tony Pollard,PollTo00,rushing,DAL,4,22,2,10,2.5,12,3,0,NA,201909150was
+Randall Cobb,CobbRa00,rushing,DAL,2,11,0,6,3,5,2.5,0,NA,201909150was
+Adrian Peterson,PeteAd01,rushing,WAS,10,25,3,1,0.1,24,2.4,0,NA,201909150was
+Steven Sims,SimsSt00,rushing,WAS,3,16,NA,15,5,1,0.3,0,NA,201909150was
+Chris Thompson,ThomCh03,rushing,WAS,2,3,1,0,0,3,1.5,0,NA,201909150was
+Case Keenum,KeenCa00,rushing,WAS,1,-1,0,-1,-1,0,0,0,NA,201909150was
+Wendell Smallwood,SmalWe00,rushing,WAS,1,4,0,0,0,4,4,0,NA,201909150was

@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jourdan Lewis,LewiJo01,defense,DAL,0,7,4,57.1%,19,4.8,2.7,0,62.2,6.4,6,13,1,0,0,0,0,5,0,0.0%,202010250was
+Jaylon Smith,SmitJa05,defense,DAL,0,3,3,100.0%,30,10,10,1,147.9,4,12,18,3,0,0,0,0,12,1,7.7%,202010250was
+Anthony Brown,BrowAn02,defense,DAL,0,4,3,75.0%,47,15.7,11.8,0,113.5,10,41,6,0,0,0,0,0,3,0,0.0%,202010250was
+Leighton Vander Esch,VandLe00,defense,DAL,0,2,2,100.0%,15,7.5,7.5,0,97.9,2.5,5,10,3,0,0,0,0,12,2,14.3%,202010250was
+Trevon Diggs,DiggTr00,defense,DAL,0,4,2,50.0%,57,28.5,14.3,1,135.4,13.8,38,19,0,0,0,0,0,2,1,33.3%,202010250was
+Donovan Wilson,WilsDo01,defense,DAL,0,1,1,100.0%,26,26,26,0,118.7,22,22,4,0,0,0,0,0,3,1,25.0%,202010250was
+Everson Griffen,GrifEv99,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,1,4,5,0,0.0%,202010250was
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,1,25.0%,202010250was
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,7,2,22.2%,202010250was
+Xavier Woods,WoodXa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202010250was
+Aldon Smith,SmitAl04,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,4,57.1%,202010250was
+Ronald Darby,DarbRo00,defense,WAS,0,5,4,80.0%,65,16.3,13,0,118.7,11.2,49,16,0,0,0,0,0,5,0,0.0%,202010250was
+Kendall Fuller,FullKe00,defense,WAS,0,6,3,50.0%,15,5,2.5,0,56.2,8.2,10,5,0,0,0,0,0,2,1,33.3%,202010250was
+Jonathan Bostic,BostJo00,defense,WAS,0,2,2,100.0%,14,7,7,0,95.8,1,2,12,3,0,0,0,0,6,1,14.3%,202010250was
+Kamren Curl,CurlKa00,defense,WAS,0,1,1,100.0%,6,6,6,0,91.7,0,0,6,3,0,0,0,0,3,1,25.0%,202010250was
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2,4,3,0,0.0%,202010250was
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,202010250was
+Cole Holcomb,HolcCo00,defense,WAS,1,1,0,0.0%,NA,NA,0,NA,0,7,NA,NA,1,0,1,1,2,5,0,0.0%,202010250was
+Landon Collins,CollLa00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,-2,NA,NA,2,0,0,1,1,4,0,0.0%,202010250was
+Tim Settle,SettTi00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,50.0%,202010250was
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,2,66.7%,202010250was
+Ryan Kerrigan,KerrRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202010250was
+Kevin Pierre-Louis,PierKe00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,3,0,0,0,0,3,2,40.0%,202010250was
+Deshazor Everett,EverDe01,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,0,0,0,0,0,3,0,0.0%,202010250was
+Jimmy Moreland,MoreJi00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,2,0,0,0,0,2,0,0.0%,202010250was
+Troy Apke,ApkeTr00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202010250was

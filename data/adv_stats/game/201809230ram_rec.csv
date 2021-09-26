@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Mike Williams,WillMi07,receiving,LAC,7,4,81,2,3,74,18.5,7,1.8,16.7,1,4,0,0,0,137.5,201809230ram
+Keenan Allen,AlleKe00,receiving,LAC,7,3,44,0,1,37,12.3,7,2.3,10.4,0,NA,1,14.3,0,64,201809230ram
+Austin Ekeler,EkelAu00,receiving,LAC,3,3,24,0,1,-2,-0.7,26,8.7,-0.7,0,NA,0,0,0,100,201809230ram
+Antonio Gates,GateAn00,receiving,LAC,5,3,45,0,3,21,7,24,8,11,1,3,0,0,0,89.6,201809230ram
+Melvin Gordon,GordMe00,receiving,LAC,4,2,4,0,0,0,0,4,2,-1.3,0,NA,1,25,0,56.2,201809230ram
+Tyrell Williams,WillTy00,receiving,LAC,3,2,22,0,1,3,1.5,19,9.5,11.3,0,NA,0,0,0,88.2,201809230ram
+Virgil Green,GreeVi00,receiving,LAC,1,1,6,0,NA,4,4,2,2,4,0,NA,0,0,0,91.7,201809230ram
+Robert Woods,WoodRo02,receiving,LAR,11,10,104,2,7,78,7.8,26,2.6,8.7,0,NA,0,0,0,145.6,201809230ram
+Brandin Cooks,CookBr00,receiving,LAR,8,7,90,0,5,46,6.6,44,6.3,6.5,0,NA,0,0,0,113.5,201809230ram
+Todd Gurley,GurlTo01,receiving,LAR,6,5,51,0,2,-7,-1.4,58,11.6,-1.2,2,2.5,1,16.7,0,102.1,201809230ram
+Cooper Kupp,KuppCo00,receiving,LAR,5,4,71,1,2,29,7.3,42,10.5,5.8,1,4,0,0,0,158.3,201809230ram
+Tyler Higbee,HigbTy00,receiving,LAR,2,2,35,0,2,19,9.5,16,8,9.5,0,NA,0,0,0,118.7,201809230ram
+Gerald Everett,EverGe00,receiving,LAR,2,1,3,0,NA,0,0,3,3,5,0,NA,0,0,1,16.7,201809230ram
+Malcolm Brown,BrowMa03,receiving,LAR,1,0,0,0,0,0,NA,0,NA,3,0,NA,0,0,0,39.6,201809230ram

@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Philip Rivers,RivePh00,passing,LAC,11,20,207,7,33.3,238,11.9,150,13.6,7.5,57,5.2,1,5.3%,4,21.1%,1,9,3,3,7,33.3%,0,NA,201810140cle
+Geno Smith,SmitGe00,passing,LAC,1,1,8,NA,NA,-3,-3,-3,-3,-3,11,11,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201810140cle
+Baker Mayfield,MayfBa00,passing,CLE,22,46,238,13,25.5,450,9.8,124,5.6,2.7,114,5.2,7,16.3%,10,23.3%,5,12,9,2,16,30.8%,1,6,201810140cle

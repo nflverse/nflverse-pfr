@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Vernon Hargreaves III,HargVe00,defense,TAM,0,15,12,80.0%,144,12,9.6,0,106.7,11.1,119,25,0,0,0,0,0,12,0,0.0%,201909120car
+Carlton Davis,DaviCa02,defense,TAM,0,12,5,41.7%,36,7.2,3,0,49.3,15,29,7,0,0,0,0,0,7,1,12.5%,201909120car
+Kevin Minter,MintKe00,defense,TAM,0,4,4,100.0%,82,20.5,20.5,0,118.7,16.5,66,16,21,1,1,0,2,8,1,11.1%,201909120car
+Jordan Whitehead,WhitJo03,defense,TAM,0,4,2,50.0%,49,24.5,12.3,0,94.8,12.8,28,21,5,0,0,0,0,6,1,14.3%,201909120car
+Lavonte David,DaviLa00,defense,TAM,0,8,2,25.0%,16,8,2,0,39.6,2.1,1,15,12,0,0,0,0,7,1,12.5%,201909120car
+Mike Edwards,EdwaMi01,defense,TAM,0,1,1,100.0%,6,6,6,0,91.7,0,0,6,1,0,0,0,0,3,0,0.0%,201909120car
+Shaquil Barrett,BarrSh00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,3,1,3,7,3,1,25.0%,201909120car
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,0,0,NA,201909120car
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,201909120car
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0,0,1,0,0.0%,201909120car
+Devin White,WhitDe02,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,201909120car
+Carl Nassib,NassCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,0,0,0,0,2,1,33.3%,201909120car
+James Bradberry,BradJa00,defense,CAR,0,8,5,62.5%,69,13.8,8.6,0,90.1,12.3,54,15,0,0,0,0,0,3,0,0.0%,201909120car
+Eric Reid,ReidEr00,defense,CAR,0,5,4,80.0%,42,10.5,8.4,0,101.7,8,16,26,2,0,0,0,0,4,1,20.0%,201909120car
+Donte Jackson,JackDo02,defense,CAR,0,6,3,50.0%,64,21.3,10.7,1,127.8,20,49,15,0,0,0,0,0,6,2,25.0%,201909120car
+Javien Elliott,ElliJa01,defense,CAR,0,2,2,100.0%,19,9.5,9.5,0,106.2,8,16,3,0,0,0,0,0,1,0,0.0%,201909120car
+Luke Kuechly,KuecLu00,defense,CAR,0,3,1,33.3%,5,5,1.7,0,42.4,11.7,5,0,2,0,0,0,0,18,1,5.3%,201909120car
+Shaq Thompson,ThomSh01,defense,CAR,0,1,1,100.0%,9,9,9,0,104.2,-4,-4,13,2,0,0,0,0,8,1,11.1%,201909120car
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,3,1,25.0%,201909120car
+Dontari Poe,PoexDo00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,1,25.0%,201909120car
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,2,0,0.0%,201909120car
+Kawann Short,ShorKa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,1,50.0%,201909120car
+Efe Obada,ObadEf00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201909120car
+Gerald McCoy,McCoGe99,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,2,33.3%,201909120car
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0.5,1,1,0,0.0%,201909120car
+Marquis Haynes,HaynMa01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,0,0.0%,201909120car

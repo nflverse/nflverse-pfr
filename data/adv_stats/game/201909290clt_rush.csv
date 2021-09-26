@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Jacobs,JacoJo01,rushing,OAK,17,79,4,26,1.5,53,3.1,1,17,201909290clt
+DeAndre Washington,WashDe00,rushing,OAK,6,18,1,11,1.8,7,1.2,0,NA,201909290clt
+Jalen Richard,RichJa01,rushing,OAK,4,17,2,11,2.8,6,1.5,0,NA,201909290clt
+Derek Carr,CarrDe02,rushing,OAK,2,-1,0,-1,-0.5,0,0,0,NA,201909290clt
+Trevor Davis,DaviTr03,rushing,OAK,2,74,2,74,37,0,0,0,NA,201909290clt
+Alec Ingold,IngoAl01,rushing,OAK,1,1,1,0,0,1,1,0,NA,201909290clt
+Marlon Mack,MackMa00,rushing,IND,11,39,2,26,2.4,13,1.2,0,NA,201909290clt
+Jacoby Brissett,BrisJa00,rushing,IND,5,19,1,18,3.6,1,0.2,0,NA,201909290clt
+Jordan Wilkins,WilkJo01,rushing,IND,4,17,0,5,1.3,12,3,0,NA,201909290clt
+Nyheim Hines,HineNy00,rushing,IND,3,6,1,1,0.3,5,1.7,0,NA,201909290clt

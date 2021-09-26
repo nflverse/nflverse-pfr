@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Sony Michel,MichSo00,rushing,NWE,11,31,2,16,1.5,15,1.4,0,NA,201811110oti
+Cordarrelle Patterson,PattCo00,rushing,NWE,4,11,NA,10,2.5,1,0.3,0,NA,201811110oti
+Tom Brady,BradTo00,rushing,NWE,1,0,0,0,0,0,0,0,NA,201811110oti
+James Develin,DeveJa00,rushing,NWE,1,1,1,1,1,0,0,0,NA,201811110oti
+Brian Hoyer,HoyeBr00,rushing,NWE,1,2,1,2,2,0,0,0,NA,201811110oti
+James White,WhitJa02,rushing,NWE,1,-5,0,-5,-5,0,0,0,NA,201811110oti
+Dion Lewis,LewiDi00,rushing,TEN,20,57,4,39,2,18,0.9,1,20,201811110oti
+Derrick Henry,HenrDe00,rushing,TEN,11,58,5,46,4.2,12,1.1,0,NA,201811110oti
+David Fluellen,FlueDa00,rushing,TEN,3,14,1,12,4,2,0.7,0,NA,201811110oti
+Marcus Mariota,MariMa01,rushing,TEN,2,21,1,21,10.5,0,0,0,NA,201811110oti

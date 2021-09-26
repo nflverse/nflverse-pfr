@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,15,50,4,32,2.1,18,1.2,1,15,202012200nyg
+Kareem Hunt,HuntKa00,rushing,CLE,7,21,1,14,2,7,1,0,NA,202012200nyg
+D'Ernest Johnson,JohnDE04,rushing,CLE,4,24,1,20,5,4,1,0,NA,202012200nyg
+Baker Mayfield,MayfBa00,rushing,CLE,4,11,2,11,2.8,0,0,0,NA,202012200nyg
+Wayne Gallman,GallWa00,rushing,NYG,9,29,NA,24,2.7,5,0.6,0,NA,202012200nyg
+Alfred Morris,MorrAl00,rushing,NYG,7,39,3,32,4.6,7,1,0,NA,202012200nyg
+Colt McCoy,McCoCo00,rushing,NYG,2,3,0,3,1.5,0,0,0,NA,202012200nyg
+Dion Lewis,LewiDi00,rushing,NYG,1,4,NA,4,4,0,0,0,NA,202012200nyg
+Elijhaa Penny,PennEl00,rushing,NYG,1,2,1,2,2,0,0,0,NA,202012200nyg
+Sterling Shepard,ShepSt00,rushing,NYG,1,-3,0,-3,-3,0,0,0,NA,202012200nyg

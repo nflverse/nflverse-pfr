@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Ed Dickson,DickEd00,receiving,SEA,5,4,42,0,1,21,5.3,21,5.3,4.8,0,NA,0,0,0,101.7,201901050dal
+Tyler Lockett,LockTy00,receiving,SEA,6,4,120,0,3,92,23,28,7,20.7,0,NA,0,0,0,109.7,201901050dal
+Doug Baldwin,BaldDo00,receiving,SEA,6,3,32,0,1,32,10.7,0,0,11.8,0,NA,0,0,0,66,201901050dal
+Chris Carson,CarsCh00,receiving,SEA,3,2,-1,0,NA,-7,-3.5,6,3,-1.7,0,NA,1,33.3,0,70.1,201901050dal
+Mike Davis,DaviMi01,receiving,SEA,2,2,22,0,0,-10,-5,32,16,-5,0,NA,0,0,0,112.5,201901050dal
+J.D. McKissic,McKiJ.00,receiving,SEA,3,2,13,1,1,6,3,7,3.5,2,0,NA,0,0,0,115.3,201901050dal
+Nick Vannett,VannNi00,receiving,SEA,2,1,5,0,NA,1,1,4,4,7,0,NA,0,0,0,56.2,201901050dal
+Amari Cooper,CoopAm00,receiving,DAL,9,7,106,0,4,72,10.3,34,4.9,11.7,0,NA,0,0,0,115.7,201901050dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,5,4,32,0,0,-1,-0.3,33,8.3,-0.8,0,NA,0,0,0,93.3,201901050dal
+Cole Beasley,BeasCo00,receiving,DAL,3,3,28,0,2,18,6,10,3.3,6,0,NA,0,0,0,105.6,201901050dal
+Blake Jarwin,JarwBl00,receiving,DAL,3,3,15,0,1,2,0.7,13,4.3,0.7,0,NA,0,0,0,87.5,201901050dal
+Michael Gallup,GallMi00,receiving,DAL,6,2,18,1,1,18,9,0,0,13.7,0,NA,0,0,0,81.9,201901050dal
+Tavon Austin,AustTa00,receiving,DAL,1,1,7,0,1,7,7,0,0,7,0,NA,0,0,0,95.8,201901050dal
+Noah Brown,BrowNo00,receiving,DAL,4,1,6,0,1,0,0,6,6,5.5,0,NA,1,25,1,0,201901050dal
+Allen Hurns,HurnAl01,receiving,DAL,1,1,14,0,1,7,7,7,7,7,0,NA,0,0,0,118.7,201901050dal

@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Taron Johnson,JohnTa01,defense,BUF,0,4,3,75.0%,11,3.7,2.8,0,77.1,4.5,2,9,2,1,0,0,1,2,2,50.0%,202010250nyj
+Dane Jackson,JackDa02,defense,BUF,1,5,3,60.0%,43,14.3,8.6,0,48.3,11.2,34,9,0,0,0,0,0,3,0,0.0%,202010250nyj
+Tre'Davious White,WhitTr01,defense,BUF,0,3,2,66.7%,35,17.5,11.7,0,106.2,10.3,26,9,1,0,0,0.5,1,4,0,0.0%,202010250nyj
+A.J. Klein,KleiAJ00,defense,BUF,0,3,2,66.7%,17,8.5,5.7,0,81.2,4.7,10,7,3,0,0,0.5,1,6,1,14.3%,202010250nyj
+Dean Marlowe,MarlDe00,defense,BUF,0,1,1,100.0%,5,5,5,0,87.5,4,4,1,1,0,0,0.5,1,2,0,0.0%,202010250nyj
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,2,1,50.0%,9,9,4.5,0,62.5,4.5,5,4,3,0,0,0,0,5,3,37.5%,202010250nyj
+Jerry Hughes,HughJe99,defense,BUF,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,2,3,6,0,0.0%,202010250nyj
+Trent Murphy,MurpTr00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,0,0.0%,202010250nyj
+Matt Milano,MilaMa00,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,-5,NA,NA,3,0,0,0.5,1,2,0,0.0%,202010250nyj
+Mario Addison,AddiMa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202010250nyj
+Vernon Butler,ButlVe00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202010250nyj
+Jordan Poyer,PoyeJo00,defense,BUF,0,2,0,0.0%,NA,NA,0,NA,39.6,9.5,NA,NA,4,0,0,1,1,6,0,0.0%,202010250nyj
+Ed Oliver,OlivEd00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,1,33.3%,202010250nyj
+Micah Hyde,HydeMi00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202010250nyj
+Avery Williamson,WillAv00,defense,NYJ,0,8,7,87.5%,77,11,9.6,0,106.8,3.3,27,50,6,0,0,0,0,13,1,7.1%,202010250nyj
+Pierre Desir,DesiPi00,defense,NYJ,0,10,6,60.0%,43,7.2,4.3,0,70,6.7,21,22,1,0,0,0,0,3,2,40.0%,202010250nyj
+Brian Poole,PoolBr01,defense,NYJ,0,5,4,80.0%,45,11.3,9,0,104.2,8.6,16,29,8,0,0,0,0,5,1,16.7%,202010250nyj
+Blessuan Austin,AustBl00,defense,NYJ,0,6,4,66.7%,64,16,10.7,0,102.1,11.2,39,25,0,0,0,0,0,5,1,16.7%,202010250nyj
+Marcus Maye,MayeMa00,defense,NYJ,0,4,3,75.0%,18,6,4.5,0,83.3,0.5,-7,25,0,0,0,0,0,10,0,0.0%,202010250nyj
+Neville Hewitt,HewiNe00,defense,NYJ,0,3,3,100.0%,27,9,9,0,104.2,7.3,22,5,8,0,0,0,0,13,2,13.3%,202010250nyj
+Bradley McDougald,McDoBr01,defense,NYJ,0,4,2,50.0%,25,12.5,6.3,0,69.8,10,9,16,0,0,0,0,0,2,1,33.3%,202010250nyj
+Ashtyn Davis,DaviAs00,defense,NYJ,0,1,1,100.0%,8,8,8,0,100,8,8,0,1,0,0,0,0,3,1,25.0%,202010250nyj
+Quinnen Williams,WillQu00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,1,4,4,0,0.0%,202010250nyj
+Bryce Huff,HuffBr00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,4,0,0.0%,202010250nyj
+Tarell Basham,BashTa00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,1,1,1,0,0.0%,202010250nyj
+Folorunso Fatukasi,FatuFo00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202010250nyj

@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Daniel Jones,JoneDa05,passing,NYG,28,42,352,16,37.2,368,8.8,209,7.5,5,143,5.1,2,5.0%,5,12.5%,1,8,1,5,7,15.2%,3,4,201912220was
+Case Keenum,KeenCa00,passing,WAS,16,22,158,7,30.4,148,6.7,85,5.3,3.9,73,4.6,0,0.0%,4,19.0%,1,5,2,5,8,33.3%,1,1,201912220was
+Dwayne Haskins,HaskDw00,passing,WAS,12,15,133,8,47.1,155,10.3,104,8.7,6.9,29,2.4,0,0.0%,2,13.3%,2,8,0,2,4,23.5%,0,NA,201912220was
+Kelvin Harmon,HarmKe00,passing,WAS,1,1,11,1,100,6,6,6,6,6,5,5,0,0.0%,0,0.0%,0,0,1,0,1,100.0%,0,NA,201912220was

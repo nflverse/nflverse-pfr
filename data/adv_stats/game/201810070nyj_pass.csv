@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Case Keenum,KeenCa00,passing,DEN,35,51,377,19,34.5,330,6.5,181,5.2,3.5,196,5.6,2,4.3%,5,10.6%,4,16,2,3,9,16.4%,0,NA,201810070nyj
+Sam Darnold,DarnSa00,passing,NYJ,10,22,198,7,30.4,197,9,118,11.8,5.4,80,8,2,9.1%,3,13.6%,1,10,0,1,2,8.7%,0,NA,201810070nyj

@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Malcolm Jenkins,JenkMa99,defense,NOR,1,7,4,57.1%,16,4,2.3,0,22.6,4.3,2,14,7,1,0,0,1,5,1,16.7%,202011080tam
+Chauncey Gardner-Johnson,GardCh00,defense,NOR,0,7,4,57.1%,49,12.3,7,0,78.9,12,31,18,0,0,0,0,0,2,0,0.0%,202011080tam
+Janoris Jenkins,JenkJa03,defense,NOR,0,6,3,50.0%,33,11,5.5,0,66.7,21,32,1,0,0,0,0,0,2,0,0.0%,202011080tam
+P.J. Williams,WillP.00,defense,NOR,0,3,3,100.0%,38,12.7,12.7,0,118.7,13,39,-1,0,0,0,0,0,5,0,0.0%,202011080tam
+Marshon Lattimore,LattMa01,defense,NOR,0,6,3,50.0%,30,10,5,0,64.6,4.3,24,6,0,0,0,0,0,3,0,0.0%,202011080tam
+Demario Davis,DaviDe00,defense,NOR,0,6,3,50.0%,20,6.7,3.3,0,57.6,6.5,8,12,5,0,0,0,0,5,0,0.0%,202011080tam
+Malcolm Roach,RoacMa01,defense,NOR,0,1,1,100.0%,7,7,7,0,95.8,4,4,3,0,0,1,0,1,2,0,0.0%,202011080tam
+Marcus Williams,WillMa06,defense,NOR,1,2,1,50.0%,20,20,10,0,45.8,23.5,19,1,0,0,0,0,0,1,0,0.0%,202011080tam
+Alex Anzalone,AnzaAl00,defense,NOR,0,1,1,100.0%,6,6,6,0,91.7,-2,-2,8,1,0,0,0,0,2,0,0.0%,202011080tam
+D.J. Swearinger,SweaDJ00,defense,NOR,0,1,1,100.0%,2,2,2,0,79.2,0,0,2,0,0,0,0,0,1,0,0.0%,202011080tam
+David Onyemata,OnyeDa00,defense,NOR,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,4,0,6,0,0,NA,202011080tam
+Trey Hendrickson,HendTr00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,2,3,3,0,0.0%,202011080tam
+Marcus Davenport,DaveMa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,0,0,2,0,0,NA,202011080tam
+Malcom Brown,BrowMa01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,0,0.0%,202011080tam
+Cameron Jordan,JordCa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,1,0,1,0,0,NA,202011080tam
+Devin White,WhitDe02,defense,TAM,0,11,10,90.9%,68,6.8,6.2,1,122.7,3.4,37,31,3,0,0,0,0,14,2,12.5%,202011080tam
+Carlton Davis,DaviCa02,defense,TAM,0,6,5,83.3%,83,16.6,13.8,0,118.7,9.8,46,37,0,0,0,0,0,7,2,22.2%,202011080tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,3,3,100.0%,34,11.3,11.3,0,113.9,10.7,32,2,5,1,0,0,1,8,0,0.0%,202011080tam
+Lavonte David,DaviLa00,defense,TAM,0,5,3,60.0%,7,2.3,1.4,1,104.2,1.8,1,6,5,0,0,0,0,7,0,0.0%,202011080tam
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,3,3,100.0%,48,16,16,1,158.3,14,42,6,2,0,0,0,0,7,2,22.2%,202011080tam
+Jamel Dean,DeanJa00,defense,TAM,0,3,2,66.7%,17,8.5,5.7,1,120.8,7.7,16,1,1,1,0,0,1,2,0,0.0%,202011080tam
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,3,2,66.7%,27,13.5,9,1,134.7,7.3,22,5,1,0,0,0,0,4,3,42.9%,202011080tam
+Shaquil Barrett,BarrSh00,defense,TAM,0,1,1,100.0%,6,6,6,0,91.7,-4,-4,10,11,0,1,1,2,4,0,0.0%,202011080tam
+Jason Pierre-Paul,PierJa99,defense,TAM,0,2,1,50.0%,1,1,0.5,0,56.2,-2.5,-5,6,6,0,0,0,0,7,0,0.0%,202011080tam
+Rakeem Nunez-Roches,NuneRa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202011080tam
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,5,0,0.0%,202011080tam
+Mike Edwards,EdwaMi01,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,8,NA,NA,0,0,0,0,0,0,0,NA,202011080tam
+Cam Gill,GillCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202011080tam

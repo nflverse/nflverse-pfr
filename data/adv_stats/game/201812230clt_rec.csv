@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Sterling Shepard,ShepSt00,receiving,NYG,7,6,113,0,5,89,14.8,24,4,14,0,NA,0,0,0,118.7,201812230clt
+Evan Engram,EngrEv00,receiving,NYG,6,6,87,0,5,53,8.8,34,5.7,8.8,0,NA,0,0,0,118.7,201812230clt
+Saquon Barkley,BarkSa00,receiving,NYG,7,5,34,0,2,-15,-3,49,9.8,-2.6,2,2.5,0,0,0,81.8,201812230clt
+Scott Simonson,SimoSc00,receiving,NYG,3,3,16,1,2,5,1.7,11,3.7,1.7,0,NA,0,0,0,128.5,201812230clt
+Rhett Ellison,ElliRh00,receiving,NYG,2,2,18,0,1,2,1,16,8,1,0,NA,0,0,0,104.2,201812230clt
+Bennie Fowler,FowlBe00,receiving,NYG,3,1,26,0,1,3,3,23,23,14.7,1,1,0,0,1,26.4,201812230clt
+Cody Latimer,LatiCo00,receiving,NYG,1,1,10,0,1,10,10,0,0,10,0,NA,0,0,0,108.3,201812230clt
+Elijhaa Penny,PennEl00,receiving,NYG,1,1,5,0,NA,1,1,4,4,1,0,NA,0,0,0,87.5,201812230clt
+Corey Coleman,ColeCo00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,23,0,NA,0,0,0,39.6,201812230clt
+T.Y. Hilton,HiltT.00,receiving,IND,8,7,138,0,5,90,12.9,48,6.9,12.5,0,NA,0,0,0,118.7,201812230clt
+Chester Rogers,RogeCh02,receiving,IND,7,7,54,1,5,16,2.3,38,5.4,2.3,1,7,0,0,0,138.4,201812230clt
+Nyheim Hines,HineNy00,receiving,IND,5,4,41,0,2,34,8.5,7,1.8,6.8,0,NA,0,0,0,100.8,201812230clt
+Dontrelle Inman,InmaDo00,receiving,IND,5,4,46,1,3,38,9.5,8,2,8.8,1,4,1,20,0,144.6,201812230clt
+Zach Pascal,PascZa00,receiving,IND,7,4,41,0,2,27,6.8,14,3.5,8.4,0,NA,1,14.3,0,74.1,201812230clt
+Eric Ebron,EbroEr00,receiving,IND,5,3,28,0,2,23,7.7,5,1.7,15.4,0,NA,0,0,0,75.4,201812230clt
+Ryan Grant,GranRy01,receiving,IND,3,1,5,0,NA,5,5,0,0,15.7,0,NA,1,33.3,0,42.4,201812230clt
+Marlon Mack,MackMa00,receiving,IND,3,1,4,0,0,2,2,2,2,1,0,NA,0,0,0,42.4,201812230clt
+Mo Alie-Cox,AlieMo00,receiving,IND,1,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,201812230clt

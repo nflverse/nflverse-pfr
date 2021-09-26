@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Benny Snell Jr.,SnelBe00,rushing,PIT,16,41,1,5,0.3,36,2.3,2,8,201912080crd
+Jaylen Samuels,SamuJa00,rushing,PIT,7,16,1,-3,-0.4,19,2.7,1,7,201912080crd
+Devlin Hodges,HodgDe00,rushing,PIT,5,34,2,33,6.6,1,0.2,0,NA,201912080crd
+Kerrith Whyte Jr,WhytKe00,rushing,PIT,5,41,1,14,2.8,27,5.4,1,5,201912080crd
+Jordan Berry,BerrJo00,rushing,PIT,1,-8,NA,-8,-8,0,0,0,NA,201912080crd
+Diontae Johnson,JohnDi01,rushing,PIT,1,16,1,15,15,1,1,0,NA,201912080crd
+Kenyan Drake,DrakKe00,rushing,ARI,11,37,3,21,1.9,16,1.5,0,NA,201912080crd
+Kyler Murray,MurrKy00,rushing,ARI,6,2,0,-10,-1.7,12,2,1,6,201912080crd
+David Johnson,JohnDa08,rushing,ARI,3,19,1,7,2.3,12,4,2,1.5,201912080crd
+Chase Edmonds,EdmoCh00,rushing,ARI,1,9,1,9,9,0,0,0,NA,201912080crd
+Christian Kirk,KirkCh01,rushing,ARI,1,4,0,2,2,2,2,0,NA,201912080crd

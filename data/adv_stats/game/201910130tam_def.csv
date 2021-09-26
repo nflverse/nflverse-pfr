@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+James Bradberry,BradJa00,defense,CAR,2,15,8,53.3%,91,11.4,6.1,0,32.2,11.5,65,26,0,0,0,0,0,11,0,0.0%,201910130tam
+Javien Elliott,ElliJa01,defense,CAR,1,7,6,85.7%,73,12.2,10.4,0,70.5,8.1,57,16,3,0,0,0,0,6,0,0.0%,201910130tam
+Eric Reid,ReidEr00,defense,CAR,0,4,4,100.0%,92,23,23,0,118.7,13.8,55,37,8,2,1,0,3,6,1,14.3%,201910130tam
+Luke Kuechly,KuecLu00,defense,CAR,1,7,4,57.1%,24,6,3.4,1,64,6.7,21,3,3,0,0,0,0,6,1,14.3%,201910130tam
+Ross Cockrell,CockRo00,defense,CAR,1,12,4,33.3%,55,13.8,4.6,0,14.2,17.7,37,18,0,0,0,0,0,3,0,0.0%,201910130tam
+Shaq Thompson,ThomSh01,defense,CAR,0,6,3,50.0%,35,11.7,5.8,0,68.1,7.8,20,15,8,1,0,0,1,5,1,16.7%,201910130tam
+Bruce Irvin,IrviBr00,defense,CAR,0,1,1,100.0%,30,30,30,0,118.7,-4,-4,34,2,3,0,0.5,4,3,2,40.0%,201910130tam
+Gerald McCoy,McCoGe99,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2.5,5,3,0,0.0%,201910130tam
+Vernon Butler,ButlVe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,2,0,0.0%,201910130tam
+Marquis Haynes,HaynMa01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,0,0,NA,201910130tam
+Kyle Love,LoveKy00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201910130tam
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,1,2,1,0,0.0%,201910130tam
+Dontari Poe,PoexDo00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,-2,NA,NA,0,0,0,1,1,3,0,0.0%,201910130tam
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,201910130tam
+Vernon Hargreaves III,HargVe00,defense,TAM,0,9,6,66.7%,81,13.5,9,1,132.2,13.3,39,42,1,0,0,0,0,5,1,16.7%,201910130tam
+Carlton Davis,DaviCa02,defense,TAM,0,5,3,60.0%,50,16.7,10,1,133.3,11.2,37,13,0,0,0,0,0,2,0,0.0%,201910130tam
+Devin White,WhitDe02,defense,TAM,0,4,2,50.0%,20,10,5,0,64.6,1,1,19,3,0,0,0,0,9,1,10.0%,201910130tam
+Lavonte David,DaviLa00,defense,TAM,0,3,2,66.7%,-1,-0.5,-0.3,0,70.1,-1,-6,5,3,0,0,0,0,6,1,14.3%,201910130tam
+Jordan Whitehead,WhitJo03,defense,TAM,0,4,2,50.0%,29,14.5,7.3,0,74,12.5,28,1,4,0,0,0,0,4,1,20.0%,201910130tam
+Shaquil Barrett,BarrSh00,defense,TAM,0,1,1,100.0%,6,6,6,0,91.7,0,0,6,10,0,0,0,0,1,0,0.0%,201910130tam
+Andrew Adams,AdamAn00,defense,TAM,0,1,1,100.0%,9,9,9,0,104.2,8,8,1,2,0,0,0,0,5,1,16.7%,201910130tam
+Carl Nassib,NassCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,1,1,2,6,1,14.3%,201910130tam
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201910130tam
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,4,0,0.0%,201910130tam
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,0,0.0%,201910130tam

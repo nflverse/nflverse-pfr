@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,13,105,4,43,3.3,62,4.8,1,13,201812300pit
+Giovani Bernard,BernGi00,rushing,CIN,3,7,NA,4,1.3,3,1,0,NA,201812300pit
+Jeff Driskel,DrisJe00,rushing,CIN,2,13,1,2,1,11,5.5,1,2,201812300pit
+James Conner,ConnJa00,rushing,PIT,14,64,4,29,2.1,35,2.5,0,NA,201812300pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,3,3,0,3,1,0,0,0,NA,201812300pit
+Jaylen Samuels,SamuJa00,rushing,PIT,2,2,1,0,0,2,1,0,NA,201812300pit
+Eli Rogers,RogeEl00,rushing,PIT,1,-4,0,-6,-6,2,2,0,NA,201812300pit

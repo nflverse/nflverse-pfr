@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Wayne Gallman,GallWa00,rushing,NYG,6,27,2,8,1.3,19,3.2,1,6,202012270rav
+Alfred Morris,MorrAl00,rushing,NYG,3,4,1,2,0.7,2,0.7,0,NA,202012270rav
+Evan Engram,EngrEv00,rushing,NYG,1,5,0,5,5,0,0,0,NA,202012270rav
+Daniel Jones,JoneDa05,rushing,NYG,1,3,0,3,3,0,0,0,NA,202012270rav
+Dion Lewis,LewiDi00,rushing,NYG,1,15,1,6,6,9,9,1,1,202012270rav
+Gus Edwards,EdwaGu00,rushing,BAL,15,85,7,50,3.3,35,2.3,3,5,202012270rav
+Lamar Jackson,JackLa00,rushing,BAL,13,80,4,68,5.2,12,0.9,1,13,202012270rav
+J.K. Dobbins,DobbJK00,rushing,BAL,11,77,3,39,3.5,38,3.5,2,5.5,202012270rav
+Devin Duvernay,DuveDe00,rushing,BAL,1,7,1,7,7,0,0,0,NA,202012270rav

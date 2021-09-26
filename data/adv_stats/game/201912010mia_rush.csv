@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Miles Sanders,SandMi01,rushing,PHI,17,83,3,47,2.8,36,2.1,0,NA,201912010mia
+Jay Ajayi,AjayJa00,rushing,PHI,2,9,NA,2,1,7,3.5,1,2,201912010mia
+Patrick Laird,LairPa00,rushing,MIA,10,5,1,-8,-0.8,13,1.3,0,NA,201912010mia
+Kalen Ballage,BallKa00,rushing,MIA,3,0,NA,-2,-0.7,2,0.7,0,NA,201912010mia
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,3,2,0,1,0.3,1,0.3,0,NA,201912010mia
+Myles Gaskin,GaskMy00,rushing,MIA,2,20,1,10,5,10,5,0,NA,201912010mia
+Albert Wilson,WilsAl02,rushing,MIA,2,31,1,23,11.5,8,4,1,2,201912010mia

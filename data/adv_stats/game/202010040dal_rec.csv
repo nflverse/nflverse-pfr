@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Odell Beckham Jr.,BeckOd00,receiving,CLE,8,5,81,2,5,80,16,1,0.2,16.9,0,NA,0,0,0,135.9,202010040dal
+Austin Hooper,HoopAu00,receiving,CLE,7,5,34,1,3,23,4.6,11,2.2,5.3,0,NA,0,0,0,121.4,202010040dal
+Jarvis Landry,LandJa00,receiving,CLE,6,5,48,0,4,36,7.2,12,2.4,11.3,1,5,0,0,0,100,202010040dal
+Harrison Bryant,BryaHa00,receiving,CLE,4,4,37,0,2,19,4.8,18,4.5,4.8,1,4,0,0,0,105.2,202010040dal
+Dontrell Hilliard,HillDo00,receiving,CLE,1,1,2,0,0,0,0,2,2,0,0,NA,0,0,0,79.2,202010040dal
+Amari Cooper,CoopAm00,receiving,DAL,16,12,134,1,10,66,5.5,68,5.7,8.1,1,12,0,0,1,94.3,202010040dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,8,8,71,0,4,-11,-1.4,82,10.3,-1.4,1,8,0,0,0,103.6,202010040dal
+CeeDee Lamb,LambCe00,receiving,DAL,7,5,79,2,3,73,14.6,6,1.2,13.4,0,NA,0,0,0,148.2,202010040dal
+Noah Brown,BrowNo00,receiving,DAL,4,4,43,0,1,29,7.3,14,3.5,7.3,0,NA,0,0,0,111.5,202010040dal
+Dalton Schultz,SchuDa00,receiving,DAL,8,4,72,1,3,43,10.8,29,7.3,11.9,1,4,1,12.5,0,120.8,202010040dal
+Cedrick Wilson Jr.,WilsCe01,receiving,DAL,6,3,34,0,3,28,9.3,6,2,12.5,0,NA,1,16.7,0,67.4,202010040dal
+Blake Bell,BellBl00,receiving,DAL,2,2,24,0,2,16,8,8,4,8,0,NA,0,0,0,116.7,202010040dal
+Michael Gallup,GallMi00,receiving,DAL,5,2,29,0,2,27,13.5,2,1,16.8,0,NA,0,0,0,59.6,202010040dal
+Tony Pollard,PollTo00,receiving,DAL,2,1,16,0,1,-4,-4,20,20,0,2,0.5,1,50,0,77.1,202010040dal

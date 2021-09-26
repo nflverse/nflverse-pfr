@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Rasul Douglas,DougRa00,defense,CAR,0,10,6,60.0%,81,13.5,8.1,0,85.8,10.5,67,14,0,0,0,0,0,8,1,11.1%,202010110atl
+Shaq Thompson,ThomSh01,defense,CAR,0,6,5,83.3%,37,7.4,6.2,0,92.4,2.7,13,24,1,0,0,0,0,10,0,0.0%,202010110atl
+Troy Pride Jr.,PridTr00,defense,CAR,0,4,3,75.0%,56,18.7,14,0,116.7,14.8,50,6,0,0,0,0,0,6,0,0.0%,202010110atl
+Tahir Whitehead,WhitTa00,defense,CAR,0,2,2,100.0%,10,5,5,0,87.5,-1,-2,12,0,0,0,0,0,4,3,42.9%,202010110atl
+Tre Boston,BostTr00,defense,CAR,0,2,2,100.0%,5,2.5,2.5,0,79.2,-3.5,-7,12,1,0,0,0,0,3,2,40.0%,202010110atl
+Jeremy Chinn,ChinJe00,defense,CAR,0,5,2,40.0%,16,8,3.2,0,48.7,13.4,16,0,2,0,0,0,0,9,0,0.0%,202010110atl
+Corn Elder,EldeCo00,defense,CAR,0,4,1,25.0%,8,8,2,0,39.6,10,8,0,0,0,0,0,0,3,0,0.0%,202010110atl
+Juston Burris,BurrJu00,defense,CAR,1,2,1,50.0%,20,20,10,0,45.8,4.5,4,16,1,0,0,0,0,3,1,25.0%,202010110atl
+Marquis Haynes,HaynMa01,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,2,0,1,3,1,0,0.0%,202010110atl
+Stephen Weatherly,WeatSt00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,3,1,25.0%,202010110atl
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,202010110atl
+Efe Obada,ObadEf00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,202010110atl
+Kawann Short,ShorKa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202010110atl
+Yetur Gross-Matos,GrosYe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202010110atl
+Adarius Taylor,GlanAd00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202010110atl
+Isaiah Oliver,OlivIs00,defense,ATL,0,7,7,100.0%,97,13.9,13.9,1,158.3,4.7,33,64,1,0,0,0,0,7,1,12.5%,202010110atl
+Kendall Sheffield,ShefKe00,defense,ATL,0,11,7,63.6%,113,16.1,10.3,0,97.9,12.4,71,42,0,0,0,0,0,6,2,25.0%,202010110atl
+Foyesade Oluokun,OluoFo00,defense,ATL,0,6,4,66.7%,24,6,4,0,74.3,1.3,3,21,6,0,0,0,0,14,1,6.7%,202010110atl
+AJ Terrell,TerrAJ00,defense,ATL,0,3,3,100.0%,32,10.7,10.7,0,111.1,6.3,19,13,1,0,0,0,0,3,4,57.1%,202010110atl
+Ricardo Allen,AlleRi00,defense,ATL,0,2,2,100.0%,7,3.5,3.5,0,81.2,3.5,7,0,0,0,0,0,0,4,0,0.0%,202010110atl
+Deion Jones,JoneDe01,defense,ATL,0,3,2,66.7%,26,13,8.7,1,133.3,2.7,-2,28,2,0,0,0,0,7,1,12.5%,202010110atl
+Keanu Neal,NealKe01,defense,ATL,0,1,1,100.0%,7,7,7,0,95.8,6,6,1,1,0,0,0,0,7,1,12.5%,202010110atl
+Charles Harris,HarrCh03,defense,ATL,0,1,1,100.0%,7,7,7,0,95.8,-2,-2,9,0,0,0,0,0,3,0,0.0%,202010110atl
+Dante Fowler,FowlDa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,3,0,4,2,1,33.3%,202010110atl
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,3,50.0%,202010110atl
+Marlon Davidson,DaviMa01,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202010110atl
+Tyeler Davison,DaviTy01,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202010110atl
+John Cominsky,ComiJo00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,2,66.7%,202010110atl
+Mykal Walker,WalkMy00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,202010110atl

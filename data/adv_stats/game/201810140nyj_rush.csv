@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Marlon Mack,MackMa00,rushing,IND,12,89,6,24,2,65,5.4,1,12,201810140nyj
+Robert Turbin,TurbRo00,rushing,IND,4,10,NA,10,2.5,0,0,0,NA,201810140nyj
+Nyheim Hines,HineNy00,rushing,IND,3,14,0,11,3.7,3,1,0,NA,201810140nyj
+Andrew Luck,LuckAn00,rushing,IND,2,7,1,7,3.5,0,0,0,NA,201810140nyj
+Eric Ebron,EbroEr00,rushing,IND,1,-1,0,-1,-1,0,0,0,NA,201810140nyj
+Zach Pascal,PascZa00,rushing,IND,1,8,0,8,8,0,0,0,NA,201810140nyj
+Bilal Powell,PoweBi00,rushing,NYJ,16,59,4,17,1.1,42,2.6,1,16,201810140nyj
+Isaiah Crowell,CrowIs00,rushing,NYJ,13,40,1,26,2,14,1.1,0,NA,201810140nyj
+Sam Darnold,DarnSa00,rushing,NYJ,6,8,0,8,1.3,0,0,0,NA,201810140nyj
+Quincy Enunwa,EnunQu00,rushing,NYJ,1,0,NA,-3,-3,3,3,0,NA,201810140nyj

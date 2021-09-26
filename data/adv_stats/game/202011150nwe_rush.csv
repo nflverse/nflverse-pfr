@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Lamar Jackson,JackLa00,rushing,BAL,11,55,4,37,3.4,18,1.6,1,11,202011150nwe
+Gus Edwards,EdwaGu00,rushing,BAL,7,42,3,27,3.9,15,2.1,2,3.5,202011150nwe
+J.K. Dobbins,DobbJK00,rushing,BAL,5,13,NA,11,2.2,2,0.4,0,NA,202011150nwe
+Mark Ingram,IngrMa01,rushing,BAL,5,5,0,1,0.2,4,0.8,0,NA,202011150nwe
+Damien Harris,HarrDa06,rushing,NWE,22,121,7,72,3.3,49,2.2,2,11,202011150nwe
+Cam Newton,NewtCa00,rushing,NWE,11,21,3,14,1.3,7,0.6,0,NA,202011150nwe
+Rex Burkhead,BurkRe00,rushing,NWE,6,31,1,16,2.7,15,2.5,0,NA,202011150nwe

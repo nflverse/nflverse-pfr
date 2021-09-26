@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+T.Y. Hilton,HiltT.00,receiving,IND,3,3,72,0,3,10,3.3,62,20.7,3.3,0,NA,0,0,0,118.7,201912290jax
+Nyheim Hines,HineNy00,receiving,IND,5,3,22,0,0,13,4.3,9,3,2.8,0,NA,0,0,0,70.4,201912290jax
+Marcus Johnson,JohnMa07,receiving,IND,4,2,31,0,2,26,13,5,2.5,23.3,0,NA,0,0,0,76,201912290jax
+Mo Alie-Cox,AlieMo00,receiving,IND,1,1,15,0,1,3,3,12,12,3,0,NA,0,0,0,118.7,201912290jax
+Jack Doyle,DoylJa00,receiving,IND,4,1,6,0,NA,6,6,0,0,6,0,NA,0,0,0,39.6,201912290jax
+Dontrelle Inman,InmaDo00,receiving,IND,3,1,6,0,NA,-1,-1,7,7,8.7,0,NA,1,33.3,0,42.4,201912290jax
+Zach Pascal,PascZa00,receiving,IND,3,1,10,0,1,6,6,4,4,9.7,0,NA,0,0,0,43.7,201912290jax
+Marlon Mack,MackMa00,receiving,IND,1,0,0,0,0,0,NA,0,NA,-2,0,NA,1,100,0,39.6,201912290jax
+Dede Westbrook,WestDe00,receiving,JAX,8,7,72,1,5,45,6.4,27,3.9,5.8,0,NA,0,0,0,143.7,201912290jax
+Ryquell Armstead,ArmsRy00,receiving,JAX,9,5,52,1,4,4,0.8,48,9.6,1.6,0,NA,2,22.2,1,69.9,201912290jax
+DJ Chark,CharDJ00,receiving,JAX,5,4,34,0,1,17,4.3,17,4.3,5.4,0,NA,1,20,0,95,201912290jax
+Keelan Cole,ColeKe00,receiving,JAX,4,3,67,1,2,62,20.7,5,1.7,15,0,NA,1,25,0,156.2,201912290jax
+Chris Conley,ConlCh00,receiving,JAX,6,3,38,0,2,29,9.7,9,3,12,0,NA,1,16.7,0,70.1,201912290jax
+Devine Ozigbo,OzigDe01,receiving,JAX,5,3,23,0,1,3,1,20,6.7,1.2,0,NA,1,20,0,71.2,201912290jax
+Seth Devalve,DevaSe00,receiving,JAX,1,1,4,0,NA,4,4,0,0,4,0,NA,0,0,0,83.3,201912290jax
+Charles Jones,JoneCh10,receiving,JAX,1,1,5,0,NA,3,3,2,2,3,0,NA,0,0,0,87.5,201912290jax

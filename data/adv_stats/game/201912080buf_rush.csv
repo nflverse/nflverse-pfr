@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mark Ingram,IngrMa01,rushing,BAL,15,50,2,24,1.6,26,1.7,3,5,201912080buf
+Lamar Jackson,JackLa00,rushing,BAL,11,40,3,33,3,7,0.6,1,11,201912080buf
+Gus Edwards,EdwaGu00,rushing,BAL,4,20,1,11,2.8,9,2.3,2,2,201912080buf
+Justice Hill,HillJu00,rushing,BAL,3,8,NA,2,0.7,6,2,0,NA,201912080buf
+Devin Singletary,SingDe00,rushing,BUF,17,89,3,40,2.4,49,2.9,4,4.3,201912080buf
+Frank Gore,GoreFr00,rushing,BUF,4,6,NA,2,0.5,4,1,0,NA,201912080buf
+Josh Allen,AlleJo02,rushing,BUF,2,9,1,7,3.5,2,1,0,NA,201912080buf

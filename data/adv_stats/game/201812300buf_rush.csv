@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kalen Ballage,BallKa00,rushing,MIA,12,47,4,24,2,23,1.9,0,NA,201812300buf
+Kenyan Drake,DrakKe00,rushing,MIA,11,43,3,19,1.7,24,2.2,1,11,201812300buf
+Ryan Tannehill,TannRy00,rushing,MIA,2,9,1,9,4.5,0,0,0,NA,201812300buf
+Chris Ivory,IvorCh00,rushing,BUF,14,45,4,25,1.8,20,1.4,0,NA,201812300buf
+LeSean McCoy,McCoLe01,rushing,BUF,10,26,1,4,0.4,22,2.2,1,10,201812300buf
+Josh Allen,AlleJo02,rushing,BUF,9,95,6,66,7.3,29,3.2,0,NA,201812300buf

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeAndre Hopkins,HopkDe00,receiving,HOU,12,7,80,0,5,36,5.1,44,6.3,11.8,0,NA,0,0,0,78.5,201911170rav
+Kenny Stills,StilKe00,receiving,HOU,7,4,27,0,3,16,4,11,2.8,7.4,0,NA,0,0,0,65.8,201911170rav
+Keke Coutee,CoutKe00,receiving,HOU,3,3,25,0,1,15,5,10,3.3,5,0,NA,0,0,0,101.4,201911170rav
+Duke Johnson,JohnDu00,receiving,HOU,2,2,4,0,0,-9,-4.5,13,6.5,-4.5,0,NA,0,0,0,79.2,201911170rav
+Darren Fells,FellDa01,receiving,HOU,3,1,18,0,1,0,0,18,18,4.3,0,NA,0,0,0,54.9,201911170rav
+Jordan Akins,AkinJo00,receiving,HOU,2,1,15,0,NA,14,14,1,1,7,0,NA,0,0,0,75,201911170rav
+Carlos Hyde,HydeCa00,receiving,HOU,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,1,0,201911170rav
+Mark Andrews,AndrMa00,receiving,BAL,4,4,75,1,2,26,6.5,49,12.3,6.5,0,NA,0,0,0,158.3,201911170rav
+Mark Ingram,IngrMa01,receiving,BAL,4,3,37,2,2,-2,-0.7,39,13,1.8,0,NA,0,0,0,142.7,201911170rav
+Patrick Ricard,RicaPa00,receiving,BAL,3,3,27,0,1,-3,-1,30,10,-1,1,3,0,0,0,104.2,201911170rav
+Nick Boyle,BoylNi00,receiving,BAL,3,2,20,0,1,14,7,6,3,7,0,NA,0,0,0,85.4,201911170rav
+Marquise Brown,BrowMa04,receiving,BAL,4,2,23,0,2,22,11,1,0.5,10.5,0,NA,0,0,0,67.7,201911170rav
+Hayden Hurst,HursHa00,receiving,BAL,2,2,16,0,1,11,5.5,5,2.5,5.5,0,NA,0,0,0,100,201911170rav
+Willie Snead,SneaWi00,receiving,BAL,3,2,13,0,1,9,4.5,4,2,11.3,0,NA,0,0,0,75.7,201911170rav
+Justice Hill,HillJu00,receiving,BAL,1,1,9,0,0,-2,-2,11,11,-2,0,NA,0,0,0,104.2,201911170rav
+Seth Roberts,RobeSe00,receiving,BAL,1,1,15,1,1,15,15,0,0,15,0,NA,0,0,0,158.3,201911170rav
+Miles Boykin,BoykMi00,receiving,BAL,2,0,0,0,NA,0,NA,0,NA,29.5,0,NA,0,0,0,39.6,201911170rav

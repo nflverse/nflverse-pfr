@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,19,134,8,66,3.5,68,3.6,2,9.5,201809300nyg
+Drew Brees,BreeDr00,rushing,NOR,4,-1,1,-1,-0.3,0,0,0,NA,201809300nyg
+Taysom Hill,HillTa00,rushing,NOR,4,28,1,11,2.8,17,4.3,0,NA,201809300nyg
+Mike Gillislee,GillMi00,rushing,NOR,2,6,NA,2,1,4,2,0,NA,201809300nyg
+Dwayne Washington,WashDw00,rushing,NOR,2,2,NA,0,0,2,1,0,NA,201809300nyg
+Ted Ginn Jr.,GinnTe00,rushing,NOR,1,1,NA,0,0,1,1,0,NA,201809300nyg
+Saquon Barkley,BarkSa00,rushing,NYG,10,44,2,27,2.7,17,1.7,1,10,201809300nyg
+Wayne Gallman,GallWa00,rushing,NYG,2,6,0,1,0.5,5,2.5,0,NA,201809300nyg
+Eli Manning,MannEl00,rushing,NYG,2,5,0,5,2.5,0,0,0,NA,201809300nyg
+Odell Beckham Jr.,BeckOd00,rushing,NYG,1,10,1,10,10,0,0,0,NA,201809300nyg

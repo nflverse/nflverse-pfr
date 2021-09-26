@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jarvis Landry,LandJa00,receiving,CLE,9,5,102,1,5,72,14.4,30,6,15.6,0,NA,1,11.1,0,132.6,201812300rav
+Antonio Callaway,CallAn00,receiving,CLE,7,4,79,1,4,73,18.3,6,1.5,18.4,0,NA,0,0,1,96.7,201812300rav
+Rashard Higgins,HiggRa00,receiving,CLE,6,4,86,0,3,36,9,50,12.5,9.8,0,NA,0,0,1,70.1,201812300rav
+David Njoku,NjokDa00,receiving,CLE,7,3,62,0,2,44,14.7,18,6,11,0,NA,0,0,0,74.7,201812300rav
+Breshad Perriman,PerrBr02,receiving,CLE,4,3,45,1,2,40,13.3,5,1.7,12,0,NA,0,0,0,151,201812300rav
+Nick Chubb,ChubNi00,receiving,CLE,3,2,-4,0,0,-13,-6.5,9,4.5,-3,0,NA,0,0,0,70.1,201812300rav
+Darren Fells,FellDa01,receiving,CLE,1,1,3,0,NA,0,0,3,3,0,0,NA,0,0,0,79.2,201812300rav
+Duke Johnson,JohnDu00,receiving,CLE,4,1,3,0,NA,-1,-1,4,4,5.3,0,NA,0,0,1,0,201812300rav
+Mark Andrews,AndrMa00,receiving,BAL,5,4,54,0,3,44,11,10,2.5,10.8,0,NA,0,0,0,111.7,201812300rav
+Michael Crabtree,CrabMi00,receiving,BAL,2,2,20,0,1,5,2.5,15,7.5,2.5,0,NA,0,0,0,108.3,201812300rav
+Hayden Hurst,HursHa00,receiving,BAL,4,2,43,0,1,12,6,31,15.5,5,1,2,0,0,0,88.5,201812300rav
+Chris Moore,MoorCh00,receiving,BAL,3,2,19,0,NA,15,7.5,4,2,10.3,0,NA,0,0,0,84,201812300rav
+John Brown,BrowJo02,receiving,BAL,3,1,7,0,NA,6,6,1,1,5.7,0,NA,0,0,0,42.4,201812300rav
+Kenneth Dixon,DixoKe00,receiving,BAL,1,1,2,0,0,-4,-4,6,6,-4,0,NA,0,0,0,79.2,201812300rav
+Ty Montgomery,MontTy01,receiving,BAL,3,1,9,0,0,1,1,8,8,9.7,0,NA,0,0,0,42.4,201812300rav
+Willie Snead,SneaWi00,receiving,BAL,2,1,25,0,1,9,9,16,16,10,1,1,0,0,0,95.8,201812300rav

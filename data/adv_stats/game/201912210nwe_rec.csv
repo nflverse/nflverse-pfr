@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cole Beasley,BeasCo00,receiving,BUF,12,7,108,0,5,70,10,38,5.4,9,0,NA,0,0,0,88.2,201912210nwe
+Isaiah McKenzie,McKeIs00,receiving,BUF,2,2,11,0,NA,-1,-0.5,12,6,-0.5,0,NA,0,0,0,89.6,201912210nwe
+John Brown,BrowJo02,receiving,BUF,4,1,53,1,1,33,33,20,20,28,0,NA,0,0,0,118.7,201912210nwe
+Devin Singletary,SingDe00,receiving,BUF,1,1,2,0,0,1,1,1,1,1,0,NA,0,0,0,79.2,201912210nwe
+Dion Dawkins,DawkDi00,receiving,BUF,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,201912210nwe
+Dawson Knox,KnoxDa00,receiving,BUF,4,1,33,0,1,32,32,1,1,14,0,NA,1,25,0,61.5,201912210nwe
+Tyler Kroft,KrofTy00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,201912210nwe
+Robert Foster,FostRo01,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,39,0,NA,0,0,0,39.6,201912210nwe
+Julian Edelman,EdelJu00,receiving,NWE,6,5,72,0,3,52,10.4,20,4,9.5,1,5,1,16.7,0,116.7,201912210nwe
+Rex Burkhead,BurkRe00,receiving,NWE,4,4,77,0,3,6,1.5,71,17.8,1.5,1,4,0,0,0,118.7,201912210nwe
+James White,WhitJa02,receiving,NWE,5,4,24,0,0,12,3,12,3,3.4,0,NA,0,0,0,86.7,201912210nwe
+Jakobi Meyers,MeyeJa01,receiving,NWE,3,3,25,0,1,19,6.3,6,2,6.3,0,NA,0,0,0,101.4,201912210nwe
+Mohamed Sanu,SanuMo00,receiving,NWE,5,3,24,0,1,22,7.3,2,0.7,7.2,0,NA,0,0,0,72.1,201912210nwe
+Ben Watson,WatsBe00,receiving,NWE,3,3,15,0,1,11,3.7,4,1.3,3.7,0,NA,0,0,0,87.5,201912210nwe
+N'Keal Harry,HarrNK00,receiving,NWE,3,2,21,0,1,6,3,15,7.5,8.7,1,2,0,0,0,86.8,201912210nwe
+Matt LaCosse,LaCoMa00,receiving,NWE,1,1,8,1,1,7,7,1,1,7,0,NA,0,0,0,139.6,201912210nwe
+Sony Michel,MichSo00,receiving,NWE,2,1,5,0,0,-2,-2,7,7,-1.5,1,1,0,0,0,56.2,201912210nwe

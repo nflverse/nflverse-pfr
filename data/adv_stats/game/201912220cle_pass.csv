@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Lamar Jackson,JackLa00,passing,BAL,20,31,238,13,41.9,247,8,130,6.5,4.2,108,5.4,1,3.3%,5,16.7%,0,13,4,4,8,23.5%,3,9,201912220cle
+Baker Mayfield,MayfBa00,passing,CLE,20,33,192,10,30.3,293,8.9,111,5.6,3.4,81,4.1,2,6.3%,4,12.5%,0,22,1,3,4,11.8%,1,5,201912220cle

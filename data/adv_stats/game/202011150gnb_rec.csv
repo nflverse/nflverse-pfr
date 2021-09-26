@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Keelan Cole,ColeKe00,receiving,JAX,7,5,47,1,3,19,3.8,28,5.6,3.4,1,5,1,14.3,0,129.2,202011150gnb
+DJ Chark,CharDJ00,receiving,JAX,5,4,56,0,4,20,5,36,9,12.6,0,NA,0,0,0,113.3,202011150gnb
+Chris Conley,ConlCh00,receiving,JAX,8,4,43,0,2,29,7.3,14,3.5,5.1,0,NA,0,0,0,66.1,202011150gnb
+Tyler Eifert,EifeTy00,receiving,JAX,4,2,15,0,NA,13,6.5,2,1,7.5,0,NA,0,0,1,19.8,202011150gnb
+James Robinson,RobiJa00,receiving,JAX,5,2,3,0,0,-3,-1.5,6,3,-1.6,0,NA,0,0,0,47.9,202011150gnb
+Dare Ogunbowale,OgunDa00,receiving,JAX,2,1,5,0,1,-1,-1,6,6,2.5,0,NA,1,50,0,56.2,202011150gnb
+Terry Godwin,GodwTe00,receiving,JAX,2,0,0,0,NA,0,NA,0,NA,14.5,0,NA,0,0,0,39.6,202011150gnb
+James O'Shaughnessy,O'ShJa00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,0,39.6,202011150gnb
+Davante Adams,AdamDa01,receiving,GNB,12,8,66,1,3,14,1.8,52,6.5,6.3,0,NA,0,0,0,108.3,202011150gnb
+Aaron Jones,JoneAa00,receiving,GNB,6,5,49,0,2,-13,-2.6,62,12.4,-2.5,0,NA,1,16.7,0,100.7,202011150gnb
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,6,4,149,1,4,68,17,81,20.3,15.8,1,4,0,0,1,109.7,202011150gnb
+Robert Tonyan,TonyRo00,receiving,GNB,4,3,33,0,1,22,7.3,11,3.7,12,0,NA,0,0,0,99,202011150gnb
+Jamaal Williams,WillJa06,receiving,GNB,4,3,25,0,1,-1,-0.3,26,8.7,-0.8,0,NA,1,25,0,90.6,202011150gnb
+Tyler Ervin,ErviTy00,receiving,GNB,1,1,3,0,NA,-2,-2,5,5,-2,0,NA,0,0,0,79.2,202011150gnb

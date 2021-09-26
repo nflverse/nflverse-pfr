@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Travis Kelce,KelcTr00,receiving,KAN,8,7,109,1,6,22,3.1,87,12.4,3.6,1,7,0,0,1,118.7,202109190rav
+Mecole Hardman,HardMe00,receiving,KAN,8,5,55,0,4,41,8.2,14,2.8,16.5,1,5,0,0,0,82.8,202109190rav
+Tyreek Hill,HillTy00,receiving,KAN,4,3,14,0,1,1,0.3,13,4.3,4.3,1,3,0,0,0,79.2,202109190rav
+Demarcus Robinson,RobiDe01,receiving,KAN,4,3,46,1,2,42,14,4,1.3,13.8,0,NA,0,0,0,152.1,202109190rav
+Byron Pringle,PrinBy00,receiving,KAN,2,2,63,1,2,22,11,41,20.5,11,1,2,0,0,0,158.3,202109190rav
+Blake Bell,BellBl00,receiving,KAN,1,1,20,0,1,-3,-3,23,23,-3,0,NA,0,0,0,118.7,202109190rav
+Michael Burton,BurtMi00,receiving,KAN,1,1,11,0,1,-2,-2,13,13,-2,0,NA,0,0,0,112.5,202109190rav
+Joe Fortson,FortJo01,receiving,KAN,1,1,11,0,NA,7,7,4,4,7,0,NA,0,0,0,112.5,202109190rav
+Jerick McKinnon,McKiJe00,receiving,KAN,1,1,14,0,1,2,2,12,12,2,0,NA,0,0,0,118.7,202109190rav
+Marquise Brown,BrowMa04,receiving,BAL,10,6,113,1,5,52,8.7,61,10.2,14.2,1,6,0,0,1,92.9,202109190rav
+Mark Andrews,AndrMa00,receiving,BAL,5,5,57,0,2,30,6,27,5.4,6,0,NA,0,0,0,114.2,202109190rav
+Sammy Watkins,WatkSa00,receiving,BAL,7,4,44,0,2,30,7.5,14,3.5,9.9,0,NA,1,14.3,1,36.3,202109190rav
+Ty'Son Williams,WillTy01,receiving,BAL,2,2,16,0,1,3,1.5,13,6.5,1.5,0,NA,0,0,0,100,202109190rav
+Josh Oliver,OlivJo00,receiving,BAL,1,1,9,0,1,5,5,4,4,5,0,NA,0,0,0,104.2,202109190rav

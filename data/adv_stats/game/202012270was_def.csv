@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Shaq Thompson,ThomSh01,defense,CAR,0,9,7,77.8%,45,6.4,5,0,87.5,5,10,35,3,0,1,0,1,9,1,10.0%,202012270was
+Jeremy Chinn,ChinJe00,defense,CAR,0,7,4,57.1%,53,13.3,7.6,1,120.8,13.9,39,14,8,0,0,0,0,8,2,20.0%,202012270was
+Myles Hartsfield,HartMy00,defense,CAR,0,6,4,66.7%,41,10.3,6.8,0,86.1,12.8,20,21,2,0,0,0,0,4,2,33.3%,202012270was
+Tre Boston,BostTr00,defense,CAR,1,5,3,60.0%,11,3.7,2.2,0,25,1,-1,12,1,0,0,0,0,6,1,14.3%,202012270was
+Juston Burris,BurrJu00,defense,CAR,0,4,3,75.0%,50,16.7,12.5,0,116.7,8.3,21,29,2,0,0,0,0,4,0,0.0%,202012270was
+Rasul Douglas,DougRa00,defense,CAR,0,5,3,60.0%,78,26,15.6,0,104.2,13,35,43,0,0,0,0,0,4,0,0.0%,202012270was
+Zach Kerr,KerrZa00,defense,CAR,0,1,1,100.0%,13,13,13,0,118.7,-1,-1,14,0,1,0,0,1,2,0,0.0%,202012270was
+Donte Jackson,JackDo02,defense,CAR,0,9,1,11.1%,0,0,0,0,39.6,18.4,-2,2,0,0,0,0,0,3,1,25.0%,202012270was
+Efe Obada,ObadEf00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,1,1,50.0%,202012270was
+Derrick Brown,BrowDe05,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,202012270was
+Marquis Haynes,HaynMa01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,1,33.3%,202012270was
+Yetur Gross-Matos,GrosYe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,1,0,0.0%,202012270was
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202012270was
+Adarius Taylor,GlanAd00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202012270was
+Tahir Whitehead,WhitTa00,defense,CAR,1,1,0,0.0%,NA,NA,0,NA,0,11,NA,NA,1,0,0,0,0,0,0,NA,202012270was
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,2,0,0,0,0,2,2,50.0%,202012270was
+Kendall Fuller,FullKe00,defense,WAS,0,7,4,57.1%,9,2.3,1.3,0,62.2,11.6,4,5,0,0,0,0,0,6,0,0.0%,202012270was
+Kamren Curl,CurlKa00,defense,WAS,1,3,3,100.0%,25,8.3,8.3,1,101.4,4.7,14,11,1,1,0,0,1,8,3,27.3%,202012270was
+Jimmy Moreland,MoreJi00,defense,WAS,0,4,3,75.0%,39,13,9.8,0,105.2,6.8,27,12,3,0,0,0,0,3,1,25.0%,202012270was
+Cole Holcomb,HolcCo00,defense,WAS,0,2,2,100.0%,11,5.5,5.5,0,89.6,2,4,7,5,0,0,1,1,11,0,0.0%,202012270was
+Ronald Darby,DarbRo00,defense,WAS,0,6,2,33.3%,17,8.5,2.8,0,42.4,14.2,17,0,1,0,0,0,0,3,1,25.0%,202012270was
+Ryan Kerrigan,KerrRy00,defense,WAS,0,2,2,100.0%,26,13,13,0,118.7,4,8,18,1,0,0,0,0,1,2,66.7%,202012270was
+Jeremy Reaves,ReavJe00,defense,WAS,0,2,2,100.0%,66,33,33,0,118.7,27.5,55,11,0,0,0,0,0,6,1,14.3%,202012270was
+Jonathan Bostic,BostJo00,defense,WAS,0,2,1,50.0%,4,4,2,0,56.2,5.5,2,2,3,0,0,0,0,8,0,0.0%,202012270was
+Chase Young,YounCh04,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,4,0,0.0%,202012270was
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,7,0,0.0%,202012270was
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,1,20.0%,202012270was
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,1,33.3%,202012270was
+Tim Settle,SettTi00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202012270was
+Khaleke Hudson,HudsKh00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,3,0,0.0%,202012270was

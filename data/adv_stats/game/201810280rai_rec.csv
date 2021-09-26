@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jack Doyle,DoylJa00,receiving,IND,7,6,70,1,5,39,6.5,31,5.2,6.1,0,NA,0,0,0,147.9,201810280rai
+Dontrelle Inman,InmaDo00,receiving,IND,7,6,52,0,3,48,8,4,0.7,8,0,NA,0,0,0,97.6,201810280rai
+Eric Ebron,EbroEr00,receiving,IND,3,3,37,1,2,26,8.7,11,3.7,8.7,0,NA,0,0,0,157.6,201810280rai
+Nyheim Hines,HineNy00,receiving,IND,2,2,7,0,0,-1,-0.5,8,4,-0.5,0,NA,0,0,0,81.2,201810280rai
+Marlon Mack,MackMa00,receiving,IND,4,2,17,0,1,2,1,15,7.5,0.5,0,NA,2,50,0,61.5,201810280rai
+Mo Alie-Cox,AlieMo00,receiving,IND,1,1,26,1,1,25,25,1,1,25,0,NA,0,0,0,158.3,201810280rai
+T.Y. Hilton,HiltT.00,receiving,IND,5,1,34,0,1,34,34,0,0,11,0,NA,0,0,0,55.4,201810280rai
+Zach Pascal,PascZa00,receiving,IND,1,1,-4,0,NA,-4,-4,0,0,-4,0,NA,0,0,0,79.2,201810280rai
+Chester Rogers,RogeCh02,receiving,IND,1,0,0,0,NA,0,NA,0,NA,28,0,NA,0,0,0,39.6,201810280rai
+Jalen Richard,RichJa01,receiving,OAK,8,8,50,0,0,3,0.4,47,5.9,0.4,0,NA,0,0,0,92.7,201810280rai
+Jared Cook,CookJa02,receiving,OAK,5,4,74,1,4,59,14.8,15,3.8,12.2,0,NA,0,0,0,158.3,201810280rai
+Brandon LaFell,LaFeBr00,receiving,OAK,4,3,39,1,3,14,4.7,25,8.3,7.8,0,NA,0,0,0,144.8,201810280rai
+Doug Martin,MartDo00,receiving,OAK,2,2,17,0,1,7,3.5,10,5,3.5,1,2,0,0,0,102.1,201810280rai
+Seth Roberts,RobeSe00,receiving,OAK,4,2,42,1,2,33,16.5,9,4.5,9,0,NA,1,25,0,127.1,201810280rai
+Jordy Nelson,NelsJo00,receiving,OAK,4,1,14,0,1,13,13,1,1,14.5,0,NA,0,0,0,41.7,201810280rai
+Keith Smith,SmitKe03,receiving,OAK,1,1,8,0,1,2,2,6,6,2,0,NA,0,0,0,100,201810280rai

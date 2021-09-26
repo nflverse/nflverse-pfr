@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Phillip Lindsay,LindPh00,rushing,DEN,10,46,1,25,2.5,21,2.1,2,5,201812240rai
+Royce Freeman,FreeRo00,rushing,DEN,7,21,NA,11,1.6,10,1.4,0,NA,201812240rai
+Devontae Booker,BookDe00,rushing,DEN,3,21,1,9,3,12,4,1,3,201812240rai
+Case Keenum,KeenCa00,rushing,DEN,3,19,2,-5,-1.7,24,8,2,1.5,201812240rai
+Tim Patrick,PatrTi00,rushing,DEN,1,-7,0,-9,-9,2,2,2,0.5,201812240rai
+Doug Martin,MartDo00,rushing,OAK,21,107,5,57,2.7,50,2.4,4,5.3,201812240rai
+Derek Carr,CarrDe02,rushing,OAK,4,-3,0,-3,-0.8,0,0,0,NA,201812240rai
+Jalen Richard,RichJa01,rushing,OAK,4,11,1,7,1.8,4,1,2,2,201812240rai
+DeAndre Washington,WashDe00,rushing,OAK,1,-1,NA,-1,-1,0,0,0,NA,201812240rai

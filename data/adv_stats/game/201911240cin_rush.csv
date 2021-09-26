@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Benny Snell Jr.,SnelBe00,rushing,PIT,21,98,4,34,1.6,64,3,0,NA,201911240cin
+Kerrith Whyte Jr,WhytKe00,rushing,PIT,6,43,2,15,2.5,28,4.7,0,NA,201911240cin
+Mason Rudolph,RudoMa00,rushing,PIT,4,4,1,0,0,4,1,0,NA,201911240cin
+Devlin Hodges,HodgDe00,rushing,PIT,3,1,0,1,0.3,0,0,0,NA,201911240cin
+Trey Edmunds,EdmuTr00,rushing,PIT,2,7,NA,2,1,5,2.5,0,NA,201911240cin
+Jaylen Samuels,SamuJa00,rushing,PIT,2,6,0,-1,-0.5,7,3.5,0,NA,201911240cin
+Joe Mixon,MixoJo00,rushing,CIN,18,79,2,32,1.8,47,2.6,1,18,201911240cin
+Ryan Finley,FinlRy00,rushing,CIN,2,8,0,8,4,0,0,0,NA,201911240cin
+Giovani Bernard,BernGi00,rushing,CIN,1,-1,NA,-1,-1,0,0,0,NA,201911240cin

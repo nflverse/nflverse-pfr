@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Diontae Johnson,JohnDi01,receiving,PIT,10,5,36,1,2,7,1.4,29,5.8,5.1,0,NA,0,0,0,92.1,202109120buf
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,8,4,52,0,3,28,7,24,6,6.3,1,4,0,0,0,70.8,202109120buf
+Chase Claypool,ClayCh01,receiving,PIT,5,3,45,0,2,40,13.3,5,1.7,12.2,0,NA,0,0,0,89.6,202109120buf
+James Washington,WashJa00,receiving,PIT,2,2,10,0,NA,-5,-2.5,15,7.5,-2.5,0,NA,0,0,0,87.5,202109120buf
+Eric Ebron,EbroEr00,receiving,PIT,2,1,19,0,1,17,17,2,2,11.5,0,NA,0,0,0,83.3,202109120buf
+Pat Freiermuth,FreiPa00,receiving,PIT,1,1,24,0,1,15,15,9,9,15,0,NA,0,0,0,118.7,202109120buf
+Zach Gentry,GentZa00,receiving,PIT,1,1,-2,0,NA,-2,-2,0,0,-2,0,NA,0,0,0,79.2,202109120buf
+Najee Harris,HarrNa00,receiving,PIT,3,1,4,0,0,3,3,1,1,1,0,NA,0,0,0,42.4,202109120buf
+Stefon Diggs,DiggSt00,receiving,BUF,13,9,69,0,4,47,5.2,22,2.4,9.8,0,NA,0,0,0,81.9,202109120buf
+Cole Beasley,BeasCo00,receiving,BUF,13,8,60,0,1,35,4.4,25,3.1,4.5,0,NA,2,15.4,0,72.6,202109120buf
+Dawson Knox,KnoxDa00,receiving,BUF,4,4,41,0,3,23,5.8,18,4.5,5.8,0,NA,0,0,0,109.4,202109120buf
+Emmanuel Sanders,SandEm00,receiving,BUF,8,4,52,0,3,47,11.8,5,1.3,18.6,0,NA,0,0,0,70.8,202109120buf
+Devin Singletary,SingDe00,receiving,BUF,5,3,8,0,0,2,0.7,6,2,1,0,NA,1,20,0,64.6,202109120buf
+Gabriel Davis,DaviGa01,receiving,BUF,5,2,40,1,2,21,10.5,19,9.5,13.2,0,NA,1,20,0,108.3,202109120buf

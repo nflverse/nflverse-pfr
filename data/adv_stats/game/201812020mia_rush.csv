@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+LeSean McCoy,McCoLe01,rushing,BUF,15,52,3,14,0.9,38,2.5,0,NA,201812020mia
+Josh Allen,AlleJo02,rushing,BUF,9,135,7,80,8.9,55,6.1,0,NA,201812020mia
+Chris Ivory,IvorCh00,rushing,BUF,6,4,NA,-5,-0.8,9,1.5,0,NA,201812020mia
+Marcus Murphy,MurpMa03,rushing,BUF,1,7,NA,5,5,2,2,0,NA,201812020mia
+Frank Gore,GoreFr00,rushing,MIA,8,21,0,6,0.8,15,1.9,0,NA,201812020mia
+Kenyan Drake,DrakKe00,rushing,MIA,7,31,1,2,0.3,29,4.1,1,7,201812020mia
+Kalen Ballage,BallKa00,rushing,MIA,4,3,NA,-3,-0.8,6,1.5,0,NA,201812020mia
+Ryan Tannehill,TannRy00,rushing,MIA,3,-5,0,-5,-1.7,0,0,0,NA,201812020mia
+Brandon Bolden,BoldBr00,rushing,MIA,1,10,1,6,6,4,4,0,NA,201812020mia

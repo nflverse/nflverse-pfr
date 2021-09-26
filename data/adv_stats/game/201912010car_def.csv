@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Quinton Dunbar,DunbQu00,defense,WAS,0,10,7,70.0%,64,9.1,6.4,1,120.4,13,64,0,0,0,0,0,0,5,1,16.7%,201912010car
+Montae Nicholson,NichMo00,defense,WAS,0,5,5,100.0%,78,15.6,15.6,1,158.3,12,60,18,0,0,0,0,0,5,2,28.6%,201912010car
+Fabian Moreau,MoreFa00,defense,WAS,1,7,4,57.1%,61,15.3,8.7,0,46.4,15.6,48,13,0,0,0,0,0,3,0,0.0%,201912010car
+Jonathan Bostic,BostJo00,defense,WAS,0,6,3,50.0%,25,8.3,4.2,0,61.1,1.7,1,24,2,0,1,0,1,7,1,12.5%,201912010car
+Landon Collins,CollLa00,defense,WAS,0,6,3,50.0%,33,11,5.5,0,66.7,9.7,-5,38,4,0,0,0,0,8,0,0.0%,201912010car
+Jimmy Moreland,MoreJi00,defense,WAS,0,4,3,75.0%,26,8.7,6.5,0,91.7,10.3,24,2,2,0,0,0,0,4,0,0.0%,201912010car
+Cole Holcomb,HolcCo00,defense,WAS,0,4,2,50.0%,15,7.5,3.8,0,59.4,4.8,9,6,1,0,0,0,0,4,1,20.0%,201912010car
+Ryan Anderson,AndeRy00,defense,WAS,0,1,1,100.0%,8,8,8,0,100,1,1,7,5,1,1,0,2,6,0,0.0%,201912010car
+Chris Odom,OdomCh00,defense,WAS,0,1,1,100.0%,6,6,6,0,91.7,3,3,3,0,0,0,2,2,4,0,0.0%,201912010car
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0.5,3,1,0,0.0%,201912010car
+Nate Orchard,OrchNa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,1,1,3,4,0,0.0%,201912010car
+Matthew Ioannidis,IoanMa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2,3,3,0,0.0%,201912010car
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,1.5,2,3,0,0.0%,201912010car
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201912010car
+Shaun Dion Hamilton,DionSh00,defense,WAS,0,2,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,3,0,0,0,0,2,0,0.0%,201912010car
+Luke Kuechly,KuecLu00,defense,CAR,0,6,3,50.0%,60,20,10,0,85.4,10.7,32,28,1,0,0,0,0,7,1,12.5%,201912010car
+Eric Reid,ReidEr00,defense,CAR,0,3,2,66.7%,29,14.5,9.7,0,97.9,7,23,6,5,0,0,1,1,8,0,0.0%,201912010car
+James Bradberry,BradJa00,defense,CAR,0,2,2,100.0%,2,1,1,0,79.2,0,0,2,0,0,0,0,0,3,0,0.0%,201912010car
+Shaq Thompson,ThomSh01,defense,CAR,0,4,2,50.0%,8,4,2,0,56.2,3,-2,10,4,0,0,0,0,8,3,27.3%,201912010car
+Ross Cockrell,CockRo00,defense,CAR,0,3,2,66.7%,15,7.5,5,0,78.5,5.3,15,0,2,0,0,0,0,2,1,33.3%,201912010car
+Tre Boston,BostTr00,defense,CAR,0,3,2,66.7%,24,12,8,0,91,10.7,24,0,0,0,0,0,0,8,3,27.3%,201912010car
+Donte Jackson,JackDo02,defense,CAR,0,4,1,25.0%,20,20,5,0,47.9,16,20,0,0,0,0,0,0,2,2,50.0%,201912010car
+Mario Addison,AddiMa00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,1,1.5,3,7,0,0.0%,201912010car
+Bruce Irvin,IrviBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,1,1,1,3,3,1,25.0%,201912010car
+Stacy McGee,McGeSt01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,201912010car
+Vernon Butler,ButlVe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,201912010car
+Gerald McCoy,McCoGe99,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,50.0%,201912010car
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,1,0,0.0%,201912010car
+Efe Obada,ObadEf00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201912010car

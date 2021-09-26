@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Derek Carr,CarrDe02,passing,OAK,24,33,185,11,30.6,208,6.3,126,5.3,3.8,59,2.5,0,0.0%,3,9.4%,3,8,3,0,6,16.7%,0,NA,201812300kan
+Patrick Mahomes,MahoPa00,passing,KAN,14,24,281,9,37.5,255,10.6,130,9.3,5.4,151,10.8,3,12.5%,3,12.5%,0,5,4,0,4,16.0%,1,2,201812300kan
+Chad Henne,HennCh01,passing,KAN,2,3,29,2,66.7,18,6,14,7,4.7,15,7.5,1,33.3%,0,0.0%,0,2,0,0,0,0.0%,0,NA,201812300kan

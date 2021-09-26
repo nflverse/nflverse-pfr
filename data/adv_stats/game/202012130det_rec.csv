@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Davante Adams,AdamDa01,receiving,GNB,10,7,115,1,3,27,3.9,88,12.6,8.5,0,NA,0,0,0,141.7,202012130det
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,6,6,85,1,6,54,9,31,5.2,9,0,NA,0,0,0,158.3,202012130det
+Robert Tonyan,TonyRo00,receiving,GNB,5,5,36,1,3,25,5,11,2.2,5,0,NA,0,0,0,136.2,202012130det
+Tavon Austin,AustTa00,receiving,GNB,2,2,8,0,1,-9,-4.5,17,8.5,-4.5,0,NA,0,0,0,83.3,202012130det
+Aaron Jones,JoneAa00,receiving,GNB,3,2,6,0,0,-6,-3,12,6,1.3,0,NA,0,0,0,70.1,202012130det
+Allen Lazard,LazaAl00,receiving,GNB,3,2,19,0,1,7,3.5,12,6,6.3,0,NA,0,0,0,84,202012130det
+Marcedes Lewis,LewiMa00,receiving,GNB,1,1,6,0,NA,6,6,0,0,6,0,NA,0,0,0,91.7,202012130det
+Equanimeous St. Brown,St.BEq00,receiving,GNB,1,1,15,0,1,15,15,0,0,15,0,NA,0,0,0,118.7,202012130det
+Danny Amendola,AmenDa00,receiving,DET,7,6,66,0,4,28,4.7,38,6.3,5.7,1,6,0,0,0,106,202012130det
+T.J. Hockenson,HockTJ00,receiving,DET,11,6,43,1,4,32,5.3,11,1.8,6.1,0,NA,2,18.2,0,94.1,202012130det
+Marvin Jones,JoneMa02,receiving,DET,8,4,48,0,3,44,11,4,1,14.8,0,NA,0,0,0,68.7,202012130det
+D'Andre Swift,SwifDA00,receiving,DET,5,4,26,0,1,-13,-3.3,39,9.8,-1.6,0,NA,0,0,0,88.3,202012130det
+Mohamed Sanu,SanuMo00,receiving,DET,2,2,37,0,2,28,14,9,4.5,14,0,NA,0,0,0,118.7,202012130det
+Quintez Cephus,CephQu00,receiving,DET,2,2,16,0,1,11,5.5,5,2.5,5.5,0,NA,0,0,0,100,202012130det
+Adrian Peterson,PeteAd01,receiving,DET,1,1,23,0,1,-9,-9,32,32,-9,0,NA,0,0,0,118.7,202012130det
+Kerryon Johnson,JohnKe06,receiving,DET,1,1,10,0,1,-7,-7,17,17,-7,0,NA,0,0,0,108.3,202012130det
+Jamal Agnew,AgneJa00,receiving,DET,1,1,4,0,0,4,4,0,0,4,0,NA,0,0,0,83.3,202012130det

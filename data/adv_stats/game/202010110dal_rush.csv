@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devonta Freeman,FreeDe00,rushing,NYG,17,60,3,33,1.9,27,1.6,1,17,202010110dal
+Wayne Gallman,GallWa00,rushing,NYG,5,24,2,14,2.8,10,2,0,NA,202010110dal
+Evan Engram,EngrEv00,rushing,NYG,2,9,1,9,4.5,0,0,0,NA,202010110dal
+Daniel Jones,JoneDa05,rushing,NYG,2,-7,0,-7,-3.5,0,0,0,NA,202010110dal
+Elijhaa Penny,PennEl00,rushing,NYG,1,3,1,1,1,2,2,0,NA,202010110dal
+Ezekiel Elliott,ElliEz00,rushing,DAL,19,91,7,35,1.8,56,2.9,2,9.5,202010110dal
+Tony Pollard,PollTo00,rushing,DAL,6,30,2,9,1.5,21,3.5,0,NA,202010110dal
+Dak Prescott,PresDa01,rushing,DAL,2,7,0,3,1.5,4,2,1,2,202010110dal
+Amari Cooper,CoopAm00,rushing,DAL,1,-2,0,-2,-2,0,0,0,NA,202010110dal
+Andy Dalton,DaltAn00,rushing,DAL,1,0,0,0,0,0,0,0,NA,202010110dal

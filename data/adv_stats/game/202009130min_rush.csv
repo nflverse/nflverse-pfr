@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,16,66,4,32,2,34,2.1,2,8,202009130min
+Jamaal Williams,WillJa06,rushing,GNB,7,21,3,8,1.1,13,1.9,1,7,202009130min
+Tyler Ervin,ErviTy00,rushing,GNB,3,38,2,30,10,8,2.7,0,NA,202009130min
+Tim Boyle,BoylTi00,rushing,GNB,2,-2,NA,-2,-1,0,0,0,NA,202009130min
+AJ Dillon,DillAJ00,rushing,GNB,2,14,NA,9,4.5,5,2.5,0,NA,202009130min
+Allen Lazard,LazaAl00,rushing,GNB,1,19,1,15,15,4,4,0,NA,202009130min
+Aaron Rodgers,RodgAa00,rushing,GNB,1,2,1,2,2,0,0,0,NA,202009130min
+Dalvin Cook,CookDa01,rushing,MIN,12,50,4,27,2.3,23,1.9,2,6,202009130min
+Alexander Mattison,MattAl01,rushing,MIN,6,50,3,34,5.7,16,2.7,0,NA,202009130min
+Kirk Cousins,CousKi00,rushing,MIN,4,34,3,34,8.5,0,0,0,NA,202009130min

@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeAndre Hopkins,HopkDe00,receiving,ARI,16,14,151,0,8,84,6,67,4.8,6.4,1,14,0,0,0,106,202009130sfo
+Larry Fitzgerald,FitzLa00,receiving,ARI,5,4,34,0,2,11,2.8,23,5.8,3,0,NA,0,0,0,95,202009130sfo
+Chase Edmonds,EdmoCh00,receiving,ARI,5,3,19,1,1,5,1.7,14,4.7,0.4,0,NA,0,0,0,107.5,202009130sfo
+Dan Arnold,ArnoDa00,receiving,ARI,2,2,21,0,1,6,3,15,7.5,3,0,NA,0,0,0,110.4,202009130sfo
+Kenyan Drake,DrakKe00,receiving,ARI,2,2,5,0,0,-6,-3,11,5.5,-3,0,NA,0,0,0,79.2,202009130sfo
+Christian Kirk,KirkCh01,receiving,ARI,5,1,0,0,NA,-3,-3,3,3,14,0,NA,0,0,0,39.6,202009130sfo
+Maxx Williams,WillMa04,receiving,ARI,2,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,1,0,202009130sfo
+George Kittle,KittGe00,receiving,SFO,5,4,44,0,1,28,7,16,4,5.2,0,NA,0,0,0,103.3,202009130sfo
+Raheem Mostert,MostRa00,receiving,SFO,5,4,95,1,3,14,3.5,81,20.3,2.8,0,NA,0,0,0,158.3,202009130sfo
+Jerick McKinnon,McKiJe00,receiving,SFO,5,3,20,1,2,3,1,17,5.7,5.8,0,NA,1,20,0,108.3,202009130sfo
+Kendrick Bourne,BourKe00,receiving,SFO,5,2,34,0,2,17,8.5,17,8.5,11.6,0,NA,0,0,0,63.7,202009130sfo
+Jordan Reed,ReedJo02,receiving,SFO,2,2,12,0,1,5,2.5,7,3.5,2.5,0,NA,0,0,0,91.7,202009130sfo
+Trent Taylor,TaylTr02,receiving,SFO,5,2,7,0,NA,7,3.5,0,0,6.6,0,NA,0,0,0,47.9,202009130sfo
+Tevin Coleman,ColeTe01,receiving,SFO,2,1,6,0,0,6,6,0,0,3,0,NA,0,0,0,56.2,202009130sfo
+Kyle Juszczyk,JuszKy00,receiving,SFO,2,1,41,0,1,18,18,23,23,10,0,NA,1,50,0,95.8,202009130sfo
+Dante Pettis,PettDa00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,34,0,NA,0,0,0,39.6,202009130sfo

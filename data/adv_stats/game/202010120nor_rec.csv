@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Mike Williams,WillMi07,receiving,LAC,8,5,109,2,3,82,16.4,27,5.4,20,0,NA,0,0,0,145.8,202010120nor
+Justin Jackson,JackJu01,receiving,LAC,6,5,23,0,1,-5,-1,28,5.6,-1.5,1,5,1,16.7,0,82.6,202010120nor
+Hunter Henry,HenrHu00,receiving,LAC,8,4,23,1,3,19,4.8,4,1,7.3,0,NA,1,12.5,0,95.8,202010120nor
+Keenan Allen,AlleKe00,receiving,LAC,2,2,29,1,2,29,14.5,0,0,14.5,0,NA,0,0,0,158.3,202010120nor
+Virgil Green,GreeVi00,receiving,LAC,1,1,14,0,1,-5,-5,19,19,-5,0,NA,0,0,0,118.7,202010120nor
+Jalen Guyton,GuytJa01,receiving,LAC,3,1,49,0,1,44,44,5,5,40.3,0,NA,0,0,0,81.9,202010120nor
+K.J. Hill,HillKJ00,receiving,LAC,2,1,8,0,NA,8,8,0,0,9.5,0,NA,1,50,0,60.4,202010120nor
+Joshua Kelley,KellJo01,receiving,LAC,1,1,9,0,1,-6,-6,15,15,-6,0,NA,0,0,0,104.2,202010120nor
+Donald Parham,ParhDo00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,17,0,NA,0,0,0,39.6,202010120nor
+Emmanuel Sanders,SandEm00,receiving,NOR,14,12,122,0,5,104,8.7,18,1.5,8.1,0,NA,0,0,0,103,202010120nor
+Alvin Kamara,KamaAl00,receiving,NOR,10,8,74,0,4,34,4.3,40,5,3.5,1,8,2,20,0,97.5,202010120nor
+Marquez Callaway,CallMa01,receiving,NOR,6,4,34,0,2,24,6,10,2.5,7.2,0,NA,0,0,0,81.2,202010120nor
+Latavius Murray,MurrLa00,receiving,NOR,2,2,23,0,2,6,3,17,8.5,3,1,2,0,0,0,114.6,202010120nor
+Bennie Fowler,FowlBe00,receiving,NOR,6,2,11,0,1,10,5,1,0.5,7.8,0,NA,1,16.7,1,2.8,202010120nor
+Tre'Quan Smith,SmitTr03,receiving,NOR,3,2,8,0,1,5,2.5,3,1.5,6.3,0,NA,0,0,0,70.1,202010120nor
+Jared Cook,CookJa02,receiving,NOR,3,2,52,1,2,42,21,10,5,19,0,NA,0,0,0,149.3,202010120nor
+Josh Hill,HillJo02,receiving,NOR,1,1,1,0,NA,0,0,1,1,0,0,NA,0,0,0,79.2,202010120nor
+Taysom Hill,HillTa00,receiving,NOR,2,0,0,0,0,0,NA,0,NA,3,0,NA,1,50,0,39.6,202010120nor

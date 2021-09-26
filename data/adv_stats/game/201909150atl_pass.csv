@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Carson Wentz,WentCa00,passing,PHI,25,43,231,9,19.6,410,9.5,166,6.6,3.9,65,2.6,3,7.1%,9,21.4%,3,5,8,4,15,32.6%,0,NA,201909150atl
+Josh McCown,McCoJo01,passing,PHI,3,5,24,2,40,22,4.4,9,3,1.8,15,5,1,20.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201909150atl
+Matt Ryan,RyanMa00,passing,ATL,27,43,320,15,34.1,399,9.3,156,5.8,3.6,164,6.1,2,4.7%,5,11.6%,1,13,5,5,11,24.4%,1,4,201909150atl

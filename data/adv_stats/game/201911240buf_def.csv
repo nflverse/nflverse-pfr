@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Todd Davis,DaviTo01,defense,DEN,0,7,5,71.4%,45,9,6.4,0,88.4,4.1,21,24,2,0,0,0,0,13,2,13.3%,201911240buf
+Davontae Harris,HarrDa05,defense,DEN,0,4,3,75.0%,31,10.3,7.8,1,136.5,8.5,21,10,0,0,0,0,0,4,1,20.0%,201911240buf
+Kareem Jackson,JackKa99,defense,DEN,0,3,2,66.7%,20,10,6.7,0,85.4,9.3,14,6,0,0,0,0,0,7,2,22.2%,201911240buf
+Chris Harris Jr.,HarrCh01,defense,DEN,0,3,2,66.7%,39,19.5,13,1,149.3,20,38,1,0,0,0,0,0,6,0,0.0%,201911240buf
+Alexander Johnson,JohnAl01,defense,DEN,0,1,1,100.0%,30,30,30,0,118.7,6,6,24,1,0,1,0,1,15,0,0.0%,201911240buf
+Justin Simmons,SimmJu00,defense,DEN,1,2,1,50.0%,12,12,6,0,29.2,8.5,12,0,0,0,0,0,0,8,0,0.0%,201911240buf
+Von Miller,MillVo00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,0,1,2,3,0,0.0%,201911240buf
+Derek Wolfe,WolfDe00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,201911240buf
+Will Parks,ParkWi01,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,0,0,NA,201911240buf
+Adam Gotsis,GotsAd00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,1,16.7%,201911240buf
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,0,0,0,2,1,33.3%,201911240buf
+Duke Dawson,DawsDu00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201911240buf
+Jeremiah Attaochu,AttaJe00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,4,1,20.0%,201911240buf
+Mike Purcell,PurcMi00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,2,40.0%,201911240buf
+Matt Milano,MilaMa00,defense,BUF,0,5,2,40.0%,5,2.5,1,0,47.9,2.2,-5,10,4,0,1,0,1,6,1,14.3%,201911240buf
+Levi Wallace,WallLe00,defense,BUF,0,3,2,66.7%,-2,-1,-0.7,0,70.1,-1.3,-3,1,2,0,0,0,0,4,0,0.0%,201911240buf
+Jordan Poyer,PoyeJo00,defense,BUF,0,2,2,100.0%,34,17,17,0,118.7,6,12,22,0,0,0,0,0,3,0,0.0%,201911240buf
+Trent Murphy,MurpTr00,defense,BUF,0,2,1,50.0%,11,11,5.5,0,66.7,-1,3,8,0,0,0,0,0,1,1,50.0%,201911240buf
+Tre'Davious White,WhitTr01,defense,BUF,1,7,1,14.3%,27,27,3.9,0,3.6,14.9,21,6,0,0,0,0,0,3,0,0.0%,201911240buf
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,1,1,100.0%,7,7,7,0,95.8,5,5,2,3,0,0,0,0,6,0,0.0%,201911240buf
+Shaq Lawson,LawsSh00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2,4,2,0,0.0%,201911240buf
+Ed Oliver,OlivEd00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,50.0%,201911240buf
+Star Lotulelei,LotuSt00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201911240buf
+Lorenzo Alexander,AlexLo99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,201911240buf
+Micah Hyde,HydeMi00,defense,BUF,0,2,0,0.0%,NA,NA,0,NA,39.6,8,NA,NA,1,0,0,0,0,2,1,33.3%,201911240buf
+Taron Johnson,JohnTa01,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,8,NA,NA,1,0,0,0,0,4,0,0.0%,201911240buf

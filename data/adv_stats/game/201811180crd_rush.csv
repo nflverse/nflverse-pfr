@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+DeAndre Washington,WashDe00,rushing,OAK,12,39,3,17,1.4,22,1.8,0,NA,201811180crd
+Jalen Richard,RichJa01,rushing,OAK,11,61,3,38,3.5,23,2.1,2,5.5,201811180crd
+Doug Martin,MartDo00,rushing,OAK,10,52,3,22,2.2,30,3,0,NA,201811180crd
+David Johnson,JohnDa08,rushing,ARI,25,137,4,76,3,61,2.4,1,25,201811180crd
+Chase Edmonds,EdmoCh00,rushing,ARI,5,17,1,6,1.2,11,2.2,0,NA,201811180crd
+Josh Rosen,RoseJo01,rushing,ARI,1,0,0,0,0,0,0,0,NA,201811180crd

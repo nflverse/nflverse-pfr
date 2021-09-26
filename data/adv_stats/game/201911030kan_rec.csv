@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dalvin Cook,CookDa01,receiving,MIN,7,4,45,0,2,-3,-0.8,48,12,-0.6,0,NA,0,0,0,76.5,201911030kan
+Irv Smith Jr.,SmitIr01,receiving,MIN,6,4,33,0,3,29,7.3,4,1,5.5,0,NA,1,16.7,0,80.6,201911030kan
+Laquon Treadwell,TreaLa00,receiving,MIN,5,3,58,0,3,46,15.3,12,4,16.4,0,NA,0,0,0,100.4,201911030kan
+Kyle Rudolph,RudoKy00,receiving,MIN,5,3,23,1,1,14,4.7,9,3,8,0,NA,0,0,0,110.8,201911030kan
+C.J. Ham,HamxC.00,receiving,MIN,4,2,37,0,1,3,1.5,34,17,1,0,NA,0,0,0,82.3,201911030kan
+Ameer Abdullah,AbduAm00,receiving,MIN,1,1,16,1,1,5,5,11,11,5,0,NA,0,0,0,158.3,201911030kan
+Stefon Diggs,DiggSt00,receiving,MIN,5,1,4,0,0,-1,-1,5,5,10.2,0,NA,0,0,0,39.6,201911030kan
+Olabisi Johnson,JohnOl00,receiving,MIN,2,1,4,1,1,4,4,0,0,7.5,0,NA,0,0,0,95.8,201911030kan
+Alexander Mattison,MattAl01,receiving,MIN,1,0,0,0,NA,0,NA,0,NA,21,0,NA,0,0,0,39.6,201911030kan
+Adam Thielen,ThieAd00,receiving,MIN,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,201911030kan
+Travis Kelce,KelcTr00,receiving,KAN,9,7,62,0,4,45,6.4,17,2.4,7.4,0,NA,0,0,0,95.4,201911030kan
+Sammy Watkins,WatkSa00,receiving,KAN,10,7,63,0,4,58,8.3,5,0.7,6.5,0,NA,0,0,0,86.7,201911030kan
+Tyreek Hill,HillTy00,receiving,KAN,9,6,140,1,6,127,21.2,13,2.2,17.7,0,NA,0,0,0,146.8,201911030kan
+Damien Williams,WillDa05,receiving,KAN,2,2,3,0,0,-8,-4,11,5.5,-4,0,NA,0,0,0,79.2,201911030kan
+Demarcus Robinson,RobiDe01,receiving,KAN,2,1,5,0,1,5,5,0,0,5,0,NA,0,0,0,56.2,201911030kan
+LeSean McCoy,McCoLe01,receiving,KAN,1,1,0,0,NA,-2,-2,2,2,-2,0,NA,0,0,0,79.2,201911030kan
+Blake Bell,BellBl00,receiving,KAN,1,1,2,0,NA,1,1,1,1,1,0,NA,0,0,0,79.2,201911030kan

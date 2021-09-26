@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Kyler Murray,MurrKy00,passing,ARI,27,44,324,13,28.3,534,12.1,187,6.9,4.3,137,5.1,2,4.8%,8,19.0%,2,11,0,3,5,10.9%,0,NA,201911100tam
+Andy Lee,LeexAn20,passing,ARI,1,1,26,1,100,26,26,26,26,26,0,0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201911100tam
+Jameis Winston,WinsJa00,passing,TAM,30,48,358,15,28.8,440,9.2,166,5.5,3.5,192,6.4,0,0.0%,10,22.2%,4,19,0,5,9,16.4%,3,13.3,201911100tam

@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Patrick Robinson,RobiPa99,defense,NOR,0,8,6,75.0%,63,10.5,7.9,0,97.4,14,54,9,0,0,0,0,0,6,1,14.3%,201912220oti
+Marcus Williams,WillMa06,defense,NOR,0,3,3,100.0%,75,25,25,1,158.3,3.3,10,65,0,0,0,0,0,2,2,50.0%,201912220oti
+Janoris Jenkins,JenkJa03,defense,NOR,0,4,3,75.0%,37,12.3,9.3,1,142.7,8,28,9,1,0,0,0,0,2,0,0.0%,201912220oti
+A.J. Klein,KleiAJ00,defense,NOR,0,1,1,100.0%,36,36,36,1,158.3,6,6,30,8,0,0,2,2,3,1,25.0%,201912220oti
+Demario Davis,DaviDe00,defense,NOR,0,3,1,33.3%,10,10,3.3,0,43.7,0,1,9,7,0,0,1,1,11,1,8.3%,201912220oti
+Eli Apple,ApplEl00,defense,NOR,0,1,1,100.0%,12,12,12,0,116.7,9,9,3,0,0,0,0,0,2,0,0.0%,201912220oti
+Chauncey Gardner-Johnson,GardCh00,defense,NOR,0,1,1,100.0%,5,5,5,0,87.5,3,3,2,1,0,0,0,0,8,1,11.1%,201912220oti
+Marshon Lattimore,LattMa01,defense,NOR,0,3,1,33.3%,34,34,11.3,0,77.1,17.3,29,5,0,0,0,0,0,3,0,0.0%,201912220oti
+Cameron Jordan,JordCa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,1,5,4,1,20.0%,201912220oti
+Carl Granderson,GranCa01,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,201912220oti
+Shy Tuttle,TuttSh00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201912220oti
+P.J. Williams,WillP.00,defense,NOR,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,3,0,0,0,0,1,0,0.0%,201912220oti
+Jayon Brown,BrowJa06,defense,TEN,0,7,7,100.0%,55,7.9,7.9,0,99.4,2.7,19,36,2,0,0,0,0,8,0,0.0%,201912220oti
+LeShaun Sims,SimsLe00,defense,TEN,0,8,6,75.0%,105,17.5,13.1,2,156.2,7.9,44,61,0,0,0,0,0,6,1,14.3%,201912220oti
+Logan Ryan,RyanLo00,defense,TEN,0,7,5,71.4%,40,8,5.7,0,85.4,6.4,11,29,1,0,0,0,0,7,0,0.0%,201912220oti
+Tramaine Brock,BrocTr00,defense,TEN,0,5,4,80.0%,17,4.3,3.4,0,80.8,6.6,6,11,2,0,0,0,0,5,0,0.0%,201912220oti
+Rashaan Evans,EvanRa01,defense,TEN,0,3,2,66.7%,28,14,9.3,0,96.5,15,23,5,0,0,0,0,0,7,0,0.0%,201912220oti
+Kevin Byard,ByarKe01,defense,TEN,0,3,2,66.7%,49,24.5,16.3,1,149.3,14,42,7,0,0,0,0,0,4,1,20.0%,201912220oti
+Kamalei Correa,CorrKa00,defense,TEN,0,2,1,50.0%,5,5,2.5,0,56.2,-2,3,2,2,0,0,0,0,0,0,NA,201912220oti
+Derick Roberson,RobeDe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,2,2,2,0,0.0%,201912220oti
+Harold Landry,LandHa00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,5,1,0,0,1,1,0,0.0%,201912220oti
+Jurrell Casey,CaseJu00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201912220oti
+DaQuan Jones,JoneDa04,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201912220oti
+Kenny Vaccaro,VaccKe00,defense,TEN,0,2,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,2,0,0,0,0,2,0,0.0%,201912220oti
+Tye Smith,SmitTy01,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,0,0,NA,201912220oti

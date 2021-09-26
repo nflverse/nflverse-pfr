@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jerry Jeudy,JeudJe00,receiving,DEN,14,7,125,1,6,97,13.9,28,4,13.8,1,7,0,0,1,75,202011080atl
+KJ Hamler,HamlKJ00,receiving,DEN,10,6,75,0,4,43,7.2,32,5.3,10.2,0,NA,1,10,0,83.3,202011080atl
+Tim Patrick,PatrTi00,receiving,DEN,9,4,29,1,2,19,4.8,10,2.5,10.7,0,NA,0,0,0,89.6,202011080atl
+Noah Fant,FantNo00,receiving,DEN,3,3,45,0,2,5,1.7,40,13.3,1.7,1,3,0,0,0,118.7,202011080atl
+DaeSean Hamilton,HamiDa01,receiving,DEN,2,2,12,0,1,7,3.5,5,2.5,3.5,0,NA,0,0,0,91.7,202011080atl
+Nick Vannett,VannNi00,receiving,DEN,1,1,11,0,1,6,6,5,5,6,0,NA,0,0,0,112.5,202011080atl
+Melvin Gordon,GordMe00,receiving,DEN,1,1,9,0,NA,5,5,4,4,5,0,NA,0,0,0,104.2,202011080atl
+Albert Okwuegbunam,OkwuAl00,receiving,DEN,1,1,7,0,1,4,4,3,3,4,1,1,0,0,0,95.8,202011080atl
+Tyrie Cleveland,ClevTy00,receiving,DEN,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,202011080atl
+Phillip Lindsay,LindPh00,receiving,DEN,3,0,0,0,NA,0,NA,0,NA,3.3,0,NA,1,33.3,0,39.6,202011080atl
+Hayden Hurst,HursHa00,receiving,ATL,8,7,62,0,4,22,3.1,40,5.7,5,0,NA,0,0,0,99,202011080atl
+Julio Jones,JoneJu02,receiving,ATL,7,5,54,1,3,43,8.6,11,2.2,6.4,1,5,0,0,0,133.3,202011080atl
+Olamide Zaccheaus,ZaccOl01,receiving,ATL,6,4,103,1,4,92,23,11,2.8,24.2,0,NA,0,0,1,109.7,202011080atl
+Christian Blake,BlakCh00,receiving,ATL,3,3,31,0,1,28,9.3,3,1,9.3,0,NA,0,0,0,109.7,202011080atl
+Todd Gurley,GurlTo01,receiving,ATL,2,2,2,0,0,-7,-3.5,9,4.5,-3.5,0,NA,0,0,0,79.2,202011080atl
+Russell Gage,GageRu00,receiving,ATL,6,2,11,0,1,7,3.5,4,2,12.3,0,NA,0,0,0,42.4,202011080atl
+Brandon Powell,PoweBr00,receiving,ATL,1,1,9,1,1,8,8,1,1,8,0,NA,0,0,0,143.7,202011080atl
+Luke Stocker,StocLu00,receiving,ATL,1,1,12,0,1,2,2,10,10,2,0,NA,0,0,0,116.7,202011080atl
+Brian Hill,HillBr02,receiving,ATL,1,0,0,0,0,0,NA,0,NA,1,0,NA,1,100,0,39.6,202011080atl

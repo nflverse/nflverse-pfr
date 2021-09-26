@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,DEN,13,31,2,19,1.5,12,0.9,0,NA,202109190jax
+Javonte Williams,WillJa10,rushing,DEN,13,64,5,29,2.2,35,2.7,4,3.3,202109190jax
+Teddy Bridgewater,BridTe00,rushing,DEN,4,1,2,0,0,1,0.3,0,NA,202109190jax
+James Robinson,RobiJa00,rushing,JAX,11,47,1,30,2.7,17,1.5,1,11,202109190jax
+Carlos Hyde,HydeCa00,rushing,JAX,2,7,NA,3,1.5,4,2,0,NA,202109190jax
+Trevor Lawrence,LawrTr00,rushing,JAX,2,21,2,17,8.5,4,2,0,NA,202109190jax
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,1,0,0,0,0,0,0,0,NA,202109190jax

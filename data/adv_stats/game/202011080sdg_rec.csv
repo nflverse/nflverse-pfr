@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Darren Waller,WallDa01,receiving,LVR,10,5,22,1,1,1,0.2,21,4.2,7.6,0,NA,1,10,0,89.6,202011080sdg
+Nelson Agholor,AghoNe00,receiving,LVR,3,2,55,1,2,54,27,1,0.5,23.7,0,NA,0,0,0,149.3,202011080sdg
+Hunter Renfrow,RenfHu00,receiving,LVR,3,2,60,0,1,50,25,10,5,18.7,0,NA,0,0,0,109.7,202011080sdg
+Jason Witten,WittJa00,receiving,LVR,1,1,0,0,NA,-1,-1,1,1,-1,0,NA,0,0,0,79.2,202011080sdg
+Alec Ingold,IngoAl01,receiving,LVR,1,1,6,0,1,-4,-4,10,10,-4,1,1,0,0,0,91.7,202011080sdg
+Josh Jacobs,JacoJo01,receiving,LVR,1,1,3,0,0,3,3,0,0,3,0,NA,0,0,0,79.2,202011080sdg
+Jalen Richard,RichJa01,receiving,LVR,1,1,19,0,1,6,6,13,13,6,0,NA,0,0,0,118.7,202011080sdg
+Henry Ruggs III,RuggHe00,receiving,LVR,3,0,0,0,0,0,NA,0,NA,24.7,0,NA,0,0,0,39.6,202011080sdg
+Keenan Allen,AlleKe00,receiving,LAC,11,9,103,1,6,54,6,49,5.4,5.9,0,NA,0,0,0,136,202011080sdg
+Joshua Kelley,KellJo01,receiving,LAC,5,5,31,0,2,4,0.8,27,5.4,0.8,1,5,0,0,0,92.5,202011080sdg
+Mike Williams,WillMi07,receiving,LAC,7,5,81,0,4,65,13,16,3.2,11.4,0,NA,1,14.3,0,109.8,202011080sdg
+Hunter Henry,HenrHu00,receiving,LAC,7,4,33,0,3,29,7.3,4,1,8,0,NA,0,0,0,69.3,202011080sdg
+Kalen Ballage,BallKa00,receiving,LAC,3,2,15,0,1,-3,-1.5,18,9,0.7,1,2,0,0,0,78.5,202011080sdg
+Gabe Nabers,NabeGa00,receiving,LAC,1,1,4,1,1,-6,-6,10,10,-6,0,NA,0,0,0,122.9,202011080sdg
+Tyron Johnson,JohnTy03,receiving,LAC,1,1,50,0,1,50,50,0,0,50,0,NA,0,0,0,118.7,202011080sdg
+Jalen Guyton,GuytJa01,receiving,LAC,2,1,9,0,NA,2,2,7,7,21.5,0,NA,0,0,0,62.5,202011080sdg
+Donald Parham,ParhDo00,receiving,LAC,3,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,0,39.6,202011080sdg
+Joe Reed,ReedJo03,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,-9,0,NA,0,0,0,39.6,202011080sdg

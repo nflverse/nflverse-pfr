@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Marlon Mack,MackMa00,rushing,IND,25,132,6,94,3.8,38,1.5,0,NA,201810280rai
+Nyheim Hines,HineNy00,rushing,IND,11,78,4,35,3.2,43,3.9,1,11,201810280rai
+Andrew Luck,LuckAn00,rushing,IND,2,-2,0,-2,-1,0,0,0,NA,201810280rai
+Jordan Wilkins,WilkJo01,rushing,IND,2,14,1,14,7,0,0,0,NA,201810280rai
+Doug Martin,MartDo00,rushing,OAK,13,72,4,36,2.8,36,2.8,0,NA,201810280rai
+Derek Carr,CarrDe02,rushing,OAK,2,0,1,0,0,0,0,0,NA,201810280rai
+Jalen Richard,RichJa01,rushing,OAK,2,14,1,3,1.5,11,5.5,0,NA,201810280rai
+Dwayne Harris,HarrDw00,rushing,OAK,1,13,1,11,11,2,2,0,NA,201810280rai
+DeAndre Washington,WashDe00,rushing,OAK,1,4,NA,0,0,4,4,1,1,201810280rai

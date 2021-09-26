@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+A.J. Brown,BrowAJ00,receiving,TEN,11,10,151,1,7,117,11.7,34,3.4,11.6,0,NA,0,0,0,149.1,202101030htx
+Corey Davis,DaviCo03,receiving,TEN,11,5,39,0,2,25,5,14,2.8,13.6,1,5,2,18.2,0,54.7,202101030htx
+Anthony Firkser,FirkAn00,receiving,TEN,2,2,18,0,1,12,6,6,3,6,2,1,0,0,0,104.2,202101030htx
+Jonnu Smith,SmitJo01,receiving,TEN,2,1,8,0,NA,5,5,3,3,5,1,1,0,0,0,60.4,202101030htx
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,11,0,NA,0,0,0,39.6,202101030htx
+Brandin Cooks,CookBr00,receiving,HOU,16,11,166,2,7,150,13.6,16,1.5,14.3,0,NA,1,6.3,1,116.1,202101030htx
+Keke Coutee,CoutKe00,receiving,HOU,7,6,90,0,2,59,9.8,31,5.2,10.1,0,NA,0,0,0,118.7,202101030htx
+Pharaoh Brown,BrowPh01,receiving,HOU,5,5,48,1,4,35,7,13,2.6,7,1,5,0,0,0,146.2,202101030htx
+David Johnson,JohnDa08,receiving,HOU,5,3,36,0,1,8,2.7,28,9.3,2,0,NA,1,20,0,82.1,202101030htx
+Chad Hansen,HansCh00,receiving,HOU,4,2,16,0,1,12,6,4,2,9.8,0,NA,0,0,0,60.4,202101030htx
+Jordan Akins,AkinJo00,receiving,HOU,2,1,9,0,1,8,8,1,1,7,0,NA,0,0,0,62.5,202101030htx
+Steven Mitchell,MitcSt02,receiving,HOU,1,1,20,0,1,18,18,2,2,18,0,NA,0,0,0,118.7,202101030htx

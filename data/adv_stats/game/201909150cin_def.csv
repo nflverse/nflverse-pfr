@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Richard Sherman,SherRi00,defense,SFO,0,6,6,100.0%,30,5,5,0,87.5,1.5,9,21,0,0,0,0,0,4,1,20.0%,201909150cin
+K'Waun Williams,WillKW00,defense,SFO,0,8,6,75.0%,105,17.5,13.1,1,156.2,5.9,47,58,3,0,0,0,0,7,1,12.5%,201909150cin
+D.J. Reed,ReedD.00,defense,SFO,0,6,3,50.0%,81,27,13.5,1,135.4,9.2,27,54,0,0,0,0,0,3,1,25.0%,201909150cin
+Kwon Alexander,AlexKw00,defense,SFO,1,7,3,42.9%,21,7,3,0,10.7,5.3,9,12,0,0,0,0,0,6,1,14.3%,201909150cin
+Fred Warner,WarnFr00,defense,SFO,0,2,2,100.0%,20,10,10,0,108.3,8,16,4,0,0,0,0,0,7,0,0.0%,201909150cin
+Emmanuel Moseley,MoseEm00,defense,SFO,0,2,2,100.0%,17,8.5,8.5,0,102.1,0,0,17,0,0,0,0,0,0,1,100.0%,201909150cin
+Jaquiski Tartt,TartJa00,defense,SFO,0,3,2,66.7%,19,9.5,6.3,0,84,7.3,11,8,1,0,0,0,0,5,0,0.0%,201909150cin
+Dre Greenlaw,GreeDr00,defense,SFO,0,3,2,66.7%,7,3.5,2.3,0,70.1,9,2,5,0,0,0,0,0,3,0,0.0%,201909150cin
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,1,1,100.0%,21,21,21,0,118.7,9,9,12,0,0,0,0,0,1,1,50.0%,201909150cin
+Ahkello Witherspoon,WithAh00,defense,SFO,0,6,1,16.7%,14,14,2.3,0,39.6,19,12,2,0,0,0,0,0,5,0,0.0%,201909150cin
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201909150cin
+Solomon Thomas,ThomSo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,0,0.0%,201909150cin
+Dee Ford,FordDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201909150cin
+DeForest Buckner,BuckDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201909150cin
+Ronald Blair,BlaiRo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,5,0,0.0%,201909150cin
+Jullian Taylor,TaylJu00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201909150cin
+Tarvarius Moore,MoorTa00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201909150cin
+Dre Kirkpatrick,KirkDr00,defense,CIN,0,8,5,62.5%,97,19.4,12.1,1,144.3,8.3,29,68,0,0,0,0,0,6,1,14.3%,201909150cin
+Preston Brown,BrowPr00,defense,CIN,0,3,3,100.0%,27,9,9,0,104.2,2,6,21,1,0,0,0,0,14,0,0.0%,201909150cin
+Shawn Williams,WillSh02,defense,CIN,0,3,2,66.7%,34,17,11.3,0,104.9,10.7,32,2,0,0,0,0,0,9,1,10.0%,201909150cin
+Jessie Bates III,BateJe00,defense,CIN,0,2,2,100.0%,74,37,37,1,158.3,19.5,39,35,0,0,0,0,0,11,1,8.3%,201909150cin
+Geno Atkins,AtkiGe99,defense,CIN,0,1,1,100.0%,16,16,16,0,118.7,-4,-4,20,0,0,0,0,0,5,0,0.0%,201909150cin
+B.W. Webb,WebbBW00,defense,CIN,0,1,1,100.0%,7,7,7,0,95.8,7,7,0,1,0,0,0,0,1,0,0.0%,201909150cin
+Nick Vigil,VigiNi00,defense,CIN,0,2,1,50.0%,7,7,3.5,0,58.3,13,-4,11,2,0,0,0,0,2,1,33.3%,201909150cin
+William Jackson III,JackWi02,defense,CIN,1,4,1,25.0%,11,11,2.8,0,0,11.3,-3,14,0,0,0,0,0,1,1,50.0%,201909150cin
+Ryan Glasgow,GlasRy00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,1,0,0.0%,201909150cin
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,6,0,0.0%,201909150cin
+Josh Tupou,TupoJo00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201909150cin
+Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,5,1,16.7%,201909150cin
+Carl Lawson,LawsCa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,1,50.0%,201909150cin

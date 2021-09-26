@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Matt Moore,MoorMa01,passing,KAN,10,19,117,4,20,147,7.7,51,5.1,2.7,66,6.6,1,5.3%,4,21.1%,1,7,2,2,5,25.0%,0,NA,201910170den
+Patrick Mahomes,MahoPa00,passing,KAN,10,11,76,3,27.3,25,2.3,12,1.2,1.1,64,6.4,0,0.0%,0,0.0%,0,4,1,0,1,9.1%,0,NA,201910170den
+Joe Flacco,FlacJo00,passing,DEN,21,34,213,8,19,314,9.2,117,5.6,3.4,96,4.6,3,9.1%,6,18.2%,8,16,4,1,13,31.0%,0,NA,201910170den

@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Chris Godwin,GodwCh00,receiving,TAM,9,7,125,2,7,90,12.9,35,5,15.2,0,NA,1,11.1,0,158.3,201910060nor
+Ronald Jones II,JoneRo01,receiving,TAM,3,2,21,0,1,-6,-3,27,13.5,-0.7,0,NA,1,33.3,0,86.8,201910060nor
+Dare Ogunbowale,OgunDa00,receiving,TAM,3,2,27,0,2,6,3,21,10.5,2.7,0,NA,0,0,0,95.1,201910060nor
+Peyton Barber,BarbPe01,receiving,TAM,1,1,-1,0,0,-2,-2,1,1,-2,0,NA,0,0,0,79.2,201910060nor
+Cameron Brate,BratCa00,receiving,TAM,1,1,11,0,1,6,6,5,5,6,0,NA,0,0,0,112.5,201910060nor
+O.J. Howard,HowaO.00,receiving,TAM,2,1,10,0,1,4,4,6,6,14,0,NA,0,0,0,64.6,201910060nor
+Bobo Wilson,WilsJe00,receiving,TAM,2,1,11,0,NA,10,10,1,1,8.5,0,NA,0,0,0,66.7,201910060nor
+Mike Evans,EvanMi00,receiving,TAM,3,0,0,0,NA,0,NA,0,NA,7.3,0,NA,0,0,0,39.6,201910060nor
+Scott Miller,MillSc01,receiving,TAM,2,0,0,0,0,0,NA,0,NA,9.5,0,NA,0,0,0,39.6,201910060nor
+Michael Thomas,ThomMi05,receiving,NOR,13,11,182,2,9,127,11.5,55,5,11.1,1,11,1,7.7,0,158.3,201910060nor
+Alvin Kamara,KamaAl00,receiving,NOR,7,6,42,0,3,-12,-2,54,9,-0.3,1,6,1,14.3,1,52.1,201910060nor
+Jared Cook,CookJa02,receiving,NOR,6,4,41,1,3,28,7,13,3.3,7.3,0,NA,0,0,0,125.7,201910060nor
+Josh Hill,HillJo02,receiving,NOR,4,3,39,0,2,25,8.3,14,4.7,9,0,NA,0,0,0,105.2,201910060nor
+Ted Ginn Jr.,GinnTe00,receiving,NOR,2,2,35,1,1,35,17.5,0,0,17.5,0,NA,0,0,0,158.3,201910060nor
+Latavius Murray,MurrLa00,receiving,NOR,2,2,6,0,0,3,1.5,3,1.5,1.5,0,NA,0,0,0,79.2,201910060nor

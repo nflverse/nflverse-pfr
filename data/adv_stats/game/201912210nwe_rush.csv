@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devin Singletary,SingDe00,rushing,BUF,15,46,2,18,1.2,28,1.9,1,15,201912210nwe
+Josh Allen,AlleJo02,rushing,BUF,7,43,4,36,5.1,7,1,0,NA,201912210nwe
+John Brown,BrowJo02,rushing,BUF,1,3,0,3,3,0,0,0,NA,201912210nwe
+Sony Michel,MichSo00,rushing,NWE,21,96,5,29,1.4,67,3.2,6,3.5,201912210nwe
+Rex Burkhead,BurkRe00,rushing,NWE,5,20,2,14,2.8,6,1.2,2,2.5,201912210nwe
+Tom Brady,BradTo00,rushing,NWE,4,4,1,4,1,0,0,0,NA,201912210nwe
+James White,WhitJa02,rushing,NWE,3,5,1,2,0.7,3,1,0,NA,201912210nwe
+N'Keal Harry,HarrNK00,rushing,NWE,2,18,1,0,0,18,9,1,2,201912210nwe

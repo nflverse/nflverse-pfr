@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Deshaun Watson,WatsDe00,passing,HOU,22,32,310,13,36.1,399,12.5,239,10.9,7.5,71,3.2,0,0.0%,3,10.3%,4,11,10,6,20,50.0%,4,11,201809160oti
+Blaine Gabbert,GabbBl00,passing,TEN,13,20,117,6,28.6,108,5.4,48,3.7,2.4,69,5.3,1,5.3%,3,15.8%,1,13,2,1,4,19.0%,0,NA,201809160oti
+Kevin Byard,ByarKe01,passing,TEN,1,1,66,1,100,17,17,17,17,17,49,49,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201809160oti
+Derrick Henry,HenrDe00,passing,TEN,1,1,8,0,0,-3,-3,-3,-3,-3,11,11,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201809160oti

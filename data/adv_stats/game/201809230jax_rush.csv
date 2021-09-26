@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,18,57,1,21,1.2,36,2,5,3.6,201809230jax
+Dion Lewis,LewiDi00,rushing,TEN,9,26,1,6,0.7,20,2.2,1,9,201809230jax
+Marcus Mariota,MariMa01,rushing,TEN,7,51,4,20,2.9,31,4.4,3,2.3,201809230jax
+Tajae Sharpe,SharTa00,rushing,TEN,1,16,1,-1,-1,17,17,0,NA,201809230jax
+T.J. Yeldon,YeldT.00,rushing,JAX,7,44,4,15,2.1,29,4.1,2,3.5,201809230jax
+Corey Grant,GranCo00,rushing,JAX,6,11,NA,9,1.5,2,0.3,0,NA,201809230jax
+Blake Bortles,BortBl00,rushing,JAX,5,27,2,12,2.4,15,3,1,5,201809230jax
+Brandon Wilds,WildBr01,rushing,JAX,1,5,NA,4,4,1,1,0,NA,201809230jax

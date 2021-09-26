@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Todd Gurley,GurlTo01,rushing,LAR,22,77,5,39,1.8,38,1.7,2,11,201810070sea
+Jared Goff,GoffJa00,rushing,LAR,5,15,2,15,3,0,0,0,NA,201810070sea
+Robert Woods,WoodRo02,rushing,LAR,2,53,1,15,7.5,38,19,0,NA,201810070sea
+Josh Reynolds,ReynJo00,rushing,LAR,1,10,1,6,6,4,4,0,NA,201810070sea
+Chris Carson,CarsCh00,rushing,SEA,19,116,5,55,2.9,61,3.2,2,9.5,201810070sea
+Mike Davis,DaviMi01,rushing,SEA,12,68,3,51,4.3,17,1.4,0,NA,201810070sea
+Tyler Lockett,LockTy00,rushing,SEA,1,6,0,3,3,3,3,0,NA,201810070sea

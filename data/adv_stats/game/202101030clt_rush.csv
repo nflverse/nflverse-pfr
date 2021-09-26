@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dare Ogunbowale,OgunDa00,rushing,JAX,14,50,2,26,1.9,24,1.7,1,14,202101030clt
+Mike Glennon,GlenMi00,rushing,JAX,1,2,1,2,2,0,0,0,NA,202101030clt
+Terry Godwin,GodwTe00,rushing,JAX,1,3,0,1,1,2,2,0,NA,202101030clt
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,1,-2,0,-2,-2,0,0,1,1,202101030clt
+Jonathan Taylor,TaylJo02,rushing,IND,30,253,10,172,5.7,81,2.7,4,7.5,202101030clt
+Jacoby Brissett,BrisJa00,rushing,IND,2,3,1,1,0.5,2,1,0,NA,202101030clt
+Nyheim Hines,HineNy00,rushing,IND,2,17,1,16,8,1,0.5,0,NA,202101030clt
+Philip Rivers,RivePh00,rushing,IND,2,-2,0,-2,-1,0,0,0,NA,202101030clt
+Michael Pittman Jr.,PittMi01,rushing,IND,1,2,0,0,0,2,2,0,NA,202101030clt

@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Alshon Jeffery,JeffAl00,receiving,PHI,12,8,74,2,6,38,4.8,36,4.5,8.7,0,NA,1,8.3,0,122.9,201810110nyg
+Zach Ertz,ErtzZa00,receiving,PHI,9,7,43,1,3,43,6.1,0,0,6,0,NA,0,0,0,123.6,201810110nyg
+Nelson Agholor,AghoNe00,receiving,PHI,5,3,91,0,2,43,14.3,48,16,11.4,0,NA,0,0,0,104.2,201810110nyg
+Corey Clement,ClemCo00,receiving,PHI,3,3,26,0,2,-13,-4.3,39,13,-4.3,0,NA,0,0,0,102.8,201810110nyg
+Jordan Matthews,MattJo00,receiving,PHI,3,2,26,0,2,18,9,8,4,9.7,0,NA,0,0,0,93.7,201810110nyg
+DeAndre Carter,CartDe02,receiving,PHI,1,1,11,0,NA,1,1,10,10,1,0,NA,0,0,0,112.5,201810110nyg
+Dallas Goedert,GoedDa00,receiving,PHI,1,1,7,0,NA,5,5,2,2,5,0,NA,0,0,0,95.8,201810110nyg
+Wendell Smallwood,SmalWe00,receiving,PHI,2,1,0,0,0,-1,-1,1,1,-1.5,0,NA,0,0,0,56.2,201810110nyg
+Saquon Barkley,BarkSa00,receiving,NYG,12,9,99,0,2,-17,-1.9,116,12.9,-0.7,3,3,0,0,0,99,201810110nyg
+Odell Beckham Jr.,BeckOd00,receiving,NYG,10,6,44,0,3,20,3.3,24,4,6.8,2,3,0,0,0,70.4,201810110nyg
+Cody Latimer,LatiCo00,receiving,NYG,4,3,52,0,1,37,12.3,15,5,17.8,0,NA,0,0,0,116.7,201810110nyg
+Sterling Shepard,ShepSt00,receiving,NYG,7,3,37,0,2,13,4.3,24,8,7.3,0,NA,0,0,0,59.8,201810110nyg
+Wayne Gallman,GallWa00,receiving,NYG,5,2,25,0,2,8,4,17,8.5,0.4,1,2,1,20,0,56.2,201810110nyg
+Scott Simonson,SimoSc00,receiving,NYG,3,1,24,0,1,19,19,5,5,9.7,0,NA,0,0,1,23.6,201810110nyg
+Jawill Davis,DaviJa07,receiving,NYG,2,0,0,0,NA,0,NA,0,NA,31,0,NA,0,0,0,39.6,201810110nyg

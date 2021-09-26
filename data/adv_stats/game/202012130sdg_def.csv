@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+AJ Terrell,TerrAJ00,defense,ATL,0,15,11,73.3%,72,6.5,4.8,1,105.4,10.8,56,16,0,0,0,0,0,13,0,0.0%,202012130sdg
+Foyesade Oluokun,OluoFo00,defense,ATL,0,9,7,77.8%,36,5.1,4,0,83.3,2.8,-4,40,7,0,1,1,2,11,1,8.3%,202012130sdg
+Deion Jones,JoneDe01,defense,ATL,0,6,6,100.0%,42,7,7,0,95.8,-1.8,-11,53,5,0,0,0,0,6,1,14.3%,202012130sdg
+Isaiah Oliver,OlivIs00,defense,ATL,0,6,6,100.0%,67,11.2,11.2,1,152.8,7.5,45,22,1,0,0,0,0,5,1,16.7%,202012130sdg
+Darqueze Dennard,DennDa00,defense,ATL,0,3,3,100.0%,5,1.7,1.7,0,79.2,1.7,5,0,0,0,0,0,0,4,0,0.0%,202012130sdg
+Keanu Neal,NealKe01,defense,ATL,0,3,2,66.7%,17,8.5,5.7,0,81.2,4.3,12,5,1,1,0,0,1,5,1,16.7%,202012130sdg
+Sharrod Neasman,NeasSh00,defense,ATL,0,2,1,50.0%,4,4,2,0,56.2,24.5,0,4,0,0,0,0,0,3,1,25.0%,202012130sdg
+Blidi Wreh-Wilson,WrehBl00,defense,ATL,1,1,1,100.0%,NA,NA,0,NA,39.6,7,NA,NA,1,0,0,0,0,0,0,NA,202012130sdg
+Mykal Walker,WalkMy00,defense,ATL,0,1,1,100.0%,0,0,0,0,79.2,-5,-5,5,0,0,0,0,0,5,0,0.0%,202012130sdg
+Jacob Tuioti-Mariner,TuioJa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,202012130sdg
+Dante Fowler,FowlDa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,0,2,2,1,33.3%,202012130sdg
+John Cominsky,ComiJo00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202012130sdg
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202012130sdg
+Tyeler Davison,DaviTy01,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,7,1,12.5%,202012130sdg
+Edmond Robinson,RobiEd00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202012130sdg
+Casey Hayward,HaywCa00,defense,LAC,0,9,6,66.7%,79,13.2,8.8,0,94.2,9.3,49,30,0,0,0,0,0,5,1,16.7%,202012130sdg
+Kenneth Murray,MurrKe00,defense,LAC,0,4,4,100.0%,32,8,8,0,100,4,16,16,2,0,0,0,0,6,0,0.0%,202012130sdg
+Nick Vigil,VigiNi00,defense,LAC,0,3,3,100.0%,9,3,3,0,79.2,-1.3,-4,13,0,0,0,0,0,5,0,0.0%,202012130sdg
+Chris Harris Jr.,HarrCh01,defense,LAC,0,4,3,75.0%,83,27.7,20.8,2,156.2,23.3,50,33,0,0,0,0,0,2,1,33.3%,202012130sdg
+Kyzir White,WhitKy00,defense,LAC,0,2,2,100.0%,7,3.5,3.5,0,81.2,0,0,7,0,0,0,0,0,7,0,0.0%,202012130sdg
+Michael Davis,DaviMi03,defense,LAC,1,5,2,40.0%,30,15,6,0,20.8,18.2,25,5,0,0,0,0,0,0,0,NA,202012130sdg
+Jahleel Addae,AddaJa00,defense,LAC,1,1,1,100.0%,NA,NA,0,NA,39.6,4,NA,NA,1,0,0,0,0,2,1,33.3%,202012130sdg
+Nasir Adderley,AddeNa00,defense,LAC,0,2,1,50.0%,19,19,9.5,0,83.3,22.5,15,4,1,0,0,0,0,3,2,40.0%,202012130sdg
+Rayshawn Jenkins,JenkRa00,defense,LAC,1,2,1,50.0%,4,4,2,0,16.7,-1,1,3,0,0,0,0,0,6,0,0.0%,202012130sdg
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,0,3,3,0,0.0%,202012130sdg
+Uchenna Nwosu,NwosUc00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,1,2,1,0,0.0%,202012130sdg
+Jerry Tillery,TillJe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,2,40.0%,202012130sdg
+Isaac Rochell,RochIs00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202012130sdg
+Justin Jones,JoneJu03,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202012130sdg
+Linval Joseph,JoseLi99,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202012130sdg

@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Drew Brees,BreeDr00,passing,NOR,18,32,217,10,30.3,239,7.5,98,5.4,3.1,119,6.6,2,6.9%,5,17.2%,1,13,6,1,8,24.2%,0,NA,201809300nyg
+Taysom Hill,HillTa00,passing,NOR,1,2,10,1,50,16,8,8,8,4,2,2,1,50.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201809300nyg
+Eli Manning,MannEl00,passing,NYG,31,41,255,18,40.9,250,6.1,117,3.8,2.9,138,4.5,0,0.0%,8,20.0%,3,12,5,2,10,22.2%,1,6,201809300nyg

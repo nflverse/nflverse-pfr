@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Ezekiel Elliott,ElliEz00,receiving,DAL,8,7,79,0,3,12,1.7,67,9.6,1.8,0,NA,0,0,0,107.8,201811180atl
+Cole Beasley,BeasCo00,receiving,DAL,7,5,51,0,3,26,5.2,25,5,6.3,0,NA,1,14.3,0,92,201811180atl
+Geoff Swaim,SwaiGe00,receiving,DAL,5,4,24,0,1,7,1.8,17,4.3,3.6,0,NA,0,0,0,86.7,201811180atl
+Amari Cooper,CoopAm00,receiving,DAL,5,3,36,0,2,25,8.3,11,3.7,7.2,0,NA,0,0,0,82.1,201811180atl
+Rod Smith,SmitRo06,receiving,DAL,2,2,8,0,NA,-1,-0.5,9,4.5,-0.5,1,2,0,0,0,83.3,201811180atl
+Michael Gallup,GallMi00,receiving,DAL,5,1,10,0,1,10,10,0,0,21.4,0,NA,1,20,0,39.6,201811180atl
+Julio Jones,JoneJu02,receiving,ATL,9,6,118,1,5,96,16,22,3.7,21.6,0,NA,0,0,0,146.8,201811180atl
+Austin Hooper,HoopAu00,receiving,ATL,8,4,27,0,NA,17,4.3,10,2.5,4.4,0,NA,1,12.5,0,57.8,201811180atl
+Mohamed Sanu,SanuMo00,receiving,ATL,6,4,56,0,4,36,9,20,5,12.3,1,4,1,16.7,0,96.5,201811180atl
+Tevin Coleman,ColeTe01,receiving,ATL,3,3,27,0,2,-10,-3.3,37,12.3,-3.3,1,3,0,0,0,104.2,201811180atl
+Calvin Ridley,RidlCa00,receiving,ATL,4,3,32,0,1,27,9,5,1.7,9.3,0,NA,1,25,1,58.3,201811180atl
+Logan Paulsen,PaulLo00,receiving,ATL,2,2,19,0,1,3,1.5,16,8,1.5,0,NA,0,0,0,106.2,201811180atl
+Ito Smith,SmitIt00,receiving,ATL,2,2,12,0,NA,-1,-0.5,13,6.5,-0.5,0,NA,0,0,0,91.7,201811180atl

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Christian McCaffrey,McCaCh01,rushing,CAR,13,53,4,28,2.2,25,1.9,0,NA,201811180det
+Cam Newton,NewtCa00,rushing,CAR,2,2,0,2,1,0,0,0,NA,201811180det
+Cameron Artis-Payne,ArtiCa00,rushing,CAR,1,1,NA,0,0,1,1,0,NA,201811180det
+Kerryon Johnson,JohnKe06,rushing,DET,15,87,9,29,1.9,58,3.9,3,5,201811180det
+LeGarrette Blount,BlouLe00,rushing,DET,7,1,NA,-6,-0.9,7,1,0,NA,201811180det
+Matthew Stafford,StafMa00,rushing,DET,3,6,0,6,2,0,0,0,NA,201811180det
+Theo Riddick,RiddTh00,rushing,DET,1,0,0,0,0,0,0,0,NA,201811180det

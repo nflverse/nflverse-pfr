@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Xavier Rhodes,RhodXa00,defense,MIN,0,11,6,54.5%,71,11.8,6.5,0,74.4,14.2,48,23,0,0,0,0,0,6,0,0.0%,201812230det
+Eric Wilson,WilsEr00,defense,MIN,0,6,4,66.7%,24,6,4,0,74.3,-0.2,-2,26,4,0,0,1,1,9,1,10.0%,201812230det
+Trae Waynes,WaynTr00,defense,MIN,0,5,4,80.0%,20,5,4,0,83.3,5.4,11,9,0,0,0,0,0,3,0,0.0%,201812230det
+Mackensie Alexander,AlexMa01,defense,MIN,0,6,3,50.0%,22,7.3,3.7,0,59,6,10,12,1,0,0,0,0,4,0,0.0%,201812230det
+Anthony Barr,BarrAn00,defense,MIN,0,3,2,66.7%,11,5.5,3.7,0,72.9,0.7,-2,13,6,0,0,0,0,5,0,0.0%,201812230det
+Ben Gedeon,GedeBe00,defense,MIN,0,4,2,50.0%,16,8,4,0,60.4,2.5,8,8,1,0,0,0,0,8,0,0.0%,201812230det
+Anthony Harris,HarrAn01,defense,MIN,0,1,1,100.0%,0,0,0,0,79.2,-2,-2,2,0,0,0,0,0,5,0,0.0%,201812230det
+Kentrell Brothers,BrotKe00,defense,MIN,0,1,0,0.0%,NA,NA,0,NA,39.6,8,NA,NA,1,0,0,1,1,2,0,0.0%,201812230det
+Everson Griffen,GrifEv99,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,2,50.0%,201812230det
+Harrison Smith,SmitHa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,7,0,0.0%,201812230det
+Nevin Lawson,LawsNe00,defense,DET,0,4,3,75.0%,27,9,6.8,0,92.7,11.3,25,2,1,0,0,1,1,5,0,0.0%,201812230det
+Jarrad Davis,DaviJa01,defense,DET,0,3,3,100.0%,17,5.7,5.7,0,90.3,-1,-3,20,4,0,0,0,0,4,1,20.0%,201812230det
+DeShawn Shead,SheaDe00,defense,DET,0,3,3,100.0%,101,33.7,33.7,1,158.3,31,93,8,1,0,0,0,0,1,1,50.0%,201812230det
+Quandre Diggs,DiggQu00,defense,DET,0,3,3,100.0%,29,9.7,9.7,0,106.9,8.7,26,3,0,0,0,0,0,7,2,22.2%,201812230det
+Christian Jones,JoneCh05,defense,DET,0,2,2,100.0%,32,16,16,0,118.7,-0.5,-1,33,2,0,0,0,0,5,2,28.6%,201812230det
+Darius Slay,SlayDa00,defense,DET,0,6,2,33.3%,15,7.5,2.5,0,42.4,14.2,12,3,0,0,0,0,0,4,0,0.0%,201812230det
+Tavon Wilson,WilsTa00,defense,DET,0,2,2,100.0%,5,2.5,2.5,0,79.2,1,2,3,1,0,0,0,0,4,0,0.0%,201812230det
+Glover Quin,QuinGl99,defense,DET,0,1,1,100.0%,4,4,4,1,122.9,-1,-1,5,1,0,0,0,0,4,0,0.0%,201812230det
+Romeo Okwara,OkwaRo01,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,0,1,2,1,0,0.0%,201812230det
+Tracy Walker,WalkTr01,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201812230det
+Mike Ford,FordMi01,defense,DET,0,2,0,0.0%,NA,NA,0,NA,39.6,25.5,NA,NA,0,0,0,0,0,1,0,0.0%,201812230det
+Devon Kennard,KennDe00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,0,0,0,2,0,0.0%,201812230det

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Todd Gurley,GurlTo01,rushing,LAR,14,97,4,30,2.1,67,4.8,3,4.7,201909080car
+Malcolm Brown,BrowMa03,rushing,LAR,11,53,4,-2,-0.2,55,5,5,2.2,201909080car
+Jared Goff,GoffJa00,rushing,LAR,4,0,0,0,0,0,0,0,NA,201909080car
+Robert Woods,WoodRo02,rushing,LAR,2,16,1,14,7,2,1,0,NA,201909080car
+Darrell Henderson,HendDa00,rushing,LAR,1,0,NA,-2,-2,2,2,0,NA,201909080car
+Christian McCaffrey,McCaCh01,rushing,CAR,19,128,7,60,3.2,68,3.6,4,4.8,201909080car
+Cam Newton,NewtCa00,rushing,CAR,3,-2,0,-2,-0.7,0,0,0,NA,201909080car
+Alex Armah,ArmaAl00,rushing,CAR,1,1,1,1,1,0,0,0,NA,201909080car

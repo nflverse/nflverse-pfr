@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+D'Andre Swift,SwifDA00,rushing,DET,8,37,3,35,4.4,2,0.3,0,NA,202109200gnb
+Jamaal Williams,WillJa06,rushing,DET,7,25,2,24,3.4,1,0.1,0,NA,202109200gnb
+Jared Goff,GoffJa00,rushing,DET,4,46,2,46,11.5,0,0,0,NA,202109200gnb
+Aaron Jones,JoneAa00,rushing,GNB,17,67,5,42,2.5,25,1.5,1,17,202109200gnb
+AJ Dillon,DillAJ00,rushing,GNB,5,18,0,8,1.6,10,2,1,5,202109200gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,4,6,0,6,1.5,0,0,0,NA,202109200gnb
+Jordan Love,LoveJo03,rushing,GNB,3,-3,NA,-3,-1,0,0,0,NA,202109200gnb
+Kylin Hill,HillKy00,rushing,GNB,2,8,NA,8,4,0,0,0,NA,202109200gnb

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Thomas,ThomMi05,receiving,NOR,8,6,48,0,3,33,5.5,15,2.5,7.1,0,NA,0,0,0,89.6,201911280atl
+Alvin Kamara,KamaAl00,receiving,NOR,8,4,23,0,1,0,0,23,5.8,0.6,0,NA,1,12.5,0,56.2,201911280atl
+Jared Cook,CookJa02,receiving,NOR,6,3,85,0,3,32,10.7,53,17.7,11.2,1,3,1,16.7,0,95.8,201911280atl
+Tre'Quan Smith,SmitTr03,receiving,NOR,2,2,14,0,1,11,5.5,3,1.5,5.5,0,NA,0,0,0,95.8,201911280atl
+Taysom Hill,HillTa00,receiving,NOR,2,2,12,1,2,-3,-1.5,15,7.5,-1.5,0,NA,0,0,0,131.2,201911280atl
+Josh Hill,HillJo02,receiving,NOR,2,1,2,0,NA,2,2,0,0,3,0,NA,0,0,0,56.2,201911280atl
+Ted Ginn Jr.,GinnTe00,receiving,NOR,1,0,0,0,NA,0,NA,0,NA,29,0,NA,1,100,0,39.6,201911280atl
+Calvin Ridley,RidlCa00,receiving,ATL,10,8,91,0,6,87,10.9,4,0.5,11.3,0,NA,0,0,0,104.6,201911280atl
+Christian Blake,BlakCh00,receiving,ATL,9,6,57,0,4,45,7.5,12,2,7.9,0,NA,0,0,0,84,201911280atl
+Russell Gage,GageRu00,receiving,ATL,9,5,52,1,2,26,5.2,26,5.2,5.9,0,NA,0,0,1,69.9,201911280atl
+Devonta Freeman,FreeDe00,receiving,ATL,5,4,13,0,NA,8,2,5,1.3,1.2,0,NA,0,0,1,39.6,201911280atl
+Jaeden Graham,GrahJa01,receiving,ATL,4,4,41,1,2,34,8.5,7,1.8,8.5,0,NA,0,0,0,149,201911280atl
+Brian Hill,HillBr02,receiving,ATL,3,3,24,0,2,4,1.3,20,6.7,1.3,0,NA,0,0,0,100,201911280atl
+Justin Hardy,HardJu00,receiving,ATL,3,3,28,0,1,26,8.7,2,0.7,8.7,0,NA,0,0,0,105.6,201911280atl
+Kenjon Barner,BarnKe00,receiving,ATL,2,2,6,0,1,-7,-3.5,13,6.5,-3.5,0,NA,0,0,0,79.2,201911280atl
+Keith Smith,SmitKe03,receiving,ATL,1,0,0,0,0,0,NA,0,NA,25,0,NA,0,0,0,39.6,201911280atl
+Olamide Zaccheaus,ZaccOl01,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,201911280atl

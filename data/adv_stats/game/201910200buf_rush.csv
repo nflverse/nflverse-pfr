@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mark Walton,WaltMa00,rushing,MIA,14,66,2,15,1.1,51,3.6,1,14,201910200buf
+Kenyan Drake,DrakKe00,rushing,MIA,6,21,0,10,1.7,11,1.8,0,NA,201910200buf
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,6,13,2,-1,-0.2,14,2.3,1,6,201910200buf
+Kalen Ballage,BallKa00,rushing,MIA,3,7,3,1,0.3,6,2,0,NA,201910200buf
+Matt Haack,HaacMa00,rushing,MIA,1,2,1,2,2,0,0,0,NA,201910200buf
+Frank Gore,GoreFr00,rushing,BUF,11,55,3,26,2.4,29,2.6,0,NA,201910200buf
+Devin Singletary,SingDe00,rushing,BUF,7,26,NA,17,2.4,9,1.3,1,7,201910200buf
+Josh Allen,AlleJo02,rushing,BUF,4,32,2,13,3.3,19,4.8,1,4,201910200buf
+Patrick DiMarco,DiMaPa00,rushing,BUF,1,4,0,1,1,3,3,0,NA,201910200buf

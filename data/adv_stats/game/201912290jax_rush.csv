@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Marlon Mack,MackMa00,rushing,IND,15,77,5,51,3.4,26,1.7,0,NA,201912290jax
+Nyheim Hines,HineNy00,rushing,IND,7,34,3,24,3.4,10,1.4,0,NA,201912290jax
+Jacoby Brissett,BrisJa00,rushing,IND,4,17,1,7,1.8,10,2.5,0,NA,201912290jax
+Zach Pascal,PascZa00,rushing,IND,1,4,0,4,4,0,0,0,NA,201912290jax
+Ryquell Armstead,ArmsRy00,rushing,JAX,10,33,3,12,1.2,21,2.1,0,NA,201912290jax
+Devine Ozigbo,OzigDe01,rushing,JAX,9,27,1,11,1.2,16,1.8,0,NA,201912290jax
+Gardner Minshew II,MinsGa00,rushing,JAX,5,7,2,7,1.4,0,0,0,NA,201912290jax

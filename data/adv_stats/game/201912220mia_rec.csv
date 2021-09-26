@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Boyd,BoydTy00,receiving,CIN,15,9,128,2,7,89,9.9,39,4.3,9.1,1,9,1,6.7,0,127.2,201912220mia
+Alex Erickson,EricAl01,receiving,CIN,9,6,55,0,3,45,7.5,10,1.7,7,1,6,0,0,0,83.1,201912220mia
+John Ross,RossJo00,receiving,CIN,13,6,84,0,5,72,12,12,2,21.8,0,NA,2,15.4,0,67.5,201912220mia
+Tyler Eifert,EifeTy00,receiving,CIN,8,4,57,1,3,46,11.5,11,2.8,8.4,0,NA,0,0,0,113,201912220mia
+C.J. Uzomah,UzomC.00,receiving,CIN,4,4,37,1,2,25,6.3,12,3,6.3,0,NA,0,0,0,144.8,201912220mia
+Giovani Bernard,BernGi00,receiving,CIN,3,2,12,0,0,9,4.5,3,1.5,4.3,0,NA,0,0,0,74.3,201912220mia
+Joe Mixon,MixoJo00,receiving,CIN,2,2,23,0,1,1,0.5,22,11,0.5,0,NA,0,0,0,114.6,201912220mia
+Albert Wilson,WilsAl02,receiving,MIA,7,7,79,0,4,21,3,58,8.3,3,0,NA,0,0,0,113.7,201912220mia
+Mike Gesicki,GesiMi00,receiving,MIA,12,6,82,2,4,71,11.8,11,1.8,12.7,0,NA,0,0,0,111.8,201912220mia
+DeVante Parker,ParkDe01,receiving,MIA,15,5,111,1,5,102,20.4,9,1.8,15.1,0,NA,1,6.7,1,55.1,201912220mia
+Isaiah Ford,FordIs00,receiving,MIA,6,5,68,0,3,46,9.2,22,4.4,9.2,2,2.5,0,0,0,113.9,201912220mia
+Allen Hurns,HurnAl01,receiving,MIA,2,2,41,0,2,31,15.5,10,5,15.5,0,NA,0,0,0,118.7,201912220mia
+Durham Smythe,SmytDu00,receiving,MIA,2,2,18,0,1,17,8.5,1,0.5,8.5,0,NA,0,0,0,104.2,201912220mia
+Patrick Laird,LairPa00,receiving,MIA,1,1,1,0,NA,-3,-3,4,4,-3,0,NA,0,0,0,79.2,201912220mia
+Myles Gaskin,GaskMy00,receiving,MIA,3,1,3,0,0,-3,-3,6,6,-1,0,NA,0,0,0,42.4,201912220mia
+Clive Walford,WalfCl00,receiving,MIA,2,1,15,0,1,11,11,4,4,10,0,NA,1,50,0,75,201912220mia
+Christian Wilkins,WilkCh00,receiving,MIA,1,1,1,1,1,0,0,1,1,0,0,NA,0,0,0,118.7,201912220mia

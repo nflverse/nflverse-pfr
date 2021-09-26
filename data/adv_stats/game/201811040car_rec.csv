@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Adam Humphries,HumpAd00,receiving,TAM,8,8,82,2,6,29,3.6,53,6.6,3.6,1,8,0,0,0,149,201811040car
+O.J. Howard,HowaO.00,receiving,TAM,6,4,53,2,4,35,8.8,18,4.5,10.2,0,NA,0,0,0,134,201811040car
+Cameron Brate,BratCa00,receiving,TAM,3,3,15,0,1,14,4.7,1,0.3,4.7,0,NA,0,0,0,87.5,201811040car
+Peyton Barber,BarbPe01,receiving,TAM,3,2,9,0,1,-4,-2,13,6.5,-1,0,NA,0,0,0,70.1,201811040car
+Chris Godwin,GodwCh00,receiving,TAM,3,2,40,0,2,36,18,4,2,12,0,NA,0,0,0,109.7,201811040car
+DeSean Jackson,JackDe00,receiving,TAM,4,2,32,0,2,25,12.5,7,3.5,25.3,0,NA,0,0,1,37.5,201811040car
+Jacquizz Rodgers,RodgJa00,receiving,TAM,3,2,-4,0,0,-16,-8,12,6,-4,0,NA,0,0,0,70.1,201811040car
+Mike Evans,EvanMi00,receiving,TAM,10,1,16,0,1,16,16,0,0,12.7,0,NA,0,0,1,0,201811040car
+Alan Cross,CrosAl00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,201811040car
+Greg Olsen,OlseGr00,receiving,CAR,6,6,76,1,4,49,8.2,27,4.5,8.2,0,NA,0,0,0,158.3,201811040car
+Christian McCaffrey,McCaCh01,receiving,CAR,6,5,78,0,2,-4,-0.8,82,16.4,-0.7,1,5,0,0,0,118.7,201811040car
+Devin Funchess,FuncDe00,receiving,CAR,5,4,44,0,2,37,9.3,7,1.8,11.6,0,NA,0,0,0,103.3,201811040car
+Curtis Samuel,SamuCu00,receiving,CAR,4,2,25,1,1,15,7.5,10,5,8.5,0,NA,1,25,0,109.4,201811040car
+D.J. Moore,MoorD.00,receiving,CAR,2,1,16,0,1,16,16,0,0,18.5,0,NA,0,0,0,77.1,201811040car
+Jarius Wright,WrigJa02,receiving,CAR,1,1,8,0,1,7,7,1,1,7,0,NA,0,0,0,100,201811040car

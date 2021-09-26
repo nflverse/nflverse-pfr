@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jordan Howard,HowaJo00,rushing,PHI,15,87,6,35,2.3,52,3.5,1,15,201909260gnb
+Miles Sanders,SandMi01,rushing,PHI,11,72,2,48,4.4,24,2.2,1,11,201909260gnb
+Carson Wentz,WentCa00,rushing,PHI,6,13,2,10,1.7,3,0.5,0,NA,201909260gnb
+Darren Sproles,SproDa00,rushing,PHI,1,4,NA,3,3,1,1,0,NA,201909260gnb
+Aaron Jones,JoneAa00,rushing,GNB,13,21,1,-4,-0.3,25,1.9,2,6.5,201909260gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,5,46,3,32,6.4,14,2.8,0,NA,201909260gnb
+Geronimo Allison,AlliGe01,rushing,GNB,1,7,0,5,5,2,2,0,NA,201909260gnb
+Danny Vitale,VitaDa00,rushing,GNB,1,3,NA,2,2,1,1,0,NA,201909260gnb

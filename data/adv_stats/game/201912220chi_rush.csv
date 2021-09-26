@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Williams,WillDa05,rushing,KAN,16,65,4,18,1.1,47,2.9,4,4,201912220chi
+Darwin Thompson,ThomDa06,rushing,KAN,5,14,1,2,0.4,12,2.4,1,5,201912220chi
+Spencer Ware,WareSp00,rushing,KAN,5,14,0,3,0.6,11,2.2,2,2.5,201912220chi
+Patrick Mahomes,MahoPa00,rushing,KAN,2,14,1,12,6,2,1,1,2,201912220chi
+Matt Moore,MoorMa01,rushing,KAN,1,-1,NA,-1,-1,0,0,0,NA,201912220chi
+David Montgomery,MontDa01,rushing,CHI,13,57,4,36,2.8,21,1.6,3,4.3,201912220chi
+Mitchell Trubisky,TrubMi00,rushing,CHI,6,20,1,11,1.8,9,1.5,0,NA,201912220chi
+Tarik Cohen,CoheTa00,rushing,CHI,2,8,1,2,1,6,3,1,2,201912220chi
+Cordarrelle Patterson,PattCo00,rushing,CHI,1,16,1,6,6,10,10,1,1,201912220chi

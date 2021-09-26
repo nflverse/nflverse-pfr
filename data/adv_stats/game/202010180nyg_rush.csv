@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Antonio Gibson,GibsAn00,rushing,WAS,9,30,2,16,1.8,14,1.6,0,NA,202010180nyg
+J.D. McKissic,McKiJ.00,rushing,WAS,8,41,2,19,2.4,22,2.8,1,8,202010180nyg
+Peyton Barber,BarbPe01,rushing,WAS,4,6,1,2,0.5,4,1,0,NA,202010180nyg
+Kyle Allen,AlleKy00,rushing,WAS,2,8,1,8,4,0,0,0,NA,202010180nyg
+Isaiah Wright,WrigIs01,rushing,WAS,1,1,0,1,1,0,0,0,NA,202010180nyg
+Devonta Freeman,FreeDe00,rushing,NYG,18,61,3,31,1.7,30,1.7,0,NA,202010180nyg
+Daniel Jones,JoneDa05,rushing,NYG,7,74,2,72,10.3,2,0.3,0,NA,202010180nyg
+Darius Slayton,SlayDa01,rushing,NYG,1,-3,0,-3,-3,0,0,0,NA,202010180nyg

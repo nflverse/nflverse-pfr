@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jaire Alexander,AlexJa00,defense,GNB,0,5,5,100.0%,75,15,15,0,118.7,13,65,10,0,0,0,0,0,6,1,14.3%,201811150sea
+Tony Brown,BrowTo01,defense,GNB,0,5,3,60.0%,51,17,10.2,0,94.6,22,44,7,0,0,0,0,0,3,0,0.0%,201811150sea
+Josh Jackson,JackJo01,defense,GNB,0,4,3,75.0%,24,8,6,1,129.2,11.5,20,4,1,0,0,0,0,2,0,0.0%,201811150sea
+Bashaud Breeland,BreeBa00,defense,GNB,0,4,2,50.0%,12,6,3,0,56.2,8,5,7,1,0,0,0,0,3,0,0.0%,201811150sea
+Tramon Williams,WillTr99,defense,GNB,0,1,1,100.0%,14,14,14,0,118.7,14,14,0,0,0,0,0,0,7,0,0.0%,201811150sea
+Josh Jones,JoneJo06,defense,GNB,0,1,1,100.0%,9,9,9,0,104.2,1,1,8,4,0,0,0,0,7,2,22.2%,201811150sea
+Blake Martinez,MartBl01,defense,GNB,0,1,1,100.0%,15,15,15,1,158.3,9,9,6,3,0,0,0,0,6,1,14.3%,201811150sea
+Ibraheim Campbell,CampIb00,defense,GNB,0,1,1,100.0%,6,6,6,0,91.7,6,6,0,0,0,0,0,0,2,0,0.0%,201811150sea
+Raven Greene,GreeRa02,defense,GNB,0,1,1,100.0%,NA,NA,0,NA,79.2,21,NA,NA,1,0,0,0,0,2,0,0.0%,201811150sea
+Kyler Fackrell,FackKy00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,5,0,0,3,3,6,2,25.0%,201811150sea
+Reggie Gilbert,GilbRe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,0,0,1,3,0,0.0%,201811150sea
+Clay Matthews,MattCl99,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1,0,0,1,5,2,28.6%,201811150sea
+Antonio Morrison,MorrAn01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,3,42.9%,201811150sea
+Tre Flowers,FlowTr01,defense,SEA,0,9,8,88.9%,112,14,12.4,0,118.5,11.8,72,40,0,0,0,0,0,6,0,0.0%,201811150sea
+Bobby Wagner,WagnBo00,defense,SEA,0,4,3,75.0%,32,10.7,8,0,97.9,9,-10,42,4,0,0,0,0,9,0,0.0%,201811150sea
+Austin Calitro,CaliAu00,defense,SEA,0,3,2,66.7%,35,17.5,11.7,1,145.8,12,34,1,2,0,0,0.5,1,5,0,0.0%,201811150sea
+Shaquill Griffin,GrifSh00,defense,SEA,0,5,2,40.0%,68,34,13.6,0,87.5,23,62,6,0,0,0,0,0,4,1,20.0%,201811150sea
+Justin Coleman,ColeJu01,defense,SEA,0,3,2,66.7%,1,0.5,0.3,0,70.1,0,0,1,1,0,0,0,0,5,1,16.7%,201811150sea
+Bradley McDougald,McDoBr01,defense,SEA,0,2,2,100.0%,57,28.5,28.5,1,158.3,28,56,1,0,0,0,0,0,3,0,0.0%,201811150sea
+Frank Clark,ClarFr01,defense,SEA,0,1,1,100.0%,9,9,9,0,104.2,3,3,6,0,0,0,2,2,4,0,0.0%,201811150sea
+Barkevious Mingo,MingBa00,defense,SEA,0,1,1,100.0%,13,13,13,0,118.7,0,0,13,1,0,0,0,0,4,0,0.0%,201811150sea
+Rasheem Green,GreeRa01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,201811150sea
+Quinton Jefferson,JeffQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,1,50.0%,201811150sea
+Jacob Martin,MartJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201811150sea
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,201811150sea
+Branden Jackson,JackBr04,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201811150sea

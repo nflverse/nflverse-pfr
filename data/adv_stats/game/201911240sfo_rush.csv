@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,13,38,2,35,2.7,3,0.2,0,NA,201911240sfo
+Jamaal Williams,WillJa06,rushing,GNB,11,45,2,30,2.7,15,1.4,1,11,201911240sfo
+Aaron Rodgers,RodgAa00,rushing,GNB,3,13,0,13,4.3,0,0,0,NA,201911240sfo
+Allen Lazard,LazaAl00,rushing,GNB,1,21,1,15,15,6,6,1,1,201911240sfo
+Tevin Coleman,ColeTe01,rushing,SFO,11,39,3,33,3,6,0.5,0,NA,201911240sfo
+Raheem Mostert,MostRa00,rushing,SFO,6,45,2,33,5.5,12,2,2,3,201911240sfo
+Jimmy Garoppolo,GaroJi00,rushing,SFO,2,1,0,1,0.5,0,0,0,NA,201911240sfo
+Jeff Wilson,WilsJe01,rushing,SFO,2,27,1,19,9.5,8,4,0,NA,201911240sfo
+Richie James,JameRi00,rushing,SFO,1,0,NA,-2,-2,2,2,1,1,201911240sfo

@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Bobby Okereke,OkerBo00,defense,IND,1,10,9,90.0%,72,8,7.2,0,57.1,4.4,31,41,5,0,0,0,0,10,0,0.0%,202010110cle
+Anthony Walker,WalkAn01,defense,IND,1,5,3,60.0%,26,8.7,5.2,0,34.2,2.6,4,22,2,0,0,0,0,7,1,12.5%,202010110cle
+Rock Ya-Sin,Ya-SRo00,defense,IND,0,6,3,50.0%,47,15.7,7.8,0,76.4,9.8,44,3,0,0,0,0,0,8,0,0.0%,202010110cle
+Khari Willis,WillKh00,defense,IND,0,6,1,16.7%,12,12,2,1,79.2,8.2,12,0,5,1,0,0,1,3,0,0.0%,202010110cle
+Zaire Franklin,FranZa00,defense,IND,0,1,1,100.0%,7,7,7,0,95.8,7,7,0,1,1,0,0,1,7,0,0.0%,202010110cle
+Denico Autry,AutrDe00,defense,IND,0,1,1,100.0%,6,6,6,0,91.7,4,4,2,0,0,0,0,0,7,0,0.0%,202010110cle
+Tavon Wilson,WilsTa00,defense,IND,0,1,1,100.0%,15,15,15,1,158.3,15,15,0,0,0,0,0,0,1,0,0.0%,202010110cle
+Kenny Moore,MoorKe03,defense,IND,0,3,1,33.3%,30,30,10,0,71.5,19.3,21,9,3,0,0,0,0,4,2,33.3%,202010110cle
+Julian Blackmon,BlacJu01,defense,IND,0,2,1,50.0%,18,18,9,0,81.2,17,17,1,0,0,0,0,0,4,0,0.0%,202010110cle
+Xavier Rhodes,RhodXa00,defense,IND,0,3,1,33.3%,32,32,10.7,0,74.3,19,29,3,0,0,0,0,0,3,0,0.0%,202010110cle
+DeForest Buckner,BuckDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,5,1,16.7%,202010110cle
+Justin Houston,HousJu00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202010110cle
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202010110cle
+Andrew Sendejo,SendAn00,defense,CLE,0,7,5,71.4%,107,21.4,15.3,0,113.7,13.4,74,33,0,0,0,0,0,4,1,20.0%,202010110cle
+B.J. Goodson,GoodB.00,defense,CLE,0,4,4,100.0%,47,11.8,11.8,0,115.6,0.3,1,46,0,0,0,0,0,9,0,0.0%,202010110cle
+Denzel Ward,WardDe02,defense,CLE,0,6,4,66.7%,49,12.3,8.2,0,91.7,14.5,49,0,0,0,0,0,0,5,0,0.0%,202010110cle
+Kevin Johnson,JohnKe04,defense,CLE,0,3,3,100.0%,19,6.3,6.3,0,93.1,4,12,7,0,0,0,0,0,6,0,0.0%,202010110cle
+Malcolm Smith,SmitMa02,defense,CLE,0,4,2,50.0%,5,2.5,1.3,0,56.2,5.5,3,2,3,0,0,0,0,5,0,0.0%,202010110cle
+Terrance Mitchell,MitcTe00,defense,CLE,0,3,1,33.3%,1,1,0.3,0,42.4,10,0,1,0,0,0,0,0,1,0,0.0%,202010110cle
+Sione Takitaki,TakiSi00,defense,CLE,0,2,1,50.0%,4,4,2,0,56.2,0,0,4,1,0,0,0,0,7,0,0.0%,202010110cle
+Ronnie Harrison,HarrRo02,defense,CLE,1,3,1,33.3%,11,11,3.7,0,5.6,2,3,8,0,0,0,0,0,2,0,0.0%,202010110cle
+Myles Garrett,GarrMy00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,1,4,4,0,0.0%,202010110cle
+Olivier Vernon,VernOl00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202010110cle
+Sheldon Richardson,RichSh00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202010110cle
+Mack Wilson,WilsMa03,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202010110cle

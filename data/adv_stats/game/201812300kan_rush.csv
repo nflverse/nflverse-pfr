@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Doug Martin,MartDo00,rushing,OAK,21,100,7,36,1.7,64,3,5,4.2,201812300kan
+DeAndre Washington,WashDe00,rushing,OAK,4,30,2,15,3.8,15,3.8,1,4,201812300kan
+Jalen Richard,RichJa01,rushing,OAK,3,1,NA,-5,-1.7,6,2,1,3,201812300kan
+Seth Roberts,RobeSe00,rushing,OAK,1,-4,0,-4,-4,0,0,0,NA,201812300kan
+Damien Williams,WillDa05,rushing,KAN,11,51,3,39,3.5,12,1.1,1,11,201812300kan
+Darrel Williams,WillDa10,rushing,KAN,11,31,3,8,0.7,23,2.1,4,2.8,201812300kan
+Patrick Mahomes,MahoPa00,rushing,KAN,2,1,0,1,0.5,0,0,0,NA,201812300kan
+Chad Henne,HennCh01,rushing,KAN,1,3,0,2,2,1,1,0,NA,201812300kan
+Tyreek Hill,HillTy00,rushing,KAN,1,15,1,15,15,0,0,0,NA,201812300kan
+Charcandrick West,WestCh01,rushing,KAN,1,-2,NA,-2,-2,0,0,1,1,201812300kan

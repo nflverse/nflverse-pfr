@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+David Moore,MoorDa03,receiving,SEA,4,4,97,1,4,81,20.3,16,4,20.3,0,NA,0,0,0,158.3,201810280det
+Doug Baldwin,BaldDo00,receiving,SEA,3,2,26,0,1,22,11,4,2,7.7,0,NA,0,0,0,93.7,201810280det
+Chris Carson,CarsCh00,receiving,SEA,2,2,19,0,1,12,6,7,3.5,6,0,NA,0,0,0,106.2,201810280det
+Ed Dickson,DickEd00,receiving,SEA,2,2,54,1,1,23,11.5,31,15.5,11.5,0,NA,0,0,0,158.3,201810280det
+Tyler Lockett,LockTy00,receiving,SEA,2,2,34,1,2,31,15.5,3,1.5,15.5,0,NA,0,0,0,158.3,201810280det
+Mike Davis,DaviMi01,receiving,SEA,1,1,2,0,NA,2,2,0,0,2,0,NA,0,0,0,79.2,201810280det
+Nick Vannett,VannNi00,receiving,SEA,3,1,16,0,1,13,13,3,3,5,0,NA,0,0,0,52.1,201810280det
+Marvin Jones,JoneMa02,receiving,DET,10,7,117,2,6,114,16.3,3,0.4,18.6,0,NA,0,0,0,148.7,201810280det
+Golden Tate,TateGo00,receiving,DET,12,7,50,0,2,22,3.1,28,4,4,1,7,1,8.3,1,33.3,201810280det
+Kerryon Johnson,JohnKe06,receiving,DET,8,6,69,0,4,-13,-2.2,82,13.7,-0.1,1,6,0,0,0,100.5,201810280det
+Luke Willson,WillLu00,receiving,DET,4,3,21,0,1,12,4,9,3,3.8,0,NA,1,25,0,86.5,201810280det
+Ameer Abdullah,AbduAm00,receiving,DET,1,1,6,0,1,3,3,3,3,3,0,NA,0,0,0,91.7,201810280det
+LeGarrette Blount,BlouLe00,receiving,DET,1,1,23,0,1,-3,-3,26,26,-3,0,NA,0,0,0,118.7,201810280det
+Kenny Golladay,GollKe00,receiving,DET,1,1,12,0,1,7,7,5,5,7,1,1,0,0,0,116.7,201810280det
+Levine Toilolo,ToilLe00,receiving,DET,1,1,12,0,1,4,4,8,8,4,0,NA,0,0,0,116.7,201810280det
+Michael Roberts,RobeMi01,receiving,DET,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,201810280det

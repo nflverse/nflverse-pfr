@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Darius Leonard,LeonDa00,defense,IND,0,19,17,89.5%,124,7.3,6.5,0,93.9,3.4,56,68,2,0,0,1,1,19,3,13.6%,201809160was
+Kenny Moore,MoorKe03,defense,IND,0,7,5,71.4%,51,10.2,7.3,0,92,11.4,35,16,1,0,0,0,0,9,0,0.0%,201809160was
+Clayton Geathers,GeatCl00,defense,IND,0,7,5,71.4%,55,11,7.9,0,94.3,10.4,37,18,0,0,0,0,0,12,0,0.0%,201809160was
+Pierre Desir,DesiPi00,defense,IND,0,8,4,50.0%,34,8.5,4.3,0,61.5,8.6,22,12,0,0,0,0,0,4,0,0.0%,201809160was
+Nate Hairston,HairNa00,defense,IND,0,2,2,100.0%,16,8,8,0,100,5,10,6,0,0,0,0,0,6,0,0.0%,201809160was
+Kemoko Turay,TuraKe00,defense,IND,0,1,1,100.0%,11,11,11,0,112.5,7,7,4,0,3,0,0,3,3,0,0.0%,201809160was
+Quincy Wilson,WilsQu01,defense,IND,0,1,1,100.0%,7,7,7,0,95.8,5,5,2,0,0,0,0,0,2,0,0.0%,201809160was
+Malik Hooker,HookMa00,defense,IND,0,1,1,100.0%,19,19,19,0,118.7,19,19,0,0,0,0,0,0,1,0,0.0%,201809160was
+Jabaal Sheard,SheaJa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,4,0,0.0%,201809160was
+Jihad Ward,WardJi02,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,201809160was
+Margus Hunt,HuntMa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201809160was
+Najee Goode,GoodNa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201809160was
+Matthias Farley,FarlMa00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,19,NA,NA,0,0,0,0,0,1,0,0.0%,201809160was
+Josh Norman,NormJo01,defense,WAS,0,6,6,100.0%,50,8.3,8.3,1,141,3.2,19,31,0,0,0,0,0,7,2,22.2%,201809160was
+Mason Foster,FostMa00,defense,WAS,0,6,5,83.3%,18,3.6,3,0,79.2,3.2,1,17,8,0,0,0,0,12,1,7.7%,201809160was
+Quinton Dunbar,DunbQu00,defense,WAS,0,7,4,57.1%,57,14.3,8.1,0,83.6,5,21,36,0,0,0,0,0,5,0,0.0%,201809160was
+Fabian Moreau,MoreFa00,defense,WAS,0,3,2,66.7%,16,8,5.3,0,79.9,2.3,0,16,3,2,0,0,2,2,1,33.3%,201809160was
+D.J. Swearinger,SweaDJ00,defense,WAS,2,4,2,50.0%,18,9,4.5,0,22.9,5.5,6,12,2,1,0,0,1,4,2,33.3%,201809160was
+Montae Nicholson,NichMo00,defense,WAS,0,3,2,66.7%,20,10,6.7,1,125,10,9,11,1,0,0,0,0,7,1,12.5%,201809160was
+Ryan Kerrigan,KerrRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4,0,0,4,1,0,0.0%,201809160was
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,4,0,0.0%,201809160was
+Matthew Ioannidis,IoanMa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,2,0,0.0%,201809160was
+Pernell McPhee,McPhPe00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,2,0,2,0,0,NA,201809160was
+Preston Smith,SmitPr00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,4,0,1,0,1,4,1,20.0%,201809160was
+Zach Brown,BrowZa00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,-5,NA,NA,6,1,0,0,1,9,1,10.0%,201809160was
+Josh Harvey-Clemons,HarvJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,1,0,0.0%,201809160was

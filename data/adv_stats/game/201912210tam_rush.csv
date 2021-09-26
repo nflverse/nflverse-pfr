@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Carlos Hyde,HydeCa00,rushing,HOU,17,27,2,3,0.2,24,1.4,0,NA,201912210tam
+Deshaun Watson,WatsDe00,rushing,HOU,7,37,3,33,4.7,4,0.6,0,NA,201912210tam
+Duke Johnson,JohnDu00,rushing,HOU,2,4,NA,1,0.5,3,1.5,0,NA,201912210tam
+Ronald Jones II,JoneRo01,rushing,TAM,14,77,3,8,0.6,69,4.9,0,NA,201912210tam
+Peyton Barber,BarbPe01,rushing,TAM,5,13,NA,8,1.6,5,1,0,NA,201912210tam
+Jameis Winston,WinsJa00,rushing,TAM,2,16,1,12,6,4,2,0,NA,201912210tam

@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Delanie Walker,WalkHu00,receiving,TEN,6,5,55,2,5,35,7,20,4,5.8,0,NA,1,16.7,0,144.4,201909080cle
+A.J. Brown,BrowAJ00,receiving,TEN,4,3,100,0,2,44,14.7,56,18.7,13.5,2,1.5,0,0,0,116.7,201909080cle
+Dion Lewis,LewiDi00,receiving,TEN,4,3,6,0,NA,-6,-2,12,4,-2.5,1,3,1,25,0,77.1,201909080cle
+Derrick Henry,HenrDe00,receiving,TEN,2,1,75,1,1,-5,-5,80,80,-3.5,0,NA,0,0,0,135.4,201909080cle
+Adam Humphries,HumpAd00,receiving,TEN,1,1,5,0,1,5,5,0,0,5,0,NA,0,0,0,87.5,201909080cle
+Jonnu Smith,SmitJo01,receiving,TEN,1,1,7,0,0,2,2,5,5,2,0,NA,0,0,0,95.8,201909080cle
+Corey Davis,DaviCo03,receiving,TEN,3,0,0,0,NA,0,NA,0,NA,14,0,NA,0,0,0,39.6,201909080cle
+MyCole Pruitt,PruiMy00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,201909080cle
+Tajae Sharpe,SharTa00,receiving,TEN,2,0,0,0,NA,0,NA,0,NA,12,0,NA,0,0,0,39.6,201909080cle
+Odell Beckham Jr.,BeckOd00,receiving,CLE,11,7,71,0,3,56,8,15,2.1,10.5,1,7,0,0,1,44.1,201909080cle
+Jarvis Landry,LandJa00,receiving,CLE,7,4,67,0,2,42,10.5,25,6.3,12.7,0,NA,0,0,2,50,201909080cle
+David Njoku,NjokDa00,receiving,CLE,6,4,37,1,3,21,5.3,16,4,6.8,0,NA,2,33.3,0,122.9,201909080cle
+Nick Chubb,ChubNi00,receiving,CLE,4,3,10,0,1,1,0.3,9,3,1.5,1,3,1,25,0,77.1,201909080cle
+Rashard Higgins,HiggRa00,receiving,CLE,3,2,46,0,2,37,18.5,9,4.5,16,0,NA,0,0,0,109.7,201909080cle
+D'Ernest Johnson,JohnDE04,receiving,CLE,2,2,23,0,NA,8,4,15,7.5,4,1,2,0,0,0,114.6,201909080cle
+Damion Ratley,RatlDa00,receiving,CLE,2,2,17,0,1,16,8,1,0.5,8,0,NA,0,0,0,102.1,201909080cle
+Dontrell Hilliard,HillDo00,receiving,CLE,2,1,14,0,1,4,4,10,10,3.5,0,NA,0,0,0,72.9,201909080cle
+Demetrius Harris,HarrDe03,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,6,0,NA,1,100,0,39.6,201909080cle

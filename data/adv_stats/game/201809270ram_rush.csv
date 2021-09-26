@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,10,20,NA,11,1.1,9,0.9,0,NA,201809270ram
+Kirk Cousins,CousKi00,rushing,MIN,4,28,3,18,4.5,10,2.5,1,4,201809270ram
+Latavius Murray,MurrLa00,rushing,MIN,2,2,0,-2,-1,4,2,0,NA,201809270ram
+Roc Thomas,ThomRo05,rushing,MIN,1,4,NA,1,1,3,3,0,NA,201809270ram
+Todd Gurley,GurlTo01,rushing,LAR,17,83,3,44,2.6,39,2.3,0,NA,201809270ram
+Jared Goff,GoffJa00,rushing,LAR,2,7,0,7,3.5,0,0,0,NA,201809270ram
+Brandin Cooks,CookBr00,rushing,LAR,1,10,1,6,6,4,4,0,NA,201809270ram

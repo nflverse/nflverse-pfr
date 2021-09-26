@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Corey Davis,DaviCo03,receiving,TEN,7,5,113,0,5,76,15.2,37,7.4,15.9,0,NA,0,0,0,113.7,202011220rav
+Jonnu Smith,SmitJo01,receiving,TEN,6,4,20,1,2,-1,-0.3,21,5.3,0.7,0,NA,1,16.7,1,71.5,202011220rav
+A.J. Brown,BrowAJ00,receiving,TEN,7,4,62,1,4,24,6,38,9.5,7.9,7,0.6,0,0,0,126.2,202011220rav
+Anthony Firkser,FirkAn00,receiving,TEN,5,4,33,0,3,27,6.8,6,1.5,6.2,0,NA,0,0,0,94.2,202011220rav
+Cameron Batson,BatsCa00,receiving,TEN,2,2,21,0,1,0,0,21,10.5,0,0,NA,0,0,0,110.4,202011220rav
+Derrick Henry,HenrDe00,receiving,TEN,2,1,-1,0,0,-2,-2,1,1,-2,0,NA,0,0,0,56.2,202011220rav
+Jeremy McNichols,McNiJe00,receiving,TEN,1,1,2,0,NA,-6,-6,8,8,-6,0,NA,0,0,0,79.2,202011220rav
+Geoff Swaim,SwaiGe00,receiving,TEN,1,1,9,0,NA,2,2,7,7,2,0,NA,0,0,0,104.2,202011220rav
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,1,1,7,0,1,7,7,0,0,7,0,NA,0,0,0,95.8,202011220rav
+Mark Andrews,AndrMa00,receiving,BAL,7,5,96,1,5,85,17,11,2.2,17,0,NA,0,0,0,153.3,202011220rav
+Dez Bryant,BryaDe01,receiving,BAL,5,4,28,0,1,-6,-1.5,34,8.5,2,0,NA,1,20,0,90,202011220rav
+Willie Snead,SneaWi00,receiving,BAL,7,3,23,0,1,12,4,11,3.7,7.9,1,3,0,0,0,51.5,202011220rav
+J.K. Dobbins,DobbJK00,receiving,BAL,2,2,15,0,1,-8,-4,23,11.5,-4,0,NA,0,0,0,97.9,202011220rav
+Devin Duvernay,DuveDe00,receiving,BAL,2,1,5,0,NA,-4,-4,9,9,21.5,0,NA,0,0,1,16.7,202011220rav
+James Proche,ProcJa00,receiving,BAL,1,1,14,0,1,6,6,8,8,6,0,NA,0,0,0,118.7,202011220rav
+Patrick Ricard,RicaPa00,receiving,BAL,1,1,5,0,NA,-3,-3,8,8,-3,1,1,0,0,0,87.5,202011220rav
+Marquise Brown,BrowMa04,receiving,BAL,3,0,0,0,NA,0,NA,0,NA,18.7,0,NA,1,33.3,0,39.6,202011220rav

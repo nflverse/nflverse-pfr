@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Peyton Barber,BarbPe01,rushing,TAM,17,44,3,27,1.6,17,1,0,NA,201912010jax
+Ronald Jones II,JoneRo01,rushing,TAM,6,8,NA,3,0.5,5,0.8,0,NA,201912010jax
+Jameis Winston,WinsJa00,rushing,TAM,6,20,2,13,2.2,7,1.2,0,NA,201912010jax
+T.J. Logan,LogaT.00,rushing,TAM,1,2,NA,1,1,1,1,0,NA,201912010jax
+Dare Ogunbowale,OgunDa00,rushing,TAM,1,0,NA,0,0,0,0,0,NA,201912010jax
+Leonard Fournette,FourLe00,rushing,JAX,14,38,1,10,0.7,28,2,2,7,201912010jax
+Gardner Minshew II,MinsGa00,rushing,JAX,2,8,0,8,4,0,0,0,NA,201912010jax
+Nick Foles,FoleNi00,rushing,JAX,1,3,1,0,0,3,3,0,NA,201912010jax

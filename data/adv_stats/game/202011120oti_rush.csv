@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nyheim Hines,HineNy00,rushing,IND,12,70,6,27,2.3,43,3.6,3,4,202011120oti
+Jordan Wilkins,WilkJo01,rushing,IND,8,28,1,14,1.8,14,1.8,1,8,202011120oti
+Jonathan Taylor,TaylJo02,rushing,IND,7,12,2,1,0.1,11,1.6,0,NA,202011120oti
+Jacoby Brissett,BrisJa00,rushing,IND,1,2,1,1,1,1,1,0,NA,202011120oti
+Michael Pittman Jr.,PittMi01,rushing,IND,1,21,1,18,18,3,3,0,NA,202011120oti
+Derrick Henry,HenrDe00,rushing,TEN,19,103,6,35,1.8,68,3.6,2,9.5,202011120oti
+D'Onta Foreman,ForeDO00,rushing,TEN,7,18,1,5,0.7,13,1.9,1,7,202011120oti
+Jeremy McNichols,McNiJe00,rushing,TEN,3,26,1,12,4,14,4.7,0,NA,202011120oti
+Ryan Tannehill,TannRy00,rushing,TEN,2,9,0,2,1,7,3.5,0,NA,202011120oti
+Jonnu Smith,SmitJo01,rushing,TEN,1,1,1,1,1,0,0,0,NA,202011120oti

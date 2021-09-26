@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,14,67,5,41,2.9,26,1.9,1,14,201812170car
+Mark Ingram,IngrMa01,rushing,NOR,12,63,3,27,2.3,36,3,3,4,201812170car
+Drew Brees,BreeDr00,rushing,NOR,2,-2,0,-2,-1,0,0,0,NA,201812170car
+Zach Line,LineZa01,rushing,NOR,2,6,2,3,1.5,3,1.5,0,NA,201812170car
+Taysom Hill,HillTa00,rushing,NOR,1,17,1,7,7,10,10,1,1,201812170car
+Tommylee Lewis,LewiTo00,rushing,NOR,1,4,NA,-2,-2,6,6,0,NA,201812170car
+Christian McCaffrey,McCaCh01,rushing,CAR,15,53,2,27,1.8,26,1.7,2,7.5,201812170car
+Cam Newton,NewtCa00,rushing,CAR,5,15,3,-2,-0.4,17,3.4,1,5,201812170car
+Curtis Samuel,SamuCu00,rushing,CAR,2,8,0,6,3,2,1,0,NA,201812170car
+D.J. Moore,MoorD.00,rushing,CAR,1,22,NA,4,4,18,18,1,1,201812170car

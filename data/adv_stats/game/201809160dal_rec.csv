@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Saquon Barkley,BarkSa00,receiving,NYG,16,14,80,0,2,-16,-1.1,96,6.9,-1.3,4,3.5,0,0,0,87.5,201809160dal
+Evan Engram,EngrEv00,receiving,NYG,7,7,67,1,3,27,3.9,40,5.7,3.9,0,NA,0,0,0,146.1,201809160dal
+Odell Beckham Jr.,BeckOd00,receiving,NYG,9,4,51,0,4,37,9.3,14,3.5,14.7,1,4,1,11.1,0,62.7,201809160dal
+Sterling Shepard,ShepSt00,receiving,NYG,5,3,24,0,1,21,7,3,1,10.8,0,NA,0,0,0,72.1,201809160dal
+Rhett Ellison,ElliRh00,receiving,NYG,2,2,5,0,NA,2,1,3,1.5,1,0,NA,0,0,0,79.2,201809160dal
+Cody Latimer,LatiCo00,receiving,NYG,3,2,41,0,1,41,20.5,0,0,24.3,0,NA,0,0,0,109.7,201809160dal
+Wayne Gallman,GallWa00,receiving,NYG,1,1,11,0,NA,0,0,11,11,0,1,1,0,0,0,112.5,201809160dal
+Russell Shepard,ShepRu00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,20,0,NA,0,0,0,39.6,201809160dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,6,5,9,0,0,-8,-1.6,17,3.4,-1,0,NA,0,0,0,79.2,201809160dal
+Deonte Thompson,ThomDe04,receiving,DAL,5,4,33,0,2,28,7,5,1.3,14.4,0,NA,0,0,0,94.2,201809160dal
+Tavon Austin,AustTa00,receiving,DAL,2,2,79,1,2,53,26.5,26,13,26.5,0,NA,0,0,0,158.3,201809160dal
+Cole Beasley,BeasCo00,receiving,DAL,3,2,13,0,1,14,7,-1,-0.5,9.3,0,NA,0,0,0,75.7,201809160dal
+Michael Gallup,GallMi00,receiving,DAL,2,1,5,0,NA,4,4,1,1,19.5,0,NA,1,50,0,56.2,201809160dal
+Allen Hurns,HurnAl01,receiving,DAL,2,1,9,0,NA,7,7,2,2,3.5,0,NA,0,0,0,62.5,201809160dal
+Terrance Williams,WillTe01,receiving,DAL,1,1,12,0,1,6,6,6,6,6,0,NA,0,0,0,116.7,201809160dal
+Rico Gathers,GathRi00,receiving,DAL,2,0,0,0,NA,0,NA,0,NA,11.5,0,NA,0,0,0,39.6,201809160dal

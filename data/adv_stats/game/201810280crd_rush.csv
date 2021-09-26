@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Matt Breida,BreiMa00,rushing,SFO,16,42,1,7,0.4,35,2.2,1,16,201810280crd
+Alfred Morris,MorrAl00,rushing,SFO,6,28,1,21,3.5,7,1.2,0,NA,201810280crd
+C.J. Beathard,BeatC.00,rushing,SFO,5,9,1,3,0.6,6,1.2,0,NA,201810280crd
+Kyle Juszczyk,JuszKy00,rushing,SFO,2,10,1,7,3.5,3,1.5,0,NA,201810280crd
+Raheem Mostert,MostRa00,rushing,SFO,2,18,1,11,5.5,7,3.5,0,NA,201810280crd
+David Johnson,JohnDa08,rushing,ARI,16,59,2,34,2.1,25,1.6,1,16,201810280crd
+Chase Edmonds,EdmoCh00,rushing,ARI,2,9,0,4,2,5,2.5,0,NA,201810280crd
+Josh Rosen,RoseJo01,rushing,ARI,2,12,1,8,4,4,2,0,NA,201810280crd
+JJ Nelson,NelsJJ00,rushing,ARI,1,8,NA,5,5,3,3,0,NA,201810280crd

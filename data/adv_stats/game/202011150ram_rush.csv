@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alex Collins,CollAl00,rushing,SEA,11,43,2,22,2,21,1.9,0,NA,202011150ram
+Russell Wilson,WilsRu00,rushing,SEA,8,60,3,58,7.3,2,0.3,0,NA,202011150ram
+DeeJay Dallas,DallDe00,rushing,SEA,2,8,1,3,1.5,5,2.5,0,NA,202011150ram
+David Moore,MoorDa03,rushing,SEA,1,2,NA,2,2,0,0,0,NA,202011150ram
+Cam Akers,AkerCa00,rushing,LAR,10,38,1,15,1.5,23,2.3,2,5,202011150ram
+Darrell Henderson,HendDa00,rushing,LAR,7,28,2,18,2.6,10,1.4,0,NA,202011150ram
+Malcolm Brown,BrowMa03,rushing,LAR,6,33,3,23,3.8,10,1.7,0,NA,202011150ram
+Jared Goff,GoffJa00,rushing,LAR,5,4,2,4,0.8,0,0,0,NA,202011150ram
+Robert Woods,WoodRo02,rushing,LAR,1,3,0,3,3,0,0,0,NA,202011150ram

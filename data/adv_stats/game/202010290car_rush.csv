@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Todd Gurley,GurlTo01,rushing,ATL,18,46,3,19,1.1,27,1.5,0,NA,202010290car
+Brian Hill,HillBr02,rushing,ATL,11,55,4,21,1.9,34,3.1,0,NA,202010290car
+Matt Ryan,RyanMa00,rushing,ATL,6,27,2,22,3.7,5,0.8,0,NA,202010290car
+Qadree Ollison,OlliQa00,rushing,ATL,1,3,1,0,0,3,3,0,NA,202010290car
+Mike Davis,DaviMi01,rushing,CAR,13,66,3,11,0.8,55,4.2,0,NA,202010290car
+Teddy Bridgewater,BridTe00,rushing,CAR,5,30,1,26,5.2,4,0.8,0,NA,202010290car
+Curtis Samuel,SamuCu00,rushing,CAR,3,23,1,13,4.3,10,3.3,0,NA,202010290car
+Jeremy Chinn,ChinJe00,rushing,CAR,1,28,1,28,28,0,0,0,NA,202010290car

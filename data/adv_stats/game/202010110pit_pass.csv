@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Carson Wentz,WentCa00,passing,PHI,20,35,258,13,32.5,461,13.2,200,10,5.7,58,2.9,2,5.7%,9,25.7%,5,18,5,5,15,35.7%,2,2.5,202010110pit
+Jalen Hurts,HurtJa00,passing,PHI,1,1,18,1,100,13,13,13,13,13,5,5,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202010110pit
+Ben Roethlisberger,RoetBe00,passing,PIT,27,34,239,13,37.1,196,5.8,101,3.7,3,138,5.1,0,0.0%,4,11.8%,1,6,3,1,5,14.3%,0,NA,202010110pit

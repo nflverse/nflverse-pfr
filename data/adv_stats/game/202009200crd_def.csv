@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jimmy Moreland,MoreJi00,defense,WAS,0,12,10,83.3%,61,6.1,5.1,0,87.8,3.9,16,45,0,0,0,0,0,6,2,25.0%,202009200crd
+Kevin Pierre-Louis,PierKe00,defense,WAS,0,6,5,83.3%,17,3.4,2.8,0,79.2,1,-8,25,4,1,0,0,1,16,1,5.9%,202009200crd
+Jonathan Bostic,BostJo00,defense,WAS,0,5,4,80.0%,35,8.8,7,0,95.8,7.4,12,23,3,0,0,1,1,8,0,0.0%,202009200crd
+Fabian Moreau,MoreFa00,defense,WAS,0,3,3,100.0%,43,14.3,14.3,0,118.7,4.3,13,30,0,0,0,0,0,3,1,25.0%,202009200crd
+Landon Collins,CollLa00,defense,WAS,1,4,2,50.0%,17,8.5,4.3,1,61.5,10.3,13,4,2,0,0,1,1,5,1,16.7%,202009200crd
+Kamren Curl,CurlKa00,defense,WAS,0,3,2,66.7%,12,6,4,0,74.3,8,1,11,0,0,0,0,0,2,1,33.3%,202009200crd
+Troy Apke,ApkeTr00,defense,WAS,0,3,2,66.7%,74,37,24.7,0,109.7,27.3,65,9,0,0,0,0,0,5,1,16.7%,202009200crd
+Ronald Darby,DarbRo00,defense,WAS,0,3,2,66.7%,57,28.5,19,0,109.7,29.7,57,0,0,0,0,0,0,3,0,0.0%,202009200crd
+Chase Young,YounCh04,defense,WAS,0,1,1,100.0%,6,6,6,0,91.7,-6,-6,12,0,1,0,1,2,4,0,0.0%,202009200crd
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,202009200crd
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202009200crd
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,202009200crd
+Matthew Ioannidis,IoanMa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202009200crd
+Jordan Hicks,HickJo00,defense,ARI,0,5,5,100.0%,36,7.2,7.2,0,96.7,4,20,16,6,0,0,0,0,10,1,9.1%,202009200crd
+De'Vondre Campbell,CampDe00,defense,ARI,0,10,5,50.0%,17,3.4,1.7,0,56.2,6,4,13,1,0,0,0,0,10,2,16.7%,202009200crd
+Byron Murphy,MurpBy00,defense,ARI,0,5,4,80.0%,77,19.3,15.4,0,118.7,11.4,33,44,1,0,0,0,0,1,1,50.0%,202009200crd
+Patrick Peterson,PetePa00,defense,ARI,0,7,4,57.1%,66,16.5,9.4,1,128.6,9.9,19,47,1,0,0,0,0,1,1,50.0%,202009200crd
+Chris Banjo,BanjCh00,defense,ARI,0,7,3,42.9%,36,12,5.1,0,59.2,10.3,12,24,1,0,0,0,0,9,2,18.2%,202009200crd
+Budda Baker,BakeBu00,defense,ARI,0,2,2,100.0%,12,6,6,0,91.7,5,10,2,2,0,0,0,0,5,2,28.6%,202009200crd
+Dre Kirkpatrick,KirkDr00,defense,ARI,0,6,2,33.3%,24,12,4,0,46.5,13.8,18,6,0,0,0,0,0,2,1,33.3%,202009200crd
+Chandler Jones,JoneCh03,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,4,0,4,0,2,100.0%,202009200crd
+Devon Kennard,KennDe00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,1,25.0%,202009200crd
+Haason Reddick,ReddHa00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,1,2,2,0,0.0%,202009200crd
+Corey Peters,PeteCo00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202009200crd
+Jordan Phillips,PhilJo01,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,50.0%,202009200crd

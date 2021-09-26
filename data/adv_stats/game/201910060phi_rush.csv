@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Le'Veon Bell,BellLe00,rushing,NYJ,15,43,2,22,1.5,21,1.4,0,NA,201910060phi
+Ty Montgomery,MontTy01,rushing,NYJ,2,1,NA,1,0.5,0,0,0,NA,201910060phi
+Bilal Powell,PoweBi00,rushing,NYJ,1,4,NA,4,4,0,0,0,NA,201910060phi
+Vyncint Smith,SmitVy00,rushing,NYJ,1,19,1,19,19,0,0,0,NA,201910060phi
+Jordan Howard,HowaJo00,rushing,PHI,13,62,4,28,2.2,34,2.6,0,NA,201910060phi
+Miles Sanders,SandMi01,rushing,PHI,9,15,1,7,0.8,8,0.9,0,NA,201910060phi
+Darren Sproles,SproDa00,rushing,PHI,3,4,NA,3,1,1,0.3,0,NA,201910060phi
+Josh McCown,McCoJo01,rushing,PHI,2,-2,NA,-2,-1,0,0,0,NA,201910060phi
+Carson Wentz,WentCa00,rushing,PHI,2,5,0,-2,-1,7,3.5,0,NA,201910060phi

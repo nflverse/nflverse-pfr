@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Will Grier,GrieWi00,passing,CAR,27,44,224,12,24.5,402,9.1,53,2,1.2,171,6.3,1,2.4%,7,17.1%,5,5,10,2,17,32.7%,3,5.7,201912220clt
+Michael Palardy,PalaMi00,passing,CAR,1,1,12,1,100,10,10,10,10,10,2,2,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201912220clt
+Jacoby Brissett,BrisJa00,passing,IND,14,27,119,6,20,289,10.7,84,6,3.1,35,2.5,2,8.3%,7,29.2%,3,9,8,3,14,43.8%,2,18,201912220clt

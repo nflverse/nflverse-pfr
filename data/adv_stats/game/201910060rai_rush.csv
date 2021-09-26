@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,11,25,1,14,1.3,11,1,2,5.5,201910060rai
+Tarik Cohen,CoheTa00,rushing,CHI,4,10,0,8,2,2,0.5,0,NA,201910060rai
+Chase Daniel,DaniCh00,rushing,CHI,1,2,0,2,2,0,0,0,NA,201910060rai
+Cordarrelle Patterson,PattCo00,rushing,CHI,1,5,NA,5,5,0,0,0,NA,201910060rai
+Josh Jacobs,JacoJo01,rushing,OAK,26,123,7,61,2.3,62,2.4,5,5.2,201910060rai
+DeAndre Washington,WashDe00,rushing,OAK,6,17,3,8,1.3,9,1.5,0,NA,201910060rai
+Derek Carr,CarrDe02,rushing,OAK,3,8,0,8,2.7,0,0,0,NA,201910060rai
+Jalen Richard,RichJa01,rushing,OAK,2,14,1,13,6.5,1,0.5,0,NA,201910060rai
+Erik Harris,HarrEr00,rushing,OAK,1,4,1,4,4,0,0,0,NA,201910060rai
+Alec Ingold,IngoAl01,rushing,OAK,1,3,1,2,2,1,1,0,NA,201910060rai

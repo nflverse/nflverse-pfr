@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mark Ingram,IngrMa01,rushing,BAL,16,103,8,38,2.4,65,4.1,0,NA,201909220kan
+Lamar Jackson,JackLa00,rushing,BAL,8,46,3,29,3.6,17,2.1,0,NA,201909220kan
+Gus Edwards,EdwaGu00,rushing,BAL,7,53,4,16,2.3,37,5.3,0,NA,201909220kan
+Justice Hill,HillJu00,rushing,BAL,1,1,NA,0,0,1,1,0,NA,201909220kan
+Darrel Williams,WillDa10,rushing,KAN,9,62,2,43,4.8,19,2.1,0,NA,201909220kan
+LeSean McCoy,McCoLe01,rushing,KAN,8,54,4,18,2.3,36,4.5,0,NA,201909220kan
+Patrick Mahomes,MahoPa00,rushing,KAN,4,9,1,8,2,1,0.3,0,NA,201909220kan
+Darwin Thompson,ThomDa06,rushing,KAN,3,8,1,1,0.3,7,2.3,0,NA,201909220kan
+Mecole Hardman,HardMe00,rushing,KAN,1,7,1,6,6,1,1,0,NA,201909220kan

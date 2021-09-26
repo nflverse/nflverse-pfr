@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Roquan Smith,SmitRo07,defense,CHI,0,6,4,66.7%,8,2,1.3,0,70.1,0,0,8,1,1,0,0,1,12,0,0.0%,202010180car
+Buster Skrine,SkriBu00,defense,CHI,0,7,4,57.1%,58,14.5,8.3,0,84.2,14.6,36,22,1,0,0,0,0,5,1,16.7%,202010180car
+Jaylon Johnson,JohnJa13,defense,CHI,0,7,4,57.1%,115,28.8,16.4,0,101.8,14.4,82,33,0,0,0,0,0,3,1,25.0%,202010180car
+Danny Trevathan,TrevDa00,defense,CHI,0,5,4,80.0%,43,10.8,8.6,0,102.5,5.2,23,20,1,0,0,0,0,10,0,0.0%,202010180car
+Kyle Fuller,FullKy00,defense,CHI,0,4,3,75.0%,12,4,3,0,77.1,3,10,2,0,0,0,0,0,4,1,20.0%,202010180car
+Tashaun Gipson,GipsTa00,defense,CHI,1,2,1,50.0%,39,39,19.5,0,56.2,20.5,39,0,1,0,0,0,0,6,0,0.0%,202010180car
+Akiem Hicks,HickAk00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,0,4,2,0,0.0%,202010180car
+Khalil Mack,MackKh00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,4,1,20.0%,202010180car
+Mario Edwards,EdwaMa01,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202010180car
+Bilal Nichols,NichBi00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,202010180car
+Robert Quinn,QuinRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,202010180car
+Barkevious Mingo,MingBa00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,1,33.3%,202010180car
+James Vaughters,VaugJa01,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,3,0,0.0%,202010180car
+Eddie Jackson,JackEd01,defense,CHI,0,1,0,0.0%,NA,NA,0,NA,39.6,15,NA,NA,1,0,0,0,0,3,1,25.0%,202010180car
+DeAndre Houston-Carson,HousDe00,defense,CHI,1,1,0,0.0%,NA,NA,0,NA,0,15,NA,NA,0,0,0,0,0,1,0,0.0%,202010180car
+Jeremy Chinn,ChinJe00,defense,CAR,1,9,6,66.7%,56,9.3,6.2,1,81,6.8,37,19,2,0,0,0,0,5,1,16.7%,202010180car
+Tre Boston,BostTr00,defense,CAR,0,5,4,80.0%,28,7,5.6,0,90,6.6,6,22,3,0,0,0,0,8,0,0.0%,202010180car
+Juston Burris,BurrJu00,defense,CAR,0,5,4,80.0%,28,7,5.6,1,129.6,5.8,19,9,1,0,0,0,0,4,0,0.0%,202010180car
+Tahir Whitehead,WhitTa00,defense,CAR,0,3,3,100.0%,30,10,10,0,108.3,4,12,18,2,0,1,0,1,5,1,16.7%,202010180car
+Corn Elder,EldeCo00,defense,CAR,0,4,3,75.0%,23,7.7,5.8,0,88.5,6.5,13,10,0,0,0,0,0,4,0,0.0%,202010180car
+Donte Jackson,JackDo02,defense,CAR,0,4,2,50.0%,8,4,2,0,56.2,11.8,7,1,0,0,0,0,0,2,0,0.0%,202010180car
+Rasul Douglas,DougRa00,defense,CAR,0,6,2,33.3%,29,14.5,4.8,0,50,7.3,25,4,0,0,0,0,0,1,0,0.0%,202010180car
+Troy Pride Jr.,PridTr00,defense,CAR,0,3,2,66.7%,29,14.5,9.7,0,97.9,13,28,1,0,0,0,0,0,2,0,0.0%,202010180car
+Adarius Taylor,GlanAd00,defense,CAR,0,2,1,50.0%,2,2,1,0,56.2,2.5,2,0,0,0,0,0,0,1,0,0.0%,202010180car
+Zach Kerr,KerrZa00,defense,CAR,0,1,1,100.0%,7,7,7,0,95.8,-6,-6,13,0,0,0,0,0,2,0,0.0%,202010180car
+Shaq Thompson,ThomSh01,defense,CAR,0,4,1,25.0%,8,8,2,0,39.6,1.8,7,1,1,0,0,0,0,6,0,0.0%,202010180car
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,3,0,0.0%,202010180car
+Efe Obada,ObadEf00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,202010180car
+Derrick Brown,BrowDe05,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,202010180car
+Bravvion Roy,RoyxBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202010180car
+Marquis Haynes,HaynMa01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202010180car
+Stephen Weatherly,WeatSt00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202010180car

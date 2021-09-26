@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jamaal Williams,WillJa06,receiving,GNB,8,7,35,0,2,-11,-1.6,46,6.6,-1.6,2,3.5,1,12.5,0,84.9,201911240sfo
+Davante Adams,AdamDa01,receiving,GNB,12,7,43,1,4,-1,-0.1,44,6.3,8,0,NA,1,8.3,0,93.4,201911240sfo
+Geronimo Allison,AlliGe01,receiving,GNB,4,3,9,0,1,2,0.7,7,2.3,2.8,0,NA,1,25,0,77.1,201911240sfo
+Robert Tonyan,TonyRo00,receiving,GNB,2,2,8,0,NA,3,1.5,5,2.5,1.5,0,NA,0,0,0,83.3,201911240sfo
+Allen Lazard,LazaAl00,receiving,GNB,2,1,7,0,1,-2,-2,9,9,7,0,NA,0,0,0,58.3,201911240sfo
+Danny Vitale,VitaDa00,receiving,GNB,1,1,3,0,NA,3,3,0,0,3,0,NA,0,0,0,79.2,201911240sfo
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,3,1,7,0,NA,5,5,2,2,21,0,NA,0,0,0,42.4,201911240sfo
+Jimmy Graham,GrahJi00,receiving,GNB,2,1,7,0,NA,-3,-3,10,10,18,0,NA,0,0,0,58.3,201911240sfo
+Jake Kumerow,KumeJa00,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,201911240sfo
+Aaron Jones,JoneAa00,receiving,GNB,1,0,0,0,0,0,NA,0,NA,5,0,NA,0,0,0,39.6,201911240sfo
+George Kittle,KittGe00,receiving,SFO,6,6,129,1,4,66,11,63,10.5,11,0,NA,0,0,0,158.3,201911240sfo
+Deebo Samuel,SamuDe00,receiving,SFO,2,2,50,1,1,18,9,32,16,9,0,NA,0,0,0,158.3,201911240sfo
+Tevin Coleman,ColeTe01,receiving,SFO,4,2,10,0,0,-4,-2,14,7,-1,0,NA,0,0,0,56.2,201911240sfo
+Kendrick Bourne,BourKe00,receiving,SFO,2,2,27,0,2,18,9,9,4.5,9,0,NA,0,0,0,118.7,201911240sfo
+Raheem Mostert,MostRa00,receiving,SFO,3,1,22,0,1,3,3,19,19,2.7,1,1,1,33.3,0,60.4,201911240sfo
+Emmanuel Sanders,SandEm00,receiving,SFO,1,1,15,0,1,12,12,3,3,12,0,NA,0,0,0,118.7,201911240sfo
+Jeff Wilson,WilsJe01,receiving,SFO,1,0,0,0,0,0,NA,0,NA,3,0,NA,0,0,0,39.6,201911240sfo

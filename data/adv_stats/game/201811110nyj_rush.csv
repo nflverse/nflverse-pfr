@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+LeSean McCoy,McCoLe01,rushing,BUF,26,113,4,61,2.3,52,2,0,NA,201811110nyj
+Marcus Murphy,MurpMa03,rushing,BUF,14,69,4,32,2.3,37,2.6,0,NA,201811110nyj
+Matt Barkley,BarkMa00,rushing,BUF,3,-2,0,-2,-0.7,0,0,0,NA,201811110nyj
+Isaiah McKenzie,McKeIs00,rushing,BUF,3,32,2,21,7,11,3.7,0,NA,201811110nyj
+Isaiah Crowell,CrowIs00,rushing,NYJ,7,19,2,-3,-0.4,22,3.1,1,7,201811110nyj
+Elijah McGuire,McGuEl00,rushing,NYJ,6,30,2,10,1.7,20,3.3,0,NA,201811110nyj
+Trenton Cannon,CannTr00,rushing,NYJ,4,30,1,13,3.3,17,4.3,1,4,201811110nyj
+Josh McCown,McCoJo01,rushing,NYJ,1,4,0,1,1,3,3,0,NA,201811110nyj

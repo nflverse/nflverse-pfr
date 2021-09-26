@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tee Higgins,HiggTe00,receiving,CIN,9,7,115,1,5,62,8.9,53,7.6,11.6,1,7,0,0,0,155.8,202011150pit
+Tyler Boyd,BoydTy00,receiving,CIN,8,6,41,0,1,22,3.7,19,3.2,8,0,NA,0,0,0,85.9,202011150pit
+Giovani Bernard,BernGi00,receiving,CIN,7,4,17,0,1,3,0.8,14,3.5,2.6,0,NA,1,14.3,0,62.2,202011150pit
+Auden Tate,TateAu00,receiving,CIN,4,2,24,0,NA,7,3.5,17,8.5,6,0,NA,0,0,0,68.7,202011150pit
+Samaje Perine,PeriSa00,receiving,CIN,1,1,7,0,1,7,7,0,0,7,0,NA,0,0,0,95.8,202011150pit
+Drew Sample,SampDr00,receiving,CIN,2,1,9,0,1,5,5,4,4,4.5,0,NA,1,50,0,62.5,202011150pit
+A.J. Green,GreeA.00,receiving,CIN,5,0,0,0,NA,0,NA,0,NA,17.8,0,NA,1,20,0,39.6,202011150pit
+Mike Thomas,ThomMi04,receiving,CIN,2,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,202011150pit
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,13,9,77,1,4,54,6,23,2.6,6.5,1,9,1,7.7,0,110.1,202011150pit
+Diontae Johnson,JohnDi01,receiving,PIT,11,6,116,1,5,64,10.7,52,8.7,10.5,0,NA,1,9.1,0,121.8,202011150pit
+Chase Claypool,ClayCh01,receiving,PIT,10,4,56,2,5,29,7.3,27,6.8,17.8,0,NA,1,10,0,98.3,202011150pit
+James Conner,ConnJa00,receiving,PIT,2,2,12,0,0,3,1.5,9,4.5,1.5,0,NA,0,0,0,91.7,202011150pit
+Eric Ebron,EbroEr00,receiving,PIT,6,2,38,0,2,22,11,16,8,6.7,0,NA,0,0,0,56.2,202011150pit
+Ray-Ray McCloud,McClRa00,receiving,PIT,2,2,4,0,NA,-7,-3.5,11,5.5,-3.5,0,NA,0,0,0,79.2,202011150pit
+James Washington,WashJa00,receiving,PIT,2,2,30,0,1,16,8,14,7,8,0,NA,0,0,0,118.7,202011150pit

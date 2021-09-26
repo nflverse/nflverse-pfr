@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,JAX,24,53,3,34,1.4,19,0.8,0,NA,201811110clt
+Carlos Hyde,HydeCa00,rushing,JAX,3,5,NA,2,0.7,3,1,0,NA,201811110clt
+T.J. Yeldon,YeldT.00,rushing,JAX,3,12,1,9,3,3,1,0,NA,201811110clt
+Blake Bortles,BortBl00,rushing,JAX,2,8,1,7,3.5,1,0.5,0,NA,201811110clt
+Dede Westbrook,WestDe00,rushing,JAX,2,13,1,12,6,1,0.5,0,NA,201811110clt
+Marlon Mack,MackMa00,rushing,IND,12,29,1,18,1.5,11,0.9,0,NA,201811110clt
+Andrew Luck,LuckAn00,rushing,IND,5,-2,1,-2,-0.4,0,0,0,NA,201811110clt
+Nyheim Hines,HineNy00,rushing,IND,3,3,NA,3,1,0,0,0,NA,201811110clt
+Eric Ebron,EbroEr00,rushing,IND,1,2,1,1,1,1,1,0,NA,201811110clt
+Chester Rogers,RogeCh02,rushing,IND,1,-4,NA,-4,-4,0,0,0,NA,201811110clt
+Jordan Wilkins,WilkJo01,rushing,IND,1,53,1,44,44,9,9,0,NA,201811110clt

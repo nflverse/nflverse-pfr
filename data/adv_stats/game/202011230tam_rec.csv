@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Robert Woods,WoodRo02,receiving,LAR,15,12,130,1,6,61,5.1,69,5.8,4.9,1,12,0,0,1,97.2,202011230tam
+Cooper Kupp,KuppCo00,receiving,LAR,13,11,145,0,6,71,6.5,74,6.7,5.1,4,2.8,0,0,0,113.1,202011230tam
+Gerald Everett,EverGe00,receiving,LAR,5,4,27,0,3,10,2.5,17,4.3,2.4,1,4,1,20,0,89.2,202011230tam
+Tyler Higbee,HigbTy00,receiving,LAR,4,4,19,0,NA,14,3.5,5,1.3,3.5,1,4,0,0,0,86.5,202011230tam
+Josh Reynolds,ReynJo00,receiving,LAR,6,3,32,0,2,16,5.3,16,5.3,14.2,0,NA,1,16.7,0,66,202011230tam
+Darrell Henderson,HendDa00,receiving,LAR,3,2,4,0,NA,-6,-3,10,5,-1.7,2,1,0,0,1,30.6,202011230tam
+Cam Akers,AkerCa00,receiving,LAR,1,1,4,1,1,3,3,1,1,3,0,NA,0,0,0,122.9,202011230tam
+Malcolm Brown,BrowMa03,receiving,LAR,1,1,8,0,NA,2,2,6,6,2,0,NA,0,0,0,100,202011230tam
+Van Jefferson,JeffVa00,receiving,LAR,1,1,7,1,1,5,5,2,2,5,0,NA,0,0,0,135.4,202011230tam
+Antonio Brown,BrowAn04,receiving,TAM,13,8,57,0,4,37,4.6,20,2.5,9.6,0,NA,0,0,0,71.6,202011230tam
+Chris Godwin,GodwCh00,receiving,TAM,10,7,53,1,4,26,3.7,27,3.9,6.9,0,NA,0,0,1,76.2,202011230tam
+Mike Evans,EvanMi00,receiving,TAM,9,5,49,1,3,34,6.8,15,3,14.1,0,NA,0,0,0,108.1,202011230tam
+Cameron Brate,BratCa00,receiving,TAM,4,3,23,0,2,22,7.3,1,0.3,13.3,0,NA,0,0,1,49,202011230tam
+Rob Gronkowski,GronRo00,receiving,TAM,6,2,25,0,1,19,9.5,6,3,9.8,0,NA,0,0,0,47.2,202011230tam
+Leonard Fournette,FourLe00,receiving,TAM,4,1,9,0,0,-5,-5,14,14,-2.5,0,NA,3,75,0,39.6,202011230tam
+Ronald Jones II,JoneRo01,receiving,TAM,1,0,0,0,0,0,NA,0,NA,-3,0,NA,1,100,0,39.6,202011230tam

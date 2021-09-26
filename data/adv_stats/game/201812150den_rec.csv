@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Antonio Callaway,CallAn00,receiving,CLE,7,5,35,1,3,17,3.4,18,3.6,7.3,0,NA,0,0,0,122,201812150den
+Duke Johnson,JohnDu00,receiving,CLE,5,4,25,0,2,8,2,17,4.3,3,0,NA,1,20,0,87.5,201812150den
+Jarvis Landry,LandJa00,receiving,CLE,8,3,37,0,3,27,9,10,3.3,8.9,0,NA,1,12.5,1,13,201812150den
+David Njoku,NjokDa00,receiving,CLE,5,3,30,0,2,15,5,15,5,13.8,0,NA,0,0,0,77.1,201812150den
+Rashard Higgins,HiggRa00,receiving,CLE,3,2,30,0,2,24,12,6,3,14.7,0,NA,0,0,0,99.3,201812150den
+Breshad Perriman,PerrBr02,receiving,CLE,2,1,31,1,1,30,30,1,1,28.5,0,NA,0,0,0,135.4,201812150den
+Nick Chubb,ChubNi00,receiving,CLE,1,0,0,0,0,0,NA,0,NA,7,0,NA,1,100,0,39.6,201812150den
+DaeSean Hamilton,HamiDa01,receiving,DEN,12,7,46,0,3,32,4.6,14,2,10.4,0,NA,0,0,1,31.9,201812150den
+Tim Patrick,PatrTi00,receiving,DEN,8,5,65,0,3,29,5.8,36,7.2,7.4,0,NA,1,12.5,0,88,201812150den
+Courtland Sutton,SuttCo00,receiving,DEN,6,5,42,0,3,33,6.6,9,1.8,10.3,1,5,0,0,1,56.2,201812150den
+Matt LaCosse,LaCoMa00,receiving,DEN,6,4,43,0,4,15,3.8,28,7,4.7,0,NA,0,0,0,87.5,201812150den
+Phillip Lindsay,LindPh00,receiving,DEN,6,4,20,0,1,-6,-1.5,26,6.5,-0.3,0,NA,1,16.7,0,71.5,201812150den
+Devontae Booker,BookDe00,receiving,DEN,3,2,17,0,1,2,1,15,7.5,3.7,3,0.7,0,0,0,81.2,201812150den
+Brian Parker,ParkBr00,receiving,DEN,2,2,18,0,1,2,1,16,8,1,1,2,0,0,0,104.2,201812150den
+Royce Freeman,FreeRo00,receiving,DEN,1,1,1,0,NA,0,0,1,1,0,0,NA,0,0,0,79.2,201812150den
+Andre Holmes,HolmAn00,receiving,DEN,1,1,5,0,1,-3,-3,8,8,-3,0,NA,0,0,0,87.5,201812150den

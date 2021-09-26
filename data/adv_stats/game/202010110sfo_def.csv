@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jerome Baker,BakeJe00,defense,MIA,0,6,3,50.0%,19,6.3,3.2,0,56.9,9.8,14,5,6,0,1,1,2,8,0,0.0%,202010110sfo
+Eric Rowe,RoweEr00,defense,MIA,0,8,3,37.5%,51,17,6.4,1,99.5,5.4,24,27,1,0,0,0,0,4,0,0.0%,202010110sfo
+Elandon Roberts,RobeEl00,defense,MIA,0,2,2,100.0%,15,7.5,7.5,0,97.9,9,9,6,7,1,0,1,2,1,1,50.0%,202010110sfo
+Kamu Grugier-Hill,GrugKa00,defense,MIA,0,2,2,100.0%,20,10,10,0,108.3,8,16,4,3,0,1,0,1,3,0,0.0%,202010110sfo
+Nik Needham,NeedNi00,defense,MIA,0,3,2,66.7%,27,13.5,9,0,95.1,7.3,12,15,0,0,0,0,0,3,0,0.0%,202010110sfo
+Andrew Van Ginkel,VanGAn00,defense,MIA,0,1,1,100.0%,0,0,0,0,79.2,-5,-5,5,8,0,0,1,1,6,1,14.3%,202010110sfo
+Byron Jones,JoneBy00,defense,MIA,0,4,1,25.0%,15,15,3.8,0,42.7,19.5,-2,17,0,0,0,0,0,1,0,0.0%,202010110sfo
+Christian Wilkins,WilkCh00,defense,MIA,0,1,1,100.0%,11,11,11,0,112.5,2,2,9,0,0,0,0,0,2,0,0.0%,202010110sfo
+Zach Sieler,SielZa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,2,0,0.0%,202010110sfo
+Emmanuel Ogbah,OgbaEm00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202010110sfo
+Davon Godchaux,GodcDa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202010110sfo
+Xavien Howard,HowaXa00,defense,MIA,1,4,0,0.0%,NA,NA,0,NA,0,13.8,NA,NA,0,0,0,0,0,2,0,0.0%,202010110sfo
+Samuel Eguavoen,EguaSa00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202010110sfo
+Kyle Van Noy,VanNKy00,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,2,1,33.3%,202010110sfo
+Bobby McCain,McCaBo01,defense,MIA,1,1,0,0.0%,NA,NA,0,NA,0,14,NA,NA,3,0,0,0,0,3,0,0.0%,202010110sfo
+Brandon Jones,JoneBr06,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202010110sfo
+Brian Allen,AlleBr01,defense,SFO,0,6,5,83.3%,124,24.8,20.7,1,158.3,18,109,15,0,0,0,0,0,3,0,0.0%,202010110sfo
+Fred Warner,WarnFr00,defense,SFO,0,5,4,80.0%,25,6.3,5,0,87.5,2.4,4,21,3,0,1,0,1,10,0,0.0%,202010110sfo
+Dre Greenlaw,GreeDr00,defense,SFO,0,4,4,100.0%,56,14,14,0,118.7,1.8,7,49,3,0,0,0,0,7,0,0.0%,202010110sfo
+Jaquiski Tartt,TartJa00,defense,SFO,0,3,3,100.0%,27,9,9,0,104.2,8.7,26,1,1,0,0,0,0,7,0,0.0%,202010110sfo
+Jimmie Ward,WardJi01,defense,SFO,0,3,2,66.7%,33,16.5,11,1,143.1,10.3,29,4,0,0,0,0,0,8,0,0.0%,202010110sfo
+Kwon Alexander,AlexKw00,defense,SFO,0,1,1,100.0%,3,3,3,1,118.7,0,0,3,5,1,0,1,2,5,0,0.0%,202010110sfo
+Jamar Taylor,TaylJa01,defense,SFO,0,1,1,100.0%,70,70,70,0,118.7,26,26,44,3,0,1,0,1,3,0,0.0%,202010110sfo
+Jason Verrett,VerrJa00,defense,SFO,0,3,1,33.3%,6,6,2,0,42.4,15,6,0,0,0,0,0,0,2,0,0.0%,202010110sfo
+Ahkello Witherspoon,WithAh00,defense,SFO,0,1,1,100.0%,6,6,6,0,91.7,2,2,4,0,0,0,0,0,3,0,0.0%,202010110sfo
+Kerry Hyder,HydeKe01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,2,0,0.0%,202010110sfo
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202010110sfo
+Alex Barrett,BarrAl00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202010110sfo

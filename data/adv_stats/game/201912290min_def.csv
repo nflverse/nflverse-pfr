@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kevin Toliver,ToliKe00,defense,CHI,0,5,4,80.0%,58,14.5,11.6,0,115,11.4,48,10,0,0,0,0,0,3,0,0.0%,201912290min
+Buster Skrine,SkriBu00,defense,CHI,0,4,3,75.0%,20,6.7,5,0,85.4,1,4,16,0,0,0,0,0,4,1,20.0%,201912290min
+Ha Ha Clinton-Dix,ClinHa00,defense,CHI,0,3,2,66.7%,11,5.5,3.7,0,72.9,3,10,1,0,0,0,0,0,4,0,0.0%,201912290min
+Leonard Floyd,FloyLe00,defense,CHI,0,1,1,100.0%,7,7,7,0,95.8,2,2,5,1,1,1,0,2,1,1,50.0%,201912290min
+Khalil Mack,MackKh00,defense,CHI,0,1,1,100.0%,11,11,11,0,112.5,-3,-3,14,1,1,0,0,1,1,1,50.0%,201912290min
+Eddie Jackson,JackEd01,defense,CHI,1,1,1,100.0%,5,5,5,0,47.9,-4,-4,9,0,0,0,0,0,2,1,33.3%,201912290min
+Kevin Pierre-Louis,PierKe00,defense,CHI,1,1,0,0.0%,NA,NA,0,NA,0,3,NA,NA,4,2,1,0,3,6,0,0.0%,201912290min
+Aaron Lynch,LyncAa00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,201912290min
+Abdullah Anderson,AndeAb00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,201912290min
+Roy Robertson-Harris,RobeRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201912290min
+Nick Kwiatkoski,KwiaNi00,defense,CHI,0,3,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,1,0,0,0,0,8,0,0.0%,201912290min
+Mackensie Alexander,AlexMa01,defense,MIN,0,7,6,85.7%,43,7.2,6.1,0,92.3,7.1,22,21,0,0,0,0,0,4,0,0.0%,201912290min
+Kris Boyd,BoydKr00,defense,MIN,0,8,5,62.5%,59,11.8,7.4,0,84.9,7.9,33,26,0,0,0,0,0,8,0,0.0%,201912290min
+Kentrell Brothers,BrotKe00,defense,MIN,0,6,5,83.3%,15,3,2.5,0,79.2,1.7,2,13,2,0,0,0,0,9,0,0.0%,201912290min
+Eric Wilson,WilsEr00,defense,MIN,0,4,3,75.0%,17,5.7,4.3,0,82.3,-2,-8,25,5,0,0,1,1,12,2,14.3%,201912290min
+Andrew Sendejo,SendAn00,defense,MIN,0,3,2,66.7%,27,13.5,9,0,95.1,10.3,26,1,2,0,0,0,0,6,1,14.3%,201912290min
+Mike Hughes,HughMi00,defense,MIN,0,3,2,66.7%,5,2.5,1.7,0,70.1,4.7,1,4,0,0,0,0,0,2,0,0.0%,201912290min
+Jayron Kearse,KearJa00,defense,MIN,0,1,1,100.0%,13,13,13,0,118.7,10,10,3,2,0,0,0,0,6,1,14.3%,201912290min
+Holton Hill,HillHo00,defense,MIN,0,2,1,50.0%,18,18,9,0,81.2,18.5,19,-1,0,0,0,0,0,5,1,16.7%,201912290min
+Stephen Weatherly,WeatSt00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,1,5,7,1,12.5%,201912290min
+Ifeadi Odenigbo,OdenIf00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,1,5,6,0,0.0%,201912290min
+Jalyn Holmes,HolmJa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201912290min
+Hercules Mata'afa,MataHe00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,0,0,NA,201912290min
+Armon Watts,WattAr01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,1,25.0%,201912290min
+Cameron Smith,SmitCa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,5,0,0.0%,201912290min

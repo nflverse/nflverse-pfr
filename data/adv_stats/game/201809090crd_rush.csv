@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,WAS,26,96,4,30,1.2,66,2.5,2,13,201809090crd
+Alex Smith,SmitAl03,rushing,WAS,8,14,2,12,1.5,2,0.3,0,NA,201809090crd
+Chris Thompson,ThomCh03,rushing,WAS,5,65,4,52,10.4,13,2.6,1,5,201809090crd
+Robert Kelley,KellRo00,rushing,WAS,3,7,NA,-5,-1.7,12,4,0,NA,201809090crd
+David Johnson,JohnDa08,rushing,ARI,9,37,4,18,2,19,2.1,1,9,201809090crd
+Chase Edmonds,EdmoCh00,rushing,ARI,4,24,2,14,3.5,10,2.5,0,NA,201809090crd
+Sam Bradford,BradSa00,rushing,ARI,2,7,1,7,3.5,0,0,0,NA,201809090crd

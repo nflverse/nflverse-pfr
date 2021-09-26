@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dede Westbrook,WestDe00,receiving,JAX,10,7,88,1,5,77,11,11,1.6,10.5,0,NA,1,10,0,130.4,201812060oti
+Donte Moncrief,MoncDo00,receiving,JAX,10,5,47,0,2,34,6.8,13,2.6,14.2,0,NA,1,10,0,63.3,201812060oti
+Keelan Cole,ColeKe00,receiving,JAX,7,3,55,0,2,50,16.7,5,1.7,10.9,0,NA,0,0,0,70.5,201812060oti
+James O'Shaughnessy,O'ShJa00,receiving,JAX,4,3,12,0,NA,5,1.7,7,2.3,6.3,0,NA,0,0,0,77.1,201812060oti
+Blake Bell,BellBl00,receiving,JAX,2,2,16,0,1,5,2.5,11,5.5,2.5,0,NA,0,0,0,100,201812060oti
+Leonard Fournette,FourLe00,receiving,JAX,3,2,5,0,0,-9,-4.5,14,7,-0.3,0,NA,0,0,0,70.1,201812060oti
+T.J. Yeldon,YeldT.00,receiving,JAX,1,1,10,0,NA,1,1,9,9,1,0,NA,0,0,0,108.3,201812060oti
+Rashad Greene,GreeRa00,receiving,JAX,2,1,10,0,1,10,10,0,0,10.5,0,NA,1,50,0,64.6,201812060oti
+Carlos Hyde,HydeCa00,receiving,JAX,1,1,-3,0,NA,-3,-3,0,0,-3,0,NA,0,0,0,79.2,201812060oti
+Tommy Bohanon,BohaTo00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,201812060oti
+Taywan Taylor,TaylTa00,receiving,TEN,7,6,59,0,3,38,6.3,21,3.5,11.7,2,3,1,14.3,0,101.8,201812060oti
+Dion Lewis,LewiDi00,receiving,TEN,5,5,39,0,1,-13,-2.6,52,10.4,-2.6,1,5,0,0,0,99.2,201812060oti
+Anthony Firkser,FirkAn00,receiving,TEN,3,3,27,0,2,13,4.3,14,4.7,4.3,0,NA,0,0,0,104.2,201812060oti
+Corey Davis,DaviCo03,receiving,TEN,3,2,21,0,2,14,7,7,3.5,5.7,0,NA,0,0,0,86.8,201812060oti
+MyCole Pruitt,PruiMy00,receiving,TEN,1,1,9,0,1,5,5,4,4,5,0,NA,0,0,0,104.2,201812060oti
+Luke Stocker,StocLu00,receiving,TEN,1,1,7,0,NA,5,5,2,2,5,0,NA,0,0,0,95.8,201812060oti
+Tajae Sharpe,SharTa00,receiving,TEN,4,0,0,0,NA,0,NA,0,NA,12.3,0,NA,0,0,1,0,201812060oti

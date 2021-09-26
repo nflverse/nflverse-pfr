@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,28,84,5,26,0.9,58,2.1,0,NA,201811250cin
+Baker Mayfield,MayfBa00,rushing,CLE,4,-4,0,-4,-1,0,0,0,NA,201811250cin
+Duke Johnson,JohnDu00,rushing,CLE,2,16,2,14,7,2,1,0,NA,201811250cin
+Breshad Perriman,PerrBr02,rushing,CLE,1,-12,NA,-12,-12,0,0,0,NA,201811250cin
+Joe Mixon,MixoJo00,rushing,CIN,14,89,4,65,4.6,24,1.7,0,NA,201811250cin
+Jeff Driskel,DrisJe00,rushing,CIN,3,9,1,8,2.7,1,0.3,0,NA,201811250cin
+Andy Dalton,DaltAn00,rushing,CIN,2,21,1,-11,-5.5,32,16,1,2,201811250cin
+Giovani Bernard,BernGi00,rushing,CIN,1,10,1,2,2,8,8,0,NA,201811250cin

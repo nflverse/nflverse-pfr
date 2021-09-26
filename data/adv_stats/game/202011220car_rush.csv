@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,DET,7,18,NA,6,0.9,12,1.7,0,NA,202011220car
+Kerryon Johnson,JohnKe06,rushing,DET,6,17,0,8,1.3,9,1.5,0,NA,202011220car
+Matthew Stafford,StafMa00,rushing,DET,4,5,0,5,1.3,0,0,0,NA,202011220car
+Mike Davis,DaviMi01,rushing,CAR,19,64,4,28,1.5,36,1.9,1,19,202011220car
+Rodney Smith,SmitRo08,rushing,CAR,8,29,2,16,2,13,1.6,0,NA,202011220car
+Phillip Walker,WalkPh00,rushing,CAR,5,-2,0,-2,-0.4,0,0,0,NA,202011220car
+D.J. Moore,MoorD.00,rushing,CAR,1,21,1,14,14,7,7,0,NA,202011220car
+Curtis Samuel,SamuCu00,rushing,CAR,1,4,0,3,3,1,1,0,NA,202011220car

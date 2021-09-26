@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jimmy Smith,SmitJi03,defense,BAL,0,6,5,83.3%,33,6.6,5.5,0,89.6,10.2,25,8,1,0,0,0,0,6,0,0.0%,201812020atl
+Brandon Carr,CarrBr99,defense,BAL,0,6,4,66.7%,42,10.5,7,0,86.8,9,29,13,1,0,0,0,0,4,1,20.0%,201812020atl
+Chuck Clark,ClarCh00,defense,BAL,0,4,4,100.0%,26,6.5,6.5,1,133.3,16.3,18,8,2,0,0,0,0,4,0,0.0%,201812020atl
+Kenny Young,YounKe03,defense,BAL,0,2,1,50.0%,3,3,1.5,0,56.2,10.5,0,3,3,1,0,0,1,3,0,0.0%,201812020atl
+Marlon Humphrey,HumpMa00,defense,BAL,0,3,1,33.3%,11,11,3.7,0,45.1,16,10,1,0,0,0,0,0,0,0,NA,201812020atl
+Terrell Suggs,SuggTe99,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,0,1,2,3,1,25.0%,201812020atl
+Patrick Onwuasor,OnwuPa00,defense,BAL,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,4,0,0,1,1,2,0,0.0%,201812020atl
+Za'Darius Smith,SmitZa00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,0,1,1,1,0,0.0%,201812020atl
+Matt Judon,JudoMa00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,0,0,0,0,0,NA,201812020atl
+Tavon Young,YounTa01,defense,BAL,0,1,0,0.0%,NA,NA,0,NA,39.6,11,NA,NA,2,0,0,0,0,0,0,NA,201812020atl
+Eric Weddle,WeddEr99,defense,BAL,0,1,0,0.0%,NA,NA,0,NA,39.6,40,NA,NA,3,0,0,0,0,2,0,0.0%,201812020atl
+C.J. Mosley,MoslC.00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,0,0,0,5,0,0.0%,201812020atl
+Anthony Levine,LeviAn00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,0,0,NA,201812020atl
+Deion Jones,JoneDe01,defense,ATL,0,4,4,100.0%,41,10.3,10.3,0,109.4,7.5,30,11,1,0,0,1,1,15,0,0.0%,201812020atl
+Robert Alford,AlfoRo00,defense,ATL,0,4,3,75.0%,36,12,9,0,102.1,13.3,26,10,0,0,0,0,0,5,1,16.7%,201812020atl
+Sharrod Neasman,NeasSh00,defense,ATL,0,7,3,42.9%,22,7.3,3.1,0,50.9,7.9,9,13,0,0,0,0,0,6,0,0.0%,201812020atl
+Desmond Trufant,TrufDe00,defense,ATL,0,3,1,33.3%,21,21,7,0,59,19.3,19,2,2,2,0,0,2,3,0,0.0%,201812020atl
+De'Vondre Campbell,CampDe00,defense,ATL,0,2,1,50.0%,7,7,3.5,0,58.3,3.5,0,7,3,0,0,0,0,6,0,0.0%,201812020atl
+Damontae Kazee,KazeDa00,defense,ATL,0,2,1,50.0%,18,18,9,0,81.2,21.5,16,2,0,0,0,0,0,6,2,25.0%,201812020atl
+Foyesade Oluokun,OluoFo00,defense,ATL,0,2,1,50.0%,8,8,4,0,60.4,8,5,3,0,0,0,0,0,10,1,9.1%,201812020atl
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,1,4,7,1,12.5%,201812020atl
+Jack Crawford,CrawJa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812020atl
+Takkarist McKinley,McKiTa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201812020atl
+Vic Beasley,BeasVi00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0,0,2,0,0.0%,201812020atl
+Brian Poole,PoolBr01,defense,ATL,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,1,0,0,0,0,2,1,33.3%,201812020atl

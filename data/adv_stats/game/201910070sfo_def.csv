@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Joe Schobert,SchoJo00,defense,CLE,0,4,4,100.0%,24,6,6,0,91.7,1,4,20,1,0,0,0,0,11,1,8.3%,201910070sfo
+Damarious Randall,RandDa00,defense,CLE,0,5,3,60.0%,42,14,8.4,1,126.7,11.4,39,3,0,0,0,0,0,8,0,0.0%,201910070sfo
+Terrance Mitchell,MitcTe00,defense,CLE,0,6,3,50.0%,19,6.3,3.2,0,56.9,6.7,17,2,0,0,0,0,0,3,0,0.0%,201910070sfo
+Mack Wilson,WilsMa03,defense,CLE,0,3,3,100.0%,15,5,5,1,127.1,0.7,2,13,7,0,0,0,0,6,1,14.3%,201910070sfo
+Jermaine Whitehead,WhitJe02,defense,CLE,0,3,2,66.7%,25,12.5,8.3,0,92.4,10,15,10,4,0,1,0,1,8,1,11.1%,201910070sfo
+T.J. Carrie,CarrTr00,defense,CLE,0,3,2,66.7%,33,16.5,11,0,103.5,15.3,31,2,0,0,0,0,0,2,1,33.3%,201910070sfo
+Eric Murray,MurrEr00,defense,CLE,0,3,2,66.7%,11,5.5,3.7,0,72.9,1.7,5,6,1,0,0,0,0,4,1,20.0%,201910070sfo
+Morgan Burnett,BurnMo99,defense,CLE,0,1,1,100.0%,12,12,12,0,116.7,-3,-3,15,1,0,0,0,0,1,0,0.0%,201910070sfo
+Chad Thomas,ThomCh06,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,201910070sfo
+Myles Garrett,GarrMy00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201910070sfo
+Larry Ogunjobi,OgunLa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,1,25.0%,201910070sfo
+Olivier Vernon,VernOl00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201910070sfo
+Richard Sherman,SherRi00,defense,SFO,1,9,4,44.4%,75,18.8,8.3,0,34.3,16.4,68,7,0,0,0,0,0,4,0,0.0%,201910070sfo
+Kwon Alexander,AlexKw00,defense,SFO,0,2,2,100.0%,18,9,9,0,104.2,-3,-6,24,3,0,0,0.5,1,2,1,33.3%,201910070sfo
+Jimmie Ward,WardJi01,defense,SFO,0,1,1,100.0%,20,20,20,0,118.7,15,15,5,0,0,0,0,0,3,0,0.0%,201910070sfo
+Emmanuel Moseley,MoseEm00,defense,SFO,0,3,1,33.3%,7,7,2.3,0,42.4,15.3,-1,8,0,0,0,0,0,0,0,NA,201910070sfo
+Jaquiski Tartt,TartJa00,defense,SFO,0,3,1,33.3%,0,0,0,0,42.4,3.7,-5,5,0,0,0,0,0,5,0,0.0%,201910070sfo
+Nick Bosa,BosaNi00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,3,2,7,4,0,0.0%,201910070sfo
+K'Waun Williams,WillKW00,defense,SFO,1,3,0,0.0%,NA,NA,0,NA,0,9.7,NA,NA,2,0,0,0.5,1,2,0,0.0%,201910070sfo
+DeForest Buckner,BuckDe00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,1,20.0%,201910070sfo
+Ronald Blair,BlaiRo00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201910070sfo
+Dre Greenlaw,GreeDr00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,201910070sfo
+Fred Warner,WarnFr00,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,1,0,0,0,0,6,1,14.3%,201910070sfo

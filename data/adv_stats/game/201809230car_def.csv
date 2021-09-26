@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Dre Kirkpatrick,KirkDr00,defense,CIN,0,9,5,55.6%,58,11.6,6.4,0,75.2,14.4,56,2,0,0,0,0,0,7,0,0.0%,201809230car
+Nick Vigil,VigiNi00,defense,CIN,0,4,4,100.0%,12,3,3,0,79.2,0,0,12,2,0,0,0,0,12,1,7.7%,201809230car
+William Jackson III,JackWi02,defense,CIN,0,4,3,75.0%,30,10,7.5,1,135.4,8.5,17,13,0,0,0,0,0,1,0,0.0%,201809230car
+Darqueze Dennard,DennDa00,defense,CIN,0,4,2,50.0%,7,3.5,1.8,0,56.2,7.5,-1,8,0,0,0,0,0,5,0,0.0%,201809230car
+Hardy Nickerson,NickHa02,defense,CIN,0,1,1,100.0%,18,18,18,0,118.7,17,17,1,1,0,0,0,0,7,2,22.2%,201809230car
+Carlos Dunlap,DunlCa99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,6,0,0.0%,201809230car
+Geno Atkins,AtkiGe99,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,201809230car
+Carl Lawson,LawsCa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201809230car
+Ryan Glasgow,GlasRy00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,201809230car
+Jordan Evans,EvanJo01,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,3,0,0.0%,201809230car
+Shawn Williams,WillSh02,defense,CIN,0,2,0,0.0%,NA,NA,0,NA,39.6,4.5,NA,NA,1,0,0,0,0,5,1,16.7%,201809230car
+Jordan Willis,WillJo09,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201809230car
+Shaq Thompson,ThomSh01,defense,CAR,0,10,8,80.0%,59,7.4,5.9,0,91.2,2.8,34,25,5,1,0,0,1,8,0,0.0%,201809230car
+Donte Jackson,JackDo02,defense,CAR,2,8,5,62.5%,59,11.8,7.4,0,45.3,18,40,19,0,0,0,0,0,7,2,22.2%,201809230car
+James Bradberry,BradJa00,defense,CAR,0,9,4,44.4%,43,10.8,4.8,0,59,8.1,27,16,0,0,0,0,0,4,0,0.0%,201809230car
+Colin Jones,JoneCo01,defense,CAR,0,4,4,100.0%,61,15.3,15.3,2,158.3,13.5,54,7,0,0,0,0,0,8,0,0.0%,201809230car
+Mike Adams,AdamMi21,defense,CAR,0,2,2,100.0%,47,23.5,23.5,0,118.7,20.5,41,6,0,0,0,0,0,5,0,0.0%,201809230car
+Luke Kuechly,KuecLu00,defense,CAR,1,5,2,40.0%,11,5.5,2.2,0,8.3,8.8,4,7,5,0,0,0,0,5,0,0.0%,201809230car
+David Mayo,MayoDa00,defense,CAR,0,1,1,100.0%,49,49,49,0,118.7,32,32,17,2,0,0,0,0,2,0,0.0%,201809230car
+Bryan Cox Jr.,CoxxBr01,defense,CAR,0,3,1,33.3%,11,11,3.7,0,45.1,6,10,1,0,0,0,0,0,1,0,0.0%,201809230car
+Efe Obada,ObadEf00,defense,CAR,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,1,0,0.0%,201809230car
+Kawann Short,ShorKa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,0,0.0%,201809230car
+Mario Addison,AddiMa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,1,0,0.0%,201809230car
+Julius Peppers,PeppJu99,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201809230car

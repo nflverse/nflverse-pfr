@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Isaiah Crowell,CrowIs00,rushing,NYJ,13,25,0,21,1.6,4,0.3,1,13,201810280chi
+Trenton Cannon,CannTr00,rushing,NYJ,6,10,1,1,0.2,9,1.5,1,6,201810280chi
+Sam Darnold,DarnSa00,rushing,NYJ,5,22,2,22,4.4,0,0,0,NA,201810280chi
+Jordan Howard,HowaJo00,rushing,CHI,22,81,5,67,3,14,0.6,2,11,201810280chi
+Mitchell Trubisky,TrubMi00,rushing,CHI,6,51,4,51,8.5,0,0,0,NA,201810280chi
+Tarik Cohen,CoheTa00,rushing,CHI,5,40,1,29,5.8,11,2.2,1,5,201810280chi
+Anthony Miller,MillAn02,rushing,CHI,1,7,0,5,5,2,2,0,NA,201810280chi

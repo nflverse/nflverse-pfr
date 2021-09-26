@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Marcus Mariota,MariMa01,passing,TEN,14,26,129,8,28.6,180,6.9,63,4.5,2.4,66,4.7,1,4.0%,6,24.0%,2,12,4,3,9,30.0%,2,5,201810070buf
+Josh Allen,AlleJo02,passing,BUF,10,19,82,6,30,161,8.5,30,3,1.6,52,5.2,0,0.0%,6,33.3%,1,9,0,0,1,4.5%,2,10.5,201810070buf
+Corey Bojorquez,BojoCo00,passing,BUF,0,1,0,NA,NA,-8,-8,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201810070buf

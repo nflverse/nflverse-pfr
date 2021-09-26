@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Delanie Walker,WalkHu00,receiving,TEN,9,7,64,0,3,42,6,22,3.1,7.1,0,NA,0,0,0,96.3,201909190jax
+Adam Humphries,HumpAd00,receiving,TEN,9,6,93,0,5,78,13,15,2.5,11,0,NA,1,11.1,0,100.7,201909190jax
+Corey Davis,DaviCo03,receiving,TEN,4,3,44,0,3,38,12.7,6,2,10.8,0,NA,0,0,0,110.4,201909190jax
+Tajae Sharpe,SharTa00,receiving,TEN,3,2,70,0,2,63,31.5,7,3.5,30.3,0,NA,0,0,0,109.7,201909190jax
+Jonnu Smith,SmitJo01,receiving,TEN,3,2,20,0,1,12,6,8,4,4.7,0,NA,0,0,0,85.4,201909190jax
+A.J. Brown,BrowAJ00,receiving,TEN,5,1,4,0,NA,6,6,-2,-2,13.8,0,NA,0,0,0,39.6,201909190jax
+Derrick Henry,HenrDe00,receiving,TEN,2,1,2,0,0,2,2,0,0,-1.5,0,NA,1,50,0,56.2,201909190jax
+Dion Lewis,LewiDi00,receiving,TEN,1,1,7,0,1,2,2,5,5,2,1,1,0,0,0,95.8,201909190jax
+Darius Jennings,JennDa00,receiving,TEN,2,0,0,0,NA,0,NA,0,NA,21.5,0,NA,0,0,0,39.6,201909190jax
+Leonard Fournette,FourLe00,receiving,JAX,8,6,26,0,1,7,1.2,19,3.2,1.3,0,NA,0,0,0,78.1,201909190jax
+Dede Westbrook,WestDe00,receiving,JAX,9,5,46,0,1,20,4,26,5.2,6.6,0,NA,2,22.2,0,69.7,201909190jax
+DJ Chark,CharDJ00,receiving,JAX,5,4,76,1,3,72,18,4,1,15.4,0,NA,0,0,0,158.3,201909190jax
+Chris Conley,ConlCh00,receiving,JAX,3,2,30,0,1,20,10,10,5,17.3,0,NA,0,0,0,99.3,201909190jax
+James O'Shaughnessy,O'ShJa00,receiving,JAX,3,2,18,1,2,8,4,10,5,3,1,2,0,0,0,122.2,201909190jax
+Geoff Swaim,SwaiGe00,receiving,JAX,2,1,8,0,NA,2,2,6,6,3,0,NA,0,0,0,60.4,201909190jax

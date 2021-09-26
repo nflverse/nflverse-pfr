@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jakeem Grant,GranJa00,receiving,MIA,7,4,27,0,1,21,5.3,6,1.5,8.9,0,NA,0,0,0,65.8,201909220dal
+Preston Williams,WillPr01,receiving,MIA,12,4,68,0,4,64,16,4,1,12.9,0,NA,0,0,0,53.5,201909220dal
+Kenyan Drake,DrakKe00,receiving,MIA,6,3,34,0,2,-2,-0.7,36,12,0.8,0,NA,1,16.7,0,67.4,201909220dal
+Mike Gesicki,GesiMi00,receiving,MIA,3,3,9,0,NA,5,1.7,4,1.3,1.7,0,NA,0,0,0,79.2,201909220dal
+DeVante Parker,ParkDe01,receiving,MIA,6,3,56,0,3,42,14,14,4.7,20.5,0,NA,1,16.7,0,82.6,201909220dal
+Kalen Ballage,BallKa00,receiving,MIA,3,1,10,0,1,-5,-5,15,15,-1.7,0,NA,0,0,0,43.7,201909220dal
+Allen Hurns,HurnAl01,receiving,MIA,2,1,6,0,NA,5,5,1,1,14.5,0,NA,0,0,0,56.2,201909220dal
+Nick O'Leary,OLeaNi00,receiving,MIA,1,1,19,0,1,9,9,10,10,9,0,NA,0,0,0,118.7,201909220dal
+Durham Smythe,SmytDu00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,6,0,NA,0,0,0,39.6,201909220dal
+Amari Cooper,CoopAm00,receiving,DAL,7,6,88,2,5,68,11.3,20,3.3,12.7,0,NA,1,14.3,0,158.3,201909220dal
+Jason Witten,WittJa00,receiving,DAL,4,3,54,0,2,32,10.7,22,7.3,10.5,0,NA,0,0,0,116.7,201909220dal
+Tony Pollard,PollTo00,receiving,DAL,3,3,25,0,1,-1,-0.3,26,8.7,-0.3,0,NA,0,0,0,101.4,201909220dal
+Randall Cobb,CobbRa00,receiving,DAL,4,2,23,0,1,9,4.5,14,7,13.3,0,NA,0,0,1,28.1,201909220dal
+Devin Smith,SmitDe04,receiving,DAL,5,2,39,0,2,25,12.5,14,7,23.6,1,2,0,0,0,67.9,201909220dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,3,2,14,0,1,6,3,8,4,4,0,NA,0,0,0,77.1,201909220dal
+Blake Jarwin,JarwBl00,receiving,DAL,3,1,3,0,NA,2,2,1,1,6.7,0,NA,1,33.3,0,42.4,201909220dal
+Cedrick Wilson Jr.,WilsCe01,receiving,DAL,1,0,0,0,NA,0,NA,0,NA,33,0,NA,0,0,0,39.6,201909220dal

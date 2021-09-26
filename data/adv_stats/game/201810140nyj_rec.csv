@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Zach Pascal,PascZa00,receiving,IND,7,5,35,0,1,20,4,15,3,9.4,0,NA,1,14.3,0,82.4,201810140nyj
+Eric Ebron,EbroEr00,receiving,IND,7,4,71,1,4,61,15.3,10,2.5,15,0,NA,1,14.3,0,131.5,201810140nyj
+Chester Rogers,RogeCh02,receiving,IND,10,4,55,1,2,31,7.8,24,6,7.7,0,NA,3,30,1,52.1,201810140nyj
+Ryan Grant,GranRy01,receiving,IND,5,2,24,0,2,19,9.5,5,2.5,9.8,0,NA,0,0,1,15.8,201810140nyj
+Nyheim Hines,HineNy00,receiving,IND,3,2,21,0,2,3,1.5,18,9,2,0,NA,0,0,0,86.8,201810140nyj
+Marcus Johnson,JohnMa07,receiving,IND,3,2,52,1,2,35,17.5,17,8.5,22.3,0,NA,0,0,0,149.3,201810140nyj
+Robert Turbin,TurbRo00,receiving,IND,1,1,3,0,NA,0,0,3,3,0,0,NA,0,0,0,79.2,201810140nyj
+Erik Swoope,SwooEr00,receiving,IND,2,1,2,1,1,2,2,0,0,9,0,NA,0,0,0,95.8,201810140nyj
+Mo Alie-Cox,AlieMo00,receiving,IND,2,1,34,0,1,26,26,8,8,14,0,NA,0,0,0,95.8,201810140nyj
+Marlon Mack,MackMa00,receiving,IND,2,1,4,0,0,-1,-1,5,5,-4.5,0,NA,1,50,1,16.7,201810140nyj
+Jermaine Kearse,KearJe01,receiving,NYJ,10,9,94,0,5,49,5.4,45,5,5.5,0,NA,0,0,0,105.8,201810140nyj
+Terrelle Pryor,PryoTe00,receiving,NYJ,6,5,57,1,3,34,6.8,23,4.6,6.3,0,NA,0,0,0,145.8,201810140nyj
+Robby Anderson,AndeRo04,receiving,NYJ,5,3,39,0,1,15,5,24,8,13.2,0,NA,0,0,1,45,201810140nyj
+Chris Herndon,HernCh00,receiving,NYJ,2,2,56,1,2,41,20.5,15,7.5,20.5,0,NA,0,0,0,158.3,201810140nyj
+Neal Sterling,SterNe00,receiving,NYJ,2,2,13,0,1,7,3.5,6,3,3.5,0,NA,0,0,0,93.7,201810140nyj
+Isaiah Crowell,CrowIs00,receiving,NYJ,2,2,12,0,0,1,0.5,11,5.5,0.5,0,NA,0,0,0,91.7,201810140nyj
+Quincy Enunwa,EnunQu00,receiving,NYJ,1,1,9,0,NA,-1,-1,10,10,-1,0,NA,0,0,0,104.2,201810140nyj
+Bilal Powell,PoweBi00,receiving,NYJ,1,0,0,0,0,0,NA,0,NA,3,0,NA,0,0,0,39.6,201810140nyj

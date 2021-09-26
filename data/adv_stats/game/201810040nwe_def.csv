@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Zaire Franklin,FranZa00,defense,IND,0,7,6,85.7%,77,12.8,11,0,112.5,6.9,44,33,2,0,0,0,0,11,2,15.4%,201810040nwe
+Matthias Farley,FarlMa00,defense,IND,1,7,5,71.4%,80,16,11.4,1,109.2,13.3,68,12,0,0,0,0,0,6,1,14.3%,201810040nwe
+Pierre Desir,DesiPi00,defense,IND,0,5,4,80.0%,39,9.8,7.8,1,138.7,9.2,30,9,1,0,0,0,0,6,0,0.0%,201810040nwe
+Najee Goode,GoodNa00,defense,IND,1,3,3,100.0%,18,6,6,1,91.7,2,6,12,2,1,0,0,1,8,2,20.0%,201810040nwe
+Lenzy Pipkins,PipkLe00,defense,IND,0,4,3,75.0%,23,7.7,5.8,0,88.5,0.5,-5,28,0,0,0,0,0,9,0,0.0%,201810040nwe
+Clayton Geathers,GeatCl00,defense,IND,0,3,3,100.0%,35,11.7,11.7,0,115.3,1.7,5,30,0,0,0,0,0,3,1,25.0%,201810040nwe
+Arthur Maulet,MaulAr00,defense,IND,0,5,3,60.0%,14,4.7,2.8,0,64.6,5.4,13,1,0,0,0,0,0,5,0,0.0%,201810040nwe
+Christopher Milton,MiltCh00,defense,IND,0,5,3,60.0%,51,17,10.2,1,134.2,16.4,34,17,0,0,0,0,0,2,2,50.0%,201810040nwe
+Anthony Walker,WalkAn01,defense,IND,0,3,3,100.0%,18,6,6,0,91.7,1,3,15,1,0,0,0,0,3,1,25.0%,201810040nwe
+Malik Hooker,HookMa00,defense,IND,0,1,1,100.0%,13,13,13,0,118.7,12,12,1,0,0,0,0,0,12,0,0.0%,201810040nwe
+Kemoko Turay,TuraKe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,0,0,NA,201810040nwe
+Al Woods,WoodAl99,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201810040nwe
+Jihad Ward,WardJi02,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201810040nwe
+Jabaal Sheard,SheaJa00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,0,1,0,0,1,3,1,25.0%,201810040nwe
+Devin McCourty,McCoDe99,defense,NWE,0,13,7,53.8%,122,17.4,9.4,2,125.6,8.6,102,20,1,0,0,0,0,14,0,0.0%,201810040nwe
+Jonathan Jones,JoneJo03,defense,NWE,1,10,5,50.0%,51,10.2,5.1,0,25.4,6.4,35,16,3,1,0,0,1,5,1,16.7%,201810040nwe
+Kyle Van Noy,VanNKy00,defense,NWE,0,3,3,100.0%,16,5.3,5.3,0,88.9,1,3,13,6,1,0,0,1,8,0,0.0%,201810040nwe
+Patrick Chung,ChunPa99,defense,NWE,1,7,3,42.9%,49,16.3,7,0,27.4,8.7,31,18,7,0,0,0.5,1,11,1,8.3%,201810040nwe
+Dont'a Hightower,HighDo01,defense,NWE,0,4,2,50.0%,13,6.5,3.3,1,96.9,7,10,3,8,0,0,0,0,5,0,0.0%,201810040nwe
+Adam Butler,ButlAd00,defense,NWE,0,1,1,100.0%,-3,-3,-3,0,79.2,-4,-4,1,0,0,0,0,0,1,0,0.0%,201810040nwe
+Jason McCourty,McCoJa99,defense,NWE,0,11,1,9.1%,44,44,4,0,43.7,11.7,38,6,0,0,0,0,0,6,0,0.0%,201810040nwe
+Stephon Gilmore,GilmSt00,defense,NWE,0,5,1,20.0%,22,22,4.4,0,45.4,16,21,1,0,0,0,0,0,1,0,0.0%,201810040nwe
+Adrian Clayborn,ClayAd00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201810040nwe
+Trey Flowers,FlowTr00,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,-6,NA,NA,0,0,0,0.5,1,4,0,0.0%,201810040nwe
+Danny Shelton,ShelDa01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,201810040nwe
+Elandon Roberts,RobeEl00,defense,NWE,0,2,0,0.0%,13,NA,6.5,0,54.2,0.5,1,12,1,0,0,0,0,6,0,0.0%,201810040nwe
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201810040nwe
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201810040nwe

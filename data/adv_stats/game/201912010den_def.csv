@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Adrian Phillips,PhilAd00,defense,LAC,0,4,4,100.0%,23,5.8,5.8,0,90.6,2.8,11,12,1,0,0,0,0,4,0,0.0%,201912010den
+Thomas Davis,DaviTh20,defense,LAC,0,5,3,60.0%,14,4.7,2.8,0,64.6,7.8,-1,15,0,0,0,0,0,6,0,0.0%,201912010den
+Casey Hayward,HaywCa00,defense,LAC,0,3,3,100.0%,41,13.7,13.7,2,158.3,13.3,40,1,0,0,0,0,0,1,0,0.0%,201912010den
+Desmond King,KingDe01,defense,LAC,0,4,2,50.0%,34,17,8.5,0,79.2,15,27,7,0,0,0,0,0,4,0,0.0%,201912010den
+Drue Tranquill,TranDr00,defense,LAC,0,3,2,66.7%,-3,-1.5,-1,0,70.1,5,-4,1,0,0,0,0,0,7,1,12.5%,201912010den
+Brandon Facyson,FacyBr00,defense,LAC,0,3,2,66.7%,10,5,3.3,0,71.5,3.7,8,2,0,0,0,0,0,9,0,0.0%,201912010den
+Melvin Ingram,IngrMe00,defense,LAC,0,1,1,100.0%,4,4,4,0,83.3,1,1,3,0,1,0,0,1,3,0,0.0%,201912010den
+Derwin James,JameDe00,defense,LAC,0,1,1,100.0%,9,9,9,0,104.2,-4,-4,13,6,0,0,0,0,4,0,0.0%,201912010den
+Denzel Perryman,PerrDe00,defense,LAC,1,2,1,50.0%,7,7,3.5,0,18.7,9.5,7,0,0,0,0,0,0,4,0,0.0%,201912010den
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,0,4,1,1,50.0%,201912010den
+Brandon Mebane,MebaBr99,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,201912010den
+Justin Jones,JoneJu03,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201912010den
+Kyzir White,WhitKy00,defense,LAC,0,2,0,0.0%,NA,NA,0,NA,39.6,2.5,NA,NA,0,0,0,0,0,3,0,0.0%,201912010den
+Rayshawn Jenkins,JenkRa00,defense,LAC,0,1,0,0.0%,NA,NA,0,NA,39.6,21,NA,NA,0,0,0,0,0,1,0,0.0%,201912010den
+Isaac Yiadom,YiadIs00,defense,DEN,0,7,5,71.4%,114,22.8,16.3,0,113.7,21,93,21,0,0,0,0,0,7,2,22.2%,201912010den
+Chris Harris Jr.,HarrCh01,defense,DEN,0,5,4,80.0%,32,8,6.4,0,93.3,6.2,29,3,0,0,0,0,0,7,0,0.0%,201912010den
+Todd Davis,DaviTo01,defense,DEN,0,7,4,57.1%,55,13.8,7.9,1,122,3.6,25,30,0,0,0,0,0,10,0,0.0%,201912010den
+Justin Simmons,SimmJu00,defense,DEN,0,4,3,75.0%,64,21.3,16,0,116.7,10.8,43,21,0,0,0,0,0,5,0,0.0%,201912010den
+Kareem Jackson,JackKa99,defense,DEN,0,2,2,100.0%,11,5.5,5.5,0,89.6,-4,-8,19,0,0,0,0,0,6,0,0.0%,201912010den
+Jeremiah Attaochu,AttaJe00,defense,DEN,0,1,1,100.0%,11,11,11,0,112.5,-5,-5,16,0,0,1,0,1,3,1,25.0%,201912010den
+Will Parks,ParkWi01,defense,DEN,0,1,1,100.0%,4,4,4,0,83.3,-2,-2,6,3,0,0,1,1,4,0,0.0%,201912010den
+Alexander Johnson,JohnAl01,defense,DEN,0,1,1,100.0%,-5,-5,-5,0,79.2,-5,-5,0,4,0,0,0,0,9,0,0.0%,201912010den
+Derek Wolfe,WolfDe00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,2,3,5,0,0.0%,201912010den
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,201912010den
+Justin Hollins,HollJu00,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,-5,NA,NA,0,1,0,0,1,3,0,0.0%,201912010den

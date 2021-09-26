@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jordan Howard,HowaJo00,rushing,CHI,24,61,5,8,0.3,53,2.2,0,NA,201809230crd
+Tarik Cohen,CoheTa00,rushing,CHI,5,53,2,47,9.4,6,1.2,0,NA,201809230crd
+Mitchell Trubisky,TrubMi00,rushing,CHI,2,8,0,-5,-2.5,13,6.5,0,NA,201809230crd
+David Johnson,JohnDa08,rushing,ARI,12,31,1,12,1,19,1.6,0,NA,201809230crd
+Chase Edmonds,EdmoCh00,rushing,ARI,5,10,1,5,1,5,1,0,NA,201809230crd
+Josh Rosen,RoseJo01,rushing,ARI,1,12,1,7,7,5,5,0,NA,201809230crd

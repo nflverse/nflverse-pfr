@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kalen Ballage,BallKa00,rushing,MIA,12,123,4,103,8.6,20,1.7,0,NA,201812160min
+Frank Gore,GoreFr00,rushing,MIA,5,14,1,6,1.2,8,1.6,0,NA,201812160min
+Brandon Bolden,BoldBr00,rushing,MIA,1,12,1,12,12,0,0,0,NA,201812160min
+Kenyan Drake,DrakKe00,rushing,MIA,1,6,0,2,2,4,4,0,NA,201812160min
+Ryan Tannehill,TannRy00,rushing,MIA,1,1,0,1,1,0,0,0,NA,201812160min
+Dalvin Cook,CookDa01,rushing,MIN,19,136,5,75,3.9,61,3.2,1,19,201812160min
+Latavius Murray,MurrLa00,rushing,MIN,15,68,3,38,2.5,30,2,0,NA,201812160min
+Kirk Cousins,CousKi00,rushing,MIN,5,7,2,4,0.8,3,0.6,0,NA,201812160min
+Stefon Diggs,DiggSt00,rushing,MIN,1,9,0,9,9,0,0,0,NA,201812160min

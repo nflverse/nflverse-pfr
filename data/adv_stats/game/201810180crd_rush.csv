@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Phillip Lindsay,LindPh00,rushing,DEN,14,90,3,54,3.9,36,2.6,1,14,201810180crd
+Royce Freeman,FreeRo00,rushing,DEN,13,37,2,-10,-0.8,47,3.6,1,13,201810180crd
+Case Keenum,KeenCa00,rushing,DEN,4,4,1,4,1,0,0,0,NA,201810180crd
+David Johnson,JohnDa08,rushing,ARI,14,39,2,7,0.5,32,2.3,0,NA,201810180crd
+Chase Edmonds,EdmoCh00,rushing,ARI,5,9,1,4,0.8,5,1,0,NA,201810180crd
+JJ Nelson,NelsJJ00,rushing,ARI,1,7,0,4,4,3,3,0,NA,201810180crd
+Josh Rosen,RoseJo01,rushing,ARI,1,14,1,14,14,0,0,0,NA,201810180crd

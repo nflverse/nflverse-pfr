@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Kenyan Drake,DrakKe00,receiving,MIA,11,7,69,1,3,13,1.9,56,8,0.7,0,NA,1,9.1,0,111.6,201810070cin
+Albert Wilson,WilsAl02,receiving,MIA,6,5,43,0,2,0,0,43,8.6,0.8,1,5,0,0,0,96.5,201810070cin
+Danny Amendola,AmenDa00,receiving,MIA,4,3,30,0,1,17,5.7,13,4.3,6,0,NA,0,0,0,95.8,201810070cin
+Mike Gesicki,GesiMi00,receiving,MIA,5,3,26,0,2,22,7.3,4,1.3,11.4,0,NA,0,0,0,73.7,201810070cin
+Kenny Stills,StilKe00,receiving,MIA,5,2,17,0,2,18,9,-1,-0.5,22.8,0,NA,0,0,1,10,201810070cin
+Jakeem Grant,GranJa00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,201810070cin
+Durham Smythe,SmytDu00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,-11,0,NA,0,0,1,0,201810070cin
+A.J. Green,GreeA.00,receiving,CIN,10,6,112,0,6,82,13.7,30,5,12.3,0,NA,0,0,1,59.2,201810070cin
+Tyler Boyd,BoydTy00,receiving,CIN,7,4,44,0,2,34,8.5,10,2.5,12.4,0,NA,0,0,0,75.9,201810070cin
+Alex Erickson,EricAl01,receiving,CIN,3,3,24,0,1,16,5.3,8,2.7,5.3,0,NA,0,0,0,100,201810070cin
+Joe Mixon,MixoJo00,receiving,CIN,4,3,22,1,1,15,5,7,2.3,4.5,0,NA,1,25,0,127.1,201810070cin
+C.J. Uzomah,UzomC.00,receiving,CIN,2,2,43,0,2,0,0,43,21.5,0,0,NA,0,0,0,118.7,201810070cin
+Mark Walton,WaltMa00,receiving,CIN,3,2,3,0,NA,-6,-3,9,4.5,-2,0,NA,0,0,0,70.1,201810070cin
+Tyler Kroft,KrofTy00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,201810070cin

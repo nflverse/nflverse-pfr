@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+J.K. Dobbins,DobbJK00,rushing,BAL,13,53,4,22,1.7,31,2.4,0,NA,202012140cle
+Lamar Jackson,JackLa00,rushing,BAL,9,124,7,94,10.4,30,3.3,0,NA,202012140cle
+Gus Edwards,EdwaGu00,rushing,BAL,7,49,2,17,2.4,32,4.6,0,NA,202012140cle
+Trace McSorley,McSoTr00,rushing,BAL,2,1,0,-2,-1,3,1.5,0,NA,202012140cle
+Justice Hill,HillJu00,rushing,BAL,1,4,NA,2,2,2,2,0,NA,202012140cle
+Nick Chubb,ChubNi00,rushing,CLE,17,82,5,25,1.5,57,3.4,0,NA,202012140cle
+Kareem Hunt,HuntKa00,rushing,CLE,6,33,3,18,3,15,2.5,0,NA,202012140cle
+Baker Mayfield,MayfBa00,rushing,CLE,5,23,2,14,2.8,9,1.8,0,NA,202012140cle

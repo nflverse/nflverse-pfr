@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Brandin Cooks,CookBr00,receiving,HOU,9,9,68,1,5,61,6.8,7,0.8,6.8,0,NA,0,0,0,135.2,202010180oti
+Darren Fells,FellDa01,receiving,HOU,7,6,85,1,4,39,6.5,46,7.7,7.3,1,6,0,0,0,156.8,202010180oti
+Will Fuller,FullWi01,receiving,HOU,11,6,123,1,5,91,15.2,32,5.3,16.1,1,6,0,0,0,124.4,202010180oti
+Randall Cobb,CobbRa00,receiving,HOU,4,3,17,1,1,15,5,2,0.7,4,0,NA,0,0,0,121.9,202010180oti
+Pharaoh Brown,BrowPh01,receiving,HOU,2,2,28,0,1,19,9.5,9,4.5,9.5,0,NA,0,0,0,118.7,202010180oti
+David Johnson,JohnDa08,receiving,HOU,2,1,12,0,1,3,3,9,9,4,0,NA,0,0,0,68.7,202010180oti
+Duke Johnson,JohnDu00,receiving,HOU,2,1,2,0,NA,-5,-5,7,7,1,0,NA,1,50,0,56.2,202010180oti
+Anthony Firkser,FirkAn00,receiving,TEN,9,8,113,1,6,63,7.9,50,6.3,7.3,2,4,0,0,0,155.8,202010180oti
+Adam Humphries,HumpAd00,receiving,TEN,6,6,64,1,5,55,9.2,9,1.5,9.2,0,NA,0,0,0,150.7,202010180oti
+A.J. Brown,BrowAJ00,receiving,TEN,7,5,58,2,4,44,8.8,14,2.8,13.3,0,NA,0,0,0,135.7,202010180oti
+Kalif Raymond,RaymKa00,receiving,TEN,4,3,32,0,2,31,10.3,1,0.3,18.8,0,NA,0,0,1,58.3,202010180oti
+Geoff Swaim,SwaiGe00,receiving,TEN,3,2,10,0,NA,5,2.5,5,2.5,0.3,0,NA,1,33.3,0,71.5,202010180oti
+Jeremy McNichols,McNiJe00,receiving,TEN,3,2,11,0,0,1,0.5,10,5,1.7,0,NA,0,0,0,72.9,202010180oti
+Derrick Henry,HenrDe00,receiving,TEN,5,2,52,0,1,-5,-2.5,57,28.5,-2.2,1,2,0,0,0,78.7,202010180oti
+Jonnu Smith,SmitJo01,receiving,TEN,2,1,13,0,1,2,2,11,11,6.5,1,1,0,0,0,70.8,202010180oti
+Cameron Batson,BatsCa00,receiving,TEN,1,1,13,0,1,12,12,1,1,12,0,NA,0,0,0,118.7,202010180oti
+Khari Blasingame,BlasKh00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,0,0,NA,1,100,0,39.6,202010180oti

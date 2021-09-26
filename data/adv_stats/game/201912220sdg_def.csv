@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+William Compton,CompWi00,defense,OAK,0,8,7,87.5%,70,10,8.8,0,103.1,0.1,1,69,0,0,0,0,0,12,0,0.0%,201912220sdg
+Daryl Worley,WorlDa00,defense,OAK,0,5,4,80.0%,35,8.8,7,0,95.8,5.8,24,11,0,0,0,0,0,5,1,16.7%,201912220sdg
+Tahir Whitehead,WhitTa00,defense,OAK,0,6,4,66.7%,39,9.8,6.5,0,84.7,7.3,14,25,0,0,0,0,0,5,0,0.0%,201912220sdg
+Keisean Nixon,NixoKe00,defense,OAK,0,5,4,80.0%,57,14.3,11.4,0,114.2,7.8,30,27,0,0,0,0,0,1,1,50.0%,201912220sdg
+Nevin Lawson,LawsNe00,defense,OAK,0,7,3,42.9%,42,14,6,0,62.8,11.9,34,8,0,0,0,0,0,3,0,0.0%,201912220sdg
+Trayvon Mullen,MullTr00,defense,OAK,0,3,2,66.7%,15,7.5,5,0,78.5,2,-1,16,0,0,0,0,0,4,1,20.0%,201912220sdg
+Lamarcus Joyner,JoynLa00,defense,OAK,0,2,2,100.0%,19,9.5,9.5,0,106.2,3,6,13,1,0,0,0,0,2,0,0.0%,201912220sdg
+Kyle Wilber,WilbKy00,defense,OAK,0,1,1,100.0%,5,5,5,0,87.5,2,2,3,0,0,0,0,0,1,0,0.0%,201912220sdg
+Nicholas Morrow,MorrNi00,defense,OAK,0,1,1,100.0%,2,2,2,0,79.2,-5,-5,7,0,0,0,0,0,2,0,0.0%,201912220sdg
+Maxx Crosby,CrosMa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201912220sdg
+Benson Mayowa,MayoBe00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201912220sdg
+Clelin Ferrell,FerrCl00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,201912220sdg
+Maurice Hurst Jr.,HursMa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,201912220sdg
+Erik Harris,HarrEr00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201912220sdg
+Drue Tranquill,TranDr00,defense,LAC,0,6,6,100.0%,46,7.7,7.7,0,98.6,1.8,11,35,0,0,0,0,0,6,0,0.0%,201912220sdg
+Michael Davis,DaviMi03,defense,LAC,0,5,5,100.0%,83,16.6,16.6,0,118.7,10.2,51,32,0,0,0,0,0,5,0,0.0%,201912220sdg
+Adrian Phillips,PhilAd00,defense,LAC,0,4,4,100.0%,40,10,10,0,108.3,8,32,8,0,0,0,0,0,6,0,0.0%,201912220sdg
+Desmond King,KingDe01,defense,LAC,0,4,3,75.0%,68,22.7,17,1,156.2,4.8,17,51,0,0,0,0,0,3,1,25.0%,201912220sdg
+Thomas Davis,DaviTh20,defense,LAC,0,4,3,75.0%,30,10,7.5,0,95.8,2.5,6,24,1,0,0,0,0,5,1,16.7%,201912220sdg
+Casey Hayward,HaywCa00,defense,LAC,0,3,2,66.7%,26,13,8.7,0,93.7,8.7,22,4,0,0,0,0,0,3,0,0.0%,201912220sdg
+Derwin James,JameDe00,defense,LAC,0,2,2,100.0%,0,0,0,0,79.2,-1,-2,2,1,0,0,0,0,8,0,0.0%,201912220sdg
+Denzel Perryman,PerrDe00,defense,LAC,0,1,1,100.0%,8,8,8,0,100,3,3,5,0,0,0,0,0,7,0,0.0%,201912220sdg
+Kyzir White,WhitKy00,defense,LAC,0,1,1,100.0%,10,10,10,0,108.3,2,2,8,0,0,0,0,0,6,0,0.0%,201912220sdg
+Melvin Ingram,IngrMe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1.5,3,3,0,0.0%,201912220sdg
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,4,0,0.0%,201912220sdg
+Jerry Tillery,TillJe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,201912220sdg

@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+James White,WhitJa02,receiving,NWE,8,7,38,0,3,-10,-1.4,48,6.9,-1.6,0,NA,1,12.5,0,86.5,202010050kan
+Damiere Byrd,ByrdDa00,receiving,NWE,10,5,80,0,3,58,11.6,22,4.4,15,0,NA,1,10,1,37.5,202010050kan
+Julian Edelman,EdelJu00,receiving,NWE,6,3,35,0,3,29,9.7,6,2,6.2,0,NA,1,16.7,1,28.5,202010050kan
+N'Keal Harry,HarrNK00,receiving,NWE,6,3,21,1,2,11,3.7,10,3.3,5.3,1,3,0,0,0,97.9,202010050kan
+Rex Burkhead,BurkRe00,receiving,NWE,1,1,5,0,0,4,4,1,1,4,0,NA,0,0,0,87.5,202010050kan
+Gunner Olszewski,OlszGu00,receiving,NWE,1,1,11,0,1,11,11,0,0,11,0,NA,0,0,0,112.5,202010050kan
+Ryan Izzo,IzzoRy00,receiving,NWE,3,0,0,0,NA,0,NA,0,NA,18.3,0,NA,1,33.3,1,0,202010050kan
+Mecole Hardman,HardMe00,receiving,KAN,4,4,27,1,2,-2,-0.5,29,7.3,-0.5,0,NA,0,0,0,134.4,202010050kan
+Tyreek Hill,HillTy00,receiving,KAN,6,4,64,1,4,36,9,28,7,17.8,0,NA,0,0,0,141.7,202010050kan
+Sammy Watkins,WatkSa00,receiving,KAN,7,4,43,0,2,15,3.8,28,7,7.1,0,NA,0,0,0,75.3,202010050kan
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,3,3,27,0,2,-6,-2,33,11,-2,0,NA,0,0,0,104.2,202010050kan
+Travis Kelce,KelcTr00,receiving,KAN,7,3,70,0,2,36,12,34,11.3,9.6,0,NA,0,0,0,79.5,202010050kan
+Deon Yelder,YeldDe00,receiving,KAN,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,202010050kan
+Darrel Williams,WillDa10,receiving,KAN,1,0,0,0,0,0,NA,0,NA,14,0,NA,0,0,0,39.6,202010050kan

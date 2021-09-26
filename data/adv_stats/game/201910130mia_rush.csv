@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,WAS,23,118,5,46,2,72,3.1,1,23,201910130mia
+Case Keenum,KeenCa00,rushing,WAS,4,10,0,10,2.5,0,0,0,NA,201910130mia
+Chris Thompson,ThomCh03,rushing,WAS,3,12,NA,3,1,9,3,0,NA,201910130mia
+Paul Richardson,RichPa01,rushing,WAS,1,0,NA,0,0,0,0,0,NA,201910130mia
+Steven Sims,SimsSt00,rushing,WAS,1,1,NA,1,1,0,0,0,NA,201910130mia
+Wendell Smallwood,SmalWe00,rushing,WAS,1,4,NA,4,4,0,0,0,NA,201910130mia
+Kenyan Drake,DrakKe00,rushing,MIA,10,40,2,12,1.2,28,2.8,2,5,201910130mia
+Mark Walton,WaltMa00,rushing,MIA,6,32,2,19,3.2,13,2.2,0,NA,201910130mia
+Kalen Ballage,BallKa00,rushing,MIA,3,7,2,7,2.3,0,0,0,NA,201910130mia
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,2,5,1,5,2.5,0,0,0,NA,201910130mia

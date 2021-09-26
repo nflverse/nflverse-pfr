@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Todd Gurley,GurlTo01,rushing,LAR,19,95,5,77,4.1,18,0.9,1,19,201912010crd
+Malcolm Brown,BrowMa03,rushing,LAR,6,30,NA,27,4.5,3,0.5,1,6,201912010crd
+Darrell Henderson,HendDa00,rushing,LAR,4,17,1,17,4.3,0,0,0,NA,201912010crd
+Blake Bortles,BortBl00,rushing,LAR,1,-10,NA,-10,-10,0,0,0,NA,201912010crd
+Kenyan Drake,DrakKe00,rushing,ARI,13,31,1,24,1.8,7,0.5,0,NA,201912010crd
+David Johnson,JohnDa08,rushing,ARI,4,15,0,12,3,3,0.8,1,4,201912010crd
+Kyler Murray,MurrKy00,rushing,ARI,4,28,1,28,7,0,0,0,NA,201912010crd

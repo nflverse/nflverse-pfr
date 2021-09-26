@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Adam Humphries,HumpAd00,receiving,TAM,10,7,76,0,6,43,6.1,33,4.7,8.2,3,2.3,0,0,1,52.5,201810280cin
+Mike Evans,EvanMi00,receiving,TAM,13,6,179,1,6,140,23.3,39,6.5,16.7,0,NA,1,7.7,2,78.7,201810280cin
+Jacquizz Rodgers,RodgJa00,receiving,TAM,4,4,25,0,1,3,0.8,22,5.5,0.8,3,1.3,0,0,0,92.7,201810280cin
+O.J. Howard,HowaO.00,receiving,TAM,4,4,68,1,3,54,13.5,14,3.5,13.5,0,NA,0,0,0,158.3,201810280cin
+DeSean Jackson,JackDe00,receiving,TAM,8,3,68,1,1,48,16,20,6.7,22.9,0,NA,0,0,0,108.3,201810280cin
+Chris Godwin,GodwCh00,receiving,TAM,7,2,32,0,2,29,14.5,3,1.5,11.7,0,NA,0,0,0,46.1,201810280cin
+Justin Watson,WatsJu01,receiving,TAM,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,201810280cin
+Ronald Jones II,JoneRo01,receiving,TAM,1,1,4,0,NA,-5,-5,9,9,-5,0,NA,0,0,0,83.3,201810280cin
+Cameron Brate,BratCa00,receiving,TAM,2,1,13,0,1,9,9,4,4,10,0,NA,0,0,1,31.2,201810280cin
+Tyler Boyd,BoydTy00,receiving,CIN,10,9,138,1,6,79,8.8,59,6.6,8.6,0,NA,1,10,0,152.1,201810280cin
+A.J. Green,GreeA.00,receiving,CIN,7,5,76,1,5,70,14,6,1.2,19.1,0,NA,0,0,0,146.4,201810280cin
+Joe Mixon,MixoJo00,receiving,CIN,4,3,15,0,0,1,0.3,14,4.7,0.5,0,NA,1,25,0,80.2,201810280cin
+Jordan Franks,FranJo03,receiving,CIN,1,1,32,0,1,23,23,9,9,23,0,NA,0,0,0,118.7,201810280cin
+Alex Erickson,EricAl01,receiving,CIN,4,1,5,0,1,5,5,0,0,8.3,0,NA,0,0,0,39.6,201810280cin
+Matt Lengel,LengMa00,receiving,CIN,1,1,4,0,NA,2,2,2,2,2,0,NA,0,0,0,83.3,201810280cin
+Mark Walton,WaltMa00,receiving,CIN,1,1,10,0,0,-2,-2,12,12,-2,0,NA,0,0,0,108.3,201810280cin
+C.J. Uzomah,UzomC.00,receiving,CIN,4,0,0,0,NA,0,NA,0,NA,7.8,0,NA,0,0,0,39.6,201810280cin

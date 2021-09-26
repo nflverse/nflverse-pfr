@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Wayne Gallman,GallWa00,rushing,NYG,24,94,5,37,1.5,57,2.4,2,12,202011290cin
+Daniel Jones,JoneDa05,rushing,NYG,6,19,2,14,2.3,5,0.8,0,NA,202011290cin
+Colt McCoy,McCoCo00,rushing,NYG,5,7,0,6,1.2,1,0.2,0,NA,202011290cin
+Alfred Morris,MorrAl00,rushing,NYG,4,8,NA,3,0.8,5,1.3,0,NA,202011290cin
+Dion Lewis,LewiDi00,rushing,NYG,2,10,1,6,3,4,2,0,NA,202011290cin
+Sterling Shepard,ShepSt00,rushing,NYG,1,4,0,4,4,0,0,0,NA,202011290cin
+Giovani Bernard,BernGi00,rushing,CIN,8,32,2,23,2.9,9,1.1,0,NA,202011290cin
+Brandon Allen,AlleBr00,rushing,CIN,4,7,1,2,0.5,5,1.3,1,4,202011290cin
+Alex Erickson,EricAl01,rushing,CIN,1,-4,NA,-4,-4,0,0,0,NA,202011290cin
+Shawn Williams,WillSh02,rushing,CIN,1,7,1,7,7,0,0,0,NA,202011290cin
+Trayveon Williams,WillTr06,rushing,CIN,1,-2,0,-2,-2,0,0,0,NA,202011290cin

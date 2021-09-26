@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,PIT,15,47,3,29,1.9,18,1.2,1,15,202011010rav
+Anthony McFarland Jr.,McFaAn00,rushing,PIT,1,1,NA,1,1,0,0,0,NA,202011010rav
+Gus Edwards,EdwaGu00,rushing,BAL,16,87,4,55,3.4,32,2,0,NA,202011010rav
+Lamar Jackson,JackLa00,rushing,BAL,16,65,4,53,3.3,12,0.8,0,NA,202011010rav
+J.K. Dobbins,DobbJK00,rushing,BAL,15,113,5,53,3.5,60,4,1,15,202011010rav

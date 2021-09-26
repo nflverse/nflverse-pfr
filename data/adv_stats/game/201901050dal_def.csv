@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Shaquill Griffin,GrifSh00,defense,SEA,0,13,8,61.5%,108,13.5,8.3,1,113.6,10.8,71,37,0,0,0,0,0,4,2,33.3%,201901050dal
+Bradley McDougald,McDoBr01,defense,SEA,0,5,4,80.0%,24,6,4.8,0,86.7,0.4,5,19,0,0,0,0,0,10,2,16.7%,201901050dal
+Tre Flowers,FlowTr01,defense,SEA,0,5,3,60.0%,12,4,2.4,0,64.6,7.6,5,7,1,0,0,0,0,2,0,0.0%,201901050dal
+Bobby Wagner,WagnBo00,defense,SEA,0,2,2,100.0%,13,6.5,6.5,0,93.7,-2,-4,17,1,0,0,0,0,5,1,16.7%,201901050dal
+K.J. Wright,WrigK.00,defense,SEA,1,3,2,66.7%,24,12,8,0,51.4,7.7,7,17,1,0,0,0,0,8,2,20.0%,201901050dal
+Akeem King,KingAk00,defense,SEA,0,1,1,100.0%,9,9,9,0,104.2,9,9,0,1,0,0,0,0,1,0,0.0%,201901050dal
+Justin Coleman,ColeJu01,defense,SEA,0,2,1,50.0%,27,27,13.5,0,95.8,13.5,27,0,2,0,0,0,0,6,0,0.0%,201901050dal
+Tedric Thompson,ThomTe00,defense,SEA,0,2,1,50.0%,2,2,1,0,56.2,12.5,-2,4,0,0,0,0,0,5,0,0.0%,201901050dal
+Frank Clark,ClarFr01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,4,4,0,0.0%,201901050dal
+Jarran Reed,ReedJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,4,0,0.0%,201901050dal
+Poona Ford,FordPo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201901050dal
+Barkevious Mingo,MingBa00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,201901050dal
+Jacob Martin,MartJa02,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201901050dal
+Dion Jordan,JordDi00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201901050dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,7,6,85.7%,39,6.5,5.6,0,89.9,1.7,2,37,2,0,0,0,0,10,1,9.1%,201901050dal
+Byron Jones,JoneBy00,defense,DAL,0,7,5,71.4%,94,18.8,13.4,1,153.3,9.3,58,36,0,0,0,0,0,4,0,0.0%,201901050dal
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,6,3,50.0%,52,17.3,8.7,0,79.9,17.5,52,0,0,0,0,0,0,6,0,0.0%,201901050dal
+Jaylon Smith,SmitJa05,defense,DAL,0,3,2,66.7%,16,8,5.3,0,79.9,4,-1,17,3,0,0,0,0,7,0,0.0%,201901050dal
+Anthony Brown,BrowAn02,defense,DAL,0,3,2,66.7%,7,3.5,2.3,0,70.1,2,0,7,1,0,0,0,0,1,0,0.0%,201901050dal
+Jeff Heath,HeatJe00,defense,DAL,0,2,1,50.0%,26,26,13,0,95.8,22,18,8,0,0,0,0,0,4,1,20.0%,201901050dal
+Xavier Woods,WoodXa00,defense,DAL,0,1,1,100.0%,40,40,40,0,118.7,33,33,7,0,0,0,0,0,2,0,0.0%,201901050dal
+Antwaun Woods,WoodAn02,defense,DAL,0,1,1,100.0%,-8,-8,-8,0,79.2,-9,-9,1,0,0,0,0,0,3,0,0.0%,201901050dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,201901050dal
+Maliek Collins,CollMa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,4,0,0.0%,201901050dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,6,0,0.0%,201901050dal

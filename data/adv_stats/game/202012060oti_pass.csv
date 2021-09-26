@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Baker Mayfield,MayfBa00,passing,CLE,25,33,334,17,51.5,207,6.3,145,5.8,4.4,189,7.6,2,6.7%,0,0.0%,0,12,2,0,2,5.7%,2,2,202012060oti
+Jarvis Landry,LandJa00,passing,CLE,1,1,6,1,100,5,5,5,5,5,1,1,0,0.0%,0,0.0%,0,1,0,1,1,100.0%,0,NA,202012060oti
+Ryan Tannehill,TannRy00,passing,TEN,29,45,389,18,37.5,487,10.8,257,8.9,5.7,132,4.6,4,9.5%,5,11.9%,3,5,4,2,9,18.8%,0,NA,202012060oti

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Todd Gurley,GurlTo01,rushing,LAR,11,28,3,5,0.5,23,2.1,2,5.5,201812090chi
+Justin Davis,DaviJu00,rushing,LAR,1,19,1,16,16,3,3,0,NA,201812090chi
+Jared Goff,GoffJa00,rushing,LAR,1,5,1,5,5,0,0,0,NA,201812090chi
+Jordan Howard,HowaJo00,rushing,CHI,19,101,6,50,2.6,51,2.7,0,NA,201812090chi
+Tarik Cohen,CoheTa00,rushing,CHI,9,69,2,58,6.4,11,1.2,0,NA,201812090chi
+Mitchell Trubisky,TrubMi00,rushing,CHI,6,23,1,23,3.8,0,0,0,NA,201812090chi
+Taquan Mizzell,MizzTa00,rushing,CHI,1,1,NA,1,1,0,0,0,NA,201812090chi

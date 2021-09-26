@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+D.J. Moore,MoorD.00,receiving,CAR,8,7,157,1,6,53,7.6,104,14.9,8.3,0,NA,0,0,0,158.3,201811180det
+Christian McCaffrey,McCaCh01,receiving,CAR,8,6,57,0,1,17,2.8,40,6.7,2.8,0,NA,0,0,0,94.3,201811180det
+Curtis Samuel,SamuCu00,receiving,CAR,7,5,55,1,4,47,9.4,8,1.6,13,1,5,0,0,1,94.3,201811180det
+Jarius Wright,WrigJa02,receiving,CAR,3,3,40,0,2,14,4.7,26,8.7,4.7,0,NA,0,0,0,118.7,201811180det
+Devin Funchess,FuncDe00,receiving,CAR,8,2,39,0,2,34,17,5,2.5,16.1,0,NA,4,50,0,47.4,201811180det
+Greg Olsen,OlseGr00,receiving,CAR,3,2,9,1,1,9,4.5,0,0,8,0,NA,0,0,0,109.7,201811180det
+Kenny Golladay,GollKe00,receiving,DET,15,8,113,1,5,81,10.1,32,4,12.4,2,4,0,0,0,100.1,201811180det
+Bruce Ellington,ElliBr00,receiving,DET,9,6,52,0,3,22,3.7,30,5,3.6,0,NA,1,11.1,0,81.7,201811180det
+Theo Riddick,RiddTh00,receiving,DET,6,5,30,0,2,-8,-1.6,38,7.6,-1.3,1,5,1,16.7,0,87.5,201811180det
+Kerryon Johnson,JohnKe06,receiving,DET,2,2,10,0,0,-8,-4,18,9,-4,1,2,0,0,0,87.5,201811180det
+T.J. Jones,JoneT.00,receiving,DET,1,1,2,0,NA,2,2,0,0,2,0,NA,0,0,0,79.2,201811180det
+Levine Toilolo,ToilLe00,receiving,DET,1,1,13,0,1,3,3,10,10,3,1,1,0,0,0,118.7,201811180det
+Luke Willson,WillLu00,receiving,DET,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,201811180det

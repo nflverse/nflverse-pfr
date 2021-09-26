@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Peyton Barber,BarbPe01,rushing,TAM,19,85,5,50,2.6,35,1.8,0,NA,201812160rav
+Jameis Winston,WinsJa00,rushing,TAM,2,0,1,0,0,0,0,0,NA,201812160rav
+Gus Edwards,EdwaGu00,rushing,BAL,19,104,7,49,2.6,55,2.9,0,NA,201812160rav
+Lamar Jackson,JackLa00,rushing,BAL,18,95,6,69,3.8,26,1.4,0,NA,201812160rav
+Kenneth Dixon,DixoKe00,rushing,BAL,11,48,3,15,1.4,33,3,3,3.7,201812160rav
+Chris Moore,MoorCh00,rushing,BAL,1,-5,0,-8,-8,3,3,1,1,201812160rav

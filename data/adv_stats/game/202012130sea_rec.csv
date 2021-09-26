@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Braxton Berrios,BerrBr00,receiving,NYJ,5,3,49,0,3,31,10.3,18,6,14.2,0,NA,0,0,0,92.9,202012130sea
+Breshad Perriman,PerrBr02,receiving,NYJ,7,3,26,0,1,23,7.7,3,1,9.7,0,NA,1,14.3,0,53.3,202012130sea
+Jamison Crowder,CrowJa00,receiving,NYJ,4,2,7,0,NA,7,3.5,0,0,8,0,NA,0,0,0,56.2,202012130sea
+Josh Adams,AdamJo03,receiving,NYJ,2,2,3,0,0,-4,-2,7,3.5,-2,0,NA,0,0,0,79.2,202012130sea
+Frank Gore,GoreFr00,receiving,NYJ,1,1,8,0,1,-6,-6,14,14,-6,0,NA,0,0,0,100,202012130sea
+Jeff Smith,SmitJe03,receiving,NYJ,2,1,14,0,1,14,14,0,0,20.5,0,NA,0,0,0,72.9,202012130sea
+Chris Herndon,HernCh00,receiving,NYJ,1,1,9,0,1,9,9,0,0,9,0,NA,0,0,0,104.2,202012130sea
+Jaleel Scott,ScotJa02,receiving,NYJ,1,1,16,0,1,13,13,3,3,13,0,NA,0,0,0,118.7,202012130sea
+D.K. Metcalf,MetcDK00,receiving,SEA,8,6,61,1,5,45,7.5,16,2.7,11.6,0,NA,0,0,1,96.4,202012130sea
+Tyler Lockett,LockTy00,receiving,SEA,5,5,52,0,4,27,5.4,25,5,5.4,0,NA,0,0,0,110,202012130sea
+Chris Carson,CarsCh00,receiving,SEA,5,3,22,0,1,3,1,19,6.3,-0.6,0,NA,1,20,0,70.4,202012130sea
+David Moore,MoorDa03,receiving,SEA,5,3,20,1,2,10,3.3,10,3.3,11,0,NA,1,20,0,108.3,202012130sea
+Freddie Swain,SwaiFr00,receiving,SEA,3,2,22,1,1,22,11,0,0,9.3,0,NA,0,0,0,127.8,202012130sea
+Colby Parkinson,ParkCo02,receiving,SEA,2,2,16,0,2,11,5.5,5,2.5,5.5,1,2,0,0,0,100,202012130sea
+Will Dissly,DissWi00,receiving,SEA,2,2,23,1,2,-1,-0.5,24,12,-0.5,0,NA,0,0,0,154.2,202012130sea
+Jacob Hollister,HollJa03,receiving,SEA,1,1,20,0,1,18,18,2,2,18,0,NA,0,0,0,118.7,202012130sea
+Penny Hart,HartPe01,receiving,SEA,1,1,3,0,0,-1,-1,4,4,-1,0,NA,0,0,0,79.2,202012130sea

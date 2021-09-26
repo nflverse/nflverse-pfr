@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kenyan Drake,DrakKe00,rushing,ARI,12,60,5,40,3.3,20,1.7,0,NA,201912290ram
+Kyler Murray,MurrKy00,rushing,ARI,2,0,0,0,0,0,0,0,NA,201912290ram
+Chase Edmonds,EdmoCh00,rushing,ARI,1,-1,NA,-2,-2,1,1,0,NA,201912290ram
+Brett Hundley,HundBr00,rushing,ARI,1,6,NA,4,4,2,2,0,NA,201912290ram
+Christian Kirk,KirkCh01,rushing,ARI,1,6,0,4,4,2,2,0,NA,201912290ram
+Todd Gurley,GurlTo01,rushing,LAR,20,68,2,40,2,28,1.4,0,NA,201912290ram
+Malcolm Brown,BrowMa03,rushing,LAR,9,26,2,10,1.1,16,1.8,0,NA,201912290ram
+Jared Goff,GoffJa00,rushing,LAR,2,4,0,4,2,0,0,0,NA,201912290ram
+Nick Scott,ScotNi01,rushing,LAR,1,6,NA,6,6,0,0,0,NA,201912290ram
+Robert Woods,WoodRo02,rushing,LAR,1,9,0,6,6,3,3,0,NA,201912290ram

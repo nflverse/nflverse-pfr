@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Adrian Peterson,PeteAd01,rushing,DET,11,29,1,15,1.4,14,1.3,1,11,202010250atl
+D'Andre Swift,SwifDA00,rushing,DET,9,27,2,7,0.8,20,2.2,2,4.5,202010250atl
+Matthew Stafford,StafMa00,rushing,DET,1,8,0,7,7,1,1,0,NA,202010250atl
+Todd Gurley,GurlTo01,rushing,ATL,23,63,5,29,1.3,34,1.5,3,7.7,202010250atl
+Brian Hill,HillBr02,rushing,ATL,2,3,0,0,0,3,1.5,0,NA,202010250atl
+Olamide Zaccheaus,ZaccOl01,rushing,ATL,1,0,NA,0,0,0,0,0,NA,202010250atl

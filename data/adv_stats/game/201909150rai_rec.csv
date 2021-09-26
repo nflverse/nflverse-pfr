@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Travis Kelce,KelcTr00,receiving,KAN,9,7,107,1,6,80,11.4,27,3.9,11.7,0,NA,1,11.1,0,153.2,201909150rai
+Demarcus Robinson,RobiDe01,receiving,KAN,6,6,172,2,5,152,25.3,20,3.3,25.3,0,NA,0,0,0,158.3,201909150rai
+Sammy Watkins,WatkSa00,receiving,KAN,13,6,49,0,3,15,2.5,34,5.7,10.7,0,NA,0,0,0,56.2,201909150rai
+Mecole Hardman,HardMe00,receiving,KAN,6,4,61,1,2,47,11.8,14,3.5,14.3,0,NA,0,0,0,139.6,201909150rai
+LeSean McCoy,McCoLe01,receiving,KAN,3,3,0,0,NA,-12,-4,12,4,-4,0,NA,0,0,0,79.2,201909150rai
+Damien Williams,WillDa05,receiving,KAN,5,3,48,0,2,20,6.7,28,9.3,10.4,0,NA,0,0,0,92.1,201909150rai
+De'Anthony Thomas,ThomDe05,receiving,KAN,1,1,6,0,NA,3,3,3,3,3,0,NA,0,0,0,91.7,201909150rai
+Blake Bell,BellBl00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,32,0,NA,0,0,0,39.6,201909150rai
+Darren Waller,WallDa01,receiving,OAK,7,6,63,0,3,10,1.7,53,8.8,4.6,2,3,0,0,0,104.2,201909150rai
+Tyrell Williams,WillTy00,receiving,OAK,7,5,46,1,4,39,7.8,7,1.4,10.9,0,NA,0,0,1,89,201909150rai
+Hunter Renfrow,RenfHu00,receiving,OAK,8,4,30,0,2,13,3.3,17,4.3,6.4,0,NA,0,0,0,59.4,201909150rai
+Derek Carrier,CarrDe00,receiving,OAK,5,3,33,0,1,15,5,18,6,9.6,0,NA,1,20,0,79.6,201909150rai
+Jalen Richard,RichJa01,receiving,OAK,3,2,2,0,NA,-3,-1.5,5,2.5,0.3,0,NA,1,33.3,0,70.1,201909150rai
+DeAndre Washington,WashDe00,receiving,OAK,2,2,26,0,2,9,4.5,17,8.5,4.5,0,NA,0,0,0,118.7,201909150rai
+Ryan Grant,GranRy01,receiving,OAK,5,1,-2,0,NA,-4,-4,2,2,4.6,0,NA,0,0,1,0,201909150rai

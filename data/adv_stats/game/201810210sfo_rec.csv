@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Robert Woods,WoodRo02,receiving,LAR,7,5,78,0,4,65,13,13,2.6,11.9,0,NA,1,14.3,0,108,201810210sfo
+Brandin Cooks,CookBr00,receiving,LAR,5,4,64,1,3,55,13.8,9,2.3,20.6,1,4,0,0,0,158.3,201810210sfo
+Todd Gurley,GurlTo01,receiving,LAR,5,4,23,1,1,-8,-2,31,7.8,-2,0,NA,1,20,0,125.4,201810210sfo
+Nick Williams,WillNi02,receiving,LAR,2,2,17,0,NA,12,6,5,2.5,6,0,NA,0,0,0,102.1,201810210sfo
+Malcolm Brown,BrowMa03,receiving,LAR,1,1,6,0,0,4,4,2,2,4,0,NA,0,0,0,91.7,201810210sfo
+Josh Reynolds,ReynJo00,receiving,LAR,1,1,19,0,1,12,12,7,7,12,0,NA,0,0,0,118.7,201810210sfo
+Gerald Everett,EverGe00,receiving,LAR,2,1,-5,0,NA,-4,-4,-1,-1,1,0,NA,0,0,0,56.2,201810210sfo
+Tyler Higbee,HigbTy00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,0,39.6,201810210sfo
+George Kittle,KittGe00,receiving,SFO,8,5,98,1,5,39,7.8,59,11.8,9.1,0,NA,1,12.5,1,105.2,201810210sfo
+Raheem Mostert,MostRa00,receiving,SFO,4,4,19,0,1,-11,-2.8,30,7.5,-2.8,0,NA,0,0,0,86.5,201810210sfo
+Marquise Goodwin,GoodMa00,receiving,SFO,5,2,24,0,1,22,11,2,1,16,0,NA,0,0,1,15.8,201810210sfo
+Kyle Juszczyk,JuszKy00,receiving,SFO,3,2,18,0,1,9,4.5,9,4.5,8.7,0,NA,0,0,0,82.6,201810210sfo
+Pierre Garcon,GarcPi00,receiving,SFO,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,201810210sfo
+Trent Taylor,TaylTr02,receiving,SFO,3,1,6,0,NA,6,6,0,0,7,0,NA,0,0,0,42.4,201810210sfo
+Alfred Morris,MorrAl00,receiving,SFO,1,0,0,0,0,0,NA,0,NA,2,0,NA,0,0,0,39.6,201810210sfo
+Garrett Celek,CeleGa00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,23,0,NA,0,0,0,39.6,201810210sfo
+Kendrick Bourne,BourKe00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,201810210sfo

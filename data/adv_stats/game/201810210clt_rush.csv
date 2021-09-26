@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chris Ivory,IvorCh00,rushing,BUF,16,81,4,19,1.2,62,3.9,0,NA,201810210clt
+Marcus Murphy,MurpMa03,rushing,BUF,4,53,2,26,6.5,27,6.8,0,NA,201810210clt
+LeSean McCoy,McCoLe01,rushing,BUF,2,1,NA,0,0,1,0.5,0,NA,201810210clt
+Marlon Mack,MackMa00,rushing,IND,19,126,5,58,3.1,68,3.6,0,NA,201810210clt
+Jordan Wilkins,WilkJo01,rushing,IND,6,46,3,17,2.8,29,4.8,0,NA,201810210clt
+Nyheim Hines,HineNy00,rushing,IND,5,47,3,39,7.8,8,1.6,0,NA,201810210clt
+Jacoby Brissett,BrisJa00,rushing,IND,4,-4,NA,-4,-1,0,0,0,NA,201810210clt
+Andrew Luck,LuckAn00,rushing,IND,3,5,0,5,1.7,0,0,0,NA,201810210clt

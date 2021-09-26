@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Matt Ryan,RyanMa00,passing,ATL,31,44,378,18,40,379,8.6,227,7.3,5.2,151,4.9,0,0.0%,3,7.1%,1,8,3,4,8,17.4%,1,10,201812300tam
+Mohamed Sanu,SanuMo00,passing,ATL,1,1,5,1,100,1,1,1,1,1,4,4,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201812300tam
+Jameis Winston,WinsJa00,passing,TAM,22,35,345,16,44.4,416,11.9,256,11.6,7.3,89,4,2,6.1%,5,15.2%,1,7,2,3,6,16.2%,1,15,201812300tam

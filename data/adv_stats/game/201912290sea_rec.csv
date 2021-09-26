@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+George Kittle,KittGe00,receiving,SFO,7,7,86,0,5,38,5.4,48,6.9,5.4,1,7,0,0,0,117.9,201912290sea
+Deebo Samuel,SamuDe00,receiving,SFO,5,5,102,0,4,40,8,62,12.4,8,1,5,0,0,0,118.7,201912290sea
+Emmanuel Sanders,SandEm00,receiving,SFO,4,3,25,0,2,25,8.3,0,0,10.5,0,NA,1,25,0,90.6,201912290sea
+Tevin Coleman,ColeTe01,receiving,SFO,2,1,7,0,NA,6,6,1,1,3.5,0,NA,0,0,0,58.3,201912290sea
+Kyle Juszczyk,JuszKy00,receiving,SFO,1,1,49,0,1,29,29,20,20,29,0,NA,0,0,0,118.7,201912290sea
+Raheem Mostert,MostRa00,receiving,SFO,2,1,16,0,0,-2,-2,18,18,-1.5,0,NA,0,0,0,77.1,201912290sea
+Matt Breida,BreiMa00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,-6,0,NA,0,0,0,39.6,201912290sea
+Tyler Lockett,LockTy00,receiving,SEA,7,6,51,1,4,33,5.5,18,3,5.4,0,NA,0,0,0,136.6,201912290sea
+D.K. Metcalf,MetcDK00,receiving,SEA,12,6,81,1,6,73,12.2,8,1.3,12.5,0,NA,1,8.3,0,99.7,201912290sea
+Travis Homer,HomeTr00,receiving,SEA,5,5,30,0,3,-2,-0.4,32,6.4,-0.4,1,5,0,0,0,91.7,201912290sea
+Jacob Hollister,HollJa03,receiving,SEA,8,4,25,0,1,21,5.3,4,1,4.8,1,4,0,0,0,56.8,201912290sea
+David Moore,MoorDa03,receiving,SEA,2,2,30,0,2,14,7,16,8,7,0,NA,0,0,0,118.7,201912290sea
+Tyrone Swoopes,SwooTy00,receiving,SEA,1,1,5,0,NA,-2,-2,7,7,-2,0,NA,0,0,0,87.5,201912290sea
+John Ursua,UrsuJo00,receiving,SEA,1,1,11,0,1,11,11,0,0,11,0,NA,0,0,0,112.5,201912290sea
+Jaron Brown,BrowJa03,receiving,SEA,2,0,0,0,NA,0,NA,0,NA,2.5,0,NA,1,50,0,39.6,201912290sea

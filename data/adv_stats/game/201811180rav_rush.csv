@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,12,14,3,5,0.4,9,0.8,0,NA,201811180rav
+Giovani Bernard,BernGi00,rushing,CIN,2,5,NA,5,2.5,0,0,0,NA,201811180rav
+Andy Dalton,DaltAn00,rushing,CIN,2,29,1,29,14.5,0,0,0,NA,201811180rav
+Lamar Jackson,JackLa00,rushing,BAL,26,119,7,98,3.8,21,0.8,1,26,201811180rav
+Gus Edwards,EdwaGu00,rushing,BAL,17,115,7,52,3.1,63,3.7,2,8.5,201811180rav
+Alex Collins,CollAl00,rushing,BAL,7,18,1,12,1.7,6,0.9,0,NA,201811180rav
+Javorius Allen,AlleJa01,rushing,BAL,1,2,NA,0,0,2,2,0,NA,201811180rav
+John Brown,BrowJo02,rushing,BAL,1,0,0,0,0,0,0,0,NA,201811180rav
+Chris Moore,MoorCh00,rushing,BAL,1,8,0,8,8,0,0,0,NA,201811180rav
+Ty Montgomery,MontTy01,rushing,BAL,0,5,NA,2,NA,3,NA,0,NA,201811180rav

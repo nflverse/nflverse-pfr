@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Carlos Hyde,HydeCa00,rushing,HOU,13,44,1,24,1.8,20,1.5,2,6.5,202001120kan
+Deshaun Watson,WatsDe00,rushing,HOU,6,37,2,37,6.2,0,0,0,NA,202001120kan
+Duke Johnson,JohnDu00,rushing,HOU,1,11,1,4,4,7,7,1,1,202001120kan
+Justin Reid,ReidJu00,rushing,HOU,1,2,NA,2,2,0,0,0,NA,202001120kan
+Damien Williams,WillDa05,rushing,KAN,12,47,4,38,3.2,9,0.8,0,NA,202001120kan
+Patrick Mahomes,MahoPa00,rushing,KAN,7,53,4,53,7.6,0,0,0,NA,202001120kan
+Tyreek Hill,HillTy00,rushing,KAN,1,4,0,2,2,2,2,0,NA,202001120kan
+Sammy Watkins,WatkSa00,rushing,KAN,1,14,1,0,0,14,14,0,NA,202001120kan

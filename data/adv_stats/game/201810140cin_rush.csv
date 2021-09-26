@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,PIT,19,111,7,77,4.1,34,1.8,2,9.5,201810140cin
+Stevan Ridley,RidlSt00,rushing,PIT,1,2,NA,0,0,2,2,0,NA,201810140cin
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,-1,0,-1,-1,0,0,0,NA,201810140cin
+Joe Mixon,MixoJo00,rushing,CIN,11,64,5,41,3.7,23,2.1,2,5.5,201810140cin
+Mark Walton,WaltMa00,rushing,CIN,2,-2,NA,-2,-1,0,0,0,NA,201810140cin

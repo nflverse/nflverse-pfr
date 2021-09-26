@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Tevin Coleman,ColeTe01,rushing,SFO,20,62,2,41,2.1,21,1.1,1,20,201910200was
+Matt Breida,BreiMa00,rushing,SFO,8,35,2,21,2.6,14,1.8,0,NA,201910200was
+Jeff Wilson,WilsJe01,rushing,SFO,5,20,1,10,2,10,2,0,NA,201910200was
+Jimmy Garoppolo,GaroJi00,rushing,SFO,4,20,2,8,2,12,3,1,4,201910200was
+George Kittle,KittGe00,rushing,SFO,2,0,0,-1,-0.5,1,0.5,0,NA,201910200was
+Adrian Peterson,PeteAd01,rushing,WAS,20,81,4,46,2.3,35,1.8,0,NA,201910200was
+Wendell Smallwood,SmalWe00,rushing,WAS,5,23,1,18,3.6,5,1,0,NA,201910200was
+Steven Sims,SimsSt00,rushing,WAS,1,0,NA,0,0,0,0,0,NA,201910200was

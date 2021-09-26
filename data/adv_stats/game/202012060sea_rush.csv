@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Wayne Gallman,GallWa00,rushing,NYG,16,135,4,90,5.6,45,2.8,2,8,202012060sea
+Alfred Morris,MorrAl00,rushing,NYG,8,39,2,22,2.8,17,2.1,1,8,202012060sea
+Dion Lewis,LewiDi00,rushing,NYG,3,6,NA,3,1,3,1,0,NA,202012060sea
+Colt McCoy,McCoCo00,rushing,NYG,2,2,0,2,1,0,0,0,NA,202012060sea
+Elijhaa Penny,PennEl00,rushing,NYG,2,8,1,1,0.5,7,3.5,0,NA,202012060sea
+Chris Carson,CarsCh00,rushing,SEA,13,65,6,42,3.2,23,1.8,1,13,202012060sea
+Russell Wilson,WilsRu00,rushing,SEA,7,45,0,45,6.4,0,0,0,NA,202012060sea
+Carlos Hyde,HydeCa00,rushing,SEA,2,1,NA,0,0,1,0.5,1,2,202012060sea

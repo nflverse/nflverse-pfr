@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+D.J. Moore,MoorD.00,receiving,CAR,11,9,120,0,6,81,9,39,4.3,9.9,1,9,0,0,0,112.1,201911100gnb
+Greg Olsen,OlseGr00,receiving,CAR,10,8,98,0,6,60,7.5,38,4.8,8.4,0,NA,0,0,0,107.5,201911100gnb
+Christian McCaffrey,McCaCh01,receiving,CAR,7,6,33,0,3,-10,-1.7,43,7.2,-1.1,0,NA,0,0,0,86.3,201911100gnb
+Curtis Samuel,SamuCu00,receiving,CAR,8,4,35,1,3,31,7.8,4,1,14,0,NA,0,0,0,101.6,201911100gnb
+Jarius Wright,WrigJa02,receiving,CAR,2,1,21,0,1,21,21,0,0,16,0,NA,0,0,1,47.9,201911100gnb
+Davante Adams,AdamDa01,receiving,GNB,10,7,118,0,5,84,12,34,4.9,16.4,0,NA,0,0,0,109.6,201911100gnb
+Geronimo Allison,AlliGe01,receiving,GNB,3,3,6,0,NA,-4,-1.3,10,3.3,-1.3,0,NA,0,0,0,79.2,201911100gnb
+Allen Lazard,LazaAl00,receiving,GNB,6,3,27,0,1,25,8.3,2,0.7,15,0,NA,0,0,0,62.5,201911100gnb
+Jimmy Graham,GrahJi00,receiving,GNB,3,2,59,0,1,18,9,41,20.5,8.3,0,NA,0,0,0,109.7,201911100gnb
+Jake Kumerow,KumeJa00,receiving,GNB,2,2,23,0,2,-3,-1.5,26,13,-1.5,0,NA,0,0,0,114.6,201911100gnb
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,47,0,NA,0,0,0,39.6,201911100gnb
+Danny Vitale,VitaDa00,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,201911100gnb
+Jamaal Williams,WillJa06,receiving,GNB,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,201911100gnb

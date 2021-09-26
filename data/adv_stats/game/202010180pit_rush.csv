@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kareem Hunt,HuntKa00,rushing,CLE,13,40,1,13,1,27,2.1,1,13,202010180pit
+Dontrell Hilliard,HillDo00,rushing,CLE,4,29,1,16,4,13,3.3,0,NA,202010180pit
+D'Ernest Johnson,JohnDE04,rushing,CLE,4,1,NA,-2,-0.5,3,0.8,0,NA,202010180pit
+Baker Mayfield,MayfBa00,rushing,CLE,1,5,0,4,4,1,1,0,NA,202010180pit
+James Conner,ConnJa00,rushing,PIT,20,101,8,47,2.4,54,2.7,4,5,202010180pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,6,17,2,7,1.2,10,1.7,0,NA,202010180pit
+Anthony McFarland Jr.,McFaAn00,rushing,PIT,3,2,NA,-1,-0.3,3,1,0,NA,202010180pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,3,5,1,2,0.7,3,1,0,NA,202010180pit
+Mason Rudolph,RudoMa00,rushing,PIT,3,-3,NA,-3,-1,0,0,0,NA,202010180pit
+Chase Claypool,ClayCh01,rushing,PIT,2,7,1,5,2.5,2,1,0,NA,202010180pit

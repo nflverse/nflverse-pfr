@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,TAM,14,49,6,10,0.7,39,2.8,0,NA,202012200atl
+Tom Brady,BradTo00,rushing,TAM,2,-2,0,-2,-1,0,0,0,NA,202012200atl
+Ke'Shawn Vaughn,VaugKe00,rushing,TAM,2,4,NA,1,0.5,3,1.5,0,NA,202012200atl
+Ito Smith,SmitIt00,rushing,ATL,6,24,1,15,2.5,9,1.5,1,6,202012200atl
+Brian Hill,HillBr02,rushing,ATL,5,-2,NA,-3,-0.6,1,0.2,1,5,202012200atl
+Todd Gurley,GurlTo01,rushing,ATL,1,-1,0,-1,-1,0,0,0,NA,202012200atl
+Matt Ryan,RyanMa00,rushing,ATL,1,16,1,16,16,0,0,0,NA,202012200atl

@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tre'Quan Smith,SmitTr03,receiving,NOR,5,5,56,1,5,20,4,36,7.2,4,1,5,0,0,0,152.9,201912290car
+Michael Thomas,ThomMi05,receiving,NOR,9,4,37,0,3,23,5.8,14,3.5,8.4,0,NA,1,11.1,0,56.2,201912290car
+Josh Hill,HillJo02,receiving,NOR,5,3,35,0,2,5,1.7,30,10,4.4,0,NA,0,0,0,81.2,201912290car
+Jared Cook,CookJa02,receiving,NOR,2,2,44,1,2,41,20.5,3,1.5,20.5,0,NA,0,0,0,158.3,201912290car
+Alvin Kamara,KamaAl00,receiving,NOR,3,2,18,0,1,-4,-2,22,11,-0.7,0,NA,1,33.3,0,82.6,201912290car
+Ted Ginn Jr.,GinnTe00,receiving,NOR,2,1,10,0,1,9,9,1,1,24.5,0,NA,0,0,0,64.6,201912290car
+Taysom Hill,HillTa00,receiving,NOR,1,1,45,1,1,4,4,41,41,4,0,NA,0,0,0,158.3,201912290car
+Latavius Murray,MurrLa00,receiving,NOR,1,1,14,0,1,-7,-7,21,21,-7,0,NA,0,0,0,118.7,201912290car
+Ricky Ortiz,OrtiRi00,receiving,NOR,1,1,8,0,NA,1,1,7,7,1,1,1,0,0,0,100,201912290car
+Christian McCaffrey,McCaCh01,receiving,CAR,10,7,72,0,2,9,1.3,63,9,2,2,3.5,1,10,0,90.4,201912290car
+Brandon Zylstra,ZylsBr00,receiving,CAR,8,6,96,0,4,87,14.5,9,1.5,13.5,0,NA,0,0,0,114.6,201912290car
+Curtis Samuel,SamuCu00,receiving,CAR,4,2,13,0,1,8,4,5,2.5,17.3,0,NA,0,0,0,57.3,201912290car
+Greg Olsen,OlseGr00,receiving,CAR,6,2,12,0,NA,5,2.5,7,3.5,6.5,0,NA,0,0,1,2.8,201912290car
+Chris Hogan,HogaCh00,receiving,CAR,4,2,14,0,1,9,4.5,5,2.5,4.3,0,NA,0,0,0,58.3,201912290car
+DeAndrew White,WhitDe01,receiving,CAR,5,2,31,0,2,8,4,23,11.5,6.6,0,NA,0,0,1,21.7,201912290car
+Jarius Wright,WrigJa02,receiving,CAR,5,2,10,0,1,5,2.5,5,2.5,5.8,0,NA,2,40,0,47.9,201912290car
+Reggie Bonnafon,BonnRe00,receiving,CAR,2,2,39,0,1,6,3,33,16.5,3,0,NA,0,0,0,118.7,201912290car
+Ian Thomas,ThomIa00,receiving,CAR,5,1,12,0,1,2,2,10,10,10.4,0,NA,0,0,0,39.6,201912290car

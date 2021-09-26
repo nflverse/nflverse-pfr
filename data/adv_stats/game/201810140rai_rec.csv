@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Doug Baldwin,BaldDo00,receiving,SEA,8,6,91,0,4,69,11.5,22,3.7,16,0,NA,0,0,1,72.4,201810140rai
+Tyler Lockett,LockTy00,receiving,SEA,4,3,13,1,1,4,1.3,9,3,1,0,NA,0,0,0,117.7,201810140rai
+Rashaad Penny,PennRa00,receiving,SEA,2,2,27,0,1,-4,-2,31,15.5,-2,0,NA,0,0,0,118.7,201810140rai
+David Moore,MoorDa03,receiving,SEA,3,2,47,1,2,45,22.5,2,1,24,0,NA,0,0,0,149.3,201810140rai
+Jaron Brown,BrowJa03,receiving,SEA,1,1,5,1,1,5,5,0,0,5,0,NA,0,0,0,127.1,201810140rai
+Tyrone Swoopes,SwooTy00,receiving,SEA,1,1,23,0,1,8,8,15,15,8,0,NA,0,0,0,118.7,201810140rai
+Brandon Marshall,MarsBr00,receiving,SEA,1,1,11,0,1,8,8,3,3,8,0,NA,0,0,0,112.5,201810140rai
+Mike Davis,DaviMi01,receiving,SEA,3,1,5,0,0,-1,-1,6,6,1,1,1,1,33.3,0,42.4,201810140rai
+Jalen Richard,RichJa01,receiving,OAK,8,7,48,0,1,-6,-0.9,54,7.7,-0.8,0,NA,0,0,0,91.7,201810140rai
+Seth Roberts,RobeSe00,receiving,OAK,6,5,31,0,2,0,0,31,6.2,1.2,0,NA,0,0,0,88.2,201810140rai
+Marshawn Lynch,LyncMa00,receiving,OAK,5,3,14,0,2,-5,-1.7,19,6.3,-1.4,0,NA,2,40,0,64.6,201810140rai
+Jordy Nelson,NelsJo00,receiving,OAK,3,2,6,0,1,5,2.5,1,0.5,8.3,0,NA,0,0,0,70.1,201810140rai
+Jared Cook,CookJa02,receiving,OAK,2,2,10,0,1,0,0,10,5,0,0,NA,0,0,0,87.5,201810140rai
+Martavis Bryant,BryaMa00,receiving,OAK,3,2,18,0,1,-1,-0.5,19,9.5,15.7,0,NA,0,0,0,82.6,201810140rai
+Dwayne Harris,HarrDw00,receiving,OAK,1,1,7,0,NA,1,1,6,6,1,1,1,0,0,0,95.8,201810140rai
+Doug Martin,MartDo00,receiving,OAK,1,1,8,0,NA,8,8,0,0,8,0,NA,0,0,0,100,201810140rai
+Amari Cooper,CoopAm00,receiving,OAK,1,0,0,0,NA,0,NA,0,NA,7,0,NA,1,100,0,39.6,201810140rai

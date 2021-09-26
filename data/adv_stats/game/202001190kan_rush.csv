@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,19,69,4,40,2.1,29,1.5,0,NA,202001190kan
+Ryan Tannehill,TannRy00,rushing,TEN,3,11,0,5,1.7,6,2,0,NA,202001190kan
+Marcus Mariota,MariMa01,rushing,TEN,1,5,NA,0,0,5,5,1,1,202001190kan
+Damien Williams,WillDa05,rushing,KAN,17,45,5,17,1,28,1.6,0,NA,202001190kan
+Patrick Mahomes,MahoPa00,rushing,KAN,8,53,4,26,3.3,27,3.4,4,2,202001190kan
+Tyreek Hill,HillTy00,rushing,KAN,1,7,0,7,7,0,0,0,NA,202001190kan
+Darwin Thompson,ThomDa06,rushing,KAN,1,7,1,5,5,2,2,0,NA,202001190kan

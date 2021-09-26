@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Giovani Bernard,BernGi00,rushing,CIN,12,61,6,30,2.5,31,2.6,1,12,201809230car
+Tyler Boyd,BoydTy00,rushing,CIN,1,5,0,4,4,1,1,0,NA,201809230car
+Christian McCaffrey,McCaCh01,rushing,CAR,28,184,7,139,5,45,1.6,2,14,201809230car
+Cam Newton,NewtCa00,rushing,CAR,10,36,4,30,3,6,0.6,0,NA,201809230car
+C.J. Anderson,AndeC.00,rushing,CAR,2,9,0,6,3,3,1.5,0,NA,201809230car
+Alex Armah,ArmaAl00,rushing,CAR,1,1,NA,1,1,0,0,0,NA,201809230car

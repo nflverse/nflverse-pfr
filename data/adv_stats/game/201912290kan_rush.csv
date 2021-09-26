@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,LAC,14,46,4,27,1.9,19,1.4,1,14,201912290kan
+Austin Ekeler,EkelAu00,rushing,LAC,9,46,3,36,4,10,1.1,1,9,201912290kan
+Justin Jackson,JackJu01,rushing,LAC,1,11,1,9,9,2,2,0,NA,201912290kan
+Philip Rivers,RivePh00,rushing,LAC,1,5,0,5,5,0,0,0,NA,201912290kan
+Damien Williams,WillDa05,rushing,KAN,12,124,5,25,2.1,99,8.3,6,2,201912290kan
+Patrick Mahomes,MahoPa00,rushing,KAN,7,21,2,21,3,0,0,0,NA,201912290kan
+Darwin Thompson,ThomDa06,rushing,KAN,4,17,2,8,2,9,2.3,2,2,201912290kan

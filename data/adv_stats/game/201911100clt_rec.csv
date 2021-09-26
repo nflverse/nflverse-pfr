@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeVante Parker,ParkDe01,receiving,MIA,10,5,69,0,4,58,11.6,11,2.2,12,0,NA,0,0,0,72.5,201911100clt
+Kalen Ballage,BallKa00,receiving,MIA,4,4,2,0,NA,-19,-4.8,21,5.3,-4.8,0,NA,0,0,0,79.2,201911100clt
+Mike Gesicki,GesiMi00,receiving,MIA,6,3,28,0,1,15,5,13,4.3,4.8,0,NA,0,0,1,23.6,201911100clt
+Allen Hurns,HurnAl01,receiving,MIA,4,2,32,0,2,23,11.5,9,4.5,9.8,0,NA,0,0,0,77.1,201911100clt
+Patrick Laird,LairPa00,receiving,MIA,2,2,15,0,2,6,3,9,4.5,3,0,NA,0,0,0,97.9,201911100clt
+Jakeem Grant,GranJa00,receiving,MIA,2,2,15,0,1,-5,-2.5,20,10,-2.5,0,NA,0,0,0,97.9,201911100clt
+Myles Gaskin,GaskMy00,receiving,MIA,1,1,0,0,NA,-5,-5,5,5,-5,0,NA,0,0,0,79.2,201911100clt
+Clive Walford,WalfCl00,receiving,MIA,1,1,8,0,1,4,4,4,4,4,0,NA,0,0,0,100,201911100clt
+Albert Wilson,WilsAl02,receiving,MIA,3,1,0,0,NA,0,0,0,0,1.3,0,NA,1,33.3,0,42.4,201911100clt
+Eric Ebron,EbroEr00,receiving,IND,12,5,56,0,3,41,8.2,15,3,11.2,0,NA,1,8.3,2,16.7,201911100clt
+Nyheim Hines,HineNy00,receiving,IND,7,4,30,0,3,1,0.3,29,7.3,4.4,0,NA,0,0,0,67.6,201911100clt
+Jack Doyle,DoylJa00,receiving,IND,4,3,44,1,3,13,4.3,31,10.3,4.5,0,NA,0,0,0,150,201911100clt
+Zach Pascal,PascZa00,receiving,IND,7,2,26,0,1,25,12.5,1,0.5,12.1,0,NA,0,0,1,3,201911100clt
+Chester Rogers,RogeCh02,receiving,IND,4,2,31,0,2,26,13,5,2.5,19.3,0,NA,0,0,0,76,201911100clt
+Marcus Johnson,JohnMa07,receiving,IND,3,1,9,0,NA,5,5,4,4,17,0,NA,0,0,0,42.4,201911100clt
+Marlon Mack,MackMa00,receiving,IND,1,1,8,0,0,-2,-2,10,10,-2,0,NA,0,0,0,100,201911100clt
+Mo Alie-Cox,AlieMo00,receiving,IND,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,201911100clt

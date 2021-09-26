@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jaire Alexander,AlexJa00,defense,GNB,0,10,6,60.0%,71,11.8,7.1,0,81.7,11.5,42,29,1,0,0,0,0,6,0,0.0%,202011220clt
+Raven Greene,GreeRa02,defense,GNB,0,6,6,100.0%,47,7.8,7.8,1,138.9,2.2,13,34,0,0,0,0,0,9,0,0.0%,202011220clt
+Adrian Amos,AmosAd00,defense,GNB,0,4,3,75.0%,22,7.3,5.5,0,87.5,5.5,3,19,0,0,0,0,0,7,0,0.0%,202011220clt
+Chandon Sullivan,SullCh00,defense,GNB,0,5,3,60.0%,44,14.7,8.8,0,88.7,10.6,34,10,1,0,0,0,0,5,0,0.0%,202011220clt
+Preston Smith,SmitPr00,defense,GNB,0,2,2,100.0%,23,11.5,11.5,1,154.2,9.5,19,4,2,0,0,0,0,4,0,0.0%,202011220clt
+Christian Kirksey,KirkCh00,defense,GNB,1,2,1,50.0%,45,45,22.5,1,95.8,6.5,5,40,0,0,0,0,0,11,0,0.0%,202011220clt
+Kingsley Keke,KekeKi00,defense,GNB,0,1,1,100.0%,15,15,15,0,118.7,-4,-4,19,0,0,0,0,0,2,1,33.3%,202011220clt
+Kamal Martin,MartKa01,defense,GNB,0,1,1,100.0%,1,1,1,0,79.2,-3,-3,4,1,0,0,0,0,4,0,0.0%,202011220clt
+Kevin King,KingKe01,defense,GNB,0,3,1,33.3%,20,20,6.7,0,57.6,5.3,15,5,0,0,0,0,0,7,1,12.5%,202011220clt
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,6,0,0.0%,202011220clt
+Za'Darius Smith,SmitZa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,2,0,2,6,1,14.3%,202011220clt
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,202011220clt
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,15,NA,NA,0,0,0,0,0,6,1,14.3%,202011220clt
+Darius Leonard,LeonDa00,defense,IND,0,9,9,100.0%,80,8.9,8.9,1,140.7,2.6,23,57,3,0,0,0,0,6,1,14.3%,202011220clt
+Rock Ya-Sin,Ya-SRo00,defense,IND,1,7,5,71.4%,64,12.8,9.1,0,60.1,12.7,44,20,0,0,0,0,0,4,0,0.0%,202011220clt
+Kenny Moore,MoorKe03,defense,IND,0,8,5,62.5%,41,8.2,5.1,2,115.1,6.4,22,19,0,0,0,0,0,10,0,0.0%,202011220clt
+Xavier Rhodes,RhodXa00,defense,IND,0,5,3,60.0%,25,8.3,5,0,72.9,10.2,22,3,0,0,0,0,0,1,0,0.0%,202011220clt
+Anthony Walker,WalkAn01,defense,IND,0,2,2,100.0%,23,11.5,11.5,0,114.6,8,16,7,0,0,0,0,0,2,0,0.0%,202011220clt
+Bobby Okereke,OkerBo00,defense,IND,0,3,2,66.7%,55,27.5,18.3,0,109.7,20,52,3,1,0,0,0,0,1,0,0.0%,202011220clt
+Julian Blackmon,BlacJu01,defense,IND,0,1,1,100.0%,23,23,23,0,118.7,-2,-2,25,0,0,0,0,0,5,0,0.0%,202011220clt
+Tyquan Lewis,LewiTy00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,1,25.0%,202011220clt
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202011220clt
+Justin Houston,HousJu00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202011220clt
+Khari Willis,WillKh00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,1,20.0%,202011220clt

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,27,130,10,84,3.1,46,1.7,5,5.4,202010040htx
+Alexander Mattison,MattAl01,rushing,MIN,7,17,2,12,1.7,5,0.7,0,NA,202010040htx
+Kirk Cousins,CousKi00,rushing,MIN,4,5,1,5,1.3,0,0,0,NA,202010040htx
+C.J. Ham,HamxC.00,rushing,MIN,1,2,1,1,1,1,1,0,NA,202010040htx
+Adam Thielen,ThieAd00,rushing,MIN,1,8,0,6,6,2,2,0,NA,202010040htx
+David Johnson,JohnDa08,rushing,HOU,16,63,4,44,2.8,19,1.2,1,16,202010040htx
+Duke Johnson,JohnDu00,rushing,HOU,5,24,0,15,3,9,1.8,0,NA,202010040htx
+Deshaun Watson,WatsDe00,rushing,HOU,5,9,1,6,1.2,3,0.6,1,5,202010040htx

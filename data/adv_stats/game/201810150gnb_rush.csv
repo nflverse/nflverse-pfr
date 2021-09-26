@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Matt Breida,BreiMa00,rushing,SFO,14,61,4,39,2.8,22,1.6,0,NA,201810150gnb
+Raheem Mostert,MostRa00,rushing,SFO,12,87,4,28,2.3,59,4.9,4,3,201810150gnb
+C.J. Beathard,BeatC.00,rushing,SFO,3,21,1,19,6.3,2,0.7,0,NA,201810150gnb
+Marquise Goodwin,GoodMa00,rushing,SFO,1,5,0,2,2,3,3,0,NA,201810150gnb
+Aaron Jones,JoneAa00,rushing,GNB,8,41,3,38,4.8,3,0.4,0,NA,201810150gnb
+Jamaal Williams,WillJa06,rushing,GNB,6,29,1,21,3.5,8,1.3,1,6,201810150gnb
+Ty Montgomery,MontTy01,rushing,GNB,4,12,2,8,2,4,1,0,NA,201810150gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,3,34,2,32,10.7,2,0.7,0,NA,201810150gnb

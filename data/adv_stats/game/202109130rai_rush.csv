@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Lamar Jackson,JackLa00,rushing,BAL,12,86,4,36,3,50,4.2,3,4,202109130rai
+Latavius Murray,MurrLa00,rushing,BAL,10,28,1,4,0.4,24,2.4,1,10,202109130rai
+Ty'Son Williams,WillTy01,rushing,BAL,9,65,2,14,1.6,51,5.7,0,NA,202109130rai
+Trenton Cannon,CannTr00,rushing,BAL,2,5,NA,3,1.5,2,1,0,NA,202109130rai
+Marquise Brown,BrowMa04,rushing,BAL,1,5,1,2,2,3,3,0,NA,202109130rai
+Josh Jacobs,JacoJo01,rushing,LVR,10,34,4,14,1.4,20,2,2,5,202109130rai
+Kenyan Drake,DrakKe00,rushing,LVR,6,11,1,4,0.7,7,1.2,1,6,202109130rai
+Derek Carr,CarrDe02,rushing,LVR,4,6,0,5,1.3,1,0.3,0,NA,202109130rai
+Marcus Mariota,MariMa01,rushing,LVR,1,31,1,28,28,3,3,0,NA,202109130rai

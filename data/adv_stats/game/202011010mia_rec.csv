@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cooper Kupp,KuppCo00,receiving,LAR,20,11,110,0,4,49,4.5,61,5.5,7.2,3,3.7,3,15,1,50,202011010mia
+Robert Woods,WoodRo02,receiving,LAR,8,7,85,1,5,47,6.7,38,5.4,6.5,1,7,0,0,0,150.5,202011010mia
+Gerald Everett,EverGe00,receiving,LAR,9,5,32,0,2,17,3.4,15,3,4.4,0,NA,1,11.1,1,23.6,202011010mia
+Josh Reynolds,ReynJo00,receiving,LAR,9,4,44,0,2,10,2.5,34,8.5,9.4,1,4,0,0,0,59.5,202011010mia
+Van Jefferson,JeffVa00,receiving,LAR,2,2,23,0,1,23,11.5,0,0,11.5,0,NA,0,0,0,114.6,202011010mia
+Tyler Higbee,HigbTy00,receiving,LAR,4,2,14,0,1,2,1,12,6,2.3,0,NA,0,0,0,58.3,202011010mia
+Malcolm Brown,BrowMa03,receiving,LAR,2,2,17,0,2,6,3,11,5.5,3,1,2,0,0,0,102.1,202011010mia
+Darrell Henderson,HendDa00,receiving,LAR,2,1,11,0,1,2,2,9,9,0,1,1,0,0,0,66.7,202011010mia
+Cam Akers,AkerCa00,receiving,LAR,1,1,19,0,1,-1,-1,20,20,-1,3,0.3,0,0,0,118.7,202011010mia
+Myles Gaskin,GaskMy00,receiving,MIA,6,3,16,0,0,1,0.3,15,5,-0.5,0,NA,1,16.7,0,56.2,202011010mia
+Durham Smythe,SmytDu00,receiving,MIA,2,2,16,0,NA,5,2.5,11,5.5,2.5,0,NA,0,0,0,100,202011010mia
+Preston Williams,WillPr01,receiving,MIA,5,2,15,0,1,9,4.5,6,3,10.6,0,NA,2,40,0,47.9,202011010mia
+Jakeem Grant,GranJa00,receiving,MIA,2,1,15,0,1,15,15,0,0,8.5,0,NA,0,0,0,75,202011010mia
+Mike Gesicki,GesiMi00,receiving,MIA,2,1,8,0,NA,8,8,0,0,21,0,NA,0,0,0,60.4,202011010mia
+DeVante Parker,ParkDe01,receiving,MIA,2,1,3,1,1,3,3,0,0,0.5,0,NA,0,0,0,95.8,202011010mia
+Malcolm Perry,PerrMa00,receiving,MIA,1,1,10,0,1,2,2,8,8,2,0,NA,0,0,0,108.3,202011010mia
+Isaiah Ford,FordIs00,receiving,MIA,1,1,10,0,1,3,3,7,7,3,0,NA,0,0,0,108.3,202011010mia
+Adam Shaheen,ShahAd00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,-2,0,NA,0,0,0,39.6,202011010mia

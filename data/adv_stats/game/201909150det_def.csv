@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Brandon Facyson,FacyBr00,defense,LAC,0,7,5,71.4%,65,13,9.3,0,100.3,11,61,4,0,0,0,0,0,8,0,0.0%,201909150det
+Thomas Davis,DaviTh20,defense,LAC,0,6,4,66.7%,23,5.8,3.8,0,73.6,4.8,14,9,3,0,0,0,0,12,1,7.7%,201909150det
+Kyzir White,WhitKy00,defense,LAC,0,3,3,100.0%,23,7.7,7.7,0,98.6,4.7,14,9,3,0,0,0,0,7,0,0.0%,201909150det
+Adrian Phillips,PhilAd00,defense,LAC,0,4,3,75.0%,24,8,6,0,89.6,4.5,15,9,3,0,0,0,0,7,3,30.0%,201909150det
+Casey Hayward,HaywCa00,defense,LAC,1,4,2,50.0%,37,18.5,9.3,1,82.3,30.5,35,2,0,0,0,0,0,3,0,0.0%,201909150det
+Desmond King,KingDe01,defense,LAC,0,1,1,100.0%,36,36,36,1,158.3,-2,-2,38,2,1,1,0,2,0,0,NA,201909150det
+Jaylen Watkins,WatkJa01,defense,LAC,0,1,1,100.0%,24,24,24,0,118.7,22,22,2,1,1,0,0,1,1,0,0.0%,201909150det
+Rayshawn Jenkins,JenkRa00,defense,LAC,1,2,1,50.0%,4,4,2,0,16.7,27.5,4,0,1,0,0,0,0,1,1,50.0%,201909150det
+Uchenna Nwosu,NwosUc00,defense,LAC,0,2,1,50.0%,3,3,1.5,0,56.2,14,4,-1,2,0,0,0,0,5,2,28.6%,201909150det
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,6,1,14.3%,201909150det
+Melvin Ingram,IngrMe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,7,0,0.0%,201909150det
+Brandon Mebane,MebaBr99,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201909150det
+Isaac Rochell,RochIs00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,201909150det
+Darius Slay,SlayDa00,defense,DET,1,12,7,58.3%,92,13.1,7.7,0,47.9,14.5,78,14,0,0,0,0,0,6,0,0.0%,201909150det
+Rashaan Melvin,MelvRa00,defense,DET,0,8,5,62.5%,114,22.8,14.3,0,106.2,14.9,98,16,0,0,0,0,0,4,0,0.0%,201909150det
+Devon Kennard,KennDe00,defense,DET,0,4,3,75.0%,7,2.3,1.8,0,77.1,-0.5,-6,13,5,0,0,0,0,5,4,44.4%,201909150det
+Jalen Reeves-Maybin,ReevJa00,defense,DET,0,2,2,100.0%,16,8,8,0,100,4.5,9,7,3,0,1,0,1,0,1,100.0%,201909150det
+Tracy Walker,WalkTr01,defense,DET,0,3,2,66.7%,60,30,20,0,109.7,17.3,24,36,1,0,0,0,0,10,1,9.1%,201909150det
+Christian Jones,JoneCh05,defense,DET,0,3,1,33.3%,0,0,0,0,42.4,2.7,-4,4,5,2,0,0,2,3,1,25.0%,201909150det
+Jahlani Tavai,TavaJa00,defense,DET,0,1,1,100.0%,9,9,9,0,104.2,3,3,6,1,1,0,0,1,8,2,20.0%,201909150det
+Quandre Diggs,DiggQu00,defense,DET,0,1,1,100.0%,47,47,47,0,118.7,41,41,6,0,0,0,0,0,6,1,14.3%,201909150det
+Trey Flowers,FlowTr00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,201909150det
+Romeo Okwara,OkwaRo01,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0.5,1,2,0,0.0%,201909150det
+A'Shawn Robinson,RobiAS00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,4,0,0.0%,201909150det
+Damon Harrison,HarrDa03,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,2,66.7%,201909150det
+Will Harris,HarrWi02,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,0,0,NA,201909150det

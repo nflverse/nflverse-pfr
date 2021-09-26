@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,14,43,4,13,0.9,30,2.1,2,7,201810220atl
+Eli Manning,MannEl00,rushing,NYG,3,7,0,7,2.3,0,0,0,NA,201810220atl
+Odell Beckham Jr.,BeckOd00,rushing,NYG,1,-1,0,-1,-1,0,0,0,NA,201810220atl
+Evan Engram,EngrEv00,rushing,NYG,1,10,1,2,2,8,8,1,1,201810220atl
+Elijhaa Penny,PennEl00,rushing,NYG,1,2,1,2,2,0,0,0,NA,201810220atl
+Tevin Coleman,ColeTe01,rushing,ATL,11,50,3,48,4.4,2,0.2,1,11,201810220atl
+Ito Smith,SmitIt00,rushing,ATL,7,16,1,15,2.1,1,0.1,0,NA,201810220atl
+Matt Ryan,RyanMa00,rushing,ATL,2,1,1,1,0.5,0,0,0,NA,201810220atl

@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Lockett,LockTy00,receiving,SEA,8,8,92,0,4,77,9.6,15,1.9,9.6,0,NA,0,0,0,114.6,202009130atl
+Chris Carson,CarsCh00,receiving,SEA,6,6,45,2,3,-17,-2.8,62,10.3,-2.8,0,NA,0,0,0,137.5,202009130atl
+Greg Olsen,OlseGr00,receiving,SEA,4,4,24,1,2,19,4.8,5,1.3,4.8,0,NA,0,0,0,131.2,202009130atl
+D.K. Metcalf,MetcDK00,receiving,SEA,8,4,95,1,4,75,18.8,20,5,14.8,0,NA,1,12.5,0,132.8,202009130atl
+David Moore,MoorDa03,receiving,SEA,3,3,28,0,1,3,1,25,8.3,1,0,NA,0,0,0,105.6,202009130atl
+Will Dissly,DissWi00,receiving,SEA,2,2,8,0,NA,1,0.5,7,3.5,0.5,0,NA,0,0,0,83.3,202009130atl
+Travis Homer,HomeTr00,receiving,SEA,2,2,4,0,NA,-4,-2,8,4,-2,0,NA,0,0,0,79.2,202009130atl
+Freddie Swain,SwaiFr00,receiving,SEA,1,1,17,0,NA,6,6,11,11,6,0,NA,0,0,0,118.7,202009130atl
+Jacob Hollister,HollJa03,receiving,SEA,1,1,9,0,1,2,2,7,7,2,0,NA,0,0,0,104.2,202009130atl
+Julio Jones,JoneJu02,receiving,ATL,12,9,157,0,6,129,14.3,28,3.1,15.7,1,9,2,16.7,0,116.7,202009130atl
+Calvin Ridley,RidlCa00,receiving,ATL,12,9,130,2,9,109,12.1,21,2.3,11.8,0,NA,0,0,0,149.3,202009130atl
+Russell Gage,GageRu00,receiving,ATL,12,9,114,0,7,68,7.6,46,5.1,7.4,2,4.5,1,8.3,0,104.2,202009130atl
+Hayden Hurst,HursHa00,receiving,ATL,5,3,38,0,1,37,12.3,1,0.3,11.6,0,NA,0,0,0,83.7,202009130atl
+Ito Smith,SmitIt00,receiving,ATL,3,3,2,0,NA,-2,-0.7,4,1.3,-0.7,0,NA,0,0,0,79.2,202009130atl
+Brian Hill,HillBr02,receiving,ATL,2,2,8,0,0,7,3.5,1,0.5,3.5,0,NA,0,0,0,83.3,202009130atl
+Todd Gurley,GurlTo01,receiving,ATL,5,2,1,0,0,-4,-2,5,2.5,0.2,0,NA,1,20,0,47.9,202009130atl
+Luke Stocker,StocLu00,receiving,ATL,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202009130atl

@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jalen Reagor,ReagJa00,receiving,PHI,8,5,49,0,3,23,4.6,26,5.2,13,0,NA,0,0,0,79.7,202012200crd
+Greg Ward,WardGr02,receiving,PHI,5,4,15,2,3,13,3.3,2,0.5,5.2,0,NA,0,0,0,118.7,202012200crd
+Dallas Goedert,GoedDa00,receiving,PHI,8,4,39,0,3,31,7.8,8,2,10.3,2,2,0,0,0,64.1,202012200crd
+Quez Watkins,WatkQu00,receiving,PHI,4,3,40,1,2,-6,-2,46,15.3,2.8,0,NA,0,0,0,145.8,202012200crd
+Zach Ertz,ErtzZa00,receiving,PHI,7,2,69,0,2,45,22.5,24,12,11.1,0,NA,0,0,0,68.2,202012200crd
+Travis Fulgham,FulgTr00,receiving,PHI,2,2,30,0,2,30,15,0,0,15,0,NA,0,0,0,118.7,202012200crd
+Alshon Jeffery,JeffAl00,receiving,PHI,3,2,63,0,2,41,20.5,22,11,19.7,0,NA,0,0,0,109.7,202012200crd
+Boston Scott,ScotBo02,receiving,PHI,1,1,7,0,NA,-4,-4,11,11,-4,0,NA,0,0,0,95.8,202012200crd
+Miles Sanders,SandMi01,receiving,PHI,2,1,26,0,1,-8,-8,34,34,-3.5,0,NA,0,0,0,95.8,202012200crd
+DeAndre Hopkins,HopkDe00,receiving,ARI,11,9,169,1,7,122,13.6,47,5.2,13.1,0,NA,0,0,0,149.1,202012200crd
+Christian Kirk,KirkCh01,receiving,ARI,4,3,33,0,2,16,5.3,17,5.7,5.8,0,NA,0,0,1,59.4,202012200crd
+Larry Fitzgerald,FitzLa00,receiving,ARI,4,3,35,1,3,33,11,2,0.7,13.8,0,NA,0,0,0,140.6,202012200crd
+Chase Edmonds,EdmoCh00,receiving,ARI,5,3,19,1,2,-2,-0.7,21,7,1,0,NA,0,0,0,107.5,202012200crd
+Dan Arnold,ArnoDa00,receiving,ARI,5,3,54,0,2,44,14.7,10,3.3,17,0,NA,0,0,0,97.1,202012200crd
+KeeSean Johnson,JohnKe07,receiving,ARI,3,2,38,0,1,36,18,2,1,15.3,0,NA,0,0,0,109.7,202012200crd
+Kenyan Drake,DrakKe00,receiving,ARI,2,2,14,0,NA,-8,-4,22,11,-4,0,NA,0,0,0,95.8,202012200crd
+Maxx Williams,WillMa04,receiving,ARI,1,1,42,0,1,4,4,38,38,4,1,1,0,0,0,118.7,202012200crd
+Zeke Turner,TurnZe00,receiving,ARI,1,1,26,0,1,14,14,12,12,14,0,NA,0,0,0,118.7,202012200crd
+Darrell Daniels,DaniDa02,receiving,ARI,1,1,2,0,NA,-4,-4,6,6,-4,0,NA,0,0,0,79.2,202012200crd

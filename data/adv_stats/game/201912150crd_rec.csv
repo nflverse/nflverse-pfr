@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Odell Beckham Jr.,BeckOd00,receiving,CLE,13,8,66,0,4,56,7,10,1.3,10.2,0,NA,1,7.7,1,42.5,201912150crd
+Kareem Hunt,HuntKa00,receiving,CLE,9,8,62,0,4,2,0.3,60,7.5,0.9,1,8,0,0,0,95.4,201912150crd
+Jarvis Landry,LandJa00,receiving,CLE,8,5,23,0,1,22,4.4,1,0.2,8.4,0,NA,0,0,0,66.7,201912150crd
+Ricky Seals-Jones,SealRi00,receiving,CLE,4,3,29,2,2,24,8,5,1.7,6.3,0,NA,0,0,0,134.4,201912150crd
+Nick Chubb,ChubNi00,receiving,CLE,3,3,21,0,1,-10,-3.3,31,10.3,-3.3,0,NA,0,0,0,95.8,201912150crd
+Damion Ratley,RatlDa00,receiving,CLE,2,2,33,0,2,17,8.5,16,8,8.5,0,NA,0,0,0,118.7,201912150crd
+Demetrius Harris,HarrDe03,receiving,CLE,2,1,13,0,1,8,8,5,5,6.5,2,0.5,1,50,0,70.8,201912150crd
+KhaDarel Hodge,HodgKh00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,201912150crd
+Damiere Byrd,ByrdDa00,receiving,ARI,6,6,86,0,3,39,6.5,47,7.8,6.5,2,3,0,0,0,118.7,201912150crd
+Christian Kirk,KirkCh01,receiving,ARI,5,4,33,0,2,14,3.5,19,4.8,6.2,0,NA,0,0,0,94.2,201912150crd
+Larry Fitzgerald,FitzLa00,receiving,ARI,5,3,42,0,3,22,7.3,20,6.7,11.8,0,NA,0,0,0,87.1,201912150crd
+Dan Arnold,ArnoDa00,receiving,ARI,1,1,6,1,1,6,6,0,0,6,0,NA,0,0,0,131.2,201912150crd
+Kenyan Drake,DrakKe00,receiving,ARI,1,1,9,0,0,-7,-7,16,16,-7,0,NA,0,0,0,104.2,201912150crd
+Andy Isabella,IsabAn00,receiving,ARI,1,1,4,0,NA,-5,-5,9,9,-5,0,NA,0,0,0,83.3,201912150crd
+Pharoh Cooper,CoopPh00,receiving,ARI,1,1,17,0,1,16,16,1,1,16,0,NA,0,0,0,118.7,201912150crd
+Charles Clay,ClayCh00,receiving,ARI,2,1,18,0,1,1,1,17,17,5,0,NA,0,0,1,41.7,201912150crd
+Maxx Williams,WillMa04,receiving,ARI,1,1,4,0,NA,0,0,4,4,0,1,1,0,0,0,83.3,201912150crd

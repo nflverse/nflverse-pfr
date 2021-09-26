@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Greg Stroman,StroGr00,defense,WAS,0,5,4,80.0%,25,6.3,5,0,87.5,0.2,1,24,0,1,0,0,1,5,0,0.0%,201812220oti
+Ha Ha Clinton-Dix,ClinHa00,defense,WAS,0,4,4,100.0%,69,17.3,17.3,0,118.7,15.5,62,7,1,0,0,0,0,9,0,0.0%,201812220oti
+Josh Norman,NormJo01,defense,WAS,0,4,3,75.0%,33,11,8.3,1,138.5,5.3,24,9,0,0,0,0,0,5,1,16.7%,201812220oti
+Mason Foster,FostMa00,defense,WAS,0,4,2,50.0%,39,19.5,9.8,0,84.4,11.3,28,11,2,0,0,1,1,9,1,10.0%,201812220oti
+D.J. Swearinger,SweaDJ00,defense,WAS,0,3,2,66.7%,22,11,7.3,0,88.2,10,0,22,3,1,0,0,1,2,1,33.3%,201812220oti
+Fabian Moreau,MoreFa00,defense,WAS,0,2,2,100.0%,50,25,25,0,118.7,17.5,35,15,0,0,0,0,0,1,0,0.0%,201812220oti
+Preston Smith,SmitPr00,defense,WAS,0,1,1,100.0%,-2,-2,-2,0,79.2,-3,-3,1,2,0,0,0,0,4,3,42.9%,201812220oti
+Zach Brown,BrowZa00,defense,WAS,0,2,1,50.0%,6,6,3,0,56.2,11.5,4,2,2,0,0,0,0,2,1,33.3%,201812220oti
+Ryan Kerrigan,KerrRy00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3,0,1,4,1,1,50.0%,201812220oti
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,4,0,0.0%,201812220oti
+Pernell McPhee,McPhPe00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,201812220oti
+Tim Settle,SettTi00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201812220oti
+Ryan Anderson,AndeRy00,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,1,0,0.0%,201812220oti
+Malcolm Butler,ButlMa01,defense,TEN,1,6,3,50.0%,12,4,2,0,16.7,13,5,7,2,0,0,0,0,5,0,0.0%,201812220oti
+LeShaun Sims,SimsLe00,defense,TEN,0,3,2,66.7%,30,15,10,0,99.3,14,17,13,2,0,1,0,1,4,1,20.0%,201812220oti
+Adoree' Jackson,JackAd00,defense,TEN,0,5,2,40.0%,37,18.5,7.4,1,105.8,12.6,24,13,0,0,0,0,0,5,0,0.0%,201812220oti
+Harold Landry,LandHa00,defense,TEN,0,1,1,100.0%,7,7,7,0,95.8,6,6,1,2,3,0,1,4,3,1,25.0%,201812220oti
+Jayon Brown,BrowJa06,defense,TEN,0,1,1,100.0%,15,15,15,0,118.7,10,10,5,2,0,0,0,0,9,0,0.0%,201812220oti
+Kevin Byard,ByarKe01,defense,TEN,1,5,1,20.0%,9,9,1.8,0,0,10.4,9,0,2,0,0,0,0,9,0,0.0%,201812220oti
+Rashaan Evans,EvanRa01,defense,TEN,0,1,1,100.0%,8,8,8,0,100,2,2,6,1,0,0,0,0,6,0,0.0%,201812220oti
+Derrick Morgan,MorgDe99,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,0,0.0%,201812220oti
+Wesley Woodyard,WoodWe20,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,3,0,0,1,1,10,2,16.7%,201812220oti
+Kenny Vaccaro,VaccKe00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,43,NA,NA,2,1,0,0,1,2,1,33.3%,201812220oti
+Austin Johnson,JohnAu01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812220oti
+DaQuan Jones,JoneDa04,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,201812220oti
+Jurrell Casey,CaseJu00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201812220oti

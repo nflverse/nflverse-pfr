@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Brent Grimes,GrimBr20,defense,TAM,0,5,5,100.0%,76,15.2,15.2,1,158.3,12.4,62,14,0,0,0,0,0,3,0,0.0%,201812230dal
+Jordan Whitehead,WhitJo03,defense,TAM,0,4,4,100.0%,53,13.3,13.3,0,118.7,11,44,9,2,0,0,0,0,7,0,0.0%,201812230dal
+Lavonte David,DaviLa00,defense,TAM,0,3,3,100.0%,4,1.3,1.3,0,79.2,-0.3,-1,5,4,0,0,0,0,5,0,0.0%,201812230dal
+Javien Elliott,ElliJa01,defense,TAM,0,3,2,66.7%,4,2,1.3,0,70.1,-2,-6,10,1,0,0,0,0,2,0,0.0%,201812230dal
+Carlton Davis,DaviCa02,defense,TAM,0,4,2,50.0%,19,9.5,4.8,0,63.5,5,11,8,0,0,0,0,0,2,0,0.0%,201812230dal
+Adarius Taylor,GlanAd00,defense,TAM,0,3,2,66.7%,11,5.5,3.7,0,72.9,1.3,4,7,3,0,0,0,0,5,0,0.0%,201812230dal
+Isaiah Johnson,JohnIs00,defense,TAM,0,2,2,100.0%,11,5.5,5.5,0,89.6,3,6,5,1,0,0,0,0,4,0,0.0%,201812230dal
+Andrew Adams,AdamAn00,defense,TAM,0,3,1,33.3%,12,12,4,0,46.5,7.3,11,1,1,0,1,0,1,7,0,0.0%,201812230dal
+De'Vante Harris,HarrDe04,defense,TAM,0,1,1,100.0%,8,8,8,0,100,-3,-3,11,0,0,0,0,0,2,0,0.0%,201812230dal
+Devante Bond,BondDe00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0.0%,201812230dal
+Carl Nassib,NassCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,201812230dal
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,3,0,0.0%,201812230dal
+Jason Pierre-Paul,PierJa99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,201812230dal
+Byron Jones,JoneBy00,defense,DAL,0,12,8,66.7%,150,18.8,12.5,0,109.7,19.6,123,27,0,0,0,0,0,8,0,0.0%,201812230dal
+Jourdan Lewis,LewiJo01,defense,DAL,0,8,7,87.5%,53,7.6,6.6,0,94.3,3.8,21,32,3,0,0,0,0,7,1,12.5%,201812230dal
+Xavier Woods,WoodXa00,defense,DAL,0,8,6,75.0%,54,9,6.8,0,92.7,6.1,21,33,0,0,0,0,0,6,0,0.0%,201812230dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,6,6,100.0%,41,6.8,6.8,0,95.1,1.8,11,30,0,0,0,0,0,15,0,0.0%,201812230dal
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,10,4,40.0%,31,7.8,3.1,1,81.7,15,15,16,0,0,0,0,0,3,1,25.0%,201812230dal
+Jaylon Smith,SmitJa05,defense,DAL,0,5,2,40.0%,9,4.5,1.8,0,47.9,7,9,0,4,0,0,0,0,10,0,0.0%,201812230dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,1,4,3,1,25.0%,201812230dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,3,0,0.0%,201812230dal
+Maliek Collins,CollMa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,0,0.0%,201812230dal
+Jeff Heath,HeatJe00,defense,DAL,0,1,0,0.0%,NA,NA,0,NA,39.6,51,NA,NA,2,1,0,0,1,3,0,0.0%,201812230dal
+Taco Charlton,CharTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,201812230dal
+Caraun Reid,ReidCa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,201812230dal
+Antwaun Woods,WoodAn02,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,201812230dal

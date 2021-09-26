@@ -1,0 +1,24 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Rasul Douglas,DougRa00,defense,PHI,0,13,11,84.6%,227,20.6,17.5,2,158.3,21.9,171,56,0,0,0,0,0,6,0,0.0%,201910130min
+Sidney Jones,JoneSi00,defense,PHI,0,5,4,80.0%,33,8.3,6.6,1,133.7,3.2,9,24,1,0,0,0,0,2,1,33.3%,201910130min
+Brandon Graham,GrahBr99,defense,PHI,0,2,2,100.0%,2,1,1,0,79.2,-1.5,-3,5,0,0,0,1,1,4,1,20.0%,201910130min
+Nigel Bradham,BradNi00,defense,PHI,0,2,2,100.0%,12,6,6,0,91.7,1.5,3,9,2,0,0,0,0,2,0,0.0%,201910130min
+Craig James,JameCr01,defense,PHI,0,2,2,100.0%,19,9.5,9.5,1,145.8,5.5,11,8,0,0,0,0,0,2,0,0.0%,201910130min
+Nathan Gerry,GerrNa00,defense,PHI,0,1,1,100.0%,11,11,11,0,112.5,-3,-3,14,3,0,0,0,0,6,0,0.0%,201910130min
+Kamu Grugier-Hill,GrugKa00,defense,PHI,0,1,1,100.0%,29,29,29,0,118.7,21,21,8,5,0,0,0,0,1,0,0.0%,201910130min
+Hassan Ridgeway,RidgHa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,201910130min
+Rodney McLeod,McLeRo00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,6,1,14.3%,201910130min
+Malcolm Jenkins,JenkMa99,defense,PHI,0,1,0,0.0%,NA,NA,0,NA,39.6,21,NA,NA,2,0,0,0,0,8,1,11.1%,201910130min
+Fletcher Cox,CoxxFl00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,1,16.7%,201910130min
+Andrew Sendejo,SendAn00,defense,PHI,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,201910130min
+Trae Waynes,WaynTr00,defense,MIN,0,14,9,64.3%,92,10.2,6.6,1,106.8,15.5,78,14,0,0,0,0,0,2,0,0.0%,201910130min
+Xavier Rhodes,RhodXa00,defense,MIN,0,9,8,88.9%,61,7.6,6.8,0,94.9,2.4,21,40,0,0,0,0,0,4,0,0.0%,201910130min
+Anthony Barr,BarrAn00,defense,MIN,0,6,5,83.3%,86,17.2,14.3,0,118.7,5.8,28,58,9,0,0,0,0,10,1,9.1%,201910130min
+Eric Kendricks,KendEr00,defense,MIN,0,6,3,50.0%,47,15.7,7.8,1,116,7.7,17,30,5,1,0,0.5,2,10,0,0.0%,201910130min
+Mackensie Alexander,AlexMa01,defense,MIN,1,2,1,50.0%,2,2,1,0,16.7,11.5,0,2,0,0,0,0.5,1,3,0,0.0%,201910130min
+Anthony Harris,HarrAn01,defense,MIN,0,2,1,50.0%,7,7,3.5,0,58.3,5,4,3,0,0,0,0,0,6,0,0.0%,201910130min
+Harrison Smith,SmitHa00,defense,MIN,0,1,1,100.0%,11,11,11,0,112.5,11,11,0,3,0,0,0,0,4,1,20.0%,201910130min
+Everson Griffen,GrifEv99,defense,MIN,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,0,4,0,1,100.0%,201910130min
+Danielle Hunter,HuntDa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,201910130min
+Jayron Kearse,KearJa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,3,0,0.0%,201910130min
+Eric Wilson,WilsEr00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201910130min

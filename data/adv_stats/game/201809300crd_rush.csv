@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mike Davis,DaviMi01,rushing,SEA,21,101,6,62,3,39,1.9,3,7,201809300crd
+Rashaad Penny,PennRa00,rushing,SEA,9,49,3,30,3.3,19,2.1,0,NA,201809300crd
+Russell Wilson,WilsRu00,rushing,SEA,4,21,2,21,5.3,0,0,0,NA,201809300crd
+David Johnson,JohnDa08,rushing,ARI,22,71,5,62,2.8,9,0.4,1,22,201809300crd
+Chase Edmonds,EdmoCh00,rushing,ARI,3,1,NA,1,0.3,0,0,0,NA,201809300crd
+Josh Rosen,RoseJo01,rushing,ARI,2,13,1,5,2.5,8,4,0,NA,201809300crd
+Christian Kirk,KirkCh01,rushing,ARI,1,7,0,7,7,0,0,0,NA,201809300crd

@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Terrance Mitchell,MitcTe00,defense,CLE,0,8,5,62.5%,100,20,12.5,0,106.2,12.4,67,33,0,0,0,0,0,6,0,0.0%,202010180pit
+Denzel Ward,WardDe02,defense,CLE,0,4,3,75.0%,42,14,10.5,1,147.9,13,35,7,0,0,0,0,0,3,0,0.0%,202010180pit
+Sheldrick Redwine,RedwSh00,defense,CLE,0,2,2,100.0%,8,4,4,0,83.3,1.5,3,5,3,0,0,0.5,1,6,1,14.3%,202010180pit
+Myles Garrett,GarrMy00,defense,CLE,0,1,1,100.0%,4,4,4,0,83.3,-7,-7,11,0,0,0,1,1,4,0,0.0%,202010180pit
+B.J. Goodson,GoodB.00,defense,CLE,0,1,1,100.0%,2,2,2,0,79.2,0,0,2,1,0,0,0.5,1,9,0,0.0%,202010180pit
+Mack Wilson,WilsMa03,defense,CLE,0,1,1,100.0%,6,6,6,0,91.7,-1,-1,7,1,0,0,0,0,4,0,0.0%,202010180pit
+Malcolm Smith,SmitMa02,defense,CLE,0,2,1,50.0%,1,1,0.5,0,56.2,6,-4,5,4,0,0,0,0,5,0,0.0%,202010180pit
+Kevin Johnson,JohnKe04,defense,CLE,0,4,1,25.0%,5,5,1.3,0,39.6,3.5,4,1,2,0,0,0,0,3,1,25.0%,202010180pit
+Olivier Vernon,VernOl00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202010180pit
+Rashard Higgins,HiggRa00,defense,CLE,0,1,0,0.0%,NA,NA,0,NA,39.6,16,NA,NA,0,0,0,0,0,0,0,NA,202010180pit
+Sione Takitaki,TakiSi00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,202010180pit
+Andrew Sendejo,SendAn00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,7,3,30.0%,202010180pit
+Joe Haden,HadeJo99,defense,PIT,0,9,4,44.4%,50,12.5,5.6,1,99.3,8.2,40,10,0,0,0,0,0,3,2,40.0%,202010180pit
+Robert Spillane,SpilRo00,defense,PIT,0,5,3,60.0%,8,2.7,1.6,0,64.6,-0.6,-5,13,2,0,0,0,0,6,0,0.0%,202010180pit
+Steven Nelson,NelsSt01,defense,PIT,0,3,3,100.0%,50,16.7,16.7,0,118.7,8.7,26,24,0,0,0,0,0,3,0,0.0%,202010180pit
+Vince Williams,WillVi01,defense,PIT,0,3,2,66.7%,12,6,4,0,74.3,1,1,11,1,0,0,0,0,6,1,14.3%,202010180pit
+Bud Dupree,DuprAl00,defense,PIT,0,1,1,100.0%,8,8,8,0,100,-4,-4,12,4,1,0,2,3,4,0,0.0%,202010180pit
+Cameron Sutton,SuttCa00,defense,PIT,1,2,1,50.0%,13,13,6.5,0,31.2,7,9,4,2,0,0,1,1,2,0,0.0%,202010180pit
+Minkah Fitzpatrick,FitzMi00,defense,PIT,1,1,1,100.0%,24,24,24,0,79.2,12,12,12,0,0,0,0,0,1,0,0.0%,202010180pit
+Cameron Heyward,HeywCa01,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,8,0,0.0%,202010180pit
+Stephon Tuitt,TuitSt00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0.5,2,4,0,0.0%,202010180pit
+Tyson Alualu,AluaTy99,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202010180pit
+T.J. Watt,WattT.00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,1,0,1,3,0,0.0%,202010180pit
+Chris Wormley,WormCh00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202010180pit
+Devin Bush Jr.,BushDe01,defense,PIT,0,2,0,0.0%,NA,NA,0,NA,39.6,2.5,NA,NA,4,0,0,0.5,1,5,0,0.0%,202010180pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,-1,NA,NA,3,0,0,0,0,2,0,0.0%,202010180pit
+Alex Highsmith,HighAl02,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,202010180pit

@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Tom Brady,BradTo00,passing,NWE,24,47,326,16,32,498,10.6,198,8.3,4.2,128,5.3,2,4.8%,8,19.0%,3,12,5,0,8,15.7%,1,13,201912010htx
+Deshaun Watson,WatsDe00,passing,HOU,18,25,234,11,39.3,195,7.8,123,6.8,4.9,111,6.2,0,0.0%,3,13.0%,3,17,3,0,6,20.7%,1,2,201912010htx
+DeAndre Hopkins,HopkDe00,passing,HOU,1,1,6,1,100,0,0,0,0,0,6,6,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,201912010htx

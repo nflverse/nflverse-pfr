@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,10,41,3,35,3.5,6,0.6,0,NA,202011220clt
+Jamaal Williams,WillJa06,rushing,GNB,5,12,3,7,1.4,5,1,1,5,202011220clt
+Aaron Rodgers,RodgAa00,rushing,GNB,3,13,1,13,4.3,0,0,0,NA,202011220clt
+Jonathan Taylor,TaylJo02,rushing,IND,22,90,6,54,2.5,36,1.6,1,22,202011220clt
+Nyheim Hines,HineNy00,rushing,IND,6,2,1,-3,-0.5,5,0.8,0,NA,202011220clt
+Jordan Wilkins,WilkJo01,rushing,IND,4,21,1,15,3.8,6,1.5,1,4,202011220clt
+Jacoby Brissett,BrisJa00,rushing,IND,2,9,1,5,2.5,4,2,0,NA,202011220clt
+De'Michael Harris,HarrDe11,rushing,IND,2,19,1,13,6.5,6,3,0,NA,202011220clt
+Philip Rivers,RivePh00,rushing,IND,1,-1,0,-1,-1,0,0,0,NA,202011220clt

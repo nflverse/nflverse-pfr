@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Thomas Davis,DaviTh20,defense,LAC,0,8,5,62.5%,38,7.6,4.8,0,74,5.5,19,19,1,0,0,0,0,11,1,8.3%,201911070rai
+Michael Davis,DaviMi03,defense,LAC,0,5,4,80.0%,59,14.8,11.8,0,115.8,10.6,47,12,1,0,0,0,0,4,1,20.0%,201911070rai
+Drue Tranquill,TranDr00,defense,LAC,0,3,3,100.0%,32,10.7,10.7,0,111.1,4.3,13,19,2,0,0,0,0,14,0,0.0%,201911070rai
+Kyzir White,WhitKy00,defense,LAC,0,2,2,100.0%,23,11.5,11.5,1,154.2,-1.5,-3,26,0,0,0,0,0,1,1,50.0%,201911070rai
+Desmond King,KingDe01,defense,LAC,0,3,2,66.7%,9,4.5,3,0,70.1,1,-1,10,2,0,0,0,0,4,0,0.0%,201911070rai
+Jaylen Watkins,WatkJa01,defense,LAC,0,3,2,66.7%,21,10.5,7,0,86.8,2.3,12,9,0,0,0,0,0,4,0,0.0%,201911070rai
+Melvin Ingram,IngrMe00,defense,LAC,0,1,1,100.0%,17,17,17,0,118.7,-4,-4,21,1,1,0,2,3,7,0,0.0%,201911070rai
+Casey Hayward,HaywCa00,defense,LAC,0,4,1,25.0%,6,6,1.5,0,39.6,15,5,1,0,0,0,0,0,2,0,0.0%,201911070rai
+Rayshawn Jenkins,JenkRa00,defense,LAC,0,1,1,100.0%,13,13,13,0,118.7,13,13,0,0,0,0,0,0,4,1,20.0%,201911070rai
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,2,0,0.0%,201911070rai
+Uchenna Nwosu,NwosUc00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3,0,1,4,1,0,0.0%,201911070rai
+Brandon Mebane,MebaBr99,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,201911070rai
+Nick Dzubnar,DzubNi00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,201911070rai
+Damion Square,SquaDa00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,2,40.0%,201911070rai
+Tahir Whitehead,WhitTa00,defense,OAK,0,6,6,100.0%,58,9.7,9.7,1,146.5,7,42,16,0,0,0,0,0,14,2,12.5%,201911070rai
+Trayvon Mullen,MullTr00,defense,OAK,0,6,3,50.0%,59,19.7,9.8,0,84.7,20.8,49,10,0,0,0,0,0,5,0,0.0%,201911070rai
+Daryl Worley,WorlDa00,defense,OAK,0,4,2,50.0%,33,16.5,8.3,0,78.1,9.8,19,14,0,0,0,0,0,3,1,25.0%,201911070rai
+Nicholas Morrow,MorrNi00,defense,OAK,0,3,2,66.7%,29,14.5,9.7,0,97.9,4,7,22,1,0,0,0,0,8,2,20.0%,201911070rai
+Lamarcus Joyner,JoynLa00,defense,OAK,0,4,2,50.0%,13,6.5,3.3,0,57.3,11.5,11,2,1,0,0,0,0,7,1,12.5%,201911070rai
+Erik Harris,HarrEr00,defense,OAK,2,6,1,16.7%,2,2,0.3,1,39.6,19.8,2,0,0,0,0,0,0,1,2,66.7%,201911070rai
+Karl Joseph,JoseKa00,defense,OAK,1,1,1,100.0%,13,13,13,0,79.2,12,12,1,1,0,0,0,0,6,1,14.3%,201911070rai
+Maxx Crosby,CrosMa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0.5,3,3,1,25.0%,201911070rai
+Clelin Ferrell,FerrCl00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2.5,3,8,1,11.1%,201911070rai
+Benson Mayowa,MayoBe00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1.5,2,3,0,0.0%,201911070rai
+Maurice Hurst Jr.,HursMa00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,201911070rai
+Kyle Wilber,WilbKy00,defense,OAK,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,0,0,0,0,0,0,0,NA,201911070rai
+William Compton,CompWi00,defense,OAK,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,201911070rai

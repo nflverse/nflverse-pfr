@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+D'Andre Swift,SwifDA00,rushing,DET,13,64,4,52,4,12,0.9,0,NA,202011080min
+Adrian Peterson,PeteAd01,rushing,DET,8,29,3,23,2.9,6,0.8,0,NA,202011080min
+Kerryon Johnson,JohnKe06,rushing,DET,4,29,1,26,6.5,3,0.8,1,4,202011080min
+Danny Amendola,AmenDa00,rushing,DET,1,2,1,2,2,0,0,0,NA,202011080min
+Chase Daniel,DaniCh00,rushing,DET,1,5,0,5,5,0,0,0,NA,202011080min
+Dalvin Cook,CookDa01,rushing,MIN,22,206,8,85,3.9,121,5.5,2,11,202011080min
+Alexander Mattison,MattAl01,rushing,MIN,12,69,2,33,2.8,36,3,2,6,202011080min

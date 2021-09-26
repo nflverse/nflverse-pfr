@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jamison Crowder,CrowJa00,receiving,NYJ,10,8,66,1,4,39,4.9,27,3.4,6.6,1,8,0,0,1,87.9,201912290buf
+Le'Veon Bell,BellLe00,receiving,NYJ,5,5,36,0,1,-2,-0.4,38,7.6,-0.4,1,5,0,0,0,96.7,201912290buf
+Robby Anderson,AndeRo04,receiving,NYJ,7,3,18,0,1,14,4.7,4,1.3,9.1,0,NA,1,14.3,0,50.3,201912290buf
+Daniel Brown,BrowDa04,receiving,NYJ,4,3,32,0,1,28,9.3,4,1.3,10,0,NA,1,25,0,97.9,201912290buf
+Vyncint Smith,SmitVy00,receiving,NYJ,4,3,36,0,2,31,10.3,5,1.7,10,0,NA,0,0,0,102.1,201912290buf
+Braxton Berrios,BerrBr00,receiving,NYJ,2,1,11,0,1,3,3,8,8,6,1,1,0,0,0,66.7,201912290buf
+Trevon Wesco,WescTr00,receiving,NYJ,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,201912290buf
+Duke Williams,WillDu01,receiving,BUF,12,6,108,0,4,74,12.3,34,5.7,13.5,2,3,2,16.7,0,81.2,201912290buf
+Tommy Sweeney,SweeTo00,receiving,BUF,5,5,76,0,3,50,10,26,5.2,10,1,5,0,0,0,118.7,201912290buf
+Frank Gore,GoreFr00,receiving,BUF,4,3,16,0,1,-2,-0.7,18,6,-0.5,1,3,0,0,0,81.2,201912290buf
+T.J. Yeldon,YeldT.00,receiving,BUF,4,3,24,0,1,-9,-3,33,11,-1.3,0,NA,0,0,1,50,201912290buf
+Isaiah McKenzie,McKeIs00,receiving,BUF,5,2,7,0,1,7,3.5,0,0,4.2,0,NA,1,20,0,47.9,201912290buf
+Tyler Kroft,KrofTy00,receiving,BUF,4,1,5,0,NA,-1,-1,6,6,4.3,0,NA,1,25,0,39.6,201912290buf
+Senorise Perry,PerrSe00,receiving,BUF,1,1,1,0,NA,-1,-1,2,2,-1,0,NA,0,0,0,79.2,201912290buf
+Robert Foster,FostRo01,receiving,BUF,4,0,0,0,NA,0,NA,0,NA,16,0,NA,0,0,1,0,201912290buf

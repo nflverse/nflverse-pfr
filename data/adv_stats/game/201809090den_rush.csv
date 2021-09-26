@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chris Carson,CarsCh00,rushing,SEA,7,51,1,38,5.4,13,1.9,0,NA,201809090den
+Rashaad Penny,PennRa00,rushing,SEA,7,8,0,2,0.3,6,0.9,0,NA,201809090den
+Russell Wilson,WilsRu00,rushing,SEA,2,5,0,5,2.5,0,0,0,NA,201809090den
+Royce Freeman,FreeRo00,rushing,DEN,15,71,3,32,2.1,39,2.6,3,5,201809090den
+Phillip Lindsay,LindPh00,rushing,DEN,15,71,5,46,3.1,25,1.7,1,15,201809090den
+Devontae Booker,BookDe00,rushing,DEN,2,4,NA,3,1.5,1,0.5,0,NA,201809090den

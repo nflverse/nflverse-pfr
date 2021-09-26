@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,15,48,2,22,1.5,26,1.7,0,NA,201810070car
+Eli Manning,MannEl00,rushing,NYG,1,2,1,2,2,0,0,0,NA,201810070car
+Christian McCaffrey,McCaCh01,rushing,CAR,17,58,3,41,2.4,17,1,1,17,201810070car
+Cam Newton,NewtCa00,rushing,CAR,8,29,2,13,1.6,16,2,0,NA,201810070car
+C.J. Anderson,AndeC.00,rushing,CAR,4,9,NA,6,1.5,3,0.8,0,NA,201810070car
+Alex Armah,ArmaAl00,rushing,CAR,1,4,NA,0,0,4,4,0,NA,201810070car
+D.J. Moore,MoorD.00,rushing,CAR,1,18,1,0,0,18,18,1,1,201810070car

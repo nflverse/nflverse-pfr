@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,PIT,10,18,1,2,0.2,16,1.6,2,5,202012130buf
+Jaylen Samuels,SamuJa00,rushing,PIT,4,15,1,8,2,7,1.8,0,NA,202012130buf
+Benny Snell Jr.,SnelBe00,rushing,PIT,3,14,1,4,1.3,10,3.3,0,NA,202012130buf
+Zack Moss,MossZa00,rushing,BUF,13,43,3,8,0.6,35,2.7,1,13,202012130buf
+Devin Singletary,SingDe00,rushing,BUF,7,32,1,4,0.6,28,4,2,3.5,202012130buf
+Josh Allen,AlleJo02,rushing,BUF,6,28,1,23,3.8,5,0.8,0,NA,202012130buf
+Stefon Diggs,DiggSt00,rushing,BUF,1,1,0,0,0,1,1,0,NA,202012130buf

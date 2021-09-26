@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Keenan Allen,AlleKe00,receiving,LAC,6,5,83,0,3,28,5.6,55,11,5.8,0,NA,0,0,0,118.7,201912080jax
+Melvin Gordon,GordMe00,receiving,LAC,5,5,29,0,1,-13,-2.6,42,8.4,-2.6,1,5,0,0,0,90.8,201912080jax
+Austin Ekeler,EkelAu00,receiving,LAC,5,4,112,1,3,2,0.5,110,27.5,-0.4,0,NA,1,20,0,158.3,201912080jax
+Hunter Henry,HenrHu00,receiving,LAC,4,2,39,1,1,26,13,13,6.5,18.3,0,NA,1,25,0,124,201912080jax
+Mike Williams,WillMi07,receiving,LAC,3,2,63,1,2,55,27.5,8,4,23.7,0,NA,0,0,0,149.3,201912080jax
+Virgil Green,GreeVi00,receiving,LAC,1,1,14,1,1,13,13,1,1,13,0,NA,0,0,0,158.3,201912080jax
+Jalen Guyton,GuytJa01,receiving,LAC,2,0,0,0,NA,0,NA,0,NA,37.5,0,NA,0,0,0,39.6,201912080jax
+DJ Chark,CharDJ00,receiving,JAX,10,9,75,0,3,57,6.3,18,2,6.9,1,9,0,0,0,97.9,201912080jax
+Dede Westbrook,WestDe00,receiving,JAX,7,6,25,0,NA,9,1.5,16,2.7,4.6,0,NA,0,0,0,81.5,201912080jax
+Nick O'Leary,OLeaNi00,receiving,JAX,5,4,30,1,1,24,6,6,1.5,5.6,0,NA,0,0,0,131.2,201912080jax
+Leonard Fournette,FourLe00,receiving,JAX,6,3,13,0,0,-5,-1.7,18,6,-1.7,0,NA,1,16.7,0,56.2,201912080jax
+Keelan Cole,ColeKe00,receiving,JAX,3,1,12,0,1,3,3,9,9,10.3,0,NA,0,0,0,46.5,201912080jax
+Chris Conley,ConlCh00,receiving,JAX,3,1,7,0,NA,7,7,0,0,16,0,NA,0,0,0,42.4,201912080jax
+Michael Walker,WalkMi00,receiving,JAX,1,1,9,0,1,6,6,3,3,6,0,NA,0,0,0,104.2,201912080jax
+Ryquell Armstead,ArmsRy00,receiving,JAX,2,0,0,0,NA,0,NA,0,NA,2.5,0,NA,0,0,0,39.6,201912080jax

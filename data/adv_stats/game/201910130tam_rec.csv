@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+D.J. Moore,MoorD.00,receiving,CAR,10,7,73,0,5,54,7.7,19,2.7,9.5,0,NA,1,10,0,90.8,201910130tam
+Christian McCaffrey,McCaCh01,receiving,CAR,5,4,26,1,1,-11,-2.8,37,9.3,-2.6,1,4,0,0,0,127.9,201910130tam
+Greg Olsen,OlseGr00,receiving,CAR,7,4,52,0,3,31,7.8,21,5.3,8,0,NA,0,0,0,80.7,201910130tam
+Curtis Samuel,SamuCu00,receiving,CAR,6,4,70,1,3,54,13.5,16,4,18.8,0,NA,0,0,0,145.8,201910130tam
+Jarius Wright,WrigJa02,receiving,CAR,3,1,6,0,NA,4,4,2,2,10.7,0,NA,2,66.7,0,42.4,201910130tam
+Chris Godwin,GodwCh00,receiving,TAM,12,10,151,0,8,99,9.9,52,5.2,9.3,0,NA,0,0,1,84,201910130tam
+Mike Evans,EvanMi00,receiving,TAM,17,9,96,0,5,76,8.4,20,2.2,13.3,0,NA,2,11.8,3,30.1,201910130tam
+Scott Miller,MillSc01,receiving,TAM,7,3,39,0,1,38,12.7,1,0.3,21,0,NA,0,0,0,61,201910130tam
+Dare Ogunbowale,OgunDa00,receiving,TAM,5,3,22,0,1,4,1.3,18,6,1.4,0,NA,1,20,0,70.4,201910130tam
+Cameron Brate,BratCa00,receiving,TAM,4,2,47,1,2,23,11.5,24,12,13.8,1,2,0,0,0,132.3,201910130tam
+O.J. Howard,HowaO.00,receiving,TAM,4,2,35,0,1,1,0.5,34,17,3,1,2,2,50,0,80.2,201910130tam
+Bobo Wilson,WilsJe00,receiving,TAM,3,1,10,0,1,10,10,0,0,7.3,0,NA,1,33.3,1,4.2,201910130tam

@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Corey Davis,DaviCo03,receiving,TEN,8,5,65,0,4,39,7.8,26,5.2,10.9,1,5,0,0,0,88,202001190kan
+Adam Humphries,HumpAd00,receiving,TEN,5,4,25,0,3,20,5,5,1.3,6.8,0,NA,0,0,0,87.5,202001190kan
+Jonnu Smith,SmitJo01,receiving,TEN,4,3,38,0,1,22,7.3,16,5.3,5.5,0,NA,0,0,0,104.2,202001190kan
+A.J. Brown,BrowAJ00,receiving,TEN,6,3,51,0,2,25,8.3,26,8.7,10.2,7,0.4,0,0,0,79.2,202001190kan
+Derrick Henry,HenrDe00,receiving,TEN,2,2,-8,0,0,-8,-4,0,0,-4,0,NA,0,0,0,79.2,202001190kan
+Dennis Kelly,KellDe00,receiving,TEN,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202001190kan
+MyCole Pruitt,PruiMy00,receiving,TEN,1,1,9,0,NA,-1,-1,10,10,-1,0,NA,0,0,0,104.2,202001190kan
+Dion Lewis,LewiDi00,receiving,TEN,1,1,6,0,NA,-3,-3,9,9,-3,0,NA,0,0,0,91.7,202001190kan
+Amani Hooker,HookAm00,receiving,TEN,1,1,28,0,1,9,9,19,19,9,0,NA,0,0,0,118.7,202001190kan
+Anthony Firkser,FirkAn00,receiving,TEN,2,1,22,1,1,22,22,0,0,27.5,0,NA,0,0,0,129.2,202001190kan
+Tajae Sharpe,SharTa00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,12,0,NA,0,0,0,39.6,202001190kan
+Sammy Watkins,WatkSa00,receiving,KAN,10,7,114,1,6,86,12.3,28,4,10.2,0,NA,1,10,0,141.2,202001190kan
+Tyreek Hill,HillTy00,receiving,KAN,7,5,67,2,4,48,9.6,19,3.8,11.3,0,NA,1,14.3,0,141.1,202001190kan
+Damien Williams,WillDa05,receiving,KAN,6,5,44,0,1,18,3.6,26,5.2,2.2,0,NA,0,0,0,97.2,202001190kan
+Travis Kelce,KelcTr00,receiving,KAN,4,3,30,0,2,23,7.7,7,2.3,9.3,0,NA,1,25,0,95.8,202001190kan
+Demarcus Robinson,RobiDe01,receiving,KAN,2,2,31,0,1,12,6,19,9.5,6,0,NA,0,0,0,118.7,202001190kan
+Mecole Hardman,HardMe00,receiving,KAN,1,1,8,0,NA,-4,-4,12,12,-4,0,NA,0,0,0,100,202001190kan
+Anthony Sherman,SherAn00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,3,0,NA,1,100,0,39.6,202001190kan
+Darwin Thompson,ThomDa06,receiving,KAN,1,0,0,0,0,0,NA,0,NA,0,0,NA,1,100,0,39.6,202001190kan

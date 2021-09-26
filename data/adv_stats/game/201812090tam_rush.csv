@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Mark Ingram,IngrMa01,rushing,NOR,13,52,3,14,1.1,38,2.9,5,2.6,201812090tam
+Alvin Kamara,KamaAl00,rushing,NOR,12,51,1,12,1,39,3.3,1,12,201812090tam
+Drew Brees,BreeDr00,rushing,NOR,3,-1,1,-1,-0.3,0,0,0,NA,201812090tam
+Taysom Hill,HillTa00,rushing,NOR,1,-6,NA,-6,-6,0,0,0,NA,201812090tam
+Zach Line,LineZa01,rushing,NOR,1,4,1,3,3,1,1,0,NA,201812090tam
+Peyton Barber,BarbPe01,rushing,TAM,14,42,1,17,1.2,25,1.8,1,14,201812090tam
+Jameis Winston,WinsJa00,rushing,TAM,5,47,3,10,2,37,7.4,1,5,201812090tam
+Jacquizz Rodgers,RodgJa00,rushing,TAM,4,16,1,8,2,8,2,1,4,201812090tam

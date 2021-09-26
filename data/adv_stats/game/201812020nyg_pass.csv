@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
+Chase Daniel,DaniCh00,passing,CHI,26,39,285,11,25,362,9.3,195,7.5,5,90,3.5,1,2.6%,4,10.3%,5,13,4,2,11,24.4%,1,4,201812020nyg
+Tarik Cohen,CoheTa00,passing,CHI,1,1,1,1,100,1,1,1,1,1,0,0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,201812020nyg
+Eli Manning,MannEl00,passing,NYG,19,35,170,11,28.9,233,6.7,96,5.1,2.7,74,3.9,1,2.9%,5,14.7%,3,5,3,3,9,23.7%,0,NA,201812020nyg
+Odell Beckham Jr.,BeckOd00,passing,NYG,1,1,49,1,100,44,44,44,44,44,5,5,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,201812020nyg

@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Leighton Vander Esch,VandLe00,defense,DAL,0,4,4,100.0%,20,5,5,0,87.5,2.8,11,9,0,0,0,0,0,5,1,16.7%,202012080rav
+Xavier Woods,WoodXa00,defense,DAL,0,3,2,66.7%,47,23.5,15.7,1,149.3,9.7,19,28,0,0,0,0,0,4,3,42.9%,202012080rav
+Chidobe Awuzie,AwuzCh00,defense,DAL,0,4,2,50.0%,6,3,1.5,0,56.2,4.8,-1,7,0,0,0,0,0,5,1,16.7%,202012080rav
+Jourdan Lewis,LewiJo01,defense,DAL,0,3,2,66.7%,12,6,4,0,74.3,3.3,6,6,0,0,0,0,0,5,0,0.0%,202012080rav
+Darian Thompson,ThomDa05,defense,DAL,1,2,1,50.0%,2,2,1,0,16.7,2.5,1,1,0,0,0,0,0,7,2,22.2%,202012080rav
+Rashard Robinson,RobiRa00,defense,DAL,0,1,1,100.0%,20,20,20,1,158.3,20,20,0,0,0,0,0,0,3,1,25.0%,202012080rav
+Eli Ankou,AnkoEl00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202012080rav
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202012080rav
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202012080rav
+Sean Lee,LeexSe99,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202012080rav
+Aldon Smith,SmitAl04,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202012080rav
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,2,66.7%,202012080rav
+Anthony Averett,AverAn00,defense,BAL,0,11,9,81.8%,139,15.4,12.6,0,118.7,10.5,88,51,0,0,0,0,0,6,3,33.3%,202012080rav
+Marcus Peters,PeteMa00,defense,BAL,0,7,5,71.4%,26,5.2,3.7,1,116.7,7.9,11,15,1,0,0,0,0,5,0,0.0%,202012080rav
+Marlon Humphrey,HumpMa00,defense,BAL,0,7,4,57.1%,27,6.8,3.9,1,105.4,8.6,20,7,2,0,0,0,0,4,0,0.0%,202012080rav
+Chris Board,BoarCh00,defense,BAL,0,2,2,100.0%,17,8.5,8.5,0,102.1,3,6,11,2,0,1,0,1,2,1,33.3%,202012080rav
+Patrick Queen,QueePa00,defense,BAL,1,2,2,100.0%,17,8.5,8.5,0,62.5,6,12,5,3,0,0,0,0,5,1,16.7%,202012080rav
+Davontae Harris,HarrDa05,defense,BAL,0,4,2,50.0%,20,10,5,0,64.6,6,10,10,0,0,0,0,0,3,0,0.0%,202012080rav
+L.J. Fort,FortL.00,defense,BAL,0,3,2,66.7%,8,4,2.7,0,70.1,2.3,-7,15,0,0,0,0,0,6,0,0.0%,202012080rav
+Jaylon Ferguson,FergJa02,defense,BAL,0,1,1,100.0%,-4,-4,-4,0,79.2,-4,-4,0,3,0,0,0,0,2,1,33.3%,202012080rav
+Chuck Clark,ClarCh00,defense,BAL,0,1,1,100.0%,13,13,13,0,118.7,5,5,8,1,0,0,0,0,5,0,0.0%,202012080rav
+Tyus Bowser,BowsTy00,defense,BAL,0,2,1,50.0%,6,6,3,0,56.2,3,5,1,9,0,0,0,0,4,3,42.9%,202012080rav
+DeShon Elliott,ElliDe02,defense,BAL,0,4,1,25.0%,14,14,3.5,0,41.7,24.8,13,1,1,0,0,0,0,7,0,0.0%,202012080rav
+Malik Harrison,HarrMa06,defense,BAL,0,1,1,100.0%,2,2,2,0,79.2,2,2,0,1,0,0,0,0,2,0,0.0%,202012080rav
+Jihad Ward,WardJi02,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,3,1,4,1,0,0.0%,202012080rav
+Yannick Ngakoue,NgakYa00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,1,50.0%,202012080rav
+Calais Campbell,CampCa99,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,1,33.3%,202012080rav
+Brandon Williams,WillBr02,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202012080rav
+Pernell McPhee,McPhPe00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,0,0,0,5,0,0.0%,202012080rav

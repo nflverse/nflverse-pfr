@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,LAC,22,108,7,42,1.9,66,3,3,7.3,201911070rai
+Austin Ekeler,EkelAu00,rushing,LAC,6,19,1,1,0.2,18,3,1,6,201911070rai
+Keenan Allen,AlleKe00,rushing,LAC,1,18,1,15,15,3,3,0,NA,201911070rai
+Derek Watt,WattDe00,rushing,LAC,1,1,1,0,0,1,1,0,NA,201911070rai
+Josh Jacobs,JacoJo01,rushing,OAK,16,71,2,26,1.6,45,2.8,1,16,201911070rai
+Jalen Richard,RichJa01,rushing,OAK,2,0,0,-1,-0.5,1,0.5,0,NA,201911070rai
+Derek Carr,CarrDe02,rushing,OAK,1,4,0,4,4,0,0,0,NA,201911070rai
+Alec Ingold,IngoAl01,rushing,OAK,1,3,1,2,2,1,1,0,NA,201911070rai
+DeAndre Washington,WashDe00,rushing,OAK,1,0,NA,0,0,0,0,0,NA,201911070rai

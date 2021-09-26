@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,LAC,8,31,1,21,2.6,10,1.3,0,NA,201910270chi
+Austin Ekeler,EkelAu00,rushing,LAC,3,3,0,3,1,0,0,0,NA,201910270chi
+Derek Watt,WattDe00,rushing,LAC,1,2,1,1,1,1,1,0,NA,201910270chi
+David Montgomery,MontDa01,rushing,CHI,27,135,10,98,3.6,37,1.4,3,9,201910270chi
+Tarik Cohen,CoheTa00,rushing,CHI,4,9,1,7,1.8,2,0.5,0,NA,201910270chi
+Mitchell Trubisky,TrubMi00,rushing,CHI,4,10,1,10,2.5,0,0,0,NA,201910270chi
+Mike Davis,DaviMi01,rushing,CHI,2,3,NA,1,0.5,2,1,0,NA,201910270chi
+Cordarrelle Patterson,PattCo00,rushing,CHI,1,5,NA,3,3,2,2,0,NA,201910270chi

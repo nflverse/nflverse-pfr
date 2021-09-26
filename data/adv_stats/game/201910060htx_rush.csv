@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devonta Freeman,FreeDe00,rushing,ATL,11,30,2,18,1.6,12,1.1,0,NA,201910060htx
+Ito Smith,SmitIt00,rushing,ATL,5,19,2,14,2.8,5,1,0,NA,201910060htx
+Matt Ryan,RyanMa00,rushing,ATL,3,7,1,6,2,1,0.3,0,NA,201910060htx
+Mohamed Sanu,SanuMo00,rushing,ATL,1,1,0,0,0,1,1,0,NA,201910060htx
+Carlos Hyde,HydeCa00,rushing,HOU,21,60,6,23,1.1,37,1.8,0,NA,201910060htx
+Duke Johnson,JohnDu00,rushing,HOU,9,59,2,37,4.1,22,2.4,1,9,201910060htx
+Deshaun Watson,WatsDe00,rushing,HOU,4,47,3,45,11.3,2,0.5,0,NA,201910060htx

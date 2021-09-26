@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Phillip Lindsay,LindPh00,rushing,DEN,16,51,1,37,2.3,14,0.9,0,NA,201912080htx
+Royce Freeman,FreeRo00,rushing,DEN,8,24,2,16,2,8,1,1,8,201912080htx
+Drew Lock,LockDr00,rushing,DEN,3,15,2,15,5,0,0,0,NA,201912080htx
+Carlos Hyde,HydeCa00,rushing,HOU,14,73,4,40,2.9,33,2.4,1,14,201912080htx
+Deshaun Watson,WatsDe00,rushing,HOU,6,44,4,40,6.7,4,0.7,0,NA,201912080htx
+DeAndre Hopkins,HopkDe00,rushing,HOU,1,12,1,12,12,0,0,0,NA,201912080htx
+Duke Johnson,JohnDu00,rushing,HOU,1,5,0,3,3,2,2,0,NA,201912080htx

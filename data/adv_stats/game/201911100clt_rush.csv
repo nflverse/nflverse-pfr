@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kalen Ballage,BallKa00,rushing,MIA,20,43,NA,14,0.7,29,1.5,0,NA,201911100clt
+Ryan Fitzpatrick,FitzRy00,rushing,MIA,4,23,1,16,4,7,1.8,1,4,201911100clt
+Patrick Laird,LairPa00,rushing,MIA,2,4,0,3,1.5,1,0.5,0,NA,201911100clt
+Marlon Mack,MackMa00,rushing,IND,19,74,5,51,2.7,23,1.2,1,19,201911100clt
+Nyheim Hines,HineNy00,rushing,IND,3,14,0,10,3.3,4,1.3,0,NA,201911100clt
+Jordan Wilkins,WilkJo01,rushing,IND,3,20,1,8,2.7,12,4,1,3,201911100clt
+Brian Hoyer,HoyeBr00,rushing,IND,2,0,0,0,0,0,0,0,NA,201911100clt
+Jonathan Williams,WillJo07,rushing,IND,2,1,1,-1,-0.5,2,1,0,NA,201911100clt

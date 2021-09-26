@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Damiere Byrd,ByrdDa00,receiving,ARI,8,7,74,1,4,45,6.4,29,4.1,11.5,0,NA,0,0,0,144.8,201912290ram
+Christian Kirk,KirkCh01,receiving,ARI,10,7,60,0,2,32,4.6,28,4,10,0,NA,0,0,0,85.4,201912290ram
+Dan Arnold,ArnoDa00,receiving,ARI,6,4,76,1,3,57,14.3,19,4.8,13.8,0,NA,0,0,0,149.3,201912290ram
+Larry Fitzgerald,FitzLa00,receiving,ARI,7,4,45,0,1,17,4.3,28,7,9.7,0,NA,0,0,2,36.9,201912290ram
+Kenyan Drake,DrakKe00,receiving,ARI,4,3,23,0,1,-5,-1.7,28,9.3,-0.3,0,NA,0,0,0,88.5,201912290ram
+Pharoh Cooper,CoopPh00,receiving,ARI,2,1,24,0,1,24,24,0,0,21,0,NA,0,0,0,93.7,201912290ram
+Maxx Williams,WillMa04,receiving,ARI,2,1,23,0,1,7,7,16,16,3.5,0,NA,0,0,0,91.7,201912290ram
+Tyler Higbee,HigbTy00,receiving,LAR,12,8,84,1,4,42,5.3,42,5.3,5.1,0,NA,0,0,0,114.6,201912290ram
+Cooper Kupp,KuppCo00,receiving,LAR,10,7,99,1,6,67,9.6,32,4.6,8.6,2,3.5,0,0,0,135,201912290ram
+Robert Woods,WoodRo02,receiving,LAR,12,7,67,1,3,42,6,25,3.6,9.7,0,NA,0,0,0,101.7,201912290ram
+Brandin Cooks,CookBr00,receiving,LAR,5,3,40,0,3,33,11,7,2.3,11.2,0,NA,0,0,0,85.4,201912290ram
+Todd Gurley,GurlTo01,receiving,LAR,2,2,21,0,1,9,4.5,12,6,4.5,1,2,0,0,0,110.4,201912290ram
+Malcolm Brown,BrowMa03,receiving,LAR,1,1,6,0,0,3,3,3,3,3,0,NA,0,0,0,91.7,201912290ram
+Johnny Mundt,MundJo00,receiving,LAR,1,1,2,0,NA,0,0,2,2,0,0,NA,0,0,0,79.2,201912290ram
+Josh Reynolds,ReynJo00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,0,39.6,201912290ram

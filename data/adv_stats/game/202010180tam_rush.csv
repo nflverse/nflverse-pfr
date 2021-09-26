@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,10,15,1,7,0.7,8,0.8,0,NA,202010180tam
+AJ Dillon,DillAJ00,rushing,GNB,5,31,1,22,4.4,9,1.8,0,NA,202010180tam
+Jamaal Williams,WillJa06,rushing,GNB,4,34,1,18,4.5,16,4,1,4,202010180tam
+Aaron Rodgers,RodgAa00,rushing,GNB,2,14,1,14,7,0,0,0,NA,202010180tam
+Ronald Jones II,JoneRo01,rushing,TAM,23,113,7,43,1.9,70,3,3,7.7,202010180tam
+Ke'Shawn Vaughn,VaugKe00,rushing,TAM,5,42,2,19,3.8,23,4.6,1,5,202010180tam
+LeSean McCoy,McCoLe01,rushing,TAM,4,1,0,0,0,1,0.3,0,NA,202010180tam
+Blaine Gabbert,GabbBl00,rushing,TAM,3,2,NA,2,0.7,0,0,0,NA,202010180tam

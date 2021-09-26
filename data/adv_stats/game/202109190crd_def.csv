@@ -1,0 +1,26 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Nick Vigil,VigiNi00,defense,MIN,1,7,6,85.7%,48,8,6.9,0,55.7,3.9,21,27,2,0,0,0,0,8,2,20.0%,202109190crd
+Mackensie Alexander,AlexMa01,defense,MIN,0,5,5,100.0%,149,29.8,29.8,1,158.3,16.2,81,68,1,0,0,0,0,5,1,16.7%,202109190crd
+Bashaud Breeland,BreeBa00,defense,MIN,0,5,4,80.0%,47,11.8,9.4,1,145.4,10.6,19,28,0,0,0,0,0,4,1,20.0%,202109190crd
+Eric Kendricks,KendEr00,defense,MIN,0,4,4,100.0%,60,15,15,0,118.7,9.5,38,22,4,0,0,0,0,11,3,21.4%,202109190crd
+Harrison Smith,SmitHa00,defense,MIN,0,4,3,75.0%,45,15,11.3,0,111.5,11.5,35,10,1,1,0,0,1,9,0,0.0%,202109190crd
+Cameron Dantzler,DantCa00,defense,MIN,0,4,2,50.0%,23,11.5,5.8,0,67.7,5,9,14,0,0,0,0,0,1,1,50.0%,202109190crd
+Sheldon Richardson,RichSh00,defense,MIN,0,1,1,100.0%,2,2,2,0,79.2,-3,-3,5,0,1,0,0,1,1,0,0.0%,202109190crd
+Patrick Peterson,PetePa00,defense,MIN,0,1,1,100.0%,15,15,15,1,158.3,15,15,0,0,0,0,0,0,2,1,33.3%,202109190crd
+Blake Lynch,LyncBl00,defense,MIN,0,1,1,100.0%,0,0,0,0,79.2,-5,-5,5,0,0,0,0,0,2,0,0.0%,202109190crd
+D.J. Wonnum,WonnDJ00,defense,MIN,0,1,1,100.0%,8,8,8,0,100,3,3,5,0,0,0,0,0,1,0,0.0%,202109190crd
+Danielle Hunter,HuntDa01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,3,5,7,0,0.0%,202109190crd
+Stephen Weatherly,WeatSt00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,4,0,0.0%,202109190crd
+Dalvin Tomlinson,TomlDa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202109190crd
+Antonio Hamilton,HamiAn01,defense,ARI,0,4,4,100.0%,21,5.3,5.3,0,88.5,0.8,3,18,4,1,0,0,1,4,0,0.0%,202109190crd
+Robert Alford,AlfoRo00,defense,ARI,0,7,4,57.1%,38,9.5,5.4,0,72.3,9.9,26,12,0,0,0,0,0,5,1,16.7%,202109190crd
+Byron Murphy,MurpBy00,defense,ARI,0,5,3,60.0%,85,28.3,17,1,143.7,18.6,51,34,0,0,0,0,0,3,0,0.0%,202109190crd
+Jalen Thompson,ThomJa04,defense,ARI,0,2,2,100.0%,15,7.5,7.5,0,97.9,3.5,7,8,0,0,1,0,1,8,0,0.0%,202109190crd
+Budda Baker,BakeBu00,defense,ARI,0,2,2,100.0%,27,13.5,13.5,1,158.3,13.5,27,0,3,0,0,0,0,8,1,11.1%,202109190crd
+Marco Wilson,WilsMa04,defense,ARI,0,2,2,100.0%,12,6,6,1,131.2,3.5,7,5,0,0,0,0,0,1,1,50.0%,202109190crd
+Jordan Hicks,HickJo00,defense,ARI,0,2,1,50.0%,9,9,4.5,0,62.5,0,-4,13,6,1,0,0,1,6,0,0.0%,202109190crd
+Isaiah Simmons,SimmIs00,defense,ARI,0,2,1,50.0%,3,3,1.5,0,56.2,2,-4,7,4,0,0,0,0,8,0,0.0%,202109190crd
+Zaven Collins,CollZa00,defense,ARI,0,2,1,50.0%,14,14,7,0,72.9,2.5,3,11,2,0,0,0,0,1,0,0.0%,202109190crd
+Chandler Jones,JoneCh03,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,-5,NA,NA,13,0,3,0,3,0,1,100.0%,202109190crd
+Markus Golden,GoldMa00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,0,1,1,3,0,0.0%,202109190crd
+J.J. Watt,WattJ.00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202109190crd

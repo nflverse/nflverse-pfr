@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Frank Gore,GoreFr00,rushing,NYJ,15,61,4,45,3,16,1.1,0,NA,202011220sdg
+La'Mical Perine,PeriLa00,rushing,NYJ,8,33,2,24,3,9,1.1,0,NA,202011220sdg
+Joe Flacco,FlacJo00,rushing,NYJ,1,2,0,2,2,0,0,0,NA,202011220sdg
+Kalen Ballage,BallKa00,rushing,LAC,16,44,3,17,1.1,27,1.7,0,NA,202011220sdg
+Joshua Kelley,KellJo01,rushing,LAC,4,-2,0,-3,-0.8,1,0.3,0,NA,202011220sdg
+Troymaine Pope,PopeTr00,rushing,LAC,3,4,NA,1,0.3,3,1,0,NA,202011220sdg
+Justin Herbert,HerbJu00,rushing,LAC,2,11,2,2,1,9,4.5,0,NA,202011220sdg
+Ty Long,LongTy00,rushing,LAC,1,-28,NA,-28,-28,0,0,0,NA,202011220sdg

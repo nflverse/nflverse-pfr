@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jerick McKinnon,McKiJe00,rushing,SFO,18,33,1,14,0.8,19,1.1,0,NA,202011150nor
+Jamycal Hasty,HastJa02,rushing,SFO,3,13,1,6,2,7,2.3,0,NA,202011150nor
+Brandon Aiyuk,AiyuBr00,rushing,SFO,1,-8,0,-8,-8,0,0,0,NA,202011150nor
+Kyle Juszczyk,JuszKy00,rushing,SFO,1,5,1,2,2,3,3,0,NA,202011150nor
+Nick Mullens,MullNi00,rushing,SFO,1,3,0,3,3,0,0,0,NA,202011150nor
+Austin Walter,WaltAu00,rushing,SFO,1,3,0,1,1,2,2,0,NA,202011150nor
+Latavius Murray,MurrLa00,rushing,NOR,9,57,3,27,3,30,3.3,1,9,202011150nor
+Taysom Hill,HillTa00,rushing,NOR,8,45,1,32,4,13,1.6,0,NA,202011150nor
+Alvin Kamara,KamaAl00,rushing,NOR,8,15,3,5,0.6,10,1.3,0,NA,202011150nor
+Jameis Winston,WinsJa00,rushing,NOR,4,-2,0,-3,-0.8,1,0.3,0,NA,202011150nor
+Drew Brees,BreeDr00,rushing,NOR,1,-1,0,-1,-1,0,0,0,NA,202011150nor

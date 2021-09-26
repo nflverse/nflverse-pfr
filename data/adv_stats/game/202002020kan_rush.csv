@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Williams,WillDa05,rushing,KAN,17,104,8,35,2.1,69,4.1,2,8.5,202002020kan
+Patrick Mahomes,MahoPa00,rushing,KAN,9,29,3,10,1.1,19,2.1,1,9,202002020kan
+Mecole Hardman,HardMe00,rushing,KAN,1,-6,NA,-6,-6,0,0,0,NA,202002020kan
+Travis Kelce,KelcTr00,rushing,KAN,1,2,1,0,0,2,2,0,NA,202002020kan
+Darwin Thompson,ThomDa06,rushing,KAN,1,0,NA,0,0,0,0,0,NA,202002020kan
+Raheem Mostert,MostRa00,rushing,SFO,12,58,4,21,1.8,37,3.1,4,3,202002020kan
+Tevin Coleman,ColeTe01,rushing,SFO,5,28,1,3,0.6,25,5,1,5,202002020kan
+Deebo Samuel,SamuDe00,rushing,SFO,3,53,3,41,13.7,12,4,0,NA,202002020kan
+Jimmy Garoppolo,GaroJi00,rushing,SFO,2,2,0,2,1,0,0,0,NA,202002020kan

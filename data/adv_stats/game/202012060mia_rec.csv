@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Drew Sample,SampDr00,receiving,CIN,7,7,49,0,1,13,1.9,36,5.1,1.9,1,7,0,0,0,95.8,202012060mia
+Tee Higgins,HiggTe00,receiving,CIN,8,5,56,0,4,28,5.6,28,5.6,8.3,1,5,0,0,0,83.3,202012060mia
+Giovani Bernard,BernGi00,receiving,CIN,2,2,-1,0,0,-8,-4,7,3.5,-4,0,NA,0,0,0,79.2,202012060mia
+Alex Erickson,EricAl01,receiving,CIN,3,2,17,0,NA,4,2,13,6.5,4.3,0,NA,0,0,1,41.7,202012060mia
+Tyler Boyd,BoydTy00,receiving,CIN,4,1,72,1,1,1,1,71,71,15.3,0,NA,0,0,1,79.2,202012060mia
+A.J. Green,GreeA.00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,202012060mia
+Mason Schreck,SchrMa00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,2,0,NA,1,100,0,39.6,202012060mia
+Brandon Allen,AlleBr00,receiving,CIN,1,0,0,0,0,0,NA,0,NA,8,0,NA,0,0,0,39.6,202012060mia
+Mike Gesicki,GesiMi00,receiving,MIA,11,9,88,1,6,63,7,25,2.8,7.8,0,NA,0,0,0,130.3,202012060mia
+DeVante Parker,ParkDe01,receiving,MIA,8,4,35,0,2,35,8.8,0,0,7.3,0,NA,0,0,0,62,202012060mia
+Lynn Bowden Jr.,BowdLy00,receiving,MIA,4,4,41,0,2,17,4.3,24,6,4.3,1,4,0,0,0,109.4,202012060mia
+Jakeem Grant,GranJa00,receiving,MIA,6,2,42,0,2,-7,-3.5,49,24.5,15.8,0,NA,1,16.7,0,59,202012060mia
+Patrick Laird,LairPa00,receiving,MIA,3,2,16,0,1,10,5,6,3,4.3,1,2,0,0,0,79.9,202012060mia
+Myles Gaskin,GaskMy00,receiving,MIA,2,2,51,0,2,15,7.5,36,18,7.5,1,2,0,0,0,118.7,202012060mia
+Durham Smythe,SmytDu00,receiving,MIA,2,2,16,0,1,5,2.5,11,5.5,2.5,0,NA,0,0,0,100,202012060mia
+Mack Hollins,HollMa00,receiving,MIA,1,1,7,0,NA,7,7,0,0,7,0,NA,0,0,0,95.8,202012060mia
+Adam Shaheen,ShahAd00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,202012060mia

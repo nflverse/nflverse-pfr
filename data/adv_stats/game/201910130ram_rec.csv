@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+George Kittle,KittGe00,receiving,SFO,8,8,103,0,4,38,4.8,65,8.1,4.8,3,2.7,0,0,0,118.7,201910130ram
+Matt Breida,BreiMa00,receiving,SFO,4,4,27,0,2,-3,-0.8,30,7.5,-0.8,1,4,0,0,0,94.8,201910130ram
+Dante Pettis,PettDa00,receiving,SFO,6,3,45,0,3,28,9.3,17,5.7,7.3,1,3,0,0,0,75,201910130ram
+Deebo Samuel,SamuDe00,receiving,SFO,5,3,18,0,1,6,2,12,4,3.4,0,NA,0,0,1,27.5,201910130ram
+Tevin Coleman,ColeTe01,receiving,SFO,3,2,16,0,1,-9,-4.5,25,12.5,-2.3,0,NA,1,33.3,0,79.9,201910130ram
+Marquise Goodwin,GoodMa00,receiving,SFO,3,2,15,0,2,9,4.5,6,3,14.3,0,NA,1,33.3,0,78.5,201910130ram
+Kendrick Bourne,BourKe00,receiving,SFO,1,1,11,0,1,1,1,10,10,1,0,NA,0,0,0,112.5,201910130ram
+Levine Toilolo,ToilLe00,receiving,SFO,1,1,8,0,NA,-4,-4,12,12,-4,1,1,0,0,0,100,201910130ram
+Cooper Kupp,KuppCo00,receiving,LAR,6,4,17,0,NA,9,2.3,8,2,3.8,0,NA,0,0,0,70.1,201910130ram
+Brandin Cooks,CookBr00,receiving,LAR,3,3,18,0,0,6,2,12,4,2,0,NA,0,0,0,91.7,201910130ram
+Tyler Higbee,HigbTy00,receiving,LAR,3,3,25,0,NA,13,4.3,12,4,4.3,1,3,0,0,0,101.4,201910130ram
+Gerald Everett,EverGe00,receiving,LAR,5,2,9,0,1,0,0,9,4.5,8,0,NA,0,0,0,47.9,201910130ram
+Darrell Henderson,HendDa00,receiving,LAR,2,1,9,0,0,1,1,8,8,-0.5,0,NA,0,0,0,62.5,201910130ram
+Josh Reynolds,ReynJo00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,31,0,NA,1,100,0,39.6,201910130ram
+Robert Woods,WoodRo02,receiving,LAR,4,0,0,0,0,0,NA,0,NA,10.8,0,NA,0,0,0,39.6,201910130ram
