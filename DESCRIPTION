@@ -16,6 +16,7 @@ Authors@R:
 Description: A collection of PFR scraping functions for nflverse
 Imports:
     rvest (>= 1.0.0),
+    here,
     curl (>= 4.3.2),
     purrr (>= 0.3.4),
     glue (>= 1.4.2),
