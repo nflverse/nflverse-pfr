@@ -125,7 +125,7 @@ get_passing <- function(s) {
 }
 
 # data seem spotty before 2019
-data <- map_df(2019 : nflfastR:::most_recent_season(), get_passing)
+data <- map_df(2019:nflreadr:::most_recent_season(), get_passing)
 
 data %>%
   write_csv("data/pfr_advanced_passing.csv")
