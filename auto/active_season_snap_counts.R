@@ -24,7 +24,7 @@ snaps <- map_df(urls %>% pull(url), get_game_counts) %>%
   select(player, pfr_id, game_id, pfr_game_id, season, team, offense_snaps : st_pct)
 
 snaps %>%
-  write_csv(glue::glue("data/snap_counts_{s}.csv"))
+  readr::write_csv(glue::glue("data/snap_counts_{s}.csv"))
 
 snaps %>%
   saveRDS(glue::glue("data/snap_counts_{s}.rds"))
