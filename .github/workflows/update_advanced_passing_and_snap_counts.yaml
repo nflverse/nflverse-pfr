@@ -19,8 +19,8 @@ jobs:
           install.packages(c("tidyverse", "nflreadr"))
         shell: Rscript {0}
 
-      - name: Update advanced passing stats
-        run: Rscript -e 'source("auto/passing.R")'
+      - name: Update snap count data
+        run: Rscript -e 'source("auto/active_season_snap_counts.R")'
 
       - name: Commit updated data
         run: |
@@ -28,14 +28,14 @@ jobs:
           git config --local user.name "GitHub Actions"
           git pull
           git add data
-          git commit -m "Automated advanced passing stats updates `date`" || echo "No changes to commit"
+          git commit -m "Automated snap count data updates `date`" || echo "No changes to commit"
 
-      - name: Update snap count data
-        run: Rscript -e 'source("auto/active_season_snap_counts.R")'
+      - name: Update advanced passing stats
+        run: Rscript -e 'source("auto/passing.R")'
 
       - name: Commit updated data
         run: |
           git pull
           git add data
-          git commit -m "Automated snap count data updates `date`" || echo "No changes to commit"
+          git commit -m "Automated advanced passing stats updates `date`" || echo "No changes to commit"
           git push || echo "No changes to commit"
