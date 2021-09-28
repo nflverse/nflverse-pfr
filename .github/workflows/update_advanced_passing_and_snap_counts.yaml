@@ -29,6 +29,7 @@ jobs:
           git pull
           git add data
           git commit -m "Automated snap count data updates `date`" || echo "No changes to commit"
+          git push  || echo "No changes to commit"
 
       - name: Update advanced passing stats
         run: Rscript -e 'source("auto/passing.R")'
