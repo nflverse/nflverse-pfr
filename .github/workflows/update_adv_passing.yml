@@ -1,0 +1,30 @@
+on:
+  schedule:
+    # runs every day at 7:00 AM UTC in Jan, Feb, Sep-Dec
+    - cron:  '0 7,14 * 1,2,9-12 *'
+  workflow_dispatch:
+
+name: Update Advanced Passing Stats
+
+jobs:
+  update:
+    name: Update Data
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+
+      - name: Install packages
+        run: |
+          install.packages(c("tidyverse", "janitor","nflreadr"))
+        shell: Rscript {0}
+
+      - name: Update advanced passing stats
+        run: Rscript -e 'source("auto/passing.R")'
+
+      - name: Commit updated data
+        run: |
+          git pull
+          git add data
+          git commit -m "Automated advanced passing stats updates `date`" || echo "No changes to commit"
+          git push || echo "No changes to commit"
