@@ -40,6 +40,8 @@ jobs:
 
       - name: Commit updated data
         run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git pull
           git add data/adv_stats/game
           git commit -m "Automated advanced stats scrape `date`" || echo "No changes to commit"
