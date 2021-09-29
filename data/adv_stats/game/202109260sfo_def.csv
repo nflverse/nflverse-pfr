@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,6,5,83.3%,50,10,8.3,0,101.4,5.8,22,28,0,0,0,0,0,6,1,14.3%,202109260sfo
+Adrian Amos,AmosAd00,defense,GNB,0,5,4,80.0%,49,12.3,9.8,1,147.1,7.6,32,17,1,0,0,0,0,5,2,28.6%,202109260sfo
+Jaire Alexander,AlexJa00,defense,GNB,1,8,4,50.0%,35,8.8,4.4,1,62,11.9,33,2,1,0,0,0,0,5,0,0.0%,202109260sfo
+Ty Summers,SummTy00,defense,GNB,0,3,3,100.0%,18,6,6,0,91.7,1,3,15,0,0,0,0,0,3,1,25.0%,202109260sfo
+De'Vondre Campbell,CampDe00,defense,GNB,0,6,3,50.0%,11,3.7,1.8,0,56.2,-1.2,-3,14,2,0,0,0,0,12,0,0.0%,202109260sfo
+Chandon Sullivan,SullCh00,defense,GNB,0,5,3,60.0%,67,22.3,13.4,0,104.2,8.6,29,38,1,0,0,0,0,0,2,100.0%,202109260sfo
+Eric Stokes,StokEr00,defense,GNB,0,4,2,50.0%,22,11,5.5,0,66.7,11.5,22,0,0,0,0,0,0,5,0,0.0%,202109260sfo
+Oren Burks,BurkOr00,defense,GNB,0,1,1,100.0%,5,5,5,0,87.5,5,5,0,1,0,0,0.5,1,3,0,0.0%,202109260sfo
+Preston Smith,SmitPr00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,2,1,4,4,1,20.0%,202109260sfo
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,1,0.5,3,1,0,0.0%,202109260sfo
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,2,2,50.0%,202109260sfo
+Jonathan Garvin,GarvJo00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,1,0.5,2,2,0,0.0%,202109260sfo
+Dean Lowry,LowrDe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202109260sfo
+Tedarrell Slaton,SlatTe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,202109260sfo
+Chauncey Rivers,RiveCh01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,1,0,0.0%,202109260sfo
+Henry Black,BlacHe00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202109260sfo
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,5,5,100.0%,25,5,5,0,87.5,0.2,1,24,4,1,0,0,1,10,0,0.0%,202109260sfo
+Emmanuel Moseley,MoseEm00,defense,SFO,0,7,4,57.1%,33,8.3,4.7,0,69.3,16.3,15,18,0,0,0,0,0,6,0,0.0%,202109260sfo
+Deommodore Lenoir,LenoDe00,defense,SFO,0,3,3,100.0%,30,10,10,1,147.9,7.7,23,7,0,0,0,0,0,1,1,50.0%,202109260sfo
+Fred Warner,WarnFr00,defense,SFO,0,3,2,66.7%,31,15.5,10.3,0,100.7,12,25,6,2,0,0,0,0,8,0,0.0%,202109260sfo
+Jaquiski Tartt,TartJa00,defense,SFO,0,3,2,66.7%,61,30.5,20.3,0,109.7,26.3,51,10,1,0,0,0,0,4,4,50.0%,202109260sfo
+Josh Norman,NormJo01,defense,SFO,0,2,1,50.0%,1,1,0.5,1,95.8,20,0,1,1,0,0,0,0,1,1,50.0%,202109260sfo
+Talanoa Hufanga,HufaTa00,defense,SFO,0,1,1,100.0%,17,17,17,0,118.7,17,17,0,0,0,0,0,0,1,0,0.0%,202109260sfo
+Dontae Johnson,JohnDo02,defense,SFO,0,1,1,100.0%,19,19,19,0,118.7,19,19,0,1,0,0,0,0,3,0,0.0%,202109260sfo
+K'Waun Williams,WillKW00,defense,SFO,0,1,1,100.0%,42,42,42,0,118.7,23,23,19,0,0,0,0,0,1,0,0.0%,202109260sfo
+Marcell Harris,HarrMa03,defense,SFO,0,1,1,100.0%,6,6,6,0,91.7,-1,-1,7,0,0,0,0,0,0,0,NA,202109260sfo
+Jimmie Ward,WardJi01,defense,SFO,0,3,1,33.3%,0,0,0,0,42.4,2.3,-8,8,3,0,0,0,0,4,0,0.0%,202109260sfo
+Nick Bosa,BosaNi00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,4,0,0.0%,202109260sfo
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202109260sfo
+Zach Kerr,KerrZa00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202109260sfo

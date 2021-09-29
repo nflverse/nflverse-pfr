@@ -9,7 +9,7 @@ scrape_advstats <- function(data_path){
     unique()
 
   #' Get Game IDs
-  game_ids <- pfr_game_urls(2020) %>%
+  game_ids <- pfr_game_urls(nflreadr:::most_recent_season()) %>%
     tidyr::extract(col = "url",
                    into = "game_id",
                    regex = "boxscores/([[:alnum:]]+).htm") %>%
@@ -20,27 +20,31 @@ scrape_advstats <- function(data_path){
 
   if(nrow(game_ids)==0) return(cli::cli_alert_danger("No new games to scrape!"))
 
-  cli::cli_alert("Now scraping {nrow(game_ids)}")
+  cli::cli_alert("Now scraping {nrow(game_ids)} games")
 
   #' Scrape Incomplete Games
   scrape_games <- game_ids %>%
-    dplyr::mutate(adv = purrr::map(game_id, pfr_game_adv_stats)) %>%
-    tidyr::unnest_wider(adv) %>%
-    tidyr::pivot_longer(
-      c(pass, rush, rec, def),
-      names_to = "stat_type",
-      values_to = "stats"
-    ) %>%
-    dplyr::filter(purrr::map_lgl(stats, ~length(.x) > 0))
+    dplyr::mutate(adv = purrr::map(game_id,
+                                   purrr::possibly(
+                                     pfr_game_adv_stats,
+                                     otherwise = list(pass = NULL,
+                                                      rush = NULL,
+                                                      rec = NULL,
+                                                      def = NULL))
+                                   )) %>%
+    tidyr::unnest_longer(adv, indices_to = "stat_type", values_to = "stats") %>%
+    dplyr::filter(purrr::map_lgl(stats, ~length(.x) > 0)) %>%
+    dplyr::select(game_id, stat_type, stats)
 
   if(nrow(scrape_games)==0) return(cli::cli_alert_danger("No new data for scrapes!"))
 
   purrr::pwalk(scrape_games,~{
     filename <- glue::glue("data/adv_stats/game/{..1}_{..2}.")
 
+
     readr::write_csv(..3, paste0(filename,"csv"))
     saveRDS(..3,paste0(filename,"rds"))
-    qs::qsave(..3,paste0(filename,"qs"))
+    # qs::qsave(..3,paste0(filename,"qs"))
   })
 
   cli::cli_alert_success("Finished scraping {nrow(game_ids)}")

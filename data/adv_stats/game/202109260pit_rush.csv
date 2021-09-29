@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,18,90,3,34,1.9,56,3.1,1,18,202109260pit
+Joe Burrow,BurrJo01,rushing,CIN,5,7,1,4,0.8,3,0.6,0,NA,202109260pit
+Samaje Perine,PeriSa00,rushing,CIN,1,-1,NA,-1,-1,0,0,0,NA,202109260pit
+Najee Harris,HarrNa00,rushing,PIT,14,40,1,14,1,26,1.9,1,14,202109260pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,5,1,5,5,0,0,0,NA,202109260pit

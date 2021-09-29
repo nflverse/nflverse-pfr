@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Drue Tranquill,TranDr00,defense,LAC,0,5,4,80.0%,19,4.8,3.8,1,122.1,-0.8,-4,23,4,0,0,0.5,1,8,0,0.0%,202109260kan
+Michael Davis,DaviMi03,defense,LAC,0,7,4,57.1%,60,15,8.6,1,125,9,30,30,1,0,0,0,0,3,1,25.0%,202109260kan
+Tevaughn Campbell,CampTe00,defense,LAC,0,6,4,66.7%,42,10.5,7,0,86.8,10.3,6,36,1,0,0,0,0,4,0,0.0%,202109260kan
+Kyzir White,WhitKy00,defense,LAC,0,3,3,100.0%,19,6.3,6.3,0,93.1,1.3,4,15,2,0,0,1,1,8,1,11.1%,202109260kan
+Alohi Gilman,GilmAl00,defense,LAC,1,3,3,100.0%,32,10.7,10.7,0,71.5,6,18,14,0,0,0,0,0,7,1,12.5%,202109260kan
+Nasir Adderley,AddeNa00,defense,LAC,0,5,2,40.0%,13,6.5,2.6,0,47.9,17.6,13,0,0,0,0,0,0,9,1,10.0%,202109260kan
+Derwin James,JameDe00,defense,LAC,0,4,2,50.0%,12,6,3,0,56.2,10.3,8,4,0,0,0,0,0,4,1,20.0%,202109260kan
+Uchenna Nwosu,NwosUc00,defense,LAC,0,2,1,50.0%,8,8,4,1,100,14.5,-3,11,0,3,1,0,4,1,0,0.0%,202109260kan
+Kyler Fackrell,FackKy00,defense,LAC,0,1,1,100.0%,10,10,10,0,108.3,-4,-4,14,0,1,0,0,1,1,0,0.0%,202109260kan
+Kenneth Murray,MurrKe00,defense,LAC,0,1,1,100.0%,6,6,6,0,91.7,6,6,0,1,0,0,0,0,3,0,0.0%,202109260kan
+Mark Webb,WebbMa01,defense,LAC,0,1,1,100.0%,28,28,28,0,118.7,26,26,2,0,0,0,0,0,1,0,0.0%,202109260kan
+Asante Samuel Jr.,SamuAs00,defense,LAC,1,3,1,33.3%,11,11,3.7,0,5.6,16,14,-3,0,0,0,0,0,2,0,0.0%,202109260kan
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,0.5,5,3,1,25.0%,202109260kan
+Jerry Tillery,TillJe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0,4,2,1,33.3%,202109260kan
+Chris Rumph,RumpCh00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,0,0,2,3,0,0.0%,202109260kan
+Daniel Sorensen,SoreDa01,defense,KAN,0,6,4,66.7%,34,8.5,5.7,1,120.8,12.7,21,13,1,0,0,0,0,7,0,0.0%,202109260kan
+Deandre Baker,BakeDe00,defense,KAN,0,6,4,66.7%,31,7.8,5.2,0,79.2,5,13,18,0,0,0,0,0,3,1,25.0%,202109260kan
+Rashad Fenton,FentRa00,defense,KAN,0,4,4,100.0%,31,7.8,7.8,0,99,2.3,9,22,0,0,0,0,0,4,0,0.0%,202109260kan
+L'Jarius Sneed,SneeLJ00,defense,KAN,0,4,4,100.0%,35,8.8,8.8,0,103.1,2.5,10,25,7,0,0,0,0,6,0,0.0%,202109260kan
+Tyrann Mathieu,MathTy00,defense,KAN,0,3,3,100.0%,73,24.3,24.3,0,118.7,11.7,35,38,0,0,0,0,0,5,0,0.0%,202109260kan
+Mike Hughes,HughMi00,defense,KAN,0,5,3,60.0%,40,13.3,8,2,125,9.2,38,2,0,0,0,0,0,2,0,0.0%,202109260kan
+Anthony Hitchens,HitcAn00,defense,KAN,0,4,2,50.0%,21,10.5,5.3,1,105.2,3.3,4,17,4,1,0,0,1,5,0,0.0%,202109260kan
+Nick Bolton,BoltNi00,defense,KAN,0,2,1,50.0%,8,8,4,0,60.4,1.5,3,5,4,0,0,0,0,7,0,0.0%,202109260kan
+Ben Niemann,NiemBe00,defense,KAN,0,1,1,100.0%,8,8,8,0,100,-2,-2,10,3,0,0,0,0,3,0,0.0%,202109260kan
+Michael Danna,DannMi00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,2,0,0.0%,202109260kan
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202109260kan
+Tershawn Wharton,WharTe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,0,0,NA,202109260kan
+Jarran Reed,ReedJa02,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,202109260kan
+Khalen Saunders,SaunKh00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202109260kan
+Joshua Kaindoh,KainJo00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,0,0,NA,202109260kan
+Alex Okafor,OkafAl00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202109260kan

@@ -1,3 +1,0 @@
-player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
-Kirk Cousins,CousKi00,passing,MIN,28,40,405,20,46.5,271,6.8,195,7,4.9,210,7.5,1,2.6%,4,10.5%,3,16,3,2,8,18.6%,0,NA,202101030det
-Matthew Stafford,StafMa00,passing,DET,20,31,293,12,37.5,443,14.3,210,10.5,6.8,83,4.2,2,6.5%,3,9.7%,1,10,3,0,4,11.8%,2,4.5,202101030det

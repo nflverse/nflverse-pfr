@@ -1,8 +1,0 @@
-player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
-Kenyan Drake,DrakKe00,rushing,ARI,10,36,3,11,1.1,25,2.5,1,10,202101030ram
-Chase Edmonds,EdmoCh00,rushing,ARI,3,-3,NA,-5,-1.7,2,0.7,0,NA,202101030ram
-Chris Streveler,StreCh00,rushing,ARI,3,12,1,8,2.7,4,1.3,0,NA,202101030ram
-Kyler Murray,MurrKy00,rushing,ARI,2,3,0,3,1.5,0,0,0,NA,202101030ram
-Cam Akers,AkerCa00,rushing,LAR,21,34,2,14,0.7,20,1,0,NA,202101030ram
-John Wolford,WolfJo00,rushing,LAR,6,56,4,38,6.3,18,3,0,NA,202101030ram
-Malcolm Brown,BrowMa03,rushing,LAR,3,20,1,13,4.3,7,2.3,0,NA,202101030ram

@@ -1,9 +1,0 @@
-player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
-Jonathan Taylor,TaylJo02,rushing,IND,21,78,7,17,0.8,61,2.9,0,NA,202101090buf
-Nyheim Hines,HineNy00,rushing,IND,6,75,2,20,3.3,55,9.2,1,6,202101090buf
-Jacoby Brissett,BrisJa00,rushing,IND,1,0,NA,0,0,0,0,0,NA,202101090buf
-Michael Pittman Jr.,PittMi01,rushing,IND,1,11,1,9,9,2,2,0,NA,202101090buf
-Philip Rivers,RivePh00,rushing,IND,1,-1,0,-1,-1,0,0,0,NA,202101090buf
-Josh Allen,AlleJo02,rushing,BUF,11,54,3,45,4.1,9,0.8,0,NA,202101090buf
-Zack Moss,MossZa00,rushing,BUF,7,21,0,9,1.3,12,1.7,0,NA,202101090buf
-Devin Singletary,SingDe00,rushing,BUF,3,21,2,7,2.3,14,4.7,0,NA,202101090buf

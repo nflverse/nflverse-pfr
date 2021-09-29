@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,10,34,2,26,2.6,8,0.8,0,NA,202109260cle
+Justin Fields,FielJu00,rushing,CHI,3,12,0,12,4,0,0,0,NA,202109260cle
+Nick Chubb,ChubNi00,rushing,CLE,22,84,4,64,2.9,20,0.9,1,22,202109260cle
+Kareem Hunt,HuntKa00,rushing,CLE,10,81,4,33,3.3,48,4.8,3,3.3,202109260cle
+Baker Mayfield,MayfBa00,rushing,CLE,4,31,1,31,7.8,0,0,0,NA,202109260cle
+Case Keenum,KeenCa00,rushing,CLE,3,0,1,0,0,0,0,0,NA,202109260cle
+D'Ernest Johnson,JohnDE04,rushing,CLE,2,9,NA,6,3,3,1.5,0,NA,202109260cle
+Odell Beckham Jr.,BeckOd00,rushing,CLE,1,10,1,10,10,0,0,0,NA,202109260cle

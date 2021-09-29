@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Tre Flowers,FlowTr01,defense,SEA,0,7,6,85.7%,60,10,8.6,0,102.4,5.4,31,29,0,0,0,0,0,7,0,0.0%,202109260min
+Jordyn Brooks,BrooJo01,defense,SEA,0,5,4,80.0%,47,11.8,9.4,1,145.4,2,12,35,5,1,1,0,2,7,0,0.0%,202109260min
+Bobby Wagner,WagnBo00,defense,SEA,0,6,4,66.7%,14,3.5,2.3,0,70.1,1.8,10,4,3,0,1,0,1,11,0,0.0%,202109260min
+Ugo Amadi,AmadUg00,defense,SEA,0,4,4,100.0%,36,9,9,0,104.2,5.5,22,14,1,0,0,0,0,6,0,0.0%,202109260min
+D.J. Reed,ReedD.00,defense,SEA,0,8,4,50.0%,55,13.8,6.9,2,112,8.9,42,13,0,0,0,0,0,3,0,0.0%,202109260min
+Jamal Adams,AdamJa00,defense,SEA,0,3,3,100.0%,43,14.3,14.3,0,118.7,3.3,10,33,2,0,0,0,0,12,2,14.3%,202109260min
+Quandre Diggs,DiggQu00,defense,SEA,0,2,2,100.0%,49,24.5,24.5,0,118.7,17,34,15,0,0,0,0,0,5,2,28.6%,202109260min
+Rasheem Green,GreeRa01,defense,SEA,0,1,1,100.0%,7,7,7,0,95.8,-3,-3,10,0,1,0,0,1,1,0,0.0%,202109260min
+Cody Barton,BartCo00,defense,SEA,0,1,1,100.0%,16,16,16,0,118.7,3,3,13,1,0,1,0,1,6,1,14.3%,202109260min
+Alton Robinson,RobiAl03,defense,SEA,0,1,1,100.0%,-4,-4,-4,0,79.2,-7,-7,3,0,0,0,0,0,5,0,0.0%,202109260min
+Carlos Dunlap,DunlCa99,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,1,25.0%,202109260min
+Robert Nkemdiche,NkemRo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,1,33.3%,202109260min
+Darrell Taylor,TaylDa00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,6,0,0.0%,202109260min
+Bashaud Breeland,BreeBa00,defense,MIN,0,9,9,100.0%,102,11.3,11.3,1,150.9,6.7,60,42,0,0,0,0,0,6,3,33.3%,202109260min
+Patrick Peterson,PetePa00,defense,MIN,0,8,6,75.0%,93,15.5,11.6,0,113,6.9,22,71,0,0,0,0,0,2,1,33.3%,202109260min
+Nick Vigil,VigiNi00,defense,MIN,0,4,4,100.0%,41,10.3,10.3,0,109.4,3.8,15,26,2,0,0,0,0,8,1,11.1%,202109260min
+Eric Kendricks,KendEr00,defense,MIN,0,2,2,100.0%,36,18,18,0,118.7,0.5,1,35,2,0,0,1,1,11,0,0.0%,202109260min
+Danielle Hunter,HuntDa01,defense,MIN,0,1,1,100.0%,5,5,5,0,87.5,-6,-6,11,0,2,1,0,3,3,1,25.0%,202109260min
+Xavier Woods,WoodXa00,defense,MIN,0,2,1,50.0%,21,21,10.5,0,87.5,27.5,20,1,0,0,0,0,0,2,2,50.0%,202109260min
+Everson Griffen,GrifEv99,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,1,4,3,1,25.0%,202109260min
+Sheldon Richardson,RichSh00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,202109260min
+Michael Pierce,PierMi00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,0,0,NA,202109260min
+Dalvin Tomlinson,TomlDa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,2,50.0%,202109260min
+Mackensie Alexander,AlexMa01,defense,MIN,0,1,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,2,0,0,0,0,3,0,0.0%,202109260min
+Blake Lynch,LyncBl00,defense,MIN,0,1,0,0.0%,NA,NA,0,NA,39.6,-6,NA,NA,0,0,0,0,0,0,0,NA,202109260min
+Harrison Smith,SmitHa00,defense,MIN,0,1,0,0.0%,NA,NA,0,NA,39.6,43,NA,NA,2,0,0,0,0,8,0,0.0%,202109260min

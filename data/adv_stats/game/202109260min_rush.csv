@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chris Carson,CarsCh00,rushing,SEA,12,80,4,55,4.6,25,2.1,1,12,202109260min
+Russell Wilson,WilsRu00,rushing,SEA,3,7,0,5,1.7,2,0.7,0,NA,202109260min
+Alex Collins,CollAl00,rushing,SEA,2,8,1,1,0.5,7,3.5,1,2,202109260min
+Freddie Swain,SwaiFr00,rushing,SEA,1,11,1,10,10,1,1,0,NA,202109260min
+Alexander Mattison,MattAl01,rushing,MIN,26,112,6,67,2.6,45,1.7,2,13,202109260min
+Ameer Abdullah,AbduAm00,rushing,MIN,5,24,NA,11,2.2,13,2.6,1,5,202109260min
+C.J. Ham,HamxC.00,rushing,MIN,2,2,1,0,0,2,1,0,NA,202109260min
+Kirk Cousins,CousKi00,rushing,MIN,1,2,0,2,2,0,0,0,NA,202109260min

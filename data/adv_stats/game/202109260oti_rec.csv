@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Pittman Jr.,PittMi01,receiving,IND,12,6,68,0,5,45,7.5,23,3.8,10.4,0,NA,0,0,0,67.4,202109260oti
+Nyheim Hines,HineNy00,receiving,IND,6,5,54,0,1,-1,-0.2,55,11,0,1,5,0,0,0,104.2,202109260oti
+Mo Alie-Cox,AlieMo00,receiving,IND,2,2,14,0,1,-7,-3.5,21,10.5,-3.5,0,NA,0,0,0,95.8,202109260oti
+Parris Campbell,CampPa00,receiving,IND,4,2,9,0,NA,6,3,3,1.5,4.3,0,NA,0,0,0,56.2,202109260oti
+Zach Pascal,PascZa00,receiving,IND,7,2,31,0,1,31,15.5,0,0,10,0,NA,1,14.3,0,45.5,202109260oti
+Jack Doyle,DoylJa00,receiving,IND,2,1,10,0,NA,10,10,0,0,6,0,NA,1,50,0,64.6,202109260oti
+Jonathan Taylor,TaylJo02,receiving,IND,3,1,8,0,0,-4,-4,12,12,-4.7,0,NA,0,0,0,42.4,202109260oti
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,4,4,53,1,2,32,8,21,5.3,8,0,NA,0,0,0,158.3,202109260oti
+Derrick Henry,HenrDe00,receiving,TEN,3,3,31,0,2,-5,-1.7,36,12,-1.7,1,3,0,0,0,109.7,202109260oti
+Julio Jones,JoneJu02,receiving,TEN,4,3,47,0,2,29,9.7,18,6,13.8,1,3,0,0,0,113.5,202109260oti
+Geoff Swaim,SwaiGe00,receiving,TEN,4,3,27,0,1,3,1,24,8,1.8,0,NA,1,25,0,92.7,202109260oti
+Cameron Batson,BatsCa00,receiving,TEN,1,1,13,0,1,13,13,0,0,13,0,NA,0,0,0,118.7,202109260oti
+Chester Rogers,RogeCh02,receiving,TEN,2,1,6,1,1,6,6,0,0,5.5,0,NA,1,50,1,56.2,202109260oti
+MyCole Pruitt,PruiMy00,receiving,TEN,1,1,7,0,1,7,7,0,0,7,0,NA,0,0,0,95.8,202109260oti
+Jeremy McNichols,McNiJe00,receiving,TEN,2,1,10,1,1,4,4,6,6,3,0,NA,0,0,0,104.2,202109260oti
+Tommy Hudson,HudsTo00,receiving,TEN,2,1,3,0,NA,-5,-5,8,8,-1.5,0,NA,0,0,1,16.7,202109260oti
+Racey McMath,McMaRa00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,202109260oti
+A.J. Brown,BrowAJ00,receiving,TEN,2,0,0,0,NA,0,NA,0,NA,17,0,NA,0,0,0,39.6,202109260oti

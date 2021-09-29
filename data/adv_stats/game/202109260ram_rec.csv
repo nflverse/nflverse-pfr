@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Giovani Bernard,BernGi00,receiving,TAM,10,9,51,1,4,-18,-2,69,7.7,-1.1,1,9,0,0,0,121.2,202109260ram
+Mike Evans,EvanMi00,receiving,TAM,10,8,106,0,7,73,9.1,33,4.1,13.5,0,NA,0,0,0,110.8,202109260ram
+Chris Godwin,GodwCh00,receiving,TAM,7,6,74,0,4,35,5.8,39,6.5,5,0,NA,0,0,0,110.7,202109260ram
+Cameron Brate,BratCa00,receiving,TAM,5,4,35,0,2,12,3,23,5.8,6.4,0,NA,0,0,0,95.8,202109260ram
+Rob Gronkowski,GronRo00,receiving,TAM,7,4,55,0,2,28,7,27,6.8,12.3,0,NA,2,28.6,0,82.4,202109260ram
+Leonard Fournette,FourLe00,receiving,TAM,3,3,26,0,2,8,2.7,18,6,2.7,1,3,0,0,0,102.8,202109260ram
+Tyler Johnson,JohnTy00,receiving,TAM,6,3,63,0,2,50,16.7,13,4.3,11.8,0,NA,0,0,0,87.5,202109260ram
+Scott Miller,MillSc01,receiving,TAM,3,2,11,0,NA,3,1.5,8,4,6,0,NA,0,0,0,72.9,202109260ram
+Jaelon Darden,DardJa00,receiving,TAM,1,1,0,0,NA,-1,-1,1,1,-1,0,NA,0,0,0,79.2,202109260ram
+O.J. Howard,HowaO.00,receiving,TAM,1,1,11,0,1,4,4,7,7,4,1,1,0,0,0,112.5,202109260ram
+Cooper Kupp,KuppCo00,receiving,LAR,12,9,96,2,5,68,7.6,28,3.1,8.9,1,9,1,8.3,0,137.5,202109260ram
+Tyler Higbee,HigbTy00,receiving,LAR,5,5,40,1,3,3,0.6,37,7.4,0.6,0,NA,0,0,0,139.6,202109260ram
+Van Jefferson,JeffVa00,receiving,LAR,6,4,42,0,3,20,5,22,5.5,9.7,1,4,0,0,0,86.8,202109260ram
+DeSean Jackson,JackDe00,receiving,LAR,5,3,120,1,2,56,18.7,64,21.3,27.2,0,NA,0,0,0,143.7,202109260ram
+Sony Michel,MichSo00,receiving,LAR,4,3,12,0,0,-7,-2.3,19,6.3,-1,0,NA,0,0,0,77.1,202109260ram
+Robert Woods,WoodRo02,receiving,LAR,6,3,33,0,3,25,8.3,8,2.7,9.8,0,NA,0,0,0,66.7,202109260ram

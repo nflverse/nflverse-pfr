@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Carlton Davis,DaviCa02,defense,TAM,0,7,6,85.7%,92,15.3,13.1,2,158.3,9.3,34,58,1,0,0,0,0,3,0,0.0%,202109260ram
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,8,6,75.0%,61,10.2,7.6,0,96.4,10.6,32,29,0,0,0,0,0,6,1,14.3%,202109260ram
+Devin White,WhitDe02,defense,TAM,0,8,5,62.5%,38,7.6,4.8,0,74,6.1,21,17,5,1,0,0,1,7,1,12.5%,202109260ram
+Mike Edwards,EdwaMi01,defense,TAM,0,5,5,100.0%,121,24.2,24.2,2,158.3,16,80,41,2,0,0,0,0,3,0,0.0%,202109260ram
+Dee Delaney,DelaDe00,defense,TAM,0,5,5,100.0%,72,14.4,14.4,1,158.3,12.2,61,11,1,0,0,0,0,4,1,20.0%,202109260ram
+Lavonte David,DaviLa00,defense,TAM,0,5,4,80.0%,26,6.5,5.2,0,88.3,5.6,11,15,0,0,0,0,0,6,1,14.3%,202109260ram
+Ross Cockrell,CockRo00,defense,TAM,0,7,3,42.9%,9,3,1.3,0,50.3,8.3,-7,16,4,0,0,0,0,4,0,0.0%,202109260ram
+Shaquil Barrett,BarrSh00,defense,TAM,0,1,1,100.0%,9,9,9,0,104.2,5,5,4,2,0,1,0,1,5,0,0.0%,202109260ram
+William Gholston,GholWi00,defense,TAM,0,1,1,100.0%,5,5,5,0,87.5,-5,-5,10,0,0,0,1,1,3,0,0.0%,202109260ram
+Jordan Whitehead,WhitJo03,defense,TAM,0,1,1,100.0%,7,7,7,0,95.8,1,1,6,0,0,0,0,0,3,0,0.0%,202109260ram
+Steve McLendon,McLeSt00,defense,TAM,0,1,1,100.0%,6,6,6,0,91.7,-4,-4,10,0,0,0,0,0,1,1,50.0%,202109260ram
+Joe Tryon-Shoyinka,TryoJo00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202109260ram
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202109260ram
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202109260ram
+Kenny Young,YounKe03,defense,LAR,0,12,11,91.7%,99,9,8.3,0,101,-0.3,-4,103,3,0,0,1,1,10,2,16.7%,202109260ram
+Jalen Ramsey,RamsJa00,defense,LAR,0,12,8,66.7%,59,7.4,4.9,0,78.1,6.2,9,50,4,2,0,0,2,8,0,0.0%,202109260ram
+Darious Williams,WillDa09,defense,LAR,0,9,6,66.7%,66,11,7.3,0,88.2,11.8,47,19,0,0,0,0,0,6,0,0.0%,202109260ram
+Taylor Rapp,RappTa00,defense,LAR,0,9,6,66.7%,92,15.3,10.2,1,137.3,11.6,64,28,4,0,0,0,0,5,1,16.7%,202109260ram
+Jordan Fuller,FullJo01,defense,LAR,0,8,6,75.0%,103,17.2,12.9,0,116.7,14,79,24,1,0,0,0,0,5,0,0.0%,202109260ram
+Terrell Lewis,LewiTe00,defense,LAR,0,3,3,100.0%,28,9.3,9.3,0,105.6,3,9,19,1,2,0,0,2,2,1,33.3%,202109260ram
+Troy Reeder,ReedTr01,defense,LAR,0,3,3,100.0%,28,9.3,9.3,1,145.1,8.3,25,3,0,0,0,0,0,1,1,50.0%,202109260ram
+David Long,LongDa02,defense,LAR,0,5,2,40.0%,28,14,5.6,0,58.7,12.6,20,8,0,0,0,0,0,4,0,0.0%,202109260ram
+Nick Scott,ScotNi01,defense,LAR,0,4,2,50.0%,36,18,9,0,81.2,15,33,3,0,0,0,0,0,2,0,0.0%,202109260ram
+Justin Hollins,HollJu00,defense,LAR,0,2,2,100.0%,9,4.5,4.5,0,85.4,1,2,7,0,0,0,0,0,2,0,0.0%,202109260ram
+Aaron Donald,DonaAa00,defense,LAR,0,1,1,100.0%,-4,-4,-4,0,79.2,-6,-6,2,0,1,0,1,2,3,0,0.0%,202109260ram
+Greg Gaines,GainGr00,defense,LAR,0,1,1,100.0%,-1,-1,-1,0,79.2,-1,-1,0,0,0,0,0,0,2,0,0.0%,202109260ram
+Leonard Floyd,FloyLe00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,4,0,0.0%,202109260ram
+Sebastian Joseph,JoseSe00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202109260ram
