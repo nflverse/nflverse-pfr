@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Terry McLaurin,McLaTe00,receiving,WAS,8,7,40,1,2,37,5.3,3,0.4,5.1,0,NA,0,0,0,127.1,202101030phi
+J.D. McKissic,McKiJ.00,receiving,WAS,8,5,30,0,2,0,0,30,6,-0.6,0,NA,1,12.5,1,30.2,202101030phi
+Cam Sims,SimsCa00,receiving,WAS,5,5,43,0,2,18,3.6,25,5,3.6,0,NA,0,0,0,102.5,202101030phi
+Logan Thomas,ThomLo00,receiving,WAS,6,3,37,1,2,5,1.7,32,10.7,3,0,NA,0,0,1,69.4,202101030phi
+Antonio Gibson,GibsAn00,receiving,WAS,1,1,6,0,0,0,0,6,6,0,0,NA,0,0,0,91.7,202101030phi
+Steven Sims,SimsSt00,receiving,WAS,1,1,6,0,0,5,5,1,1,5,0,NA,0,0,0,91.7,202101030phi
+Zach Ertz,ErtzZa00,receiving,PHI,6,3,16,0,1,10,3.3,6,2,4.8,0,NA,0,0,1,16.7,202101030phi
+JJ Arcega-Whiteside,ArceJJ00,receiving,PHI,3,2,40,0,2,37,18.5,3,1.5,15.3,0,NA,0,0,0,109.7,202101030phi
+Boston Scott,ScotBo02,receiving,PHI,5,2,14,0,0,2,1,12,6,8.6,0,NA,0,0,0,47.9,202101030phi
+Corey Clement,ClemCo00,receiving,PHI,1,1,7,0,NA,-3,-3,10,10,-3,0,NA,0,0,0,95.8,202101030phi
+Travis Fulgham,FulgTr00,receiving,PHI,2,1,15,0,1,15,15,0,0,9.5,0,NA,0,0,0,75,202101030phi
+Jason Huntley,HuntJa01,receiving,PHI,1,1,0,0,NA,-1,-1,1,1,-1,0,NA,0,0,0,79.2,202101030phi
+Jalen Reagor,ReagJa00,receiving,PHI,1,1,15,0,1,15,15,0,0,15,0,NA,0,0,0,118.7,202101030phi
+Greg Ward,WardGr02,receiving,PHI,3,1,6,0,0,-3,-3,9,9,2,0,NA,0,0,0,42.4,202101030phi
+Quez Watkins,WatkQu00,receiving,PHI,5,1,6,0,NA,4,4,2,2,7,0,NA,2,40,0,39.6,202101030phi
+John Hightower,HighJo00,receiving,PHI,2,0,0,0,NA,0,NA,0,NA,31.5,0,NA,0,0,1,0,202101030phi

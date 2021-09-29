@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Adams,AdamJo03,rushing,NYJ,11,47,3,17,1.5,30,2.7,0,NA,202101030nwe
+Ty Johnson,JohnTy02,rushing,NYJ,11,45,3,16,1.5,29,2.6,0,NA,202101030nwe
+Braxton Berrios,BerrBr00,rushing,NYJ,2,16,0,12,6,4,2,0,NA,202101030nwe
+Sam Darnold,DarnSa00,rushing,NYJ,1,3,1,3,3,0,0,0,NA,202101030nwe
+Sony Michel,MichSo00,rushing,NWE,16,76,2,22,1.4,54,3.4,2,8,202101030nwe
+Cam Newton,NewtCa00,rushing,NWE,11,79,5,34,3.1,45,4.1,0,NA,202101030nwe
+Damiere Byrd,ByrdDa00,rushing,NWE,1,4,NA,3,3,1,1,0,NA,202101030nwe
+Jakobi Meyers,MeyeJa01,rushing,NWE,1,7,0,0,0,7,7,1,1,202101030nwe

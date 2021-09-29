@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+J.K. Dobbins,DobbJK00,rushing,BAL,10,42,4,20,2,22,2.2,1,10,202101160buf
+Gus Edwards,EdwaGu00,rushing,BAL,10,42,4,24,2.4,18,1.8,0,NA,202101160buf
+Lamar Jackson,JackLa00,rushing,BAL,9,34,2,28,3.1,6,0.7,0,NA,202101160buf
+Tyler Huntley,HuntTy01,rushing,BAL,3,32,1,13,4.3,19,6.3,1,3,202101160buf
+Josh Allen,AlleJo02,rushing,BUF,7,3,0,3,0.4,0,0,0,NA,202101160buf
+Devin Singletary,SingDe00,rushing,BUF,7,25,1,10,1.4,15,2.1,0,NA,202101160buf
+T.J. Yeldon,YeldT.00,rushing,BUF,2,4,NA,1,0.5,3,1.5,0,NA,202101160buf

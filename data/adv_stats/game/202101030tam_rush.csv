@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Todd Gurley,GurlTo01,rushing,ATL,9,18,3,6,0.7,12,1.3,0,NA,202101030tam
+Brian Hill,HillBr02,rushing,ATL,9,94,1,21,2.3,73,8.1,2,4.5,202101030tam
+Matt Ryan,RyanMa00,rushing,ATL,3,1,1,1,0.3,0,0,0,NA,202101030tam
+Ito Smith,SmitIt00,rushing,ATL,3,9,NA,2,0.7,7,2.3,0,NA,202101030tam
+Russell Gage,GageRu00,rushing,ATL,1,11,1,8,8,3,3,0,NA,202101030tam
+Calvin Ridley,RidlCa00,rushing,ATL,1,-6,0,-6,-6,0,0,0,NA,202101030tam
+Ronald Jones II,JoneRo01,rushing,TAM,12,78,4,40,3.3,38,3.2,2,6,202101030tam
+Tom Brady,BradTo00,rushing,TAM,5,3,1,2,0.4,1,0.2,0,NA,202101030tam
+Leonard Fournette,FourLe00,rushing,TAM,5,13,NA,-2,-0.4,15,3,0,NA,202101030tam

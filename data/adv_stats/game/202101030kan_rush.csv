@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Kalen Ballage,BallKa00,rushing,LAC,13,36,3,23,1.8,13,1,2,6.5,202101030kan
+Justin Jackson,JackJu01,rushing,LAC,9,72,5,39,4.3,33,3.7,1,9,202101030kan
+Austin Ekeler,EkelAu00,rushing,LAC,7,18,1,12,1.7,6,0.9,0,NA,202101030kan
+Justin Herbert,HerbJu00,rushing,LAC,6,9,1,9,1.5,0,0,0,NA,202101030kan
+Darwin Thompson,ThomDa06,rushing,KAN,14,45,3,22,1.6,23,1.6,1,14,202101030kan
+Chad Henne,HennCh01,rushing,KAN,2,0,0,0,0,0,0,0,NA,202101030kan
+Anthony Sherman,SherAn00,rushing,KAN,1,6,1,4,4,2,2,0,NA,202101030kan

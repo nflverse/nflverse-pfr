@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Mike Evans,EvanMi00,receiving,TAM,10,6,119,0,6,108,18,11,1.8,18.3,0,NA,0,0,0,101.7,202101090was
+Chris Godwin,GodwCh00,receiving,TAM,12,5,79,1,3,54,10.8,25,5,10.8,0,NA,1,8.3,0,92,202101090was
+Cameron Brate,BratCa00,receiving,TAM,6,4,80,0,4,53,13.3,27,6.8,11.2,0,NA,0,0,0,109.7,202101090was
+Leonard Fournette,FourLe00,receiving,TAM,4,4,39,0,2,-4,-1,43,10.8,-1,0,NA,0,0,0,107.3,202101090was
+Antonio Brown,BrowAn04,receiving,TAM,3,2,49,1,2,36,18,13,6.5,12,0,NA,0,0,0,149.3,202101090was
+Scott Miller,MillSc01,receiving,TAM,1,1,15,0,1,15,15,0,0,15,0,NA,0,0,0,118.7,202101090was
+Rob Gronkowski,GronRo00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202101090was
+Ke'Shawn Vaughn,VaugKe00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202101090was
+Cam Sims,SimsCa00,receiving,WAS,13,7,104,0,5,81,11.6,23,3.3,12.3,0,NA,0,0,0,80.3,202101090was
+Terry McLaurin,McLaTe00,receiving,WAS,7,6,75,0,5,66,11,9,1.5,10.1,0,NA,0,0,1,71.7,202101090was
+Logan Thomas,ThomLo00,receiving,WAS,9,5,74,0,3,45,9,29,5.8,11.9,0,NA,0,0,0,82.6,202101090was
+Steven Sims,SimsSt00,receiving,WAS,4,3,33,1,2,32,10.7,1,0.3,9.3,0,NA,1,25,0,138.5,202101090was
+Antonio Gibson,GibsAn00,receiving,WAS,3,2,4,0,0,-5,-2.5,9,4.5,0,0,NA,0,0,0,70.1,202101090was
+J.D. McKissic,McKiJ.00,receiving,WAS,3,2,8,0,0,-6,-3,14,7,-1.7,1,2,1,33.3,0,70.1,202101090was
+Jeremy Sprinkle,SpriJe00,receiving,WAS,1,1,8,0,NA,2,2,6,6,2,0,NA,0,0,0,100,202101090was
+Isaiah Wright,WrigIs01,receiving,WAS,1,0,0,0,NA,0,NA,0,NA,15,0,NA,1,100,0,39.6,202101090was
