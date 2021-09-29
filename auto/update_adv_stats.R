@@ -1,22 +1,20 @@
 #' Automated Scrape for PFR Advanced Stats
 pkgload::load_all()
 
-scrape_advstats <- function(data_path){
+scrape_advstats <- function(data_path = here::here("data/adv_stats/game")){
 
-  #' List Completed Games
+  #' List Completed Scrapes
   completed_games <- list.files(data_path) %>%
     stringr::str_replace_all("([[:alnum:]]+)_.*","\\1") %>%
     unique()
 
-  #' Get Game IDs
-  game_ids <- pfr_game_urls(nflreadr:::most_recent_season()) %>%
-    tidyr::extract(col = "url",
-                   into = "game_id",
-                   regex = "boxscores/([[:alnum:]]+).htm") %>%
+  game_ids <- nflreadr::load_schedules() %>%
     dplyr::filter(
-      game_id < format(Sys.Date(),format = "%Y%m%d"), # only games before today
-      !game_id %in% completed_games # only games we have not yet scraped
-    )
+      ! pfr %in% completed_games,
+      !is.na(result),
+      season >= 2018
+    ) %>%
+    dplyr::select(game_id = pfr)
 
   if(nrow(game_ids)==0) return(cli::cli_alert_danger("No new games to scrape!"))
 
