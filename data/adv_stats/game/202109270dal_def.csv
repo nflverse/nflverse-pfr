@@ -1,0 +1,36 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Steven Nelson,NelsSt01,defense,PHI,0,5,5,100.0%,86,17.2,17.2,0,118.7,14,70,16,0,0,0,0,0,5,0,0.0%,202109270dal
+Alex Singleton,SingAl00,defense,PHI,0,5,5,100.0%,55,11,11,1,152.1,1.6,8,47,0,0,0,0,0,10,3,23.1%,202109270dal
+Darius Slay,SlayDa00,defense,PHI,0,6,5,83.3%,40,8,6.7,2,134,9.7,30,10,0,0,0,0,0,4,0,0.0%,202109270dal
+T.J. Edwards,EdwaTJ02,defense,PHI,0,2,2,100.0%,17,8.5,8.5,0,102.1,1,2,15,0,0,0,1,1,4,1,20.0%,202109270dal
+Eric Wilson,WilsEr00,defense,PHI,0,2,2,100.0%,20,10,10,0,108.3,6.5,13,7,1,0,0,0,0,6,1,14.3%,202109270dal
+Patrick Johnson,JohnPa02,defense,PHI,0,1,1,100.0%,5,5,5,0,87.5,-3,-3,8,1,0,0,0,0,3,1,25.0%,202109270dal
+Marcus Epps,EppsMa00,defense,PHI,0,2,1,50.0%,15,15,7.5,0,75,21,15,0,0,0,0,0,0,4,0,0.0%,202109270dal
+Anthony Harris,HarrAn01,defense,PHI,0,1,1,100.0%,8,8,8,0,100,3,3,5,1,0,0,0,0,14,0,0.0%,202109270dal
+Javon Hargrave,HargJa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2,4,6,0,0.0%,202109270dal
+Derek Barnett,BarnDe01,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,1,25.0%,202109270dal
+Josh Sweat,SweaJo00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,4,0,0.0%,202109270dal
+Avonte Maddox,MaddAv00,defense,PHI,0,1,0,0.0%,NA,NA,0,NA,39.6,37,NA,NA,2,0,0,0.5,1,4,0,0.0%,202109270dal
+Ryan Kerrigan,KerrRy00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202109270dal
+Genard Avery,AverGe00,defense,PHI,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,2,0,0,0,0,4,1,20.0%,202109270dal
+Milton Williams,WillMi08,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202109270dal
+Fletcher Cox,CoxxFl00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202109270dal
+Tarron Jackson,JackTa02,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202109270dal
+Anthony Brown,BrowAn02,defense,DAL,1,8,6,75.0%,72,12,9,0,62.5,10.4,39,33,0,0,0,0,0,4,0,0.0%,202109270dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,4,4,100.0%,64,16,16,0,118.7,1.5,6,58,1,0,0,0,0,4,1,20.0%,202109270dal
+Trevon Diggs,DiggTr00,defense,DAL,1,7,4,57.1%,66,16.5,9.4,0,49.4,7,16,50,0,0,0,0,0,2,0,0.0%,202109270dal
+Jourdan Lewis,LewiJo01,defense,DAL,0,4,3,75.0%,48,16,12,1,154.2,5.5,18,30,0,0,0,0,0,3,0,0.0%,202109270dal
+Luke Gifford,GiffLu00,defense,DAL,0,2,2,100.0%,5,2.5,2.5,0,79.2,-6.5,-13,18,0,0,0,0,0,2,0,0.0%,202109270dal
+Micah Parsons,ParsMi00,defense,DAL,0,1,1,100.0%,0,0,0,0,79.2,-5,-5,5,9,2,0,0.5,3,4,0,0.0%,202109270dal
+Osa Odighizuwa,OdigOs00,defense,DAL,0,1,1,100.0%,1,1,1,0,79.2,-7,-7,8,0,0,0,1.5,2,4,0,0.0%,202109270dal
+Jaylon Smith,SmitJa05,defense,DAL,0,1,1,100.0%,19,19,19,0,118.7,-8,-8,27,3,1,0,0,1,4,1,20.0%,202109270dal
+Damontae Kazee,KazeDa00,defense,DAL,0,2,1,50.0%,15,15,7.5,1,114.6,26,15,0,0,0,0,0,0,3,0,0.0%,202109270dal
+Malik Hooker,HookMa00,defense,DAL,0,2,1,50.0%,3,3,1.5,1,95.8,3.5,2,1,0,0,0,0,0,0,0,NA,202109270dal
+Jayron Kearse,KearJa00,defense,DAL,0,5,1,20.0%,7,7,1.4,0,39.6,5.6,7,0,1,0,0,0,0,5,0,0.0%,202109270dal
+Maurice Canady,CanaMa00,defense,DAL,0,1,1,100.0%,41,41,41,0,118.7,41,41,0,0,0,0,0,0,2,0,0.0%,202109270dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,0,4,0,0,NA,202109270dal
+Tarell Basham,BashTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202109270dal
+Brent Urban,UrbaBr00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,1,100.0%,202109270dal
+Azur Kamara,KamaAz01,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202109270dal
+Justin Hamilton,HamiJu00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202109270dal
+Nahshon Wright,WrigNa00,defense,DAL,0,1,0,0.0%,NA,NA,0,NA,39.6,13,NA,NA,0,0,0,0,0,0,0,NA,202109270dal

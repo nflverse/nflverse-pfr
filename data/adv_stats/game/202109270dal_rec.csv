@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jalen Reagor,ReagJa00,receiving,PHI,8,5,53,0,2,32,6.4,21,4.2,10.5,0,NA,0,0,1,42.2,202109270dal
+Zach Ertz,ErtzZa00,receiving,PHI,7,4,53,1,3,21,5.3,32,8,7.1,0,NA,1,14.3,0,120.8,202109270dal
+Kenneth Gainwell,GainKe00,receiving,PHI,4,3,32,0,1,-16,-5.3,48,16,-3.3,0,NA,0,0,0,97.9,202109270dal
+Miles Sanders,SandMi01,receiving,PHI,4,3,28,0,0,-17,-5.7,45,15,-4.3,0,NA,0,0,0,93.7,202109270dal
+DeVonta Smith,SmitDe07,receiving,PHI,6,3,28,0,1,15,5,13,4.3,12.8,0,NA,0,0,1,23.6,202109270dal
+Dallas Goedert,GoedDa00,receiving,PHI,4,2,66,0,2,18,9,48,24,7.3,0,NA,0,0,0,95.8,202109270dal
+Quez Watkins,WatkQu00,receiving,PHI,2,2,46,0,1,41,20.5,5,2.5,20.5,0,NA,0,0,0,118.7,202109270dal
+Boston Scott,ScotBo02,receiving,PHI,2,2,5,0,NA,-13,-6.5,18,9,-6.5,0,NA,0,0,0,79.2,202109270dal
+Greg Ward,WardGr02,receiving,PHI,1,1,15,1,1,15,15,0,0,15,0,NA,0,0,0,158.3,202109270dal
+Dalton Schultz,SchuDa00,receiving,DAL,7,6,80,2,5,38,6.3,42,7,9.3,0,NA,0,0,0,153.9,202109270dal
+Amari Cooper,CoopAm00,receiving,DAL,4,3,26,0,2,13,4.3,13,4.3,10.3,0,NA,1,25,0,91.7,202109270dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,3,3,21,0,1,1,0.3,20,6.7,0.3,0,NA,0,0,0,95.8,202109270dal
+CeeDee Lamb,LambCe00,receiving,DAL,3,3,66,0,2,55,18.3,11,3.7,18.3,0,NA,0,0,0,118.7,202109270dal
+Cedrick Wilson Jr.,WilsCe01,receiving,DAL,4,2,17,1,2,17,8.5,0,0,14.8,0,NA,0,0,0,101,202109270dal
+Blake Jarwin,JarwBl00,receiving,DAL,2,2,14,0,2,5,2.5,9,4.5,2.5,0,NA,0,0,0,95.8,202109270dal
+Tony Pollard,PollTo00,receiving,DAL,1,1,5,0,0,-3,-3,8,8,-3,0,NA,0,0,0,87.5,202109270dal
+Noah Brown,BrowNo00,receiving,DAL,1,1,9,0,NA,9,9,0,0,9,0,NA,0,0,0,104.2,202109270dal
