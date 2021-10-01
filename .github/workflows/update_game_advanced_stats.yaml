@@ -6,7 +6,7 @@ on:
     # runs every day at 7:00 AM UTC in Jan, Feb, Sep-Dec
     - cron:  '0 7 * 1,2,9-12 *'
 
-name: PFR Advanced Stats - Games
+name: update_adv_stats
 
 jobs:
   pfr_advstats:
