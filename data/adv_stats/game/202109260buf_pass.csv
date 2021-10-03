@@ -1,4 +1,4 @@
-player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,prss_percent,scramble_attempts,yards_per_scramble,pfr_game_id
-Taylor Heinicke,HeinTa00,passing,WAS,14,24,212,8,32,165,6.9,64,4.6,2.7,148,10.6,3,12.5%,3,12.5%,1,5,6,2,9,NA,5,4.2,202109260buf
-Josh Allen,AlleJo02,passing,BUF,32,43,358,20,46.5,406,9.4,232,7.3,5.4,126,3.9,3,7.1%,5,11.9%,0,8,8,6,14,NA,2,3,202109260buf
-Mitchell Trubisky,TrubMi00,passing,BUF,1,1,1,0,0,1,1,1,1,1,0,0,0,0.0%,0,0.0%,0,0,0,0,0,NA,1,22,202109260buf
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,cay_cmp,completed_air_yards_per_attempt,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Taylor Heinicke,HeinTa00,passing,WAS,14,24,212,8,32,165,6.9,64,4.6,2.7,148,10.6,3,12.5%,3,12.5%,1,5,6,2,9,30.0%,5,4.2,202109260buf
+Josh Allen,AlleJo02,passing,BUF,32,43,358,20,46.5,406,9.4,232,7.3,5.4,126,3.9,3,7.1%,5,11.9%,0,8,8,6,14,31.1%,2,3,202109260buf
+Mitchell Trubisky,TrubMi00,passing,BUF,1,1,1,0,0,1,1,1,1,1,0,0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,1,22,202109260buf

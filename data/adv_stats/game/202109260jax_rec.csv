@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
 Chase Edmonds,EdmoCh00,receiving,ARI,8,7,49,0,1,-4,-0.6,53,7.6,0.8,1,7,0,0,0,92.2,202109260jax
-Christian Kirk,KirkCh01,receiving,ARI,8,7,104,0,5,67,9.6,37,5.3,13.8,0,NA,0,0,1,79.2,202109260jax
+Christian Kirk,KirkCh01,receiving,ARI,8,7,104,0,5,67,9.6,37,5.3,13.9,0,NA,0,0,1,79.2,202109260jax
 A.J. Green,GreeA.00,receiving,ARI,6,5,112,0,4,97,19.4,15,3,17.7,0,NA,0,0,0,118.7,202109260jax
 DeAndre Hopkins,HopkDe00,receiving,ARI,6,3,21,0,2,9,3,12,4,6,0,NA,0,0,0,58.3,202109260jax
 Maxx Williams,WillMa04,receiving,ARI,3,3,19,0,1,12,4,7,2.3,4,0,NA,0,0,0,93.1,202109260jax
