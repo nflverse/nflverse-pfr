@@ -1,26 +1,39 @@
 on:
   schedule:
-    # runs every day at 7:00 AM UTC in Jan, Feb, Sep-Dec
-    - cron:  '0 7,14 * 1,2,9-12 *'
+    # runs every day at 0,6,12,18 UTC in Jan, Feb, Sep-Dec
+    - cron:  '0 */6 * 1,2,9-12 *'
   workflow_dispatch:
 
 name: update_snap_counts
 
 jobs:
-  update:
-    name: Update Data
-    runs-on: macOS-latest
+  update_snap_counts:
+    runs-on: ${{ matrix.config.os }}
+
+    name: ${{ matrix.config.os }} (${{ matrix.config.r }})
+
+    strategy:
+      fail-fast: false
+      matrix:
+        config:
+          - {os: ubuntu-latest,   r: 'release'}
+
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      R_KEEP_PKG_SOURCE: yes
+
     steps:
       - uses: actions/checkout@v2
+
       - uses: r-lib/actions/setup-r@v1
+        with:
+          r-version: ${{ matrix.config.r }}
+          http-user-agent: ${{ matrix.config.http-user-agent }}
+          use-public-rspm: true
 
-      - name: Install packages
-        run: |
-          install.packages(c("tidyverse", "janitor","nflreadr"))
-        shell: Rscript {0}
-
+      - uses: r-lib/actions/setup-r-dependencies@v1
       - name: Update snap count data
-        run: Rscript -e 'source("auto/active_season_snap_counts.R")'
+        run: Rscript -e 'source("auto/update_snap_counts.R")'
 
       - name: Commit updated data
         run: |
