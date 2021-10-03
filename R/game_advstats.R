@@ -121,7 +121,8 @@ new_names_pass <- c(
   "iay" = "intended_air_yards",
   "iay_pa" = "intended_air_yards_per_att",
   "cay" = "completed_air_yards",
-  "cay_pa" = "completed_air_yards_per_attempt",
+  "cay_cmp" = "completed_air_yards_per_cmp",
+  "cay_pa" = "completed_air_yards_per_att",
   "yac" = "passing_yards_after_catch",
   "yac_cmp" = "passing_yards_after_catch_per_cmp",
   "drops" = "passing_drops",
@@ -133,7 +134,7 @@ new_names_pass <- c(
   "hrry" = "times_hurried",
   "hits" = "times_hit",
   "prss" = "times_pressured",
-  "prss_pct" = "times_pressured_pct",
+  "prss_percent" = "times_pressured_pct",
   "scrm" = "scramble_attempts",
   "yds_scr" = "yards_per_scramble"
 )
