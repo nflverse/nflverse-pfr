@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Myles Jack,JackMy00,defense,JAX,0,6,6,100.0%,104,17.3,17.3,1,158.3,6.7,40,64,2,0,0,0,0,8,0,0.0%,202109300cin
+Tyson Campbell,CampTy01,defense,JAX,0,7,5,71.4%,100,20,14.3,0,113.7,12.7,82,18,0,0,0,0,0,8,1,11.1%,202109300cin
+Tre Herndon,HernTr00,defense,JAX,0,6,5,83.3%,63,12.6,10.5,0,110.4,5.3,27,36,2,0,0,0,0,5,0,0.0%,202109300cin
+Shaquill Griffin,GrifSh00,defense,JAX,0,6,4,66.7%,20,5,3.3,0,71.5,6.2,6,14,1,0,0,0,0,4,0,0.0%,202109300cin
+Rayshawn Jenkins,JenkRa00,defense,JAX,0,2,2,100.0%,32,16,16,0,118.7,2.5,5,27,1,0,0,0,0,8,1,11.1%,202109300cin
+Damien Wilson,WilsDa02,defense,JAX,0,2,2,100.0%,7,3.5,3.5,0,81.2,3,6,1,0,0,0,0,0,6,2,25.0%,202109300cin
+K'Lavon Chaisson,ChaiKL00,defense,JAX,0,2,0,0.0%,NA,NA,0,NA,39.6,14.5,NA,NA,1,1,1,0,2,1,0,0.0%,202109300cin
+Jihad Ward,WardJi02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,2,0,0.0%,202109300cin
+Malcom Brown,BrowMa01,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202109300cin
+Adam Gotsis,GotsAd00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,1,25.0%,202109300cin
+Dawuane Smoot,SmooDa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202109300cin
+Andrew Wingard,WingAn01,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,7,1,12.5%,202109300cin
+Josh Allen,AlleJo03,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202109300cin
+Mike Hilton,HiltMi01,defense,CIN,0,7,6,85.7%,72,12,10.3,0,109.5,8.3,53,19,1,0,0,0,0,3,1,25.0%,202109300cin
+Logan Wilson,WilsLo00,defense,CIN,0,3,3,100.0%,23,7.7,7.7,0,98.6,2,6,17,1,0,0,1,1,10,0,0.0%,202109300cin
+Trae Waynes,WaynTr00,defense,CIN,0,3,3,100.0%,70,23.3,23.3,0,118.7,22.7,68,2,0,0,0,0,0,4,0,0.0%,202109300cin
+Eli Apple,ApplEl00,defense,CIN,0,3,2,66.7%,14,7,4.7,0,77.1,12,12,2,0,0,0,0,0,3,0,0.0%,202109300cin
+Vonn Bell,BellVo00,defense,CIN,0,1,1,100.0%,7,7,7,0,95.8,4,4,3,1,0,0,0,0,5,1,16.7%,202109300cin
+Darius Phillips,PhilDa02,defense,CIN,0,1,1,100.0%,20,20,20,0,118.7,8,8,12,0,0,0,0,0,0,1,100.0%,202109300cin
+Trey Hendrickson,HendTr00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,0,0.0%,202109300cin
+Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,6,1,14.3%,202109300cin
+Germaine Pratt,PratGe00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,8,1,11.1%,202109300cin
+Jalen Davis,DaviJa06,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,0,0,0,0,0,1,0,0.0%,202109300cin
+Kevin Huber,HubeKe20,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202109300cin
+D.J. Reader,ReadD.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,6,1,14.3%,202109300cin
+Akeem Davis-Gaither,DaviAk01,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,2,0,0.0%,202109300cin

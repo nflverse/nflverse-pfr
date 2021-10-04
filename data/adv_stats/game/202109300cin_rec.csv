@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,7,6,99,0,4,78,13,21,3.5,14.6,1,6,0,0,0,118.7,202109300cin
+Marvin Jones,JoneMa02,receiving,JAX,3,3,24,0,1,22,7.3,2,0.7,7.3,0,NA,0,0,0,100,202109300cin
+Dan Arnold,ArnoDa00,receiving,JAX,2,2,29,0,2,5,2.5,24,12,2.5,1,2,0,0,0,118.7,202109300cin
+Luke Farrell,FarrLu00,receiving,JAX,1,1,7,0,NA,4,4,3,3,4,0,NA,0,0,0,95.8,202109300cin
+Jacob Hollister,HollJa03,receiving,JAX,1,1,5,0,NA,3,3,2,2,3,0,NA,0,0,0,87.5,202109300cin
+Chris Manhertz,ManhCh00,receiving,JAX,1,1,7,0,NA,4,4,3,3,4,0,NA,0,0,0,95.8,202109300cin
+James Robinson,RobiJa00,receiving,JAX,2,1,-2,0,0,-6,-6,4,4,-4.5,0,NA,0,0,0,56.2,202109300cin
+Jamal Agnew,AgneJa00,receiving,JAX,1,1,27,0,1,27,27,0,0,27,0,NA,0,0,0,118.7,202109300cin
+Tyron Johnson,JohnTy03,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202109300cin
+Tyler Boyd,BoydTy00,receiving,CIN,11,9,118,0,6,42,4.7,76,8.4,7.5,1,9,0,0,0,111.4,202109300cin
+Ja'Marr Chase,ChasJa00,receiving,CIN,9,6,77,0,3,59,9.8,18,3,10,0,NA,0,0,0,93.3,202109300cin
+C.J. Uzomah,UzomC.00,receiving,CIN,6,5,95,2,4,27,5.4,68,13.6,5.7,1,5,0,0,0,158.3,202109300cin
+Trenton Irwin,IrwiTr00,receiving,CIN,1,1,25,0,1,25,25,0,0,25,0,NA,0,0,0,118.7,202109300cin
+Joe Mixon,MixoJo00,receiving,CIN,2,1,0,0,0,2,2,-2,-2,-2.5,0,NA,1,50,0,56.2,202109300cin
+Samaje Perine,PeriSa00,receiving,CIN,1,1,15,0,1,3,3,12,12,3,0,NA,0,0,0,118.7,202109300cin
+Auden Tate,TateAu00,receiving,CIN,1,1,18,0,1,10,10,8,8,10,2,0.5,0,0,0,118.7,202109300cin
+Mike Thomas,ThomMi04,receiving,CIN,1,1,0,0,NA,0,0,0,0,0,0,NA,0,0,0,79.2,202109300cin
