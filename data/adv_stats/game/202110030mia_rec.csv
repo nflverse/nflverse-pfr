@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Pittman Jr.,PittMi01,receiving,IND,8,6,59,0,2,48,8,11,1.8,10.3,0,NA,0,0,0,95.3,202110030mia
+Zach Pascal,PascZa00,receiving,IND,5,4,44,0,1,22,5.5,22,5.5,5.6,1,4,0,0,0,103.3,202110030mia
+Mo Alie-Cox,AlieMo00,receiving,IND,5,3,42,2,3,32,10.7,10,3.3,12.2,0,NA,0,0,0,126.7,202110030mia
+Jonathan Taylor,TaylJo02,receiving,IND,3,3,11,0,0,-6,-2,17,5.7,-2,1,3,0,0,0,81.9,202110030mia
+Nyheim Hines,HineNy00,receiving,IND,2,2,5,0,0,2,1,3,1.5,1,0,NA,0,0,0,79.2,202110030mia
+Parris Campbell,CampPa00,receiving,IND,3,2,22,0,1,19,9.5,3,1.5,18.3,0,NA,0,0,0,88.2,202110030mia
+Ashton Dulin,DuliAs00,receiving,IND,1,1,17,0,1,16,16,1,1,16,0,NA,0,0,0,118.7,202110030mia
+Kylen Granson,GranKy00,receiving,IND,2,1,3,0,NA,2,2,1,1,2.5,0,NA,0,0,0,56.2,202110030mia
+Marlon Mack,MackMa00,receiving,IND,2,1,1,0,0,0,0,1,1,7.5,0,NA,0,0,0,56.2,202110030mia
+Jack Doyle,DoylJa00,receiving,IND,1,1,24,0,1,24,24,0,0,24,0,NA,0,0,0,118.7,202110030mia
+Mike Gesicki,GesiMi00,receiving,MIA,6,5,57,1,3,47,9.4,10,2,9.5,0,NA,0,0,0,145.8,202110030mia
+DeVante Parker,ParkDe01,receiving,MIA,9,4,77,1,4,70,17.5,7,1.8,12.8,0,NA,2,22.2,0,111.8,202110030mia
+Jaylen Waddle,WaddJa00,receiving,MIA,4,3,33,0,2,13,4.3,20,6.7,4.5,2,1.5,0,0,0,99,202110030mia
+Salvon Ahmed,AhmeSa01,receiving,MIA,2,2,12,0,NA,4,2,8,4,2,0,NA,0,0,0,91.7,202110030mia
+Durham Smythe,SmytDu00,receiving,MIA,2,2,6,0,NA,-1,-0.5,7,3.5,-0.5,0,NA,0,0,0,79.2,202110030mia
+Will Fuller,FullWi01,receiving,MIA,2,1,6,0,1,4,4,2,2,5,1,1,0,0,0,56.2,202110030mia
+Jakeem Grant,GranJa00,receiving,MIA,1,1,-7,0,NA,-4,-4,-3,-3,-4,0,NA,0,0,0,79.2,202110030mia
+Malcolm Brown,BrowMa03,receiving,MIA,1,1,4,0,NA,0,0,4,4,0,0,NA,0,0,0,83.3,202110030mia
+Albert Wilson,WilsAl02,receiving,MIA,2,1,11,0,NA,7,7,4,4,10,1,1,0,0,0,66.7,202110030mia
+Adam Shaheen,ShahAd00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,11,0,NA,0,0,0,39.6,202110030mia

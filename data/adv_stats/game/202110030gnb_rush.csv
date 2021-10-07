@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Najee Harris,HarrNa00,rushing,PIT,15,62,5,28,1.9,34,2.3,1,15,202110030gnb
+Benny Snell Jr.,SnelBe00,rushing,PIT,1,0,NA,0,0,0,0,0,NA,202110030gnb
+AJ Dillon,DillAJ00,rushing,GNB,15,81,5,45,3,36,2.4,2,7.5,202110030gnb
+Aaron Jones,JoneAa00,rushing,GNB,15,48,3,28,1.9,20,1.3,1,15,202110030gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,3,2,1,2,0.7,0,0,0,NA,202110030gnb

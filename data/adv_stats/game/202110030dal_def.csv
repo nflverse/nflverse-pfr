@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Shaq Thompson,ThomSh01,defense,CAR,0,3,3,100.0%,22,7.3,7.3,0,97.2,2.3,7,15,2,0,0,0,0,5,4,44.4%,202110030dal
+Jeremy Chinn,ChinJe00,defense,CAR,0,3,3,100.0%,47,15.7,15.7,3,158.3,8,24,23,3,0,0,0,0,6,3,33.3%,202110030dal
+Rashaan Melvin,MelvRa00,defense,CAR,0,4,3,75.0%,52,17.3,13,0,116.7,3.8,18,34,0,0,0,0,0,2,0,0.0%,202110030dal
+Donte Jackson,JackDo02,defense,CAR,0,5,2,40.0%,13,6.5,2.6,0,47.9,9.8,4,9,0,0,0,0,0,1,0,0.0%,202110030dal
+Sam Franklin,FranSa00,defense,CAR,0,2,1,50.0%,7,7,3.5,0,58.3,3.5,6,1,1,0,1,0,1,3,1,25.0%,202110030dal
+Brian Burns,BurnBr00,defense,CAR,0,1,1,100.0%,12,12,12,0,116.7,4,4,8,6,1,0,0,1,4,1,20.0%,202110030dal
+A.J. Bouye,BouyA.00,defense,CAR,0,2,1,50.0%,7,7,3.5,0,58.3,3,6,1,4,0,0,0,0,3,0,0.0%,202110030dal
+Haason Reddick,ReddHa00,defense,CAR,0,1,1,100.0%,20,20,20,0,118.7,5,5,15,6,0,0,0,0,3,0,0.0%,202110030dal
+C.J. Henderson,HendCJ00,defense,CAR,0,1,1,100.0%,35,35,35,1,158.3,35,35,0,0,0,0,0,0,3,0,0.0%,202110030dal
+Sean Chandler,ChanSe00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,9,0,0.0%,202110030dal
+Frankie Luvu,LuvuFr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,0,0,NA,202110030dal
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,0,0.0%,202110030dal
+Marquis Haynes,HaynMa01,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202110030dal
+Keith Taylor,TaylKe03,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,0,0,0,0,0,0,NA,202110030dal
+Anthony Brown,BrowAn02,defense,DAL,0,13,7,53.8%,107,15.3,8.2,0,81.2,11.7,50,57,0,0,0,0,0,6,0,0.0%,202110030dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,4,4,100.0%,28,7,7,0,95.8,3.3,13,15,2,0,0,0,0,5,1,16.7%,202110030dal
+Jourdan Lewis,LewiJo01,defense,DAL,0,5,4,80.0%,62,15.5,12.4,0,118.3,7.6,20,42,0,0,0,0,0,4,0,0.0%,202110030dal
+Jayron Kearse,KearJa00,defense,DAL,0,4,3,75.0%,18,6,4.5,1,122.9,13.5,15,3,2,0,1,0,1,6,0,0.0%,202110030dal
+Micah Parsons,ParsMi00,defense,DAL,0,3,2,66.7%,46,23,15.3,0,109.7,6,13,33,7,0,0,1,1,4,1,20.0%,202110030dal
+Trevon Diggs,DiggTr00,defense,DAL,2,7,2,28.6%,14,7,2,0,0,12.3,3,11,0,0,0,0,0,4,0,0.0%,202110030dal
+Maurice Canady,CanaMa00,defense,DAL,0,2,2,100.0%,14,7,7,1,135.4,5,10,4,0,0,0,0,0,1,0,0.0%,202110030dal
+Malik Hooker,HookMa00,defense,DAL,0,3,2,66.7%,17,8.5,5.7,0,81.2,13,0,17,1,0,0,0,0,3,2,40.0%,202110030dal
+Jaylon Smith,SmitJa05,defense,DAL,0,1,1,100.0%,1,1,1,0,79.2,-4,-4,5,0,0,0,0,0,1,0,0.0%,202110030dal
+Nahshon Wright,WrigNa00,defense,DAL,0,1,1,100.0%,15,15,15,0,118.7,3,3,12,0,0,0,0,0,0,1,100.0%,202110030dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,2,2,4,3,0,0.0%,202110030dal
+Tarell Basham,BashTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2,0,1,3,2,0,0.0%,202110030dal
+Osa Odighizuwa,OdigOs00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0.5,3,3,0,0.0%,202110030dal
+Chauncey Golston,GolsCh00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0.5,2,5,1,16.7%,202110030dal
+Azur Kamara,KamaAz01,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202110030dal
+Brent Urban,UrbaBr00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,1,100.0%,202110030dal
+Damontae Kazee,KazeDa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202110030dal
+Quinton Bohanna,BohaQu00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202110030dal

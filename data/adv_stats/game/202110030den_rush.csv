@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Latavius Murray,MurrLa00,rushing,BAL,18,59,4,37,2.1,22,1.2,1,18,202110030den
+Lamar Jackson,JackLa00,rushing,BAL,7,28,2,25,3.6,3,0.4,0,NA,202110030den
+Le'Veon Bell,BellLe00,rushing,BAL,4,11,NA,10,2.5,1,0.3,0,NA,202110030den
+Devonta Freeman,FreeDe00,rushing,BAL,1,4,NA,4,4,0,0,0,NA,202110030den
+Melvin Gordon,GordMe00,rushing,DEN,9,56,3,30,3.3,26,2.9,4,2.3,202110030den
+Javonte Williams,WillJa10,rushing,DEN,7,48,2,8,1.1,40,5.7,4,1.8,202110030den
+Teddy Bridgewater,BridTe00,rushing,DEN,1,2,0,2,2,0,0,0,NA,202110030den

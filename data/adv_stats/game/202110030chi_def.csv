@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Bobby Price,PricBo00,defense,DET,0,8,5,62.5%,149,29.8,18.6,0,106.2,21.6,116,33,0,0,0,0,0,5,1,16.7%,202110030chi
+Amani Oruwariye,OruwAm00,defense,DET,1,5,3,60.0%,37,12.3,7.4,0,43.3,9.6,38,-1,0,0,0,0,0,6,0,0.0%,202110030chi
+Will Harris,HarrWi02,defense,DET,0,5,3,60.0%,99,33,19.8,0,104.2,26.6,76,23,0,0,0,0,0,5,1,16.7%,202110030chi
+AJ Parker,ParkAJ00,defense,DET,0,2,2,100.0%,14,7,7,0,95.8,0,0,14,1,0,0,0,0,2,2,50.0%,202110030chi
+Charles Harris,HarrCh03,defense,DET,0,1,1,100.0%,7,7,7,0,95.8,-5,-5,12,0,1,0,1,2,4,0,0.0%,202110030chi
+Dean Marlowe,MarlDe00,defense,DET,0,1,1,100.0%,28,28,28,0,118.7,20,20,8,1,1,0,0,1,1,1,50.0%,202110030chi
+Nick Williams,WillNi01,defense,DET,0,1,1,100.0%,7,7,7,0,95.8,-5,-5,12,0,0,0,0,0,2,0,0.0%,202110030chi
+Daryl Worley,WorlDa00,defense,DET,0,1,0,0.0%,NA,NA,0,NA,39.6,15,NA,NA,1,1,0,0,1,1,0,0.0%,202110030chi
+Alex Anzalone,AnzaAl00,defense,DET,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,3,0,1,0,1,6,0,0.0%,202110030chi
+Michael Brockers,BrocMi00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202110030chi
+Austin Bryant,BryaAu00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202110030chi
+Jalen Reeves-Maybin,ReevJa00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,1,33.3%,202110030chi
+Duke Shelley,ShelDu00,defense,CHI,0,10,8,80.0%,94,11.8,9.4,0,105.8,6.8,48,46,0,0,0,0,0,5,0,0.0%,202110030chi
+Deon Bush,BushDe00,defense,CHI,0,8,5,62.5%,79,15.8,9.9,0,95.3,13.4,49,30,0,0,0,0,0,9,1,10.0%,202110030chi
+Roquan Smith,SmitRo07,defense,CHI,0,5,4,80.0%,31,7.8,6.2,0,92.5,0,10,21,1,1,0,1,2,10,2,16.7%,202110030chi
+Jaylon Johnson,JohnJa13,defense,CHI,0,6,3,50.0%,57,19,9.5,0,83.3,13.3,30,27,0,0,0,0,0,1,0,0.0%,202110030chi
+Alec Ogletree,OgleAl00,defense,CHI,0,5,3,60.0%,35,11.7,7,1,120.8,7.8,13,22,0,0,0,0,0,12,0,0.0%,202110030chi
+Eddie Jackson,JackEd01,defense,CHI,0,5,3,60.0%,51,17,10.2,0,94.6,11,25,26,0,0,0,0,0,2,0,0.0%,202110030chi
+Kindle Vildor,VildKi00,defense,CHI,0,3,2,66.7%,34,17,11.3,1,144.4,14.7,27,7,0,0,0,0,0,1,1,50.0%,202110030chi
+Angelo Blackson,BlacAn00,defense,CHI,0,1,1,100.0%,2,2,2,0,79.2,-6,-6,8,0,0,1,0,1,5,1,16.7%,202110030chi
+DeAndre Houston-Carson,HousDe00,defense,CHI,0,1,1,100.0%,8,8,8,0,100,7,7,1,2,0,0,0,0,1,0,0.0%,202110030chi
+Jeremiah Attaochu,AttaJe00,defense,CHI,0,1,1,100.0%,2,2,2,0,79.2,-6,-6,8,1,0,0,0,0,0,0,NA,202110030chi
+Trevis Gipson,GipsTr00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,4,0,0.0%,202110030chi
+Robert Quinn,QuinRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,5,0,0.0%,202110030chi
+Khalil Mack,MackKh00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,1,0,0.0%,202110030chi
+Akiem Hicks,HickAk00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202110030chi

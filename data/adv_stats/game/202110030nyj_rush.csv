@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,33,157,8,77,2.3,80,2.4,2,16.5,202110030nyj
+Ryan Tannehill,TannRy00,rushing,TEN,3,9,1,8,2.7,1,0.3,0,NA,202110030nyj
+Jeremy McNichols,McNiJe00,rushing,TEN,1,11,1,11,11,0,0,0,NA,202110030nyj
+Michael Carter,CartMi03,rushing,NYJ,13,38,3,8,0.6,30,2.3,0,NA,202110030nyj
+Tevin Coleman,ColeTe01,rushing,NYJ,4,14,1,4,1,10,2.5,0,NA,202110030nyj
+Ty Johnson,JohnTy02,rushing,NYJ,3,1,0,-2,-0.7,3,1,0,NA,202110030nyj
+Zach Wilson,WilsZa00,rushing,NYJ,3,-2,0,-4,-1.3,2,0.7,0,NA,202110030nyj
+Braxton Berrios,BerrBr00,rushing,NYJ,2,15,NA,11,5.5,4,2,0,NA,202110030nyj

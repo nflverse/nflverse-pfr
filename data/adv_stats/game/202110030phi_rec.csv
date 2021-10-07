@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyreek Hill,HillTy00,receiving,KAN,12,11,186,3,9,143,13,43,3.9,13.6,2,5.5,0,0,0,158.3,202110030phi
+Travis Kelce,KelcTr00,receiving,KAN,6,4,23,0,2,6,1.5,17,4.3,2.2,0,NA,1,16.7,1,34,202110030phi
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,3,2,12,1,2,1,0.5,11,5.5,0.3,0,NA,0,0,0,113.9,202110030phi
+Mecole Hardman,HardMe00,receiving,KAN,3,2,16,0,1,-4,-2,20,10,3.7,2,1,0,0,0,79.9,202110030phi
+Byron Pringle,PrinBy00,receiving,KAN,2,2,23,0,1,19,9.5,4,2,9.5,0,NA,0,0,0,114.6,202110030phi
+Darrel Williams,WillDa10,receiving,KAN,2,2,16,0,0,-5,-2.5,21,10.5,-2.5,0,NA,0,0,0,100,202110030phi
+Joe Fortson,FortJo01,receiving,KAN,1,1,2,1,1,1,1,1,1,1,0,NA,0,0,0,118.7,202110030phi
+Noah Gray,GrayNo00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,6,0,NA,0,0,0,39.6,202110030phi
+DeVonta Smith,SmitDe07,receiving,PHI,10,7,122,0,6,84,12,38,5.4,14.4,0,NA,0,0,0,111.2,202110030phi
+Zach Ertz,ErtzZa00,receiving,PHI,8,6,60,0,2,31,5.2,29,4.8,7.4,1,6,1,12.5,0,95.8,202110030phi
+Kenneth Gainwell,GainKe00,receiving,PHI,8,6,58,0,2,17,2.8,41,6.8,2.4,0,NA,0,0,0,94.8,202110030phi
+Dallas Goedert,GoedDa00,receiving,PHI,5,5,56,1,4,30,6,26,5.2,6,0,NA,0,0,0,152.9,202110030phi
+Miles Sanders,SandMi01,receiving,PHI,3,3,34,0,2,1,0.3,33,11,0.3,3,1,0,0,0,113.9,202110030phi
+Quez Watkins,WatkQu00,receiving,PHI,7,3,33,0,2,5,1.7,28,9.3,6.7,0,NA,0,0,0,57.4,202110030phi
+Jalen Reagor,ReagJa00,receiving,PHI,1,1,9,0,0,-2,-2,11,11,-2,0,NA,0,0,0,104.2,202110030phi
+Greg Ward,WardGr02,receiving,PHI,2,1,15,1,1,15,15,0,0,9,0,NA,1,50,0,114.6,202110030phi

@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,21,100,5,38,1.8,62,3,1,21,202110030min
+Kareem Hunt,HuntKa00,rushing,CLE,14,69,4,29,2.1,40,2.9,1,14,202110030min
+Baker Mayfield,MayfBa00,rushing,CLE,2,11,1,4,2,7,3.5,1,2,202110030min
+Odell Beckham Jr.,BeckOd00,rushing,CLE,1,4,0,2,2,2,2,0,NA,202110030min
+Alexander Mattison,MattAl01,rushing,MIN,10,20,NA,5,0.5,15,1.5,1,10,202110030min
+Dalvin Cook,CookDa01,rushing,MIN,9,34,2,25,2.8,9,1,0,NA,202110030min
+Kirk Cousins,CousKi00,rushing,MIN,2,0,0,0,0,0,0,0,NA,202110030min
+C.J. Ham,HamxC.00,rushing,MIN,1,1,1,0,0,1,1,0,NA,202110030min
+K.J. Osborn,OsboKJ00,rushing,MIN,1,10,1,8,8,2,2,0,NA,202110030min

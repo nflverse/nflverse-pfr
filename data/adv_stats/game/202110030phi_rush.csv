@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,14,102,4,56,4,46,3.3,2,7,202110030phi
+Darrel Williams,WillDa10,rushing,KAN,10,42,4,21,2.1,21,2.1,0,NA,202110030phi
+Patrick Mahomes,MahoPa00,rushing,KAN,5,26,2,22,4.4,4,0.8,0,NA,202110030phi
+Mecole Hardman,HardMe00,rushing,KAN,2,25,1,24,12,1,0.5,0,NA,202110030phi
+Michael Burton,BurtMi00,rushing,KAN,1,5,1,1,1,4,4,0,NA,202110030phi
+Jalen Hurts,HurtJa00,rushing,PHI,8,47,5,23,2.9,24,3,3,2.7,202110030phi
+Miles Sanders,SandMi01,rushing,PHI,7,13,0,3,0.4,10,1.4,1,7,202110030phi
+Kenneth Gainwell,GainKe00,rushing,PHI,3,31,3,19,6.3,12,4,1,3,202110030phi
+Jalen Reagor,ReagJa00,rushing,PHI,1,12,1,6,6,6,6,1,1,202110030phi
