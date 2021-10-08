@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Jacobs,JacoJo01,rushing,LVR,13,40,1,20,1.5,20,1.5,1,13,202110040sdg
+Derek Carr,CarrDe02,rushing,LVR,3,6,1,5,1.7,1,0.3,0,NA,202110040sdg
+Peyton Barber,BarbPe01,rushing,LVR,1,0,NA,0,0,0,0,0,NA,202110040sdg
+Kenyan Drake,DrakKe00,rushing,LVR,1,2,NA,0,0,2,2,0,NA,202110040sdg
+Austin Ekeler,EkelAu00,rushing,LAC,15,117,7,70,4.7,47,3.1,3,5,202110040sdg
+Larry Rountree,RounLa00,rushing,LAC,11,31,3,14,1.3,17,1.5,0,NA,202110040sdg
+Justin Herbert,HerbJu00,rushing,LAC,3,4,0,4,1.3,0,0,0,NA,202110040sdg
+Justin Jackson,JackJu01,rushing,LAC,3,-4,0,-4,-1.3,0,0,0,NA,202110040sdg
+Jalen Guyton,GuytJa01,rushing,LAC,2,20,1,3,1.5,17,8.5,0,NA,202110040sdg

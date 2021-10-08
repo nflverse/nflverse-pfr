@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Derek Carr,CarrDe02,passing,LVR,21,34,196,8,21.1,294,8.6,132,6.3,3.9,64,3,3,9.7%,3,9.7%,4,7,5,3,12,30.0%,2,2,202110040sdg
+Justin Herbert,HerbJu00,passing,LAC,25,38,222,13,32.5,301,7.9,123,4.9,3.2,99,4,1,2.7%,8,21.6%,2,9,2,5,9,22.0%,1,6,202110040sdg
+Ty Long,LongTy00,passing,LAC,0,1,0,NA,NA,10,10,0,NA,0,0,NA,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,202110040sdg

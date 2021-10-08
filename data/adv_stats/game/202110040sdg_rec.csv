@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Hunter Renfrow,RenfHu00,receiving,LVR,8,6,45,1,2,27,4.5,18,3,5.4,0,NA,1,12.5,0,127.6,202110040sdg
+Josh Jacobs,JacoJo01,receiving,LVR,5,5,17,0,0,-5,-1,22,4.4,-1,1,5,0,0,0,80.8,202110040sdg
+Darren Waller,WallDa01,receiving,LVR,7,4,50,1,4,40,10,10,2.5,9.6,0,NA,1,14.3,1,79.5,202110040sdg
+Henry Ruggs III,RuggHe00,receiving,LVR,6,3,60,0,1,56,18.7,4,1.3,22.8,0,NA,1,16.7,0,85.4,202110040sdg
+Bryan Edwards,EdwaBr01,receiving,LVR,4,1,4,0,NA,4,4,0,0,9.5,0,NA,0,0,0,39.6,202110040sdg
+Zay Jones,JoneZa00,receiving,LVR,1,1,5,0,NA,-5,-5,10,10,-5,1,1,0,0,0,87.5,202110040sdg
+Willie Snead,SneaWi00,receiving,LVR,1,1,15,0,1,15,15,0,0,15,0,NA,0,0,0,118.7,202110040sdg
+Keenan Allen,AlleKe00,receiving,LAC,11,7,36,0,1,25,3.6,11,1.6,8.7,0,NA,1,9.1,0,68.7,202110040sdg
+Jared Cook,CookJa02,receiving,LAC,7,6,70,1,5,49,8.2,21,3.5,9.3,0,NA,0,0,0,147.9,202110040sdg
+Justin Jackson,JackJu01,receiving,LAC,4,4,17,0,1,-6,-1.5,23,5.8,-1.5,0,NA,0,0,0,84.4,202110040sdg
+Austin Ekeler,EkelAu00,receiving,LAC,5,3,28,1,2,19,6.3,9,3,4.8,0,NA,0,0,0,115,202110040sdg
+Donald Parham,ParhDo00,receiving,LAC,3,2,17,1,2,4,2,13,6.5,2.7,0,NA,0,0,0,120.8,202110040sdg
+Stephen Anderson,AndeSt01,receiving,LAC,1,1,34,0,1,12,12,22,22,12,0,NA,0,0,0,118.7,202110040sdg
+Jalen Guyton,GuytJa01,receiving,LAC,2,1,9,0,0,10,10,-1,-1,12.5,0,NA,0,0,0,62.5,202110040sdg
+Mike Williams,WillMi07,receiving,LAC,4,1,11,0,1,10,10,1,1,17.8,0,NA,0,0,0,39.6,202110040sdg
+Tevaughn Campbell,CampTe00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,202110040sdg
