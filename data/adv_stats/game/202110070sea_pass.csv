@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Matthew Stafford,StafMa00,passing,LAR,25,37,365,16,42.1,462,12.5,248,9.9,6.7,117,4.7,1,2.8%,6,16.7%,1,10,2,2,5,13.2%,0,NA,202110070sea
+Geno Smith,SmitGe00,passing,SEA,10,17,131,7,41.2,150,8.8,50,5,2.9,81,8.1,0,0.0%,5,31.3%,0,3,3,1,4,21.1%,2,9,202110070sea
+Russell Wilson,WilsRu00,passing,SEA,11,16,152,6,33.3,186,11.6,121,11,7.6,31,2.8,1,6.3%,2,12.5%,2,3,3,2,7,36.8%,1,7,202110070sea

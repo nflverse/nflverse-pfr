@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Darrell Henderson,HendDa00,rushing,LAR,17,82,5,43,2.5,39,2.3,2,8.5,202110070sea
+Sony Michel,MichSo00,rushing,LAR,11,37,3,21,1.9,16,1.5,1,11,202110070sea
+Matthew Stafford,StafMa00,rushing,LAR,1,-1,0,-1,-1,0,0,0,NA,202110070sea
+Alex Collins,CollAl00,rushing,SEA,15,47,3,42,2.8,5,0.3,0,NA,202110070sea
+DeeJay Dallas,DallDe00,rushing,SEA,4,7,1,6,1.5,1,0.3,0,NA,202110070sea
+Geno Smith,SmitGe00,rushing,SEA,3,23,0,17,5.7,6,2,2,1.5,202110070sea
+Russell Wilson,WilsRu00,rushing,SEA,2,10,1,10,5,0,0,0,NA,202110070sea
+Travis Homer,HomeTr00,rushing,SEA,1,5,0,3,3,2,2,0,NA,202110070sea
