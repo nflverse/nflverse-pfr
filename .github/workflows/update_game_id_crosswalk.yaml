@@ -1,7 +1,7 @@
 on:
-  schedule:
+  #schedule:
     # runs every Wednesday at 7:00 AM UTC in Jan, Feb, Sep-Dec
-    - cron:  '0 7 * 1,2,9-12 4'
+    #- cron:  '0 7 * 1,2,9-12 4'
   workflow_dispatch:
 
 name: Update GameId Crosswalk
