@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Jacoby Brissett,BrisJa00,passing,MIA,27,39,275,13,31,250,6.4,116,4.3,3,159,5.9,4,10.3%,6,15.4%,3,15,5,4,12,28.6%,0,NA,202110100tam
+Tom Brady,BradTo00,passing,TAM,30,41,411,24,55.8,421,10.3,186,6.2,4.5,225,7.5,0,0.0%,6,15.4%,2,10,1,4,7,15.9%,1,13,202110100tam
+Blaine Gabbert,GabbBl00,passing,TAM,3,3,41,2,66.7,28,9.3,28,9.3,9.3,13,4.3,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202110100tam

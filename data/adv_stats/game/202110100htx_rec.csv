@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Hunter Henry,HenrHu00,receiving,NWE,8,6,75,1,5,53,8.8,22,3.7,10.1,0,NA,0,0,0,143.2,202110100htx
+Brandon Bolden,BoldBr00,receiving,NWE,4,4,6,0,0,-5,-1.3,11,2.8,-1.3,1,4,0,0,0,79.2,202110100htx
+Jakobi Meyers,MeyeJa01,receiving,NWE,5,4,56,0,2,34,8.5,22,5.5,11.8,0,NA,0,0,0,113.3,202110100htx
+Nelson Agholor,AghoNe00,receiving,NWE,4,3,32,0,2,22,7.3,10,3.3,9.8,0,NA,0,0,1,58.3,202110100htx
+Kendrick Bourne,BourKe00,receiving,NWE,3,3,26,0,2,13,4.3,13,4.3,4.3,0,NA,0,0,0,102.8,202110100htx
+Jonnu Smith,SmitJo01,receiving,NWE,2,2,27,0,1,19,9.5,8,4,9.5,0,NA,0,0,0,118.7,202110100htx
+N'Keal Harry,HarrNK00,receiving,NWE,2,1,9,0,NA,8,8,1,1,10.5,0,NA,0,0,0,62.5,202110100htx
+David Johnson,JohnDa08,receiving,HOU,6,5,46,0,2,10,2,36,7.2,7.3,1,5,0,0,0,98.6,202110100htx
+Chris Moore,MoorCh00,receiving,HOU,5,5,109,1,2,36,7.2,73,14.6,7.2,0,NA,0,0,0,158.3,202110100htx
+Chris Conley,ConlCh00,receiving,HOU,4,3,84,1,2,60,20,24,8,19,0,NA,0,0,0,156.2,202110100htx
+Brandin Cooks,CookBr00,receiving,HOU,5,3,23,0,1,19,6.3,4,1.3,11.2,0,NA,0,0,0,71.2,202110100htx
+Jordan Akins,AkinJo00,receiving,HOU,2,2,17,0,1,5,2.5,12,6,2.5,0,NA,0,0,0,102.1,202110100htx
+Pharaoh Brown,BrowPh01,receiving,HOU,3,2,22,0,1,11,5.5,11,5.5,3.7,0,NA,1,33.3,0,88.2,202110100htx
+Antony Auclair,AuclAn00,receiving,HOU,1,1,11,1,1,11,11,0,0,11,0,NA,0,0,0,152.1,202110100htx

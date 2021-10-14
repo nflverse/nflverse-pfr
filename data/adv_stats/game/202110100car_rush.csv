@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Miles Sanders,SandMi01,rushing,PHI,11,45,2,27,2.5,18,1.6,0,NA,202110100car
+Jalen Hurts,HurtJa00,rushing,PHI,9,30,4,27,3,3,0.3,0,NA,202110100car
+Kenneth Gainwell,GainKe00,rushing,PHI,2,16,0,14,7,2,1,0,NA,202110100car
+Chuba Hubbard,HubbCh01,rushing,CAR,24,101,5,45,1.9,56,2.3,2,12,202110100car
+Royce Freeman,FreeRo00,rushing,CAR,3,2,NA,-1,-0.3,3,1,0,NA,202110100car
+Sam Darnold,DarnSa00,rushing,CAR,2,10,1,10,5,0,0,0,NA,202110100car
+D.J. Moore,MoorD.00,rushing,CAR,1,-4,0,-4,-4,0,0,0,NA,202110100car

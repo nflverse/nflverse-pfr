@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Derrick Henry,HenrDe00,rushing,TEN,29,130,8,79,2.7,51,1.8,4,7.3,202110100jax
+Ryan Tannehill,TannRy00,rushing,TEN,3,21,2,20,6.7,1,0.3,0,NA,202110100jax
+Cameron Batson,BatsCa00,rushing,TEN,2,15,1,11,5.5,4,2,0,NA,202110100jax
+Jeremy McNichols,McNiJe00,rushing,TEN,1,9,1,6,6,3,3,0,NA,202110100jax
+Chester Rogers,RogeCh02,rushing,TEN,1,9,0,5,5,4,4,0,NA,202110100jax
+James Robinson,RobiJa00,rushing,JAX,18,149,7,101,5.6,48,2.7,6,3,202110100jax
+Trevor Lawrence,LawrTr00,rushing,JAX,7,28,1,27,3.9,1,0.1,0,NA,202110100jax
+Carlos Hyde,HydeCa00,rushing,JAX,5,13,1,10,2,3,0.6,0,NA,202110100jax
+Jamal Agnew,AgneJa00,rushing,JAX,1,8,0,8,8,0,0,0,NA,202110100jax

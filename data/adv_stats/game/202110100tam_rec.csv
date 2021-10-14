@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Myles Gaskin,GaskMy00,receiving,MIA,10,10,74,2,3,5,0.5,69,6.9,0.5,0,NA,0,0,0,137.1,202110100tam
+Mike Gesicki,GesiMi00,receiving,MIA,7,4,43,0,2,26,6.5,17,4.3,10.1,1,4,0,0,0,75.3,202110100tam
+Preston Williams,WillPr01,receiving,MIA,5,3,60,0,2,32,10.7,28,9.3,17.6,0,NA,1,20,0,102.1,202110100tam
+Jaylen Waddle,WaddJa00,receiving,MIA,6,2,31,0,2,13,6.5,18,9,4.8,0,NA,2,33.3,1,11.8,202110100tam
+Durham Smythe,SmytDu00,receiving,MIA,3,2,23,0,1,19,9.5,4,2,6.7,0,NA,0,0,0,89.6,202110100tam
+Adam Shaheen,ShahAd00,receiving,MIA,2,2,15,0,1,10,5,5,2.5,5,1,2,0,0,0,97.9,202110100tam
+Salvon Ahmed,AhmeSa01,receiving,MIA,3,2,16,0,1,3,1.5,13,6.5,1.3,0,NA,1,33.3,0,79.9,202110100tam
+Isaiah Ford,FordIs00,receiving,MIA,1,1,3,0,NA,3,3,0,0,3,0,NA,0,0,0,79.2,202110100tam
+Mack Hollins,HollMa00,receiving,MIA,2,1,10,0,1,5,5,5,5,10,0,NA,0,0,0,64.6,202110100tam
+Chris Godwin,GodwCh00,receiving,TAM,11,7,70,0,4,10,1.4,60,8.6,9.1,1,7,0,0,0,81.6,202110100tam
+Antonio Brown,BrowAn04,receiving,TAM,8,7,124,2,7,48,6.9,76,10.9,10.5,0,NA,0,0,0,158.3,202110100tam
+Mike Evans,EvanMi00,receiving,TAM,8,6,113,2,5,100,16.7,13,2.2,20.6,0,NA,0,0,0,156.2,202110100tam
+Leonard Fournette,FourLe00,receiving,TAM,5,4,43,0,3,11,2.8,32,8,7.8,2,2,0,0,0,102.5,202110100tam
+Tyler Johnson,JohnTy00,receiving,TAM,3,3,42,0,2,27,9,15,5,9,0,NA,0,0,0,118.7,202110100tam
+O.J. Howard,HowaO.00,receiving,TAM,3,2,19,0,2,9,4.5,10,5,8.3,0,NA,0,0,0,84,202110100tam
+Giovani Bernard,BernGi00,receiving,TAM,2,2,14,1,1,0,0,14,7,0,0,NA,0,0,0,135.4,202110100tam
+Ronald Jones II,JoneRo01,receiving,TAM,1,1,15,0,1,-1,-1,16,16,-1,0,NA,0,0,0,118.7,202110100tam
+Cameron Brate,BratCa00,receiving,TAM,1,1,12,0,1,10,10,2,2,10,0,NA,0,0,0,116.7,202110100tam

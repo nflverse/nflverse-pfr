@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+David Njoku,NjokDa00,receiving,CLE,7,7,149,1,4,42,6,107,15.3,6,1,7,0,0,0,158.3,202110100sdg
+Kareem Hunt,HuntKa00,receiving,CLE,6,5,28,0,2,-4,-0.8,32,6.4,-0.5,0,NA,1,16.7,0,86.1,202110100sdg
+Donovan Peoples-Jones,PeopDo00,receiving,CLE,6,5,70,0,3,31,6.2,39,7.8,13.7,1,5,0,0,0,115.3,202110100sdg
+Rashard Higgins,HiggRa00,receiving,CLE,5,3,29,1,2,25,8.3,4,1.3,17.4,0,NA,0,0,0,115.8,202110100sdg
+Odell Beckham Jr.,BeckOd00,receiving,CLE,3,2,20,0,1,18,9,2,1,6.7,0,NA,1,33.3,0,85.4,202110100sdg
+Nick Chubb,ChubNi00,receiving,CLE,1,1,9,0,0,-2,-2,11,11,-2,0,NA,0,0,0,104.2,202110100sdg
+Anthony Schwartz,SchwAn00,receiving,CLE,1,0,0,0,NA,0,NA,0,NA,37,0,NA,0,0,0,39.6,202110100sdg
+Mike Williams,WillMi07,receiving,LAC,16,8,165,2,5,105,13.1,60,7.5,14.4,0,NA,0,0,0,126.3,202110100sdg
+Keenan Allen,AlleKe00,receiving,LAC,9,6,75,0,3,55,9.2,20,3.3,8.6,0,NA,1,11.1,0,92.4,202110100sdg
+Austin Ekeler,EkelAu00,receiving,LAC,5,5,53,1,2,-17,-3.4,70,14,-3.4,1,5,0,0,0,150.4,202110100sdg
+Jalen Guyton,GuytJa01,receiving,LAC,3,2,35,0,2,21,10.5,14,7,8.3,0,NA,0,0,0,106.2,202110100sdg
+Josh Palmer,PalmJo00,receiving,LAC,3,2,12,0,NA,12,6,0,0,8,0,NA,0,0,0,74.3,202110100sdg
+Donald Parham,ParhDo00,receiving,LAC,2,2,29,1,1,5,2.5,24,12,2.5,0,NA,0,0,0,158.3,202110100sdg
+Jared Cook,CookJa02,receiving,LAC,3,1,29,0,1,2,2,27,27,10.7,0,NA,0,0,0,70.1,202110100sdg
+Stephen Anderson,AndeSt01,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,202110100sdg

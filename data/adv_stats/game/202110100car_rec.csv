@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeVonta Smith,SmitDe07,receiving,PHI,8,7,77,0,3,56,8,21,3,8,0,NA,1,12.5,0,106.8,202110100car
+Miles Sanders,SandMi01,receiving,PHI,5,5,6,0,0,-31,-6.2,37,7.4,-6.2,0,NA,0,0,0,79.2,202110100car
+Jalen Reagor,ReagJa00,receiving,PHI,5,3,24,0,1,18,6,6,2,5.8,0,NA,1,20,0,72.1,202110100car
+Quez Watkins,WatkQu00,receiving,PHI,3,3,48,0,1,35,11.7,13,4.3,11.7,0,NA,0,0,0,118.7,202110100car
+Dallas Goedert,GoedDa00,receiving,PHI,3,2,28,0,1,18,9,10,5,7,2,1,1,33.3,0,96.5,202110100car
+Zach Ertz,ErtzZa00,receiving,PHI,6,1,7,0,1,4,4,3,3,12,0,NA,1,16.7,1,0,202110100car
+Kenneth Gainwell,GainKe00,receiving,PHI,3,1,8,0,1,3,3,5,5,8,0,NA,1,33.3,0,42.4,202110100car
+Chuba Hubbard,HubbCh01,receiving,CAR,6,5,33,0,1,2,0.4,31,6.2,1,1,5,1,16.7,0,89.6,202110100car
+D.J. Moore,MoorD.00,receiving,CAR,7,5,42,0,3,27,5.4,15,3,9.6,0,NA,0,0,2,47,202110100car
+Ian Thomas,ThomIa00,receiving,CAR,5,4,40,0,2,31,7.8,9,2.3,7.2,0,NA,0,0,0,100,202110100car
+Robby Anderson,AndeRo04,receiving,CAR,7,2,30,0,1,29,14.5,1,0.5,15.1,0,NA,1,14.3,1,5.4,202110100car
+Terrace Marshall Jr.,MarsTe00,receiving,CAR,3,2,14,0,1,4,2,10,5,6.7,0,NA,0,0,0,77.1,202110100car
+Tommy Tremble,TremTo00,receiving,CAR,4,2,12,1,1,9,4.5,3,1.5,4.3,0,NA,1,25,0,95.8,202110100car
+Royce Freeman,FreeRo00,receiving,CAR,2,1,6,0,NA,5,5,1,1,-0.5,0,NA,0,0,0,56.2,202110100car

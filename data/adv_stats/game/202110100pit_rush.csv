@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,DEN,9,34,1,21,2.3,13,1.4,0,NA,202110100pit
+Javonte Williams,WillJa10,rushing,DEN,8,61,2,40,5,21,2.6,0,NA,202110100pit
+Teddy Bridgewater,BridTe00,rushing,DEN,1,11,0,8,8,3,3,0,NA,202110100pit
+Najee Harris,HarrNa00,rushing,PIT,23,122,5,69,3,53,2.3,2,11.5,202110100pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,5,20,NA,14,2.8,6,1.2,1,5,202110100pit
+Kalen Ballage,BallKa00,rushing,PIT,4,0,NA,-2,-0.5,2,0.5,0,NA,202110100pit
+JuJu Smith-Schuster,SmitJu00,rushing,PIT,2,6,NA,5,2.5,1,0.5,0,NA,202110100pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,-1,0,-1,-1,0,0,0,NA,202110100pit

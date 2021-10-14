@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Michael Carter,CartMi03,rushing,NYJ,10,38,2,16,1.6,22,2.2,0,NA,202110100atl
+Ty Johnson,JohnTy02,rushing,NYJ,4,12,3,7,1.8,5,1.3,0,NA,202110100atl
+Tevin Coleman,ColeTe01,rushing,NYJ,3,11,1,6,2,5,1.7,0,NA,202110100atl
+Zach Wilson,WilsZa00,rushing,NYJ,1,3,0,3,3,0,0,0,NA,202110100atl
+Cordarrelle Patterson,PattCo00,rushing,ATL,14,54,1,15,1.1,39,2.8,1,14,202110100atl
+Mike Davis,DaviMi01,rushing,ATL,13,53,4,32,2.5,21,1.6,1,13,202110100atl
+Wayne Gallman,GallWa00,rushing,ATL,1,2,NA,0,0,2,2,0,NA,202110100atl
+Matt Ryan,RyanMa00,rushing,ATL,1,-1,0,-1,-1,0,0,0,NA,202110100atl

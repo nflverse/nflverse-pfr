@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Myles Gaskin,GaskMy00,rushing,MIA,5,25,2,20,4,5,1,0,NA,202110100tam
+Salvon Ahmed,AhmeSa01,rushing,MIA,2,5,0,1,0.5,4,2,1,2,202110100tam
+Jaylen Waddle,WaddJa00,rushing,MIA,1,2,0,1,1,1,1,0,NA,202110100tam
+Preston Williams,WillPr01,rushing,MIA,1,7,0,3,3,4,4,1,1,202110100tam
+Leonard Fournette,FourLe00,rushing,TAM,12,67,3,28,2.3,39,3.3,0,NA,202110100tam
+Ronald Jones II,JoneRo01,rushing,TAM,5,21,0,14,2.8,7,1.4,0,NA,202110100tam
+Giovani Bernard,BernGi00,rushing,TAM,4,21,1,9,2.3,12,3,0,NA,202110100tam
+Blaine Gabbert,GabbBl00,rushing,TAM,3,-1,0,-1,-0.3,0,0,0,NA,202110100tam
+Tom Brady,BradTo00,rushing,TAM,1,13,1,11,11,2,2,0,NA,202110100tam

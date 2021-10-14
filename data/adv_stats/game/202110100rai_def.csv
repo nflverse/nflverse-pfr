@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kindle Vildor,VildKi00,defense,CHI,0,7,5,71.4%,52,10.4,7.4,0,92.6,7.3,25,27,0,0,0,0,0,4,0,0.0%,202110100rai
+Roquan Smith,SmitRo07,defense,CHI,0,8,4,50.0%,22,5.5,2.8,0,56.2,7.3,1,21,2,0,0,0,0,10,0,0.0%,202110100rai
+Tashaun Gipson,GipsTa00,defense,CHI,0,3,2,66.7%,12,6,4,0,74.3,5.3,3,9,1,0,0,1,1,3,0,0.0%,202110100rai
+Eddie Jackson,JackEd01,defense,CHI,0,3,2,66.7%,29,14.5,9.7,0,97.9,13.7,28,1,0,0,0,0,0,4,0,0.0%,202110100rai
+Alec Ogletree,OgleAl00,defense,CHI,0,2,2,100.0%,21,10.5,10.5,0,110.4,8.5,17,4,0,0,0,0,0,6,0,0.0%,202110100rai
+Jaylon Johnson,JohnJa13,defense,CHI,0,4,2,50.0%,41,20.5,10.3,0,86.5,27.5,26,15,0,0,0,0,0,2,0,0.0%,202110100rai
+Duke Shelley,ShelDu00,defense,CHI,0,4,2,50.0%,10,5,2.5,0,56.2,8.5,3,7,0,0,0,0,0,3,1,25.0%,202110100rai
+Trevis Gipson,GipsTr00,defense,CHI,0,1,1,100.0%,9,9,9,0,104.2,3,3,6,0,0,0,1,1,2,1,33.3%,202110100rai
+Khalil Mack,MackKh00,defense,CHI,0,1,1,100.0%,3,3,3,0,79.2,-3,-3,6,1,0,0,1,1,8,0,0.0%,202110100rai
+DeAndre Houston-Carson,HousDe00,defense,CHI,1,2,1,50.0%,4,4,2,0,16.7,11.5,-5,9,0,0,0,0,0,1,0,0.0%,202110100rai
+Danny Trevathan,TrevDa00,defense,CHI,0,1,1,100.0%,5,5,5,0,87.5,-2,-2,7,1,0,0,0,0,3,1,25.0%,202110100rai
+Robert Quinn,QuinRo00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,202110100rai
+Angelo Blackson,BlacAn00,defense,CHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202110100rai
+Deon Bush,BushDe00,defense,CHI,0,2,0,0.0%,NA,NA,0,NA,39.6,9,NA,NA,0,0,0,0,0,2,0,0.0%,202110100rai
+Amik Robertson,RobeAm00,defense,LVR,0,8,5,62.5%,36,7.2,4.5,1,112.5,12.6,26,10,1,0,0,0,0,7,2,22.2%,202110100rai
+Nick Kwiatkoski,KwiaNi00,defense,LVR,0,3,3,100.0%,35,11.7,11.7,0,115.3,7.3,22,13,0,0,0,0,0,7,0,0.0%,202110100rai
+Nate Hobbs,HobbNa00,defense,LVR,0,3,2,66.7%,14,7,4.7,0,77.1,8,2,12,1,0,0,0,0,4,0,0.0%,202110100rai
+Cory Littleton,LittCo01,defense,LVR,0,1,1,100.0%,18,18,18,0,118.7,6,6,12,0,0,0,0,0,6,1,14.3%,202110100rai
+Casey Hayward,HaywCa00,defense,LVR,0,2,1,50.0%,8,8,4,0,60.4,7.5,5,3,0,0,0,0,0,3,0,0.0%,202110100rai
+Roderic Teamer,TeamRo00,defense,LVR,0,1,1,100.0%,8,8,8,0,100,8,8,0,0,0,0,0,0,3,0,0.0%,202110100rai
+Johnathan Abram,AbraJo01,defense,LVR,0,1,0,0.0%,NA,NA,0,NA,39.6,27,NA,NA,5,0,3,0,3,6,0,0.0%,202110100rai
+Yannick Ngakoue,NgakYa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,3,0,0.0%,202110100rai
+Clelin Ferrell,FerrCl00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202110100rai
+Denzel Perryman,PerrDe00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,12,0,0.0%,202110100rai
+Solomon Thomas,ThomSo00,defense,LVR,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,0,0,0,0,0,0,0,NA,202110100rai
+Trevon Moehrig,MoehTr00,defense,LVR,0,1,0,0.0%,NA,NA,0,NA,39.6,27,NA,NA,1,0,0,0,0,2,0,0.0%,202110100rai

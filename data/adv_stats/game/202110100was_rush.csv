@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,16,71,2,45,2.8,26,1.6,2,8,202110100was
+Jameis Winston,WinsJa00,rushing,NOR,6,26,3,15,2.5,11,1.8,0,NA,202110100was
+Kenny Stills,StilKe00,rushing,NOR,1,1,0,1,1,0,0,0,NA,202110100was
+Antonio Gibson,GibsAn00,rushing,WAS,20,60,6,32,1.6,28,1.4,1,20,202110100was
+Taylor Heinicke,HeinTa00,rushing,WAS,5,40,2,39,7.8,1,0.2,0,NA,202110100was
+Jaret Patterson,PattJa01,rushing,WAS,4,13,2,6,1.5,7,1.8,1,4,202110100was
+J.D. McKissic,McKiJ.00,rushing,WAS,2,-1,NA,-2,-1,1,0.5,0,NA,202110100was
+DeAndre Carter,CartDe02,rushing,WAS,1,11,1,8,8,3,3,0,NA,202110100was
+Curtis Samuel,SamuCu00,rushing,WAS,1,8,NA,7,7,1,1,0,NA,202110100was
