@@ -45,7 +45,7 @@ xwalk <- urls %>%
   )
 
 xwalk %>%
-  write_csv("data/pfr_game_id_crosswalk.csv")
+  readr::write_csv("data/pfr_game_id_crosswalk.csv")
 
 xwalk %>%
   saveRDS("data/pfr_game_id_crosswalk.rds")
