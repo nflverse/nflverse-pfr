@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Pittman Jr.,PittMi01,receiving,IND,7,6,89,1,4,40,6.7,49,8.2,6.3,0,NA,0,0,0,158.3,202110110rav
+Parris Campbell,CampPa00,receiving,IND,6,4,56,0,4,51,12.8,5,1.3,10.3,0,NA,0,0,0,96.5,202110110rav
+Mo Alie-Cox,AlieMo00,receiving,IND,4,3,50,0,2,38,12.7,12,4,11,0,NA,0,0,0,116.7,202110110rav
+Jonathan Taylor,TaylJo02,receiving,IND,4,3,116,1,3,1,0.3,115,38.3,0,1,3,1,25,0,156.2,202110110rav
+Zach Pascal,PascZa00,receiving,IND,5,3,48,0,2,20,6.7,28,9.3,5.4,0,NA,0,0,0,92.1,202110110rav
+Ashton Dulin,DuliAs00,receiving,IND,2,2,13,0,1,10,5,3,1.5,5,0,NA,0,0,0,93.7,202110110rav
+Kylen Granson,GranKy00,receiving,IND,2,2,19,0,NA,9,4.5,10,5,4.5,0,NA,0,0,0,106.2,202110110rav
+Jack Doyle,DoylJa00,receiving,IND,1,1,4,0,NA,4,4,0,0,4,0,NA,0,0,0,83.3,202110110rav
+Marlon Mack,MackMa00,receiving,IND,2,1,7,0,0,4,4,3,3,0.5,0,NA,0,0,0,58.3,202110110rav
+Nyheim Hines,HineNy00,receiving,IND,1,0,0,0,0,0,NA,0,NA,-1,0,NA,0,0,0,39.6,202110110rav
+Mark Andrews,AndrMa00,receiving,BAL,13,11,147,2,8,98,8.9,49,4.5,8.3,1,11,1,7.7,0,153.4,202110110rav
+Marquise Brown,BrowMa04,receiving,BAL,10,9,125,2,5,95,10.6,30,3.3,10,1,9,0,0,0,158.3,202110110rav
+Devin Duvernay,DuveDe00,receiving,BAL,4,4,45,0,3,26,6.5,19,4.8,6.5,0,NA,0,0,0,113.5,202110110rav
+Devonta Freeman,FreeDe00,receiving,BAL,4,3,34,0,2,2,0.7,32,10.7,5.5,1,3,0,0,0,100,202110110rav
+Latavius Murray,MurrLa00,receiving,BAL,3,2,13,0,0,1,0.5,12,6,0.7,0,NA,1,33.3,0,75.7,202110110rav
+Josh Oliver,OlivJo00,receiving,BAL,2,2,13,0,1,4,2,9,4.5,2,0,NA,0,0,0,93.7,202110110rav
+James Proche,ProcJa00,receiving,BAL,2,2,15,0,1,12,6,3,1.5,6,0,NA,0,0,0,97.9,202110110rav
+Sammy Watkins,WatkSa00,receiving,BAL,3,2,35,0,1,24,12,11,5.5,9.7,0,NA,0,0,0,106.2,202110110rav
+Ty'Son Williams,WillTy01,receiving,BAL,2,2,15,0,1,5,2.5,10,5,2.5,0,NA,0,0,0,97.9,202110110rav

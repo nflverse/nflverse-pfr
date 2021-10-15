@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jonathan Taylor,TaylJo02,rushing,IND,15,53,5,20,1.3,33,2.2,0,NA,202110110rav
+Marlon Mack,MackMa00,rushing,IND,5,47,3,31,6.2,16,3.2,0,NA,202110110rav
+Nyheim Hines,HineNy00,rushing,IND,4,18,2,5,1.3,13,3.3,2,2,202110110rav
+Carson Wentz,WentCa00,rushing,IND,2,5,0,2,1,3,1.5,0,NA,202110110rav
+Lamar Jackson,JackLa00,rushing,BAL,14,62,5,21,1.5,41,2.9,2,7,202110110rav
+Latavius Murray,MurrLa00,rushing,BAL,6,17,2,9,1.5,8,1.3,0,NA,202110110rav
+Ty'Son Williams,WillTy01,rushing,BAL,4,6,0,3,0.8,3,0.8,0,NA,202110110rav
+Devonta Freeman,FreeDe00,rushing,BAL,1,1,0,0,0,1,1,0,NA,202110110rav
