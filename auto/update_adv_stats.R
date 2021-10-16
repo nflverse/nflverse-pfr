@@ -46,8 +46,6 @@ scrape_advstats <- function(data_path = here::here("data/adv_stats/game")){
 
   purrr::pwalk(scrape_games,~{
     filename <- glue::glue("data/adv_stats/game/{..1}_{..2}.")
-
-
     readr::write_csv(..3, paste0(filename,"csv"))
     saveRDS(..3,paste0(filename,"rds"))
   })
@@ -190,13 +188,12 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
 
       filename <- glue::glue("data/adv_stats/weekly/{stat_type}_{season}.")
 
-      readr::write_csv(dataframe, paste0(filename, "csv.gz"))
+      readr::write_csv(dataframe, paste0(filename, "csv"))
       saveRDS(dataframe, paste0(filename, "rds"))
       qs::qsave(dataframe, paste0(filename, "qs"))
     })
 
   cli::cli_alert_success("Finished cleaning adv stats for {season}!")
-
 }
 
 setwd(here::here())
