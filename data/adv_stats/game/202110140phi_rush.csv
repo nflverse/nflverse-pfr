@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,TAM,22,81,6,34,1.5,47,2.1,1,22,202110140phi
+Ronald Jones II,JoneRo01,rushing,TAM,5,20,1,10,2,10,2,0,NA,202110140phi
+Tom Brady,BradTo00,rushing,TAM,4,1,1,1,0.3,0,0,0,NA,202110140phi
+Jalen Hurts,HurtJa00,rushing,PHI,10,44,3,36,3.6,8,0.8,1,10,202110140phi
+Miles Sanders,SandMi01,rushing,PHI,9,56,5,38,4.2,18,2,0,NA,202110140phi
