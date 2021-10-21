@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+D.J. Reed,ReedD.00,defense,SEA,0,10,5,50.0%,67,13.4,6.7,0,71.7,14.3,48,19,0,0,0,0,0,9,1,10.0%,202110170pit
+Bobby Wagner,WagnBo00,defense,SEA,0,4,4,100.0%,30,7.5,7.5,0,97.9,4.3,17,13,3,0,0,0,0,14,0,0.0%,202110170pit
+Jordyn Brooks,BrooJo01,defense,SEA,0,4,4,100.0%,34,8.5,8.5,0,102.1,4.5,18,16,0,0,0,0,0,14,0,0.0%,202110170pit
+Ryan Neal,NealRy00,defense,SEA,0,4,4,100.0%,29,7.3,7.3,0,96.9,5.5,22,7,0,0,0,0,0,2,1,33.3%,202110170pit
+Benson Mayowa,MayoBe00,defense,SEA,0,2,2,100.0%,17,8.5,8.5,1,141.7,0.5,1,16,1,1,0,0,1,2,0,0.0%,202110170pit
+Marquise Blair,BlaiMa01,defense,SEA,0,2,2,100.0%,21,10.5,10.5,0,110.4,2,4,17,0,0,0,0,0,2,1,33.3%,202110170pit
+Sidney Jones,JoneSi00,defense,SEA,0,3,2,66.7%,7,3.5,2.3,0,70.1,0.7,4,3,0,0,0,0,0,6,0,0.0%,202110170pit
+Tre Brown,BrowTr03,defense,SEA,0,5,2,40.0%,9,4.5,1.8,0,47.9,12.2,4,5,0,0,0,0,0,3,0,0.0%,202110170pit
+Jamal Adams,AdamJa00,defense,SEA,0,2,1,50.0%,2,2,1,0,56.2,0,0,2,7,2,0,0,2,6,1,14.3%,202110170pit
+Poona Ford,FordPo00,defense,SEA,0,1,1,100.0%,5,5,5,0,87.5,2,2,3,0,1,0,0,1,3,0,0.0%,202110170pit
+Ugo Amadi,AmadUg00,defense,SEA,0,1,1,100.0%,2,2,2,0,79.2,-2,-2,4,0,0,0,0,0,0,0,NA,202110170pit
+Rasheem Green,GreeRa01,defense,SEA,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,0,0,0,0,0,2,0,0.0%,202110170pit
+Darrell Taylor,TaylDa00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,2,4,0,0.0%,202110170pit
+Carlos Dunlap,DunlCa99,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,0,0,NA,202110170pit
+Al Woods,WoodAl99,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202110170pit
+Kerry Hyder,HydeKe01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202110170pit
+Quandre Diggs,DiggQu00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202110170pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,6,5,83.3%,39,7.8,6.5,1,133.3,1.7,10,29,0,0,0,0,0,3,3,50.0%,202110170pit
+Devin Bush Jr.,BushDe01,defense,PIT,0,5,4,80.0%,31,7.8,6.2,0,92.5,1.2,9,22,3,0,0,0,0,6,1,14.3%,202110170pit
+Cameron Sutton,SuttCa00,defense,PIT,0,6,4,66.7%,65,16.3,10.8,0,102.8,5.7,28,37,0,0,0,0,0,3,2,40.0%,202110170pit
+Tre Norwood,NorwTr00,defense,PIT,0,4,3,75.0%,13,4.3,3.3,0,78.1,2.3,7,6,0,0,0,0,0,3,0,0.0%,202110170pit
+Arthur Maulet,MaulAr00,defense,PIT,0,2,2,100.0%,25,12.5,12.5,0,118.7,7,14,11,2,0,0,0,0,3,0,0.0%,202110170pit
+Joe Haden,HadeJo99,defense,PIT,0,4,2,50.0%,23,11.5,5.8,0,67.7,3.5,11,12,0,0,0,0,0,3,3,50.0%,202110170pit
+Alex Highsmith,HighAl02,defense,PIT,0,1,1,100.0%,-1,-1,-1,0,79.2,-5,-5,4,8,0,2,1.5,4,7,0,0.0%,202110170pit
+Cameron Heyward,HeywCa01,defense,PIT,0,1,1,100.0%,7,7,7,0,95.8,-4,-4,11,0,1,0,1,2,9,0,0.0%,202110170pit
+Minkah Fitzpatrick,FitzMi00,defense,PIT,0,1,1,100.0%,7,7,7,0,95.8,6,6,1,1,0,0,0,0,9,3,25.0%,202110170pit
+T.J. Watt,WattT.00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,2,3,7,1,12.5%,202110170pit
+Chris Wormley,WormCh00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,5,0,0.0%,202110170pit
+Melvin Ingram,IngrMe00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,0,0,NA,202110170pit
+Robert Spillane,SpilRo00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,202110170pit
+Joe Schobert,SchoJo00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,2,1,33.3%,202110170pit
+James Pierre,PierJa01,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,20,NA,NA,0,0,0,0,0,4,0,0.0%,202110170pit

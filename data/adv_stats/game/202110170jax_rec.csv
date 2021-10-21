@@ -1,0 +1,23 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Jaylen Waddle,WaddJa00,receiving,MIA,13,10,70,2,6,33,3.3,37,3.7,8.5,0,NA,0,0,1,96.2,202110170jax
+Mike Gesicki,GesiMi00,receiving,MIA,9,8,115,0,5,80,10,35,4.4,9.8,0,NA,0,0,0,118.7,202110170jax
+Durham Smythe,SmytDu00,receiving,MIA,6,5,59,0,2,49,9.8,10,2,12.3,0,NA,0,0,0,107.6,202110170jax
+Mack Hollins,HollMa00,receiving,MIA,5,4,61,0,3,56,14,5,1.3,17.8,0,NA,0,0,0,117.5,202110170jax
+Albert Wilson,WilsAl02,receiving,MIA,2,2,14,0,1,8,4,6,3,4,0,NA,0,0,0,95.8,202110170jax
+Myles Gaskin,GaskMy00,receiving,MIA,6,2,5,0,NA,5,2.5,0,0,1.8,0,NA,1,16.7,0,42.4,202110170jax
+Cethan Carter,CartCe00,receiving,MIA,1,1,8,0,NA,1,1,7,7,1,0,NA,0,0,0,100,202110170jax
+Malcolm Brown,BrowMa03,receiving,MIA,1,1,7,0,0,3,3,4,4,3,0,NA,0,0,0,95.8,202110170jax
+Salvon Ahmed,AhmeSa01,receiving,MIA,2,1,15,0,1,9,9,6,6,6.5,0,NA,1,50,0,75,202110170jax
+Isaiah Ford,FordIs00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,6,0,NA,0,0,0,39.6,202110170jax
+Hunter Long,LongHu00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,2,0,NA,0,0,0,39.6,202110170jax
+Marvin Jones,JoneMa02,receiving,JAX,10,7,100,1,5,89,12.7,11,1.6,12.9,0,NA,0,0,0,135.4,202110170jax
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,10,6,54,0,3,24,4,30,5,4.9,0,NA,1,10,0,74.6,202110170jax
+Jamal Agnew,AgneJa00,receiving,JAX,6,5,78,0,3,37,7.4,41,8.2,8.5,0,NA,0,0,0,118.7,202110170jax
+James Robinson,RobiJa00,receiving,JAX,4,3,28,0,1,4,1.3,24,8,1.5,0,NA,0,0,0,93.7,202110170jax
+Dan Arnold,ArnoDa00,receiving,JAX,5,2,27,0,2,10,5,17,8.5,4,0,NA,1,20,0,57.9,202110170jax
+Luke Farrell,FarrLu00,receiving,JAX,1,1,21,0,1,13,13,8,8,13,0,NA,0,0,0,118.7,202110170jax
+Chris Manhertz,ManhCh00,receiving,JAX,1,1,11,0,1,11,11,0,0,11,0,NA,0,0,0,112.5,202110170jax
+Jacob Hollister,HollJa03,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,-5,0,NA,0,0,0,39.6,202110170jax
+Tavon Austin,AustTa00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,202110170jax
+Carlos Hyde,HydeCa00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,202110170jax
+Laquon Treadwell,TreaLa00,receiving,JAX,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,202110170jax

@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Terrance Mitchell,MitcTe00,defense,HOU,0,4,3,75.0%,31,10.3,7.8,0,96.9,6.5,13,18,0,0,0,0,0,3,0,0.0%,202110170clt
+Kamu Grugier-Hill,GrugKa00,defense,HOU,0,5,2,40.0%,19,9.5,3.8,0,51.2,2,0,19,2,0,0,0,0,7,2,22.2%,202110170clt
+Terrence Brooks,BrooTe00,defense,HOU,0,2,2,100.0%,68,34,34,1,158.3,31.5,63,5,0,0,0,0,0,1,0,0.0%,202110170clt
+Lonnie Johnson Jr.,JohnLo01,defense,HOU,0,2,2,100.0%,80,40,40,1,158.3,36.5,73,7,0,0,0,0,0,5,0,0.0%,202110170clt
+Tavierre Thomas,ThomTa01,defense,HOU,0,2,1,50.0%,7,7,3.5,0,58.3,3,4,3,1,1,0,0,1,6,0,0.0%,202110170clt
+Justin Reid,ReidJu00,defense,HOU,0,3,1,33.3%,18,18,6,0,54.9,9,18,0,0,0,0,0,0,1,1,50.0%,202110170clt
+Jonathan Greenard,GreeJo04,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,2,4,6,0,0.0%,202110170clt
+DeMarcus Walker,WalkDe03,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,1,25.0%,202110170clt
+Maliek Collins,CollMa00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202110170clt
+Roy Lopez,LopeRo00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202110170clt
+Jacob Martin,MartJa02,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,1,100.0%,202110170clt
+Zach Cunningham,CunnZa00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,28,NA,NA,0,0,0,0,0,4,0,0.0%,202110170clt
+Kenny Moore,MoorKe03,defense,IND,0,12,10,83.3%,80,8,6.7,0,94.4,7.2,41,39,3,0,0,0,0,10,0,0.0%,202110170clt
+Xavier Rhodes,RhodXa00,defense,IND,0,5,4,80.0%,39,9.8,7.8,0,99.2,9.2,31,8,0,0,0,0,0,5,0,0.0%,202110170clt
+Darius Leonard,LeonDa00,defense,IND,1,5,3,60.0%,22,7.3,4.4,0,30.8,3.8,4,18,4,0,1,0,1,7,0,0.0%,202110170clt
+Bobby Okereke,OkerBo00,defense,IND,0,4,3,75.0%,34,11.3,8.5,0,100,2.5,8,26,4,0,1,0,1,14,1,6.7%,202110170clt
+Rock Ya-Sin,Ya-SRo00,defense,IND,0,5,3,60.0%,27,9,5.4,0,74.6,7.4,23,4,0,0,0,0,0,4,0,0.0%,202110170clt
+Isaiah Rodgers,RodgIs00,defense,IND,1,6,3,50.0%,16,5.3,2.7,0,16.7,8.8,8,8,0,0,0,0,0,2,0,0.0%,202110170clt
+Khari Willis,WillKh00,defense,IND,0,3,2,66.7%,20,10,6.7,0,85.4,11,20,0,4,0,0,1,1,9,0,0.0%,202110170clt
+Zaire Franklin,FranZa00,defense,IND,0,1,1,100.0%,5,5,5,0,87.5,-5,-5,10,0,0,0,0,0,2,1,33.3%,202110170clt
+DeForest Buckner,BuckDe00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,5,0,0.0%,202110170clt
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,4,1,20.0%,202110170clt
+Kwity Paye,PayeKw00,defense,IND,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,1,0,0,1,1,0,0.0%,202110170clt
+Taylor Stallworth,StalTa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202110170clt
+Julian Blackmon,BlacJu01,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,5,1,16.7%,202110170clt
+E.J. Speed,SpeeEJ00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202110170clt

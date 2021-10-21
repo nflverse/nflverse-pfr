@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Patrick Mahomes,MahoPa00,passing,KAN,32,47,397,21,42,350,7.4,230,7.2,4.9,167,5.2,3,6.5%,9,19.6%,3,9,1,6,10,18.9%,3,10.3,202110170was
+Taylor Heinicke,HeinTa00,passing,WAS,24,39,182,8,20.5,275,7.1,49,2,1.3,133,5.5,2,5.1%,8,20.5%,0,13,2,7,9,23.1%,0,NA,202110170was

@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Davante Adams,AdamDa01,receiving,GNB,5,4,89,0,3,40,10,49,12.3,14.2,0,NA,0,0,0,118.7,202110170chi
+Aaron Jones,JoneAa00,receiving,GNB,4,4,34,1,3,-8,-2,42,10.5,-2,1,4,0,0,0,141.7,202110170chi
+Allen Lazard,LazaAl00,receiving,GNB,5,3,27,1,3,17,5.7,10,3.3,12.4,0,NA,0,0,0,114.2,202110170chi
+Marcedes Lewis,LewiMa00,receiving,GNB,2,2,17,0,NA,5,2.5,12,6,2.5,0,NA,0,0,0,102.1,202110170chi
+Robert Tonyan,TonyRo00,receiving,GNB,3,2,10,0,NA,9,4.5,1,0.5,10.7,0,NA,0,0,0,71.5,202110170chi
+Josiah Deguara,DeguJo00,receiving,GNB,1,1,4,0,NA,3,3,1,1,3,0,NA,0,0,0,83.3,202110170chi
+Amari Rodgers,RodgAm00,receiving,GNB,1,1,14,0,1,1,1,13,13,1,0,NA,0,0,0,118.7,202110170chi
+Darnell Mooney,MoonDa00,receiving,CHI,8,5,45,1,3,39,7.8,6,1.2,8.8,0,NA,1,12.5,0,117.2,202110170chi
+Cole Kmet,KmetCo00,receiving,CHI,5,4,49,0,3,30,7.5,19,4.8,6.8,0,NA,0,0,0,107.5,202110170chi
+Allen Robinson,RobiAl02,receiving,CHI,7,4,53,0,2,51,12.8,2,0.5,23,0,NA,0,0,1,41.7,202110170chi
+Khalil Herbert,HerbKh00,receiving,CHI,3,2,15,0,1,-6,-3,21,10.5,-3.7,0,NA,0,0,0,78.5,202110170chi
+Marquise Goodwin,GoodMa00,receiving,CHI,1,1,12,0,1,10,10,2,2,10,0,NA,0,0,0,116.7,202110170chi
+Damiere Byrd,ByrdDa00,receiving,CHI,1,0,0,0,NA,0,NA,0,NA,0,0,NA,1,100,0,39.6,202110170chi

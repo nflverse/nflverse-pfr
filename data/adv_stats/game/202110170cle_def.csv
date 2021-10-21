@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Marco Wilson,WilsMa04,defense,ARI,0,8,7,87.5%,124,17.7,15.5,1,158.3,14.9,107,17,0,0,0,0,0,5,0,0.0%,202110170cle
+Byron Murphy,MurpBy00,defense,ARI,0,9,5,55.6%,71,14.2,7.9,0,81.2,8.1,53,18,1,0,0,0,0,6,0,0.0%,202110170cle
+Isaiah Simmons,SimmIs00,defense,ARI,0,4,3,75.0%,17,5.7,4.3,0,82.3,2.5,7,10,3,0,0,0,0,6,1,14.3%,202110170cle
+Robert Alford,AlfoRo00,defense,ARI,1,6,2,33.3%,17,8.5,2.8,1,42.4,6.3,7,10,0,0,0,0,0,1,2,66.7%,202110170cle
+Zaven Collins,CollZa00,defense,ARI,0,2,2,100.0%,8,4,4,0,83.3,-4.5,-9,17,0,0,0,0,0,3,0,0.0%,202110170cle
+Jordan Hicks,HickJo00,defense,ARI,0,2,1,50.0%,3,3,1.5,0,56.2,2.5,2,1,5,0,0,2,2,6,1,14.3%,202110170cle
+Markus Golden,GoldMa00,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,6,0,2,8,5,1,16.7%,202110170cle
+J.J. Watt,WattJ.00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,5,0,0.0%,202110170cle
+Dennis Gardeck,GardDe01,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,1,1,50.0%,202110170cle
+Jordan Phillips,PhilJo01,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202110170cle
+Devon Kennard,KennDe00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202110170cle
+Leki Fotu,FotuLe00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202110170cle
+Budda Baker,BakeBu00,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202110170cle
+Greedy Williams,WillGr00,defense,CLE,0,6,5,83.3%,79,15.8,13.2,1,158.3,13.2,61,18,1,0,0,0,0,5,0,0.0%,202110170cle
+Anthony Walker,WalkAn01,defense,CLE,0,3,3,100.0%,4,1.3,1.3,0,79.2,-2.7,-8,12,1,0,0,0,0,9,1,10.0%,202110170cle
+Denzel Ward,WardDe02,defense,CLE,0,4,3,75.0%,17,5.7,4.3,0,82.3,4.8,8,9,0,0,0,0,0,4,0,0.0%,202110170cle
+Troy Hill,HillTr01,defense,CLE,0,3,2,66.7%,41,20.5,13.7,1,149.3,14.7,39,2,5,1,0,0,1,7,0,0.0%,202110170cle
+John Johnson,JohnJo10,defense,CLE,0,5,2,40.0%,18,9,3.6,0,50.4,13.4,3,15,1,0,0,0,0,5,0,0.0%,202110170cle
+Ronnie Harrison,HarrRo02,defense,CLE,0,2,2,100.0%,9,4.5,4.5,1,125,4,8,1,1,0,0,0,0,4,1,20.0%,202110170cle
+Grant Delpit,DelpGr00,defense,CLE,0,2,2,100.0%,28,14,14,1,158.3,8,16,12,1,0,0,0,0,2,2,50.0%,202110170cle
+Greg Newsome II,NewsGr00,defense,CLE,0,1,1,100.0%,33,33,33,0,118.7,26,26,7,0,0,0,0,0,1,0,0.0%,202110170cle
+Myles Garrett,GarrMy00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,1,4,3,0,0.0%,202110170cle
+Jadeveon Clowney,ClowJa00,defense,CLE,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,1,1,1,3,4,0,0.0%,202110170cle
+Jordan Elliott,ElliJo02,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202110170cle
+Takkarist McKinley,McKiTa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202110170cle
+Malik McDowell,McDoMa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202110170cle
+Malik Jackson,JackMa02,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202110170cle
+Jeremiah Owusu-Koramoah,OwusJe00,defense,CLE,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,4,0,0,0,0,8,3,27.3%,202110170cle

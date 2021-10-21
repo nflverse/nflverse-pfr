@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Aaron Jones,JoneAa00,rushing,GNB,13,76,3,50,3.8,26,2,0,NA,202110170chi
+AJ Dillon,DillAJ00,rushing,GNB,11,59,4,17,1.5,42,3.8,2,5.5,202110170chi
+Aaron Rodgers,RodgAa00,rushing,GNB,7,19,3,19,2.7,0,0,0,NA,202110170chi
+Khalil Herbert,HerbKh00,rushing,CHI,19,97,7,58,3.1,39,2.1,1,19,202110170chi
+Justin Fields,FielJu00,rushing,CHI,6,43,3,19,3.2,24,4,0,NA,202110170chi
+Cole Kmet,KmetCo00,rushing,CHI,1,0,0,0,0,0,0,0,NA,202110170chi

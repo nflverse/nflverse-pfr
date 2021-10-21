@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alex Collins,CollAl00,rushing,SEA,20,101,5,52,2.6,49,2.5,1,20,202110170pit
+DeeJay Dallas,DallDe00,rushing,SEA,4,17,2,6,1.5,11,2.8,0,NA,202110170pit
+Travis Homer,HomeTr00,rushing,SEA,2,27,1,12,6,15,7.5,0,NA,202110170pit
+Geno Smith,SmitGe00,rushing,SEA,1,-1,0,-1,-1,0,0,0,NA,202110170pit
+Najee Harris,HarrNa00,rushing,PIT,24,81,3,38,1.6,43,1.8,0,NA,202110170pit
+Kalen Ballage,BallKa00,rushing,PIT,2,15,1,0,0,15,7.5,0,NA,202110170pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,2,-3,0,-3,-1.5,0,0,0,NA,202110170pit
+Eric Ebron,EbroEr00,rushing,PIT,1,1,1,1,1,0,0,0,NA,202110170pit
+Diontae Johnson,JohnDi01,rushing,PIT,1,25,1,15,15,10,10,0,NA,202110170pit

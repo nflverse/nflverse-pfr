@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,29,140,8,69,2.4,71,2.4,2,14.5,202110170car
+Alexander Mattison,MattAl01,rushing,MIN,3,10,NA,3,1,7,2.3,1,3,202110170car
+Kirk Cousins,CousKi00,rushing,MIN,2,16,1,16,8,0,0,0,NA,202110170car
+C.J. Ham,HamxC.00,rushing,MIN,1,30,1,22,22,8,8,0,NA,202110170car
+Adam Thielen,ThieAd00,rushing,MIN,1,2,0,0,0,2,2,0,NA,202110170car
+Chuba Hubbard,HubbCh01,rushing,CAR,16,61,5,23,1.4,38,2.4,0,NA,202110170car
+Sam Darnold,DarnSa00,rushing,CAR,4,48,3,48,12,0,0,0,NA,202110170car
+Royce Freeman,FreeRo00,rushing,CAR,1,3,NA,2,2,1,1,0,NA,202110170car
+D.J. Moore,MoorD.00,rushing,CAR,1,6,0,4,4,2,2,0,NA,202110170car
+Tommy Tremble,TremTo00,rushing,CAR,1,0,NA,0,0,0,0,0,NA,202110170car

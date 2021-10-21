@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Austin Ekeler,EkelAu00,rushing,LAC,6,7,0,2,0.3,5,0.8,0,NA,202110170rav
+Joshua Kelley,KellJo01,rushing,LAC,4,7,1,1,0.3,6,1.5,0,NA,202110170rav
+Justin Herbert,HerbJu00,rushing,LAC,2,12,2,1,0.5,11,5.5,0,NA,202110170rav
+Devonta Freeman,FreeDe00,rushing,BAL,9,53,3,31,3.4,22,2.4,0,NA,202110170rav
+Latavius Murray,MurrLa00,rushing,BAL,9,44,4,29,3.2,15,1.7,2,4.5,202110170rav
+Le'Veon Bell,BellLe00,rushing,BAL,8,18,1,13,1.6,5,0.6,0,NA,202110170rav
+Lamar Jackson,JackLa00,rushing,BAL,8,51,4,25,3.1,26,3.3,2,4,202110170rav
+Tyler Huntley,HuntTy01,rushing,BAL,3,10,1,7,2.3,3,1,0,NA,202110170rav
+Devin Duvernay,DuveDe00,rushing,BAL,1,11,1,7,7,4,4,0,NA,202110170rav

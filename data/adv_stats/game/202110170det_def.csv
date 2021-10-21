@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Mike Hilton,HiltMi01,defense,CIN,0,6,5,83.3%,34,6.8,5.7,0,90.3,6.3,20,14,3,0,0,0,0,3,0,0.0%,202110170det
+Chidobe Awuzie,AwuzCh00,defense,CIN,0,6,4,66.7%,22,5.5,3.7,0,72.9,9.2,12,10,0,0,0,0,0,5,1,16.7%,202110170det
+Akeem Davis-Gaither,DaviAk01,defense,CIN,0,7,4,57.1%,30,7.5,4.3,0,67.6,7.7,21,9,1,0,0,0,0,5,0,0.0%,202110170det
+Logan Wilson,WilsLo00,defense,CIN,1,5,3,60.0%,12,4,2.4,0,25,7,7,5,1,0,0,0,0,6,0,0.0%,202110170det
+Joe Bachie,BachJo01,defense,CIN,0,3,3,100.0%,18,6,6,0,91.7,5.3,16,2,1,0,0,0,0,5,0,0.0%,202110170det
+Jessie Bates III,BateJe00,defense,CIN,0,2,2,100.0%,9,4.5,4.5,0,85.4,4.5,9,0,1,1,0,0,1,3,0,0.0%,202110170det
+Eli Apple,ApplEl00,defense,CIN,0,3,2,66.7%,17,8.5,5.7,0,81.2,1.7,3,14,1,0,0,0,0,1,0,0.0%,202110170det
+Vonn Bell,BellVo00,defense,CIN,0,3,2,66.7%,43,21.5,14.3,0,109.7,11,28,15,2,0,0,0,0,7,0,0.0%,202110170det
+Trey Hendrickson,HendTr00,defense,CIN,0,1,1,100.0%,0,0,0,0,79.2,-2,-2,2,0,2,1,1,4,2,1,33.3%,202110170det
+Ricardo Allen,AlleRi00,defense,CIN,0,2,1,50.0%,14,14,7,0,72.9,6,3,11,0,0,0,0,0,1,1,50.0%,202110170det
+Markus Bailey,BailMa01,defense,CIN,0,1,1,100.0%,3,3,3,0,79.2,-4,-4,7,0,0,0,0,0,1,0,0.0%,202110170det
+Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,202110170det
+Wyatt Ray,RayxWy01,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202110170det
+Jerry Jacobs,JacoJe00,defense,DET,0,7,5,71.4%,102,20.4,14.6,0,113.7,13.9,78,24,0,0,0,0,0,6,0,0.0%,202110170det
+Jalen Reeves-Maybin,ReevJa00,defense,DET,0,4,4,100.0%,48,12,12,1,156.2,6.3,25,23,0,0,0,0,0,7,2,22.2%,202110170det
+Trey Flowers,FlowTr00,defense,DET,0,3,3,100.0%,51,17,17,2,158.3,0.7,2,49,0,1,1,0,2,3,1,25.0%,202110170det
+AJ Parker,ParkAJ00,defense,DET,0,4,2,50.0%,17,8.5,4.3,0,61.5,4,3,14,3,1,0,0,1,5,1,16.7%,202110170det
+Amani Oruwariye,OruwAm00,defense,DET,1,3,2,66.7%,37,18.5,12.3,0,69.4,11.7,24,13,0,0,0,0,0,2,2,50.0%,202110170det
+Julian Okwara,OkwaJu00,defense,DET,0,1,1,100.0%,9,9,9,0,104.2,4,4,5,0,0,1,1,2,3,0,0.0%,202110170det
+C.J. Moore,MoorCJ01,defense,DET,0,1,1,100.0%,1,1,1,0,79.2,-2,-2,3,0,0,0,0,0,1,0,0.0%,202110170det
+Dean Marlowe,MarlDe00,defense,DET,0,1,1,100.0%,2,2,2,1,118.7,2,2,0,2,0,0,0,0,0,0,NA,202110170det
+Alex Anzalone,AnzaAl00,defense,DET,0,2,1,50.0%,11,11,5.5,0,66.7,5.5,1,10,3,0,0,0,0,7,3,30.0%,202110170det
+Derrick Barnes,BarnDe02,defense,DET,0,2,1,50.0%,NA,NA,0,NA,56.2,8.5,NA,NA,0,0,0,0,0,9,0,0.0%,202110170det
+Austin Bryant,BryaAu00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,2,0,0.0%,202110170det
+Alim McNeill,McNeAl00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202110170det
+Tracy Walker,WalkTr01,defense,DET,0,1,0,0.0%,NA,NA,0,NA,39.6,18,NA,NA,3,0,0,0,0,4,0,0.0%,202110170det
