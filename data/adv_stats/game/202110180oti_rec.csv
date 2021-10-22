@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Stefon Diggs,DiggSt00,receiving,BUF,11,9,89,1,8,74,8.2,15,1.7,8.5,1,9,0,0,0,130.7,202110180oti
+Cole Beasley,BeasCo00,receiving,BUF,9,7,88,1,4,55,7.9,33,4.7,6.7,0,NA,1,11.1,0,144.4,202110180oti
+Devin Singletary,SingDe00,receiving,BUF,5,5,16,0,1,-4,-0.8,20,4,-0.8,1,5,0,0,0,80,202110180oti
+Emmanuel Sanders,SandEm00,receiving,BUF,8,5,91,0,4,82,16.4,9,1.8,22.1,0,NA,0,0,0,101.6,202110180oti
+Dawson Knox,KnoxDa00,receiving,BUF,3,3,25,0,2,4,1.3,21,7,1.3,1,3,0,0,0,101.4,202110180oti
+Gabriel Davis,DaviGa01,receiving,BUF,2,2,25,0,1,13,6.5,12,6,6.5,0,NA,0,0,0,118.7,202110180oti
+Zack Moss,MossZa00,receiving,BUF,4,2,15,0,1,4,2,11,5.5,2.8,0,NA,1,25,1,19.8,202110180oti
+Tommy Sweeney,SweeTo00,receiving,BUF,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202110180oti
+Isaiah McKenzie,McKeIs00,receiving,BUF,1,1,3,0,NA,0,0,3,3,0,0,NA,0,0,0,79.2,202110180oti
+Jake Kumerow,KumeJa00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,30,0,NA,0,0,0,39.6,202110180oti
+A.J. Brown,BrowAJ00,receiving,TEN,9,7,91,0,4,66,9.4,25,3.6,9.6,0,NA,0,0,0,108.8,202110180oti
+Julio Jones,JoneJu02,receiving,TEN,5,3,59,0,1,56,18.7,3,1,16.8,0,NA,0,0,1,61.7,202110180oti
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,3,3,27,0,2,16,5.3,11,3.7,5.3,0,NA,0,0,0,104.2,202110180oti
+Derrick Henry,HenrDe00,receiving,TEN,3,2,13,0,0,-11,-5.5,24,12,-4,0,NA,0,0,0,75.7,202110180oti
+Chester Rogers,RogeCh02,receiving,TEN,1,1,7,0,NA,-2,-2,9,9,-2,0,NA,0,0,0,95.8,202110180oti
+Geoff Swaim,SwaiGe00,receiving,TEN,2,1,8,0,1,5,5,3,3,2.5,0,NA,0,0,0,60.4,202110180oti
+Anthony Firkser,FirkAn00,receiving,TEN,1,1,11,0,1,2,2,9,9,2,0,NA,0,0,0,112.5,202110180oti
+Marcus Johnson,JohnMa07,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,12,0,NA,0,0,0,39.6,202110180oti
