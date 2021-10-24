@@ -1,5 +1,5 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
-Jalen Ramsey,RamsJa00,defense,LAR,0,9,5,55.6%,61,12.2,6.8,1,113.7,13.1,51,10,0,0,0,0,0,4,1,20.0%,202110070sea
+Jalen Ramsey,RamsJa00,defense,LAR,0,10,6,60.0%,75,12.5,7.5,1,116.7,11.4,47,28,0,0,0,0,0,4,1,20.0%,202110070sea
 Nick Scott,ScotNi01,defense,LAR,1,4,3,75.0%,32,10.7,8,0,58.3,3.5,-5,37,0,0,0,0,0,5,0,0.0%,202110070sea
 Robert Rochell,RochRo00,defense,LAR,0,4,3,75.0%,36,12,9,1,141.7,12.5,36,0,0,0,0,0,0,2,0,0.0%,202110070sea
 Kenny Young,YounKe03,defense,LAR,0,3,2,66.7%,50,25,16.7,0,109.7,14,31,19,0,1,0,0,1,4,0,0.0%,202110070sea
@@ -10,18 +10,18 @@ Taylor Rapp,RappTa00,defense,LAR,0,1,1,100.0%,25,25,25,0,118.7,24,24,1,1,0,0,0,0
 Aaron Donald,DonaAa00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,1,4,7,0,0.0%,202110070sea
 Leonard Floyd,FloyLe00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,2,5,0,0.0%,202110070sea
 Greg Gaines,GainGr00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,2,0,0.0%,202110070sea
-Terrell Lewis,LewiTe00,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,-5,NA,NA,0,1,0,1,2,3,1,25.0%,202110070sea
+Terrell Lewis,LewiTe00,defense,LAR,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,1,0,1,2,3,1,25.0%,202110070sea
 Sebastian Joseph,JoseSe00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,8,0,0.0%,202110070sea
 Michael Hoecht,HoecMi00,defense,LAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202110070sea
 D.J. Reed,ReedD.00,defense,SEA,0,8,4,50.0%,53,13.3,6.6,0,71.4,16.1,47,6,0,0,0,0,0,6,0,0.0%,202110070sea
 Jamal Adams,AdamJa00,defense,SEA,0,4,4,100.0%,110,27.5,27.5,1,158.3,18,72,38,0,0,0,0,0,5,0,0.0%,202110070sea
-Bobby Wagner,WagnBo00,defense,SEA,0,4,4,100.0%,42,10.5,10.5,0,110.4,4.5,18,24,2,0,0,0,0,4,2,33.3%,202110070sea
+Bobby Wagner,WagnBo00,defense,SEA,0,5,4,80.0%,42,10.5,8.4,0,101.7,7.6,18,24,2,0,0,0,0,4,2,33.3%,202110070sea
 Jordyn Brooks,BrooJo01,defense,SEA,0,4,4,100.0%,88,22,22,0,118.7,14.3,57,31,6,0,0,0,0,11,0,0.0%,202110070sea
-Sidney Jones,JoneSi00,defense,SEA,0,5,4,80.0%,36,9,7.2,0,96.7,7.2,20,16,0,0,0,0,0,6,0,0.0%,202110070sea
-Ugo Amadi,AmadUg00,defense,SEA,0,4,3,75.0%,18,6,4.5,0,83.3,10.8,18,0,0,0,0,0,0,2,0,0.0%,202110070sea
+Sidney Jones,JoneSi00,defense,SEA,0,6,4,66.7%,36,9,6,0,82.6,6,20,16,0,0,0,0,0,6,0,0.0%,202110070sea
+Ugo Amadi,AmadUg00,defense,SEA,0,4,3,75.0%,18,6,4.5,0,83.3,10.5,18,0,0,0,0,0,0,2,0,0.0%,202110070sea
 Darrell Taylor,TaylDa00,defense,SEA,0,1,1,100.0%,1,1,1,0,79.2,-1,-1,2,0,0,1,1,2,1,1,50.0%,202110070sea
 Quandre Diggs,DiggQu00,defense,SEA,1,2,1,50.0%,17,17,8.5,0,39.6,12.5,17,0,0,0,0,0,0,5,1,16.7%,202110070sea
 Poona Ford,FordPo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,0,0.0%,202110070sea
 L.J. Collier,CollLJ00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202110070sea
-Marquise Blair,BlaiMa01,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,31,NA,NA,0,0,0,0,0,2,0,0.0%,202110070sea
+Marquise Blair,BlaiMa01,defense,SEA,0,2,0,0.0%,NA,NA,0,NA,39.6,27,NA,NA,0,0,0,0,0,2,0,0.0%,202110070sea
 Kerry Hyder,HydeKe01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202110070sea

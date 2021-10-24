@@ -1,4 +1,4 @@
 player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
-Tom Brady,BradTo00,passing,TAM,22,43,269,12,27.3,448,10.4,155,7,3.6,114,5.2,5,12.2%,13,31.7%,1,6,3,2,6,13.3%,1,6,202110030nwe
-Mac Jones,JoneMa05,passing,NWE,31,40,275,15,34.1,185,4.6,115,3.7,2.9,160,5.2,1,2.6%,1,2.6%,4,20,2,7,13,29.5%,0,NA,202110030nwe
+Tom Brady,BradTo00,passing,TAM,22,43,269,12,27.3,459,10.7,160,7.3,3.7,109,5,5,12.2%,13,31.7%,1,6,3,2,6,13.3%,1,6,202110030nwe
+Mac Jones,JoneMa05,passing,NWE,31,40,275,15,34.1,206,5.2,138,4.5,3.5,137,4.4,1,2.6%,1,2.6%,4,20,2,7,13,29.5%,0,NA,202110030nwe
 Jakobi Meyers,MeyeJa01,passing,NWE,2,2,45,1,50,11,5.5,11,5.5,5.5,34,17,0,0.0%,0,0.0%,0,0,0,1,1,50.0%,0,NA,202110030nwe

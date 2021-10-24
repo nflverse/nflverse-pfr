@@ -1,9 +1,9 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Paulson Adebo,AdebPa00,defense,NOR,0,12,9,75.0%,90,10,7.5,1,123.6,10.8,58,32,0,0,0,0,0,7,1,12.5%,202109190car
 P.J. Williams,WillP.00,defense,NOR,0,5,5,100.0%,48,9.6,9.6,0,106.7,3.4,17,31,2,0,1,0,1,3,2,40.0%,202109190car
-Zack Baun,BaunZa00,defense,NOR,0,8,4,50.0%,68,17,8.5,0,79.2,5.1,21,47,4,0,0,0,0,7,1,12.5%,202109190car
+Zack Baun,BaunZa00,defense,NOR,0,8,5,62.5%,68,13.6,8.5,0,89.6,5.1,21,47,4,0,0,0,0,7,1,12.5%,202109190car
 Malcolm Jenkins,JenkMa99,defense,NOR,0,4,3,75.0%,30,10,7.5,0,95.8,2.8,15,15,6,1,0,0,1,6,2,25.0%,202109190car
-Bradley Roby,RobyBr00,defense,NOR,0,2,1,50.0%,11,11,5.5,0,66.7,10,4,7,3,0,0,1,1,2,1,33.3%,202109190car
+Bradley Roby,RobyBr00,defense,NOR,0,2,1,50.0%,11,11,5.5,0,66.7,10,4,7,2,0,0,1,1,2,1,33.3%,202109190car
 Demario Davis,DaviDe00,defense,NOR,0,1,1,100.0%,8,8,8,0,100,4,4,4,3,0,0,0,0,12,1,7.7%,202109190car
 Marcus Williams,WillMa06,defense,NOR,0,2,1,50.0%,20,20,10,1,125,12.5,13,7,1,0,0,0,0,8,0,0.0%,202109190car
 Kaden Elliss,ElliKa00,defense,NOR,0,1,1,100.0%,19,19,19,0,118.7,7,7,12,1,0,0,0,0,1,0,0.0%,202109190car
@@ -12,9 +12,9 @@ Payton Turner,TurnPa02,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,1,5,5,
 Cameron Jordan,JordCa00,defense,NOR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,7,0,0.0%,202109190car
 Juston Burris,BurrJu00,defense,CAR,1,6,5,83.3%,72,14.4,12,0,77.1,13.2,48,24,2,0,0,0,0,5,0,0.0%,202109190car
 Jeremy Chinn,ChinJe00,defense,CAR,0,2,2,100.0%,12,6,6,0,91.7,2,4,8,6,0,1,0,1,3,1,25.0%,202109190car
+Rashaan Melvin,MelvRa00,defense,CAR,0,6,2,33.3%,30,15,5,0,50.7,12.3,17,13,0,0,0,0,0,2,1,33.3%,202109190car
 Donte Jackson,JackDo02,defense,CAR,0,3,2,66.7%,16,8,5.3,0,79.9,2,11,5,0,0,0,0,0,3,2,40.0%,202109190car
 Brian Burns,BurnBr00,defense,CAR,0,1,1,100.0%,4,4,4,0,83.3,4,4,0,1,2,1,1,4,4,0,0.0%,202109190car
-Rashaan Melvin,MelvRa00,defense,CAR,0,5,1,20.0%,23,23,4.6,0,46.2,15.4,20,3,0,0,0,0,0,2,1,33.3%,202109190car
 Jermaine Carter Jr.,CartJe00,defense,CAR,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,0,0,0,0,0,1,0,0.0%,202109190car
 Morgan Fox,FoxxMo00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,0.5,5,2,0,0.0%,202109190car
 Haason Reddick,ReddHa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,1.5,2,3,0,0.0%,202109190car

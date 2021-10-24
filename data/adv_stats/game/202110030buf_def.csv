@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Desmond King,KingDe01,defense,HOU,0,7,6,85.7%,101,16.8,14.4,1,158.3,15,86,15,0,0,0,0,0,9,1,10.0%,202110030buf
-Terrance Mitchell,MitcTe00,defense,HOU,0,7,4,57.1%,23,5.8,3.3,0,63.4,6.3,16,7,0,0,0,0,0,5,1,16.7%,202110030buf
+Terrance Mitchell,MitcTe00,defense,HOU,0,8,4,50.0%,23,5.8,2.9,0,56.2,6.6,16,7,0,0,0,0,0,6,1,14.3%,202110030buf
 Lonnie Johnson Jr.,JohnLo01,defense,HOU,1,6,4,66.7%,84,21,14,1,109.7,13,69,15,0,0,0,0,0,8,0,0.0%,202110030buf
 Christian Kirksey,KirkCh00,defense,HOU,0,3,2,66.7%,10,5,3.3,0,71.5,4.3,3,7,3,0,1,0,1,7,0,0.0%,202110030buf
 Tavierre Thomas,ThomTa01,defense,HOU,0,2,2,100.0%,14,7,7,0,95.8,-1,-2,16,2,0,0,0,0,7,0,0.0%,202110030buf
@@ -19,7 +19,7 @@ Tre'Davious White,WhitTr01,defense,BUF,0,2,2,100.0%,11,5.5,5.5,0,89.6,2.5,5,6,0,
 A.J. Klein,KleiAJ00,defense,BUF,0,1,1,100.0%,8,8,8,0,100,5,5,3,2,0,0,0,0,1,0,0.0%,202110030buf
 Jaquan Johnson,JohnJa11,defense,BUF,1,1,1,100.0%,12,12,12,0,77.1,12,12,0,0,0,0,0,0,3,0,0.0%,202110030buf
 Micah Hyde,HydeMi00,defense,BUF,1,1,1,100.0%,NA,NA,0,NA,39.6,18,NA,NA,1,0,0,0,0,1,0,0.0%,202110030buf
-Cameron Lewis,LewiCa00,defense,BUF,0,4,1,25.0%,4,4,1,0,39.6,0.8,4,0,1,0,0,0,0,5,1,16.7%,202110030buf
+Cameron Lewis,LewiCa00,defense,BUF,0,4,1,25.0%,4,4,1,0,39.6,1,5,-1,1,0,0,0,0,4,1,20.0%,202110030buf
 Gregory Rousseau,RousGr00,defense,BUF,0,1,1,100.0%,7,7,7,0,95.8,-2,-2,9,0,0,0,0,0,2,0,0.0%,202110030buf
 A.J. Epenesa,EpenAJ00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,202110030buf
 Carlos Basham,BashCa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202110030buf

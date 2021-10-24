@@ -1,5 +1,5 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
-Janoris Jenkins,JenkJa03,defense,TEN,0,8,5,62.5%,110,22,13.8,0,106.2,15.3,95,15,0,0,0,0,0,3,0,0.0%,202110030nyj
+Janoris Jenkins,JenkJa03,defense,TEN,0,8,5,62.5%,110,22,13.8,0,106.2,15.3,95,15,0,0,0,0,0,2,0,0.0%,202110030nyj
 David Long,LongDa04,defense,TEN,0,6,5,83.3%,37,7.4,6.2,0,92.4,1.5,1,36,3,0,0,0,0,3,4,57.1%,202110030nyj
 Kristian Fulton,FultKr00,defense,TEN,1,7,4,57.1%,73,18.3,10.4,1,93.2,11.7,50,23,0,0,0,0,0,3,1,25.0%,202110030nyj
 Harold Landry,LandHa00,defense,TEN,0,3,3,100.0%,0,0,0,0,79.2,-2.7,-8,8,7,2,0,1,3,7,0,0.0%,202110030nyj
@@ -19,7 +19,7 @@ Bryce Hall,HallBr02,defense,NYJ,0,9,3,33.3%,39,13,4.3,0,47.9,19.1,22,17,4,0,1,0.
 Brandin Echols,EchoBr00,defense,NYJ,0,4,3,75.0%,30,10,7.5,0,95.8,8.8,16,14,0,0,0,0,0,2,1,33.3%,202110030nyj
 Quinnen Williams,WillQu00,defense,NYJ,0,1,1,100.0%,27,27,27,0,118.7,-5,-5,32,0,0,0,2,2,7,1,12.5%,202110030nyj
 Ashtyn Davis,DaviAs00,defense,NYJ,0,1,1,100.0%,12,12,12,0,116.7,9,9,3,0,0,0,0,0,3,1,25.0%,202110030nyj
-Jarrod Wilson,WilsJa00,defense,NYJ,0,3,1,33.3%,14,14,4.7,0,49.3,-13,-6,20,2,0,0,0,0,2,0,0.0%,202110030nyj
+Jarrod Wilson,WilsJa00,defense,NYJ,0,3,1,33.3%,14,14,4.7,0,49.3,11.7,-6,20,2,0,0,0,0,2,0,0.0%,202110030nyj
 Shaq Lawson,LawsSh00,defense,NYJ,0,1,1,100.0%,0,0,0,0,79.2,-8,-8,8,0,0,0,0,0,0,0,NA,202110030nyj
 John Franklin-Myers,FranJo02,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,1,4,4,0,0.0%,202110030nyj
 Bryce Huff,HuffBr00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1.5,3,2,0,0.0%,202110030nyj

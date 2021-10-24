@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
 Tyler Boyd,BoydTy00,receiving,CIN,9,7,73,0,5,44,6.3,29,4.1,4.4,0,NA,0,0,2,60.9,202109190chi
-Tee Higgins,HiggTe00,receiving,CIN,10,6,60,1,3,41,6.8,19,3.2,9.1,0,NA,0,0,1,70.8,202109190chi
+Tee Higgins,HiggTe00,receiving,CIN,10,6,60,1,3,41,6.8,19,3.2,9.7,0,NA,0,0,1,70.8,202109190chi
 Ja'Marr Chase,ChasJa00,receiving,CIN,4,2,54,1,2,40,20,14,7,20.5,0,NA,1,25,0,135.4,202109190chi
 C.J. Uzomah,UzomC.00,receiving,CIN,2,2,4,0,NA,-1,-0.5,5,2.5,-0.5,1,2,0,0,0,79.2,202109190chi
 Chris Evans,EvanCh02,receiving,CIN,1,1,14,0,NA,4,4,10,10,4,0,NA,0,0,0,118.7,202109190chi

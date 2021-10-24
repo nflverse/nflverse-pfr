@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
 Tyreek Hill,HillTy00,receiving,KAN,12,11,186,3,9,143,13,43,3.9,13.6,2,5.5,0,0,0,158.3,202110030phi
-Travis Kelce,KelcTr00,receiving,KAN,6,4,23,0,2,6,1.5,17,4.3,2.2,0,NA,1,16.7,1,34,202110030phi
+Travis Kelce,KelcTr00,receiving,KAN,6,4,23,0,2,6,1.5,17,4.3,3.8,0,NA,1,16.7,1,34,202110030phi
 Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,3,2,12,1,2,1,0.5,11,5.5,0.3,0,NA,0,0,0,113.9,202110030phi
 Mecole Hardman,HardMe00,receiving,KAN,3,2,16,0,1,-4,-2,20,10,3.7,2,1,0,0,0,79.9,202110030phi
 Byron Pringle,PrinBy00,receiving,KAN,2,2,23,0,1,19,9.5,4,2,9.5,0,NA,0,0,0,114.6,202110030phi

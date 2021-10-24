@@ -1,3 +1,3 @@
 player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
 Baker Mayfield,MayfBa00,passing,CLE,23,32,305,12,36.4,330,10.3,110,4.8,3.4,195,8.5,2,6.7%,5,16.7%,1,9,5,0,6,17.1%,2,4,202110100sdg
-Justin Herbert,HerbJu00,passing,LAC,26,43,398,14,31.1,410,9.5,183,7,4.3,215,8.3,1,2.4%,10,23.8%,2,6,6,6,14,29.2%,3,10,202110100sdg
+Justin Herbert,HerbJu00,passing,LAC,26,43,398,14,31.1,403,9.4,176,6.8,4.1,222,8.5,1,2.4%,10,23.8%,2,6,6,6,14,29.2%,3,10,202110100sdg

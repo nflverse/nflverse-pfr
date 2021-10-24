@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
-Eli Apple,ApplEl00,defense,CIN,0,17,9,52.9%,58,6.4,3.4,0,60.4,8.5,22,36,0,0,0,0,0,7,3,30.0%,202109260pit
-Logan Wilson,WilsLo00,defense,CIN,2,8,8,100.0%,77,9.6,9.6,0,67.2,3.8,30,47,3,1,0,0,1,14,1,6.7%,202109260pit
+Eli Apple,ApplEl00,defense,CIN,0,18,10,55.6%,66,6.6,3.7,0,63.7,8.3,27,39,0,0,0,0,0,8,3,27.3%,202109260pit
+Logan Wilson,WilsLo00,defense,CIN,2,9,8,88.9%,77,9.6,8.6,0,62.7,3.4,30,47,3,1,0,0,1,14,1,6.7%,202109260pit
 Akeem Davis-Gaither,DaviAk01,defense,CIN,0,6,5,83.3%,24,4.8,4,0,83.3,0.2,-6,30,2,0,0,0,0,7,1,12.5%,202109260pit
 Mike Hilton,HiltMi01,defense,CIN,0,6,4,66.7%,35,8.8,5.8,0,81.9,3.3,18,17,3,0,0,0,0,5,1,16.7%,202109260pit
 Darius Phillips,PhilDa02,defense,CIN,0,3,3,100.0%,41,13.7,13.7,0,118.7,10,30,11,0,0,0,0,0,5,0,0.0%,202109260pit
@@ -8,7 +8,7 @@ Vonn Bell,BellVo00,defense,CIN,0,6,3,50.0%,42,14,7,0,72.9,11.7,34,8,0,0,0,0,0,4,
 Chidobe Awuzie,AwuzCh00,defense,CIN,0,3,2,66.7%,5,2.5,1.7,0,70.1,0,-3,8,0,0,0,0,0,1,0,0.0%,202109260pit
 Germaine Pratt,PratGe00,defense,CIN,0,5,2,40.0%,7,3.5,1.4,1,87.5,3.6,2,5,0,0,0,0,0,7,1,12.5%,202109260pit
 Sam Hubbard,HubbSa00,defense,CIN,0,1,1,100.0%,3,3,3,0,79.2,0,0,3,1,1,2,1,4,6,1,14.3%,202109260pit
-Jessie Bates III,BateJe00,defense,CIN,0,1,1,100.0%,18,18,18,0,118.7,-5,-5,23,1,0,0,0,0,8,0,0.0%,202109260pit
+Jessie Bates III,BateJe00,defense,CIN,0,1,1,100.0%,18,18,18,0,118.7,-5,-5,23,1,0,0,0,0,9,0,0.0%,202109260pit
 Trey Hendrickson,HendTr00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,4,2,0,0.0%,202109260pit
 B.J. Hill,HillB.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202109260pit
 D.J. Reader,ReadD.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202109260pit

@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
-Robert Woods,WoodRo02,receiving,LAR,14,12,150,0,8,103,8.6,47,3.9,9.6,0,NA,0,0,0,111.3,202110070sea
-Cooper Kupp,KuppCo00,receiving,LAR,10,7,92,0,4,80,11.4,12,1.7,12.5,0,NA,0,0,0,98.7,202110070sea
+Robert Woods,WoodRo02,receiving,LAR,14,12,150,0,8,103,8.6,47,3.9,10.1,0,NA,0,0,0,111.3,202110070sea
+Cooper Kupp,KuppCo00,receiving,LAR,10,7,92,0,4,80,11.4,12,1.7,12.4,0,NA,0,0,0,98.7,202110070sea
 Tyler Higbee,HigbTy00,receiving,LAR,2,2,14,1,1,12,6,2,1,6,1,2,0,0,0,135.4,202110070sea
 Darrell Henderson,HendDa00,receiving,LAR,1,1,17,0,1,-5,-5,22,22,-5,0,NA,0,0,0,118.7,202110070sea
 DeSean Jackson,JackDe00,receiving,LAR,3,1,68,0,1,40,40,28,28,28.7,0,NA,0,0,0,81.9,202110070sea
@@ -13,5 +13,5 @@ DeeJay Dallas,DallDe00,receiving,SEA,2,2,32,0,1,20,10,12,6,10,1,2,0,0,0,118.7,20
 Will Dissly,DissWi00,receiving,SEA,4,2,29,0,1,17,8.5,12,6,7.5,0,NA,1,25,0,74,202110070sea
 Penny Hart,HartPe01,receiving,SEA,2,2,19,0,1,1,0.5,18,9,0.5,0,NA,0,0,0,106.2,202110070sea
 Travis Homer,HomeTr00,receiving,SEA,1,1,13,0,1,3,3,10,10,3,1,1,0,0,0,118.7,202110070sea
-Colby Parkinson,ParkCo02,receiving,SEA,2,1,1,0,NA,-2,-2,3,3,-3.5,0,NA,0,0,0,56.2,202110070sea
+Colby Parkinson,ParkCo02,receiving,SEA,2,1,1,0,NA,-2,-2,3,3,-1,0,NA,0,0,0,56.2,202110070sea
 Freddie Swain,SwaiFr00,receiving,SEA,3,1,9,0,NA,9,9,0,0,15.3,0,NA,0,0,0,42.4,202110070sea

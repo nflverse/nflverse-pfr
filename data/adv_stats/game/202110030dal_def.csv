@@ -1,7 +1,7 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Shaq Thompson,ThomSh01,defense,CAR,0,3,3,100.0%,22,7.3,7.3,0,97.2,2.3,7,15,2,0,0,0,0,5,4,44.4%,202110030dal
 Jeremy Chinn,ChinJe00,defense,CAR,0,3,3,100.0%,47,15.7,15.7,3,158.3,8,24,23,3,0,0,0,0,6,3,33.3%,202110030dal
-Rashaan Melvin,MelvRa00,defense,CAR,0,4,3,75.0%,52,17.3,13,0,116.7,3.8,18,34,0,0,0,0,0,2,0,0.0%,202110030dal
+Rashaan Melvin,MelvRa00,defense,CAR,0,4,3,75.0%,52,17.3,13,0,116.7,5.3,18,34,0,0,0,0,0,2,0,0.0%,202110030dal
 Donte Jackson,JackDo02,defense,CAR,0,5,2,40.0%,13,6.5,2.6,0,47.9,9.8,4,9,0,0,0,0,0,1,0,0.0%,202110030dal
 Sam Franklin,FranSa00,defense,CAR,0,2,1,50.0%,7,7,3.5,0,58.3,3.5,6,1,1,0,1,0,1,3,1,25.0%,202110030dal
 Brian Burns,BurnBr00,defense,CAR,0,1,1,100.0%,12,12,12,0,116.7,4,4,8,6,1,0,0,1,4,1,20.0%,202110030dal
