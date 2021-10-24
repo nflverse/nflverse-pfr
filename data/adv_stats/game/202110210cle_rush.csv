@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,DEN,8,18,1,6,0.8,12,1.5,0,NA,202110210cle
+Javonte Williams,WillJa10,rushing,DEN,4,20,0,8,2,12,3,0,NA,202110210cle
+Teddy Bridgewater,BridTe00,rushing,DEN,2,3,2,0,0,3,1.5,0,NA,202110210cle
+D'Ernest Johnson,JohnDE04,rushing,CLE,22,146,7,63,2.9,83,3.8,1,22,202110210cle
+Case Keenum,KeenCa00,rushing,CLE,4,7,2,1,0.3,6,1.5,0,NA,202110210cle
+Demetric Felton,FeltDe00,rushing,CLE,2,13,0,6,3,7,3.5,0,NA,202110210cle
+John Kelly,KellJo00,rushing,CLE,2,13,1,7,3.5,6,3,0,NA,202110210cle
+Johnny Stanton,StanJo02,rushing,CLE,2,5,2,2,1,3,1.5,0,NA,202110210cle
+Anthony Schwartz,SchwAn00,rushing,CLE,1,-2,0,-2,-2,0,0,0,NA,202110210cle

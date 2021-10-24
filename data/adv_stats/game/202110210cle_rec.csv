@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Javonte Williams,WillJa10,receiving,DEN,7,6,32,1,2,-21,-3.5,53,8.8,-3,0,NA,1,14.3,0,125.3,202110210cle
+Courtland Sutton,SuttCo00,receiving,DEN,5,5,68,0,4,61,12.2,7,1.4,12.2,0,NA,0,0,0,118.7,202110210cle
+Noah Fant,FantNo00,receiving,DEN,7,5,39,0,1,14,2.8,25,5,3.1,0,NA,0,0,0,84.8,202110210cle
+Tim Patrick,PatrTi00,receiving,DEN,5,2,16,0,1,16,8,0,0,12.2,0,NA,0,0,0,48.7,202110210cle
+Melvin Gordon,GordMe00,receiving,DEN,3,2,14,1,1,4,2,10,5,1.3,0,NA,0,0,0,116.7,202110210cle
+Kendall Hinton,HintKe00,receiving,DEN,2,2,15,0,2,9,4.5,6,3,4.5,0,NA,0,0,0,97.9,202110210cle
+Eric Saubert,SaubEr00,receiving,DEN,1,1,3,0,NA,2,2,1,1,2,0,NA,0,0,0,79.2,202110210cle
+John Brown,BrowJo02,receiving,DEN,1,0,0,0,NA,0,NA,0,NA,31,0,NA,0,0,1,0,202110210cle
+Tyrie Cleveland,ClevTy00,receiving,DEN,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202110210cle
+Jarvis Landry,LandJa00,receiving,CLE,8,5,37,0,3,23,4.6,14,2.8,6.9,0,NA,0,0,0,73.4,202110210cle
+Demetric Felton,FeltDe00,receiving,CLE,3,3,21,0,1,-8,-2.7,29,9.7,-2.7,0,NA,0,0,0,95.8,202110210cle
+Austin Hooper,HoopAu00,receiving,CLE,3,2,42,0,1,3,1.5,39,19.5,1,1,2,0,0,0,109.7,202110210cle
+D'Ernest Johnson,JohnDE04,receiving,CLE,2,2,22,0,1,-2,-1,24,12,-1,1,2,0,0,0,112.5,202110210cle
+David Njoku,NjokDa00,receiving,CLE,2,2,18,0,1,0,0,18,9,0,0,NA,0,0,0,104.2,202110210cle
+Anthony Schwartz,SchwAn00,receiving,CLE,3,2,22,0,1,21,10.5,1,0.5,23,0,NA,0,0,0,88.2,202110210cle
+Odell Beckham Jr.,BeckOd00,receiving,CLE,6,2,23,0,1,23,11.5,0,0,13.5,0,NA,1,16.7,0,45.8,202110210cle
+Rashard Higgins,HiggRa00,receiving,CLE,2,1,-2,0,NA,-2,-2,0,0,5,0,NA,0,0,0,56.2,202110210cle
+Johnny Stanton,StanJo02,receiving,CLE,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202110210cle
+Harrison Bryant,BryaHa00,receiving,CLE,2,1,15,0,1,13,13,2,2,6.5,0,NA,1,50,0,75,202110210cle
