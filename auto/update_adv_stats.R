@@ -200,4 +200,4 @@ setwd(here::here())
 
 scrape_result <- scrape_advstats("data/adv_stats/game")
 
-if(scrape_result) clean_advstats()
+clean_advstats()
