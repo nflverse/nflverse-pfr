@@ -125,7 +125,8 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
                     ~ as.character(.x) %>%
                       readr::parse_number() %>%
                       magrittr::divide_by(100) %>%
-                      round(3))
+                      round(3)),
+      team = nflreadr::clean_team_abbrs(team, current_location = FALSE)
     ) %>%
     dplyr::inner_join(
       x = schedules,
@@ -150,7 +151,8 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
                     ~ as.character(.x) %>%
                       readr::parse_number() %>%
                       magrittr::divide_by(100) %>%
-                      round(3))
+                      round(3)),
+      team = nflreadr::clean_team_abbrs(team, current_location = FALSE)
     ) %>%
     dplyr::inner_join(
       x = schedules,
@@ -173,7 +175,8 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
                     ~ as.character(.x) %>%
                       readr::parse_number() %>%
                       magrittr::divide_by(100) %>%
-                      round(3))
+                      round(3)),
+      team = nflreadr::clean_team_abbrs(team, current_location = FALSE)
     ) %>%
     dplyr::inner_join(
       x = schedules,
