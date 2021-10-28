@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+D'Andre Swift,SwifDA00,receiving,DET,10,8,96,1,3,-12,-1.5,108,13.5,-0.8,0,NA,1,10,1,100.4,202110240ram
+T.J. Hockenson,HockTJ00,receiving,DET,9,6,48,0,2,32,5.3,16,2.7,6.3,0,NA,0,0,1,40.3,202110240ram
+Kalif Raymond,RaymKa00,receiving,DET,8,6,115,0,5,60,10,55,9.2,8,0,NA,1,12.5,0,116.7,202110240ram
+Darren Fells,FellDa01,receiving,DET,1,1,6,0,NA,2,2,4,4,2,0,NA,0,0,0,91.7,202110240ram
+KhaDarel Hodge,HodgKh00,receiving,DET,1,1,3,0,NA,-1,-1,4,4,-1,0,NA,0,0,0,79.2,202110240ram
+Bobby Price,PricBo00,receiving,DET,1,1,17,0,1,9,9,8,8,9,0,NA,0,0,0,118.7,202110240ram
+Geronimo Allison,AlliGe01,receiving,DET,2,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,202110240ram
+Cooper Kupp,KuppCo00,receiving,LAR,13,10,156,2,8,100,10,56,5.6,10.5,0,NA,1,7.7,0,155.8,202110240ram
+Robert Woods,WoodRo02,receiving,LAR,6,6,70,0,4,35,5.8,35,5.8,5.8,0,NA,0,0,0,115.3,202110240ram
+Tyler Higbee,HigbTy00,receiving,LAR,8,5,46,0,2,24,4.8,22,4.4,4.6,0,NA,0,0,0,78.1,202110240ram
+Van Jefferson,JeffVa00,receiving,LAR,7,4,43,1,2,36,9,7,1.8,15.3,0,NA,0,0,0,114.9,202110240ram
+Darrell Henderson,HendDa00,receiving,LAR,6,3,19,0,1,0,0,19,6.3,4.8,0,NA,0,0,0,56.9,202110240ram
+DeSean Jackson,JackDe00,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,39,0,NA,0,0,0,39.6,202110240ram

@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeVonta Smith,SmitDe07,receiving,PHI,9,5,61,0,4,53,10.6,8,1.6,12,1,5,0,0,0,76.6,202110240rai
+Kenneth Gainwell,GainKe00,receiving,PHI,8,4,41,1,2,10,2.5,31,7.8,1.8,0,NA,2,25,0,104.7,202110240rai
+Dallas Goedert,GoedDa00,receiving,PHI,5,3,70,0,3,59,19.7,11,3.7,19.8,0,NA,0,0,0,104.2,202110240rai
+Jalen Reagor,ReagJa00,receiving,PHI,2,2,25,1,1,20,10,5,2.5,10,0,NA,0,0,0,158.3,202110240rai
+Quez Watkins,WatkQu00,receiving,PHI,4,2,37,0,2,27,13.5,10,5,23.5,0,NA,0,0,0,82.3,202110240rai
+Miles Sanders,SandMi01,receiving,PHI,1,1,-3,0,0,-5,-5,2,2,-5,0,NA,0,0,0,79.2,202110240rai
+Boston Scott,ScotBo02,receiving,PHI,2,1,5,0,0,2,2,3,3,2.5,0,NA,0,0,0,56.2,202110240rai
+Hunter Renfrow,RenfHu00,receiving,LVR,8,7,58,0,3,27,3.9,31,4.4,4,0,NA,0,0,0,96.9,202110240rai
+Foster Moreau,MoreFo00,receiving,LVR,6,6,60,1,4,37,6.2,23,3.8,6.2,0,NA,0,0,0,147.9,202110240rai
+Henry Ruggs III,RuggHe00,receiving,LVR,4,4,24,0,2,19,4.8,5,1.3,4.8,0,NA,0,0,0,91.7,202110240rai
+Kenyan Drake,DrakKe00,receiving,LVR,3,3,10,0,0,-4,-1.3,14,4.7,-1.3,0,NA,0,0,0,80.6,202110240rai
+Bryan Edwards,EdwaBr01,receiving,LVR,4,3,43,1,3,32,10.7,11,3.7,9.8,0,NA,0,0,0,149,202110240rai
+Josh Jacobs,JacoJo01,receiving,LVR,3,3,39,0,2,-4,-1.3,43,14.3,-1.3,1,3,0,0,0,118.7,202110240rai
+Jalen Richard,RichJa01,receiving,LVR,4,3,17,0,NA,7,2.3,10,3.3,2.8,0,NA,0,0,1,42.7,202110240rai
+Alec Ingold,IngoAl01,receiving,LVR,1,1,29,0,1,20,20,9,9,20,1,1,0,0,0,118.7,202110240rai
+Zay Jones,JoneZa00,receiving,LVR,1,1,43,0,1,43,43,0,0,43,0,NA,0,0,0,118.7,202110240rai

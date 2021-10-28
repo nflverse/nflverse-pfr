@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Khalil Herbert,HerbKh00,rushing,CHI,18,100,5,49,2.7,51,2.8,2,9,202110240tam
+Justin Fields,FielJu00,rushing,CHI,8,38,1,26,3.3,12,1.5,0,NA,202110240tam
+Damien Williams,WillDa05,rushing,CHI,3,5,NA,3,1,2,0.7,0,NA,202110240tam
+Leonard Fournette,FourLe00,rushing,TAM,15,81,7,41,2.7,40,2.7,3,5,202110240tam
+Ronald Jones II,JoneRo01,rushing,TAM,10,63,3,45,4.5,18,1.8,1,10,202110240tam
+Ke'Shawn Vaughn,VaugKe00,rushing,TAM,5,27,1,13,2.6,14,2.8,2,2.5,202110240tam
+Jaelon Darden,DardJa00,rushing,TAM,1,11,1,10,10,1,1,0,NA,202110240tam

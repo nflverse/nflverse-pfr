@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Johnson,JohnDa08,rushing,HOU,7,25,0,21,3,4,0.6,1,7,202110240crd
+Mark Ingram,IngrMa01,rushing,HOU,6,9,0,8,1.3,1,0.2,0,NA,202110240crd
+Phillip Lindsay,LindPh00,rushing,HOU,2,8,NA,8,4,0,0,0,NA,202110240crd
+Chase Edmonds,EdmoCh00,rushing,ARI,15,81,4,51,3.4,30,2,2,7.5,202110240crd
+James Conner,ConnJa00,rushing,ARI,10,64,2,40,4,24,2.4,2,5,202110240crd
+Kyler Murray,MurrKy00,rushing,ARI,6,10,0,10,1.7,0,0,0,NA,202110240crd
+Eno Benjamin,BenjEn00,rushing,ARI,2,7,NA,6,3,1,0.5,0,NA,202110240crd
+Colt McCoy,McCoCo00,rushing,ARI,2,-1,NA,-1,-0.5,0,0,0,NA,202110240crd
+Zach Ertz,ErtzZa00,rushing,ARI,1,4,0,4,4,0,0,0,NA,202110240crd
+Jonathan Ward,WardJo00,rushing,ARI,1,7,1,7,7,0,0,0,NA,202110240crd

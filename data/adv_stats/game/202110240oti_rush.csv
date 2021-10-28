@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Patrick Mahomes,MahoPa00,rushing,KAN,6,35,1,34,5.7,1,0.2,0,NA,202110240oti
+Darrel Williams,WillDa10,rushing,KAN,5,20,2,9,1.8,11,2.2,0,NA,202110240oti
+Chad Henne,HennCh01,rushing,KAN,1,4,0,4,4,0,0,0,NA,202110240oti
+Tyreek Hill,HillTy00,rushing,KAN,1,18,1,18,18,0,0,0,NA,202110240oti
+Derrick Henry,HenrDe00,rushing,TEN,29,86,6,28,1,58,2,1,29,202110240oti
+Darrynton Evans,EvanDa02,rushing,TEN,2,7,0,2,1,5,2.5,0,NA,202110240oti
+Ryan Tannehill,TannRy00,rushing,TEN,2,6,2,3,1.5,3,1.5,0,NA,202110240oti
+Marcus Johnson,JohnMa07,rushing,TEN,1,5,1,1,1,4,4,0,NA,202110240oti
+Logan Woodside,WoodLo00,rushing,TEN,1,-1,NA,-1,-1,0,0,0,NA,202110240oti

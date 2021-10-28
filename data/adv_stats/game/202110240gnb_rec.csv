@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Terry McLaurin,McLaTe00,receiving,WAS,12,7,122,1,5,72,10.3,50,7.1,11.9,1,7,0,0,0,120.8,202110240gnb
+Ricky Seals-Jones,SealRi00,receiving,WAS,7,6,51,0,4,26,4.3,25,4.2,4.1,0,NA,0,0,0,97,202110240gnb
+J.D. McKissic,McKiJ.00,receiving,WAS,6,4,34,0,2,-4,-1,38,9.5,0.2,0,NA,0,0,0,81.2,202110240gnb
+Adam Humphries,HumpAd00,receiving,WAS,4,3,36,0,3,32,10.7,4,1.3,11,0,NA,0,0,1,62.5,202110240gnb
+Antonio Gibson,GibsAn00,receiving,WAS,2,2,5,0,0,-12,-6,17,8.5,-6,0,NA,0,0,0,79.2,202110240gnb
+Dax Milne,MilnDa00,receiving,WAS,4,2,16,0,1,8,4,8,4,9.5,0,NA,0,0,0,60.4,202110240gnb
+DeAndre Carter,CartDe02,receiving,WAS,1,1,4,0,0,4,4,0,0,4,0,NA,0,0,0,83.3,202110240gnb
+Davante Adams,AdamDa01,receiving,GNB,7,6,76,1,4,52,8.7,24,4,8.3,0,NA,0,0,0,151.5,202110240gnb
+Aaron Jones,JoneAa00,receiving,GNB,5,5,20,0,2,-12,-2.4,32,6.4,-2.4,0,NA,0,0,0,83.3,202110240gnb
+Allen Lazard,LazaAl00,receiving,GNB,6,5,60,1,4,37,7.4,23,4.6,8,0,NA,0,0,0,147.9,202110240gnb
+Robert Tonyan,TonyRo00,receiving,GNB,5,4,63,1,3,43,10.8,20,5,8,0,NA,0,0,0,158.3,202110240gnb
+Randall Cobb,CobbRa00,receiving,GNB,4,3,22,0,1,15,5,7,2.3,5,0,NA,1,25,0,87.5,202110240gnb
+Marcedes Lewis,LewiMa00,receiving,GNB,3,3,31,0,2,12,4,19,6.3,4,1,3,0,0,0,109.7,202110240gnb
+AJ Dillon,DillAJ00,receiving,GNB,2,1,2,0,NA,4,4,-2,-2,2.5,0,NA,0,0,0,56.2,202110240gnb
+Kylin Hill,HillKy00,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202110240gnb
+Equanimeous St. Brown,St.BEq00,receiving,GNB,1,0,0,0,0,0,NA,0,NA,28,0,NA,0,0,0,39.6,202110240gnb

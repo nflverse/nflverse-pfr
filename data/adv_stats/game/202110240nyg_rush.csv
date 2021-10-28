@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chuba Hubbard,HubbCh01,rushing,CAR,12,28,2,18,1.5,10,0.8,0,NA,202110240nyg
+Royce Freeman,FreeRo00,rushing,CAR,3,18,NA,11,3.7,7,2.3,0,NA,202110240nyg
+Shi Smith,SmitSh03,rushing,CAR,1,-3,NA,-3,-3,0,0,0,NA,202110240nyg
+Phillip Walker,WalkPh00,rushing,CAR,1,13,1,13,13,0,0,0,NA,202110240nyg
+Devontae Booker,BookDe00,rushing,NYG,14,51,3,36,2.6,15,1.1,0,NA,202110240nyg
+Elijhaa Penny,PennEl00,rushing,NYG,9,24,3,5,0.6,19,2.1,1,9,202110240nyg
+Daniel Jones,JoneDa05,rushing,NYG,8,28,1,25,3.1,3,0.4,0,NA,202110240nyg

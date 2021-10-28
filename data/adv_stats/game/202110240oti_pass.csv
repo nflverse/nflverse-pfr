@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Patrick Mahomes,MahoPa00,passing,KAN,20,35,206,10,25.6,249,7.1,100,5,2.9,106,5.3,2,6.1%,9,27.3%,4,5,7,3,14,31.8%,5,7.2,202110240oti
+Chad Henne,HennCh01,passing,KAN,11,16,82,6,37.5,125,7.8,58,5.3,3.6,24,2.2,1,6.7%,3,20.0%,0,3,1,2,3,17.6%,1,4,202110240oti
+Ryan Tannehill,TannRy00,passing,TEN,21,27,270,12,42.9,201,7.4,139,6.6,5.1,131,6.2,0,0.0%,2,7.7%,1,11,5,3,9,30.0%,2,3,202110240oti
+Derrick Henry,HenrDe00,passing,TEN,1,1,5,1,100,5,5,5,5,5,0,0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202110240oti

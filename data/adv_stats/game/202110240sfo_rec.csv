@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Pittman Jr.,PittMi01,receiving,IND,4,4,105,1,4,91,22.8,14,3.5,22.8,0,NA,0,0,0,158.3,202110240sfo
+Mo Alie-Cox,AlieMo00,receiving,IND,3,3,25,1,1,9,3,16,5.3,3,0,NA,0,0,0,141,202110240sfo
+Jonathan Taylor,TaylJo02,receiving,IND,3,3,3,0,0,-14,-4.7,17,5.7,-4.7,0,NA,0,0,0,79.2,202110240sfo
+Zach Pascal,PascZa00,receiving,IND,6,3,14,0,1,3,1,11,3.7,6.2,0,NA,0,0,0,56.2,202110240sfo
+Ashton Dulin,DuliAs00,receiving,IND,4,2,0,0,NA,-6,-3,6,3,11.3,0,NA,0,0,0,56.2,202110240sfo
+Nyheim Hines,HineNy00,receiving,IND,3,1,-2,0,NA,-8,-8,6,6,0,0,NA,1,33.3,0,42.4,202110240sfo
+Keke Coutee,CoutKe00,receiving,IND,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,202110240sfo
+Kylen Granson,GranKy00,receiving,IND,1,0,0,0,NA,0,NA,0,NA,17,0,NA,0,0,0,39.6,202110240sfo
+Jack Doyle,DoylJa00,receiving,IND,1,0,0,0,NA,0,NA,0,NA,1,0,NA,0,0,0,39.6,202110240sfo
+Deebo Samuel,SamuDe00,receiving,SFO,11,7,100,1,4,71,10.1,29,4.1,7.8,2,3.5,1,9.1,1,85.4,202110240sfo
+Jamycal Hasty,HastJa02,receiving,SFO,6,3,15,0,NA,1,0.3,14,4.7,5.7,0,NA,0,0,0,56.2,202110240sfo
+Charlie Woerner,WoerCh00,receiving,SFO,2,2,30,0,1,28,14,2,1,14,0,NA,0,0,0,118.7,202110240sfo
+Brandon Aiyuk,AiyuBr00,receiving,SFO,1,1,6,0,NA,6,6,0,0,6,0,NA,0,0,0,91.7,202110240sfo
+Ross Dwelley,DwelRo00,receiving,SFO,2,1,5,0,1,4,4,1,1,8.5,0,NA,0,0,0,56.2,202110240sfo
+Mohamed Sanu,SanuMo00,receiving,SFO,1,1,16,0,1,13,13,3,3,13,0,NA,0,0,0,118.7,202110240sfo
+Trent Sherfield,SherTr00,receiving,SFO,2,1,9,0,1,9,9,0,0,14,0,NA,0,0,0,62.5,202110240sfo
+Jauan Jennings,JennJa00,receiving,SFO,2,0,0,0,NA,0,NA,0,NA,12.5,0,NA,1,50,1,0,202110240sfo

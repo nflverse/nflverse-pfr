@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Jared Goff,GoffJa00,passing,DET,22,36,268,10,26.3,134,3.7,81,3.7,2.3,187,8.5,2,6.5%,6,19.4%,2,12,2,2,6,15.4%,1,3,202110240ram
+Jack Fox,FoxxJa01,passing,DET,1,1,17,1,100,9,9,9,9,9,8,8,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202110240ram
+Matthew Stafford,StafMa00,passing,LAR,28,41,334,17,40.5,383,9.3,195,7,4.8,139,5,1,2.4%,8,19.5%,1,11,0,0,1,2.4%,0,NA,202110240ram

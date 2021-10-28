@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Michael Carter,CartMi03,rushing,NYJ,11,37,2,11,1,26,2.4,1,11,202110240nwe
+Ty Johnson,JohnTy02,rushing,NYJ,5,6,0,5,1,1,0.2,0,NA,202110240nwe
+Elijah Moore,MoorEl00,rushing,NYJ,1,19,1,17,17,2,2,0,NA,202110240nwe
+Damien Harris,HarrDa06,rushing,NWE,14,106,7,76,5.4,30,2.1,0,NA,202110240nwe
+J.J. Taylor,TaylJJ01,rushing,NWE,9,21,3,16,1.8,5,0.6,0,NA,202110240nwe
+Brian Hoyer,HoyeBr00,rushing,NWE,3,-3,0,-3,-1,0,0,0,NA,202110240nwe
+Mac Jones,JoneMa05,rushing,NWE,3,19,2,19,6.3,0,0,0,NA,202110240nwe
+Brandon Bolden,BoldBr00,rushing,NWE,2,0,0,0,0,0,0,0,NA,202110240nwe
+Jonnu Smith,SmitJo01,rushing,NWE,1,5,0,4,4,1,1,0,NA,202110240nwe

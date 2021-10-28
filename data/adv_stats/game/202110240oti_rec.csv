@@ -1,0 +1,22 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Travis Kelce,KelcTr00,receiving,KAN,12,7,65,0,5,30,4.3,35,5,9.2,0,NA,0,0,0,73.3,202110240oti
+Tyreek Hill,HillTy00,receiving,KAN,9,6,49,0,3,45,7.5,4,0.7,7.1,0,NA,2,22.2,0,80.3,202110240oti
+Byron Pringle,PrinBy00,receiving,KAN,6,5,73,0,4,65,13,8,1.6,20.2,0,NA,0,0,0,117.4,202110240oti
+Mecole Hardman,HardMe00,receiving,KAN,5,4,28,0,NA,11,2.8,17,4.3,2.2,0,NA,0,0,0,90,202110240oti
+Darrel Williams,WillDa10,receiving,KAN,4,3,30,0,1,-4,-1.3,34,11.3,-0.5,0,NA,0,0,0,95.8,202110240oti
+Jerick McKinnon,McKiJe00,receiving,KAN,4,2,17,0,1,6,3,11,5.5,-0.8,0,NA,0,0,0,61.5,202110240oti
+Demarcus Robinson,RobiDe01,receiving,KAN,4,1,7,0,1,7,7,0,0,5.5,0,NA,1,25,0,39.6,202110240oti
+Derrick Gore,GoreDe00,receiving,KAN,1,1,7,0,1,-1,-1,8,8,-1,0,NA,0,0,0,95.8,202110240oti
+Noah Gray,GrayNo00,receiving,KAN,1,1,4,0,NA,3,3,1,1,3,0,NA,0,0,0,83.3,202110240oti
+Marcus Kemp,KempMa00,receiving,KAN,1,1,8,0,NA,5,5,3,3,5,0,NA,0,0,0,100,202110240oti
+Josh Gordon,GordJo02,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,21,0,NA,0,0,1,0,202110240oti
+A.J. Brown,BrowAJ00,receiving,TEN,9,8,133,1,5,99,12.4,34,4.3,13.4,0,NA,0,0,0,155.8,202110240oti
+Josh Reynolds,ReynJo00,receiving,TEN,3,3,23,0,1,5,1.7,18,6,1.7,0,NA,0,0,0,98.6,202110240oti
+Julio Jones,JoneJu02,receiving,TEN,4,2,38,0,2,18,9,20,10,10.3,1,2,0,0,0,83.3,202110240oti
+MyCole Pruitt,PruiMy00,receiving,TEN,3,2,27,1,2,25,12.5,2,1,8.3,0,NA,0,0,1,95.1,202110240oti
+Derrick Henry,HenrDe00,receiving,TEN,2,2,16,0,1,-9,-4.5,25,12.5,-4.5,0,NA,0,0,0,100,202110240oti
+Darrynton Evans,EvanDa02,receiving,TEN,2,2,11,0,1,-4,-2,15,7.5,-2,0,NA,0,0,0,89.6,202110240oti
+Jeremy McNichols,McNiJe00,receiving,TEN,1,1,10,0,1,-3,-3,13,13,-3,0,NA,0,0,0,108.3,202110240oti
+Anthony Firkser,FirkAn00,receiving,TEN,1,1,9,0,NA,8,8,1,1,8,0,NA,0,0,0,104.2,202110240oti
+Geoff Swaim,SwaiGe00,receiving,TEN,1,1,8,0,NA,5,5,3,3,5,0,NA,0,0,0,100,202110240oti
+Marcus Johnson,JohnMa07,receiving,TEN,1,0,0,0,0,0,NA,0,NA,17,0,NA,0,0,0,39.6,202110240oti
