@@ -253,3 +253,5 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_07_CHI_TB,202110240tam,2021,7,REG,CHI,TB,Justin Fields,FielJu00,5,0.161,3,0.097,4,16,3,2,9,0.209
 2021_07_IND_SF,202110240sfo,2021,7,REG,SF,IND,Jimmy Garoppolo,GaroJi00,2,0.074,5,0.185,2,2,0,3,5,0.172
 2021_07_IND_SF,202110240sfo,2021,7,REG,IND,SF,Carson Wentz,WentCa00,1,0.038,3,0.115,1,10,3,2,6,0.207
+2021_07_NO_SEA,202110250sea,2021,7,REG,SEA,NO,Geno Smith,SmitGe00,0,0,3,0.158,5,10,3,3,11,0.393
+2021_07_NO_SEA,202110250sea,2021,7,REG,NO,SEA,Jameis Winston,WinsJa00,3,0.094,6,0.188,2,10,5,0,7,0.171
