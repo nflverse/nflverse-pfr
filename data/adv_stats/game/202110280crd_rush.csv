@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+AJ Dillon,DillAJ00,rushing,GNB,16,78,6,35,2.2,43,2.7,2,8,202110280crd
+Aaron Jones,JoneAa00,rushing,GNB,15,59,4,35,2.3,24,1.6,0,NA,202110280crd
+Aaron Rodgers,RodgAa00,rushing,GNB,2,3,0,2,1,1,0.5,0,NA,202110280crd
+Amari Rodgers,RodgAm00,rushing,GNB,1,11,1,6,6,5,5,0,NA,202110280crd
+Chase Edmonds,EdmoCh00,rushing,ARI,7,30,2,24,3.4,6,0.9,0,NA,202110280crd
+Kyler Murray,MurrKy00,rushing,ARI,6,21,2,21,3.5,0,0,0,NA,202110280crd
+James Conner,ConnJa00,rushing,ARI,5,22,3,14,2.8,8,1.6,0,NA,202110280crd
+Rondale Moore,MoorRo02,rushing,ARI,2,1,NA,1,0.5,0,0,0,NA,202110280crd
