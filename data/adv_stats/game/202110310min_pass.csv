@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Cooper Rush,RushCo00,passing,DAL,24,40,325,16,37.2,396,9.9,185,7.7,4.6,140,5.8,2,5.0%,9,22.5%,3,15,0,3,6,13.6%,1,2,202110310min
+Cedrick Wilson Jr.,WilsCe01,passing,DAL,1,1,35,1,100,32,32,32,32,32,3,3,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202110310min
+Kirk Cousins,CousKi00,passing,MIN,23,35,184,6,16.7,192,5.5,90,3.9,2.6,94,4.1,4,12.1%,5,15.2%,1,6,2,7,10,26.3%,2,9.5,202110310min
+Justin Jefferson,JeffJu00,passing,MIN,0,1,0,0,0,27,27,0,NA,0,0,NA,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,NA,202110310min

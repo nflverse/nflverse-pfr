@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Carlos Hyde,HydeCa00,rushing,JAX,9,32,1,15,1.7,17,1.9,1,9,202110310sea
+James Robinson,RobiJa00,rushing,JAX,4,22,1,10,2.5,12,3,1,4,202110310sea
+Trevor Lawrence,LawrTr00,rushing,JAX,3,11,0,3,1,8,2.7,0,NA,202110310sea
+Dare Ogunbowale,OgunDa00,rushing,JAX,2,9,NA,5,2.5,4,2,0,NA,202110310sea
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,1,8,NA,5,5,3,3,0,NA,202110310sea
+Alex Collins,CollAl00,rushing,SEA,10,44,3,23,2.3,21,2.1,2,5,202110310sea
+Rashaad Penny,PennRa00,rushing,SEA,7,7,NA,4,0.6,3,0.4,0,NA,202110310sea
+Travis Homer,HomeTr00,rushing,SEA,4,9,1,3,0.8,6,1.5,0,NA,202110310sea
+Geno Smith,SmitGe00,rushing,SEA,2,8,1,1,0.5,7,3.5,0,NA,202110310sea
+DeeJay Dallas,DallDe00,rushing,SEA,1,6,NA,1,1,5,5,0,NA,202110310sea
+Gerald Everett,EverGe00,rushing,SEA,1,-5,NA,-5,-5,0,0,0,NA,202110310sea

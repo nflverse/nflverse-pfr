@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Kendrick Bourne,BourKe00,receiving,NWE,7,4,38,0,2,28,7,10,2.5,9.1,0,NA,1,14.3,0,72.3,202110310sdg
+Jakobi Meyers,MeyeJa01,receiving,NWE,9,4,37,0,3,25,6.3,12,3,9.4,0,NA,0,0,0,56.2,202110310sdg
+Nelson Agholor,AghoNe00,receiving,NWE,6,3,60,0,1,50,16.7,10,3.3,21.8,0,NA,0,0,0,85.4,202110310sdg
+N'Keal Harry,HarrNK00,receiving,NWE,2,2,30,0,2,30,15,0,0,15,0,NA,0,0,0,118.7,202110310sdg
+Jonnu Smith,SmitJo01,receiving,NWE,2,2,13,0,1,-3,-1.5,16,8,-1.5,1,2,0,0,0,93.7,202110310sdg
+Hunter Henry,HenrHu00,receiving,NWE,3,1,33,0,1,18,18,15,15,7.7,0,NA,0,0,0,75.7,202110310sdg
+Jakob Johnson,JohnJa12,receiving,NWE,2,1,2,0,NA,0,0,2,2,0.5,0,NA,0,0,0,56.2,202110310sdg
+Rhamondre Stevenson,StevRh00,receiving,NWE,2,1,5,0,0,-6,-6,11,11,-1.5,0,NA,0,0,0,56.2,202110310sdg
+Damien Harris,HarrDa06,receiving,NWE,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,202110310sdg
+Keenan Allen,AlleKe00,receiving,LAC,11,6,77,1,4,46,7.7,31,5.2,8.8,0,NA,0,0,0,107,202110310sdg
+Austin Ekeler,EkelAu00,receiving,LAC,10,6,60,0,4,13,2.2,47,7.8,5.2,1,6,2,20,1,37.5,202110310sdg
+Jared Cook,CookJa02,receiving,LAC,5,2,25,0,2,14,7,11,5.5,7,0,NA,0,0,1,16.7,202110310sdg
+Mike Williams,WillMi07,receiving,LAC,5,2,19,0,NA,15,7.5,4,2,11.6,0,NA,0,0,0,51.2,202110310sdg
+Jalen Guyton,GuytJa01,receiving,LAC,2,1,18,0,1,18,18,0,0,21,0,NA,0,0,0,81.2,202110310sdg
+Josh Palmer,PalmJo00,receiving,LAC,1,1,24,1,1,24,24,0,0,24,0,NA,0,0,0,158.3,202110310sdg

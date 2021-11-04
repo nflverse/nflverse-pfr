@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Micah Parsons,ParsMi00,defense,DAL,0,7,5,71.4%,8,1.6,1.1,0,74.1,-1.6,-10,18,3,0,1,0,1,11,1,8.3%,202110310min
+Anthony Brown,BrowAn02,defense,DAL,0,9,4,44.4%,37,9.3,4.1,0,56.2,13.4,28,9,0,0,0,0,0,5,1,16.7%,202110310min
+Trevon Diggs,DiggTr00,defense,DAL,0,6,4,66.7%,45,11.3,7.5,0,88.9,3.2,14,31,0,0,0,0,0,1,0,0.0%,202110310min
+Jayron Kearse,KearJa00,defense,DAL,0,5,4,80.0%,41,10.3,8.2,0,100.8,5.8,35,6,2,0,0,0,0,6,0,0.0%,202110310min
+Jourdan Lewis,LewiJo01,defense,DAL,0,4,3,75.0%,16,5.3,4,0,81.2,3.8,14,2,0,0,0,0,0,5,0,0.0%,202110310min
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,1,1,100.0%,7,7,7,0,95.8,1,1,6,0,0,1,0,1,2,0,0.0%,202110310min
+Keanu Neal,NealKe01,defense,DAL,0,1,1,100.0%,5,5,5,0,87.5,4,4,1,0,0,0,0,0,1,0,0.0%,202110310min
+Chauncey Golston,GolsCh00,defense,DAL,0,1,1,100.0%,11,11,11,0,112.5,-6,-6,17,0,0,0,0,0,2,0,0.0%,202110310min
+Leighton Vander Esch,VandLe00,defense,DAL,0,1,1,100.0%,NA,NA,0,NA,79.2,NA,NA,NA,1,0,0,0,0,3,1,25.0%,202110310min
+Damontae Kazee,KazeDa00,defense,DAL,0,2,1,50.0%,20,20,10,1,125,14,15,5,0,0,0,0,0,2,0,0.0%,202110310min
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,2,1,6,1,1,50.0%,202110310min
+Justin Hamilton,HamiJu00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202110310min
+Tarell Basham,BashTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,1,50.0%,202110310min
+Osa Odighizuwa,OdigOs00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,1,25.0%,202110310min
+Donovan Wilson,WilsDo01,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,0,0.0%,202110310min
+Malik Hooker,HookMa00,defense,DAL,0,1,0,0.0%,NA,NA,0,NA,39.6,33,NA,NA,0,0,0,0,0,2,1,33.3%,202110310min
+Cameron Dantzler,DantCa00,defense,MIN,0,11,6,54.5%,60,10,5.5,1,100.6,12.2,52,8,0,0,0,0,0,7,0,0.0%,202110310min
+Bashaud Breeland,BreeBa00,defense,MIN,0,8,5,62.5%,112,22.4,14,0,106.2,16,80,32,0,0,0,0,0,7,2,22.2%,202110310min
+Anthony Barr,BarrAn00,defense,MIN,0,4,4,100.0%,33,8.3,8.3,0,101,-0.5,-2,35,8,0,1,0,1,6,1,14.3%,202110310min
+Eric Kendricks,KendEr00,defense,MIN,0,6,3,50.0%,12,4,2,0,56.2,3,12,0,9,0,0,1,1,6,1,14.3%,202110310min
+Mackensie Alexander,AlexMa01,defense,MIN,0,4,3,75.0%,79,26.3,19.8,1,156.2,9,26,53,1,0,0,0,0,2,1,33.3%,202110310min
+Harrison Smith,SmitHa00,defense,MIN,0,6,3,50.0%,62,20.7,10.3,0,86.8,19,52,10,3,0,0,0,0,9,0,0.0%,202110310min
+Xavier Woods,WoodXa00,defense,MIN,1,5,1,20.0%,29,29,5.8,0,11.7,16.2,25,4,3,0,0,1,1,8,2,20.0%,202110310min
+Camryn Bynum,BynuCa00,defense,MIN,0,1,1,100.0%,2,2,2,0,79.2,-3,-3,5,0,0,0,0,0,1,0,0.0%,202110310min
+Everson Griffen,GrifEv99,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,1,1,50.0%,202110310min
+D.J. Wonnum,WonnDJ00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202110310min
+Armon Watts,WattAr01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202110310min
+Sheldon Richardson,RichSh00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202110310min
+Nick Vigil,VigiNi00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,0,0.0%,202110310min

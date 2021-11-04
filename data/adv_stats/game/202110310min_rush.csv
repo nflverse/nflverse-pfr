@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,16,50,1,26,1.6,24,1.5,1,16,202110310min
+Tony Pollard,PollTo00,rushing,DAL,7,26,3,11,1.6,15,2.1,1,7,202110310min
+Cooper Rush,RushCo00,rushing,DAL,1,2,0,2,2,0,0,0,NA,202110310min
+Dalvin Cook,CookDa01,rushing,MIN,18,78,3,37,2.1,41,2.3,4,4.5,202110310min
+Kirk Cousins,CousKi00,rushing,MIN,3,18,1,15,5,3,1,0,NA,202110310min
+Alexander Mattison,MattAl01,rushing,MIN,2,5,NA,2,1,3,1.5,0,NA,202110310min
+C.J. Ham,HamxC.00,rushing,MIN,1,0,NA,0,0,0,0,0,NA,202110310min

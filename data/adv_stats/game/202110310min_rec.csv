@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Amari Cooper,CoopAm00,receiving,DAL,13,8,122,1,8,88,11,34,4.3,13.4,0,NA,0,0,0,118.1,202110310min
+CeeDee Lamb,LambCe00,receiving,DAL,8,6,112,0,5,96,16,16,2.7,13.5,0,NA,1,12.5,0,116.7,202110310min
+Ezekiel Elliott,ElliEz00,receiving,DAL,6,4,23,0,2,-7,-1.8,30,7.5,-1,1,4,0,0,0,73.6,202110310min
+Cedrick Wilson Jr.,WilsCe01,receiving,DAL,3,3,84,1,2,27,9,57,19,9,0,NA,0,0,0,158.3,202110310min
+Dalton Schultz,SchuDa00,receiving,DAL,7,2,11,0,NA,5,2.5,6,3,10,0,NA,1,14.3,0,39.6,202110310min
+Tony Pollard,PollTo00,receiving,DAL,1,1,1,0,0,1,1,0,0,1,0,NA,0,0,0,79.2,202110310min
+Noah Brown,BrowNo00,receiving,DAL,2,1,7,0,NA,7,7,0,0,17.5,0,NA,0,0,0,58.3,202110310min
+Blake Jarwin,JarwBl00,receiving,DAL,1,0,0,0,NA,0,NA,0,NA,19,0,NA,0,0,1,0,202110310min
+Adam Thielen,ThieAd00,receiving,MIN,9,6,78,1,3,46,7.7,32,5.3,8.7,0,NA,0,0,0,130.8,202110310min
+Tyler Conklin,ConkTy00,receiving,MIN,7,5,57,0,1,36,7.2,21,4.2,4.9,0,NA,0,0,0,95.5,202110310min
+C.J. Ham,HamxC.00,receiving,MIN,3,3,3,0,NA,-6,-2,9,3,-2,0,NA,0,0,0,79.2,202110310min
+Justin Jefferson,JeffJu00,receiving,MIN,4,2,21,0,1,10,5,11,5.5,14,0,NA,1,25,0,65.6,202110310min
+Alexander Mattison,MattAl01,receiving,MIN,2,2,-5,0,NA,-8,-4,3,1.5,-4,0,NA,0,0,0,79.2,202110310min
+K.J. Osborn,OsboKJ00,receiving,MIN,3,2,10,0,NA,9,4.5,1,0.5,4.7,0,NA,1,33.3,0,71.5,202110310min
+Chris Herndon,HernCh00,receiving,MIN,1,1,7,0,1,-2,-2,9,9,-2,0,NA,0,0,0,95.8,202110310min
+Ihmir Smith-Marsette,SmitIh00,receiving,MIN,1,1,6,0,NA,4,4,2,2,4,0,NA,0,0,0,91.7,202110310min
+Luke Stocker,StocLu00,receiving,MIN,1,1,7,0,NA,1,1,6,6,1,0,NA,0,0,0,95.8,202110310min
+Dalvin Cook,CookDa01,receiving,MIN,2,0,0,0,0,0,NA,0,NA,-0.5,0,NA,2,100,0,39.6,202110310min

@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Deebo Samuel,SamuDe00,receiving,SFO,9,6,171,0,5,74,12.3,97,16.2,9.9,0,NA,2,22.2,0,109.7,202110310chi
+Brandon Aiyuk,AiyuBr00,receiving,SFO,7,4,45,0,2,22,5.5,23,5.8,9.6,0,NA,0,0,0,76.5,202110310chi
+Mohamed Sanu,SanuMo00,receiving,SFO,4,3,59,0,2,46,15.3,13,4.3,13.3,0,NA,0,0,0,116.7,202110310chi
+Jamycal Hasty,HastJa02,receiving,SFO,2,2,29,0,1,7,3.5,22,11,3.5,0,NA,0,0,0,118.7,202110310chi
+Kyle Juszczyk,JuszKy00,receiving,SFO,1,1,11,0,1,5,5,6,6,5,0,NA,0,0,0,112.5,202110310chi
+Charlie Woerner,WoerCh00,receiving,SFO,2,1,7,0,1,5,5,2,2,7,0,NA,0,0,0,58.3,202110310chi
+Jauan Jennings,JennJa00,receiving,SFO,2,0,0,0,NA,0,NA,0,NA,6.5,0,NA,0,0,0,39.6,202110310chi
+Darnell Mooney,MoonDa00,receiving,CHI,9,6,64,0,4,46,7.7,18,3,17.2,0,NA,0,0,1,47.7,202110310chi
+Jesse James,JameJe00,receiving,CHI,3,3,38,1,2,31,10.3,7,2.3,10.3,0,NA,0,0,0,158.3,202110310chi
+Cole Kmet,KmetCo00,receiving,CHI,6,3,24,0,2,11,3.7,13,4.3,5.2,0,NA,0,0,0,60.4,202110310chi
+Allen Robinson,RobiAl02,receiving,CHI,4,3,21,0,1,18,6,3,1,7.5,0,NA,0,0,0,86.5,202110310chi
+Marquise Goodwin,GoodMa00,receiving,CHI,3,2,32,0,1,17,8.5,15,7.5,11,0,NA,0,0,0,102.1,202110310chi
+Khalil Herbert,HerbKh00,receiving,CHI,2,2,-4,0,0,-6,-3,2,1,-3,1,2,0,0,0,79.2,202110310chi

@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Tua Tagovailoa,TagoTu00,passing,MIA,21,39,205,10,24.4,273,7,112,5.3,2.9,93,4.4,3,8.1%,9,24.3%,2,14,13,5,20,46.5%,2,4.5,202110310buf
+Josh Allen,AlleJo02,passing,BUF,29,42,249,15,35.7,237,5.6,93,3.2,2.2,156,5.4,1,2.5%,6,15.0%,0,20,5,5,10,21.7%,4,12,202110310buf
+Cole Beasley,BeasCo00,passing,BUF,0,1,0,0,0,19,19,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,1,0,1,100.0%,0,NA,202110310buf

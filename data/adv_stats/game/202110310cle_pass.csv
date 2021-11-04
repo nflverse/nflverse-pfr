@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Ben Roethlisberger,RoetBe00,passing,PIT,22,34,266,13,36.1,198,5.8,85,3.9,2.5,181,8.2,0,0.0%,7,20.6%,2,10,1,2,5,13.9%,0,NA,202110310cle
+Chris Boswell,BoswCh00,passing,PIT,0,1,0,NA,NA,10,10,0,NA,0,0,NA,0,0.0%,1,100.0%,0,1,0,0,0,0.0%,0,NA,202110310cle
+Baker Mayfield,MayfBa00,passing,CLE,20,31,225,10,28.6,233,7.5,113,5.7,3.6,112,5.6,4,12.9%,5,16.1%,4,7,4,2,10,27.8%,1,5,202110310cle

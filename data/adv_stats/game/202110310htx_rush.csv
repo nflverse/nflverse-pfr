@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Darrell Henderson,HendDa00,rushing,LAR,14,90,5,58,4.1,32,2.3,0,NA,202110310htx
+Sony Michel,MichSo00,rushing,LAR,9,42,3,32,3.6,10,1.1,0,NA,202110310htx
+Buddy Howell,HoweGr00,rushing,LAR,5,11,NA,9,1.8,2,0.4,0,NA,202110310htx
+Robert Woods,WoodRo02,rushing,LAR,3,22,1,21,7,1,0.3,0,NA,202110310htx
+Scottie Phillips,PhilSc01,rushing,HOU,5,11,1,8,1.6,3,0.6,0,NA,202110310htx
+Rex Burkhead,BurkRe00,rushing,HOU,4,21,3,10,2.5,11,2.8,0,NA,202110310htx
+Phillip Lindsay,LindPh00,rushing,HOU,3,8,NA,2,0.7,6,2,0,NA,202110310htx
+David Johnson,JohnDa08,rushing,HOU,2,4,NA,0,0,4,2,0,NA,202110310htx

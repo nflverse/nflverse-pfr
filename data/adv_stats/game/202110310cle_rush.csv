@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Najee Harris,HarrNa00,rushing,PIT,26,91,6,49,1.9,42,1.6,1,26,202110310cle
+Chase Claypool,ClayCh01,rushing,PIT,2,16,1,16,8,0,0,0,NA,202110310cle
+Kalen Ballage,BallKa00,rushing,PIT,1,-3,NA,-3,-3,0,0,0,NA,202110310cle
+Ray-Ray McCloud,McClRa00,rushing,PIT,1,10,NA,10,10,0,0,0,NA,202110310cle
+Anthony McFarland Jr.,McFaAn00,rushing,PIT,1,1,NA,0,0,1,1,0,NA,202110310cle
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,0,0,0,0,0,0,0,NA,202110310cle
+Nick Chubb,ChubNi00,rushing,CLE,16,61,4,30,1.9,31,1.9,0,NA,202110310cle
+D'Ernest Johnson,JohnDE04,rushing,CLE,4,22,1,15,3.8,7,1.8,0,NA,202110310cle
+Demetric Felton,FeltDe00,rushing,CLE,1,3,0,1,1,2,2,0,NA,202110310cle
+Jarvis Landry,LandJa00,rushing,CLE,1,5,1,1,1,4,4,1,1,202110310cle
+Baker Mayfield,MayfBa00,rushing,CLE,1,5,1,5,5,0,0,0,NA,202110310cle
