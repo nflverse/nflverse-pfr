@@ -998,3 +998,8 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_08_DAL_MIN,202110310min,2021,8,REG,DAL,MIN,Ezekiel Elliott,ElliEz00,16,26,1.6,24,1.5,1
 2021_08_DAL_MIN,202110310min,2021,8,REG,DAL,MIN,Tony Pollard,PollTo00,7,11,1.6,15,2.1,1
 2021_08_DAL_MIN,202110310min,2021,8,REG,DAL,MIN,Cooper Rush,RushCo00,1,2,2,0,0,0
+2021_08_NYG_KC,202111010kan,2021,8,REG,KC,NYG,Darrel Williams,WillDa10,13,31,2.4,18,1.4,0
+2021_08_NYG_KC,202111010kan,2021,8,REG,KC,NYG,Derrick Gore,GoreDe00,11,32,2.9,16,1.5,0
+2021_08_NYG_KC,202111010kan,2021,8,REG,KC,NYG,Patrick Mahomes,MahoPa00,3,10,3.3,0,0,0
+2021_08_NYG_KC,202111010kan,2021,8,REG,NYG,KC,Devontae Booker,BookDe00,15,37,2.5,23,1.5,0
+2021_08_NYG_KC,202111010kan,2021,8,REG,NYG,KC,Daniel Jones,JoneDa05,5,10,2,2,0.4,0

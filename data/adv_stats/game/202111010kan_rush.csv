@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devontae Booker,BookDe00,rushing,NYG,15,60,3,37,2.5,23,1.5,0,NA,202111010kan
+Daniel Jones,JoneDa05,rushing,NYG,5,12,0,10,2,2,0.4,0,NA,202111010kan
+Darrel Williams,WillDa10,rushing,KAN,13,49,4,31,2.4,18,1.4,0,NA,202111010kan
+Derrick Gore,GoreDe00,rushing,KAN,11,48,5,32,2.9,16,1.5,0,NA,202111010kan
+Patrick Mahomes,MahoPa00,rushing,KAN,3,10,1,10,3.3,0,0,0,NA,202111010kan
