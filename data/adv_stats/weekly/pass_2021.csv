@@ -299,3 +299,6 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_08_NYG_KC,202111010kan,2021,8,REG,KC,NYG,Patrick Mahomes,MahoPa00,2,0.045,10,0.227,2,6,5,4,11,0.212
 2021_08_NYG_KC,202111010kan,2021,8,REG,NYG,KC,Daniel Jones,JoneDa05,2,0.063,7,0.219,3,12,4,2,9,0.243
 2021_08_NYG_KC,202111010kan,2021,8,REG,NYG,KC,Kadarius Toney,ToneKa00,0,0,0,0,0,1,0,0,0,0
+2021_09_NYJ_IND,202111040clt,2021,9,REG,IND,NYJ,Carson Wentz,WentCa00,0,0,6,0.207,1,8,0,2,3,0.091
+2021_09_NYJ_IND,202111040clt,2021,9,REG,NYJ,IND,Josh Johnson,JohnJo05,2,0.049,9,0.22,2,2,2,4,8,0.174
+2021_09_NYJ_IND,202111040clt,2021,9,REG,NYJ,IND,Mike White,WhitMi01,1,0.091,0,0,0,0,1,2,3,0.273

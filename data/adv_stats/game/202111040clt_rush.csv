@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Michael Carter,CartMi03,rushing,NYJ,13,49,2,33,2.5,16,1.2,1,13,202111040clt
+Josh Johnson,JohnJo05,rushing,NYJ,4,18,1,18,4.5,0,0,0,NA,202111040clt
+Ty Johnson,JohnTy02,rushing,NYJ,4,21,0,17,4.3,4,1,0,NA,202111040clt
+Jonathan Taylor,TaylJo02,rushing,IND,19,172,5,56,2.9,116,6.1,2,9.5,202111040clt
+Nyheim Hines,HineNy00,rushing,IND,6,74,3,29,4.8,45,7.5,0,NA,202111040clt
+Carson Wentz,WentCa00,rushing,IND,4,13,1,11,2.8,2,0.5,0,NA,202111040clt
+Sam Ehlinger,EhliSa00,rushing,IND,1,1,NA,1,1,0,0,0,NA,202111040clt

@@ -1,0 +1,22 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Elijah Moore,MoorEl00,receiving,NYJ,8,7,84,2,5,71,10.1,13,1.9,10.9,0,NA,0,0,0,150,202111040clt
+Keelan Cole,ColeKe00,receiving,NYJ,8,5,66,0,5,57,11.4,9,1.8,11,0,NA,0,0,1,49,202111040clt
+Jamison Crowder,CrowJa00,receiving,NYJ,7,5,38,0,3,12,2.4,26,5.2,4.3,0,NA,0,0,0,84.2,202111040clt
+Ryan Griffin,GrifRy00,receiving,NYJ,7,4,28,1,3,15,3.8,13,3.3,4.9,0,NA,1,14.3,0,106,202111040clt
+Jeff Smith,SmitJe03,receiving,NYJ,4,3,40,0,2,32,10.7,8,2.7,17,0,NA,0,0,0,106.2,202111040clt
+Ty Johnson,JohnTy02,receiving,NYJ,3,2,40,1,2,1,0.5,39,19.5,3,1,2,0,0,0,149.3,202111040clt
+Trevon Wesco,WescTr00,receiving,NYJ,2,2,16,0,1,3,1.5,13,6.5,1.5,0,NA,0,0,0,100,202111040clt
+Tyler Kroft,KrofTy00,receiving,NYJ,3,2,38,0,2,29,14.5,9,4.5,13,0,NA,1,33.3,0,109.7,202111040clt
+Braxton Berrios,BerrBr00,receiving,NYJ,3,2,5,0,NA,3,1.5,2,1,5.3,0,NA,0,0,0,70.1,202111040clt
+Denzel Mims,MimsDe00,receiving,NYJ,5,1,20,0,1,19,19,1,1,12.2,0,NA,1,20,0,43.7,202111040clt
+Michael Carter,CartMi03,receiving,NYJ,2,1,37,0,1,-3,-3,40,40,-0.5,0,NA,0,0,0,95.8,202111040clt
+Michael Pittman Jr.,PittMi01,receiving,IND,6,5,64,1,5,28,5.6,36,7.2,4,0,NA,0,0,0,150.7,202111040clt
+Nyheim Hines,HineNy00,receiving,IND,6,4,34,0,2,-1,-0.3,35,8.8,3.5,0,NA,0,0,0,81.2,202111040clt
+Zach Pascal,PascZa00,receiving,IND,7,4,58,0,3,56,14,2,0.5,20.3,0,NA,0,0,0,84.2,202111040clt
+Ashton Dulin,DuliAs00,receiving,IND,2,2,23,0,2,23,11.5,0,0,11.5,0,NA,0,0,0,114.6,202111040clt
+Jonathan Taylor,TaylJo02,receiving,IND,2,2,28,0,1,-3,-1.5,31,15.5,-1.5,0,NA,0,0,0,118.7,202111040clt
+Kylen Granson,GranKy00,receiving,IND,1,1,27,0,1,2,2,25,25,2,0,NA,0,0,0,118.7,202111040clt
+Mo Alie-Cox,AlieMo00,receiving,IND,1,1,28,0,1,3,3,25,25,3,0,NA,0,0,0,118.7,202111040clt
+Jack Doyle,DoylJa00,receiving,IND,2,1,1,1,1,-1,-1,2,2,9,0,NA,0,0,0,95.8,202111040clt
+Dezmon Patmon,PatmDe00,receiving,IND,1,1,7,0,NA,4,4,3,3,4,0,NA,0,0,0,95.8,202111040clt
+Danny Pinter,PintDa00,receiving,IND,1,1,2,1,1,2,2,0,0,2,0,NA,0,0,0,118.7,202111040clt
