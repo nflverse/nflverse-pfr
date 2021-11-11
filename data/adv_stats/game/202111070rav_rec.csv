@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Conklin,ConkTy00,receiving,MIN,7,5,45,0,NA,14,2.8,31,6.2,3.6,0,NA,0,0,0,88.4,202111070rav
+Dalvin Cook,CookDa01,receiving,MIN,3,3,12,0,0,-2,-0.7,14,4.7,-0.7,0,NA,0,0,0,83.3,202111070rav
+Justin Jefferson,JeffJu00,receiving,MIN,5,3,69,1,3,55,18.3,14,4.7,15.8,0,NA,0,0,0,143.7,202111070rav
+Adam Thielen,ThieAd00,receiving,MIN,7,2,6,1,1,4,2,2,1,10.4,0,NA,0,0,0,79.2,202111070rav
+C.J. Ham,HamxC.00,receiving,MIN,1,1,27,0,1,25,25,2,2,25,0,NA,0,0,0,118.7,202111070rav
+Alexander Mattison,MattAl01,receiving,MIN,1,1,3,0,NA,2,2,1,1,2,0,NA,0,0,0,79.2,202111070rav
+K.J. Osborn,OsboKJ00,receiving,MIN,2,1,20,0,1,14,14,6,6,8.5,0,NA,0,0,0,85.4,202111070rav
+Luke Stocker,StocLu00,receiving,MIN,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,202111070rav
+Dede Westbrook,WestDe00,receiving,MIN,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,202111070rav
+Marquise Brown,BrowMa04,receiving,BAL,12,9,116,0,4,41,4.6,75,8.3,7.6,1,9,0,0,0,104.9,202111070rav
+Mark Andrews,AndrMa00,receiving,BAL,10,5,44,0,3,34,6.8,10,2,11,0,NA,0,0,1,22.5,202111070rav
+Rashod Bateman,BateRa00,receiving,BAL,8,5,52,0,4,40,8,12,2.4,13.9,0,NA,0,0,0,81.2,202111070rav
+Patrick Ricard,RicaPa00,receiving,BAL,5,3,35,1,2,10,3.3,25,8.3,1,0,NA,0,0,1,81.2,202111070rav
+Devin Duvernay,DuveDe00,receiving,BAL,2,2,8,1,1,1,0.5,7,3.5,0.5,0,NA,0,0,0,122.9,202111070rav
+Devonta Freeman,FreeDe00,receiving,BAL,3,2,4,1,1,-4,-2,8,4,0.7,0,NA,0,0,0,109.7,202111070rav
+Eric Tomlinson,TomlEr01,receiving,BAL,1,1,7,0,NA,3,3,4,4,3,0,NA,0,0,0,95.8,202111070rav

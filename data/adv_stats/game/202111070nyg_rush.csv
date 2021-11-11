@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Jacobs,JacoJo01,rushing,LVR,13,76,4,42,3.2,34,2.6,3,4.3,202111070nyg
+Kenyan Drake,DrakKe00,rushing,LVR,4,30,2,23,5.8,7,1.8,0,NA,202111070nyg
+Derek Carr,CarrDe02,rushing,LVR,2,5,1,5,2.5,0,0,0,NA,202111070nyg
+Marcus Mariota,MariMa01,rushing,LVR,1,6,1,2,2,4,4,0,NA,202111070nyg
+Devontae Booker,BookDe00,rushing,NYG,21,99,5,63,3,36,1.7,0,NA,202111070nyg
+Elijhaa Penny,PennEl00,rushing,NYG,5,35,2,16,3.2,19,3.8,0,NA,202111070nyg
+Daniel Jones,JoneDa05,rushing,NYG,4,17,1,10,2.5,7,1.8,0,NA,202111070nyg
+Kadarius Toney,ToneKa00,rushing,NYG,1,-2,0,-2,-2,0,0,0,NA,202111070nyg

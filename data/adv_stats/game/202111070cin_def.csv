@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Greg Newsome II,NewsGr00,defense,CLE,0,11,6,54.5%,76,12.7,6.9,0,76.3,18.2,39,37,0,0,0,0,0,5,1,16.7%,202111070cin
+Troy Hill,HillTr01,defense,CLE,0,6,5,83.3%,47,9.4,7.8,0,99.3,6.2,9,38,3,0,1,2,3,7,2,22.2%,202111070cin
+Sione Takitaki,TakiSi00,defense,CLE,0,5,5,100.0%,44,8.8,8.8,0,103.3,6.2,31,13,0,0,0,0,0,7,0,0.0%,202111070cin
+Malcolm Smith,SmitMa02,defense,CLE,0,6,4,66.7%,34,8.5,5.7,0,81.2,1.5,2,32,1,0,0,0,0,0,1,100.0%,202111070cin
+Anthony Walker,WalkAn01,defense,CLE,0,3,3,100.0%,31,10.3,10.3,0,109.7,3.3,10,21,1,1,0,1,2,14,0,0.0%,202111070cin
+Ifeadi Odenigbo,OdenIf00,defense,CLE,0,1,1,100.0%,12,12,12,0,116.7,-6,-6,18,0,0,1,0,1,2,1,33.3%,202111070cin
+A.J. Green,GreeAJ00,defense,CLE,0,2,1,50.0%,9,9,4.5,0,62.5,15.5,9,0,0,0,0,0,0,3,0,0.0%,202111070cin
+Denzel Ward,WardDe02,defense,CLE,1,4,1,25.0%,11,11,2.8,0,0,9,9,2,0,0,0,0,0,2,0,0.0%,202111070cin
+Elijah Lee,LeexEl00,defense,CLE,0,1,1,100.0%,5,5,5,0,87.5,4,4,1,1,0,0,0,0,4,0,0.0%,202111070cin
+John Johnson,JohnJo10,defense,CLE,1,1,1,100.0%,3,3,3,0,39.6,1,1,2,0,0,0,0,0,3,0,0.0%,202111070cin
+Greedy Williams,WillGr00,defense,CLE,0,1,1,100.0%,16,16,16,0,118.7,16,16,0,0,0,0,0,0,0,0,NA,202111070cin
+Myles Garrett,GarrMy00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1.5,4,2,0,0.0%,202111070cin
+Sheldon Day,DayxSh00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0.5,3,2,0,0.0%,202111070cin
+Jordan Elliott,ElliJo02,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202111070cin
+Jadeveon Clowney,ClowJa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202111070cin
+Malik McDowell,McDoMa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202111070cin
+Ronnie Harrison,HarrRo02,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202111070cin
+Eli Apple,ApplEl00,defense,CIN,0,5,4,80.0%,101,25.3,20.2,1,158.3,17.4,79,22,0,0,0,0,0,3,1,25.0%,202111070cin
+Mike Hilton,HiltMi01,defense,CIN,0,5,4,80.0%,44,11,8.8,1,142.9,7.8,33,11,0,0,0,0,0,2,1,33.3%,202111070cin
+Germaine Pratt,PratGe00,defense,CIN,0,2,2,100.0%,1,0.5,0.5,0,79.2,-1.5,-3,4,4,0,0,0,0,6,1,14.3%,202111070cin
+Vonn Bell,BellVo00,defense,CIN,0,1,1,100.0%,21,21,21,0,118.7,20,20,1,1,1,0,0,1,4,0,0.0%,202111070cin
+Markus Bailey,BailMa01,defense,CIN,0,2,1,50.0%,22,22,11,0,89.6,3.5,6,16,0,0,0,0,0,0,0,NA,202111070cin
+Logan Wilson,WilsLo00,defense,CIN,0,1,1,100.0%,3,3,3,0,79.2,-3,-3,6,3,0,0,0,0,6,1,14.3%,202111070cin
+Chidobe Awuzie,AwuzCh00,defense,CIN,0,2,1,50.0%,26,26,13,0,95.8,20.5,24,2,0,0,0,0,0,1,0,0.0%,202111070cin
+Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,1,4,4,0,0.0%,202111070cin
+Larry Ogunjobi,OgunLa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,2,50.0%,202111070cin
+B.J. Hill,HillB.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,202111070cin
+Trey Hendrickson,HendTr00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,1,50.0%,202111070cin
+Khalid Kareem,KareKh00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202111070cin
+Jessie Bates III,BateJe00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,25,NA,NA,0,0,0,0,0,4,2,33.3%,202111070cin
+Trey Hopkins,HopkTr01,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202111070cin

@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Mac Jones,JoneMa05,passing,NWE,12,18,139,5,25,116,6.4,48,4,2.7,91,7.6,1,5.6%,4,22.2%,2,6,1,0,3,15.0%,0,NA,202111070car
+Sam Darnold,DarnSa00,passing,CAR,16,33,172,8,23.5,183,5.5,63,3.9,1.9,109,6.8,0,0.0%,7,23.3%,1,8,11,2,14,37.8%,3,3,202111070car

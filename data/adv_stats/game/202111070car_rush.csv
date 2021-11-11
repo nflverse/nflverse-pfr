@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Harris,HarrDa06,rushing,NWE,15,30,1,14,0.9,16,1.1,2,7.5,202111070car
+Rhamondre Stevenson,StevRh00,rushing,NWE,10,62,3,37,3.7,25,2.5,2,5,202111070car
+Brandon Bolden,BoldBr00,rushing,NWE,8,54,4,29,3.6,25,3.1,1,8,202111070car
+Brian Hoyer,HoyeBr00,rushing,NWE,3,-3,NA,-3,-1,0,0,0,NA,202111070car
+Mac Jones,JoneMa05,rushing,NWE,2,4,2,4,2,0,0,0,NA,202111070car
+Jonnu Smith,SmitJo01,rushing,NWE,1,4,NA,2,2,2,2,0,NA,202111070car
+Christian McCaffrey,McCaCh01,rushing,CAR,14,52,4,28,2,24,1.7,0,NA,202111070car
+Sam Darnold,DarnSa00,rushing,CAR,3,9,0,9,3,0,0,0,NA,202111070car
+Chuba Hubbard,HubbCh01,rushing,CAR,3,3,0,0,0,3,1,0,NA,202111070car
+D.J. Moore,MoorD.00,rushing,CAR,2,14,1,7,3.5,7,3.5,1,2,202111070car
+Ameer Abdullah,AbduAm00,rushing,CAR,1,0,0,0,0,0,0,0,NA,202111070car

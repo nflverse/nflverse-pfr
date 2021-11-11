@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+De'Vondre Campbell,CampDe00,defense,GNB,0,6,4,66.7%,46,11.5,7.7,0,89.6,6,24,22,3,0,0,0,0,7,1,12.5%,202111070kan
+Krys Barnes,BarnKr00,defense,GNB,0,5,4,80.0%,45,11.3,9,0,104.2,1.6,8,37,1,0,0,0,0,9,1,10.0%,202111070kan
+Kevin King,KingKe01,defense,GNB,0,6,3,50.0%,21,7,3.5,0,58.3,9,0,21,0,0,0,0,0,7,0,0.0%,202111070kan
+Chandon Sullivan,SullCh00,defense,GNB,0,5,3,60.0%,18,6,3.6,0,67.1,10.8,1,17,0,0,0,0,0,5,0,0.0%,202111070kan
+Rasul Douglas,DougRa00,defense,GNB,0,5,2,40.0%,22,11,4.4,0,53.7,16.8,19,3,0,0,0,0,0,4,0,0.0%,202111070kan
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,5,2,40.0%,-1,-0.5,-0.2,1,87.5,4.8,-1,0,0,0,0,0,0,3,0,0.0%,202111070kan
+Adrian Amos,AmosAd00,defense,GNB,0,2,1,50.0%,13,13,6.5,0,70.8,32,13,0,0,0,0,0,0,4,0,0.0%,202111070kan
+Oren Burks,BurkOr00,defense,GNB,0,1,1,100.0%,2,2,2,0,79.2,-1,-1,3,1,0,0,0,0,2,0,0.0%,202111070kan
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,2,0,0.0%,202111070kan
+Preston Smith,SmitPr00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202111070kan
+Jonathan Garvin,GarvJo00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,1,0,0.0%,202111070kan
+Henry Black,BlacHe00,defense,GNB,0,1,0,0.0%,NA,NA,0,NA,39.6,8,NA,NA,0,0,0,0,0,0,0,NA,202111070kan
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202111070kan
+L'Jarius Sneed,SneeLJ00,defense,KAN,1,9,5,55.6%,42,8.4,4.7,0,28.2,7,7,35,3,0,0,0,0,6,1,14.3%,202111070kan
+Tyrann Mathieu,MathTy00,defense,KAN,0,5,4,80.0%,22,5.5,4.4,0,85,4.6,18,4,3,0,0,1,1,6,0,0.0%,202111070kan
+Daniel Sorensen,SoreDa01,defense,KAN,0,3,2,66.7%,35,17.5,11.7,1,145.8,2,10,25,6,0,1,0,1,1,1,50.0%,202111070kan
+Rashad Fenton,FentRa00,defense,KAN,0,3,2,66.7%,3,1.5,1,0,70.1,12.3,3,0,0,0,0,0,0,4,0,0.0%,202111070kan
+Willie Gay Jr.,GayJWi00,defense,KAN,0,2,2,100.0%,24,12,12,0,116.7,2,4,20,2,0,0,0,0,2,0,0.0%,202111070kan
+Juan Thornhill,ThorJu00,defense,KAN,0,1,1,100.0%,35,35,35,0,118.7,35,35,0,3,0,0,0,0,4,0,0.0%,202111070kan
+Nick Bolton,BoltNi00,defense,KAN,0,1,1,100.0%,16,16,16,0,118.7,15,15,1,4,0,0,0,0,5,0,0.0%,202111070kan
+Charvarius Ward,WardCh01,defense,KAN,0,5,1,20.0%,14,14,2.8,0,39.6,16,14,0,0,0,0,0,0,7,0,0.0%,202111070kan
+Anthony Hitchens,HitcAn00,defense,KAN,0,2,1,50.0%,-1,-1,-0.5,0,56.2,2.5,-3,2,0,0,0,0,0,7,0,0.0%,202111070kan
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,2,0,5,2,0,0.0%,202111070kan
+Frank Clark,ClarFr01,defense,KAN,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,1,3,0,4,2,0,0.0%,202111070kan
+Ben Niemann,NiemBe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,1,0,0,1,1,0,0.0%,202111070kan
+Melvin Ingram,IngrMe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,0,0,1,1,0,0.0%,202111070kan
+Derrick Nnadi,NnadDe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202111070kan
+Tershawn Wharton,WharTe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202111070kan
