@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,13,63,4,39,3,24,1.8,0,NA,202111080pit
+Justin Fields,FielJu00,rushing,CHI,8,45,2,43,5.4,2,0.3,0,NA,202111080pit
+Khalil Herbert,HerbKh00,rushing,CHI,4,13,NA,4,1,9,2.3,0,NA,202111080pit
+Darnell Mooney,MoonDa00,rushing,CHI,1,15,1,15,15,0,0,0,NA,202111080pit
+Najee Harris,HarrNa00,rushing,PIT,22,62,5,40,1.8,22,1,4,5.5,202111080pit
+Chase Claypool,ClayCh01,rushing,PIT,2,13,2,9,4.5,4,2,0,NA,202111080pit
+Diontae Johnson,JohnDi01,rushing,PIT,2,11,0,11,5.5,0,0,0,NA,202111080pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,2,0,0,-1,-0.5,1,0.5,0,NA,202111080pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,2,6,1,5,2.5,1,0.5,0,NA,202111080pit
+James Washington,WashJa00,rushing,PIT,2,13,0,10,5,3,1.5,0,NA,202111080pit
