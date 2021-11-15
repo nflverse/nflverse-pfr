@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devonta Freeman,FreeDe00,rushing,BAL,10,35,3,17,1.7,18,1.8,1,10,202111110mia
+Lamar Jackson,JackLa00,rushing,BAL,9,39,3,23,2.6,16,1.8,0,NA,202111110mia
+Le'Veon Bell,BellLe00,rushing,BAL,3,1,NA,0,0,1,0.3,1,3,202111110mia
+Devin Duvernay,DuveDe00,rushing,BAL,1,19,1,19,19,0,0,0,NA,202111110mia
+Myles Gaskin,GaskMy00,rushing,MIA,14,31,1,20,1.4,11,0.8,0,NA,202111110mia
+Tua Tagovailoa,TagoTu00,rushing,MIA,3,0,1,0,0,0,0,0,NA,202111110mia
+Salvon Ahmed,AhmeSa01,rushing,MIA,2,6,1,4,2,2,1,0,NA,202111110mia
+Albert Wilson,WilsAl02,rushing,MIA,2,19,1,0,0,19,9.5,1,2,202111110mia
+Jacoby Brissett,BrisJa00,rushing,MIA,1,4,0,0,0,4,4,0,NA,202111110mia
