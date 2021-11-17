@@ -1,5 +1,4 @@
-
-# game_id <- "202109300cin"
+# game_id <- "201502010sea"
 
 pfr_game_snap_counts <- function(game_id){
 
@@ -83,4 +82,11 @@ pfr_game_snap_counts <- function(game_id){
       dplyr::across(offense_snaps : st_pct, ~ as.numeric(.x)),
       dplyr::across(dplyr::contains("pct"), ~magrittr::divide_by(.x,100))
     )
+
+  if(game_id %in% readLines("data/snap_counts/flip_ids.txt")) {
+    out <- out %>%
+      dplyr::mutate(location = dplyr::case_when(location == "home" ~ "away", TRUE ~ "home"))
+  }
+
+  return(out)
 }
