@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Leonard Fournette,FourLe00,receiving,TAM,9,8,45,0,2,17,2.1,28,3.5,3.1,0,NA,1,11.1,0,87.5,202111140was
+Chris Godwin,GodwCh00,receiving,TAM,8,7,57,0,2,21,3,36,5.1,4.4,1,7,1,12.5,0,96.4,202111140was
+Tyler Johnson,JohnTy00,receiving,TAM,5,3,17,0,NA,7,2.3,10,3.3,5.6,0,NA,0,0,0,66.2,202111140was
+Mike Evans,EvanMi00,receiving,TAM,3,2,62,1,2,27,13.5,35,17.5,14,0,NA,0,0,1,109.7,202111140was
+Giovani Bernard,BernGi00,receiving,TAM,3,1,4,0,0,4,4,0,0,4.3,0,NA,1,33.3,0,42.4,202111140was
+Cameron Brate,BratCa00,receiving,TAM,3,1,6,1,1,6,6,0,0,9,0,NA,0,0,0,81.9,202111140was
+Jaelon Darden,DardJa00,receiving,TAM,2,1,29,0,1,25,25,4,4,14,0,NA,0,0,1,56.2,202111140was
+Terry McLaurin,McLaTe00,receiving,WAS,8,6,59,0,3,35,5.8,24,4,7.3,0,NA,1,12.5,0,95.3,202111140was
+J.D. McKissic,McKiJ.00,receiving,WAS,4,4,35,0,1,2,0.5,33,8.3,0.5,0,NA,0,0,0,103.1,202111140was
+John Bates,BateJo00,receiving,WAS,3,3,25,0,1,18,6,7,2.3,6,0,NA,0,0,0,101.4,202111140was
+DeAndre Carter,CartDe02,receiving,WAS,6,3,56,1,3,55,18.3,1,0.3,15.5,0,NA,0,0,0,122.2,202111140was
+Ricky Seals-Jones,SealRi00,receiving,WAS,4,3,30,0,2,14,4.7,16,5.3,5.5,0,NA,1,25,0,95.8,202111140was
+Antonio Gibson,GibsAn00,receiving,WAS,2,2,14,0,1,12,6,2,1,6,0,NA,0,0,0,95.8,202111140was
+Dax Milne,MilnDa00,receiving,WAS,2,2,22,0,1,21,10.5,1,0.5,10.5,0,NA,0,0,0,112.5,202111140was
+Cam Sims,SimsCa00,receiving,WAS,2,2,10,0,NA,5,2.5,5,2.5,2.5,0,NA,0,0,0,87.5,202111140was
+Adam Humphries,HumpAd00,receiving,WAS,1,1,5,0,1,5,5,0,0,5,0,NA,0,0,0,87.5,202111140was

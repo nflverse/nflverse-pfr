@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Trevor Lawrence,LawrTr00,passing,JAX,16,35,170,7,18.4,335,9.6,89,5.6,2.5,81,5.1,3,8.6%,12,34.3%,3,9,1,8,12,28.6%,4,8,202111140clt
+Carson Wentz,WentCa00,passing,IND,22,34,180,9,25.7,166,4.9,77,3.5,2.3,103,4.7,2,6.1%,6,18.2%,1,15,4,7,12,33.3%,1,2,202111140clt

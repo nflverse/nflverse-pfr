@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+D'Ernest Johnson,JohnDE04,rushing,CLE,19,99,4,56,2.9,43,2.3,2,9.5,202111140nwe
+Johnny Stanton,StanJo02,rushing,CLE,1,0,NA,0,0,0,0,0,NA,202111140nwe
+Rhamondre Stevenson,StevRh00,rushing,NWE,20,100,7,45,2.3,55,2.8,3,6.7,202111140nwe
+J.J. Taylor,TaylJJ01,rushing,NWE,6,11,NA,5,0.8,6,1,0,NA,202111140nwe
+Brandon Bolden,BoldBr00,rushing,NWE,3,32,1,25,8.3,7,2.3,0,NA,202111140nwe
+Kendrick Bourne,BourKe00,rushing,NWE,3,43,2,37,12.3,6,2,0,NA,202111140nwe
+Brian Hoyer,HoyeBr00,rushing,NWE,2,-2,0,-2,-1,0,0,0,NA,202111140nwe

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alex Collins,CollAl00,rushing,SEA,10,41,3,21,2.1,20,2,0,NA,202111140gnb
+Russell Wilson,WilsRu00,rushing,SEA,5,32,2,18,3.6,14,2.8,1,5,202111140gnb
+Travis Homer,HomeTr00,rushing,SEA,1,2,1,1,1,1,1,0,NA,202111140gnb
+AJ Dillon,DillAJ00,rushing,GNB,21,66,8,27,1.3,39,1.9,2,10.5,202111140gnb
+Aaron Jones,JoneAa00,rushing,GNB,7,25,0,12,1.7,13,1.9,0,NA,202111140gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,2,8,1,8,4,0,0,0,NA,202111140gnb
+Patrick Taylor,TaylPa01,rushing,GNB,2,7,1,3,1.5,4,2,0,NA,202111140gnb

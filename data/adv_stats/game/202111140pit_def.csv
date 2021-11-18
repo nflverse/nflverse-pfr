@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Demarcus Christmas,ChriDe01,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,0,NA,1,NA,202111140pit
+Amani Oruwariye,OruwAm00,defense,DET,0,9,6,66.7%,47,7.8,5.2,0,79.4,8.6,33,14,0,0,0,0,0,7,0,0.0%,202111140pit
+AJ Parker,ParkAJ00,defense,DET,0,7,5,71.4%,38,7.6,5.4,1,123.8,7.6,34,4,1,0,0,0,0,5,2,28.6%,202111140pit
+Alex Anzalone,AnzaAl00,defense,DET,0,3,3,100.0%,22,7.3,7.3,0,97.2,3,9,13,5,0,0,0,0,9,3,25.0%,202111140pit
+Will Harris,HarrWi02,defense,DET,0,5,3,60.0%,22,7.3,4.4,0,70.4,8.2,9,13,2,0,0,0,0,3,1,25.0%,202111140pit
+Dean Marlowe,MarlDe00,defense,DET,0,4,3,75.0%,20,6.7,5,0,85.4,4.8,14,6,2,0,0,0,0,5,0,0.0%,202111140pit
+Jalen Reeves-Maybin,ReevJa00,defense,DET,0,4,2,50.0%,1,0.5,0.3,0,56.2,0.8,-1,2,2,0,0,0,0,8,1,11.1%,202111140pit
+Mark Gilbert,GilbMa02,defense,DET,0,7,2,28.6%,42,21,6,0,52.1,9.4,23,19,0,0,0,0,0,3,1,25.0%,202111140pit
+Tracy Walker,WalkTr01,defense,DET,0,2,2,100.0%,20,10,10,0,108.3,6.5,13,7,0,0,0,0,0,7,0,0.0%,202111140pit
+Charles Harris,HarrCh03,defense,DET,0,2,2,100.0%,1,0.5,0.5,0,79.2,-2,-4,5,1,0,0,0,0,6,0,0.0%,202111140pit
+Trey Flowers,FlowTr00,defense,DET,0,1,1,100.0%,9,9,9,0,104.2,0,0,9,0,0,0,0,0,2,0,0.0%,202111140pit
+Jerry Jacobs,JacoJe00,defense,DET,0,4,1,25.0%,20,20,5,0,47.9,10.5,9,11,0,0,0,0,0,0,3,100.0%,202111140pit
+Michael Brockers,BrocMi00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,2,33.3%,202111140pit
+John Penisini,PeniJo00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202111140pit
+Da'Shawn Hand,HandDa00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202111140pit
+Derrick Barnes,BarnDe02,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,3,1,25.0%,202111140pit
+Julian Okwara,OkwaJu00,defense,DET,1,1,0,0.0%,NA,NA,0,NA,0,6,NA,NA,0,0,0,0,0,2,0,0.0%,202111140pit
+Devin Bush Jr.,BushDe01,defense,PIT,0,5,4,80.0%,48,12,9.6,0,106.7,6.6,28,20,3,0,0,0,0,8,1,11.1%,202111140pit
+Terrell Edmunds,EdmuTe00,defense,PIT,0,4,3,75.0%,8,2.7,2,0,77.1,-1.5,-7,15,3,0,0,1,1,5,1,16.7%,202111140pit
+Tre Norwood,NorwTr00,defense,PIT,0,5,3,60.0%,32,10.7,6.4,0,78.7,3,-2,34,0,0,0,0,0,1,1,50.0%,202111140pit
+James Pierre,PierJa01,defense,PIT,0,3,2,66.7%,9,4.5,3,0,70.1,7.7,6,3,0,0,0,0,0,7,0,0.0%,202111140pit
+Joe Haden,HadeJo99,defense,PIT,0,2,1,50.0%,2,2,1,0,56.2,20,0,2,0,0,0,0,0,1,0,0.0%,202111140pit
+Joe Schobert,SchoJo00,defense,PIT,0,1,1,100.0%,5,5,5,0,87.5,5,5,0,0,0,0,0,0,13,0,0.0%,202111140pit
+T.J. Watt,WattT.00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,5,1,16.7%,202111140pit
+Cameron Heyward,HeywCa01,defense,PIT,0,2,0,0.0%,NA,NA,0,NA,39.6,-4,NA,NA,0,0,0,2,2,5,1,16.7%,202111140pit
+Alex Highsmith,HighAl02,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,-2,NA,NA,1,0,1,0,1,11,1,8.3%,202111140pit
+Henry Mondeaux,MondHe00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202111140pit
+Miles Killebrew,KillMi00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,2,66.7%,202111140pit
+Derrek Tuszka,TuszDe00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,2,100.0%,202111140pit
+Minkah Fitzpatrick,FitzMi00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,2,28.6%,202111140pit
+Cameron Sutton,SuttCa00,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,0,1,100.0%,202111140pit

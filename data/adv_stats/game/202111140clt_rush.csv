@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Robinson,RobiJa00,rushing,JAX,12,57,5,37,3.1,20,1.7,0,NA,202111140clt
+Trevor Lawrence,LawrTr00,rushing,JAX,5,33,0,32,6.4,1,0.2,0,NA,202111140clt
+Jamal Agnew,AgneJa00,rushing,JAX,3,79,1,72,24,7,2.3,0,NA,202111140clt
+Carlos Hyde,HydeCa00,rushing,JAX,2,4,NA,1,0.5,3,1.5,0,NA,202111140clt
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,2,6,0,2,1,4,2,0,NA,202111140clt
+Jonathan Taylor,TaylJo02,rushing,IND,21,116,5,84,4,32,1.5,0,NA,202111140clt
+Carson Wentz,WentCa00,rushing,IND,4,-1,0,-1,-0.3,0,0,0,NA,202111140clt
+Nyheim Hines,HineNy00,rushing,IND,2,12,0,9,4.5,3,1.5,0,NA,202111140clt

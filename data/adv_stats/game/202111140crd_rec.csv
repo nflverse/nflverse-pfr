@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Christian McCaffrey,McCaCh01,receiving,CAR,10,10,66,0,3,28,2.8,38,3.8,2.8,0,NA,0,0,0,94.2,202111140crd
+Ameer Abdullah,AbduAm00,receiving,CAR,4,4,27,0,1,-5,-1.3,32,8,-1.3,0,NA,0,0,0,94.8,202111140crd
+Robby Anderson,AndeRo04,receiving,CAR,6,4,37,1,3,17,4.3,20,5,3.2,0,NA,0,0,0,122.9,202111140crd
+D.J. Moore,MoorD.00,receiving,CAR,7,4,24,0,2,20,5,4,1,5.1,0,NA,0,0,0,64,202111140crd
+Brandon Zylstra,ZylsBr00,receiving,CAR,2,2,18,0,1,8,4,10,5,4,0,NA,0,0,0,104.2,202111140crd
+Tommy Tremble,TremTo00,receiving,CAR,1,1,3,0,NA,0,0,3,3,0,0,NA,0,0,0,79.2,202111140crd
+Terrace Marshall Jr.,MarsTe00,receiving,CAR,2,0,0,0,NA,0,NA,0,NA,19,0,NA,0,0,1,0,202111140crd
+Christian Kirk,KirkCh01,receiving,ARI,8,7,58,0,3,45,6.4,13,1.9,6.5,0,NA,0,0,0,96.9,202111140crd
+Zach Ertz,ErtzZa00,receiving,ARI,6,4,46,0,2,28,7,18,4.5,10,1,4,0,0,0,89.6,202111140crd
+James Conner,ConnJa00,receiving,ARI,4,3,25,0,1,1,0.3,24,8,1.8,0,NA,0,0,0,90.6,202111140crd
+Rondale Moore,MoorRo02,receiving,ARI,4,2,10,0,NA,2,1,8,4,9.8,0,NA,0,0,0,56.2,202111140crd
+A.J. Green,GreeA.00,receiving,ARI,5,1,4,0,NA,-2,-2,6,6,10.8,0,NA,0,0,0,39.6,202111140crd
+Eno Benjamin,BenjEn00,receiving,ARI,1,0,0,0,NA,0,NA,0,NA,3,0,NA,0,0,0,39.6,202111140crd
+Antoine Wesley,WeslAn01,receiving,ARI,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,1,0,202111140crd

@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Christian McCaffrey,McCaCh01,rushing,CAR,13,95,6,56,4.3,39,3,1,13,202111140crd
+Ameer Abdullah,AbduAm00,rushing,CAR,9,24,2,9,1,15,1.7,0,NA,202111140crd
+Chuba Hubbard,HubbCh01,rushing,CAR,9,27,2,5,0.6,22,2.4,1,9,202111140crd
+Cam Newton,NewtCa00,rushing,CAR,3,14,2,11,3.7,3,1,1,3,202111140crd
+P.J. Walker,WalkPh00,rushing,CAR,3,6,1,6,2,0,0,0,NA,202111140crd
+James Conner,ConnJa00,rushing,ARI,10,39,3,19,1.9,20,2,1,10,202111140crd
+Eno Benjamin,BenjEn00,rushing,ARI,6,22,NA,11,1.8,11,1.8,0,NA,202111140crd
+Chris Streveler,StreCh00,rushing,ARI,2,4,0,1,0.5,3,1.5,0,NA,202111140crd
+Colt McCoy,McCoCo00,rushing,ARI,1,-1,0,-1,-1,0,0,0,NA,202111140crd
+Rondale Moore,MoorRo02,rushing,ARI,1,1,NA,0,0,1,1,0,NA,202111140crd

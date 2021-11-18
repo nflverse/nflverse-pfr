@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Adam Trautman,TrauAd00,receiving,NOR,6,5,32,0,1,8,1.6,24,4.8,2,0,NA,1,16.7,0,88.9,202111140oti
+Tre'Quan Smith,SmitTr03,receiving,NOR,7,4,44,1,2,28,7,16,4,6.1,0,NA,0,0,0,115.5,202111140oti
+Mark Ingram,IngrMa01,receiving,NOR,7,4,61,0,3,21,5.3,40,10,0.3,1,4,0,0,0,86,202111140oti
+Deonte Harris,HarrDe07,receiving,NOR,4,3,84,0,3,62,20.7,22,7.3,14.5,0,NA,0,0,0,116.7,202111140oti
+Marquez Callaway,CallMa01,receiving,NOR,4,2,37,1,2,37,18.5,0,0,23.3,0,NA,0,0,0,121.9,202111140oti
+Juwan Johnson,JohnJu02,receiving,NOR,3,2,36,0,2,27,13.5,9,4.5,11.7,0,NA,1,33.3,0,107.6,202111140oti
+Taysom Hill,HillTa00,receiving,NOR,2,1,15,0,1,6,6,9,9,4,0,NA,0,0,0,75,202111140oti
+Kevin White,WhitKe00,receiving,NOR,2,0,0,0,NA,0,NA,0,NA,14,0,NA,0,0,0,39.6,202111140oti
+Marcus Johnson,JohnMa07,receiving,TEN,6,5,100,0,4,36,7.2,64,12.8,5.3,0,NA,0,0,0,118.7,202111140oti
+Geoff Swaim,SwaiGe00,receiving,TEN,5,4,26,0,2,17,4.3,9,2.3,6.2,0,NA,0,0,0,88.3,202111140oti
+D'Onta Foreman,ForeDO00,receiving,TEN,2,2,48,0,2,3,1.5,45,22.5,1.5,0,NA,0,0,0,118.7,202111140oti
+Jeremy McNichols,McNiJe00,receiving,TEN,3,1,1,0,NA,-2,-2,3,3,4.7,0,NA,1,33.3,0,42.4,202111140oti
+Adrian Peterson,PeteAd01,receiving,TEN,1,1,-1,0,0,-1,-1,0,0,-1,0,NA,0,0,0,79.2,202111140oti
+MyCole Pruitt,PruiMy00,receiving,TEN,1,1,2,1,1,2,2,0,0,2,0,NA,0,0,0,118.7,202111140oti
+Chester Rogers,RogeCh02,receiving,TEN,1,1,9,0,NA,7,7,2,2,7,0,NA,0,0,0,104.2,202111140oti
+Dez Fitzpatrick,FitzDe00,receiving,TEN,1,1,0,0,NA,-1,-1,1,1,-1,0,NA,0,0,0,79.2,202111140oti
+Anthony Firkser,FirkAn00,receiving,TEN,2,1,2,0,NA,1,1,1,1,-3,0,NA,0,0,0,56.2,202111140oti
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,1,1,10,0,NA,10,10,0,0,10,0,NA,0,0,0,108.3,202111140oti
+A.J. Brown,BrowAJ00,receiving,TEN,4,1,16,0,1,16,16,0,0,12.8,0,NA,1,25,0,43.7,202111140oti

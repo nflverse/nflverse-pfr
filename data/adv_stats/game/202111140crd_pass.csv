@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+P.J. Walker,WalkPh00,passing,CAR,22,29,167,9,31,118,4.1,69,3.1,2.4,98,4.5,0,0.0%,4,14.3%,0,10,3,3,6,20.0%,1,5,202111140crd
+Cam Newton,NewtCa00,passing,CAR,3,4,8,1,25,6,1.5,-1,-0.3,-0.3,9,3,0,0.0%,1,25.0%,0,3,0,0,0,0.0%,0,NA,202111140crd
+Colt McCoy,McCoCo00,passing,ARI,11,20,107,5,22.7,195,9.8,46,4.2,2.3,61,5.5,0,0.0%,7,35.0%,2,6,3,4,9,40.9%,0,NA,202111140crd
+Chris Streveler,StreCh00,passing,ARI,6,9,36,1,9.1,38,4.2,14,2.3,1.6,22,3.7,0,0.0%,2,22.2%,2,0,1,0,3,25.0%,1,4,202111140crd

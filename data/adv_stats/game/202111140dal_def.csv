@@ -1,0 +1,34 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Fabian Moreau,MoreFa00,defense,ATL,0,8,6,75.0%,104,17.3,13,1,156.2,5.3,39,65,0,0,0,0,0,6,0,0.0%,202111140dal
+Avery Williams,WillAv02,defense,ATL,0,4,4,100.0%,44,11,11,1,152.1,5,20,24,0,0,0,0,0,2,3,60.0%,202111140dal
+Foyesade Oluokun,OluoFo00,defense,ATL,0,3,3,100.0%,35,11.7,11.7,0,115.3,6.3,19,16,1,0,0,0,0,14,1,6.7%,202111140dal
+Richie Grant,GranRi00,defense,ATL,0,2,2,100.0%,21,10.5,10.5,0,110.4,5.5,11,10,0,0,0,0,0,3,0,0.0%,202111140dal
+Deion Jones,JoneDe01,defense,ATL,0,2,2,100.0%,28,14,14,0,118.7,0,0,28,1,0,0,0,0,5,1,16.7%,202111140dal
+Erik Harris,HarrEr00,defense,ATL,0,3,2,66.7%,9,4.5,3,0,70.1,3.7,-2,11,1,0,0,0,0,7,1,12.5%,202111140dal
+AJ Terrell,TerrAJ00,defense,ATL,0,3,2,66.7%,19,9.5,6.3,0,84,8.7,15,4,1,0,0,0,0,7,0,0.0%,202111140dal
+Duron Harmon,HarmDu00,defense,ATL,0,2,2,100.0%,22,11,11,0,112.5,8,16,6,0,0,0,0,0,5,0,0.0%,202111140dal
+James Vaughters,VaugJa01,defense,ATL,0,1,1,100.0%,14,14,14,0,118.7,6,6,8,0,0,1,0,1,1,0,0.0%,202111140dal
+Daren Bates,BateDa00,defense,ATL,0,1,1,100.0%,3,3,3,0,79.2,3,3,0,1,0,0,0,0,3,0,0.0%,202111140dal
+Olamide Zaccheaus,ZaccOl01,defense,ATL,0,1,1,100.0%,NA,NA,0,NA,79.2,4,NA,NA,0,0,0,0,0,2,0,0.0%,202111140dal
+Darren Hall,HallDa03,defense,ATL,0,1,1,100.0%,9,9,9,0,104.2,6,6,3,0,0,0,0,0,1,1,50.0%,202111140dal
+Mykal Walker,WalkMy00,defense,ATL,0,3,1,33.3%,5,5,1.7,0,42.4,1,4,1,0,0,0,0,0,2,1,33.3%,202111140dal
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,5,0,0.0%,202111140dal
+Adetokunbo Ogundeji,OgunAd01,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202111140dal
+Dante Fowler,FowlDa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,202111140dal
+Feleipe Franks,FranFe00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,2,100.0%,202111140dal
+Jourdan Lewis,LewiJo01,defense,DAL,1,6,3,50.0%,18,6,3,0,16.7,6.7,13,5,1,0,0,0,0,3,0,0.0%,202111140dal
+Trevon Diggs,DiggTr00,defense,DAL,1,4,2,50.0%,30,15,7.5,0,35.4,9,23,7,0,0,0,0,0,2,0,0.0%,202111140dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,1,1,100.0%,8,8,8,0,100,6,6,2,1,1,0,0,1,3,0,0.0%,202111140dal
+Azur Kamara,KamaAz01,defense,DAL,0,1,1,100.0%,14,14,14,0,118.7,3,3,11,0,0,0,0,0,0,1,100.0%,202111140dal
+Keanu Neal,NealKe01,defense,DAL,0,1,1,100.0%,21,21,21,0,118.7,1,1,20,0,0,0,0,0,4,0,0.0%,202111140dal
+Anthony Brown,BrowAn02,defense,DAL,1,5,1,20.0%,14,14,2.8,0,0,12.2,13,1,0,0,0,0,0,3,0,0.0%,202111140dal
+Damontae Kazee,KazeDa00,defense,DAL,0,1,1,100.0%,9,9,9,0,104.2,8,8,1,0,0,0,0,0,2,0,0.0%,202111140dal
+Kelvin Joseph,JoseKe02,defense,DAL,0,3,1,33.3%,NA,NA,0,NA,42.4,17.3,NA,NA,0,0,0,0,0,0,1,100.0%,202111140dal
+Donovan Wilson,WilsDo01,defense,DAL,0,2,1,50.0%,17,17,8.5,0,79.2,9.5,17,0,1,0,0,0,0,2,1,33.3%,202111140dal
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,3,0,0.0%,202111140dal
+Micah Parsons,ParsMi00,defense,DAL,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,3,0,1,1,2,6,0,0.0%,202111140dal
+Chauncey Golston,GolsCh00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,202111140dal
+Tarell Basham,BashTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202111140dal
+Jayron Kearse,KearJa00,defense,DAL,0,1,0,0.0%,NA,NA,0,NA,39.6,12,NA,NA,0,0,0,0,0,6,0,0.0%,202111140dal
+Luke Gifford,GiffLu00,defense,DAL,0,1,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,0,0,0,0,0,1,0,0.0%,202111140dal
+Osa Odighizuwa,OdigOs00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202111140dal

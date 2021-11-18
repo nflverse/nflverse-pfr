@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Ugo Amadi,AmadUg00,defense,SEA,0,6,6,100.0%,31,5.2,5.2,0,88.2,1,6,25,1,0,0,0,0,7,1,12.5%,202111140gnb
+Jamal Adams,AdamJa00,defense,SEA,1,6,4,66.7%,20,5,3.3,0,31.9,10.8,7,13,3,0,1,0,1,11,0,0.0%,202111140gnb
+Jordyn Brooks,BrooJo01,defense,SEA,0,7,4,57.1%,89,22.3,12.7,0,101.8,4.9,-2,91,0,0,0,0,0,13,1,7.1%,202111140gnb
+Quandre Diggs,DiggQu00,defense,SEA,0,3,3,100.0%,31,10.3,10.3,0,109.7,7,21,10,0,0,0,0,0,6,0,0.0%,202111140gnb
+D.J. Reed,ReedD.00,defense,SEA,0,6,2,33.3%,75,37.5,12.5,0,81.9,11,41,34,0,0,0,0,0,5,3,37.5%,202111140gnb
+Benson Mayowa,MayoBe00,defense,SEA,0,3,2,66.7%,11,5.5,3.7,0,72.9,-1.3,-2,13,0,0,0,0,0,2,0,0.0%,202111140gnb
+Rasheem Green,GreeRa01,defense,SEA,0,1,1,100.0%,24,24,24,0,118.7,1,1,23,0,0,1,1,2,1,0,0.0%,202111140gnb
+Bryan Mone,MoneBr00,defense,SEA,0,1,1,100.0%,8,8,8,0,100,5,5,3,0,0,0,0,0,4,1,20.0%,202111140gnb
+Carlos Dunlap,DunlCa99,defense,SEA,0,1,1,100.0%,3,3,3,0,79.2,0,0,3,1,0,0,0,0,3,0,0.0%,202111140gnb
+Alton Robinson,RobiAl03,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,2,1,33.3%,202111140gnb
+Al Woods,WoodAl99,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202111140gnb
+Poona Ford,FordPo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202111140gnb
+Bobby Wagner,WagnBo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,8,2,20.0%,202111140gnb
+Tre Brown,BrowTr03,defense,SEA,0,2,0,0.0%,NA,NA,0,NA,39.6,22,NA,NA,0,0,0,0,0,0,0,NA,202111140gnb
+Ryan Neal,NealRy00,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,38,NA,NA,1,0,0,0,0,1,0,0.0%,202111140gnb
+Darrell Taylor,TaylDa00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202111140gnb
+Rasul Douglas,DougRa00,defense,GNB,0,6,4,66.7%,27,6.8,4.5,0,76.4,8.7,21,6,0,0,0,0,0,4,0,0.0%,202111140gnb
+Henry Black,BlacHe00,defense,GNB,0,5,4,80.0%,34,8.5,6.8,0,95,12.4,17,17,0,0,0,0,0,4,1,20.0%,202111140gnb
+Krys Barnes,BarnKr00,defense,GNB,0,3,3,100.0%,42,14,14,0,118.7,3,9,33,1,0,0,0,0,5,0,0.0%,202111140gnb
+Chandon Sullivan,SullCh00,defense,GNB,0,6,3,50.0%,34,11.3,5.7,0,67.4,8.3,22,12,0,0,0,0,0,2,0,0.0%,202111140gnb
+Adrian Amos,AmosAd00,defense,GNB,1,7,2,28.6%,10,5,1.4,0,0,23.1,-2,12,0,0,0,0,0,4,2,33.3%,202111140gnb
+Kevin King,KingKe01,defense,GNB,1,5,2,40.0%,10,5,2,0,8.3,13.2,7,3,0,0,0,0,0,1,0,0.0%,202111140gnb
+De'Vondre Campbell,CampDe00,defense,GNB,0,3,1,33.3%,1,1,0.3,0,42.4,3,1,0,5,0,1,0,1,5,0,0.0%,202111140gnb
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,2,1,50.0%,12,12,6,0,68.7,23,1,11,0,0,0,0,0,1,0,0.0%,202111140gnb
+Whitney Mercilus,MercWh00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,202111140gnb
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,0,1,2,3,0,0.0%,202111140gnb
+Preston Smith,SmitPr00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1,0,1,2,1,1,50.0%,202111140gnb
+Kenny Clark,ClarKe01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,1,50.0%,202111140gnb
+Eric Stokes,StokEr00,defense,GNB,0,4,0,0.0%,NA,NA,0,NA,39.6,21.3,NA,NA,0,0,0,0,0,1,0,0.0%,202111140gnb
+Jonathan Garvin,GarvJo00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0,0,3,0,0.0%,202111140gnb

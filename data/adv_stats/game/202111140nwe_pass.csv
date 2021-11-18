@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Baker Mayfield,MayfBa00,passing,CLE,11,21,73,6,26.1,158,7.5,32,2.9,1.5,41,3.7,2,10.0%,3,15.0%,2,4,3,1,6,26.1%,0,NA,202111140nwe
+Case Keenum,KeenCa00,passing,CLE,8,12,81,6,40,76,6.3,20,2.5,1.7,61,7.6,0,0.0%,2,18.2%,3,2,2,2,7,46.7%,0,NA,202111140nwe
+Mac Jones,JoneMa05,passing,NWE,19,23,198,14,56,143,6.2,101,5.3,4.4,97,5.1,1,4.5%,1,4.5%,2,7,1,0,3,12.0%,0,NA,202111140nwe
+Brian Hoyer,HoyeBr00,passing,NWE,3,3,85,3,100,36,12,36,12,12,49,16.3,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,202111140nwe

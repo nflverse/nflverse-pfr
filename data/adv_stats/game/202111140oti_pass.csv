@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Trevor Siemian,SiemTr00,passing,NOR,19,34,298,13,34.2,291,8.6,183,9.6,5.4,115,6.1,2,6.1%,5,15.2%,4,9,2,1,7,18.4%,0,NA,202111140oti
+Taysom Hill,HillTa00,passing,NOR,2,2,11,1,50,6,3,6,3,3,5,2.5,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202111140oti
+Ryan Tannehill,TannRy00,passing,TEN,19,27,213,10,34.5,142,5.3,88,4.6,3.3,125,6.6,2,7.4%,3,11.1%,2,5,0,4,6,20.0%,1,2,202111140oti

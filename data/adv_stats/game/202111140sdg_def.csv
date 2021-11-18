@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Bashaud Breeland,BreeBa00,defense,MIN,0,8,6,75.0%,56,9.3,7,0,93.7,5.4,36,20,0,0,0,0,0,6,0,0.0%,202111140sdg
+Mackensie Alexander,AlexMa01,defense,MIN,0,9,5,55.6%,58,11.6,6.4,0,75.2,6.9,39,19,1,0,0,0,0,5,0,0.0%,202111140sdg
+Eric Kendricks,KendEr00,defense,MIN,1,6,4,66.7%,43,10.8,7.2,1,87.5,7,17,26,5,0,0,1,1,8,1,11.1%,202111140sdg
+Nick Vigil,VigiNi00,defense,MIN,0,4,3,75.0%,19,6.3,4.8,0,84.4,3.5,-2,21,5,0,1,0,1,2,0,0.0%,202111140sdg
+Cameron Dantzler,DantCa00,defense,MIN,0,4,2,50.0%,9,4.5,2.3,0,56.2,1,-2,11,1,0,0,0,0,2,0,0.0%,202111140sdg
+Xavier Woods,WoodXa00,defense,MIN,0,2,1,50.0%,10,10,5,0,64.6,10,10,0,2,0,0,0,0,3,0,0.0%,202111140sdg
+Sheldon Richardson,RichSh00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,202111140sdg
+D.J. Wonnum,WonnDJ00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,202111140sdg
+Camryn Bynum,BynuCa00,defense,MIN,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,2,0,0,1,1,6,0,0.0%,202111140sdg
+Everson Griffen,GrifEv99,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202111140sdg
+Armon Watts,WattAr01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202111140sdg
+Tevaughn Campbell,CampTe00,defense,LAC,0,8,7,87.5%,127,18.1,15.9,0,118.7,16.5,114,13,1,0,0,0,0,6,1,14.3%,202111140sdg
+Asante Samuel Jr.,SamuAs00,defense,LAC,0,6,4,66.7%,61,15.3,10.2,0,100,4,17,44,0,0,0,0,0,1,2,66.7%,202111140sdg
+Kyzir White,WhitKy00,defense,LAC,0,5,3,60.0%,18,6,3.6,1,106.7,1.8,2,16,1,0,0,0,0,12,0,0.0%,202111140sdg
+Derwin James,JameDe00,defense,LAC,0,4,3,75.0%,12,4,3,1,116.7,3.3,2,10,1,0,0,0,0,12,1,7.7%,202111140sdg
+Chris Harris Jr.,HarrCh01,defense,LAC,0,6,2,33.3%,15,7.5,2.5,0,42.4,10.2,12,3,0,0,0,0,0,2,1,33.3%,202111140sdg
+Alohi Gilman,GilmAl00,defense,LAC,0,2,2,100.0%,20,10,10,0,108.3,4.5,9,11,0,0,0,0,0,6,1,14.3%,202111140sdg
+Kenneth Murray,MurrKe00,defense,LAC,0,2,2,100.0%,27,13.5,13.5,0,118.7,0.5,1,26,2,0,0,0,0,4,2,33.3%,202111140sdg
+Uchenna Nwosu,NwosUc00,defense,LAC,0,1,1,100.0%,-1,-1,-1,0,79.2,-7,-7,6,0,2,2,0,4,2,0,0.0%,202111140sdg
+Kyler Fackrell,FackKy00,defense,LAC,0,1,1,100.0%,15,15,15,0,118.7,-5,-5,20,3,0,0,0,0,2,0,0.0%,202111140sdg
+Jerry Tillery,TillJe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,1,25.0%,202111140sdg
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,4,1,20.0%,202111140sdg
+Amen Ogbongbemiga,OgboAm00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,1,2,2,1,33.3%,202111140sdg
+Justin Jones,JoneJu03,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,6,0,0.0%,202111140sdg
