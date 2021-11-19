@@ -1222,3 +1222,10 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_10_KC_LV,202111140rai,2021,10,REG,KC,LV,Blake Bell,BellBl00,1,1,1,2,2,0
 2021_10_KC_LV,202111140rai,2021,10,REG,KC,LV,Mecole Hardman,HardMe00,1,2,2,1,1,0
 2021_10_KC_LV,202111140rai,2021,10,REG,KC,LV,Tyreek Hill,HillTy00,1,2,2,0,0,0
+2021_10_LA_SF,202111150sfo,2021,10,REG,SF,LA,Elijah Mitchell,MitcEl00,27,48,1.8,43,1.6,2
+2021_10_LA_SF,202111150sfo,2021,10,REG,SF,LA,Jeff Wilson,WilsJe01,10,10,1,18,1.8,0
+2021_10_LA_SF,202111150sfo,2021,10,REG,SF,LA,Deebo Samuel,SamuDe00,5,24,4.8,12,2.4,1
+2021_10_LA_SF,202111150sfo,2021,10,REG,SF,LA,Jimmy Garoppolo,GaroJi00,2,1,0.5,0,0,0
+2021_10_LA_SF,202111150sfo,2021,10,REG,LA,SF,Darrell Henderson,HendDa00,5,22,4.4,9,1.8,0
+2021_10_LA_SF,202111150sfo,2021,10,REG,LA,SF,Sony Michel,MichSo00,4,12,3,8,2,0
+2021_10_LA_SF,202111150sfo,2021,10,REG,LA,SF,Matthew Stafford,StafMa00,1,1,1,0,0,0

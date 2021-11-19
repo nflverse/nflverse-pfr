@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Cooper Kupp,KuppCo00,receiving,LAR,13,11,122,0,5,61,5.5,61,5.5,8.3,0,NA,1,7.7,0,105.8,202111150sfo
+Darrell Henderson,HendDa00,receiving,LAR,6,4,10,0,0,-11,-2.8,21,5.3,-0.2,0,NA,0,0,0,70.1,202111150sfo
+Tyler Higbee,HigbTy00,receiving,LAR,5,3,20,1,2,13,4.3,7,2.3,4.2,0,NA,2,40,1,68.7,202111150sfo
+Van Jefferson,JeffVa00,receiving,LAR,7,3,54,0,2,39,13,15,5,12.1,0,NA,1,14.3,0,69.9,202111150sfo
+Odell Beckham Jr.,BeckOd00,receiving,LAR,3,2,18,0,1,17,8.5,1,0.5,22.7,0,NA,0,0,1,43.1,202111150sfo
+Sony Michel,MichSo00,receiving,LAR,2,2,11,0,NA,5,2.5,6,3,2.5,0,NA,0,0,0,89.6,202111150sfo
+Kendall Blanton,BlanKe01,receiving,LAR,1,1,2,0,NA,-4,-4,6,6,-4,0,NA,0,0,0,79.2,202111150sfo
+Ben Skowronek,SkowBe00,receiving,LAR,5,1,8,0,1,5,5,3,3,10.8,0,NA,0,0,0,39.6,202111150sfo
+George Kittle,KittGe00,receiving,SFO,7,5,50,1,4,27,5.4,23,4.6,6.4,1,5,0,0,0,131,202111150sfo
+Deebo Samuel,SamuDe00,receiving,SFO,5,5,97,1,4,41,8.2,56,11.2,8.2,4,1.3,0,0,0,158.3,202111150sfo
+Brandon Aiyuk,AiyuBr00,receiving,SFO,4,3,26,0,1,12,4,14,4.7,4,1,3,0,0,0,91.7,202111150sfo
+Jauan Jennings,JennJa00,receiving,SFO,2,1,3,0,NA,3,3,0,0,8.5,0,NA,0,0,0,56.2,202111150sfo
+Kyle Juszczyk,JuszKy00,receiving,SFO,1,1,6,0,NA,6,6,0,0,6,0,NA,0,0,0,91.7,202111150sfo

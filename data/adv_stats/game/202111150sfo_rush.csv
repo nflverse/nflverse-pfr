@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Darrell Henderson,HendDa00,rushing,LAR,5,31,2,22,4.4,9,1.8,0,NA,202111150sfo
+Sony Michel,MichSo00,rushing,LAR,4,20,NA,12,3,8,2,0,NA,202111150sfo
+Matthew Stafford,StafMa00,rushing,LAR,1,1,0,1,1,0,0,0,NA,202111150sfo
+Elijah Mitchell,MitcEl00,rushing,SFO,27,91,4,48,1.8,43,1.6,2,13.5,202111150sfo
+Jeff Wilson,WilsJe01,rushing,SFO,10,28,2,10,1,18,1.8,0,NA,202111150sfo
+Deebo Samuel,SamuDe00,rushing,SFO,5,36,3,24,4.8,12,2.4,1,5,202111150sfo
+Jimmy Garoppolo,GaroJi00,rushing,SFO,2,1,1,1,0.5,0,0,0,NA,202111150sfo
