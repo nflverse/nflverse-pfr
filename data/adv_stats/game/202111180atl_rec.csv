@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Nelson Agholor,AghoNe00,receiving,NWE,5,5,40,1,2,20,4,20,4,4,0,NA,0,0,0,139.6,202111180atl
+Kendrick Bourne,BourKe00,receiving,NWE,4,4,42,0,1,16,4,26,6.5,4,0,NA,0,0,0,110.4,202111180atl
+Jakobi Meyers,MeyeJa01,receiving,NWE,6,4,39,0,2,35,8.8,4,1,9,0,NA,0,0,0,84.7,202111180atl
+Brandon Bolden,BoldBr00,receiving,NWE,2,2,15,0,NA,1,0.5,14,7,0.5,1,2,0,0,0,97.9,202111180atl
+N'Keal Harry,HarrNK00,receiving,NWE,2,2,14,0,NA,11,5.5,3,1.5,5.5,0,NA,0,0,0,95.8,202111180atl
+Hunter Henry,HenrHu00,receiving,NWE,3,2,25,0,1,21,10.5,4,2,11.7,0,NA,0,0,0,92.4,202111180atl
+Damien Harris,HarrDa06,receiving,NWE,1,1,9,0,0,3,3,6,6,3,0,NA,0,0,0,104.2,202111180atl
+Rhamondre Stevenson,StevRh00,receiving,NWE,1,1,6,0,0,-3,-3,9,9,-3,0,NA,0,0,0,91.7,202111180atl
+Jonnu Smith,SmitJo01,receiving,NWE,2,1,17,0,1,0,0,17,17,12.5,1,1,0,0,1,39.6,202111180atl
+Russell Gage,GageRu00,receiving,ATL,8,5,49,0,2,36,7.2,13,2.6,7,0,NA,0,0,2,40.1,202111180atl
+Olamide Zaccheaus,ZaccOl01,receiving,ATL,5,3,23,0,2,15,5,8,2.7,4.6,0,NA,0,0,1,31.7,202111180atl
+Kyle Pitts,PittKy00,receiving,ATL,5,3,29,0,1,27,9,2,0.7,11.4,0,NA,0,0,1,36.7,202111180atl
+Mike Davis,DaviMi01,receiving,ATL,4,3,20,0,NA,4,1.3,16,5.3,-0.5,0,NA,0,0,0,85.4,202111180atl
+Tajae Sharpe,SharTa00,receiving,ATL,4,2,21,0,1,9,4.5,12,6,8,0,NA,0,0,0,65.6,202111180atl
+Qadree Ollison,OlliQa00,receiving,ATL,3,2,0,0,0,-2,-1,2,1,1.7,0,NA,0,0,0,70.1,202111180atl
+Keith Smith,SmitKe03,receiving,ATL,1,1,11,0,1,2,2,9,9,2,0,NA,0,0,0,112.5,202111180atl
+Parker Hesse,HessPa00,receiving,ATL,1,1,5,0,NA,5,5,0,0,5,0,NA,0,0,0,87.5,202111180atl
