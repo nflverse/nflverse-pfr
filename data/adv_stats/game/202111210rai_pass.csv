@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Joe Burrow,BurrJo01,passing,CIN,20,29,148,10,31.3,220,7.6,63,3.2,2.2,85,4.3,0,0.0%,2,7.1%,3,2,4,2,9,25.7%,3,3.7,202111210rai
+Derek Carr,CarrDe02,passing,LVR,19,27,215,8,27.6,232,8.6,127,6.7,4.7,88,4.6,1,4.0%,5,20.0%,2,6,5,3,10,34.5%,0,NA,202111210rai

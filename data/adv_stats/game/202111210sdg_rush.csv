@@ -1,0 +1,13 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Najee Harris,HarrNa00,rushing,PIT,12,39,5,30,2.5,9,0.8,0,NA,202111210sdg
+Chase Claypool,ClayCh01,rushing,PIT,2,1,0,0,0,1,0.5,0,NA,202111210sdg
+Benny Snell Jr.,SnelBe00,rushing,PIT,2,7,NA,7,3.5,0,0,0,NA,202111210sdg
+Kalen Ballage,BallKa00,rushing,PIT,1,3,NA,3,3,0,0,0,NA,202111210sdg
+Ray-Ray McCloud,McClRa00,rushing,PIT,1,5,0,0,0,5,5,1,1,202111210sdg
+Austin Ekeler,EkelAu00,rushing,LAC,11,50,5,43,3.9,7,0.6,0,NA,202111210sdg
+Justin Herbert,HerbJu00,rushing,LAC,9,90,4,85,9.4,5,0.6,1,9,202111210sdg
+Larry Rountree,RounLa00,rushing,LAC,2,5,NA,3,1.5,2,1,0,NA,202111210sdg
+Jalen Guyton,GuytJa01,rushing,LAC,1,2,0,2,2,0,0,0,NA,202111210sdg
+Justin Jackson,JackJu01,rushing,LAC,1,2,NA,2,2,0,0,0,NA,202111210sdg
+Josh Palmer,PalmJo00,rushing,LAC,1,6,NA,6,6,0,0,0,NA,202111210sdg
+Andre Roberts,RobeAn00,rushing,LAC,1,4,NA,4,4,0,0,0,NA,202111210sdg

@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Trevor Siemian,SiemTr00,passing,NOR,22,40,214,12,30,273,6.8,144,6.5,3.6,70,3.2,1,2.8%,5,13.9%,0,7,7,5,12,29.3%,1,17,202111210phi
+Jalen Hurts,HurtJa00,passing,PHI,13,24,147,7,25.9,202,8.4,54,4.2,2.3,93,7.2,2,8.7%,4,17.4%,3,4,2,4,9,29.0%,4,3.8,202111210phi

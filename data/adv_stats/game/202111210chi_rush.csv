@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devonta Freeman,FreeDe00,rushing,BAL,16,49,3,32,2,17,1.1,0,NA,202111210chi
+Latavius Murray,MurrLa00,rushing,BAL,10,32,3,21,2.1,11,1.1,0,NA,202111210chi
+Tyler Huntley,HuntTy01,rushing,BAL,7,40,2,34,4.9,6,0.9,0,NA,202111210chi
+Patrick Ricard,RicaPa00,rushing,BAL,1,2,1,0,0,2,2,0,NA,202111210chi
+David Montgomery,MontDa01,rushing,CHI,14,58,2,32,2.3,26,1.9,0,NA,202111210chi
+Justin Fields,FielJu00,rushing,CHI,4,23,0,17,4.3,6,1.5,0,NA,202111210chi
+Jakeem Grant,GranJa00,rushing,CHI,1,11,1,10,10,1,1,0,NA,202111210chi
+Khalil Herbert,HerbKh00,rushing,CHI,1,0,NA,0,0,0,0,0,NA,202111210chi

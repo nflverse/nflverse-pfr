@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kenny Moore,MoorKe03,defense,IND,1,6,5,83.3%,38,7.6,6.3,0,53.5,4.2,17,21,1,0,0,0,0,3,1,25.0%,202111210buf
+Isaiah Rodgers,RodgIs00,defense,IND,0,6,5,83.3%,39,7.8,6.5,1,133.3,4,18,21,0,0,0,0,0,4,0,0.0%,202111210buf
+Xavier Rhodes,RhodXa00,defense,IND,0,8,4,50.0%,36,9,4.5,0,62.5,8.8,33,3,0,0,0,0,0,2,0,0.0%,202111210buf
+Zaire Franklin,FranZa00,defense,IND,1,3,2,66.7%,18,9,6,0,43.1,3,-3,21,1,0,0,0,0,3,0,0.0%,202111210buf
+Rock Ya-Sin,Ya-SRo00,defense,IND,0,4,2,50.0%,13,6.5,3.3,1,96.9,10.5,12,1,0,0,0,0,0,1,0,0.0%,202111210buf
+Darius Leonard,LeonDa00,defense,IND,0,3,2,66.7%,26,13,8.7,0,93.7,-0.7,1,25,2,0,0,0,0,5,0,0.0%,202111210buf
+George Odum,OdumGe00,defense,IND,1,3,1,33.3%,18,18,6,0,15.3,13.7,14,4,0,0,0,0,0,6,0,0.0%,202111210buf
+Andrew Sendejo,SendAn00,defense,IND,0,3,1,33.3%,31,31,10.3,0,72.9,21.7,28,3,2,0,0,0,0,3,0,0.0%,202111210buf
+Bobby Okereke,OkerBo00,defense,IND,0,1,1,100.0%,1,1,1,0,79.2,0,0,1,1,0,0,0,0,7,0,0.0%,202111210buf
+E.J. Speed,SpeeEJ00,defense,IND,0,2,1,50.0%,8,8,4,0,60.4,3,3,5,1,0,0,0,0,2,0,0.0%,202111210buf
+Kwity Paye,PayeKw00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202111210buf
+Taylor Stallworth,StalTa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202111210buf
+Al-Quadin Muhammad,MuhaAl00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202111210buf
+Grover Stewart,StewGr00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202111210buf
+Tre'Davious White,WhitTr01,defense,BUF,0,6,5,83.3%,39,7.8,6.5,0,93.7,4,17,22,1,0,0,0,0,7,1,12.5%,202111210buf
+Levi Wallace,WallLe00,defense,BUF,0,3,2,66.7%,36,18,12,0,107.6,10,18,18,0,0,0,0,0,4,2,33.3%,202111210buf
+A.J. Klein,KleiAJ00,defense,BUF,0,5,2,40.0%,5,2.5,1,0,47.9,3.6,0,5,4,0,0,0,0,6,1,14.3%,202111210buf
+Taron Johnson,JohnTa01,defense,BUF,0,2,1,50.0%,23,23,11.5,1,131.2,7,11,12,0,0,0,0,0,6,2,25.0%,202111210buf
+Jordan Poyer,PoyeJo00,defense,BUF,0,2,1,50.0%,3,3,1.5,0,56.2,7,2,1,0,0,0,0,0,8,1,11.1%,202111210buf
+Jerry Hughes,HughJe99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,0,0,NA,202111210buf
+Efe Obada,ObadEf00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,1,0,0.0%,202111210buf
+Gregory Rousseau,RousGr00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,7,0,0.0%,202111210buf
+Vernon Butler,ButlVe00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,6,0,0.0%,202111210buf
+Mario Addison,AddiMa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202111210buf
+Matt Milano,MilaMa00,defense,BUF,0,2,0,0.0%,NA,NA,0,NA,39.6,11.5,NA,NA,3,0,0,0,0,9,0,0.0%,202111210buf
+Micah Hyde,HydeMi00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,6,1,14.3%,202111210buf

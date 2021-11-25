@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,9,32,0,14,1.6,18,2,0,NA,202111210kan
+Tony Pollard,PollTo00,rushing,DAL,7,50,1,33,4.7,17,2.4,0,NA,202111210kan
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,12,63,3,32,2.7,31,2.6,1,12,202111210kan
+Patrick Mahomes,MahoPa00,rushing,KAN,7,11,2,10,1.4,1,0.1,0,NA,202111210kan
+Darrel Williams,WillDa10,rushing,KAN,5,15,1,10,2,5,1,0,NA,202111210kan
+Tyreek Hill,HillTy00,rushing,KAN,1,33,1,33,33,0,0,0,NA,202111210kan
+Travis Kelce,KelcTr00,rushing,KAN,1,4,1,4,4,0,0,0,NA,202111210kan

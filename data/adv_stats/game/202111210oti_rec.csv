@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Chris Conley,ConlCh00,receiving,HOU,5,4,37,0,2,36,9,1,0.3,7.2,0,NA,0,0,0,97.5,202111210oti
+David Johnson,JohnDa08,receiving,HOU,4,3,16,0,1,-8,-2.7,24,8,-1.5,0,NA,0,0,0,81.2,202111210oti
+Pharaoh Brown,BrowPh01,receiving,HOU,4,2,10,0,NA,5,2.5,5,2.5,1.8,0,NA,0,0,0,56.2,202111210oti
+Brandin Cooks,CookBr00,receiving,HOU,3,2,18,0,NA,8,4,10,5,5,0,NA,0,0,0,82.6,202111210oti
+Nico Collins,CollNi00,receiving,HOU,2,1,9,0,NA,9,9,0,0,7.5,0,NA,0,0,0,62.5,202111210oti
+Chris Moore,MoorCh00,receiving,HOU,1,1,10,0,1,-4,-4,14,14,-4,0,NA,0,0,0,108.3,202111210oti
+Brevin Jordan,JordBr00,receiving,HOU,3,1,7,0,1,7,7,0,0,8,0,NA,1,33.3,0,42.4,202111210oti
+Danny Amendola,AmenDa00,receiving,HOU,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202111210oti
+Dontrell Hilliard,HillDo00,receiving,TEN,10,8,47,0,5,0,0,47,5.9,0.3,0,NA,1,10,0,86.2,202111210oti
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,8,7,107,0,4,72,10.3,35,5,9,1,7,0,0,0,118.7,202111210oti
+Anthony Firkser,FirkAn00,receiving,TEN,7,5,26,0,NA,20,4,6,1.2,6.6,0,NA,0,0,1,37.5,202111210oti
+A.J. Brown,BrowAJ00,receiving,TEN,9,5,48,0,4,41,8.2,7,1.4,9.6,0,NA,0,0,1,31,202111210oti
+Chester Rogers,RogeCh02,receiving,TEN,6,4,41,0,2,39,9.8,2,0.5,13.7,0,NA,0,0,0,86.1,202111210oti
+Dez Fitzpatrick,FitzDe00,receiving,TEN,6,3,35,1,3,33,11,2,0.7,16,0,NA,0,0,2,68.1,202111210oti
+Adrian Peterson,PeteAd01,receiving,TEN,2,2,4,0,0,-1,-0.5,5,2.5,-0.5,0,NA,0,0,0,79.2,202111210oti
+D'Onta Foreman,ForeDO00,receiving,TEN,1,1,15,0,1,-3,-3,18,18,-3,0,NA,0,0,0,118.7,202111210oti
+Tommy Hudson,HudsTo00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,19,0,NA,0,0,0,39.6,202111210oti
+Marcus Johnson,JohnMa07,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,0,39.6,202111210oti

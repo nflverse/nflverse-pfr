@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,ARI,21,62,4,27,1.3,35,1.7,1,21,202111210sea
+Eno Benjamin,BenjEn00,rushing,ARI,6,15,0,7,1.2,8,1.3,0,NA,202111210sea
+Colt McCoy,McCoCo00,rushing,ARI,6,18,2,13,2.2,5,0.8,0,NA,202111210sea
+Alex Collins,CollAl00,rushing,SEA,10,36,2,14,1.4,22,2.2,1,10,202111210sea
+DeeJay Dallas,DallDe00,rushing,SEA,4,25,2,10,2.5,15,3.8,1,4,202111210sea
+Rashaad Penny,PennRa00,rushing,SEA,2,19,1,15,7.5,4,2,0,NA,202111210sea
+Russell Wilson,WilsRu00,rushing,SEA,2,2,1,1,0.5,1,0.5,0,NA,202111210sea
+Travis Homer,HomeTr00,rushing,SEA,1,4,NA,3,3,1,1,0,NA,202111210sea

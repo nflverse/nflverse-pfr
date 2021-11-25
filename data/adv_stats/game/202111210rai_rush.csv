@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,30,123,5,76,2.5,47,1.6,4,7.5,202111210rai
+Joe Burrow,BurrJo01,rushing,CIN,3,11,2,7,2.3,4,1.3,1,3,202111210rai
+Ja'Marr Chase,ChasJa00,rushing,CIN,2,8,1,8,4,0,0,1,2,202111210rai
+Samaje Perine,PeriSa00,rushing,CIN,2,3,1,2,1,1,0.5,0,NA,202111210rai
+Tyler Boyd,BoydTy00,rushing,CIN,1,14,1,9,9,5,5,0,NA,202111210rai
+Josh Jacobs,JacoJo01,rushing,LVR,9,37,3,13,1.4,24,2.7,3,3,202111210rai
+Kenyan Drake,DrakKe00,rushing,LVR,5,23,2,15,3,8,1.6,1,5,202111210rai
+Peyton Barber,BarbPe01,rushing,LVR,1,3,NA,0,0,3,3,0,NA,202111210rai
+Bryan Edwards,EdwaBr01,rushing,LVR,1,0,NA,0,0,0,0,0,NA,202111210rai
+DeSean Jackson,JackDe00,rushing,LVR,1,4,NA,4,4,0,0,0,NA,202111210rai
+Hunter Renfrow,RenfHu00,rushing,LVR,1,5,0,5,5,0,0,0,NA,202111210rai

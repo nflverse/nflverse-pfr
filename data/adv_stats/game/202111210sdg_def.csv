@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Ryan Smith,SmitRy00,defense,NA,NA,2,0,0.0%,NA,NA,0,NA,39.6,NA,NA,NA,0,0,0,NA,0,NA,0,NA,202111210sdg
+Devin Bush Jr.,BushDe01,defense,PIT,0,6,6,100.0%,67,11.2,11.2,1,152.8,2.2,13,54,3,0,0,0,0,4,0,0.0%,202111210sdg
+Cameron Sutton,SuttCa00,defense,PIT,1,7,6,85.7%,84,14,12,0,77.1,9.1,66,18,0,0,0,0,0,10,0,0.0%,202111210sdg
+James Pierre,PierJa01,defense,PIT,0,10,5,50.0%,59,11.8,5.9,1,101.7,8.1,17,42,0,0,0,0,0,5,1,16.7%,202111210sdg
+Tre Norwood,NorwTr00,defense,PIT,0,4,3,75.0%,72,24,18,1,156.2,6.3,18,54,0,0,0,0,0,7,0,0.0%,202111210sdg
+Terrell Edmunds,EdmuTe00,defense,PIT,0,4,2,50.0%,33,16.5,8.3,0,78.1,14.3,22,11,1,0,0,0,0,4,2,33.3%,202111210sdg
+Joe Schobert,SchoJo00,defense,PIT,0,3,2,66.7%,16,8,5.3,0,79.9,3.3,2,14,0,0,0,0,0,4,0,0.0%,202111210sdg
+Ahkello Witherspoon,WithAh00,defense,PIT,0,2,2,100.0%,39,19.5,19.5,0,118.7,9.5,19,20,1,0,0,0,0,2,0,0.0%,202111210sdg
+Taco Charlton,CharTa00,defense,PIT,0,1,1,100.0%,5,5,5,0,87.5,5,5,0,0,0,0,0.5,1,2,0,0.0%,202111210sdg
+Arthur Maulet,MaulAr00,defense,PIT,0,1,1,100.0%,7,7,7,0,95.8,-2,-2,9,4,0,1,0,1,3,0,0.0%,202111210sdg
+Robert Spillane,SpilRo00,defense,PIT,0,2,1,50.0%,6,6,3,0,56.2,3,3,3,0,0,0,0,0,3,0,0.0%,202111210sdg
+Karl Joseph,JoseKa00,defense,PIT,0,2,1,50.0%,14,14,7,0,72.9,7.5,11,3,0,0,0,0,0,2,0,0.0%,202111210sdg
+Marcus Allen,AlleMa03,defense,PIT,0,1,1,100.0%,10,10,10,0,108.3,-3,-3,13,0,0,0,0,0,1,1,50.0%,202111210sdg
+Alex Highsmith,HighAl02,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,1,1.5,3,6,0,0.0%,202111210sdg
+Cameron Heyward,HeywCa01,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202111210sdg
+Derrek Tuszka,TuszDe00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,202111210sdg
+Chris Wormley,WormCh00,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,-10,NA,NA,0,0,0,0,0,4,0,0.0%,202111210sdg
+Michael Davis,DaviMi03,defense,LAC,0,12,7,58.3%,96,13.7,8,1,111.8,5.8,31,65,0,0,0,0,0,5,0,0.0%,202111210sdg
+Asante Samuel Jr.,SamuAs00,defense,LAC,0,7,4,57.1%,63,15.8,9,1,126.8,17.6,58,5,0,0,0,0,0,7,0,0.0%,202111210sdg
+Kyzir White,WhitKy00,defense,LAC,0,7,4,57.1%,20,5,2.9,1,101.8,1.4,1,19,0,0,0,0,0,9,0,0.0%,202111210sdg
+Chris Harris Jr.,HarrCh01,defense,LAC,0,3,3,100.0%,28,9.3,9.3,0,105.6,8.3,25,3,0,0,0,0,0,4,0,0.0%,202111210sdg
+Tevaughn Campbell,CampTe00,defense,LAC,0,5,3,60.0%,14,4.7,2.8,0,64.6,6.8,8,6,0,0,0,0,0,4,1,20.0%,202111210sdg
+Joey Bosa,BosaJo00,defense,LAC,0,2,2,100.0%,3,1.5,1.5,0,79.2,-3,-6,9,0,0,2,1,3,4,0,0.0%,202111210sdg
+Derwin James,JameDe00,defense,LAC,0,4,2,50.0%,26,13,6.5,0,70.8,8.5,20,6,0,0,0,0,0,6,0,0.0%,202111210sdg
+Joe Gaziano,GaziJo01,defense,LAC,0,1,1,100.0%,0,0,0,0,79.2,0,0,0,0,0,1,0,1,3,0,0.0%,202111210sdg
+Nasir Adderley,AddeNa00,defense,LAC,0,2,1,50.0%,16,16,8,0,77.1,17,16,0,0,0,0,0,0,5,0,0.0%,202111210sdg
+Drue Tranquill,TranDr00,defense,LAC,0,2,1,50.0%,7,7,3.5,0,58.3,2,1,6,3,0,0,0,0,1,0,0.0%,202111210sdg
+Forrest Merrill,MerrFo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202111210sdg
+Uchenna Nwosu,NwosUc00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,1,1,2,1,33.3%,202111210sdg
+Kyler Fackrell,FackKy00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,1,1,1,0,0.0%,202111210sdg
+Chris Rumph,RumpCh00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202111210sdg
+Kenneth Murray,MurrKe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202111210sdg
