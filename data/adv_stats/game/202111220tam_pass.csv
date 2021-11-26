@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Daniel Jones,JoneDa05,passing,NYG,23,38,167,8,20,192,5.1,89,3.9,2.3,78,3.4,0,0.0%,9,25.0%,2,13,8,7,17,42.5%,0,NA,202111220tam
+Kadarius Toney,ToneKa00,passing,NYG,0,1,0,0,0,44,44,0,NA,0,0,NA,0,0.0%,1,100.0%,0,1,0,0,0,0.0%,0,NA,202111220tam
+Tom Brady,BradTo00,passing,TAM,30,46,307,16,34.8,326,7.1,179,6,3.9,128,4.3,2,4.4%,9,20.0%,0,8,3,2,5,10.6%,1,10,202111220tam
+Blaine Gabbert,GabbBl00,passing,TAM,2,2,11,1,33.3,6,3,6,3,3,5,2.5,0,0.0%,0,0.0%,1,2,0,0,1,33.3%,0,NA,202111220tam
