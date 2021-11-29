@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Josh Allen,AlleJo02,passing,BUF,23,28,260,11,36.7,171,6.1,142,6.2,5.1,118,5.1,0,0.0%,0,0.0%,2,0,0,0,2,5.9%,4,6.3,202111250nor
+Trevor Siemian,SiemTr00,passing,NOR,17,29,163,7,22.6,149,5.1,77,4.5,2.7,86,5.1,0,0.0%,0,0.0%,2,0,0,0,2,6.3%,1,2,202111250nor
+Blake Gillikin,GillBl00,passing,NOR,0,1,0,NA,NA,9,9,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202111250nor

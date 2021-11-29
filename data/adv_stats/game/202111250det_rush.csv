@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,17,46,3,46,2.7,0,0,0,NA,202111250det
+Andy Dalton,DaltAn00,rushing,CHI,6,11,0,11,1.8,0,0,0,NA,202111250det
+Khalil Herbert,HerbKh00,rushing,CHI,4,9,NA,9,2.3,0,0,0,NA,202111250det
+Jakeem Grant,GranJa00,rushing,CHI,1,0,0,0,0,0,0,0,NA,202111250det
+Darnell Mooney,MoonDa00,rushing,CHI,1,2,0,2,2,0,0,0,NA,202111250det
+Jamaal Williams,WillJa06,rushing,DET,15,65,3,65,4.3,0,0,0,NA,202111250det
+D'Andre Swift,SwifDA00,rushing,DET,3,0,1,0,0,0,0,0,NA,202111250det
+Godwin Igwebuike,IgweGo00,rushing,DET,1,11,1,11,11,0,0,0,NA,202111250det
