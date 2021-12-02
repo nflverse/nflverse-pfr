@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Austin Ekeler,EkelAu00,rushing,LAC,12,31,1,20,1.7,11,0.9,2,6,202111280den
+Justin Herbert,HerbJu00,rushing,LAC,4,36,2,30,7.5,6,1.5,0,NA,202111280den
+Joshua Kelley,KellJo01,rushing,LAC,1,5,NA,2,2,3,3,0,NA,202111280den
+Melvin Gordon,GordMe00,rushing,DEN,17,83,4,43,2.5,40,2.4,1,17,202111280den
+Javonte Williams,WillJa10,rushing,DEN,14,54,5,33,2.4,21,1.5,2,7,202111280den
+Teddy Bridgewater,BridTe00,rushing,DEN,2,10,1,10,5,0,0,0,NA,202111280den

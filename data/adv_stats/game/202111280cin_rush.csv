@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Najee Harris,HarrNa00,rushing,PIT,8,23,0,20,2.5,3,0.4,0,NA,202111280cin
+Kalen Ballage,BallKa00,rushing,PIT,3,21,1,17,5.7,4,1.3,0,NA,202111280cin
+Anthony McFarland Jr.,McFaAn00,rushing,PIT,2,2,0,2,1,0,0,0,NA,202111280cin
+Benny Snell Jr.,SnelBe00,rushing,PIT,2,5,NA,3,1.5,2,1,0,NA,202111280cin
+Joe Mixon,MixoJo00,rushing,CIN,28,165,11,100,3.6,65,2.3,1,28,202111280cin
+Chris Evans,EvanCh02,rushing,CIN,5,23,1,15,3,8,1.6,0,NA,202111280cin
+Samaje Perine,PeriSa00,rushing,CIN,3,3,0,3,1,0,0,0,NA,202111280cin
+Brandon Allen,AlleBr00,rushing,CIN,1,-1,NA,-1,-1,0,0,0,NA,202111280cin
+Joe Burrow,BurrJo01,rushing,CIN,1,8,1,5,5,3,3,0,NA,202111280cin

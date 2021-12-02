@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alex Collins,CollAl00,rushing,SEA,7,14,NA,6,0.9,8,1.1,0,NA,202111290was
+DeeJay Dallas,DallDe00,rushing,SEA,3,4,0,1,0.3,3,1,0,NA,202111290was
+Russell Wilson,WilsRu00,rushing,SEA,2,16,1,9,4.5,7,3.5,0,NA,202111290was
+Antonio Gibson,GibsAn00,rushing,WAS,29,111,8,45,1.6,66,2.3,4,7.3,202111290was
+J.D. McKissic,McKiJ.00,rushing,WAS,7,30,2,20,2.9,10,1.4,0,NA,202111290was
+Taylor Heinicke,HeinTa00,rushing,WAS,4,3,0,-1,-0.3,4,1,0,NA,202111290was
+DeAndre Carter,CartDe02,rushing,WAS,1,4,0,2,2,2,2,0,NA,202111290was
+Jaret Patterson,PattJa01,rushing,WAS,1,0,NA,0,0,0,0,0,NA,202111290was
+Curtis Samuel,SamuCu00,rushing,WAS,1,4,0,2,2,2,2,0,NA,202111290was

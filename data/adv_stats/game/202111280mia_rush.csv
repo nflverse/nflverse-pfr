@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Christian McCaffrey,McCaCh01,rushing,CAR,10,35,1,23,2.3,12,1.2,1,10,202111280mia
+Cam Newton,NewtCa00,rushing,CAR,3,5,2,4,1.3,1,0.3,1,3,202111280mia
+Ameer Abdullah,AbduAm00,rushing,CAR,2,4,1,4,2,0,0,0,NA,202111280mia
+Chuba Hubbard,HubbCh01,rushing,CAR,2,6,NA,2,1,4,2,0,NA,202111280mia
+Sean Chandler,ChanSe00,rushing,CAR,1,14,1,14,14,0,0,0,NA,202111280mia
+Myles Gaskin,GaskMy00,rushing,MIA,16,49,3,33,2.1,16,1,2,8,202111280mia
+Phillip Lindsay,LindPh00,rushing,MIA,12,42,1,36,3,6,0.5,0,NA,202111280mia
+Salvon Ahmed,AhmeSa01,rushing,MIA,5,17,2,17,3.4,0,0,0,NA,202111280mia
+Tua Tagovailoa,TagoTu00,rushing,MIA,4,0,1,0,0,0,0,0,NA,202111280mia
+Durham Smythe,SmytDu00,rushing,MIA,2,3,2,3,1.5,0,0,0,NA,202111280mia

@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Leonard Fournette,FourLe00,receiving,TAM,8,7,31,1,2,-6,-0.9,37,5.3,-0.4,0,NA,1,12.5,0,122.4,202111280clt
+Rob Gronkowski,GronRo00,receiving,TAM,10,7,123,0,6,71,10.1,52,7.4,8.6,1,7,0,0,0,111.7,202111280clt
+Chris Godwin,GodwCh00,receiving,TAM,5,4,24,0,1,9,2.3,15,3.8,5,0,NA,0,0,0,86.7,202111280clt
+Cameron Brate,BratCa00,receiving,TAM,4,3,23,0,2,10,3.3,13,4.3,4.3,0,NA,0,0,0,88.5,202111280clt
+Mike Evans,EvanMi00,receiving,TAM,5,3,16,0,NA,8,2.7,8,2.7,5,0,NA,0,0,0,65.4,202111280clt
+Tyler Johnson,JohnTy00,receiving,TAM,1,1,9,0,NA,5,5,4,4,5,0,NA,0,0,0,104.2,202111280clt
+Scott Miller,MillSc01,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,44,0,NA,0,0,1,0,202111280clt
+Jack Doyle,DoylJa00,receiving,IND,7,6,81,1,5,66,11,15,2.5,11.3,0,NA,0,0,0,154.5,202111280clt
+T.Y. Hilton,HiltT.00,receiving,IND,5,4,28,1,3,25,6.3,3,0.8,5,0,NA,0,0,0,129.6,202111280clt
+Michael Pittman Jr.,PittMi01,receiving,IND,10,4,53,0,3,50,12.5,3,0.8,15.2,0,NA,2,20,2,17.9,202111280clt
+Jonathan Taylor,TaylJo02,receiving,IND,5,4,14,0,0,-7,-1.8,21,5.3,-1,0,NA,0,0,0,79.2,202111280clt
+Nyheim Hines,HineNy00,receiving,IND,4,3,26,0,2,6,2,20,6.7,0.8,0,NA,0,0,0,91.7,202111280clt
+Kylen Granson,GranKy00,receiving,IND,2,2,22,0,1,6,3,16,8,3,0,NA,0,0,0,112.5,202111280clt
+Zach Pascal,PascZa00,receiving,IND,7,2,12,0,NA,8,4,4,2,8.9,0,NA,0,0,0,39.6,202111280clt
+Mo Alie-Cox,AlieMo00,receiving,IND,2,1,8,0,NA,8,8,0,0,19,0,NA,0,0,0,60.4,202111280clt
+Ashton Dulin,DuliAs00,receiving,IND,1,1,62,1,1,52,52,10,10,52,0,NA,0,0,0,158.3,202111280clt

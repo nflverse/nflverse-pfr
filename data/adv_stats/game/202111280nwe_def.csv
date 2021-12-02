@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kevin Byard,ByarKe01,defense,TEN,0,7,5,71.4%,106,21.2,15.1,2,153.3,12.4,50,56,2,0,1,1,2,12,0,0.0%,202111280nwe
+Amani Hooker,HookAm00,defense,TEN,0,6,5,83.3%,86,17.2,14.3,0,118.7,7.3,40,46,0,0,0,0,0,5,1,16.7%,202111280nwe
+Janoris Jenkins,JenkJa03,defense,TEN,0,6,4,66.7%,70,17.5,11.7,1,145.8,4.2,18,52,0,0,0,0,0,4,0,0.0%,202111280nwe
+Kristian Fulton,FultKr00,defense,TEN,0,5,4,80.0%,27,6.8,5.4,0,89.2,8.8,26,1,0,0,0,0,0,4,1,20.0%,202111280nwe
+Jayon Brown,BrowJa06,defense,TEN,0,3,2,66.7%,24,12,8,0,91,3.3,-1,25,1,0,0,0,0,8,1,11.1%,202111280nwe
+Harold Landry,LandHa00,defense,TEN,0,2,1,50.0%,12,12,6,0,68.7,-3,-2,14,1,1,0,0,1,3,0,0.0%,202111280nwe
+Elijah Molden,MoldEl00,defense,TEN,0,1,1,100.0%,19,19,19,0,118.7,1,1,18,5,1,0,0,1,0,2,100.0%,202111280nwe
+Chris Jones,JoneCh06,defense,TEN,0,1,1,100.0%,7,7,7,0,95.8,7,7,0,0,0,0,0,0,1,0,0.0%,202111280nwe
+Derick Roberson,RobeDe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0.5,4,4,1,20.0%,202111280nwe
+John Simon,SimoJo01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202111280nwe
+Naquan Jones,JoneNa01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,1,50.0%,202111280nwe
+Buster Skrine,SkriBu00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,25,NA,NA,1,0,0,0,0,2,0,0.0%,202111280nwe
+Jeffery Simmons,SimmJe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,6,1,14.3%,202111280nwe
+Dylan Cole,ColeDy00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,4,0,0.0%,202111280nwe
+Dont'a Hightower,HighDo01,defense,NWE,0,3,3,100.0%,18,6,6,0,91.7,1,3,15,0,0,0,0,0,4,0,0.0%,202111280nwe
+Jalen Mills,MillJa02,defense,NWE,0,6,2,33.3%,15,7.5,2.5,1,81.9,9.2,13,2,0,0,0,0,0,2,0,0.0%,202111280nwe
+Adrian Phillips,PhilAd00,defense,NWE,0,2,2,100.0%,16,8,8,0,100,5,10,6,2,0,0,0,0,7,1,12.5%,202111280nwe
+J.C. Jackson,JackJ.00,defense,NWE,1,3,2,66.7%,10,5,3.3,0,31.9,1,1,9,0,0,0,0,0,2,1,33.3%,202111280nwe
+Myles Bryant,BryaMy01,defense,NWE,0,3,1,33.3%,24,24,8,0,63.2,14.3,23,1,1,0,0,0,0,1,0,0.0%,202111280nwe
+Kyle Dugger,DuggKy00,defense,NWE,0,1,1,100.0%,10,10,10,0,108.3,9,9,1,3,0,0,0,0,9,1,10.0%,202111280nwe
+Matt Judon,JudoMa00,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,1,2,1,1,4,6,0,0.0%,202111280nwe
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,1,2,10,0,0.0%,202111280nwe
+Davon Godchaux,GodcDa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,7,0,0.0%,202111280nwe
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,1,50.0%,202111280nwe
+Jahlani Tavai,TavaJa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202111280nwe
+Kyle Van Noy,VanNKy00,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,0,0,0,0,0,5,0,0.0%,202111280nwe
+Devin McCourty,McCoDe99,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,1,16.7%,202111280nwe
+Lawrence Guy,GuyxLa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202111280nwe
+Joejuan Williams,WillJo13,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,0,NA,NA,0,0,0,0,0,2,0,0.0%,202111280nwe

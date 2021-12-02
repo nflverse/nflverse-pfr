@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,8,16,0,0,0,16,2,0,NA,202111280rav
+Kareem Hunt,HuntKa00,rushing,CLE,7,20,1,4,0.6,16,2.3,1,7,202111280rav
+Baker Mayfield,MayfBa00,rushing,CLE,2,4,1,1,0.5,3,1.5,0,NA,202111280rav
+Lamar Jackson,JackLa00,rushing,BAL,17,68,5,48,2.8,20,1.2,0,NA,202111280rav
+Devonta Freeman,FreeDe00,rushing,BAL,16,52,4,29,1.8,23,1.4,0,NA,202111280rav
+Latavius Murray,MurrLa00,rushing,BAL,8,14,2,5,0.6,9,1.1,0,NA,202111280rav
+Devin Duvernay,DuveDe00,rushing,BAL,1,13,1,7,7,6,6,0,NA,202111280rav
+Ty'Son Williams,WillTy01,rushing,BAL,1,1,NA,0,0,1,1,0,NA,202111280rav

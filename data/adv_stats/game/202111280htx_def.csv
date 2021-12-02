@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Carl Lawson,LawsCa00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,NA,0,NA,0,NA,202111280htx
+Bryce Hall,HallBr02,defense,NYJ,0,7,5,71.4%,68,13.6,9.7,1,141.7,13.6,50,18,1,0,0,0,0,3,0,0.0%,202111280htx
+Michael Carter,CartMi02,defense,NYJ,0,6,5,83.3%,47,9.4,7.8,0,99.3,4.5,22,25,0,0,0,0,0,6,2,25.0%,202111280htx
+C.J. Mosley,MoslC.00,defense,NYJ,0,3,2,66.7%,15,7.5,5,0,78.5,1.7,-3,18,2,0,0,0,0,8,1,11.1%,202111280htx
+Jason Pinnock,PinnJa01,defense,NYJ,0,2,2,100.0%,18,9,9,1,143.7,6.5,13,5,0,0,0,0,0,1,0,0.0%,202111280htx
+Kyle Phillips,PhilKy00,defense,NYJ,0,1,1,100.0%,1,1,1,0,79.2,-4,-4,5,0,0,1,0,1,3,0,0.0%,202111280htx
+Quinnen Williams,WillQu00,defense,NYJ,0,1,1,100.0%,1,1,1,0,79.2,-4,-4,5,0,0,0,1,1,4,0,0.0%,202111280htx
+Jarrad Davis,DaviJa01,defense,NYJ,0,1,1,100.0%,2,2,2,0,79.2,0,0,2,1,0,0,0,0,3,0,0.0%,202111280htx
+Ashtyn Davis,DaviAs00,defense,NYJ,0,2,1,50.0%,8,8,4,0,60.4,22.5,6,2,1,0,0,0,0,3,0,0.0%,202111280htx
+Javelin Guidry,GuidJa01,defense,NYJ,0,4,1,25.0%,7,7,1.8,0,39.6,24,1,6,0,0,0,0,0,3,1,25.0%,202111280htx
+John Franklin-Myers,FranJo02,defense,NYJ,1,1,0,0.0%,NA,NA,0,NA,0,-14,NA,NA,0,0,0,2,2,3,0,0.0%,202111280htx
+Shaq Lawson,LawsSh00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,1,0,0.0%,202111280htx
+Sheldon Rankins,RankSh00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,1,25.0%,202111280htx
+Ronald Blair,BlaiRo00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,6,0,0.0%,202111280htx
+Quincy Williams,WillQu01,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,3,0,0,1,1,7,0,0.0%,202111280htx
+Desmond King,KingDe01,defense,HOU,0,7,6,85.7%,93,15.5,13.3,0,118.7,5.9,39,54,0,0,0,0,0,5,1,16.7%,202111280htx
+Zach Cunningham,CunnZa00,defense,HOU,0,3,3,100.0%,15,5,5,0,87.5,2.7,8,7,1,0,0,0,0,8,0,0.0%,202111280htx
+Terrence Brooks,BrooTe00,defense,HOU,0,3,2,66.7%,38,19,12.7,0,109.7,17,35,3,1,0,0,0,0,5,1,16.7%,202111280htx
+Jaleel Johnson,JohnJa09,defense,HOU,0,2,2,100.0%,3,1.5,1.5,0,79.2,-6,-12,15,0,0,0,0,0,4,0,0.0%,202111280htx
+Kamu Grugier-Hill,GrugKa00,defense,HOU,0,1,1,100.0%,13,13,13,0,118.7,13,13,0,3,1,0,1,2,7,2,22.2%,202111280htx
+DeMarcus Walker,WalkDe03,defense,HOU,0,1,1,100.0%,11,11,11,0,112.5,-3,-3,14,0,1,0,1,2,2,0,0.0%,202111280htx
+Maliek Collins,CollMa00,defense,HOU,0,1,1,100.0%,-3,-3,-3,0,79.2,-5,-5,2,0,1,0,0,1,2,1,33.3%,202111280htx
+Terrance Mitchell,MitcTe00,defense,HOU,0,3,1,33.3%,10,10,3.3,0,43.7,6.7,4,6,0,0,0,0,0,3,0,0.0%,202111280htx
+Jonathan Greenard,GreeJo04,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,2,1,33.3%,202111280htx
+Jacob Martin,MartJa02,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,1,2,2,1,33.3%,202111280htx
+Ross Blacklock,BlacRo00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202111280htx
+Tavierre Thomas,ThomTa01,defense,HOU,1,4,0,0.0%,NA,NA,0,NA,0,4.3,NA,NA,3,0,0,0,0,4,0,0.0%,202111280htx
+Lonnie Johnson Jr.,JohnLo01,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,0,0,0,0,0,0,0,NA,202111280htx
+Eric Murray,MurrEr00,defense,HOU,0,2,0,0.0%,NA,NA,0,NA,39.6,5.5,NA,NA,1,0,0,0,0,8,1,11.1%,202111280htx
+Neville Hewitt,HewiNe00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202111280htx

@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Cordarrelle Patterson,PattCo00,rushing,ATL,16,108,5,74,4.6,34,2.1,0,NA,202111280jax
+Mike Davis,DaviMi01,rushing,ATL,5,16,0,9,1.8,7,1.4,0,NA,202111280jax
+Wayne Gallman,GallWa00,rushing,ATL,4,19,1,13,3.3,6,1.5,0,NA,202111280jax
+Matt Ryan,RyanMa00,rushing,ATL,4,6,0,6,1.5,0,0,0,NA,202111280jax
+James Robinson,RobiJa00,rushing,JAX,17,86,4,63,3.7,23,1.4,0,NA,202111280jax
+Carlos Hyde,HydeCa00,rushing,JAX,6,16,1,10,1.7,6,1,1,6,202111280jax
+Trevor Lawrence,LawrTr00,rushing,JAX,5,39,2,36,7.2,3,0.6,0,NA,202111280jax

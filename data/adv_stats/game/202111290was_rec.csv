@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+DeeJay Dallas,DallDe00,receiving,SEA,5,5,27,0,1,5,1,22,4.4,1,0,NA,0,0,0,89.2,202111290was
+Gerald Everett,EverGe00,receiving,SEA,9,5,37,1,2,17,3.4,20,4,4.1,1,5,0,0,0,102.5,202111290was
+Tyler Lockett,LockTy00,receiving,SEA,5,3,96,0,2,64,21.3,32,10.7,18.2,0,NA,0,0,0,104.2,202111290was
+Will Dissly,DissWi00,receiving,SEA,2,2,19,0,1,10,5,9,4.5,5,0,NA,0,0,0,106.2,202111290was
+D'Wayne Eskridge,EskrDW00,receiving,SEA,3,2,10,0,NA,7,3.5,3,1.5,5,0,NA,0,0,0,71.5,202111290was
+Alex Collins,CollAl00,receiving,SEA,1,1,13,0,NA,4,4,9,9,4,0,NA,0,0,0,118.7,202111290was
+D.K. Metcalf,MetcDK00,receiving,SEA,4,1,13,0,1,13,13,0,0,22.3,0,NA,0,0,0,40.6,202111290was
+Freddie Swain,SwaiFr00,receiving,SEA,2,1,32,1,1,31,31,1,1,14,0,NA,0,0,0,135.4,202111290was
+Antonio Gibson,GibsAn00,receiving,WAS,7,7,35,0,1,-15,-2.1,50,7.1,-2.1,1,7,0,0,0,87.5,202111290was
+J.D. McKissic,McKiJ.00,receiving,WAS,5,5,26,1,2,-10,-2,36,7.2,-2,0,NA,0,0,0,127.9,202111290was
+DeAndre Carter,CartDe02,receiving,WAS,5,4,42,0,3,31,7.8,11,2.8,8.8,0,NA,0,0,0,101.7,202111290was
+Terry McLaurin,McLaTe00,receiving,WAS,7,4,51,0,2,25,6.3,26,6.5,13.1,0,NA,1,14.3,0,80.1,202111290was
+Logan Thomas,ThomLo00,receiving,WAS,6,3,31,0,2,19,6.3,12,4,9.3,0,NA,0,0,1,25.7,202111290was
+Adam Humphries,HumpAd00,receiving,WAS,2,2,14,0,1,10,5,4,2,5,0,NA,0,0,0,95.8,202111290was
+John Bates,BateJo00,receiving,WAS,1,1,15,0,1,5,5,10,10,5,0,NA,0,0,0,118.7,202111290was
+Curtis Samuel,SamuCu00,receiving,WAS,1,1,9,0,1,-3,-3,12,12,-3,0,NA,0,0,0,104.2,202111290was

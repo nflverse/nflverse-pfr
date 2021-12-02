@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+D'Onta Foreman,ForeDO00,rushing,TEN,19,109,3,54,2.8,55,2.9,2,9.5,202111280nwe
+Dontrell Hilliard,HillDo00,rushing,TEN,12,131,4,60,5,71,5.9,3,4,202111280nwe
+Ryan Tannehill,TannRy00,rushing,TEN,5,24,3,18,3.6,6,1.2,0,NA,202111280nwe
+Khari Blasingame,BlasKh00,rushing,TEN,3,6,1,0,0,6,2,0,NA,202111280nwe
+Damien Harris,HarrDa06,rushing,NWE,11,40,2,18,1.6,22,2,0,NA,202111280nwe
+Rhamondre Stevenson,StevRh00,rushing,NWE,9,46,2,11,1.2,35,3.9,3,3,202111280nwe
+Mac Jones,JoneMa05,rushing,NWE,2,11,1,9,4.5,2,1,0,NA,202111280nwe
+Brian Hoyer,HoyeBr00,rushing,NWE,1,-1,NA,-1,-1,0,0,0,NA,202111280nwe
+Jonnu Smith,SmitJo01,rushing,NWE,1,9,1,6,6,3,3,0,NA,202111280nwe
