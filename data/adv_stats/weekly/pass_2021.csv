@@ -443,3 +443,5 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_12_CLE_BAL,202111280rav,2021,12,REG,CLE,BAL,Baker Mayfield,MayfBa00,0,0,9,0.265,2,16,2,3,7,0.175
 2021_12_SEA_WAS,202111290was,2021,12,REG,WAS,SEA,Taylor Heinicke,HeinTa00,1,0.029,3,0.088,1,13,6,1,8,0.211
 2021_12_SEA_WAS,202111290was,2021,12,REG,SEA,WAS,Russell Wilson,WilsRu00,0,0,8,0.258,2,10,3,8,13,0.382
+2021_13_DAL_NO,202112020nor,2021,13,REG,NO,DAL,Taysom Hill,HillTa00,3,0.073,11,0.268,2,10,9,4,15,0.319
+2021_13_DAL_NO,202112020nor,2021,13,REG,DAL,NO,Dak Prescott,PresDa01,0,0,7,0.175,1,9,3,6,10,0.244
