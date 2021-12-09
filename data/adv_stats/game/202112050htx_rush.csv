@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jonathan Taylor,TaylJo02,rushing,IND,32,143,12,92,2.9,51,1.6,2,16,202112050htx
+Deon Jackson,JackDe02,rushing,IND,6,19,2,10,1.7,9,1.5,1,6,202112050htx
+Nyheim Hines,HineNy00,rushing,IND,3,24,2,11,3.7,13,4.3,2,1.5,202112050htx
+Carson Wentz,WentCa00,rushing,IND,3,8,1,5,1.7,3,1,0,NA,202112050htx
+Michael Pittman Jr.,PittMi01,rushing,IND,2,33,1,29,14.5,4,2,0,NA,202112050htx
+Sam Ehlinger,EhliSa00,rushing,IND,1,-1,NA,-1,-1,0,0,0,NA,202112050htx
+Zach Pascal,PascZa00,rushing,IND,1,12,NA,10,10,2,2,0,NA,202112050htx
+Rex Burkhead,BurkRe00,rushing,HOU,8,30,0,22,2.8,8,1,0,NA,202112050htx
+Royce Freeman,FreeRo00,rushing,HOU,3,10,0,8,2.7,2,0.7,0,NA,202112050htx
+Tyrod Taylor,TaylTy00,rushing,HOU,3,15,1,8,2.7,7,2.3,1,3,202112050htx
+Davis Mills,MillDa02,rushing,HOU,2,11,1,11,5.5,0,0,0,NA,202112050htx
+Jaylen Samuels,SamuJa00,rushing,HOU,2,2,NA,0,0,2,1,0,NA,202112050htx
+Brandin Cooks,CookBr00,rushing,HOU,1,16,1,12,12,4,4,0,NA,202112050htx

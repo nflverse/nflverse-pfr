@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alexander Mattison,MattAl01,rushing,MIN,22,90,7,44,2,46,2.1,3,7.3,202112050det
+Kirk Cousins,CousKi00,rushing,MIN,2,6,0,6,3,0,0,0,NA,202112050det
+Kene Nwangwu,NwanKe00,rushing,MIN,2,0,NA,-1,-0.5,1,0.5,1,2,202112050det
+Justin Jefferson,JeffJu00,rushing,MIN,1,4,0,4,4,0,0,0,NA,202112050det
+Jamaal Williams,WillJa06,rushing,DET,17,71,5,36,2.1,35,2.1,0,NA,202112050det
+Jermar Jefferson,JeffJe00,rushing,DET,5,18,1,12,2.4,6,1.2,0,NA,202112050det
+Jared Goff,GoffJa00,rushing,DET,2,1,0,1,0.5,0,0,0,NA,202112050det
+Godwin Igwebuike,IgweGo00,rushing,DET,2,8,1,4,2,4,2,0,NA,202112050det
+Amon-Ra St. Brown,StxxAm00,rushing,DET,1,2,0,0,0,2,2,0,NA,202112050det

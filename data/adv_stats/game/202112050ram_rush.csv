@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Carlos Hyde,HydeCa00,rushing,JAX,9,24,1,19,2.1,5,0.6,0,NA,202112050ram
+James Robinson,RobiJa00,rushing,JAX,8,24,1,21,2.6,3,0.4,0,NA,202112050ram
+Trevor Lawrence,LawrTr00,rushing,JAX,4,10,1,6,1.5,4,1,0,NA,202112050ram
+Laviska Shenault Jr.,ShenLa00,rushing,JAX,3,1,0,0,0,1,0.3,0,NA,202112050ram
+C.J. Beathard,BeatC.00,rushing,JAX,1,2,NA,2,2,0,0,0,NA,202112050ram
+Sony Michel,MichSo00,rushing,LAR,24,121,6,70,2.9,51,2.1,0,NA,202112050ram
+Mekhi Sargent,SargMe00,rushing,LAR,2,5,NA,3,1.5,2,1,0,NA,202112050ram
+Matthew Stafford,StafMa00,rushing,LAR,1,2,1,1,1,1,1,0,NA,202112050ram

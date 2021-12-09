@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,11,55,5,35,3.2,20,1.8,0,NA,202112050mia
+Devontae Booker,BookDe00,rushing,NYG,6,36,1,24,4,12,2,0,NA,202112050mia
+Myles Gaskin,GaskMy00,rushing,MIA,15,44,NA,29,1.9,15,1,0,NA,202112050mia
+Salvon Ahmed,AhmeSa01,rushing,MIA,8,23,1,17,2.1,6,0.8,0,NA,202112050mia
+Tua Tagovailoa,TagoTu00,rushing,MIA,2,1,0,-1,-0.5,2,1,0,NA,202112050mia

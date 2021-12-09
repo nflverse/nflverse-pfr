@@ -1,0 +1,36 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Zayne Anderson,AndeZa02,defense,NA,NA,1,1,100.0%,NA,NA,0,NA,79.2,NA,NA,NA,0,0,0,NA,0,NA,0,NA,202112050kan
+Kenny Young,YounKe03,defense,DEN,0,5,5,100.0%,52,10.4,10.4,0,110,3.8,19,33,3,1,0,0,1,9,1,10.0%,202112050kan
+Baron Browning,BrowBa01,defense,DEN,0,6,5,83.3%,95,19,15.8,0,118.7,3.2,18,77,0,0,0,0,0,8,1,11.1%,202112050kan
+Kareem Jackson,JackKa99,defense,DEN,0,3,2,66.7%,21,10.5,7,0,86.8,10.3,7,14,0,0,0,0,0,2,0,0.0%,202112050kan
+Ronald Darby,DarbRo00,defense,DEN,0,5,1,20.0%,9,9,1.8,0,39.6,7,1,8,0,0,0,0,0,2,0,0.0%,202112050kan
+Jonathon Cooper,CoopJo02,defense,DEN,0,1,1,100.0%,-7,-7,-7,0,79.2,-7,-7,0,0,0,0,0,0,2,0,0.0%,202112050kan
+Stephen Weatherly,WeatSt00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,0,0,NA,202112050kan
+Dre'Mont Jones,JoneDr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,4,0,0.0%,202112050kan
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,4,0,0.0%,202112050kan
+Aaron Patrick,PatrAa00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202112050kan
+Bradley Chubb,ChubBr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,3,2,40.0%,202112050kan
+Kyle Fuller,FullKy00,defense,DEN,0,2,0,0.0%,NA,NA,0,NA,39.6,10,NA,NA,1,0,0,0,0,0,0,NA,202112050kan
+Justin Simmons,SimmJu00,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,7,NA,NA,0,0,0,0,0,2,0,0.0%,202112050kan
+Caden Sterns,SterCa00,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,-1,NA,NA,0,0,0,0,0,0,0,NA,202112050kan
+Patrick Surtain II,SurtPa01,defense,DEN,1,2,0,0.0%,14,NA,7,0,16.7,9,7,7,0,0,0,0,0,1,1,50.0%,202112050kan
+Nate Hairston,HairNa00,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,9,NA,NA,0,0,0,0,0,1,0,0.0%,202112050kan
+Tyrann Mathieu,MathTy00,defense,KAN,0,7,4,57.1%,38,9.5,5.4,0,72.3,6.3,24,14,1,1,0,0,1,9,0,0.0%,202112050kan
+Ben Niemann,NiemBe00,defense,KAN,0,5,4,80.0%,78,19.5,15.6,0,118.7,3.8,24,54,3,1,0,0,1,5,0,0.0%,202112050kan
+Willie Gay Jr.,GayJWi00,defense,KAN,0,4,4,100.0%,53,13.3,13.3,0,118.7,4.5,18,35,2,0,0,0.5,1,8,1,11.1%,202112050kan
+Deandre Baker,BakeDe00,defense,KAN,0,5,3,60.0%,21,7,4.2,0,69.6,6,1,20,1,0,0,0,0,4,0,0.0%,202112050kan
+Nick Bolton,BoltNi00,defense,KAN,0,3,2,66.7%,17,8.5,5.7,0,81.2,0.3,5,12,0,0,0,0,0,3,1,25.0%,202112050kan
+Charvarius Ward,WardCh01,defense,KAN,0,5,2,40.0%,19,9.5,3.8,0,51.2,13,5,14,1,0,0,0,0,8,0,0.0%,202112050kan
+Daniel Sorensen,SoreDa01,defense,KAN,1,2,1,50.0%,13,13,6.5,1,70.8,-0.5,-3,16,2,1,0,0,1,2,0,0.0%,202112050kan
+Juan Thornhill,ThorJu00,defense,KAN,1,2,1,50.0%,8,8,4,0,20.8,10,6,2,0,0,0,0,0,6,0,0.0%,202112050kan
+L'Jarius Sneed,SneeLJ00,defense,KAN,0,2,1,50.0%,10,10,5,0,64.6,3.5,5,5,3,0,0,0,0,4,1,20.0%,202112050kan
+Melvin Ingram,IngrMe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0.5,4,3,0,0.0%,202112050kan
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,2,2,50.0%,202112050kan
+Jarran Reed,ReedJa02,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,0,0,3,5,1,16.7%,202112050kan
+Michael Danna,DannMi00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202112050kan
+Frank Clark,ClarFr01,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,1,0,0.0%,202112050kan
+Alex Okafor,OkafAl00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202112050kan
+Derrick Nnadi,NnadDe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202112050kan
+Anthony Hitchens,HitcAn00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,5,1,16.7%,202112050kan
+Tershawn Wharton,WharTe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,1,33.3%,202112050kan
+Mike Hughes,HughMi00,defense,KAN,0,1,0,0.0%,NA,NA,0,NA,39.6,50,NA,NA,0,0,0,0,0,0,1,100.0%,202112050kan

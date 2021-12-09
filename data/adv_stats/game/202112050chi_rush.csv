@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,ARI,20,75,4,36,1.8,39,2,2,10,202112050chi
+Kyler Murray,MurrKy00,rushing,ARI,10,59,3,54,5.4,5,0.5,0,NA,202112050chi
+Rondale Moore,MoorRo02,rushing,ARI,3,2,NA,0,0,2,0.7,0,NA,202112050chi
+Eno Benjamin,BenjEn00,rushing,ARI,2,1,0,0,0,1,0.5,0,NA,202112050chi
+David Montgomery,MontDa01,rushing,CHI,21,90,7,55,2.6,35,1.7,2,10.5,202112050chi
+Khalil Herbert,HerbKh00,rushing,CHI,4,16,1,4,1,12,3,1,4,202112050chi
+Andy Dalton,DaltAn00,rushing,CHI,2,6,0,6,3,0,0,0,NA,202112050chi

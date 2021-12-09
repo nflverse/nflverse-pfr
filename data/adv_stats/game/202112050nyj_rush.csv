@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Miles Sanders,SandMi01,rushing,PHI,24,120,5,35,1.5,85,3.5,0,NA,202112050nyj
+Kenneth Gainwell,GainKe00,rushing,PHI,12,54,3,24,2,30,2.5,2,6,202112050nyj
+Gardner Minshew II,MinsGa00,rushing,PHI,4,11,1,9,2.3,2,0.5,0,NA,202112050nyj
+Jalen Reagor,ReagJa00,rushing,PHI,1,0,NA,0,0,0,0,0,NA,202112050nyj
+Tevin Coleman,ColeTe01,rushing,NYJ,11,58,2,12,1.1,46,4.2,0,NA,202112050nyj
+Zach Wilson,WilsZa00,rushing,NYJ,3,0,1,-1,-0.3,1,0.3,0,NA,202112050nyj
+Ty Johnson,JohnTy02,rushing,NYJ,1,1,1,0,0,1,1,0,NA,202112050nyj
+Elijah Moore,MoorEl00,rushing,NYJ,1,9,0,8,8,1,1,0,NA,202112050nyj
+Austin Walter,WaltAu00,rushing,NYJ,1,2,0,1,1,1,1,0,NA,202112050nyj

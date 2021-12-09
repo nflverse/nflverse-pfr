@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Keenan Allen,AlleKe00,receiving,LAC,8,5,34,2,5,34,6.8,0,0,9.9,0,NA,0,0,0,111.5,202112050cin
+Austin Ekeler,EkelAu00,receiving,LAC,5,5,45,0,0,-15,-3,60,12,-3,0,NA,0,0,0,104.2,202112050cin
+Mike Williams,WillMi07,receiving,LAC,7,5,110,0,3,89,17.8,21,4.2,14.4,0,NA,0,0,0,113.7,202112050cin
+Jalen Guyton,GuytJa01,receiving,LAC,4,4,90,1,3,70,17.5,20,5,17.5,1,4,0,0,0,158.3,202112050cin
+Jared Cook,CookJa02,receiving,LAC,4,3,29,0,2,27,9,2,0.7,12.3,0,NA,0,0,0,94.8,202112050cin
+Justin Jackson,JackJu01,receiving,LAC,2,2,6,0,0,-1,-0.5,7,3.5,-0.5,0,NA,0,0,0,79.2,202112050cin
+Donald Parham,ParhDo00,receiving,LAC,4,2,3,0,NA,0,0,3,1.5,10.3,0,NA,0,0,0,56.2,202112050cin
+Josh Palmer,PalmJo00,receiving,LAC,1,0,0,0,NA,0,NA,0,NA,52,0,NA,0,0,1,0,202112050cin
+Tee Higgins,HiggTe00,receiving,CIN,14,9,138,1,7,105,11.7,33,3.7,13.1,0,NA,1,7.1,0,120.5,202112050cin
+Tyler Boyd,BoydTy00,receiving,CIN,7,5,85,0,3,57,11.4,28,5.6,10.1,0,NA,0,0,0,112.2,202112050cin
+Ja'Marr Chase,ChasJa00,receiving,CIN,8,5,52,0,4,30,6,22,4.4,10.1,0,NA,2,25,1,41.7,202112050cin
+C.J. Uzomah,UzomC.00,receiving,CIN,6,3,20,0,NA,9,3,11,3.7,6.2,1,3,1,16.7,1,18.1,202112050cin
+Samaje Perine,PeriSa00,receiving,CIN,2,2,5,0,0,1,0.5,4,2,0.5,0,NA,0,0,0,79.2,202112050cin
+Joe Mixon,MixoJo00,receiving,CIN,1,0,0,0,0,0,NA,0,NA,5,0,NA,0,0,0,39.6,202112050cin

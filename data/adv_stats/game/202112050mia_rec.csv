@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Saquon Barkley,BarkSa00,receiving,NYG,9,6,19,0,2,-5,-0.8,24,4,1.1,2,3,2,22.2,0,70.1,202112050mia
+Devontae Booker,BookDe00,receiving,NYG,4,4,18,0,0,1,0.3,17,4.3,0.3,0,NA,0,0,0,85.4,202112050mia
+Evan Engram,EngrEv00,receiving,NYG,5,4,61,0,4,46,11.5,15,3.8,14.4,0,NA,1,20,0,117.5,202112050mia
+Kenny Golladay,GollKe00,receiving,NYG,5,3,37,0,2,30,10,7,2.3,11.6,0,NA,0,0,0,82.9,202112050mia
+Pharoh Cooper,CoopPh00,receiving,NYG,3,2,21,0,1,17,8.5,4,2,8,0,NA,0,0,0,86.8,202112050mia
+Darius Slayton,SlayDa01,receiving,NYG,7,2,13,0,NA,-2,-1,15,7.5,15.7,0,NA,1,14.3,1,0,202112050mia
+Kyle Rudolph,RudoKy00,receiving,NYG,4,2,18,0,1,4,2,14,7,1.5,0,NA,0,0,0,62.5,202112050mia
+John Ross,RossJo00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,0,39.6,202112050mia
+Jaylen Waddle,WaddJa00,receiving,MIA,11,9,90,0,5,71,7.9,19,2.1,7.9,0,NA,1,9.1,0,100.8,202112050mia
+Mike Gesicki,GesiMi00,receiving,MIA,11,7,46,0,2,30,4.3,16,2.3,7.9,0,NA,1,9.1,0,72.5,202112050mia
+DeVante Parker,ParkDe01,receiving,MIA,5,5,62,0,5,59,11.8,3,0.6,11.8,0,NA,0,0,0,118.3,202112050mia
+Albert Wilson,WilsAl02,receiving,MIA,8,4,26,0,3,4,1,22,5.5,3.6,1,4,0,0,0,57.3,202112050mia
+Myles Gaskin,GaskMy00,receiving,MIA,2,2,5,0,NA,-4,-2,9,4.5,-2,0,NA,0,0,0,79.2,202112050mia
+Hunter Long,LongHu00,receiving,MIA,1,1,8,0,NA,4,4,4,4,4,0,NA,0,0,0,100,202112050mia
+Mack Hollins,HollMa00,receiving,MIA,1,1,5,1,1,5,5,0,0,5,0,NA,0,0,0,127.1,202112050mia
+Isaiah Ford,FordIs00,receiving,MIA,1,1,2,1,1,2,2,0,0,2,0,NA,0,0,0,118.7,202112050mia
+Durham Smythe,SmytDu00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,11,0,NA,0,0,0,39.6,202112050mia

@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Leonard Fournette,FourLe00,rushing,TAM,13,44,1,16,1.2,28,2.2,0,NA,202112050atl
+Giovani Bernard,BernGi00,rushing,TAM,1,3,0,2,2,1,1,0,NA,202112050atl
+Tom Brady,BradTo00,rushing,TAM,1,-1,0,-1,-1,0,0,0,NA,202112050atl
+Chris Godwin,GodwCh00,rushing,TAM,1,9,1,6,6,3,3,0,NA,202112050atl
+Ronald Jones II,JoneRo01,rushing,TAM,1,2,NA,1,1,1,1,0,NA,202112050atl
+Cordarrelle Patterson,PattCo00,rushing,ATL,13,78,3,31,2.4,47,3.6,1,13,202112050atl
+Mike Davis,DaviMi01,rushing,ATL,4,32,1,28,7,4,1,0,NA,202112050atl
+Matt Ryan,RyanMa00,rushing,ATL,3,2,0,1,0.3,1,0.3,0,NA,202112050atl
+Qadree Ollison,OlliQa00,rushing,ATL,2,7,0,1,0.5,6,3,0,NA,202112050atl
+Olamide Zaccheaus,ZaccOl01,rushing,ATL,1,2,1,0,0,2,2,0,NA,202112050atl

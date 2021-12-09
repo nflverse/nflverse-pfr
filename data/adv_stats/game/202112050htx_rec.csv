@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Michael Pittman Jr.,PittMi01,receiving,IND,8,6,77,0,4,43,7.2,34,5.7,6.9,1,6,1,12.5,0,104.7,202112050htx
+Nyheim Hines,HineNy00,receiving,IND,4,3,32,0,1,4,1.3,28,9.3,10,0,NA,0,0,0,97.9,202112050htx
+T.Y. Hilton,HiltT.00,receiving,IND,2,2,22,0,1,20,10,2,1,10,0,NA,0,0,0,112.5,202112050htx
+Mo Alie-Cox,AlieMo00,receiving,IND,1,1,0,0,NA,-1,-1,1,1,-1,0,NA,0,0,0,79.2,202112050htx
+Zach Pascal,PascZa00,receiving,IND,3,1,6,0,NA,3,3,3,3,6.3,0,NA,0,0,0,42.4,202112050htx
+Kylen Granson,GranKy00,receiving,IND,2,1,6,0,NA,5,5,1,1,6.5,0,NA,0,0,0,56.2,202112050htx
+Jack Doyle,DoylJa00,receiving,IND,1,1,13,0,1,6,6,7,7,6,0,NA,0,0,0,118.7,202112050htx
+Ashton Dulin,DuliAs00,receiving,IND,1,1,2,1,1,2,2,0,0,2,0,NA,0,0,0,118.7,202112050htx
+Pharaoh Brown,BrowPh01,receiving,HOU,5,4,23,0,2,2,0.5,21,5.3,1,0,NA,0,0,0,85.8,202112050htx
+Brandin Cooks,CookBr00,receiving,HOU,6,3,38,0,2,9,3,29,9.7,4.2,0,NA,0,0,0,70.1,202112050htx
+Brevin Jordan,JordBr00,receiving,HOU,4,2,7,0,NA,0,0,7,3.5,8.8,0,NA,0,0,0,56.2,202112050htx
+Royce Freeman,FreeRo00,receiving,HOU,1,1,11,0,1,0,0,11,11,0,0,NA,0,0,0,112.5,202112050htx
+Rex Burkhead,BurkRe00,receiving,HOU,2,1,15,0,1,1,1,14,14,-1.5,0,NA,0,0,0,75,202112050htx
+Davion Davis,DaviDa03,receiving,HOU,2,0,0,0,NA,0,NA,0,NA,6.5,0,NA,0,0,1,0,202112050htx
+Chris Conley,ConlCh00,receiving,HOU,4,0,0,0,NA,0,NA,0,NA,8.8,0,NA,0,0,0,39.6,202112050htx
+Nico Collins,CollNi00,receiving,HOU,1,0,0,0,NA,0,NA,0,NA,7,0,NA,0,0,0,39.6,202112050htx
+Jaylen Samuels,SamuJa00,receiving,HOU,1,0,0,0,NA,0,NA,0,NA,-1,0,NA,1,100,0,39.6,202112050htx

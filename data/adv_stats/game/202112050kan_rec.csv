@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Javonte Williams,WillJa10,receiving,DEN,9,6,76,1,4,11,1.8,65,10.8,0.4,0,NA,1,11.1,0,129.9,202112050kan
+Noah Fant,FantNo00,receiving,DEN,4,4,33,0,1,16,4,17,4.3,4,0,NA,0,0,0,101,202112050kan
+Jerry Jeudy,JeudJe00,receiving,DEN,6,4,77,0,3,30,7.5,47,11.8,8.3,0,NA,0,0,1,70.1,202112050kan
+Albert Okwuegbunam,OkwuAl00,receiving,DEN,4,3,21,0,NA,4,1.3,17,5.7,3.8,0,NA,0,0,0,86.5,202112050kan
+Courtland Sutton,SuttCo00,receiving,DEN,6,2,15,0,1,12,6,3,1.5,18.5,0,NA,0,0,0,42.4,202112050kan
+Mike Boone,BoonMi00,receiving,DEN,1,1,19,0,1,2,2,17,17,2,0,NA,0,0,0,118.7,202112050kan
+Kendall Hinton,HintKe00,receiving,DEN,1,1,7,0,NA,5,5,2,2,5,0,NA,0,0,0,95.8,202112050kan
+Tim Patrick,PatrTi00,receiving,DEN,5,1,9,0,NA,5,5,4,4,10,0,NA,0,0,1,0,202112050kan
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,3,3,28,0,1,-8,-2.7,36,12,-2.7,0,NA,0,0,0,105.6,202112050kan
+Travis Kelce,KelcTr00,receiving,KAN,8,3,27,0,1,18,6,9,3,7.6,0,NA,1,12.5,0,47.4,202112050kan
+Darrel Williams,WillDa10,receiving,KAN,3,3,60,0,2,19,6.3,41,13.7,6.3,1,3,0,0,0,118.7,202112050kan
+Tyreek Hill,HillTy00,receiving,KAN,5,2,22,0,2,6,3,16,8,9.4,0,NA,1,20,1,14.2,202112050kan
+Demarcus Robinson,RobiDe01,receiving,KAN,2,2,21,0,NA,7,3.5,14,7,3.5,0,NA,0,0,0,110.4,202112050kan
+Mecole Hardman,HardMe00,receiving,KAN,1,1,12,0,1,-4,-4,16,16,-4,0,NA,0,0,0,116.7,202112050kan
+Byron Pringle,PrinBy00,receiving,KAN,4,1,14,0,1,7,7,7,7,6,1,1,2,50,0,41.7,202112050kan
+Marcus Kemp,KempMa00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,202112050kan

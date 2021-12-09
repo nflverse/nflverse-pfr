@@ -1,0 +1,36 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Devin White,WhitDe02,defense,TAM,0,6,6,100.0%,61,10.2,10.2,0,109,4.5,27,34,8,1,1,0,2,10,0,0.0%,202112050atl
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,6,5,83.3%,47,9.4,7.8,0,99.3,2.3,9,38,3,0,0,0,0,6,0,0.0%,202112050atl
+Antoine Winfield Jr.,WinfAn00,defense,TAM,0,5,4,80.0%,33,8.3,6.6,0,94.2,6.4,23,10,1,0,0,0,0,10,3,23.1%,202112050atl
+Pierre Desir,DesiPi00,defense,TAM,0,4,4,100.0%,47,11.8,11.8,0,115.6,9,36,11,0,0,0,0,0,4,0,0.0%,202112050atl
+Carlton Davis,DaviCa02,defense,TAM,0,9,4,44.4%,70,17.5,7.8,0,71.5,13.8,50,20,0,0,0,0,0,3,2,40.0%,202112050atl
+Lavonte David,DaviLa00,defense,TAM,0,4,4,100.0%,28,7,7,0,95.8,1.3,5,23,1,0,0,0,0,6,2,25.0%,202112050atl
+Shaquil Barrett,BarrSh00,defense,TAM,0,1,1,100.0%,2,2,2,0,79.2,2,2,0,6,0,1,0,1,3,1,25.0%,202112050atl
+Andrew Adams,AdamAn00,defense,TAM,0,2,1,50.0%,6,6,3,0,56.2,4,1,5,3,0,0,0,0,7,1,12.5%,202112050atl
+Ross Cockrell,CockRo00,defense,TAM,0,1,1,100.0%,10,10,10,0,108.3,6,6,4,1,0,0,0,0,3,0,0.0%,202112050atl
+Jamel Dean,DeanJa00,defense,TAM,0,3,1,33.3%,0,0,0,0,42.4,0.7,-2,2,0,0,0,0,0,1,1,50.0%,202112050atl
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,2,3,2,0,0.0%,202112050atl
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,5,0,0.0%,202112050atl
+Ndamukong Suh,SuhxNd99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,4,0,0.0%,202112050atl
+Anthony Nelson,NelsAn01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202112050atl
+Cam Gill,GillCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202112050atl
+Jason Pierre-Paul,PierJa99,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,0,0,1,2,1,33.3%,202112050atl
+Joe Tryon-Shoyinka,TryoJo00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,2,1,33.3%,202112050atl
+Kevin Minter,MintKe00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202112050atl
+Darren Hall,HallDa03,defense,ATL,0,10,9,90.0%,58,6.4,5.8,0,90.8,1.8,9,49,4,0,0,0,0,5,0,0.0%,202112050atl
+Foyesade Oluokun,OluoFo00,defense,ATL,0,7,7,100.0%,47,6.7,6.7,0,94.6,3.6,25,22,4,0,0,0,0,15,0,0.0%,202112050atl
+Deion Jones,JoneDe01,defense,ATL,0,8,5,62.5%,31,6.2,3.9,2,109.9,5.1,21,10,3,0,0,0,0,9,0,0.0%,202112050atl
+Fabian Moreau,MoreFa00,defense,ATL,0,7,5,71.4%,45,9,6.4,0,88.4,7.3,32,13,2,0,0,0,0,6,0,0.0%,202112050atl
+Duron Harmon,HarmDu00,defense,ATL,0,5,4,80.0%,30,7.5,6,1,131.2,7.6,18,12,2,0,0,0,0,3,0,0.0%,202112050atl
+Adetokunbo Ogundeji,OgunAd01,defense,ATL,0,2,2,100.0%,25,12.5,12.5,0,118.7,7.5,15,10,1,1,0,0,1,1,0,0.0%,202112050atl
+AJ Terrell,TerrAJ00,defense,ATL,0,5,2,40.0%,42,21,8.4,0,70.4,17.4,40,2,0,0,0,0,0,3,0,0.0%,202112050atl
+Avery Williams,WillAv02,defense,ATL,0,2,2,100.0%,8,4,4,0,83.3,0,0,8,0,0,0,0,0,4,0,0.0%,202112050atl
+Richie Grant,GranRi00,defense,ATL,0,3,2,66.7%,32,16,10.7,0,102.1,8,19,13,3,0,0,0,0,3,0,0.0%,202112050atl
+Erik Harris,HarrEr00,defense,ATL,0,2,1,50.0%,11,11,5.5,1,106.2,9.5,11,0,1,0,0,0,0,2,0,0.0%,202112050atl
+Jaylinn Hawkins,HawkJa00,defense,ATL,0,1,1,100.0%,27,27,27,1,158.3,10,10,17,0,0,0,0,0,0,0,NA,202112050atl
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,202112050atl
+Marlon Davidson,DaviMa01,defense,ATL,1,1,0,0.0%,NA,NA,0,NA,0,-5,NA,NA,0,0,0,0,0,0,0,NA,202112050atl
+Dante Fowler,FowlDa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,2,0,0.0%,202112050atl
+Mykal Walker,WalkMy00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202112050atl
+Brandon Copeland,CopeBr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,0,0.0%,202112050atl
+Steven Means,MeanSt00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,5,0,0.0%,202112050atl
