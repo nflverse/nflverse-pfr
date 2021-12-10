@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Brandon Bolden,BoldBr00,receiving,NWE,1,1,7,0,0,-3,-3,10,10,-3,0,NA,0,0,0,95.8,202112060buf
+Jonnu Smith,SmitJo01,receiving,NWE,1,1,12,0,1,10,10,2,2,10,0,NA,0,0,0,116.7,202112060buf
+Nelson Agholor,AghoNe00,receiving,NWE,1,0,0,0,NA,0,NA,0,NA,8,0,NA,0,0,0,39.6,202112060buf
+Stefon Diggs,DiggSt00,receiving,BUF,7,4,51,0,2,46,11.5,5,1.3,15.4,0,NA,1,14.3,0,80.1,202112060buf
+Emmanuel Sanders,SandEm00,receiving,BUF,6,3,22,0,1,15,5,7,2.3,9.3,0,NA,1,16.7,0,59,202112060buf
+Gabriel Davis,DaviGa01,receiving,BUF,4,2,30,1,2,19,9.5,11,5.5,12.8,0,NA,0,0,0,114.6,202112060buf
+Dawson Knox,KnoxDa00,receiving,BUF,6,2,14,0,1,3,1.5,11,5.5,11,1,2,1,16.7,0,42.4,202112060buf
+Zack Moss,MossZa00,receiving,BUF,3,2,12,0,1,1,0.5,11,5.5,4.3,0,NA,0,0,0,74.3,202112060buf
+Cole Beasley,BeasCo00,receiving,BUF,3,1,11,0,1,4,4,7,7,4.3,0,NA,0,0,0,45.1,202112060buf
+Matt Breida,BreiMa00,receiving,BUF,1,1,5,0,1,4,4,1,1,4,0,NA,0,0,0,87.5,202112060buf
