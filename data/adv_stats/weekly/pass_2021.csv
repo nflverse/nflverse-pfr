@@ -473,3 +473,5 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_13_DEN_KC,202112050kan,2021,13,REG,DEN,KC,Teddy Bridgewater,BridTe00,1,0.028,6,0.167,1,9,10,5,16,0.364
 2021_13_NE_BUF,202112060buf,2021,13,REG,BUF,NE,Josh Allen,AlleJo02,3,0.1,7,0.233,2,12,5,3,10,0.278
 2021_13_NE_BUF,202112060buf,2021,13,REG,NE,BUF,Mac Jones,JoneMa05,0,0,0,0,0,2,2,0,2,0.667
+2021_14_PIT_MIN,202112090min,2021,14,REG,MIN,PIT,Kirk Cousins,CousKi00,2,0.065,8,0.258,0,12,1,6,7,0.219
+2021_14_PIT_MIN,202112090min,2021,14,REG,PIT,MIN,Ben Roethlisberger,RoetBe00,3,0.077,2,0.051,5,12,1,2,8,0.174
