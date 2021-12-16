@@ -1,0 +1,35 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Tanner Muse,MuseTa00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,NA,1,NA,0,NA,202112120htx
+Jordyn Brooks,BrooJo01,defense,SEA,0,8,7,87.5%,93,13.3,11.6,0,115.1,4.6,30,63,3,0,0,0,0,10,0,0.0%,202112120htx
+D.J. Reed,ReedD.00,defense,SEA,0,8,4,50.0%,37,9.3,4.6,0,63,7.3,29,8,0,0,0,0,0,8,0,0.0%,202112120htx
+Bobby Wagner,WagnBo00,defense,SEA,0,5,4,80.0%,22,5.5,4.4,0,85,0.6,3,19,0,0,0,0,0,15,0,0.0%,202112120htx
+Ugo Amadi,AmadUg00,defense,SEA,0,6,3,50.0%,30,10,5,0,64.6,0.8,-7,37,3,0,0,0,0,6,0,0.0%,202112120htx
+Blessuan Austin,AustBl00,defense,SEA,0,3,3,100.0%,40,13.3,13.3,0,118.7,10,30,10,0,0,0,0,0,5,0,0.0%,202112120htx
+Poona Ford,FordPo00,defense,SEA,0,2,2,100.0%,19,9.5,9.5,0,106.2,-0.5,-1,20,0,0,0,0,0,6,0,0.0%,202112120htx
+Ryan Neal,NealRy00,defense,SEA,0,4,2,50.0%,22,11,5.5,0,66.7,12.3,9,13,1,0,0,0,0,7,0,0.0%,202112120htx
+Sidney Jones,JoneSi00,defense,SEA,0,4,2,50.0%,7,3.5,1.8,0,56.2,15.8,6,1,0,0,0,0,0,7,0,0.0%,202112120htx
+Darrell Taylor,TaylDa00,defense,SEA,0,1,1,100.0%,6,6,6,0,91.7,0,0,6,4,1,1,1,3,1,0,0.0%,202112120htx
+Alton Robinson,RobiAl03,defense,SEA,0,2,1,50.0%,8,8,4,0,60.4,-1,-3,11,0,1,1,0,2,0,0,NA,202112120htx
+Benson Mayowa,MayoBe00,defense,SEA,0,1,1,100.0%,13,13,13,0,118.7,-3,-3,16,2,1,0,0,1,3,1,25.0%,202112120htx
+Al Woods,WoodAl99,defense,SEA,0,1,1,100.0%,10,10,10,0,108.3,5,5,5,0,0,0,0.5,1,5,0,0.0%,202112120htx
+Carlos Dunlap,DunlCa99,defense,SEA,0,1,1,100.0%,19,19,19,0,118.7,-3,-3,22,0,0,0,0,0,2,0,0.0%,202112120htx
+Rasheem Green,GreeRa01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,202112120htx
+Quandre Diggs,DiggQu00,defense,SEA,0,1,0,0.0%,NA,NA,0,NA,39.6,18,NA,NA,0,0,0,0,0,1,2,66.7%,202112120htx
+John Reid,ReidJo00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202112120htx
+Bryan Mone,MoneBr00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202112120htx
+Desmond King,KingDe01,defense,HOU,0,6,4,66.7%,49,12.3,8.2,1,131.2,13,38,11,0,0,0,0,0,5,0,0.0%,202112120htx
+Terrance Mitchell,MitcTe00,defense,HOU,0,3,3,100.0%,89,29.7,29.7,1,158.3,28.3,85,4,0,0,0,0,0,3,0,0.0%,202112120htx
+Lonnie Johnson Jr.,JohnLo01,defense,HOU,0,8,3,37.5%,29,9.7,3.6,0,48.4,8.8,9,20,0,0,0,0,0,3,1,25.0%,202112120htx
+Christian Kirksey,KirkCh00,defense,HOU,0,2,2,100.0%,27,13.5,13.5,0,118.7,10.5,21,6,1,0,0,0,0,10,0,0.0%,202112120htx
+Garret Wallow,WallGa00,defense,HOU,0,2,2,100.0%,11,5.5,5.5,0,89.6,-1,-2,13,0,0,0,0,0,2,0,0.0%,202112120htx
+Kamu Grugier-Hill,GrugKa00,defense,HOU,0,3,2,66.7%,26,13,8.7,0,93.7,5.3,11,15,0,0,0,0,0,6,0,0.0%,202112120htx
+Jonathan Owens,OwenJo01,defense,HOU,0,1,1,100.0%,29,29,29,0,118.7,29,29,0,0,0,0,0,0,2,0,0.0%,202112120htx
+Jacob Martin,MartJa02,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,0,4,0,0,NA,202112120htx
+Ross Blacklock,BlacRo00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,4,0,0.0%,202112120htx
+Jonathan Greenard,GreeJo04,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,0,0,2,4,0,0.0%,202112120htx
+Maliek Collins,CollMa00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202112120htx
+Tavierre Thomas,ThomTa01,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,28,NA,NA,2,0,0,0,0,2,0,0.0%,202112120htx
+Eric Murray,MurrEr00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,5,NA,NA,0,0,0,0,0,4,0,0.0%,202112120htx
+Jaleel Johnson,JohnJa09,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202112120htx
+Neville Hewitt,HewiNe00,defense,HOU,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,0,0.0%,202112120htx
+Justin Reid,ReidJu00,defense,HOU,0,1,0,0.0%,NA,NA,0,NA,39.6,29,NA,NA,0,0,0,0,0,4,1,20.0%,202112120htx

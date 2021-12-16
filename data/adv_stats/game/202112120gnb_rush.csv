@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,10,42,2,25,2.5,17,1.7,0,NA,202112120gnb
+Justin Fields,FielJu00,rushing,CHI,9,74,4,59,6.6,15,1.7,1,9,202112120gnb
+Damien Williams,WillDa05,rushing,CHI,2,13,1,8,4,5,2.5,0,NA,202112120gnb
+Jakeem Grant,GranJa00,rushing,CHI,1,5,0,0,0,5,5,1,1,202112120gnb
+Khalil Herbert,HerbKh00,rushing,CHI,1,3,NA,2,2,1,1,0,NA,202112120gnb
+AJ Dillon,DillAJ00,rushing,GNB,15,71,3,35,2.3,36,2.4,1,15,202112120gnb
+Aaron Jones,JoneAa00,rushing,GNB,5,35,3,16,3.2,19,3.8,1,5,202112120gnb
+Kurt Benkert,BenkKu01,rushing,GNB,2,-1,NA,-1,-0.5,0,0,0,NA,202112120gnb
+Allen Lazard,LazaAl00,rushing,GNB,1,14,1,13,13,1,1,0,NA,202112120gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,1,0,0,0,0,0,0,0,NA,202112120gnb

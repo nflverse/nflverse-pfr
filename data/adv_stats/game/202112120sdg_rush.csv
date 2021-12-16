@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Saquon Barkley,BarkSa00,rushing,NYG,16,64,5,34,2.1,30,1.9,0,NA,202112120sdg
+Devontae Booker,BookDe00,rushing,NYG,8,56,3,28,3.5,28,3.5,0,NA,202112120sdg
+Mike Glennon,GlenMi00,rushing,NYG,1,7,1,7,7,0,0,0,NA,202112120sdg
+Elijhaa Penny,PennEl00,rushing,NYG,1,8,1,5,5,3,3,0,NA,202112120sdg
+Austin Ekeler,EkelAu00,rushing,LAC,12,67,4,50,4.2,17,1.4,0,NA,202112120sdg
+Joshua Kelley,KellJo01,rushing,LAC,10,33,2,16,1.6,17,1.7,2,5,202112120sdg
+Justin Jackson,JackJu01,rushing,LAC,9,35,1,23,2.6,12,1.3,0,NA,202112120sdg
+Justin Herbert,HerbJu00,rushing,LAC,4,19,3,17,4.3,2,0.5,0,NA,202112120sdg
+Chase Daniel,DaniCh00,rushing,LAC,2,-2,NA,-2,-1,0,0,0,NA,202112120sdg

@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+David Montgomery,MontDa01,receiving,CHI,7,6,39,0,2,11,1.8,28,4.7,2,0,NA,0,0,0,89.9,202112120gnb
+Cole Kmet,KmetCo00,receiving,CHI,5,3,17,0,NA,6,2,11,3.7,3.8,0,NA,0,0,0,66.2,202112120gnb
+Damiere Byrd,ByrdDa00,receiving,CHI,2,2,76,1,2,27,13.5,49,24.5,13.5,0,NA,0,0,0,158.3,202112120gnb
+Jimmy Graham,GrahJi00,receiving,CHI,3,2,9,0,NA,-1,-0.5,10,5,2.7,0,NA,0,0,0,70.1,202112120gnb
+Allen Robinson,RobiAl02,receiving,CHI,6,2,14,0,1,14,7,0,0,11.8,0,NA,0,0,0,42.4,202112120gnb
+Jakeem Grant,GranJa00,receiving,CHI,3,1,46,1,1,-3,-3,49,49,7,1,1,1,33.3,0,121.5,202112120gnb
+Darnell Mooney,MoonDa00,receiving,CHI,5,1,19,0,1,17,17,2,2,17.4,0,NA,2,40,2,3.3,202112120gnb
+Damien Williams,WillDa05,receiving,CHI,1,1,4,0,0,0,0,4,4,0,0,NA,0,0,0,83.3,202112120gnb
+Davante Adams,AdamDa01,receiving,GNB,13,10,121,2,8,60,6,61,6.1,7,1,10,0,0,0,144.6,202112120gnb
+Allen Lazard,LazaAl00,receiving,GNB,7,6,75,1,4,52,8.7,23,3.8,10.1,0,NA,0,0,0,150.9,202112120gnb
+Marcedes Lewis,LewiMa00,receiving,GNB,4,4,51,0,3,26,6.5,25,6.3,6.5,0,NA,0,0,0,118.7,202112120gnb
+Josiah Deguara,DeguJo00,receiving,GNB,3,3,44,0,2,9,3,35,11.7,3,0,NA,0,0,0,118.7,202112120gnb
+Aaron Jones,JoneAa00,receiving,GNB,3,3,30,1,1,16,5.3,14,4.7,5.3,0,NA,0,0,0,147.9,202112120gnb
+Marquez Valdes-Scantling,ValdMa00,receiving,GNB,5,3,20,0,1,9,3,11,3.7,7.2,0,NA,0,0,0,68.7,202112120gnb

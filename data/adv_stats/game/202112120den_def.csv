@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jalen Elliott,ElliJa05,defense,DET,0,5,4,80.0%,27,6.8,5.4,2,128.7,4,11,16,0,0,0,0,0,5,3,37.5%,202112120den
+Will Harris,HarrWi02,defense,DET,0,6,4,66.7%,46,11.5,7.7,0,89.6,6,13,33,1,0,0,0,0,9,0,0.0%,202112120den
+Josh Woods,WoodJo02,defense,DET,0,3,3,100.0%,17,5.7,5.7,0,90.3,4.3,13,4,1,0,1,0,1,13,1,7.1%,202112120den
+C.J. Moore,MoorCJ01,defense,DET,0,2,2,100.0%,15,7.5,7.5,0,97.9,6,12,3,1,0,0,0,0,6,0,0.0%,202112120den
+Dean Marlowe,MarlDe00,defense,DET,0,2,2,100.0%,17,8.5,8.5,0,102.1,5,10,7,1,0,0,0,0,7,2,22.2%,202112120den
+Nickell Robey-Coleman,RobeNi00,defense,DET,0,3,2,66.7%,17,8.5,5.7,0,81.2,6.7,13,4,0,0,0,0,0,4,0,0.0%,202112120den
+Anthony Pittman,PittAn01,defense,DET,0,1,1,100.0%,16,16,16,0,118.7,2,2,14,0,0,1,0,1,4,0,0.0%,202112120den
+Derrick Barnes,BarnDe02,defense,DET,0,2,1,50.0%,32,32,16,0,95.8,21,29,3,1,0,0,0,0,5,0,0.0%,202112120den
+Charles Harris,HarrCh03,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,1,0,4,3,1,25.0%,202112120den
+Alim McNeill,McNeAl00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,1,20.0%,202112120den
+Jessie Lemonier,LemoJe00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,6,1,14.3%,202112120den
+Alex Anzalone,AnzaAl00,defense,DET,0,1,0,0.0%,NA,NA,0,NA,39.6,6,NA,NA,0,0,0,0,0,0,0,NA,202112120den
+Bruce Hector,HectBr00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202112120den
+Levi Onwuzurike,OnwuLe00,defense,DET,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202112120den
+Amani Oruwariye,OruwAm00,defense,DET,0,1,0,0.0%,NA,NA,0,NA,39.6,24,NA,NA,0,0,0,0,0,1,1,50.0%,202112120den
+Kyle Fuller,FullKy00,defense,DEN,0,7,5,71.4%,25,5,3.6,1,116.1,0.9,3,22,0,0,0,0,0,3,0,0.0%,202112120den
+Ronald Darby,DarbRo00,defense,DEN,0,9,4,44.4%,55,13.8,6.1,0,64.6,11.7,45,10,0,0,0,0,0,4,0,0.0%,202112120den
+Caden Sterns,SterCa00,defense,DEN,0,3,3,100.0%,44,14.7,14.7,0,118.7,9.3,28,16,0,0,0,0,0,3,1,25.0%,202112120den
+Patrick Surtain II,SurtPa01,defense,DEN,0,5,3,60.0%,31,10.3,6.2,0,77.9,14.6,29,2,0,0,0,0,0,5,0,0.0%,202112120den
+Baron Browning,BrowBa01,defense,DEN,0,2,2,100.0%,7,3.5,3.5,0,81.2,0.5,1,6,4,0,0,0,0,3,0,0.0%,202112120den
+Justin Simmons,SimmJu00,defense,DEN,1,4,2,50.0%,14,7,3.5,0,18.7,6,8,6,0,0,0,0,0,6,1,14.3%,202112120den
+Kareem Jackson,JackKa99,defense,DEN,0,3,2,66.7%,13,6.5,4.3,0,75.7,0,-4,17,0,0,0,0,0,5,0,0.0%,202112120den
+Jonas Griffith,GrifJo01,defense,DEN,0,1,1,100.0%,4,4,4,0,83.3,4,4,0,1,0,0,0,0,5,1,16.7%,202112120den
+Mike Ford,FordMi01,defense,DEN,0,2,1,50.0%,8,8,4,0,60.4,20,7,1,0,0,0,0,0,1,0,0.0%,202112120den
+Justin Strnad,StrnJu00,defense,DEN,0,1,1,100.0%,14,14,14,0,118.7,4,4,10,0,0,0,0,0,1,0,0.0%,202112120den
+Dre'Mont Jones,JoneDr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,2,2,3,0,0.0%,202112120den
+Bradley Chubb,ChubBr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,2,3,1,25.0%,202112120den
+Jonathon Cooper,CoopJo02,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,0,0,2,5,0,0.0%,202112120den
+DeShawn Williams,WillDe04,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202112120den
+Kenny Young,YounKe03,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,-6,NA,NA,0,0,0,0,0,2,1,33.3%,202112120den
+Mike Purcell,PurcMi00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,2,33.3%,202112120den

@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Alvin Kamara,KamaAl00,rushing,NOR,27,120,7,96,3.6,24,0.9,3,9,202112120nyj
+Taysom Hill,HillTa00,rushing,NOR,11,73,5,73,6.6,0,0,0,NA,202112120nyj
+Tony Jones,JoneTo04,rushing,NOR,6,10,0,10,1.7,0,0,0,NA,202112120nyj
+La'Mical Perine,PeriLa00,rushing,NYJ,7,28,1,21,3,7,1,0,NA,202112120nyj
+Ty Johnson,JohnTy02,rushing,NYJ,6,17,0,17,2.8,0,0,0,NA,202112120nyj
+Zach Wilson,WilsZa00,rushing,NYJ,4,33,1,33,8.3,0,0,0,NA,202112120nyj

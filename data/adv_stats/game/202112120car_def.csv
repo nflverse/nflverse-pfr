@@ -1,0 +1,27 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+AJ Terrell,TerrAJ00,defense,ATL,1,9,5,55.6%,68,13.6,7.6,1,77.3,10.2,26,42,0,0,0,0,0,4,0,0.0%,202112120car
+Darren Hall,HallDa03,defense,ATL,0,5,4,80.0%,64,16,12.8,0,118.7,10.2,54,10,3,0,0,0,0,4,0,0.0%,202112120car
+Foyesade Oluokun,OluoFo00,defense,ATL,0,5,3,60.0%,26,8.7,5.2,0,73.7,6.8,15,11,0,0,0,0,0,7,3,30.0%,202112120car
+Duron Harmon,HarmDu00,defense,ATL,0,4,3,75.0%,43,14.3,10.8,0,109.4,11.8,38,5,2,0,0,0,0,3,0,0.0%,202112120car
+Deion Jones,JoneDe01,defense,ATL,0,2,2,100.0%,11,5.5,5.5,0,89.6,2,4,7,3,1,1,0,2,6,2,25.0%,202112120car
+Fabian Moreau,MoreFa00,defense,ATL,0,5,2,40.0%,16,8,3.2,0,48.7,10.4,15,1,1,0,0,0,0,1,1,50.0%,202112120car
+Jaylinn Hawkins,HawkJa00,defense,ATL,0,4,1,25.0%,10,10,2.5,0,39.6,7.3,3,7,3,1,0,0,1,3,2,40.0%,202112120car
+Erik Harris,HarrEr00,defense,ATL,0,1,1,100.0%,15,15,15,0,118.7,-3,-3,18,0,0,0,0,0,1,0,0.0%,202112120car
+Dante Fowler,FowlDa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,202112120car
+Ta'Quon Graham,GrahTa00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,0,NA,202112120car
+Grady Jarrett,JarrGr00,defense,ATL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,0,0.0%,202112120car
+Myles Hartsfield,HartMy00,defense,CAR,0,4,3,75.0%,32,10.7,8,1,137.5,6.5,0,32,0,0,0,0,0,1,0,0.0%,202112120car
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,3,3,100.0%,35,11.7,11.7,0,115.3,0.3,1,34,3,0,0,0,0,8,1,11.1%,202112120car
+C.J. Henderson,HendCJ00,defense,CAR,0,4,3,75.0%,58,19.3,14.5,0,116.7,13.8,49,9,0,0,0,0,0,3,0,0.0%,202112120car
+Jeremy Chinn,ChinJe00,defense,CAR,0,2,2,100.0%,9,4.5,4.5,0,85.4,1.5,3,6,1,1,0,0,1,13,1,7.1%,202112120car
+Shaq Thompson,ThomSh01,defense,CAR,0,4,2,50.0%,19,9.5,4.8,0,63.5,6.3,17,2,4,0,0,0,0,11,0,0.0%,202112120car
+Brian Burns,BurnBr00,defense,CAR,0,1,1,100.0%,11,11,11,0,112.5,2,2,9,0,2,2,0,4,2,0,0.0%,202112120car
+Morgan Fox,FoxxMo00,defense,CAR,0,1,1,100.0%,6,6,6,0,91.7,6,6,0,0,0,1,0,1,2,0,0.0%,202112120car
+A.J. Bouye,BouyA.00,defense,CAR,0,2,1,50.0%,4,4,2,0,56.2,7,4,0,0,0,0,0,0,1,0,0.0%,202112120car
+Stephon Gilmore,GilmSt00,defense,CAR,0,2,1,50.0%,-2,-2,-1,0,56.2,6.5,-3,1,0,0,0,0,0,1,0,0.0%,202112120car
+Keith Taylor,TaylKe03,defense,CAR,0,2,1,50.0%,14,14,7,0,72.9,24,13,1,0,0,0,0,0,1,0,0.0%,202112120car
+Marquis Haynes,HaynMa01,defense,CAR,0,1,1,100.0%,4,4,4,0,83.3,4,4,0,0,0,0,0,0,2,0,0.0%,202112120car
+Derrick Brown,BrowDe05,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,4,1,20.0%,202112120car
+DaQuan Jones,JoneDa04,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,4,0,0.0%,202112120car
+Haason Reddick,ReddHa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,1,0,1,3,0,0.0%,202112120car
+Rashaan Melvin,MelvRa00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,0,0,0,0,0,1,0,0.0%,202112120car

@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Craig Reynolds,ReynCr00,rushing,DET,11,83,4,27,2.5,56,5.1,2,5.5,202112120den
+Godwin Igwebuike,IgweGo00,rushing,DET,8,25,2,10,1.3,15,1.9,0,NA,202112120den
+Jared Goff,GoffJa00,rushing,DET,2,10,1,10,5,0,0,0,NA,202112120den
+Melvin Gordon,GordMe00,rushing,DEN,24,111,9,35,1.5,76,3.2,5,4.8,202112120den
+Javonte Williams,WillJa10,rushing,DEN,15,73,5,27,1.8,46,3.1,4,3.8,202112120den

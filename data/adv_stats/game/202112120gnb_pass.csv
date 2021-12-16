@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Justin Fields,FielJu00,passing,CHI,18,33,224,7,20,257,7.8,71,3.9,2.2,153,8.5,3,9.4%,5,15.6%,2,10,5,7,14,32.6%,8,9.1,202112120gnb
+Aaron Rodgers,RodgAa00,passing,GNB,29,37,341,19,47.5,253,6.8,172,5.9,4.6,169,5.8,0,0.0%,4,11.4%,3,18,4,1,8,20.0%,0,NA,202112120gnb

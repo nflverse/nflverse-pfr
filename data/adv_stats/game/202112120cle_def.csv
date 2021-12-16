@@ -1,0 +1,36 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Chris Westry,WestCh03,defense,BAL,0,6,5,83.3%,56,11.2,9.3,0,105.6,8,30,26,0,0,0,0,0,6,0,0.0%,202112120cle
+Anthony Averett,AverAn00,defense,BAL,1,7,4,57.1%,52,13,7.4,0,41.1,13,43,9,0,0,0,0,0,5,0,0.0%,202112120cle
+Brandon Stephens,StepBr01,defense,BAL,0,3,3,100.0%,29,9.7,9.7,0,106.9,8.3,25,4,1,0,0,0,0,8,0,0.0%,202112120cle
+Chuck Clark,ClarCh00,defense,BAL,0,4,3,75.0%,7,2.3,1.8,1,116.7,1.3,2,5,0,0,0,0,0,7,0,0.0%,202112120cle
+Tavon Young,YounTa01,defense,BAL,0,3,2,66.7%,26,13,8.7,1,133.3,7,19,7,0,0,0,0,0,1,0,0.0%,202112120cle
+Tyus Bowser,BowsTy00,defense,BAL,0,1,1,100.0%,5,5,5,0,87.5,2,2,3,3,1,0,0,1,3,0,0.0%,202112120cle
+Patrick Queen,QueePa00,defense,BAL,0,1,1,100.0%,5,5,5,0,87.5,4,4,1,3,0,0,0,0,2,0,0.0%,202112120cle
+Justin Houston,HousJu00,defense,BAL,0,1,1,100.0%,-1,-1,-1,0,79.2,-3,-3,2,2,0,0,0,0,2,0,0.0%,202112120cle
+Chris Board,BoarCh00,defense,BAL,0,1,1,100.0%,7,7,7,0,95.8,-2,-2,9,0,0,0,0,0,1,0,0.0%,202112120cle
+Kevon Seymour,SeymKe00,defense,BAL,0,1,1,100.0%,4,4,4,0,83.3,6,6,-2,0,0,0,0,0,2,0,0.0%,202112120cle
+Justin Madubuike,MaduJu00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202112120cle
+Justin Ellis,ElliJu01,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202112120cle
+Broderick Washington Jr.,WashBr01,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202112120cle
+Kristian Welch,WelcKr00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202112120cle
+Josh Oliver,OlivJo00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,1,33.3%,202112120cle
+Sam Koch,KochSa20,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202112120cle
+Josh Bynes,ByneJo00,defense,BAL,0,2,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,1,0,0,0,0,6,0,0.0%,202112120cle
+Jaylon Ferguson,FergJa02,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202112120cle
+Troy Hill,HillTr01,defense,CLE,0,8,7,87.5%,66,9.4,8.3,0,101,2,16,50,3,0,0,0,0,7,0,0.0%,202112120cle
+Jeremiah Owusu-Koramoah,OwusJe00,defense,CLE,0,5,4,80.0%,16,4,3.2,0,80,1.6,8,8,3,0,1,0,1,5,1,16.7%,202112120cle
+Grant Delpit,DelpGr00,defense,CLE,0,5,4,80.0%,25,6.3,5,0,87.5,11.2,17,8,0,0,1,0,1,11,0,0.0%,202112120cle
+Greedy Williams,WillGr00,defense,CLE,0,5,4,80.0%,92,23,18.4,0,118.7,18.6,63,29,0,0,0,0,0,6,0,0.0%,202112120cle
+Denzel Ward,WardDe02,defense,CLE,0,8,4,50.0%,25,6.3,3.1,0,56.8,8.4,16,9,0,0,0,0,0,5,0,0.0%,202112120cle
+John Johnson,JohnJo10,defense,CLE,0,3,2,66.7%,34,17,11.3,0,104.9,14.7,32,2,1,0,0,0.5,1,7,0,0.0%,202112120cle
+Jacob Phillips,PhilJa01,defense,CLE,0,2,2,100.0%,5,2.5,2.5,0,79.2,0.5,1,4,0,0,0,0,0,3,0,0.0%,202112120cle
+Myles Garrett,GarrMy00,defense,CLE,0,1,1,100.0%,5,5,5,0,87.5,0,0,5,0,0,0,1,1,3,0,0.0%,202112120cle
+Malcolm Smith,SmitMa02,defense,CLE,0,2,1,50.0%,8,8,4,1,100,0,0,8,2,0,0,0,0,2,0,0.0%,202112120cle
+Sione Takitaki,TakiSi00,defense,CLE,0,1,1,100.0%,11,11,11,0,112.5,10,10,1,0,0,0,0,0,0,0,NA,202112120cle
+Takkarist McKinley,McKiTa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,1,5,2,0,0.0%,202112120cle
+Jadeveon Clowney,ClowJa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1.5,3,3,1,25.0%,202112120cle
+Malik McDowell,McDoMa00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202112120cle
+Herb Miller,MillHe01,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202112120cle
+A.J. Green,GreeAJ00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202112120cle
+Elijah Lee,LeexEl00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202112120cle
+M.J. Stewart,StewM.00,defense,CLE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,4,0,0.0%,202112120cle

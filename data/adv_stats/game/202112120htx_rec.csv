@@ -1,0 +1,21 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Lockett,LockTy00,receiving,SEA,9,5,142,1,4,137,27.4,5,1,26,0,NA,0,0,0,137.5,202112120htx
+D.K. Metcalf,MetcDK00,receiving,SEA,8,4,43,0,2,16,4,27,6.8,10.1,1,4,0,0,0,66.1,202112120htx
+Gerald Everett,EverGe00,receiving,SEA,2,2,15,1,2,10,5,5,2.5,5,0,NA,0,0,0,137.5,202112120htx
+Will Dissly,DissWi00,receiving,SEA,3,2,38,0,2,22,11,16,8,9,0,NA,0,0,0,109.7,202112120htx
+Rashaad Penny,PennRa00,receiving,SEA,1,1,1,0,0,-1,-1,2,2,-1,0,NA,0,0,0,79.2,202112120htx
+Penny Hart,HartPe01,receiving,SEA,1,1,16,0,1,7,7,9,9,7,0,NA,0,0,0,118.7,202112120htx
+Alex Collins,CollAl00,receiving,SEA,1,1,1,0,0,0,0,1,1,0,0,NA,0,0,0,79.2,202112120htx
+Nick Bellore,BellNi01,receiving,SEA,1,1,4,0,NA,0,0,4,4,0,0,NA,0,0,0,83.3,202112120htx
+D'Wayne Eskridge,EskrDW00,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,-4,0,NA,0,0,0,39.6,202112120htx
+Freddie Swain,SwaiFr00,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,5,0,NA,1,100,0,39.6,202112120htx
+Brandin Cooks,CookBr00,receiving,HOU,11,8,101,0,4,23,2.9,78,9.8,6.9,1,8,0,0,0,100.9,202112120htx
+Royce Freeman,FreeRo00,receiving,HOU,8,6,51,0,3,-2,-0.3,53,8.8,0.3,0,NA,0,0,0,91.1,202112120htx
+Nico Collins,CollNi00,receiving,HOU,10,5,69,0,2,51,10.2,18,3.6,8.7,0,NA,0,0,0,72.5,202112120htx
+Rex Burkhead,BurkRe00,receiving,HOU,4,4,26,0,1,3,0.8,23,5.8,0.8,0,NA,0,0,0,93.7,202112120htx
+Brevin Jordan,JordBr00,receiving,HOU,7,4,26,1,2,15,3.8,11,2.8,5.4,0,NA,0,0,0,104.8,202112120htx
+Chris Conley,ConlCh00,receiving,HOU,2,2,20,0,2,-5,-2.5,25,12.5,-2.5,1,2,0,0,0,108.3,202112120htx
+Phillip Dorsett,DorsPh00,receiving,HOU,3,1,9,0,NA,6,6,3,3,18,0,NA,0,0,0,42.4,202112120htx
+Jordan Akins,AkinJo00,receiving,HOU,1,1,6,0,1,5,5,1,1,5,0,NA,0,0,0,91.7,202112120htx
+Davion Davis,DaviDa03,receiving,HOU,1,1,17,0,1,4,4,13,13,4,0,NA,0,0,0,118.7,202112120htx
+Antony Auclair,AuclAn00,receiving,HOU,1,1,6,0,NA,0,0,6,6,0,0,NA,0,0,0,91.7,202112120htx

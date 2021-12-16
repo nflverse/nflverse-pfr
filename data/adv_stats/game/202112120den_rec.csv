@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Amon-Ra St. Brown,StxxAm00,receiving,DET,12,8,73,0,2,38,4.8,35,4.4,4.7,1,8,0,0,0,83,202112120den
+Kalif Raymond,RaymKa00,receiving,DET,5,4,31,1,2,12,3,19,4.8,9.8,1,4,0,0,0,132.1,202112120den
+Josh Reynolds,ReynJo00,receiving,DET,5,3,52,0,2,51,17,1,0.3,19,0,NA,0,0,0,95.4,202112120den
+Brock Wright,WrigBr01,receiving,DET,5,3,20,0,1,0,0,20,6.7,2.4,0,NA,0,0,1,29.2,202112120den
+Craig Reynolds,ReynCr00,receiving,DET,2,2,16,0,1,5,2.5,11,5.5,2.5,0,NA,0,0,0,100,202112120den
+Shane Zylstra,ZylsSh00,receiving,DET,6,2,18,0,1,17,8.5,1,0.5,4.5,0,NA,0,0,0,42.4,202112120den
+Taylor Decker,DeckTa00,receiving,DET,1,1,-2,0,NA,-2,-2,0,0,-2,0,NA,0,0,0,79.2,202112120den
+Tom Kennedy,KennTo01,receiving,DET,1,1,7,0,NA,4,4,3,3,4,1,1,0,0,0,95.8,202112120den
+KhaDarel Hodge,HodgKh00,receiving,DET,1,0,0,0,NA,0,NA,0,NA,33,0,NA,0,0,0,39.6,202112120den
+Jerry Jeudy,JeudJe00,receiving,DEN,6,5,47,0,3,22,4.4,25,5,4.7,0,NA,0,0,0,99.3,202112120den
+Albert Okwuegbunam,OkwuAl00,receiving,DEN,5,5,41,1,2,12,2.4,29,5.8,2.4,2,2.5,0,0,0,140.4,202112120den
+Noah Fant,FantNo00,receiving,DEN,4,4,51,0,2,42,10.5,9,2.3,10.5,0,NA,0,0,0,118.7,202112120den
+Tim Patrick,PatrTi00,receiving,DEN,5,2,21,0,2,12,6,9,4.5,8.4,0,NA,1,20,0,52.9,202112120den
+Courtland Sutton,SuttCo00,receiving,DEN,2,1,9,0,NA,7,7,2,2,15.5,0,NA,0,0,0,62.5,202112120den
+Javonte Williams,WillJa10,receiving,DEN,2,1,10,1,1,2,2,8,8,7.5,1,1,0,0,0,104.2,202112120den
+Diontae Spencer,SpenDi00,receiving,DEN,1,0,0,0,NA,0,NA,0,NA,9,0,NA,0,0,0,39.6,202112120den

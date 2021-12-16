@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jeff Wilson,WilsJe01,rushing,SFO,13,56,3,36,2.8,20,1.5,0,NA,202112120cin
+Deebo Samuel,SamuDe00,rushing,SFO,8,37,2,20,2.5,17,2.1,1,8,202112120cin
+Brandon Aiyuk,AiyuBr00,rushing,SFO,1,4,0,4,4,0,0,0,NA,202112120cin
+Jimmy Garoppolo,GaroJi00,rushing,SFO,1,3,1,0,0,3,3,0,NA,202112120cin
+Joe Mixon,MixoJo00,rushing,CIN,18,58,3,25,1.4,33,1.8,0,NA,202112120cin
+Samaje Perine,PeriSa00,rushing,CIN,4,11,1,5,1.3,6,1.5,0,NA,202112120cin
+Joe Burrow,BurrJo01,rushing,CIN,2,3,0,-1,-0.5,4,2,0,NA,202112120cin
+Tyler Boyd,BoydTy00,rushing,CIN,1,8,0,0,0,8,8,1,1,202112120cin
+Ja'Marr Chase,ChasJa00,rushing,CIN,1,6,0,0,0,6,6,1,1,202112120cin
