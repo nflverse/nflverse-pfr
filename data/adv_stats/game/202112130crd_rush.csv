@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Sony Michel,MichSo00,rushing,LAR,20,79,4,46,2.3,33,1.7,3,6.7,202112130crd
+Van Jefferson,JeffVa00,rushing,LAR,1,10,0,0,0,10,10,0,NA,202112130crd
+James Conner,ConnJa00,rushing,ARI,13,31,2,10,0.8,21,1.6,2,6.5,202112130crd
+Kyler Murray,MurrKy00,rushing,ARI,7,61,3,37,5.3,24,3.4,0,NA,202112130crd
+Rondale Moore,MoorRo02,rushing,ARI,2,11,0,6,3,5,2.5,0,NA,202112130crd

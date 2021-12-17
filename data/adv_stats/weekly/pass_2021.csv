@@ -501,3 +501,5 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_14_BUF_TB,202112120tam,2021,14,REG,BUF,TB,Josh Allen,AlleJo02,0,0,10,0.2,3,27,8,7,18,0.286
 2021_14_CHI_GB,202112120gnb,2021,14,REG,GB,CHI,Aaron Rodgers,RodgAa00,0,0,4,0.114,3,18,4,1,8,0.2
 2021_14_CHI_GB,202112120gnb,2021,14,REG,CHI,GB,Justin Fields,FielJu00,3,0.094,5,0.156,2,10,5,7,14,0.326
+2021_14_LA_ARI,202112130crd,2021,14,REG,ARI,LA,Kyler Murray,MurrKy00,1,0.021,9,0.188,4,14,12,2,18,0.305
+2021_14_LA_ARI,202112130crd,2021,14,REG,LA,ARI,Matthew Stafford,StafMa00,2,0.067,4,0.133,3,11,5,2,10,0.303
