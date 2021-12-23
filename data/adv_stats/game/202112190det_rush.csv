@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+James Conner,ConnJa00,rushing,ARI,8,39,3,17,2.1,22,2.8,2,4,202112190det
+Chase Edmonds,EdmoCh00,rushing,ARI,6,53,2,34,5.7,19,3.2,1,6,202112190det
+Kyler Murray,MurrKy00,rushing,ARI,4,3,0,3,0.8,0,0,0,NA,202112190det
+Colt McCoy,McCoCo00,rushing,ARI,1,3,1,3,3,0,0,0,NA,202112190det
+Rondale Moore,MoorRo02,rushing,ARI,1,1,0,1,1,0,0,0,NA,202112190det
+Jonathan Ward,WardJo00,rushing,ARI,1,6,NA,3,3,3,3,0,NA,202112190det
+Craig Reynolds,ReynCr00,rushing,DET,26,112,5,54,2.1,58,2.2,2,13,202112190det
+Jermar Jefferson,JeffJe00,rushing,DET,5,9,NA,4,0.8,5,1,0,NA,202112190det
+Godwin Igwebuike,IgweGo00,rushing,DET,2,0,0,0,0,0,0,0,NA,202112190det
+Amon-Ra St. Brown,StxxAm00,rushing,DET,1,5,0,3,3,2,2,0,NA,202112190det

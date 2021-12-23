@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+D'Onta Foreman,ForeDO00,rushing,TEN,22,108,8,47,2.1,61,2.8,2,11,202112190pit
+Dontrell Hilliard,HillDo00,rushing,TEN,9,49,2,34,3.8,15,1.7,0,NA,202112190pit
+Jeremy McNichols,McNiJe00,rushing,TEN,6,26,0,10,1.7,16,2.7,0,NA,202112190pit
+Ryan Tannehill,TannRy00,rushing,TEN,5,18,4,13,2.6,5,1,1,5,202112190pit
+Najee Harris,HarrNa00,rushing,PIT,12,18,NA,1,0.1,17,1.4,0,NA,202112190pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,3,0,1,0,0,0,0,0,NA,202112190pit
+Chase Claypool,ClayCh01,rushing,PIT,1,7,NA,5,5,2,2,0,NA,202112190pit
+Diontae Johnson,JohnDi01,rushing,PIT,1,10,1,3,3,7,7,0,NA,202112190pit

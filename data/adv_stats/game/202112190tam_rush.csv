@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Taysom Hill,HillTa00,rushing,NOR,11,33,0,19,1.7,14,1.3,0,NA,202112190tam
+Alvin Kamara,KamaAl00,rushing,NOR,11,18,4,-1,-0.1,19,1.7,2,5.5,202112190tam
+Mark Ingram,IngrMa01,rushing,NOR,9,10,1,0,0,10,1.1,0,NA,202112190tam
+Leonard Fournette,FourLe00,rushing,TAM,9,34,0,17,1.9,17,1.9,1,9,202112190tam
+Ronald Jones II,JoneRo01,rushing,TAM,8,63,2,39,4.9,24,3,2,4,202112190tam
+Ke'Shawn Vaughn,VaugKe00,rushing,TAM,3,19,1,1,0.3,18,6,1,3,202112190tam
+Tom Brady,BradTo00,rushing,TAM,1,2,0,0,0,2,2,0,NA,202112190tam

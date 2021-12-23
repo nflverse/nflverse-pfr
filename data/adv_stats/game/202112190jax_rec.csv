@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Brandin Cooks,CookBr00,receiving,HOU,10,7,102,2,4,27,3.9,75,10.7,9.1,1,7,1,10,0,142.5,202112190jax
+Jordan Akins,AkinJo00,receiving,HOU,3,2,24,0,1,24,12,0,0,10.7,0,NA,0,0,1,51.4,202112190jax
+Pharaoh Brown,BrowPh01,receiving,HOU,2,2,5,0,NA,1,0.5,4,2,0.5,1,2,0,0,0,79.2,202112190jax
+Nico Collins,CollNi00,receiving,HOU,4,2,14,0,NA,14,7,0,0,8.3,0,NA,0,0,0,58.3,202112190jax
+Chris Conley,ConlCh00,receiving,HOU,4,2,12,0,1,1,0.5,11,5.5,1.8,0,NA,0,0,0,56.2,202112190jax
+Phillip Dorsett,DorsPh00,receiving,HOU,3,2,43,0,1,29,14.5,14,7,12.3,0,NA,0,0,0,109.7,202112190jax
+Rex Burkhead,BurkRe00,receiving,HOU,3,1,6,0,0,2,2,4,4,2.3,0,NA,0,0,0,42.4,202112190jax
+David Johnson,JohnDa08,receiving,HOU,1,1,3,0,1,3,3,0,0,3,0,NA,0,0,0,79.2,202112190jax
+Laquon Treadwell,TreaLa00,receiving,JAX,9,6,57,0,4,42,7,15,2.5,8.3,0,NA,1,11.1,0,84,202112190jax
+James O'Shaughnessy,O'ShJa00,receiving,JAX,4,4,60,0,3,29,7.3,31,7.8,7.3,1,4,0,0,0,118.7,202112190jax
+Laviska Shenault Jr.,ShenLa00,receiving,JAX,7,4,39,0,3,8,2,31,7.8,2.4,3,1.3,2,28.6,0,72.9,202112190jax
+James Robinson,RobiJa00,receiving,JAX,6,3,13,0,0,3,1,10,3.3,2.7,0,NA,0,0,0,56.2,202112190jax
+Marvin Jones,JoneMa02,receiving,JAX,4,2,14,0,NA,12,6,2,1,14,0,NA,0,0,0,58.3,202112190jax
+Tavon Austin,AustTa00,receiving,JAX,3,1,11,0,1,11,11,0,0,11.3,0,NA,1,33.3,0,45.1,202112190jax
+Chris Manhertz,ManhCh00,receiving,JAX,1,1,11,0,1,3,3,8,8,3,0,NA,0,0,0,112.5,202112190jax
+Dare Ogunbowale,OgunDa00,receiving,JAX,2,1,5,0,NA,4,4,1,1,3.5,0,NA,0,0,0,56.2,202112190jax

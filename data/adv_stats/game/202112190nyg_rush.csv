@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ezekiel Elliott,ElliEz00,rushing,DAL,16,52,4,23,1.4,29,1.8,0,NA,202112190nyg
+Tony Pollard,PollTo00,rushing,DAL,12,74,5,56,4.7,18,1.5,0,NA,202112190nyg
+Dak Prescott,PresDa01,rushing,DAL,2,-1,0,-1,-0.5,0,0,0,NA,202112190nyg
+Saquon Barkley,BarkSa00,rushing,NYG,15,50,1,22,1.5,28,1.9,0,NA,202112190nyg
+Devontae Booker,BookDe00,rushing,NYG,8,74,2,59,7.4,15,1.9,0,NA,202112190nyg
+Mike Glennon,GlenMi00,rushing,NYG,1,0,0,0,0,0,0,0,NA,202112190nyg

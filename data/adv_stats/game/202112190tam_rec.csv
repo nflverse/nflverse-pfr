@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Marquez Callaway,CallMa01,receiving,NOR,9,6,112,0,4,77,12.8,35,5.8,10.7,0,NA,0,0,0,109.5,202112190tam
+Tre'Quan Smith,SmitTr03,receiving,NOR,3,2,17,0,NA,14,7,3,1.5,7.3,1,2,0,0,0,81.2,202112190tam
+Mark Ingram,IngrMa01,receiving,NOR,2,2,8,0,1,4,2,4,2,2,0,NA,0,0,0,83.3,202112190tam
+Alvin Kamara,KamaAl00,receiving,NOR,6,2,13,0,0,6,3,7,3.5,2.5,0,NA,3,50,0,42.4,202112190tam
+Adam Trautman,TrauAd00,receiving,NOR,2,1,4,0,NA,4,4,0,0,12.5,0,NA,0,0,0,56.2,202112190tam
+Nick Vannett,VannNi00,receiving,NOR,1,0,0,0,NA,0,NA,0,NA,22,0,NA,1,100,0,39.6,202112190tam
+Ty Montgomery,MontTy01,receiving,NOR,2,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,202112190tam
+Leonard Fournette,FourLe00,receiving,TAM,7,7,33,0,3,-2,-0.3,35,5,-0.3,0,NA,0,0,0,86.3,202112190tam
+Chris Godwin,GodwCh00,receiving,TAM,7,6,49,0,2,34,5.7,15,2.5,7.4,0,NA,0,0,0,95.8,202112190tam
+Tyler Johnson,JohnTy00,receiving,TAM,7,4,41,0,2,23,5.8,18,4.5,5.1,1,4,2,28.6,0,74.1,202112190tam
+Ronald Jones II,JoneRo01,receiving,TAM,2,2,8,0,0,-4,-2,12,6,-2,1,2,0,0,0,83.3,202112190tam
+Cameron Brate,BratCa00,receiving,TAM,4,2,22,0,1,20,10,2,1,10,0,NA,1,25,0,66.7,202112190tam
+Scott Miller,MillSc01,receiving,TAM,3,2,18,0,2,16,8,2,1,8.7,0,NA,0,0,1,43.1,202112190tam
+Rob Gronkowski,GronRo00,receiving,TAM,11,2,29,0,2,22,11,7,3.5,11.1,0,NA,2,18.2,0,39.6,202112190tam
+Mike Evans,EvanMi00,receiving,TAM,1,1,14,0,1,14,14,0,0,14,0,NA,0,0,0,118.7,202112190tam
+O.J. Howard,HowaO.00,receiving,TAM,1,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,202112190tam
+Jaelon Darden,DardJa00,receiving,TAM,3,0,0,0,NA,0,NA,0,NA,33,0,NA,0,0,0,39.6,202112190tam
+Ke'Shawn Vaughn,VaugKe00,receiving,TAM,2,0,0,0,0,0,NA,0,NA,1.5,0,NA,1,50,0,39.6,202112190tam

@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Matt Ryan,RyanMa00,passing,ATL,19,32,236,8,22.9,260,8.1,181,9.5,5.7,55,2.9,3,10.0%,3,10.0%,3,5,3,7,13,33.3%,4,4.5,202112190sfo
+Jimmy Garoppolo,GaroJi00,passing,SFO,18,23,235,11,47.8,92,4,75,4.2,3.3,160,8.9,2,8.7%,2,8.7%,0,4,0,3,3,13.0%,0,NA,202112190sfo
+Deebo Samuel,SamuDe00,passing,SFO,0,1,0,0,0,15,15,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202112190sfo
