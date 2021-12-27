@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Jimmy Garoppolo,GaroJi00,passing,SFO,26,35,322,14,37.8,239,6.8,86,3.3,2.5,236,9.1,0,0.0%,0,0.0%,2,0,0,0,2,5.4%,0,NA,202112230oti
+Ryan Tannehill,TannRy00,passing,TEN,22,29,209,11,33.3,222,7.7,142,6.5,4.9,67,3,0,0.0%,0,0.0%,4,0,0,0,4,11.8%,1,23,202112230oti
+A.J. Brown,BrowAJ00,passing,TEN,0,1,0,0,0,27,27,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202112230oti

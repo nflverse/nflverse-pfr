@@ -1,8 +1,8 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
-Kris Boyd,BoydKr00,defense,MIN,0,10,6,60.0%,87,14.5,8.7,0,88.3,14.8,51,36,0,0,0,0,0,5,1,16.7%,202111070rav
+Kris Boyd,BoydKr00,defense,MIN,0,10,6,60.0%,87,14.5,8.7,0,88.3,14.8,51,36,0,0,0,0,0,6,1,14.3%,202111070rav
 Cameron Dantzler,DantCa00,defense,MIN,0,6,5,83.3%,49,9.8,8.2,0,100.7,8.2,28,21,0,0,0,0,0,10,0,0.0%,202111070rav
 Anthony Barr,BarrAn00,defense,MIN,1,6,4,66.7%,7,1.8,1.2,1,70.1,2.7,-8,15,7,0,0,0,0,0,0,NA,202111070rav
-Eric Kendricks,KendEr00,defense,MIN,0,5,4,80.0%,43,10.8,8.6,0,102.5,7.6,20,23,4,0,0,0,0,17,0,0.0%,202111070rav
+Eric Kendricks,KendEr00,defense,MIN,0,5,4,80.0%,43,10.8,8.6,0,102.5,7.6,20,23,4,0,0,0,0,18,0,0.0%,202111070rav
 Xavier Woods,WoodXa00,defense,MIN,0,6,4,66.7%,16,4,2.7,2,109.7,5.8,13,3,0,0,0,0,0,9,0,0.0%,202111070rav
 Mackensie Alexander,AlexMa01,defense,MIN,0,2,2,100.0%,30,15,15,0,118.7,0,0,30,0,0,0,0,0,2,0,0.0%,202111070rav
 Camryn Bynum,BynuCa00,defense,MIN,1,4,2,50.0%,14,7,3.5,0,18.7,10.3,2,12,3,0,0,0,0,12,0,0.0%,202111070rav
@@ -12,7 +12,7 @@ Sheldon Richardson,RichSh00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1
 Everson Griffen,GrifEv99,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,2,40.0%,202111070rav
 D.J. Wonnum,WonnDJ00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,4,1,20.0%,202111070rav
 Armon Watts,WattAr01,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,0,0.0%,202111070rav
-James Lynch,LyncJa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,1,20.0%,202111070rav
+James Lynch,LyncJa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,202111070rav
 Dalvin Tomlinson,TomlDa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,2,40.0%,202111070rav
 Nick Vigil,VigiNi00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202111070rav
 Josh Bynes,ByneJo00,defense,BAL,0,5,5,100.0%,41,8.2,8.2,0,100.8,4,20,21,3,0,0,0,0,11,0,0.0%,202111070rav
@@ -25,7 +25,7 @@ Patrick Queen,QueePa00,defense,BAL,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,1,0,0,0,0,4,0
 Marlon Humphrey,HumpMa00,defense,BAL,0,6,1,16.7%,50,50,8.3,1,101.4,16.7,41,9,0,0,0,0,0,1,0,0.0%,202111070rav
 Justin Houston,HousJu00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,3,0,3,1,0,0.0%,202111070rav
 Justin Madubuike,MaduJu00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,3,0,0.0%,202111070rav
-Chuck Clark,ClarCh00,defense,BAL,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,4,2,0,0,2,4,1,20.0%,202111070rav
+Chuck Clark,ClarCh00,defense,BAL,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,4,2,0,0,2,3,1,25.0%,202111070rav
 Justin Ellis,ElliJu01,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202111070rav
 Chris Board,BoarCh00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202111070rav
 Pernell McPhee,McPhPe00,defense,BAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202111070rav

@@ -1,7 +1,7 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
 Cole Beasley,BeasCo00,receiving,BUF,11,9,64,0,3,31,3.4,33,3.7,3.9,0,NA,0,0,0,90.9,202112120tam
 Stefon Diggs,DiggSt00,receiving,BUF,13,7,74,0,4,59,8.4,15,2.1,11.6,0,NA,0,0,0,70.7,202112120tam
-Dawson Knox,KnoxDa00,receiving,BUF,9,7,60,1,2,22,3.1,38,5.4,3.4,0,NA,0,0,1,91.9,202112120tam
+Dawson Knox,KnoxDa00,receiving,BUF,9,7,60,1,2,22,3.1,38,5.4,3.6,0,NA,0,0,1,91.9,202112120tam
 Devin Singletary,SingDe00,receiving,BUF,7,6,37,0,1,-5,-0.8,42,7,-0.7,0,NA,0,0,0,88.7,202112120tam
 Gabriel Davis,DaviGa01,receiving,BUF,8,5,43,1,4,27,5.4,16,3.2,5.4,0,NA,0,0,0,116.1,202112120tam
 Isaiah McKenzie,McKeIs00,receiving,BUF,1,1,5,0,1,-4,-4,9,9,-4,0,NA,0,0,0,87.5,202112120tam

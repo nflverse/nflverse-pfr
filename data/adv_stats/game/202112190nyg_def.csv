@@ -2,13 +2,13 @@ player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_comple
 Sandro Platzgummer,PlatSa00,defense,NA,NA,1,0,0.0%,NA,NA,0,NA,39.6,16,NA,NA,0,0,0,NA,0,NA,0,NA,202112190nyg
 Anthony Brown,BrowAn02,defense,DAL,0,8,5,62.5%,60,12,7.5,0,85.4,13.5,56,4,0,0,0,0,0,5,0,0.0%,202112190nyg
 Trevon Diggs,DiggTr00,defense,DAL,1,7,3,42.9%,33,11,4.7,0,17.9,9,26,7,0,0,0,0,0,4,0,0.0%,202112190nyg
-Jourdan Lewis,LewiJo01,defense,DAL,1,9,2,22.2%,9,4.5,1,0,0,3.8,0,9,0,0,0,0,0,1,2,66.7%,202112190nyg
+Malik Hooker,HookMa00,defense,DAL,1,4,3,75.0%,26,8.7,6.5,0,52.1,8.3,2,24,0,0,0,0,0,6,0,0.0%,202112190nyg
+Jourdan Lewis,LewiJo01,defense,DAL,1,8,2,25.0%,9,4.5,1.1,0,0,3.3,0,9,0,0,0,0,0,1,2,66.7%,202112190nyg
 Damontae Kazee,KazeDa00,defense,DAL,0,2,2,100.0%,23,11.5,11.5,0,114.6,9,18,5,1,0,0,0,0,7,0,0.0%,202112190nyg
-Malik Hooker,HookMa00,defense,DAL,1,3,2,66.7%,11,5.5,3.7,0,33.3,12.7,7,4,0,0,0,0,0,6,0,0.0%,202112190nyg
 Jayron Kearse,KearJa00,defense,DAL,0,3,2,66.7%,22,11,7.3,0,88.2,8.7,19,3,1,0,0,0,0,6,1,14.3%,202112190nyg
-Micah Parsons,ParsMi00,defense,DAL,0,2,1,50.0%,7,7,3.5,0,58.3,7,0,7,9,1,0,0,1,1,0,0.0%,202112190nyg
 Carlos Watkins,WatkCa00,defense,DAL,0,1,1,100.0%,0,0,0,0,79.2,-6,-6,6,0,0,0,0,0,4,0,0.0%,202112190nyg
-Keanu Neal,NealKe01,defense,DAL,0,1,1,100.0%,9,9,9,0,104.2,9,9,0,1,0,0,0,0,7,1,12.5%,202112190nyg
+Micah Parsons,ParsMi00,defense,DAL,0,2,1,50.0%,7,7,3.5,0,58.3,7,0,7,9,0,0,0,0,1,0,0.0%,202112190nyg
+Keanu Neal,NealKe01,defense,DAL,0,1,1,100.0%,9,9,9,0,104.2,9,9,0,1,0,0,0,0,6,1,14.3%,202112190nyg
 Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0.5,2,2,0,0.0%,202112190nyg
 DeMarcus Lawrence,LawrDe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,5,0,0.0%,202112190nyg
 Neville Gallimore,GallNe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0.5,2,4,0,0.0%,202112190nyg
@@ -22,7 +22,7 @@ Xavier McKinney,McKiXa00,defense,NYG,0,6,5,83.3%,47,9.4,7.8,0,99.3,7.5,29,18,0,0
 Jarren Williams,WillJa09,defense,NYG,0,6,5,83.3%,34,6.8,5.7,0,90.3,4.2,28,6,0,0,0,0,0,5,0,0.0%,202112190nyg
 James Bradberry,BradJa00,defense,NYG,0,9,5,55.6%,41,8.2,4.6,0,67.4,11,26,15,0,0,0,0,0,2,1,33.3%,202112190nyg
 Logan Ryan,RyanLo00,defense,NYG,0,5,4,80.0%,28,7,5.6,1,129.6,4.2,23,5,8,1,0,0,1,10,0,0.0%,202112190nyg
-Benardrick McKinney,McKiBe00,defense,NYG,0,4,3,75.0%,28,9.3,7,0,93.7,7,20,8,0,0,0,0,0,3,0,0.0%,202112190nyg
+Benardrick McKinney,McKiBe00,defense,NYG,0,4,3,75.0%,28,9.3,7,0,93.7,6.5,20,8,0,0,0,0,0,3,0,0.0%,202112190nyg
 Keion Crossen,CrosKe00,defense,NYG,0,2,1,50.0%,15,15,7.5,0,75,14.5,13,2,0,0,0,0,0,1,0,0.0%,202112190nyg
 Jaylon Smith,SmitJa05,defense,NYG,0,1,1,100.0%,2,2,2,0,79.2,-6,-6,8,1,0,0,0,0,4,0,0.0%,202112190nyg
 Julian Love,LoveJu00,defense,NYG,0,2,1,50.0%,19,19,9.5,0,83.3,11.5,18,1,0,0,0,0,0,10,0,0.0%,202112190nyg

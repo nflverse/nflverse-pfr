@@ -1,7 +1,7 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Xavien Howard,HowaXa00,defense,MIA,0,9,7,77.8%,49,7,5.4,2,128.9,5.4,13,36,0,0,0,0,0,2,0,0.0%,202110310buf
 Nik Needham,NeedNi00,defense,MIA,0,10,7,70.0%,94,13.4,9.4,0,99.6,6.1,55,39,1,0,0,0,0,8,0,0.0%,202110310buf
-Brandon Jones,JoneBr06,defense,MIA,0,5,5,100.0%,34,6.8,6.8,0,95,4,20,14,9,1,2,0,3,5,0,0.0%,202110310buf
+Brandon Jones,JoneBr06,defense,MIA,0,5,5,100.0%,34,6.8,6.8,0,95,4,20,14,9,1,2,0,3,6,0,0.0%,202110310buf
 Byron Jones,JoneBy00,defense,MIA,0,6,3,50.0%,15,5,2.5,0,56.2,18,3,12,0,0,0,0,0,6,0,0.0%,202110310buf
 Duke Riley,RileDu00,defense,MIA,0,3,2,66.7%,11,5.5,3.7,0,72.9,-2.3,-10,21,5,2,0,0,2,5,1,16.7%,202110310buf
 Justin Coleman,ColeJu01,defense,MIA,0,2,2,100.0%,24,12,12,0,116.7,6.5,13,11,0,0,0,0,0,3,0,0.0%,202110310buf
@@ -15,7 +15,7 @@ Jaelan Phillips,PhilJa02,defense,MIA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,
 Matt Milano,MilaMa00,defense,BUF,0,6,5,83.3%,24,4.8,4,0,83.3,3.8,14,10,4,2,0,0,2,6,0,0.0%,202110310buf
 Levi Wallace,WallLe00,defense,BUF,0,9,5,55.6%,57,11.4,6.3,0,74.8,10.7,45,12,0,0,0,0,0,5,1,16.7%,202110310buf
 Jordan Poyer,PoyeJo00,defense,BUF,1,4,3,75.0%,16,5.3,4,0,41.7,5.5,4,12,4,4,0,0,4,10,0,0.0%,202110310buf
-Tremaine Edmunds,EdmuTr01,defense,BUF,0,3,3,100.0%,45,15,15,0,118.7,6.7,20,25,6,0,0,0,0,8,1,11.1%,202110310buf
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,3,3,100.0%,45,15,15,0,118.7,6.7,20,25,6,0,0,0,0,7,1,12.5%,202110310buf
 Tre'Davious White,WhitTr01,defense,BUF,0,12,3,25.0%,20,6.7,1.7,0,39.6,6.8,6,14,0,0,0,0,0,2,1,33.3%,202110310buf
 Micah Hyde,HydeMi00,defense,BUF,0,2,2,100.0%,45,22.5,22.5,0,118.7,16,32,13,4,1,0,0,1,4,1,20.0%,202110310buf
 Taron Johnson,JohnTa01,defense,BUF,0,2,1,50.0%,6,6,3,0,56.2,2.5,-1,7,1,0,0,0,0,5,1,16.7%,202110310buf

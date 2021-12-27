@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+D.K. Metcalf,MetcDK00,receiving,SEA,12,6,52,0,3,27,4.5,25,4.2,14.5,0,NA,1,8.3,1,27.1,202112210ram
+Gerald Everett,EverGe00,receiving,SEA,4,4,60,0,2,50,12.5,10,2.5,12.5,0,NA,0,0,0,118.7,202112210ram
+DeeJay Dallas,DallDe00,receiving,SEA,4,3,11,0,1,-2,-0.7,13,4.3,4.5,0,NA,0,0,0,77.1,202112210ram
+Rashaad Penny,PennRa00,receiving,SEA,2,2,5,0,0,-7,-3.5,12,6,-3.5,1,2,0,0,0,79.2,202112210ram
+Will Dissly,DissWi00,receiving,SEA,1,1,3,0,NA,2,2,1,1,2,0,NA,0,0,0,79.2,202112210ram
+Freddie Swain,SwaiFr00,receiving,SEA,1,1,25,0,1,5,5,20,20,5,0,NA,0,0,0,118.7,202112210ram
+D'Wayne Eskridge,EskrDW00,receiving,SEA,4,0,0,0,NA,0,NA,0,NA,33,0,NA,0,0,0,39.6,202112210ram
+Cooper Kupp,KuppCo00,receiving,LAR,13,9,136,2,5,90,10,46,5.1,10.1,1,9,0,0,1,110.9,202112210ram
+Ben Skowronek,SkowBe00,receiving,LAR,5,4,42,0,2,24,6,18,4.5,5.8,0,NA,1,20,0,101.7,202112210ram
+Darrell Henderson,HendDa00,receiving,LAR,2,2,4,0,0,0,0,4,2,0,0,NA,0,0,0,79.2,202112210ram
+Van Jefferson,JeffVa00,receiving,LAR,2,2,23,0,1,22,11,1,0.5,11,0,NA,0,0,0,114.6,202112210ram
+Sony Michel,MichSo00,receiving,LAR,2,2,23,0,1,-7,-3.5,30,15,-3.5,1,2,0,0,0,114.6,202112210ram
+Odell Beckham Jr.,BeckOd00,receiving,LAR,3,1,7,0,1,6,6,1,1,15.7,0,NA,0,0,0,42.4,202112210ram
+Brycen Hopkins,HopkBr01,receiving,LAR,1,1,9,0,1,3,3,6,6,3,0,NA,0,0,0,104.2,202112210ram
+Kendall Blanton,BlanKe01,receiving,LAR,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202112210ram

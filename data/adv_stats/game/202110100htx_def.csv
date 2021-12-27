@@ -1,5 +1,5 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
-Kyle Dugger,DuggKy00,defense,NWE,0,5,5,100.0%,45,9,9,1,143.7,4.2,21,24,0,0,0,0,0,10,2,16.7%,202110100htx
+Kyle Dugger,DuggKy00,defense,NWE,0,6,5,83.3%,45,9,7.5,1,137.5,3.3,21,24,0,0,0,0,0,10,2,16.7%,202110100htx
 J.C. Jackson,JackJ.00,defense,NWE,0,7,4,57.1%,90,22.5,12.9,1,141.4,14,45,45,0,0,0,0,0,5,0,0.0%,202110100htx
 Adrian Phillips,PhilAd00,defense,NWE,0,3,2,66.7%,12,6,4,0,74.3,12,2,10,1,0,0,0,0,8,0,0.0%,202110100htx
 Jonathan Jones,JoneJo03,defense,NWE,0,2,2,100.0%,28,14,14,0,118.7,11,22,6,0,0,0,0,0,1,0,0.0%,202110100htx

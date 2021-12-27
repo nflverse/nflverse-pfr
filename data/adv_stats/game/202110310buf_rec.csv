@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
 DeVante Parker,ParkDe01,receiving,MIA,11,8,85,0,4,58,7.3,27,3.4,8.8,1,8,1,9.1,0,94.9,202110310buf
-Jaylen Waddle,WaddJa00,receiving,MIA,12,4,29,0,3,17,4.3,12,3,8.9,0,NA,1,8.3,1,7.6,202110310buf
+Jaylen Waddle,WaddJa00,receiving,MIA,11,4,29,0,3,17,4.3,12,3,9.1,0,NA,1,9.1,1,7,202110310buf
 Myles Gaskin,GaskMy00,receiving,MIA,4,3,19,0,1,-1,-0.3,20,6.7,2,1,3,0,0,0,84.4,202110310buf
 Mike Gesicki,GesiMi00,receiving,MIA,4,3,48,0,1,34,11.3,14,4.7,8.5,0,NA,0,0,0,114.6,202110310buf
 Salvon Ahmed,AhmeSa01,receiving,MIA,2,1,6,0,0,-1,-1,7,7,0.5,0,NA,1,50,0,56.2,202110310buf

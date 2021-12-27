@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Stephon Gilmore,GilmSt00,defense,CAR,0,4,4,100.0%,45,11.3,11.3,2,153.1,8,32,13,0,0,0,0,0,3,0,0.0%,202112190buf
+Rashaan Melvin,MelvRa00,defense,CAR,0,5,3,60.0%,55,18.3,11,1,137.5,12.6,36,19,1,0,0,0,0,1,1,50.0%,202112190buf
+C.J. Henderson,HendCJ00,defense,CAR,0,4,3,75.0%,32,10.7,8,0,97.9,20.3,32,0,0,0,0,0,0,5,0,0.0%,202112190buf
+Myles Hartsfield,HartMy00,defense,CAR,0,6,3,50.0%,23,7.7,3.8,0,59.7,7.2,13,10,4,0,0,0,0,4,0,0.0%,202112190buf
+Shaq Thompson,ThomSh01,defense,CAR,0,3,2,66.7%,17,8.5,5.7,0,81.2,0.3,7,10,5,0,0,0,0,3,1,25.0%,202112190buf
+Jeremy Chinn,ChinJe00,defense,CAR,1,3,2,66.7%,14,7,4.7,0,37.5,9.3,13,1,6,0,0,0,0,7,0,0.0%,202112190buf
+Haason Reddick,ReddHa00,defense,CAR,0,2,1,50.0%,9,9,4.5,0,62.5,5.5,6,3,12,3,1,0.5,5,4,0,0.0%,202112190buf
+Juston Burris,BurrJu00,defense,CAR,0,6,1,16.7%,15,15,2.5,0,39.6,19.3,12,3,2,0,0,0,0,2,1,33.3%,202112190buf
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,1,1,100.0%,15,15,15,0,118.7,12,12,3,2,0,0,0,0,7,1,12.5%,202112190buf
+Kenny Robinson Jr.,RobiKe02,defense,CAR,0,1,1,100.0%,20,20,20,1,158.3,20,20,0,0,0,0,0,0,1,0,0.0%,202112190buf
+Yetur Gross-Matos,GrosYe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2.5,4,5,0,0.0%,202112190buf
+Brian Burns,BurnBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,0,1,1,2,2,50.0%,202112190buf
+Morgan Fox,FoxxMo00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202112190buf
+Bravvion Roy,RoyxBr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,202112190buf
+Sean Chandler,ChanSe00,defense,CAR,0,1,0,0.0%,NA,NA,0,NA,39.6,18,NA,NA,2,0,0,0,0,3,0,0.0%,202112190buf
+Frankie Luvu,LuvuFr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202112190buf
+Levi Wallace,WallLe00,defense,BUF,0,10,4,40.0%,40,10,4,0,52.1,10,25,15,2,0,0,0,0,4,1,20.0%,202112190buf
+Matt Milano,MilaMa00,defense,BUF,0,6,4,66.7%,48,12,8,1,130.6,4,14,34,5,0,0,0,0,3,2,40.0%,202112190buf
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,3,3,100.0%,12,4,4,0,83.3,6,7,5,8,1,1,0,2,7,0,0.0%,202112190buf
+Dane Jackson,JackDa02,defense,BUF,0,8,3,37.5%,26,8.7,3.3,0,46.9,9.8,18,8,0,0,0,0,0,7,0,0.0%,202112190buf
+Micah Hyde,HydeMi00,defense,BUF,0,3,2,66.7%,19,9.5,6.3,0,84,9.3,19,0,6,1,0,0,1,6,0,0.0%,202112190buf
+Jordan Poyer,PoyeJo00,defense,BUF,0,4,1,25.0%,5,5,1.3,0,39.6,11,0,5,7,0,0,0,0,6,1,14.3%,202112190buf
+A.J. Klein,KleiAJ00,defense,BUF,1,3,1,33.3%,8,8,2.7,0,2.8,6,5,3,0,0,0,0,0,1,0,0.0%,202112190buf
+Jerry Hughes,HughJe99,defense,BUF,0,1,1,100.0%,1,1,1,0,79.2,-7,-7,8,0,0,0,0,0,3,0,0.0%,202112190buf
+Tyler Matakevich,MataTy00,defense,BUF,0,1,1,100.0%,5,5,5,0,87.5,4,4,1,0,0,0,0,0,5,0,0.0%,202112190buf
+Efe Obada,ObadEf00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,2,3,3,1,25.0%,202112190buf
+Mario Addison,AddiMa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,3,1,25.0%,202112190buf
+Taron Johnson,JohnTa01,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,17,NA,NA,6,1,0,1,2,4,0,0.0%,202112190buf
+Gregory Rousseau,RousGr00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,202112190buf
+Star Lotulelei,LotuSt00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,1,33.3%,202112190buf
+Carlos Basham,BashCa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202112190buf
+Ed Oliver,OlivEd00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202112190buf

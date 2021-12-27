@@ -1,5 +1,5 @@
 player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
-Jalen Hurts,HurtJa00,rushing,PHI,14,53,3,40,2.9,13,0.9,1,14,202111140den
+Jalen Hurts,HurtJa00,rushing,PHI,13,55,3,42,3.2,13,1,1,13,202111140den
 Jordan Howard,HowaJo00,rushing,PHI,12,83,5,41,3.4,42,3.5,2,6,202111140den
 Boston Scott,ScotBo02,rushing,PHI,11,81,4,47,4.3,34,3.1,2,5.5,202111140den
 Kenneth Gainwell,GainKe00,rushing,PHI,2,5,0,3,1.5,2,1,1,2,202111140den

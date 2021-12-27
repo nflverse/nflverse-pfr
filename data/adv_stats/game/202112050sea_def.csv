@@ -1,11 +1,11 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
-Azeez Al-Shaair,AlShAz00,defense,SFO,0,9,8,88.9%,33,4.1,3.7,0,81.9,2.4,22,11,2,0,0,0.5,1,16,0,0.0%,202112050sea
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,9,8,88.9%,33,4.1,3.7,0,81.9,2.4,22,11,2,0,0,0.5,1,15,0,0.0%,202112050sea
 Josh Norman,NormJo01,defense,SFO,0,8,5,62.5%,53,10.6,6.6,1,121.4,11,36,17,0,0,0,0,0,3,1,25.0%,202112050sea
 Deommodore Lenoir,LenoDe00,defense,SFO,0,4,4,100.0%,48,12,12,1,156.2,11.3,45,3,0,0,0,0,0,3,1,25.0%,202112050sea
 Jaquiski Tartt,TartJa00,defense,SFO,0,3,3,100.0%,11,3.7,3.7,0,81.9,1.7,5,6,0,0,0,0,0,4,1,20.0%,202112050sea
-K'Waun Williams,WillKW00,defense,SFO,1,2,2,100.0%,10,5,5,0,47.9,4.5,9,1,5,2,0,0,2,4,0,0.0%,202112050sea
+K'Waun Williams,WillKW00,defense,SFO,1,2,2,100.0%,10,5,5,0,47.9,4.5,9,1,5,2,0,0,2,5,0,0.0%,202112050sea
 Jimmie Ward,WardJi01,defense,SFO,0,3,2,66.7%,12,6,4,0,74.3,12,-1,13,0,0,0,0,0,4,0,0.0%,202112050sea
-Dontae Johnson,JohnDo02,defense,SFO,0,3,2,66.7%,19,9.5,6.3,0,84,6,19,0,1,0,0,0,0,4,0,0.0%,202112050sea
+Dontae Johnson,JohnDo02,defense,SFO,0,3,2,66.7%,19,9.5,6.3,0,84,6,19,0,1,0,0,0,0,5,0,0.0%,202112050sea
 Talanoa Hufanga,HufaTa00,defense,SFO,0,2,2,100.0%,18,9,9,0,104.2,5,10,8,2,0,0,0,0,4,0,0.0%,202112050sea
 D.J. Jones,JoneD.01,defense,SFO,0,1,1,100.0%,0,0,0,0,79.2,-3,-3,3,0,1,0,0,1,7,0,0.0%,202112050sea
 Demetrius Flannigan-Fowles,FlanDe00,defense,SFO,0,1,1,100.0%,27,27,27,0,118.7,-2,-2,29,2,0,0,0,0,4,0,0.0%,202112050sea
@@ -20,10 +20,10 @@ Bobby Wagner,WagnBo00,defense,SEA,1,5,4,80.0%,33,8.3,6.6,0,54.6,4.4,14,19,3,0,0,
 Ugo Amadi,AmadUg00,defense,SEA,0,2,2,100.0%,34,17,17,0,118.7,12.5,25,9,0,0,0,0,0,2,0,0.0%,202112050sea
 Jamal Adams,AdamJa00,defense,SEA,0,4,2,50.0%,37,18.5,9.3,0,82.3,8.3,8,29,1,0,0,0,0,4,1,20.0%,202112050sea
 Quandre Diggs,DiggQu00,defense,SEA,1,2,2,100.0%,28,14,14,0,79.2,9.5,19,9,0,0,0,0,0,4,0,0.0%,202112050sea
-D.J. Reed,ReedD.00,defense,SEA,0,5,2,40.0%,32,16,6.4,1,101.7,9.8,27,5,0,0,0,0,0,5,0,0.0%,202112050sea
+D.J. Reed,ReedD.00,defense,SEA,0,5,2,40.0%,32,16,6.4,1,101.7,9.8,27,5,0,0,0,0,0,3,0,0.0%,202112050sea
 Darrell Taylor,TaylDa00,defense,SEA,0,1,1,100.0%,8,8,8,0,100,6,6,2,2,1,0,0,1,4,0,0.0%,202112050sea
 Sidney Jones,JoneSi00,defense,SEA,0,3,1,33.3%,9,9,3,0,42.4,2,3,6,0,0,0,0,0,3,0,0.0%,202112050sea
-Jordyn Brooks,BrooJo01,defense,SEA,0,2,1,50.0%,13,13,6.5,0,70.8,18,13,0,1,0,0,0,0,11,0,0.0%,202112050sea
+Jordyn Brooks,BrooJo01,defense,SEA,0,2,1,50.0%,13,13,6.5,0,70.8,18,13,0,1,0,0,0,0,12,0,0.0%,202112050sea
 Rasheem Green,GreeRa01,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,202112050sea
 Carlos Dunlap,DunlCa99,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202112050sea
 L.J. Collier,CollLJ00,defense,SEA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202112050sea

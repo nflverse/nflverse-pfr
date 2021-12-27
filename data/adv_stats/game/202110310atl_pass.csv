@@ -1,4 +1,4 @@
 player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
 Sam Darnold,DarnSa00,passing,CAR,13,24,129,7,29.2,117,4.9,57,4.4,2.4,72,5.5,2,9.1%,5,22.7%,0,6,2,3,5,17.9%,4,12.8,202110310atl
-Phillip Walker,WalkPh00,passing,CAR,0,1,0,NA,NA,1,1,0,NA,0,0,NA,0,0.0%,0,0.0%,0,1,1,0,1,100.0%,0,NA,202110310atl
-Matt Ryan,RyanMa00,passing,ATL,20,27,146,11,36.7,194,7.2,76,3.8,2.8,70,3.5,0,0.0%,2,7.4%,3,7,2,5,10,32.3%,1,3,202110310atl
+P.J. Walker,WalkPh00,passing,CAR,0,1,0,NA,NA,1,1,0,NA,0,0,NA,0,0.0%,0,0.0%,0,1,1,0,1,100.0%,0,NA,202110310atl
+Matt Ryan,RyanMa00,passing,ATL,20,27,146,11,36.7,194,7.2,76,3.8,2.8,70,3.5,0,0.0%,2,7.4%,3,7,2,4,9,29.0%,1,3,202110310atl

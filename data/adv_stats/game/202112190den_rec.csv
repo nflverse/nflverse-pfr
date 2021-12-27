@@ -1,16 +1,16 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
-Tyler Boyd,BoydTy00,receiving,CIN,6,5,96,1,3,52,10.4,44,8.8,10.3,0,NA,0,0,0,158.3,202112190den
-C.J. Uzomah,UzomC.00,receiving,CIN,4,3,18,0,1,13,4.3,5,1.7,5.3,1,3,0,0,0,83.3,202112190den
+Tyler Boyd,BoydTy00,receiving,CIN,6,5,96,1,3,54,10.8,42,8.4,10.7,0,NA,0,0,0,158.3,202112190den
+C.J. Uzomah,UzomC.00,receiving,CIN,4,3,18,0,1,7,2.3,11,3.7,3.8,1,3,0,0,0,83.3,202112190den
 Tee Higgins,HiggTe00,receiving,CIN,3,2,23,0,1,10,5,13,6.5,5,0,NA,0,0,0,89.6,202112190den
 Samaje Perine,PeriSa00,receiving,CIN,2,2,13,0,0,-5,-2.5,18,9,-2.5,1,2,0,0,0,93.7,202112190den
-Ja'Marr Chase,ChasJa00,receiving,CIN,4,1,3,0,NA,3,3,0,0,6.3,0,NA,0,0,0,39.6,202112190den
+Ja'Marr Chase,ChasJa00,receiving,CIN,4,1,3,0,NA,3,3,0,0,13.8,0,NA,0,0,0,39.6,202112190den
 Joe Mixon,MixoJo00,receiving,CIN,1,1,2,0,0,0,0,2,2,0,0,NA,0,0,0,79.2,202112190den
 Drew Sample,SampDr00,receiving,CIN,1,1,2,0,NA,-2,-2,4,4,-2,0,NA,0,0,0,79.2,202112190den
-Noah Fant,FantNo00,receiving,DEN,6,5,57,0,2,5,1,52,10.4,1.7,1,5,0,0,0,106.2,202112190den
-Javonte Williams,WillJa10,receiving,DEN,4,4,9,0,0,-4,-1,13,3.3,-1,0,NA,0,0,0,79.2,202112190den
+Noah Fant,FantNo00,receiving,DEN,6,5,57,0,2,11,2.2,46,9.2,2.7,1,5,0,0,0,106.2,202112190den
+Javonte Williams,WillJa10,receiving,DEN,4,4,9,0,0,0,0,9,2.3,0,0,NA,0,0,0,79.2,202112190den
 Albert Okwuegbunam,OkwuAl00,receiving,DEN,4,3,58,0,3,17,5.7,41,13.7,6,1,3,1,25,0,116.7,202112190den
-Tim Patrick,PatrTi00,receiving,DEN,5,3,42,1,2,42,14,0,0,13.6,0,NA,0,0,0,126.7,202112190den
+Tim Patrick,PatrTi00,receiving,DEN,5,3,42,1,2,42,14,0,0,18.6,0,NA,0,0,0,126.7,202112190den
 Courtland Sutton,SuttCo00,receiving,DEN,7,2,12,0,NA,10,5,2,1,17.1,0,NA,2,28.6,0,39.6,202112190den
 Melvin Gordon,GordMe00,receiving,DEN,1,1,8,0,1,3,3,5,5,3,0,NA,0,0,0,100,202112190den
 Kendall Hinton,HintKe00,receiving,DEN,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,202112190den
-Jerry Jeudy,JeudJe00,receiving,DEN,4,0,0,0,NA,0,NA,0,NA,14.8,0,NA,0,0,0,39.6,202112190den
+Jerry Jeudy,JeudJe00,receiving,DEN,4,0,0,0,NA,0,NA,0,NA,17.5,0,NA,0,0,0,39.6,202112190den

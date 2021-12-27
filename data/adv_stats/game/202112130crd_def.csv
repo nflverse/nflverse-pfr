@@ -1,5 +1,5 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
-Darious Williams,WillDa09,defense,LAR,0,12,6,50.0%,115,19.2,9.6,0,83.7,14,96,19,0,0,0,0,0,6,0,0.0%,202112130crd
+Darious Williams,WillDa09,defense,LAR,0,13,6,46.2%,115,19.2,8.8,0,77.4,12.9,96,19,0,0,0,0,0,6,0,0.0%,202112130crd
 Jordan Fuller,FullJo01,defense,LAR,0,6,5,83.3%,75,15,12.5,0,118.7,15.3,59,16,0,0,0,0,0,6,2,25.0%,202112130crd
 Kareem Orr,OrrxKa00,defense,LAR,0,5,5,100.0%,66,13.2,13.2,0,118.7,9.8,49,17,0,0,0,0,0,4,1,20.0%,202112130crd
 Ernest Jones,JoneEr01,defense,LAR,1,5,4,80.0%,39,9.8,7.8,0,59.6,2.6,8,31,2,0,0,0,0,7,1,12.5%,202112130crd

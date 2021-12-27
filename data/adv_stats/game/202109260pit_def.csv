@@ -1,29 +1,30 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Demarcus Christmas,ChriDe01,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,NA,0,NA,0,NA,202109260pit
 Eli Apple,ApplEl00,defense,CIN,0,18,10,55.6%,66,6.6,3.7,0,63.7,8.3,27,39,0,0,0,0,0,8,3,27.3%,202109260pit
 Logan Wilson,WilsLo00,defense,CIN,2,9,8,88.9%,77,9.6,8.6,0,62.7,3.4,30,47,3,1,0,0,1,14,1,6.7%,202109260pit
 Akeem Davis-Gaither,DaviAk01,defense,CIN,0,6,5,83.3%,24,4.8,4,0,83.3,0.2,-6,30,2,0,0,0,0,7,1,12.5%,202109260pit
 Mike Hilton,HiltMi01,defense,CIN,0,6,4,66.7%,35,8.8,5.8,0,81.9,3.3,18,17,3,0,0,0,0,5,1,16.7%,202109260pit
-Darius Phillips,PhilDa02,defense,CIN,0,3,3,100.0%,41,13.7,13.7,0,118.7,10,30,11,0,0,0,0,0,5,0,0.0%,202109260pit
 Vonn Bell,BellVo00,defense,CIN,0,6,3,50.0%,42,14,7,0,72.9,11.7,34,8,0,0,0,0,0,4,2,33.3%,202109260pit
-Chidobe Awuzie,AwuzCh00,defense,CIN,0,3,2,66.7%,5,2.5,1.7,0,70.1,0,-3,8,0,0,0,0,0,1,0,0.0%,202109260pit
+Darius Phillips,PhilDa02,defense,CIN,0,3,3,100.0%,41,13.7,13.7,0,118.7,10,30,11,0,0,0,0,0,5,0,0.0%,202109260pit
 Germaine Pratt,PratGe00,defense,CIN,0,5,2,40.0%,7,3.5,1.4,1,87.5,3.6,2,5,0,0,0,0,0,7,1,12.5%,202109260pit
+Chidobe Awuzie,AwuzCh00,defense,CIN,0,3,2,66.7%,5,2.5,1.7,0,70.1,0,-3,8,0,0,0,0,0,1,0,0.0%,202109260pit
 Sam Hubbard,HubbSa00,defense,CIN,0,1,1,100.0%,3,3,3,0,79.2,0,0,3,1,1,2,1,4,6,1,14.3%,202109260pit
 Jessie Bates III,BateJe00,defense,CIN,0,1,1,100.0%,18,18,18,0,118.7,-5,-5,23,1,0,0,0,0,9,0,0.0%,202109260pit
 Trey Hendrickson,HendTr00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,4,2,0,0.0%,202109260pit
 B.J. Hill,HillB.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202109260pit
-D.J. Reader,ReadD.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202109260pit
 Cameron Sample,SampCa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202109260pit
-Jordan Evans,EvanJo01,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202109260pit
+D.J. Reader,ReadD.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202109260pit
 Larry Ogunjobi,OgunLa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202109260pit
+Jordan Evans,EvanJo01,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202109260pit
 Joe Haden,HadeJo99,defense,PIT,0,5,4,80.0%,57,14.3,11.4,1,153.7,8.6,40,17,0,0,0,0,0,2,1,33.3%,202109260pit
 Devin Bush Jr.,BushDe01,defense,PIT,0,4,3,75.0%,29,9.7,7.3,1,134.4,9.3,8,21,2,0,0,0,0,2,0,0.0%,202109260pit
 Tre Norwood,NorwTr00,defense,PIT,0,2,2,100.0%,19,9.5,9.5,0,106.2,3.5,7,12,0,0,0,0,0,3,0,0.0%,202109260pit
 Joe Schobert,SchoJo00,defense,PIT,0,2,2,100.0%,18,9,9,0,104.2,-0.5,-1,19,0,0,0,0,0,5,0,0.0%,202109260pit
-James Pierre,PierJa01,defense,PIT,0,2,1,50.0%,34,34,17,1,135.4,20.5,34,0,0,0,0,0,0,1,0,0.0%,202109260pit
 Cameron Sutton,SuttCa00,defense,PIT,0,1,1,100.0%,7,7,7,0,95.8,1,1,6,0,0,0,0,0,2,0,0.0%,202109260pit
 Terrell Edmunds,EdmuTe00,defense,PIT,1,1,1,100.0%,8,8,8,0,60.4,4,4,4,0,0,0,0,0,5,0,0.0%,202109260pit
+James Pierre,PierJa01,defense,PIT,0,2,1,50.0%,34,34,17,1,135.4,20.5,34,0,0,0,0,0,0,1,0,0.0%,202109260pit
 Chris Wormley,WormCh00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202109260pit
-Derrek Tuszka,TuszDe00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202109260pit
-Melvin Ingram,IngrMe00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0,0,3,1,25.0%,202109260pit
 Minkah Fitzpatrick,FitzMi00,defense,PIT,0,1,0,0.0%,NA,NA,0,NA,39.6,28,NA,NA,0,0,0,0,0,4,0,0.0%,202109260pit
 Jamir Jones,JoneJa11,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,1,1,50.0%,202109260pit
+Derrek Tuszka,TuszDe00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,2,0,0.0%,202109260pit
+Melvin Ingram,IngrMe00,defense,PIT,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,0,0,0,3,1,25.0%,202109260pit

@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Foster Moreau,MoreFo00,receiving,LVR,9,7,65,0,2,14,2,51,7.3,2.6,1,7,1,11.1,0,96.8,202112200cle
+Zay Jones,JoneZa00,receiving,LVR,9,6,67,0,4,56,9.3,11,1.8,18.9,0,NA,0,0,1,49.1,202112200cle
+Bryan Edwards,EdwaBr01,receiving,LVR,4,3,8,1,2,12,4,-4,-1.3,4.5,1,3,0,0,0,116.7,202112200cle
+Josh Jacobs,JacoJo01,receiving,LVR,4,3,42,0,2,11,3.7,31,10.3,4.3,1,3,1,25,0,108.3,202112200cle
+Hunter Renfrow,RenfHu00,receiving,LVR,5,3,32,0,2,21,7,11,3.7,5.8,0,NA,0,0,0,78.7,202112200cle
+Peyton Barber,BarbPe01,receiving,LVR,1,1,12,0,1,6,6,6,6,6,0,NA,0,0,0,116.7,202112200cle
+Daniel Helm,HelmDa01,receiving,LVR,1,1,-1,0,NA,-3,-3,2,2,-3,0,NA,0,0,0,79.2,202112200cle
+DeSean Jackson,JackDe00,receiving,LVR,3,1,11,0,1,11,11,0,0,21.7,0,NA,1,33.3,0,45.1,202112200cle
+D'Ernest Johnson,JohnDE04,receiving,CLE,4,4,17,0,NA,-4,-1,21,5.3,-1,1,4,0,0,0,84.4,202112200cle
+Donovan Peoples-Jones,PeopDo00,receiving,CLE,8,4,48,0,2,38,9.5,10,2.5,13.9,0,NA,1,12.5,0,68.7,202112200cle
+Demetric Felton,FeltDe00,receiving,CLE,4,3,16,0,1,10,3.3,6,2,2.8,0,NA,1,25,0,81.2,202112200cle
+Rashard Higgins,HiggRa00,receiving,CLE,5,3,24,0,1,18,6,6,2,7.4,0,NA,0,0,0,72.1,202112200cle
+David Njoku,NjokDa00,receiving,CLE,5,3,29,0,3,3,1,26,8.7,7.6,0,NA,0,0,0,76.2,202112200cle
+Harrison Bryant,BryaHa00,receiving,CLE,2,2,11,1,2,11,5.5,0,0,5.5,0,NA,0,0,0,129.2,202112200cle
+Nick Chubb,ChubNi00,receiving,CLE,1,1,2,0,0,0,0,2,2,0,0,NA,0,0,0,79.2,202112200cle

@@ -1,3 +1,3 @@
 player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
-Taysom Hill,HillTa00,passing,NOR,13,27,154,5,17.2,222,8.2,105,8.1,3.9,49,3.8,4,16.0%,5,20.0%,2,11,8,1,11,36.7%,1,4,202112190tam
+Taysom Hill,HillTa00,passing,NOR,13,27,154,5,17.2,242,9,105,8.1,3.9,49,3.8,4,16.0%,5,20.0%,2,11,8,1,11,36.7%,1,4,202112190tam
 Tom Brady,BradTo00,passing,TAM,26,48,214,13,25,399,8.3,123,4.7,2.6,91,3.5,6,12.5%,11,22.9%,4,6,3,3,10,18.9%,1,2,202112190tam

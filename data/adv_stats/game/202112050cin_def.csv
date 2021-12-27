@@ -1,16 +1,16 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Tevaughn Campbell,CampTe00,defense,LAC,0,9,7,77.8%,88,12.6,9.8,0,107.4,8.6,55,33,0,0,0,0,0,6,0,0.0%,202112050cin
-Michael Davis,DaviMi03,defense,LAC,1,11,5,45.5%,66,13.2,6,1,57.4,11.9,56,10,0,0,0,0,0,2,0,0.0%,202112050cin
-Kyzir White,WhitKy00,defense,LAC,0,5,4,80.0%,33,8.3,6.6,0,94.2,5,18,15,1,0,0,0,0,10,0,0.0%,202112050cin
+Michael Davis,DaviMi03,defense,LAC,1,10,5,50.0%,66,13.2,6.6,1,65,13.1,56,10,0,0,0,0,0,2,0,0.0%,202112050cin
 Chris Harris Jr.,HarrCh01,defense,LAC,1,7,4,57.1%,48,12,6.9,0,38.7,11.3,44,4,4,0,0,0,0,4,1,20.0%,202112050cin
+Kyzir White,WhitKy00,defense,LAC,0,5,4,80.0%,33,8.3,6.6,0,94.2,5,18,15,1,0,0,0,0,10,0,0.0%,202112050cin
 Derwin James,JameDe00,defense,LAC,0,3,2,66.7%,44,22,14.7,0,109.7,5.7,17,27,1,1,0,0.5,2,7,0,0.0%,202112050cin
 Drue Tranquill,TranDr00,defense,LAC,0,2,1,50.0%,5,5,2.5,0,56.2,3,1,4,3,1,0,1,2,10,0,0.0%,202112050cin
 Nasir Adderley,AddeNa00,defense,LAC,0,3,1,33.3%,29,29,9.7,1,109.7,25.3,29,0,1,0,0,0.5,1,7,1,12.5%,202112050cin
 Davontae Harris,HarrDa05,defense,LAC,0,1,1,100.0%,16,16,16,0,118.7,11,11,5,0,0,0,0,0,2,1,33.3%,202112050cin
 Uchenna Nwosu,NwosUc00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3,1,2,6,2,0,0.0%,202112050cin
 Chris Rumph,RumpCh00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,5,0,0.0%,202112050cin
-Kyler Fackrell,FackKy00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,202112050cin
 Jerry Tillery,TillJe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,2,66.7%,202112050cin
+Kyler Fackrell,FackKy00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,202112050cin
 Justin Jones,JoneJu03,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202112050cin
 Joe Gaziano,GaziJo01,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202112050cin
 Jessie Bates III,BateJe00,defense,CIN,0,6,6,100.0%,95,15.8,15.8,2,158.3,14.2,85,10,1,0,0,0,0,6,1,14.3%,202112050cin
@@ -19,7 +19,7 @@ Chidobe Awuzie,AwuzCh00,defense,CIN,1,5,3,60.0%,46,15.3,9.2,0,50.8,18,36,10,0,0,
 Germaine Pratt,PratGe00,defense,CIN,0,3,3,100.0%,27,9,9,0,104.2,0.7,2,25,0,0,0,0,0,9,0,0.0%,202112050cin
 Joe Bachie,BachJo01,defense,CIN,0,4,3,75.0%,20,6.7,5,0,85.4,5.5,8,12,0,0,0,0,0,9,0,0.0%,202112050cin
 Vernon Hargreaves III,HargVe00,defense,CIN,0,4,3,75.0%,24,8,6,0,89.6,-0.3,-11,35,0,0,0,0,0,2,2,50.0%,202112050cin
-Vonn Bell,BellVo00,defense,CIN,0,3,2,66.7%,20,10,6.7,0,85.4,8.7,4,16,3,0,0,1,1,6,0,0.0%,202112050cin
+Vonn Bell,BellVo00,defense,CIN,0,3,2,66.7%,20,10,6.7,0,85.4,8.7,4,16,3,0,0,0.5,1,6,0,0.0%,202112050cin
 Logan Wilson,WilsLo00,defense,CIN,0,2,2,100.0%,3,1.5,1.5,1,118.7,0,0,3,0,0,0,0,0,3,0,0.0%,202112050cin
 Eli Apple,ApplEl00,defense,CIN,0,4,1,25.0%,33,33,8.3,0,61.5,22.3,21,12,0,0,0,0,0,2,0,0.0%,202112050cin
 Sam Hubbard,HubbSa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0.5,4,5,0,0.0%,202112050cin
@@ -27,3 +27,4 @@ Trey Hendrickson,HendTr00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3
 Larry Ogunjobi,OgunLa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,3,2,1,33.3%,202112050cin
 D.J. Reader,ReadD.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,0,NA,202112050cin
 B.J. Hill,HillB.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,5,0,0.0%,202112050cin
+Cameron Sample,SampCa00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,202112050cin

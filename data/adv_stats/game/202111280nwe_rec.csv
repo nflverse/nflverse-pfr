@@ -1,5 +1,5 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
-Nick Westbrook-Ikhine,WestNi00,receiving,TEN,5,2,25,1,2,22,11,3,1.5,11.6,0,NA,0,0,0,95.8,202111280nwe
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,6,2,25,1,2,22,11,3,1.5,9.7,0,NA,0,0,0,86.8,202111280nwe
 Cody Hollister,HollCo00,receiving,TEN,4,2,22,0,2,7,3.5,15,7.5,3.8,0,NA,0,0,1,27.1,202111280nwe
 Dontrell Hilliard,HillDo00,receiving,TEN,2,1,2,0,0,2,2,0,0,1.5,0,NA,0,0,0,56.2,202111280nwe
 Geoff Swaim,SwaiGe00,receiving,TEN,1,1,8,0,NA,4,4,4,4,4,0,NA,0,0,0,100,202111280nwe
@@ -8,7 +8,6 @@ MyCole Pruitt,PruiMy00,receiving,TEN,2,1,10,0,1,9,9,1,1,6.5,0,NA,0,0,0,64.6,2021
 D'Onta Foreman,ForeDO00,receiving,TEN,1,1,3,0,0,-3,-3,6,6,-3,0,NA,0,0,0,79.2,202111280nwe
 Dez Fitzpatrick,FitzDe00,receiving,TEN,1,1,14,0,1,14,14,0,0,14,0,NA,0,0,0,118.7,202111280nwe
 Anthony Firkser,FirkAn00,receiving,TEN,1,1,7,0,NA,2,2,5,5,2,0,NA,0,0,0,95.8,202111280nwe
-Tory Carter,CartTo01,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202111280nwe
 Jakobi Meyers,MeyeJa01,receiving,NWE,8,5,98,0,4,71,14.2,27,5.4,15.1,0,NA,0,0,0,105.2,202111280nwe
 Kendrick Bourne,BourKe00,receiving,NWE,6,5,61,2,2,24,4.8,37,7.4,3.3,1,5,0,0,0,148.6,202111280nwe
 Brandon Bolden,BoldBr00,receiving,NWE,4,4,54,0,3,-6,-1.5,60,15,-1.5,2,2,0,0,0,118.7,202111280nwe

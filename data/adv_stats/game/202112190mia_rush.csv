@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Michael Carter,CartMi03,rushing,NYJ,8,18,0,-5,-0.6,23,2.9,3,2.7,202112190mia
+Tevin Coleman,ColeTe01,rushing,NYJ,8,50,3,16,2,34,4.3,0,NA,202112190mia
+Zach Wilson,WilsZa00,rushing,NYJ,4,12,2,10,2.5,2,0.5,0,NA,202112190mia
+Braxton Berrios,BerrBr00,rushing,NYJ,2,10,1,6,3,4,2,0,NA,202112190mia
+Austin Walter,WaltAu00,rushing,NYJ,2,12,NA,8,4,4,2,0,NA,202112190mia
+Duke Johnson,JohnDu00,rushing,MIA,22,107,9,38,1.7,69,3.1,2,11,202112190mia
+Myles Gaskin,GaskMy00,rushing,MIA,10,54,2,11,1.1,43,4.3,1,10,202112190mia
+Tua Tagovailoa,TagoTu00,rushing,MIA,7,19,0,15,2.1,4,0.6,0,NA,202112190mia
+Jacoby Brissett,BrisJa00,rushing,MIA,1,2,1,1,1,1,1,0,NA,202112190mia
+Clayton Fejedelem,FejeCl00,rushing,MIA,1,0,NA,0,0,0,0,0,NA,202112190mia
+Albert Wilson,WilsAl02,rushing,MIA,1,1,0,0,0,1,1,1,1,202112190mia

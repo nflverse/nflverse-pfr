@@ -1,20 +1,20 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Tre'Davious White,WhitTr01,defense,BUF,0,6,4,66.7%,43,10.8,7.2,0,87.5,7.8,36,7,1,0,0,0.5,1,6,0,0.0%,202111070jax
-Tremaine Edmunds,EdmuTr01,defense,BUF,0,4,3,75.0%,45,15,11.3,0,111.5,5.5,16,29,4,2,0,0,2,7,1,12.5%,202111070jax
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,4,3,75.0%,45,15,11.3,0,111.5,5.5,16,29,4,2,0,0,2,8,1,11.1%,202111070jax
 Matt Milano,MilaMa00,defense,BUF,0,6,3,50.0%,25,8.3,4.2,0,61.1,4.2,3,22,3,1,0,0,1,4,0,0.0%,202111070jax
-Siran Neal,NealSi00,defense,BUF,0,2,2,100.0%,9,4.5,4.5,0,85.4,4.5,9,0,2,0,0,0,0,5,0,0.0%,202111070jax
+Siran Neal,NealSi00,defense,BUF,0,2,2,100.0%,9,4.5,4.5,0,85.4,4.5,9,0,2,0,0,0,0,6,0,0.0%,202111070jax
 Levi Wallace,WallLe00,defense,BUF,0,3,2,66.7%,14,7,4.7,0,77.1,5.3,13,1,0,0,0,0,0,7,0,0.0%,202111070jax
 Taron Johnson,JohnTa01,defense,BUF,0,1,1,100.0%,4,4,4,0,83.3,-1,-1,5,0,0,0,0,0,2,0,0.0%,202111070jax
 Micah Hyde,HydeMi00,defense,BUF,0,3,1,33.3%,-1,-1,-0.3,0,42.4,12.7,-1,0,2,0,0,0,0,3,1,25.0%,202111070jax
 Jordan Poyer,PoyeJo00,defense,BUF,0,1,1,100.0%,12,12,12,0,116.7,8,8,4,1,0,0,0,0,4,0,0.0%,202111070jax
 Jerry Hughes,HughJe99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,0,3,2,1,33.3%,202111070jax
-Mario Addison,AddiMa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202111070jax
+Mario Addison,AddiMa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202111070jax
 Gregory Rousseau,RousGr00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202111070jax
 A.J. Epenesa,EpenAJ00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,1,50.0%,202111070jax
 Ed Oliver,OlivEd00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202111070jax
 Vernon Butler,ButlVe00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202111070jax
 Dane Jackson,JackDa02,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,33,NA,NA,0,0,0,0,0,0,0,NA,202111070jax
-Rudy Ford,FordRu00,defense,JAX,1,12,7,58.3%,67,9.6,5.6,0,39.2,6.8,35,32,8,1,0,0,1,7,2,22.2%,202111070jax
+Rudy Ford,FordRu00,defense,JAX,1,12,7,58.3%,67,9.6,5.6,0,39.2,6.8,35,32,8,1,0,0,1,8,2,20.0%,202111070jax
 Myles Jack,JackMy00,defense,JAX,0,6,6,100.0%,27,4.5,4.5,0,85.4,0.7,4,23,4,0,0,0,0,7,1,12.5%,202111070jax
 Damien Wilson,WilsDa02,defense,JAX,0,7,5,71.4%,27,5.4,3.9,0,77.7,6,19,8,3,0,1,0,1,7,0,0.0%,202111070jax
 Tyson Campbell,CampTy01,defense,JAX,0,6,4,66.7%,75,18.8,12.5,0,109.7,16.5,72,3,0,0,0,0,0,5,1,16.7%,202111070jax
@@ -26,7 +26,7 @@ Dawuane Smoot,SmooDa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,5,2,1,8,3,
 Taven Bryan,BryaTa00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,2,4,2,1,33.3%,202111070jax
 Adam Gotsis,GotsAd00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,0,2,100.0%,202111070jax
 Roy Robertson-Harris,RobeRo00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202111070jax
-K'Lavon Chaisson,ChaiKL00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,1,100.0%,202111070jax
+K'Lavon Chaisson,ChaiKL00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,202111070jax
 Jihad Ward,WardJi02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,2,100.0%,202111070jax
 Malcom Brown,BrowMa01,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202111070jax
 DaVon Hamilton,HamiDa02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202111070jax

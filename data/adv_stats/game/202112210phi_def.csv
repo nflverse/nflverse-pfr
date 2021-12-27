@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Jeremy Reaves,ReavJe00,defense,WAS,0,7,6,85.7%,125,20.8,17.9,1,158.3,16.7,117,8,1,0,0,0,0,12,0,0.0%,202112210phi
+Danny Johnson,JohnDa09,defense,WAS,0,4,4,100.0%,42,10.5,10.5,0,110.4,3.8,15,27,0,0,0,0,0,4,0,0.0%,202112210phi
+William Jackson III,JackWi02,defense,WAS,0,3,3,100.0%,23,7.7,7.7,0,98.6,5.3,16,7,0,0,0,0,0,3,0,0.0%,202112210phi
+Jamin Davis,DaviJa11,defense,WAS,0,3,3,100.0%,33,11,11,0,112.5,5,15,18,2,0,0,0,0,10,2,16.7%,202112210phi
+Landon Collins,CollLa00,defense,WAS,1,4,3,75.0%,39,13,9.8,0,65.6,5.3,17,22,2,0,0,0,0,7,1,12.5%,202112210phi
+Cole Holcomb,HolcCo00,defense,WAS,0,1,1,100.0%,7,7,7,0,95.8,6,6,1,4,1,0,0,1,10,1,9.1%,202112210phi
+Corn Elder,EldeCo00,defense,WAS,0,1,1,100.0%,34,34,34,0,118.7,0,0,34,0,0,0,0,0,0,1,100.0%,202112210phi
+Darryl Roberts,RobeDa00,defense,WAS,0,3,1,33.3%,45,45,15,0,81.9,31.7,43,2,0,0,0,0,0,3,0,0.0%,202112210phi
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4,0,1,5,3,1,25.0%,202112210phi
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,0,2,4,2,33.3%,202112210phi
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,7,0,0.0%,202112210phi
+Shaka Toney,ToneSh00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202112210phi
+Bunmi Rotimi,RotiBu00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,202112210phi
+Daniel Wise,WiseDa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,NA,202112210phi
+Deshazor Everett,EverDe01,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,0,0,0,0,0,0,0,NA,202112210phi
+Bobby McCain,McCaBo01,defense,WAS,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,2,0,0,0,0,4,0,0.0%,202112210phi
+Matthew Ioannidis,IoanMa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,4,1,20.0%,202112210phi
+Avonte Maddox,MaddAv00,defense,PHI,0,7,5,71.4%,19,3.8,2.7,0,74.1,3.6,-4,23,1,0,0,0,0,4,2,33.3%,202112210phi
+Darius Slay,SlayDa00,defense,PHI,0,8,5,62.5%,96,19.2,12,0,104.2,16.5,77,19,0,0,0,0,0,4,0,0.0%,202112210phi
+T.J. Edwards,EdwaTJ02,defense,PHI,0,5,4,80.0%,34,8.5,6.8,0,95,0.6,-1,35,2,0,0,0,0,6,1,14.3%,202112210phi
+Rodney McLeod,McLeRo00,defense,PHI,0,5,2,40.0%,11,5.5,2.2,0,47.9,3,10,1,0,0,0,0,0,4,0,0.0%,202112210phi
+Marcus Epps,EppsMa00,defense,PHI,0,2,2,100.0%,17,8.5,8.5,0,102.1,5.5,11,6,0,0,0,0,0,3,0,0.0%,202112210phi
+Genard Avery,AverGe00,defense,PHI,0,1,1,100.0%,5,5,5,0,87.5,1,1,4,7,2,0,0,2,1,1,50.0%,202112210phi
+Steven Nelson,NelsSt01,defense,PHI,0,2,1,50.0%,13,13,6.5,0,70.8,4.5,13,0,0,0,0,0,0,3,0,0.0%,202112210phi
+Fletcher Cox,CoxxFl00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,2,4,3,1,25.0%,202112210phi
+Derek Barnett,BarnDe01,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202112210phi
+Javon Hargrave,HargJa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202112210phi
+Hassan Ridgeway,RidgHa00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202112210phi
+Alex Singleton,SingAl00,defense,PHI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,0,0,0,8,0,0.0%,202112210phi
+Anthony Harris,HarrAn01,defense,PHI,0,1,0,0.0%,NA,NA,0,NA,39.6,44,NA,NA,0,0,0,0,0,0,0,NA,202112210phi

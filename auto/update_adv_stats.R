@@ -18,7 +18,6 @@ scrape_advstats <- function(data_path = here::here("data/adv_stats/game")){
 
   if(nrow(game_ids)==0) {
     cli::cli_alert_danger("No new games to scrape!")
-
     return(FALSE)
   }
 
@@ -40,8 +39,11 @@ scrape_advstats <- function(data_path = here::here("data/adv_stats/game")){
 
   if(nrow(scrape_games)==0) {
     cli::cli_alert_danger("No new data for scrapes!")
-
     return(FALSE)
+  }
+
+  if(any(!game_ids$game_id %in% scrape_games$game_id)){
+    cli::cli_alert_danger("Could not find advanced stats for {paste(game_ids$game_id[!game_ids$game_id %in% scrape_games$game_id], collapse = '\n')}")
   }
 
   purrr::pwalk(scrape_games,~{
@@ -176,7 +178,7 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
                       readr::parse_number() %>%
                       magrittr::divide_by(100) %>%
                       round(3)),
-      team = nflreadr::clean_team_abbrs(team, current_location = FALSE)
+      team = nflreadr::clean_team_abbrs(team, current_location = FALSE,keep_non_matches = TRUE)
     ) %>%
     dplyr::inner_join(
       x = schedules,

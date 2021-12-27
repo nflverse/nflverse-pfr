@@ -2,7 +2,7 @@ player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_comple
 Alex Singleton,SingAl00,defense,PHI,0,9,5,55.6%,61,12.2,6.8,1,113.7,4.3,23,38,0,0,0,0,0,8,0,0.0%,202112050nyj
 T.J. Edwards,EdwaTJ02,defense,PHI,0,6,4,66.7%,39,9.8,6.5,0,84.7,8.5,19,20,1,0,0,0,0,11,1,8.3%,202112050nyj
 Avonte Maddox,MaddAv00,defense,PHI,0,4,4,100.0%,44,11,11,0,112.5,6,24,20,0,0,0,0,0,4,1,20.0%,202112050nyj
-Darius Slay,SlayDa00,defense,PHI,0,6,3,50.0%,38,12.7,6.3,0,70.1,24.3,31,7,0,0,0,0,0,4,0,0.0%,202112050nyj
+Darius Slay,SlayDa00,defense,PHI,0,6,3,50.0%,38,12.7,6.3,0,70.1,24.3,31,7,0,0,0,0,0,5,0,0.0%,202112050nyj
 Steven Nelson,NelsSt01,defense,PHI,0,2,2,100.0%,13,6.5,6.5,1,133.3,3,6,7,0,0,0,0,0,0,0,NA,202112050nyj
 Genard Avery,AverGe00,defense,PHI,0,2,1,50.0%,7,7,3.5,0,58.3,2,-1,8,1,0,0,0,0,3,0,0.0%,202112050nyj
 Rodney McLeod,McLeRo00,defense,PHI,0,3,1,33.3%,7,7,2.3,0,42.4,12.7,4,3,0,0,0,0,0,3,0,0.0%,202112050nyj
@@ -28,5 +28,5 @@ Nathan Shepherd,ShepNa00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,
 Folorunso Fatukasi,FatuFo00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,1,16.7%,202112050nyj
 Shaq Lawson,LawsSh00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,1,50.0%,202112050nyj
 Kyle Phillips,PhilKy00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202112050nyj
-Ashtyn Davis,DaviAs00,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,13,NA,NA,1,0,0,0,0,2,1,33.3%,202112050nyj
+Ashtyn Davis,DaviAs00,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,13,NA,NA,1,0,0,0,0,3,1,25.0%,202112050nyj
 Sharrod Neasman,NeasSh00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202112050nyj

@@ -1,7 +1,7 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Johnathan Abram,AbraJo01,defense,LVR,0,4,4,100.0%,44,11,11,1,152.1,8.3,33,11,4,1,0,0,1,8,2,20.0%,202111070nyg
 Denzel Perryman,PerrDe00,defense,LVR,0,5,4,80.0%,18,4.5,3.6,0,81.7,1.6,3,15,0,0,0,0,0,10,0,0.0%,202111070nyg
-Brandon Facyson,FacyBr00,defense,LVR,0,3,2,66.7%,21,10.5,7,0,86.8,9,20,1,0,0,0,0,0,7,1,12.5%,202111070nyg
+Brandon Facyson,FacyBr00,defense,LVR,0,4,2,50.0%,21,10.5,5.3,0,65.6,13,20,1,0,0,0,0,0,7,1,12.5%,202111070nyg
 Cory Littleton,LittCo01,defense,LVR,0,2,2,100.0%,5,2.5,2.5,0,79.2,-5.5,-11,16,0,0,0,0,0,4,0,0.0%,202111070nyg
 K.J. Wright,WrigK.00,defense,LVR,0,1,1,100.0%,-1,-1,-1,0,79.2,-1,-1,0,0,0,0,0,0,6,0,0.0%,202111070nyg
 Trevon Moehrig,MoehTr00,defense,LVR,0,1,1,100.0%,9,9,9,0,104.2,1,1,8,0,0,0,0,0,5,0,0.0%,202111070nyg

@@ -1,3 +1,3 @@
 player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
-Jared Goff,GoffJa00,passing,DET,14,25,114,5,17.2,115,4.6,30,2.1,1.2,84,6,3,12.5%,3,12.5%,4,7,0,2,6,20.7%,0,NA,202111140pit
+Jared Goff,GoffJa00,passing,DET,14,25,114,5,17.2,134,5.4,30,2.1,1.2,84,6,3,12.5%,3,12.5%,4,7,0,2,6,20.7%,0,NA,202111140pit
 Mason Rudolph,RudoMa00,passing,PIT,30,50,242,13,26,330,6.6,139,4.6,2.8,103,3.4,2,4.1%,9,18.4%,0,12,0,0,0,0.0%,2,18.5,202111140pit

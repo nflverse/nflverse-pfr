@@ -1,7 +1,7 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
 Aaron Jones,JoneAa00,receiving,GNB,11,7,51,0,1,-8,-1.1,59,8.4,3,0,NA,0,0,0,74.4,202110280crd
 Juwann Winfree,WinfJu00,receiving,GNB,6,4,30,0,2,16,4,14,3.5,4,0,NA,1,16.7,0,78.5,202110280crd
-Randall Cobb,CobbRa00,receiving,GNB,5,3,15,2,3,12,4,3,1,3.2,0,NA,0,0,0,104.2,202110280crd
+Randall Cobb,CobbRa00,receiving,GNB,5,3,15,2,3,12,4,3,1,2.2,0,NA,0,0,0,104.2,202110280crd
 Robert Tonyan,TonyRo00,receiving,GNB,4,3,49,0,2,26,8.7,23,7.7,10.3,0,NA,0,0,0,115.6,202110280crd
 Josiah Deguara,DeguJo00,receiving,GNB,2,2,20,0,1,-6,-3,26,13,-3,0,NA,0,0,0,108.3,202110280crd
 Equanimeous St. Brown,St.BEq00,receiving,GNB,3,2,12,0,1,5,2.5,7,3.5,1.7,0,NA,0,0,0,74.3,202110280crd
@@ -11,6 +11,6 @@ A.J. Green,GreeA.00,receiving,ARI,8,5,50,0,2,40,8,10,2,11,0,NA,0,0,1,40.6,202110
 Zach Ertz,ErtzZa00,receiving,ARI,4,4,42,0,2,19,4.8,23,5.8,4.8,0,NA,0,0,0,110.4,202110280crd
 Christian Kirk,KirkCh01,receiving,ARI,6,4,46,0,3,39,9.8,7,1.8,13.5,0,NA,0,0,0,89.6,202110280crd
 Chase Edmonds,EdmoCh00,receiving,ARI,4,3,39,0,2,-1,-0.3,40,13.3,1.8,0,NA,0,0,0,105.2,202110280crd
-Rondale Moore,MoorRo02,receiving,ARI,5,3,24,0,NA,-10,-3.3,34,11.3,0,0,NA,1,20,1,32.5,202110280crd
+Rondale Moore,MoorRo02,receiving,ARI,4,3,24,0,NA,-10,-3.3,34,11.3,-1.3,0,NA,0,0,1,50,202110280crd
 DeAndre Hopkins,HopkDe00,receiving,ARI,2,2,66,0,2,42,21,24,12,21,0,NA,0,0,0,118.7,202110280crd
 Antoine Wesley,WeslAn01,receiving,ARI,3,1,7,0,1,6,6,1,1,17,0,NA,0,0,0,42.4,202110280crd

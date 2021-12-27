@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Bryce Hall,HallBr02,defense,NYJ,0,6,6,100.0%,69,11.5,11.5,2,154.2,4.8,29,40,1,0,0,0,0,3,0,0.0%,202111040clt
-Ashtyn Davis,DaviAs00,defense,NYJ,0,4,4,100.0%,70,17.5,17.5,0,118.7,2.8,11,59,0,0,0,0,0,10,0,0.0%,202111040clt
+Ashtyn Davis,DaviAs00,defense,NYJ,0,4,4,100.0%,70,17.5,17.5,0,118.7,2.8,11,59,0,0,0,0,0,9,0,0.0%,202111040clt
 Brandin Echols,EchoBr00,defense,NYJ,0,5,3,60.0%,26,8.7,5.2,0,73.7,9.4,26,0,0,0,0,0,0,6,0,0.0%,202111040clt
 Michael Carter,CartMi02,defense,NYJ,0,4,3,75.0%,52,17.3,13,0,116.7,13.8,38,14,1,0,0,0,0,3,0,0.0%,202111040clt
 Jarrad Davis,DaviJa01,defense,NYJ,0,2,2,100.0%,11,5.5,5.5,0,89.6,0,0,11,3,0,0,0,0,2,1,33.3%,202111040clt
@@ -9,7 +9,7 @@ C.J. Mosley,MoslC.00,defense,NYJ,0,1,1,100.0%,8,8,8,0,100,1,1,7,1,0,0,0,0,10,2,1
 Marcus Maye,MayeMa00,defense,NYJ,0,3,1,33.3%,27,27,9,0,67.4,14.7,2,25,0,0,0,0,0,6,0,0.0%,202111040clt
 John Franklin-Myers,FranJo02,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,0,0.0%,202111040clt
 Folorunso Fatukasi,FatuFo00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,4,1,20.0%,202111040clt
-Shaq Lawson,LawsSh00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,1,0,0.0%,202111040clt
+Shaq Lawson,LawsSh00,defense,NYJ,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202111040clt
 Sharrod Neasman,NeasSh00,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,19,NA,NA,0,0,0,0,0,0,0,NA,202111040clt
 Quincy Williams,WillQu01,defense,NYJ,0,1,0,0.0%,NA,NA,0,NA,39.6,24,NA,NA,0,0,0,0,0,4,0,0.0%,202111040clt
 Bobby Okereke,OkerBo00,defense,IND,1,9,8,88.9%,86,10.8,9.6,1,103.9,3.4,21,65,0,0,0,0,0,11,0,0.0%,202111040clt
@@ -18,7 +18,7 @@ Rock Ya-Sin,Ya-SRo00,defense,IND,0,9,5,55.6%,55,11,6.1,0,73.8,13.1,46,9,0,0,0,0,
 Darius Leonard,LeonDa00,defense,IND,0,5,4,80.0%,49,12.3,9.8,0,107.5,4.2,16,33,1,0,0,0,0,7,0,0.0%,202111040clt
 Isaiah Rodgers,RodgIs00,defense,IND,0,7,4,57.1%,31,7.8,4.4,0,68.2,5,19,12,0,0,0,0,0,4,0,0.0%,202111040clt
 Xavier Rhodes,RhodXa00,defense,IND,0,6,4,66.7%,57,14.3,9.5,1,136.8,9.7,40,17,0,0,0,0,0,2,0,0.0%,202111040clt
-George Odum,OdumGe00,defense,IND,0,4,3,75.0%,52,17.3,13,2,156.2,15.3,46,6,1,1,0,0,1,5,1,16.7%,202111040clt
+George Odum,OdumGe00,defense,IND,0,4,3,75.0%,52,17.3,13,2,156.2,15.3,46,6,1,1,0,0,1,6,1,14.3%,202111040clt
 Andrew Sendejo,SendAn00,defense,IND,0,1,1,100.0%,12,12,12,0,116.7,12,12,0,1,0,0,0,0,3,1,25.0%,202111040clt
 Kwity Paye,PayeKw00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,2,0,0.0%,202111040clt
 Taylor Stallworth,StalTa00,defense,IND,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,2,3,2,0,0.0%,202111040clt

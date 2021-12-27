@@ -1,7 +1,7 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Greedy Williams,WillGr00,defense,CLE,0,13,8,61.5%,65,8.1,5,1,99.8,4.5,27,38,0,0,0,0,0,10,0,0.0%,202110100sdg
 A.J. Green,GreeAJ00,defense,CLE,0,11,5,45.5%,126,25.2,11.5,1,118,15.4,57,69,0,0,0,0,0,6,0,0.0%,202110100sdg
-Troy Hill,HillTr01,defense,CLE,0,7,5,71.4%,95,19,13.6,0,113.7,11.6,52,43,2,0,0,0,0,5,1,16.7%,202110100sdg
+Troy Hill,HillTr01,defense,CLE,0,7,5,71.4%,95,19,13.6,0,113.7,12.6,52,43,2,0,0,0,0,5,1,16.7%,202110100sdg
 Ronnie Harrison,HarrRo02,defense,CLE,0,3,2,66.7%,61,30.5,20.3,2,149.3,12,32,29,0,0,0,0,0,2,1,33.3%,202110100sdg
 Anthony Walker,WalkAn01,defense,CLE,0,3,2,66.7%,18,9,6,0,82.6,0.3,0,18,0,0,0,0,0,6,0,0.0%,202110100sdg
 Jeremiah Owusu-Koramoah,OwusJe00,defense,CLE,0,2,2,100.0%,11,5.5,5.5,0,89.6,-2,-4,15,3,0,0,0,0,4,3,42.9%,202110100sdg

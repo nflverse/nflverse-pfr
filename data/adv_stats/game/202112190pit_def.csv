@@ -1,10 +1,10 @@
 player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
 Kristian Fulton,FultKr00,defense,TEN,0,5,4,80.0%,17,4.3,3.4,0,80.8,-0.2,0,17,0,0,0,0,0,3,1,25.0%,202112190pit
 Elijah Molden,MoldEl00,defense,TEN,0,3,3,100.0%,33,11,11,0,112.5,2,6,27,5,2,0,0,2,4,1,20.0%,202112190pit
-Harold Landry,LandHa00,defense,TEN,0,3,3,100.0%,37,12.3,12.3,0,118.1,6,18,19,0,1,0,0,1,2,0,0.0%,202112190pit
+Harold Landry,LandHa00,defense,TEN,0,3,3,100.0%,37,12.3,12.3,0,118.1,6,18,19,0,0,0,0,0,2,0,0.0%,202112190pit
 Buster Skrine,SkriBu00,defense,TEN,0,6,3,50.0%,26,8.7,4.3,0,61.8,11,7,19,0,0,0,0,0,3,2,40.0%,202112190pit
 Jayon Brown,BrowJa06,defense,TEN,0,1,1,100.0%,4,4,4,0,83.3,5,5,-1,0,0,0,0,0,0,0,NA,202112190pit
-Zach Cunningham,CunnZa00,defense,TEN,0,3,1,33.3%,0,0,0,0,42.4,-0.3,6,-6,0,0,0,0,0,6,0,0.0%,202112190pit
+Zach Cunningham,CunnZa00,defense,TEN,0,3,1,33.3%,0,0,0,0,42.4,-1.7,2,-2,0,0,0,0,0,6,0,0.0%,202112190pit
 Kevin Byard,ByarKe01,defense,TEN,0,1,1,100.0%,19,19,19,0,118.7,17,17,2,0,0,0,0,0,4,0,0.0%,202112190pit
 Denico Autry,AutrDe00,defense,TEN,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,0,1,0,1,2,1,0,0.0%,202112190pit
 Naquan Jones,JoneNa01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,202112190pit

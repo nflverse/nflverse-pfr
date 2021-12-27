@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Deebo Samuel,SamuDe00,receiving,SFO,11,9,159,0,5,55,6.1,104,11.6,6.6,0,NA,0,0,1,80.9,202112230oti
+Brandon Aiyuk,AiyuBr00,receiving,SFO,5,4,40,1,3,9,2.3,31,7.8,2.4,0,NA,0,0,0,139.6,202112230oti
+Kyle Juszczyk,JuszKy00,receiving,SFO,5,3,45,0,2,3,1,42,14,8.4,0,NA,0,0,0,89.6,202112230oti
+Jeff Wilson,WilsJe01,receiving,SFO,3,3,12,0,1,-11,-3.7,23,7.7,-3.7,0,NA,0,0,0,83.3,202112230oti
+Jamycal Hasty,HastJa02,receiving,SFO,3,3,26,0,1,4,1.3,22,7.3,1.3,0,NA,0,0,0,102.8,202112230oti
+Jauan Jennings,JennJa00,receiving,SFO,5,2,19,0,1,14,7,5,2.5,19,0,NA,0,0,0,51.2,202112230oti
+George Kittle,KittGe00,receiving,SFO,3,2,21,0,1,16,8,5,2.5,8,0,NA,0,0,1,47.2,202112230oti
+A.J. Brown,BrowAJ00,receiving,TEN,16,11,145,1,8,122,11.1,23,2.1,12.6,0,NA,0,0,0,118,202112230oti
+Geoff Swaim,SwaiGe00,receiving,TEN,3,3,10,0,NA,2,0.7,8,2.7,0.7,0,NA,0,0,0,80.6,202112230oti
+Dontrell Hilliard,HillDo00,receiving,TEN,2,2,-6,0,NA,-13,-6.5,7,3.5,-6.5,0,NA,0,0,0,79.2,202112230oti
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,3,2,38,0,2,30,15,8,4,12.7,0,NA,0,0,0,109.7,202112230oti
+Julio Jones,JoneJu02,receiving,TEN,1,1,7,0,NA,4,4,3,3,4,0,NA,0,0,0,95.8,202112230oti
+Anthony Firkser,FirkAn00,receiving,TEN,1,1,13,0,1,3,3,10,10,3,0,NA,0,0,0,118.7,202112230oti
+Chester Rogers,RogeCh02,receiving,TEN,1,1,3,0,NA,-3,-3,6,6,-3,0,NA,0,0,0,79.2,202112230oti
+Khari Blasingame,BlasKh00,receiving,TEN,1,1,-1,0,NA,-3,-3,2,2,-3,0,NA,0,0,0,79.2,202112230oti
+Racey McMath,McMaRa00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,27,0,NA,0,0,0,39.6,202112230oti
+Jeremy McNichols,McNiJe00,receiving,TEN,1,0,0,0,0,0,NA,0,NA,-7,0,NA,0,0,0,39.6,202112230oti
