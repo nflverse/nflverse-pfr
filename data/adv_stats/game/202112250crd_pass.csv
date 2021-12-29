@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Carson Wentz,WentCa00,passing,IND,18,28,225,11,36.7,188,6.7,140,7.8,5,85,4.7,3,10.7%,4,14.3%,2,9,2,5,9,29.0%,1,5,202112250crd
+Kyler Murray,MurrKy00,passing,ARI,27,43,245,12,27.9,277,6.4,92,3.4,2.1,153,5.7,1,2.4%,8,19.5%,0,10,4,0,4,9.1%,1,10,202112250crd
