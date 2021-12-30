@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Melvin Gordon,GordMe00,rushing,DEN,7,-4,NA,-8,-1.1,4,0.6,0,NA,202112260rai
+Javonte Williams,WillJa10,rushing,DEN,7,12,1,1,0.1,11,1.6,0,NA,202112260rai
+Drew Lock,LockDr00,rushing,DEN,2,10,1,7,3.5,3,1.5,0,NA,202112260rai
+Josh Jacobs,JacoJo01,rushing,LVR,27,129,6,55,2,74,2.7,1,27,202112260rai
+Derek Carr,CarrDe02,rushing,LVR,7,5,2,4,0.6,1,0.1,0,NA,202112260rai
+Peyton Barber,BarbPe01,rushing,LVR,5,22,1,12,2.4,10,2,0,NA,202112260rai
+Jalen Richard,RichJa01,rushing,LVR,1,4,1,2,2,2,2,0,NA,202112260rai

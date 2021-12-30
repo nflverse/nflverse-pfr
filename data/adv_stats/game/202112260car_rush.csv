@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ronald Jones II,JoneRo01,rushing,TAM,20,65,4,38,1.9,27,1.4,0,NA,202112260car
+Ke'Shawn Vaughn,VaugKe00,rushing,TAM,7,70,2,10,1.4,60,8.6,2,3.5,202112260car
+Le'Veon Bell,BellLe00,rushing,TAM,2,-1,NA,-1,-0.5,0,0,0,NA,202112260car
+Tom Brady,BradTo00,rushing,TAM,1,11,1,11,11,0,0,0,NA,202112260car
+Cyril Grayson,GrayCy01,rushing,TAM,1,14,1,14,14,0,0,0,NA,202112260car
+Chuba Hubbard,HubbCh01,rushing,CAR,6,9,2,3,0.5,6,1,0,NA,202112260car
+Cam Newton,NewtCa00,rushing,CAR,5,42,1,42,8.4,0,0,0,NA,202112260car
+Ameer Abdullah,AbduAm00,rushing,CAR,2,1,NA,1,0.5,0,0,0,NA,202112260car
+Reggie Bonnafon,BonnRe00,rushing,CAR,1,4,0,4,4,0,0,0,NA,202112260car
+Sam Darnold,DarnSa00,rushing,CAR,1,11,1,11,11,0,0,0,NA,202112260car

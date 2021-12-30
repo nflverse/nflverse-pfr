@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Najee Harris,HarrNa00,rushing,PIT,19,93,4,37,1.9,56,2.9,3,6.3,202112260kan
+Benny Snell Jr.,SnelBe00,rushing,PIT,5,20,1,9,1.8,11,2.2,1,5,202112260kan
+Mason Rudolph,RudoMa00,rushing,PIT,1,17,1,17,17,0,0,0,NA,202112260kan
+Derrick Gore,GoreDe00,rushing,KAN,12,43,3,18,1.5,25,2.1,1,12,202112260kan
+Darrel Williams,WillDa10,rushing,KAN,11,55,3,35,3.2,20,1.8,0,NA,202112260kan
+Clyde Edwards-Helaire,EdwaCl00,rushing,KAN,9,27,2,6,0.7,21,2.3,1,9,202112260kan
+Chad Henne,HennCh01,rushing,KAN,2,0,NA,0,0,0,0,0,NA,202112260kan
+Michael Burton,BurtMi00,rushing,KAN,1,2,1,1,1,1,1,0,NA,202112260kan

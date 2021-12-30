@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+David Montgomery,MontDa01,receiving,CHI,9,7,61,0,5,1,0.1,60,8.6,0.8,1,7,1,11.1,0,94.9,202112260sea
+Darnell Mooney,MoonDa00,receiving,CHI,9,5,57,0,2,19,3.8,38,7.6,8.8,1,5,0,0,0,74.8,202112260sea
+Cole Kmet,KmetCo00,receiving,CHI,5,4,49,0,2,20,5,29,7.3,7,1,4,0,0,0,107.5,202112260sea
+Marquise Goodwin,GoodMa00,receiving,CHI,2,2,23,0,1,14,7,9,4.5,7,0,NA,0,0,0,114.6,202112260sea
+Jimmy Graham,GrahJi00,receiving,CHI,2,2,30,1,2,21,10.5,9,4.5,10.5,0,NA,0,0,0,158.3,202112260sea
+Damiere Byrd,ByrdDa00,receiving,CHI,3,1,11,0,1,8,8,3,3,4.7,0,NA,0,0,0,45.1,202112260sea
+Damien Williams,WillDa05,receiving,CHI,2,1,2,0,0,-1,-1,3,3,12,0,NA,0,0,0,56.2,202112260sea
+Dazz Newsome,NewsDa00,receiving,CHI,2,1,10,0,1,5,5,5,5,3,0,NA,0,0,0,64.6,202112260sea
+Khalil Herbert,HerbKh00,receiving,CHI,1,1,7,0,0,-2,-2,9,9,-2,0,NA,0,0,0,95.8,202112260sea
+DeeJay Dallas,DallDe00,receiving,SEA,4,4,23,0,1,-7,-1.8,30,7.5,-1.8,0,NA,0,0,0,90.6,202112260sea
+Gerald Everett,EverGe00,receiving,SEA,5,4,68,1,4,39,9.8,29,7.3,9.2,0,NA,0,0,0,158.3,202112260sea
+Tyler Lockett,LockTy00,receiving,SEA,6,3,30,0,1,13,4.3,17,5.7,13,0,NA,0,0,0,64.6,202112260sea
+D.K. Metcalf,MetcDK00,receiving,SEA,5,2,41,1,1,31,15.5,10,5,14,0,NA,0,0,0,109.2,202112260sea
+D'Wayne Eskridge,EskrDW00,receiving,SEA,3,2,10,0,1,-8,-4,18,9,4,0,NA,0,0,0,71.5,202112260sea
+Freddie Swain,SwaiFr00,receiving,SEA,2,1,9,0,1,5,5,4,4,6,0,NA,0,0,0,62.5,202112260sea
+Colby Parkinson,ParkCo02,receiving,SEA,1,0,0,0,NA,0,NA,0,NA,17,0,NA,0,0,0,39.6,202112260sea
+Rashaad Penny,PennRa00,receiving,SEA,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,202112260sea

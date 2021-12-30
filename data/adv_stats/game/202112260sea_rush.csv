@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+David Montgomery,MontDa01,rushing,CHI,21,45,6,16,0.8,29,1.4,1,21,202112260sea
+Nick Foles,FoleNi00,rushing,CHI,4,8,1,8,2,0,0,0,NA,202112260sea
+Khalil Herbert,HerbKh00,rushing,CHI,2,21,1,21,10.5,0,0,0,NA,202112260sea
+Darnell Mooney,MoonDa00,rushing,CHI,2,2,0,2,1,0,0,0,NA,202112260sea
+Damien Williams,WillDa05,rushing,CHI,1,12,1,8,8,4,4,1,1,202112260sea
+Rashaad Penny,PennRa00,rushing,SEA,17,135,4,70,4.1,65,3.8,5,3.4,202112260sea
+DeeJay Dallas,DallDe00,rushing,SEA,4,15,1,10,2.5,5,1.3,1,4,202112260sea
+Russell Wilson,WilsRu00,rushing,SEA,2,13,1,13,6.5,0,0,0,NA,202112260sea
+D'Wayne Eskridge,EskrDW00,rushing,SEA,1,7,0,6,6,1,1,0,NA,202112260sea

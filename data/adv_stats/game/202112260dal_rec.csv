@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Terry McLaurin,McLaTe00,receiving,WAS,6,3,40,0,2,30,10,10,3.3,19,0,NA,0,0,1,31.9,202112260dal
+Dyami Brown,BrowDy00,receiving,WAS,2,2,53,0,1,49,24.5,4,2,24.5,0,NA,0,0,0,118.7,202112260dal
+Adam Humphries,HumpAd00,receiving,WAS,6,2,4,0,1,2,1,2,1,4.8,0,NA,0,0,0,42.4,202112260dal
+Antonio Gibson,GibsAn00,receiving,WAS,4,2,29,1,2,3,1.5,26,13,2.5,0,NA,2,50,0,113.5,202112260dal
+John Bates,BateJo00,receiving,WAS,3,2,45,1,2,13,6.5,32,16,4.3,2,1,0,0,0,149.3,202112260dal
+DeAndre Carter,CartDe02,receiving,WAS,2,1,5,0,0,5,5,0,0,5,0,NA,0,0,0,56.2,202112260dal
+Dax Milne,MilnDa00,receiving,WAS,1,1,14,0,1,4,4,10,10,4,0,NA,0,0,0,118.7,202112260dal
+Ricky Seals-Jones,SealRi00,receiving,WAS,1,1,-4,0,NA,-4,-4,0,0,-4,0,NA,0,0,0,79.2,202112260dal
+Jonathan Williams,WillJo07,receiving,WAS,2,1,2,0,0,-5,-5,7,7,-4,0,NA,0,0,1,16.7,202112260dal
+Cam Sims,SimsCa00,receiving,WAS,3,0,0,0,NA,0,NA,0,NA,10.3,0,NA,0,0,0,39.6,202112260dal
+Dalton Schultz,SchuDa00,receiving,DAL,9,8,82,1,5,48,6,34,4.3,7.8,0,NA,0,0,0,141.7,202112260dal
+Amari Cooper,CoopAm00,receiving,DAL,11,7,85,1,4,74,10.6,11,1.6,15.1,1,7,2,18.2,0,117.6,202112260dal
+CeeDee Lamb,LambCe00,receiving,DAL,5,4,66,0,3,58,14.5,8,2,11.2,0,NA,0,0,0,118.7,202112260dal
+Malik Turner,TurnMa00,receiving,DAL,3,3,82,1,3,14,4.7,68,22.7,4.7,2,1.5,0,0,0,158.3,202112260dal
+Michael Gallup,GallMi00,receiving,DAL,5,2,53,0,2,38,19,15,7.5,18,0,NA,0,0,0,79.6,202112260dal
+Tony Pollard,PollTo00,receiving,DAL,3,2,16,0,1,2,1,14,7,2,0,NA,0,0,0,79.9,202112260dal
+Cedrick Wilson Jr.,WilsCe01,receiving,DAL,3,2,10,0,NA,6,3,4,2,11,0,NA,0,0,0,71.5,202112260dal
+Ezekiel Elliott,ElliEz00,receiving,DAL,1,1,5,1,1,2,2,3,3,2,0,NA,0,0,0,127.1,202112260dal
+Terence Steele,SteeTe01,receiving,DAL,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202112260dal

@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Devonta Freeman,FreeDe00,rushing,BAL,6,17,2,10,1.7,7,1.2,0,NA,202112260cin
+Josh Johnson,JohnJo05,rushing,BAL,5,10,0,4,0.8,6,1.2,0,NA,202112260cin
+Latavius Murray,MurrLa00,rushing,BAL,5,12,0,7,1.4,5,1,0,NA,202112260cin
+Joe Mixon,MixoJo00,rushing,CIN,18,65,3,36,2,29,1.6,0,NA,202112260cin
+Joe Burrow,BurrJo01,rushing,CIN,2,11,1,11,5.5,0,0,0,NA,202112260cin
+Chris Evans,EvanCh02,rushing,CIN,1,1,NA,1,1,0,0,0,NA,202112260cin

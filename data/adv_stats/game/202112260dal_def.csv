@@ -1,0 +1,35 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Osirus Mitchell,MitcOs00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,0,NA,1,NA,202112260dal
+Kendall Fuller,FullKe00,defense,WAS,0,8,6,75.0%,59,9.8,7.4,1,134.9,9.9,39,20,0,0,0,0,0,5,0,0.0%,202112260dal
+Bobby McCain,McCaBo01,defense,WAS,0,6,6,100.0%,101,16.8,16.8,1,158.3,12.7,76,25,0,0,0,0,0,10,0,0.0%,202112260dal
+David Mayo,MayoDa00,defense,WAS,0,5,5,100.0%,58,11.6,11.6,1,154.6,7.6,44,14,1,0,0,0,0,7,3,30.0%,202112260dal
+Jeremy Reaves,ReavJe00,defense,WAS,0,5,4,80.0%,66,16.5,13.2,0,118.7,13,57,9,0,0,0,0,0,10,0,0.0%,202112260dal
+Darryl Roberts,RobeDa00,defense,WAS,0,9,4,44.4%,82,20.5,9.1,0,77.1,13,17,65,0,0,0,0,0,4,0,0.0%,202112260dal
+Kamren Curl,CurlKa00,defense,WAS,0,3,2,66.7%,13,6.5,4.3,0,75.7,8.3,3,10,3,0,0,0,0,8,0,0.0%,202112260dal
+Jordan Kunaszyk,KunaJo00,defense,WAS,0,1,1,100.0%,9,9,9,1,143.7,3,3,6,0,0,0,0,0,2,0,0.0%,202112260dal
+Danny Johnson,JohnDa09,defense,WAS,0,3,1,33.3%,11,11,3.7,0,45.1,11.3,3,8,1,0,0,0,0,2,0,0.0%,202112260dal
+Daron Payne,PaynDa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,5,1,16.7%,202112260dal
+Matthew Ioannidis,IoanMa01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,0,0.0%,202112260dal
+Jonathan Allen,AlleJo01,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,1,50.0%,202112260dal
+De'Jon Harris,HarrDe10,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,1,1,1,1,50.0%,202112260dal
+Casey Toohill,ToohCa00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,0,0.0%,202112260dal
+Bunmi Rotimi,RotiBu00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202112260dal
+Shaka Toney,ToneSh00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202112260dal
+Montez Sweat,SweaMo00,defense,WAS,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202112260dal
+Keanu Neal,NealKe01,defense,DAL,0,6,5,83.3%,63,12.6,10.5,0,110.4,4.2,20,43,0,0,0,0,0,5,0,0.0%,202112260dal
+Anthony Brown,BrowAn02,defense,DAL,0,7,3,42.9%,18,6,2.6,1,89.9,3.7,-3,21,0,0,0,0,0,2,1,33.3%,202112260dal
+Damontae Kazee,KazeDa00,defense,DAL,0,2,2,100.0%,15,7.5,7.5,1,137.5,0.5,1,14,0,0,0,0,0,5,0,0.0%,202112260dal
+Trevon Diggs,DiggTr00,defense,DAL,1,5,2,40.0%,63,31.5,12.6,0,47.9,27,51,12,0,0,0,0,0,2,0,0.0%,202112260dal
+Nahshon Wright,WrigNa00,defense,DAL,0,1,1,100.0%,5,5,5,0,87.5,4,4,1,0,0,0,0,0,2,0,0.0%,202112260dal
+Darian Thompson,ThomDa05,defense,DAL,0,1,1,100.0%,19,19,19,0,118.7,19,19,0,1,0,0,0,0,2,0,0.0%,202112260dal
+Maurice Canady,CanaMa00,defense,DAL,0,1,1,100.0%,5,5,5,0,87.5,5,5,0,0,0,0,0,0,2,0,0.0%,202112260dal
+Micah Parsons,ParsMi00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,2,1,1,4,3,0,0.0%,202112260dal
+Tarell Basham,BashTa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0.5,2,3,0,0.0%,202112260dal
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,1,0,0.0%,202112260dal
+Jayron Kearse,KearJa00,defense,DAL,0,3,0,0.0%,NA,NA,0,NA,39.6,1.3,NA,NA,2,0,1,1,2,1,0,0.0%,202112260dal
+Osa Odighizuwa,OdigOs00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,2,66.7%,202112260dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,0,0.0%,202112260dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,4,1,20.0%,202112260dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202112260dal
+Chauncey Golston,GolsCh00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,202112260dal
+Kelvin Joseph,JoseKe02,defense,DAL,0,5,0,0.0%,NA,NA,0,NA,39.6,6.2,NA,NA,0,0,0,0,0,3,0,0.0%,202112260dal

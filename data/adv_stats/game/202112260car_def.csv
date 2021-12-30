@@ -1,0 +1,34 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Troy Warner,WarnTr00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,NA,0,NA,0,NA,202112260car
+Carlton Davis,DaviCa02,defense,TAM,0,8,5,62.5%,55,11,6.9,0,82.8,9,24,31,0,0,0,0,0,4,0,0.0%,202112260car
+Sean Murphy-Bunting,BuntSe00,defense,TAM,0,5,3,60.0%,23,7.7,4.6,0,71.2,12.4,11,12,4,0,0,0,0,4,0,0.0%,202112260car
+Jordan Whitehead,WhitJo03,defense,TAM,1,7,3,42.9%,12,4,1.7,0,10.7,7.7,7,5,4,0,0,0,0,7,0,0.0%,202112260car
+K.J. Britt,BritKJ00,defense,TAM,0,2,2,100.0%,12,6,6,0,91.7,1.5,3,9,2,0,1,0,1,2,0,0.0%,202112260car
+Devin White,WhitDe02,defense,TAM,0,2,2,100.0%,19,9.5,9.5,0,106.2,4.5,9,10,9,1,0,0,1,4,0,0.0%,202112260car
+Dee Delaney,DelaDe00,defense,TAM,0,4,2,50.0%,23,11.5,5.8,0,67.7,8,20,3,0,0,0,0,0,1,0,0.0%,202112260car
+Kevin Minter,MintKe00,defense,TAM,0,4,1,25.0%,2,2,0.5,0,39.6,9.8,0,2,3,0,0,1,1,5,0,0.0%,202112260car
+Jamel Dean,DeanJa00,defense,TAM,0,4,1,25.0%,10,10,2.5,0,39.6,14.5,9,1,0,0,0,0,0,2,0,0.0%,202112260car
+Ross Cockrell,CockRo00,defense,TAM,0,1,1,100.0%,18,18,18,0,118.7,-5,-5,23,1,0,0,0,0,2,0,0.0%,202112260car
+Rashard Robinson,RobiRa00,defense,TAM,0,1,1,100.0%,14,14,14,0,118.7,14,14,0,0,0,0,0,0,2,0,0.0%,202112260car
+William Gholston,GholWi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,2.5,4,3,0,0.0%,202112260car
+Steve McLendon,McLeSt00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0.5,2,1,0,0.0%,202112260car
+Shaquil Barrett,BarrSh00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,2,4,0,0.0%,202112260car
+Anthony Nelson,NelsAn01,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,-3,NA,NA,0,0,1,1,2,1,0,0.0%,202112260car
+Joe Tryon-Shoyinka,TryoJo00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,1,0,1,0,0,NA,202112260car
+Vita Vea,VeaxVi00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202112260car
+Grant Stuard,StuaGr00,defense,TAM,0,1,0,0.0%,NA,NA,0,NA,39.6,-2,NA,NA,1,0,0,0,0,4,0,0.0%,202112260car
+Cam Gill,GillCa00,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,202112260car
+Mike Edwards,EdwaMi01,defense,TAM,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,7,0,0.0%,202112260car
+Stephon Gilmore,GilmSt00,defense,CAR,0,9,6,66.7%,79,13.2,8.8,0,94.2,10.3,69,10,0,0,0,0,0,3,0,0.0%,202112260car
+Keith Taylor,TaylKe03,defense,CAR,0,4,3,75.0%,85,28.3,21.3,0,116.7,14,50,35,0,0,0,0,0,3,0,0.0%,202112260car
+C.J. Henderson,HendCJ00,defense,CAR,0,5,2,40.0%,17,8.5,3.4,0,49.6,11.2,7,10,0,0,0,0,0,3,2,40.0%,202112260car
+Myles Hartsfield,HartMy00,defense,CAR,0,5,2,40.0%,11,5.5,2.2,0,47.9,9.2,9,2,1,0,0,0,0,5,0,0.0%,202112260car
+Shaq Thompson,ThomSh01,defense,CAR,0,4,2,50.0%,26,13,6.5,0,70.8,3,8,18,6,0,0,0,0,8,0,0.0%,202112260car
+Jermaine Carter Jr.,CartJe00,defense,CAR,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,1,0,0,0,0,3,0,0.0%,202112260car
+Brian Burns,BurnBr00,defense,CAR,0,1,1,100.0%,7,7,7,0,95.8,0,0,7,0,0,0,0,0,3,0,0.0%,202112260car
+Kenny Robinson Jr.,RobiKe02,defense,CAR,0,1,1,100.0%,4,4,4,1,122.9,4,4,0,1,0,0,0,0,2,0,0.0%,202112260car
+Haason Reddick,ReddHa00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,1,0,1,3,0,0.0%,202112260car
+Frankie Luvu,LuvuFr00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,5,0,0.0%,202112260car
+Julian Stanford,StanJu00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202112260car
+Jeremy Chinn,ChinJe00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,5,0,0.0%,202112260car
+Juston Burris,BurrJu00,defense,CAR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202112260car

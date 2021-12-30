@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Josh Allen,AlleJo02,rushing,BUF,12,64,4,32,2.7,32,2.7,1,12,202112260nwe
+Devin Singletary,SingDe00,rushing,BUF,12,39,3,19,1.6,20,1.7,1,12,202112260nwe
+Zack Moss,MossZa00,rushing,BUF,3,12,1,7,2.3,5,1.7,0,NA,202112260nwe
+Isaiah McKenzie,McKeIs00,rushing,BUF,1,-1,0,-1,-1,0,0,0,NA,202112260nwe
+Damien Harris,HarrDa06,rushing,NWE,18,103,8,71,3.9,32,1.8,2,9,202112260nwe
+Mac Jones,JoneMa05,rushing,NWE,6,33,3,28,4.7,5,0.8,0,NA,202112260nwe
+Brandon Bolden,BoldBr00,rushing,NWE,2,4,0,1,0.5,3,1.5,0,NA,202112260nwe
+Gunner Olszewski,OlszGu00,rushing,NWE,1,9,NA,6,6,3,3,0,NA,202112260nwe

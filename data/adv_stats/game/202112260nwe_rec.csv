@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Isaiah McKenzie,McKeIs00,receiving,BUF,12,11,125,1,8,80,7.3,45,4.1,8.8,1,11,1,8.3,0,137.8,202112260nwe
+Stefon Diggs,DiggSt00,receiving,BUF,13,7,85,1,4,54,7.7,31,4.4,9.2,3,2.3,1,7.7,0,99.8,202112260nwe
+Devin Singletary,SingDe00,receiving,BUF,6,5,39,0,3,5,1,34,6.8,0.5,0,NA,0,0,0,93.7,202112260nwe
+Dawson Knox,KnoxDa00,receiving,BUF,3,2,11,1,2,5,2.5,6,3,2,0,NA,0,0,0,112.5,202112260nwe
+Emmanuel Sanders,SandEm00,receiving,BUF,4,2,20,0,1,13,6.5,7,3.5,4,0,NA,1,25,0,64.6,202112260nwe
+Reggie Gilliam,GillRe00,receiving,BUF,1,1,8,0,NA,-1,-1,9,9,-1,0,NA,0,0,0,100,202112260nwe
+Jake Kumerow,KumeJa00,receiving,BUF,3,1,13,0,1,9,9,4,4,11,0,NA,1,33.3,0,47.9,202112260nwe
+Zack Moss,MossZa00,receiving,BUF,1,1,13,0,1,2,2,11,11,2,0,NA,0,0,0,118.7,202112260nwe
+Jakobi Meyers,MeyeJa01,receiving,NWE,8,6,59,0,2,33,5.5,26,4.3,11.3,0,NA,0,0,1,55.7,202112260nwe
+Brandon Bolden,BoldBr00,receiving,NWE,5,2,20,0,1,6,3,14,7,3.4,0,NA,1,20,0,52.1,202112260nwe
+Kendrick Bourne,BourKe00,receiving,NWE,4,2,33,0,2,28,14,5,2.5,13.3,0,NA,0,0,0,78.1,202112260nwe
+N'Keal Harry,HarrNK00,receiving,NWE,6,2,15,0,1,1,0.5,14,7,14.7,0,NA,1,16.7,1,2.8,202112260nwe
+Hunter Henry,HenrHu00,receiving,NWE,6,1,9,0,NA,9,9,0,0,12.5,0,NA,0,0,0,39.6,202112260nwe
+Jakob Johnson,JohnJa12,receiving,NWE,1,1,9,0,1,4,4,5,5,4,0,NA,0,0,0,104.2,202112260nwe

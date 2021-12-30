@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Sony Michel,MichSo00,rushing,LAR,27,131,8,70,2.6,61,2.3,1,27,202112260min
+Matthew Stafford,StafMa00,rushing,LAR,3,8,2,6,2,2,0.7,0,NA,202112260min
+Jake Funk,FunkJa00,rushing,LAR,1,-1,NA,-1,-1,0,0,0,NA,202112260min
+Darrell Henderson,HendDa00,rushing,LAR,1,17,1,12,12,5,5,0,NA,202112260min
+Cooper Kupp,KuppCo00,rushing,LAR,1,4,0,2,2,2,2,0,NA,202112260min
+Alexander Mattison,MattAl01,rushing,MIN,13,41,5,13,1,28,2.2,2,6.5,202112260min
+Kene Nwangwu,NwanKe00,rushing,MIN,5,8,NA,3,0.6,5,1,0,NA,202112260min
+Kirk Cousins,CousKi00,rushing,MIN,4,17,0,15,3.8,2,0.5,0,NA,202112260min

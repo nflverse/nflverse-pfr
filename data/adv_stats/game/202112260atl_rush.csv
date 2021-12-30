@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jamaal Williams,WillJa06,rushing,DET,19,77,3,43,2.3,34,1.8,3,6.3,202112260atl
+Craig Reynolds,ReynCr00,rushing,DET,11,29,2,11,1,18,1.6,0,NA,202112260atl
+Amon-Ra St. Brown,StxxAm00,rushing,DET,2,19,1,15,7.5,4,2,0,NA,202112260atl
+Kalif Raymond,RaymKa00,rushing,DET,1,5,0,3,3,2,2,0,NA,202112260atl
+Mike Davis,DaviMi01,rushing,ATL,7,28,1,14,2,14,2,0,NA,202112260atl
+Cordarrelle Patterson,PattCo00,rushing,ATL,7,14,1,6,0.9,8,1.1,1,7,202112260atl
+Matt Ryan,RyanMa00,rushing,ATL,4,5,2,4,1,1,0.3,0,NA,202112260atl

@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Courtland Sutton,SuttCo00,receiving,DEN,5,4,33,0,1,31,7.8,2,0.5,11.8,0,NA,0,0,0,94.2,202112260rai
+Noah Fant,FantNo00,receiving,DEN,4,3,30,0,1,26,8.7,4,1.3,7,0,NA,0,0,0,95.8,202112260rai
+Jerry Jeudy,JeudJe00,receiving,DEN,4,3,60,0,1,39,13,21,7,12.3,0,NA,1,25,0,116.7,202112260rai
+Tim Patrick,PatrTi00,receiving,DEN,4,2,18,0,1,18,9,0,0,13.8,0,NA,1,25,0,62.5,202112260rai
+Javonte Williams,WillJa10,receiving,DEN,2,2,8,0,0,-4,-2,12,6,-2,0,NA,0,0,0,83.3,202112260rai
+Melvin Gordon,GordMe00,receiving,DEN,1,1,4,0,NA,-5,-5,9,9,-5,0,NA,0,0,0,83.3,202112260rai
+Albert Okwuegbunam,OkwuAl00,receiving,DEN,2,0,0,0,NA,0,NA,0,NA,32,0,NA,1,50,0,39.6,202112260rai
+Zay Jones,JoneZa00,receiving,LVR,8,6,50,0,3,32,5.3,18,3,6,1,6,0,0,0,90.6,202112260rai
+DeSean Jackson,JackDe00,receiving,LVR,5,4,44,0,2,30,7.5,14,3.5,7.2,0,NA,0,0,0,103.3,202112260rai
+Foster Moreau,MoreFo00,receiving,LVR,4,4,67,0,3,36,9,31,7.8,9,0,NA,0,0,0,118.7,202112260rai
+Hunter Renfrow,RenfHu00,receiving,LVR,3,3,40,1,3,38,12.7,2,0.7,12.7,0,NA,0,0,0,158.3,202112260rai
+Peyton Barber,BarbPe01,receiving,LVR,1,1,0,0,0,-5,-5,5,5,-5,0,NA,0,0,0,79.2,202112260rai
+Josh Jacobs,JacoJo01,receiving,LVR,3,1,-5,0,0,-5,-5,0,0,-4.7,0,NA,0,0,1,2.8,202112260rai
+Jalen Richard,RichJa01,receiving,LVR,1,1,5,0,0,2,2,3,3,2,0,NA,0,0,0,87.5,202112260rai

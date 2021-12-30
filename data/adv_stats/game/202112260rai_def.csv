@@ -1,0 +1,25 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Ronald Darby,DarbRo00,defense,DEN,0,7,5,71.4%,60,12,8.6,0,97.3,8.9,46,14,0,0,0,0,0,6,0,0.0%,202112260rai
+Patrick Surtain II,SurtPa01,defense,DEN,0,5,5,100.0%,55,11,11,0,112.5,7.2,36,19,0,0,0,0,0,4,0,0.0%,202112260rai
+Jonas Griffith,GrifJo01,defense,DEN,0,3,3,100.0%,15,5,5,0,87.5,1.7,5,10,2,0,0,0,0,13,1,7.1%,202112260rai
+Kareem Jackson,JackKa99,defense,DEN,0,3,3,100.0%,45,15,15,1,158.3,7.7,23,22,0,0,0,0,0,5,0,0.0%,202112260rai
+Bryce Callahan,CallBr00,defense,DEN,0,2,1,50.0%,18,18,9,0,81.2,7,14,4,1,1,0,0,1,2,2,50.0%,202112260rai
+Baron Browning,BrowBa01,defense,DEN,0,3,1,33.3%,5,5,1.7,0,42.4,1,2,3,1,0,0,0,0,9,1,10.0%,202112260rai
+Justin Simmons,SimmJu00,defense,DEN,0,1,1,100.0%,3,3,3,0,79.2,2,2,1,0,0,0,0,0,5,1,16.7%,202112260rai
+Shelby Harris,HarrSh00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1.5,3,5,0,0.0%,202112260rai
+Bradley Chubb,ChubBr00,defense,DEN,1,1,0,0.0%,NA,NA,0,NA,0,-4,NA,NA,2,1,1,0,2,5,2,28.6%,202112260rai
+Malik Reed,ReedMa01,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,0,0,1,4,2,33.3%,202112260rai
+Stephen Weatherly,WeatSt00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,4,0,0.0%,202112260rai
+Jonathon Cooper,CoopJo02,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202112260rai
+Desmond Trufant,TrufDe00,defense,LVR,0,10,7,70.0%,60,8.6,6,0,85.4,12.4,57,3,0,0,0,0,0,7,0,0.0%,202112260rai
+Denzel Perryman,PerrDe00,defense,LVR,0,5,3,60.0%,21,7,4.2,0,69.6,8.8,14,7,0,0,0,0,0,5,1,16.7%,202112260rai
+Casey Hayward,HaywCa00,defense,LVR,0,2,2,100.0%,27,13.5,13.5,0,118.7,13.5,27,0,0,0,0,0,0,2,0,0.0%,202112260rai
+Divine Deablo,DeabDi00,defense,LVR,0,1,1,100.0%,40,40,40,0,118.7,19,19,21,1,1,0,0,1,1,0,0.0%,202112260rai
+Keisean Nixon,NixoKe00,defense,LVR,0,2,1,50.0%,4,4,2,0,56.2,2.5,-5,9,4,0,0,0,0,3,1,25.0%,202112260rai
+Tyree Gillespie,GillTy00,defense,LVR,0,1,1,100.0%,1,1,1,0,79.2,-7,-7,8,0,0,0,0,0,1,0,0.0%,202112260rai
+Quinton Jefferson,JeffQu00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,2,0,0.0%,202112260rai
+Maxx Crosby,CrosMa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,0,0.0%,202112260rai
+Solomon Thomas,ThomSo00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202112260rai
+Yannick Ngakoue,NgakYa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202112260rai
+Cory Littleton,LittCo01,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202112260rai
+Dallin Leavitt,LeavDa00,defense,LVR,0,1,0,0.0%,NA,NA,0,NA,39.6,34,NA,NA,0,0,0,0,0,1,0,0.0%,202112260rai

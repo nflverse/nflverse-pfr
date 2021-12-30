@@ -1,0 +1,3 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Drew Lock,LockDr00,passing,DEN,15,22,153,4,16.7,246,11.2,105,7,4.8,48,3.2,3,13.6%,4,18.2%,2,3,3,1,6,24.0%,1,5,202112260rai
+Derek Carr,CarrDe02,passing,LVR,20,25,201,11,40.7,141,5.6,128,6.4,5.1,73,3.7,0,0.0%,3,12.0%,2,8,1,2,5,17.2%,2,4,202112260rai
