@@ -579,3 +579,5 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_16_WAS_DAL,202112260dal,2021,16,REG,DAL,WAS,Cooper Rush,RushCo00,0,0,0,0,0,0,0,0,0,0
 2021_16_WAS_DAL,202112260dal,2021,16,REG,WAS,DAL,Taylor Heinicke,HeinTa00,2,0.095,8,0.381,4,14,4,4,12,0.462
 2021_16_WAS_DAL,202112260dal,2021,16,REG,WAS,DAL,Kyle Allen,AlleKy00,0,0,1,0.1,1,2,2,0,3,0.273
+2021_16_MIA_NO,202112270nor,2021,16,REG,NO,MIA,Ian Book,BookIa00,2,0.111,3,0.167,8,15,5,4,17,0.567
+2021_16_MIA_NO,202112270nor,2021,16,REG,MIA,NO,Tua Tagovailoa,TagoTu00,0,0,6,0.231,2,6,2,1,5,0.172
