@@ -39,7 +39,7 @@ pfr_game_adv_stats <- function(game_id){
 
   raw_table <- rvest::html_table(raw_adv_html) %>%
     janitor::clean_names() %>%
-    dplyr::filter(tm != "Tm")
+    dplyr::filter(tm != "Tm", player != "")
 
   raw_players <- raw_adv_html %>%
     rvest::html_nodes("a") %>%
