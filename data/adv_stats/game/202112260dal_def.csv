@@ -2,8 +2,8 @@ player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_comple
 Osirus Mitchell,MitcOs00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,0,NA,1,NA,202112260dal
 Kendall Fuller,FullKe00,defense,WAS,0,8,6,75.0%,59,9.8,7.4,1,134.9,9.9,39,20,0,0,0,0,0,5,0,0.0%,202112260dal
 Bobby McCain,McCaBo01,defense,WAS,0,6,6,100.0%,101,16.8,16.8,1,158.3,12.7,76,25,0,0,0,0,0,10,0,0.0%,202112260dal
-David Mayo,MayoDa00,defense,WAS,0,5,5,100.0%,58,11.6,11.6,1,154.6,7.6,44,14,1,0,0,0,0,7,3,30.0%,202112260dal
-Jeremy Reaves,ReavJe00,defense,WAS,0,5,4,80.0%,66,16.5,13.2,0,118.7,13,57,9,0,0,0,0,0,10,0,0.0%,202112260dal
+David Mayo,MayoDa00,defense,WAS,0,5,5,100.0%,58,11.6,11.6,1,154.6,7.6,44,14,1,0,0,0,0,8,3,27.3%,202112260dal
+Jeremy Reaves,ReavJe00,defense,WAS,0,5,4,80.0%,66,16.5,13.2,0,118.7,13,57,9,0,0,0,0,0,11,0,0.0%,202112260dal
 Darryl Roberts,RobeDa00,defense,WAS,0,9,4,44.4%,82,20.5,9.1,0,77.1,13,17,65,0,0,0,0,0,4,0,0.0%,202112260dal
 Kamren Curl,CurlKa00,defense,WAS,0,3,2,66.7%,13,6.5,4.3,0,75.7,8.3,3,10,3,0,0,0,0,8,0,0.0%,202112260dal
 Jordan Kunaszyk,KunaJo00,defense,WAS,0,1,1,100.0%,9,9,9,1,143.7,3,3,6,0,0,0,0,0,2,0,0.0%,202112260dal
@@ -32,4 +32,4 @@ Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,1,1,
 Leighton Vander Esch,VandLe00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,0,0,1,4,1,20.0%,202112260dal
 DeMarcus Lawrence,LawrDe00,defense,DAL,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202112260dal
 Chauncey Golston,GolsCh00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,202112260dal
-Kelvin Joseph,JoseKe02,defense,DAL,0,5,0,0.0%,NA,NA,0,NA,39.6,6.2,NA,NA,0,0,0,0,0,3,0,0.0%,202112260dal
+Kelvin Joseph,JoseKe02,defense,DAL,0,4,0,0.0%,NA,NA,0,NA,39.6,6.8,NA,NA,0,0,0,0,0,3,0,0.0%,202112260dal

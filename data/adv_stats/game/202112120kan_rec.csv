@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Hunter Renfrow,RenfHu00,receiving,LVR,14,13,117,1,5,47,3.6,70,5.4,3.9,0,NA,0,0,0,125.3,202112120kan
+Josh Jacobs,JacoJo01,receiving,LVR,6,5,46,0,2,-3,-0.6,49,9.8,-1,1,5,1,16.7,0,98.6,202112120kan
+Zay Jones,JoneZa00,receiving,LVR,7,5,25,0,2,12,2.4,13,2.6,5.4,0,NA,1,14.3,0,76.5,202112120kan
+Foster Moreau,MoreFo00,receiving,LVR,6,3,13,0,1,2,0.7,11,3.7,5.5,1,3,2,33.3,1,16.7,202112120kan
+Peyton Barber,BarbPe01,receiving,LVR,3,2,13,0,1,-3,-1.5,16,8,-0.7,2,1,1,33.3,0,75.7,202112120kan
+Bryan Edwards,EdwaBr01,receiving,LVR,3,2,24,0,1,12,6,12,6,12,0,NA,0,0,0,91,202112120kan
+Trey Ragas,RagaTr00,receiving,LVR,2,2,6,0,0,-7,-3.5,13,6.5,-3.5,0,NA,0,0,0,79.2,202112120kan
+DeSean Jackson,JackDe00,receiving,LVR,2,1,19,0,1,14,14,5,5,21,0,NA,0,0,0,83.3,202112120kan
+Tyreek Hill,HillTy00,receiving,KAN,4,4,76,0,2,62,15.5,14,3.5,15.5,1,4,0,0,0,118.7,202112120kan
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,3,3,5,0,0,-12,-4,17,5.7,-4,0,NA,0,0,0,79.2,202112120kan
+Travis Kelce,KelcTr00,receiving,KAN,4,3,27,0,3,12,4,15,5,5.3,0,NA,0,0,0,92.7,202112120kan
+Darrel Williams,WillDa10,receiving,KAN,3,3,31,1,1,-2,-0.7,33,11,-0.7,0,NA,0,0,0,149.3,202112120kan
+Josh Gordon,GordJo02,receiving,KAN,3,2,9,1,1,6,3,3,1.5,4,0,NA,0,0,0,109.7,202112120kan
+Derrick Gore,GoreDe00,receiving,KAN,2,2,23,0,1,-6,-3,29,14.5,-3,0,NA,0,0,0,114.6,202112120kan
+Mecole Hardman,HardMe00,receiving,KAN,2,2,59,0,2,44,22,15,7.5,22,0,NA,0,0,0,118.7,202112120kan
+Byron Pringle,PrinBy00,receiving,KAN,1,1,28,0,1,11,11,17,17,11,0,NA,0,0,0,118.7,202112120kan

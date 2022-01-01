@@ -1,6 +1,6 @@
 player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
 Nick Chubb,ChubNi00,rushing,CLE,17,126,7,77,4.5,49,2.9,2,8.5,202112250gnb
-D'Ernest Johnson,JohnDE04,rushing,CLE,4,58,2,35,8.8,23,5.8,2,2,202112250gnb
+D'Ernest Johnson,JohnDE04,rushing,CLE,4,58,2,35,8.8,23,5.8,1,4,202112250gnb
 Baker Mayfield,MayfBa00,rushing,CLE,2,11,1,11,5.5,0,0,0,NA,202112250gnb
 Anthony Schwartz,SchwAn00,rushing,CLE,2,24,2,21,10.5,3,1.5,0,NA,202112250gnb
 Aaron Jones,JoneAa00,rushing,GNB,12,66,4,28,2.3,38,3.2,4,3,202112250gnb

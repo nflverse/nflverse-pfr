@@ -1,0 +1,36 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Khalen Saunders,SaunKh00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,0,NA,1,NA,202112120kan
+Johnathan Abram,AbraJo01,defense,LVR,0,7,7,100.0%,79,11.3,11.3,0,113.7,5.6,39,40,0,0,0,0,0,10,0,0.0%,202112120kan
+Trayvon Mullen,MullTr00,defense,LVR,0,3,3,100.0%,54,18,18,1,158.3,11.7,35,19,0,0,0,0,0,4,0,0.0%,202112120kan
+Cory Littleton,LittCo01,defense,LVR,0,3,3,100.0%,52,17.3,17.3,1,158.3,3.7,11,41,0,0,0,0,0,1,1,50.0%,202112120kan
+Divine Deablo,DeabDi00,defense,LVR,0,1,1,100.0%,2,2,2,0,79.2,-6,-6,8,1,0,0,0,0,10,0,0.0%,202112120kan
+Johnathan Hankins,HankJo00,defense,LVR,0,1,1,100.0%,3,3,3,0,79.2,-1,-1,4,0,0,0,0,0,4,0,0.0%,202112120kan
+K.J. Wright,WrigK.00,defense,LVR,0,1,1,100.0%,1,1,1,0,79.2,-1,-1,2,0,0,0,0,0,4,0,0.0%,202112120kan
+Brandon Facyson,FacyBr00,defense,LVR,0,2,1,50.0%,8,8,4,0,60.4,6,6,2,0,0,0,0,0,2,0,0.0%,202112120kan
+Trevon Moehrig,MoehTr00,defense,LVR,0,1,1,100.0%,38,38,38,0,118.7,37,37,1,0,0,0,0,0,3,0,0.0%,202112120kan
+Nate Hobbs,HobbNa00,defense,LVR,0,1,1,100.0%,5,5,5,0,87.5,-1,-1,6,0,0,0,0,0,3,1,25.0%,202112120kan
+Malcolm Koonce,KoonMa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202112120kan
+Quinton Jefferson,JeffQu00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,4,0,0.0%,202112120kan
+Maxx Crosby,CrosMa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,202112120kan
+Clelin Ferrell,FerrCl00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202112120kan
+Yannick Ngakoue,NgakYa00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,2,0,0.0%,202112120kan
+Javin White,WhitJa04,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202112120kan
+Roderic Teamer,TeamRo00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202112120kan
+Dallin Leavitt,LeavDa00,defense,LVR,0,1,0,0.0%,NA,NA,0,NA,39.6,9,NA,NA,0,0,0,0,0,0,0,NA,202112120kan
+Solomon Thomas,ThomSo00,defense,LVR,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202112120kan
+Mike Hughes,HughMi00,defense,KAN,0,10,7,70.0%,57,8.1,5.7,0,84.2,6.8,31,26,0,0,0,0,0,9,0,0.0%,202112120kan
+Rashad Fenton,FentRa00,defense,KAN,0,5,5,100.0%,46,9.2,9.2,0,105,0.8,4,42,3,0,0,0,0,4,0,0.0%,202112120kan
+Charvarius Ward,WardCh01,defense,KAN,0,6,4,66.7%,35,8.8,5.8,1,121.5,11,20,15,1,0,0,0,0,3,1,25.0%,202112120kan
+Deandre Baker,BakeDe00,defense,KAN,0,3,3,100.0%,19,6.3,6.3,0,93.1,-0.7,-2,21,0,0,0,0,0,3,1,25.0%,202112120kan
+Tyrann Mathieu,MathTy00,defense,KAN,1,4,3,75.0%,12,4,3,0,37.5,0.3,-3,15,3,0,0,0,0,5,0,0.0%,202112120kan
+Nick Bolton,BoltNi00,defense,KAN,0,2,2,100.0%,22,11,11,0,112.5,0,0,22,1,1,0,0,1,6,0,0.0%,202112120kan
+Armani Watts,WattAr00,defense,KAN,0,2,2,100.0%,7,3.5,3.5,0,81.2,1,2,5,0,0,0,0,0,4,0,0.0%,202112120kan
+Juan Thornhill,ThorJu00,defense,KAN,0,2,2,100.0%,13,6.5,6.5,0,93.7,-1,-2,15,1,0,0,0,0,0,1,100.0%,202112120kan
+Willie Gay Jr.,GayJWi00,defense,KAN,0,2,2,100.0%,23,11.5,11.5,0,114.6,4,8,15,1,0,0,0,0,5,0,0.0%,202112120kan
+Daniel Sorensen,SoreDa01,defense,KAN,0,4,2,50.0%,27,13.5,6.8,0,71.9,11.8,18,9,2,0,0,0,0,1,0,0.0%,202112120kan
+Michael Danna,DannMi00,defense,KAN,0,2,1,50.0%,2,2,1,0,56.2,-2.5,-2,4,1,0,1,0,1,1,0,0.0%,202112120kan
+Alex Okafor,OkafAl00,defense,KAN,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,0,1,1,1.5,4,3,0,0.0%,202112120kan
+Frank Clark,ClarFr01,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,3,0.5,4,1,0,0.0%,202112120kan
+Chris Jones,JoneCh09,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,1,0,0.0%,202112120kan
+Tershawn Wharton,WharTe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,2,3,0,0.0%,202112120kan
+Melvin Ingram,IngrMe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,1,0,0.0%,202112120kan

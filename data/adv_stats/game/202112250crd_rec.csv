@@ -1,14 +1,14 @@
 player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
 Michael Pittman Jr.,PittMi01,receiving,IND,12,8,82,0,5,40,5,42,5.3,5.3,0,NA,1,8.3,0,86.1,202112250crd
-T.Y. Hilton,HiltT.00,receiving,IND,5,4,51,1,3,40,10,11,2.8,12,0,NA,0,0,0,148.7,202112250crd
+T.Y. Hilton,HiltT.00,receiving,IND,5,4,51,1,3,38,9.5,13,3.3,12.2,0,NA,0,0,0,148.7,202112250crd
 Mo Alie-Cox,AlieMo00,receiving,IND,4,2,42,0,1,10,5,32,16,3.3,1,2,0,0,0,87.5,202112250crd
-Ashton Dulin,DuliAs00,receiving,IND,2,1,23,0,1,23,23,0,0,11.5,0,NA,1,50,0,91.7,202112250crd
+Ashton Dulin,DuliAs00,receiving,IND,2,1,23,0,1,23,23,0,0,14,0,NA,1,50,0,91.7,202112250crd
 Kylen Granson,GranKy00,receiving,IND,1,1,6,0,NA,6,6,0,0,6,0,NA,0,0,0,91.7,202112250crd
 Nyheim Hines,HineNy00,receiving,IND,1,1,7,0,NA,7,7,0,0,7,0,NA,0,0,0,95.8,202112250crd
 Dezmon Patmon,PatmDe00,receiving,IND,1,1,14,1,1,14,14,0,0,14,0,NA,0,0,0,158.3,202112250crd
 Jonathan Taylor,TaylJo02,receiving,IND,2,0,0,0,0,0,NA,0,NA,0.5,0,NA,1,50,0,39.6,202112250crd
-Chase Edmonds,EdmoCh00,receiving,ARI,9,8,71,0,3,4,0.5,67,8.4,0.9,1,8,0,0,0,99.5,202112250crd
-Zach Ertz,ErtzZa00,receiving,ARI,13,8,54,0,4,13,1.6,41,5.1,5.6,0,NA,0,0,0,70.7,202112250crd
+Chase Edmonds,EdmoCh00,receiving,ARI,9,8,71,0,3,5,0.6,66,8.3,1,1,8,0,0,0,99.5,202112250crd
+Zach Ertz,ErtzZa00,receiving,ARI,13,8,54,0,4,20,2.5,34,4.3,6.2,0,NA,0,0,0,70.7,202112250crd
 Christian Kirk,KirkCh01,receiving,ARI,9,7,48,0,3,42,6,6,0.9,10.1,0,NA,1,11.1,0,88.9,202112250crd
 Antoine Wesley,WeslAn01,receiving,ARI,4,2,29,1,1,23,11.5,6,3,11.8,0,NA,0,0,0,113.5,202112250crd
 A.J. Green,GreeA.00,receiving,ARI,3,1,33,0,1,20,20,13,13,15.3,0,NA,0,0,0,75.7,202112250crd
