@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Kyler Murray,MurrKy00,passing,ARI,26,38,263,11,28.2,339,8.9,153,5.9,4,110,4.2,0,0.0%,6,16.7%,1,16,3,3,7,17.5%,1,2,202201020dal
+Chris Banjo,BanjCh00,passing,ARI,1,1,23,1,100,19,19,19,19,19,4,4,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202201020dal
+Dak Prescott,PresDa01,passing,DAL,24,38,226,14,35.9,186,4.9,117,4.9,3.1,109,4.5,3,8.1%,4,10.8%,1,17,3,5,9,21.4%,3,5.7,202201020dal
+Cedrick Wilson Jr.,WilsCe01,passing,DAL,1,1,31,1,100,15,15,15,15,15,16,16,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202201020dal

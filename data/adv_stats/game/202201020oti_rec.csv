@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Mike Gesicki,GesiMi00,receiving,MIA,7,4,51,0,3,43,10.8,8,2,13.1,0,NA,1,14.3,1,40.5,202201020oti
+DeVante Parker,ParkDe01,receiving,MIA,13,4,46,0,4,40,10,6,1.5,12,0,NA,0,0,0,42.5,202201020oti
+Durham Smythe,SmytDu00,receiving,MIA,3,3,37,0,2,14,4.7,23,7.7,4.7,0,NA,0,0,0,118.1,202201020oti
+Jaylen Waddle,WaddJa00,receiving,MIA,7,3,47,0,1,34,11.3,13,4.3,9,0,NA,1,14.3,0,65.8,202201020oti
+Duke Johnson,JohnDu00,receiving,MIA,3,2,16,0,1,3,1.5,13,6.5,1.7,0,NA,1,33.3,0,79.9,202201020oti
+Isaiah Ford,FordIs00,receiving,MIA,2,1,0,0,NA,-3,-3,3,3,4.5,0,NA,0,0,0,56.2,202201020oti
+Phillip Lindsay,LindPh00,receiving,MIA,1,1,8,0,NA,-1,-1,9,9,-1,0,NA,0,0,0,100,202201020oti
+Myles Gaskin,GaskMy00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,28,0,NA,0,0,0,39.6,202201020oti
+Mack Hollins,HollMa00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,15,0,NA,0,0,0,39.6,202201020oti
+Anthony Firkser,FirkAn00,receiving,TEN,3,3,24,1,1,21,7,3,1,7,0,NA,0,0,0,139.6,202201020oti
+Dontrell Hilliard,HillDo00,receiving,TEN,3,3,33,0,1,-11,-3.7,44,14.7,-3.7,0,NA,0,0,0,112.5,202201020oti
+Geoff Swaim,SwaiGe00,receiving,TEN,3,3,9,1,2,-1,-0.3,10,3.3,-0.3,0,NA,0,0,0,118.7,202201020oti
+A.J. Brown,BrowAJ00,receiving,TEN,5,2,41,0,2,31,15.5,10,5,17.6,0,NA,1,20,0,69.6,202201020oti
+Chester Rogers,RogeCh02,receiving,TEN,2,2,13,0,1,4,2,9,4.5,2,0,NA,0,0,0,93.7,202201020oti
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,2,0,0,0,NA,0,NA,0,NA,16.5,0,NA,1,50,0,39.6,202201020oti

@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Sony Michel,MichSo00,rushing,LAR,19,74,6,36,1.9,38,2,0,NA,202201020rav
+Matthew Stafford,StafMa00,rushing,LAR,1,-1,0,-1,-1,0,0,0,NA,202201020rav
+Devonta Freeman,FreeDe00,rushing,BAL,14,76,3,57,4.1,19,1.4,0,NA,202201020rav
+Latavius Murray,MurrLa00,rushing,BAL,11,31,3,18,1.6,13,1.2,0,NA,202201020rav
+Tyler Huntley,HuntTy01,rushing,BAL,6,54,4,45,7.5,9,1.5,0,NA,202201020rav
+Devin Duvernay,DuveDe00,rushing,BAL,1,4,NA,4,4,0,0,0,NA,202201020rav

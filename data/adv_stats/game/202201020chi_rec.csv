@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Devontae Booker,BookDe00,receiving,NYG,3,2,0,0,0,-11,-5.5,11,5.5,-0.3,0,NA,0,0,0,70.1,202201020chi
+Evan Engram,EngrEv00,receiving,NYG,2,1,12,0,1,-1,-1,13,13,1.5,0,NA,1,50,0,68.7,202201020chi
+David Sills,SillDa01,receiving,NYG,1,1,12,0,1,12,12,0,0,12,0,NA,0,0,0,116.7,202201020chi
+Saquon Barkley,BarkSa00,receiving,NYG,1,0,0,0,0,0,NA,0,NA,-6,0,NA,0,0,0,39.6,202201020chi
+Pharoh Cooper,CoopPh00,receiving,NYG,2,0,0,0,NA,0,NA,0,NA,7.5,0,NA,0,0,1,0,202201020chi
+Kenny Golladay,GollKe00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,1,0,202201020chi
+Kyle Rudolph,RudoKy00,receiving,NYG,1,0,0,0,NA,0,NA,0,NA,14,0,NA,0,0,0,39.6,202201020chi
+Darnell Mooney,MoonDa00,receiving,CHI,13,7,69,1,4,35,5,34,4.9,10.7,0,NA,1,7.7,0,94.7,202201020chi
+Allen Robinson,RobiAl02,receiving,CHI,6,4,35,0,3,20,5,15,3.8,7.7,0,NA,0,0,1,42.4,202201020chi
+Cole Kmet,KmetCo00,receiving,CHI,5,3,25,0,1,5,1.7,20,6.7,3.2,0,NA,0,0,1,33.3,202201020chi
+David Montgomery,MontDa01,receiving,CHI,2,2,17,0,1,6,3,11,5.5,3,0,NA,0,0,0,102.1,202201020chi
+Damiere Byrd,ByrdDa00,receiving,CHI,2,1,23,0,1,17,17,6,6,7.5,0,NA,0,0,0,91.7,202201020chi
+Jesse James,JameJe00,receiving,CHI,1,1,4,0,NA,3,3,1,1,3,0,NA,0,0,0,83.3,202201020chi
+Marquise Goodwin,GoodMa00,receiving,CHI,2,0,0,0,NA,0,NA,0,NA,6.5,0,NA,0,0,0,39.6,202201020chi
+Jimmy Graham,GrahJi00,receiving,CHI,1,0,0,0,NA,0,NA,0,NA,25,0,NA,0,0,0,39.6,202201020chi
+Damien Williams,WillDa05,receiving,CHI,1,0,0,0,NA,0,NA,0,NA,5,0,NA,0,0,0,39.6,202201020chi

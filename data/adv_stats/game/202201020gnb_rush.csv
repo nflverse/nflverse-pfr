@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Dalvin Cook,CookDa01,rushing,MIN,9,13,NA,13,1.4,0,0,0,NA,202201020gnb
+Sean Mannion,MannSe00,rushing,MIN,2,14,2,11,5.5,3,1.5,0,NA,202201020gnb
+AJ Dillon,DillAJ00,rushing,GNB,14,63,5,41,2.9,22,1.6,1,14,202201020gnb
+Aaron Jones,JoneAa00,rushing,GNB,8,76,2,49,6.1,27,3.4,1,8,202201020gnb
+Patrick Taylor,TaylPa01,rushing,GNB,6,18,1,14,2.3,4,0.7,1,6,202201020gnb
+Jordan Love,LoveJo03,rushing,GNB,2,9,1,9,4.5,0,0,0,NA,202201020gnb
+Aaron Rodgers,RodgAa00,rushing,GNB,2,8,2,8,4,0,0,0,NA,202201020gnb

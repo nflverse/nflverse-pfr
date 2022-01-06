@@ -1,0 +1,31 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Kris Boyd,BoydKr00,defense,MIN,0,9,8,88.9%,100,12.5,11.1,1,150,10.2,73,27,0,0,0,0,0,6,0,0.0%,202201020gnb
+Eric Kendricks,KendEr00,defense,MIN,0,5,4,80.0%,18,4.5,3.6,0,81.7,-0.2,-2,20,6,1,0,0,1,9,2,18.2%,202201020gnb
+Xavier Woods,WoodXa00,defense,MIN,0,6,4,66.7%,34,8.5,5.7,0,81.2,7.2,21,13,2,0,0,0,0,8,0,0.0%,202201020gnb
+Mackensie Alexander,AlexMa01,defense,MIN,0,4,3,75.0%,49,16.3,12.3,1,155.2,12.8,41,8,1,0,0,0,0,4,0,0.0%,202201020gnb
+Harrison Smith,SmitHa00,defense,MIN,0,4,3,75.0%,40,13.3,10,0,106.2,6.8,19,21,5,0,0,0,0,8,2,20.0%,202201020gnb
+Anthony Barr,BarrAn00,defense,MIN,0,3,2,66.7%,12,6,4,0,74.3,0.7,3,9,5,1,0,0,1,9,1,10.0%,202201020gnb
+Tye Smith,SmitTy01,defense,MIN,0,2,2,100.0%,7,3.5,3.5,0,81.2,2,4,3,0,0,0,0,0,4,0,0.0%,202201020gnb
+D.J. Wonnum,WonnDJ00,defense,MIN,0,1,1,100.0%,6,6,6,0,91.7,-4,-4,10,0,2,0,0,2,2,0,0.0%,202201020gnb
+Camryn Bynum,BynuCa00,defense,MIN,0,1,1,100.0%,15,15,15,0,118.7,-1,-1,16,1,0,0,0,0,3,1,25.0%,202201020gnb
+Patrick Peterson,PetePa00,defense,MIN,0,5,1,20.0%,13,13,2.6,0,39.6,9.6,13,0,0,0,0,0,0,4,1,20.0%,202201020gnb
+Blake Lynch,LyncBl00,defense,MIN,0,1,1,100.0%,9,9,9,0,104.2,2,2,7,0,0,0,0,0,2,0,0.0%,202201020gnb
+Sheldon Richardson,RichSh00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,3,0,0.0%,202201020gnb
+Dalvin Tomlinson,TomlDa00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202201020gnb
+Kenny Willekes,WillKe06,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,5,0,0.0%,202201020gnb
+T.Y. McGill,McGiT.00,defense,MIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,2,100.0%,202201020gnb
+Chandon Sullivan,SullCh00,defense,GNB,0,6,6,100.0%,53,8.8,8.8,0,103.5,3.8,23,30,0,0,0,0,0,4,0,0.0%,202201020gnb
+De'Vondre Campbell,CampDe00,defense,GNB,0,4,3,75.0%,9,3,2.3,0,77.1,2.5,6,3,1,0,0,0,0,8,0,0.0%,202201020gnb
+Krys Barnes,BarnKr00,defense,GNB,0,4,2,50.0%,2,1,0.5,0,56.2,2.3,-4,6,2,0,0,0,0,5,0,0.0%,202201020gnb
+Rasul Douglas,DougRa00,defense,GNB,0,5,2,40.0%,13,6.5,2.6,0,47.9,1.2,12,1,0,0,0,0,0,3,0,0.0%,202201020gnb
+Adrian Amos,AmosAd00,defense,GNB,0,4,2,50.0%,17,8.5,4.3,0,61.5,7.8,8,9,0,0,0,0,0,4,0,0.0%,202201020gnb
+Shemar Jean-Charles,JeanSh00,defense,GNB,0,2,2,100.0%,8,4,4,0,83.3,-2.5,-5,13,0,0,0,0,0,1,0,0.0%,202201020gnb
+Preston Smith,SmitPr00,defense,GNB,0,2,1,50.0%,12,12,6,0,68.7,3.5,4,8,3,0,0,1,1,4,0,0.0%,202201020gnb
+Jonathan Garvin,GarvJo00,defense,GNB,0,1,1,100.0%,-1,-1,-1,0,79.2,-4,-4,3,1,0,0,0,0,0,0,NA,202201020gnb
+Eric Stokes,StokEr00,defense,GNB,0,4,1,25.0%,10,10,2.5,0,39.6,13.8,5,5,1,0,0,0,0,4,0,0.0%,202201020gnb
+Darnell Savage Jr.,SavaDa00,defense,GNB,0,2,1,50.0%,14,14,7,1,112.5,25.5,14,0,0,0,0,0,0,0,0,NA,202201020gnb
+Kevin King,KingKe01,defense,GNB,0,1,1,100.0%,6,6,6,0,91.7,5,5,1,0,0,0,0,0,2,0,0.0%,202201020gnb
+Isaac Yiadom,YiadIs00,defense,GNB,0,1,1,100.0%,30,30,30,0,118.7,30,30,0,0,0,0,0,0,1,0,0.0%,202201020gnb
+Rashan Gary,GaryRa00,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2,3,1,6,2,0,0.0%,202201020gnb
+Dean Lowry,LowrDe00,defense,GNB,0,1,0,0.0%,6,NA,6,0,52.1,5,5,1,0,3,0,0,3,1,0,0.0%,202201020gnb
+Tipa Galeai,GaleTi01,defense,GNB,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,1,0,0.0%,202201020gnb

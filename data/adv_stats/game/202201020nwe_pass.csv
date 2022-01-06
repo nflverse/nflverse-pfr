@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Trevor Lawrence,LawrTr00,passing,JAX,17,27,193,8,27.6,194,7.2,113,6.6,4.2,80,4.7,0,0.0%,4,14.8%,2,4,1,1,4,12.9%,2,8,202201020nwe
+Mac Jones,JoneMa05,passing,NWE,22,30,227,13,43.3,237,7.9,127,5.8,4.2,100,4.5,2,6.9%,2,6.9%,0,15,2,0,2,6.5%,1,10,202201020nwe
+Brian Hoyer,HoyeBr00,passing,NWE,3,4,63,2,50,11,2.8,6,2,1.5,57,19,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,202201020nwe

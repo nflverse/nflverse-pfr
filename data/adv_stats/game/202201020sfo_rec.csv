@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Brandin Cooks,CookBr00,receiving,HOU,11,7,66,1,3,50,7.1,16,2.3,10,1,7,1,9.1,0,110.4,202201020sfo
+Rex Burkhead,BurkRe00,receiving,HOU,6,6,32,0,0,8,1.3,24,4,1.3,0,NA,0,0,0,88.9,202201020sfo
+Jaylen Samuels,SamuJa00,receiving,HOU,3,3,14,0,1,-3,-1,17,5.7,-1,0,NA,0,0,0,86.1,202201020sfo
+Nico Collins,CollNi00,receiving,HOU,5,2,35,0,2,35,17.5,0,0,9.6,0,NA,0,0,0,64.6,202201020sfo
+Pharaoh Brown,BrowPh01,receiving,HOU,1,1,9,0,NA,4,4,5,5,4,0,NA,0,0,0,104.2,202201020sfo
+Chris Conley,ConlCh00,receiving,HOU,2,1,-2,0,0,-2,-2,0,0,1.5,0,NA,0,0,1,16.7,202201020sfo
+Brevin Jordan,JordBr00,receiving,HOU,1,1,9,0,NA,3,3,6,6,3,0,NA,0,0,0,104.2,202201020sfo
+Royce Freeman,FreeRo00,receiving,HOU,1,0,0,0,0,0,NA,0,NA,0,0,NA,0,0,0,39.6,202201020sfo
+Brandon Aiyuk,AiyuBr00,receiving,SFO,6,4,94,0,3,54,13.5,40,10,16,1,4,0,0,0,109.7,202201020sfo
+Deebo Samuel,SamuDe00,receiving,SFO,6,3,63,1,2,36,12,27,9,11.3,0,NA,0,0,0,127.1,202201020sfo
+Jauan Jennings,JennJa00,receiving,SFO,2,2,25,0,1,25,12.5,0,0,12.5,0,NA,0,0,0,118.7,202201020sfo
+Kyle Juszczyk,JuszKy00,receiving,SFO,2,2,9,0,NA,4,2,5,2.5,2,0,NA,0,0,0,85.4,202201020sfo
+Elijah Mitchell,MitcEl00,receiving,SFO,2,2,11,1,1,4,2,7,3.5,2,0,NA,0,0,0,129.2,202201020sfo
+Jamycal Hasty,HastJa02,receiving,SFO,1,1,6,0,1,1,1,5,5,1,0,NA,0,0,0,91.7,202201020sfo
+George Kittle,KittGe00,receiving,SFO,2,1,29,0,1,27,27,2,2,24.5,0,NA,0,0,1,56.2,202201020sfo
+Trent Sherfield,SherTr00,receiving,SFO,2,1,12,0,1,11,11,1,1,10,0,NA,0,0,0,68.7,202201020sfo

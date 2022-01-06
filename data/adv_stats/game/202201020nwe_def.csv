@@ -1,0 +1,33 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Chris Claybrooks,ClayCh02,defense,JAX,0,9,6,66.7%,46,7.7,5.1,0,78.9,9.9,36,10,0,0,0,0,0,9,0,0.0%,202201020nwe
+Myles Jack,JackMy00,defense,JAX,0,5,5,100.0%,53,10.6,10.6,0,110.8,4.2,21,32,4,0,0,0,0,6,0,0.0%,202201020nwe
+Tyson Campbell,CampTy01,defense,JAX,0,5,5,100.0%,50,10,10,1,147.9,4.6,23,27,0,0,0,0,0,4,2,33.3%,202201020nwe
+Andre Cisco,CiscAn00,defense,JAX,0,4,3,75.0%,46,15.3,11.5,1,152.1,20.3,39,7,3,0,0,0,0,6,1,14.3%,202201020nwe
+Tre Herndon,HernTr00,defense,JAX,0,2,2,100.0%,12,6,6,1,131.2,3.5,7,5,3,0,0,0,0,1,1,50.0%,202201020nwe
+Daniel Thomas,ThomDa07,defense,JAX,0,2,1,50.0%,8,8,4,0,60.4,10,7,1,1,0,0,0,0,8,0,0.0%,202201020nwe
+Jamir Jones,JoneJa11,defense,JAX,0,1,1,100.0%,20,20,20,0,118.7,-3,-3,23,3,0,0,0,0,2,0,0.0%,202201020nwe
+Ryquell Armstead,ArmsRy00,defense,JAX,0,1,1,100.0%,46,46,46,0,118.7,-1,-1,47,0,0,0,0,0,0,0,NA,202201020nwe
+Damien Wilson,WilsDa02,defense,JAX,0,3,1,33.3%,9,9,3,0,42.4,4.3,4,5,5,0,0,0,0,2,2,50.0%,202201020nwe
+Shaquille Quarterman,QuarSh00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,6,0,0.0%,202201020nwe
+Roy Robertson-Harris,RobeRo00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,3,1,25.0%,202201020nwe
+Adam Gotsis,GotsAd00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,0,0.0%,202201020nwe
+Bradley McDougald,McDoBr01,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202201020nwe
+Josh Allen,AlleJo03,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,0,0,0,6,0,0.0%,202201020nwe
+Chapelle Russell,RussCh00,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,0,0,NA,202201020nwe
+Jihad Ward,WardJi02,defense,JAX,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,4,0,0.0%,202201020nwe
+J.C. Jackson,JackJ.00,defense,NWE,1,6,3,50.0%,24,8,4,0,20.8,8,21,3,0,0,0,0,0,4,0,0.0%,202201020nwe
+Myles Bryant,BryaMy01,defense,NWE,1,3,3,100.0%,52,17.3,17.3,0,79.2,15.7,47,5,1,0,0,0,0,3,0,0.0%,202201020nwe
+Jahlani Tavai,TavaJa00,defense,NWE,0,3,3,100.0%,60,20,20,1,158.3,7,21,39,0,0,0,0,0,3,0,0.0%,202201020nwe
+Jalen Mills,MillJa02,defense,NWE,0,4,2,50.0%,14,7,3.5,0,58.3,5.5,12,2,0,0,0,0,0,4,1,20.0%,202201020nwe
+Adrian Phillips,PhilAd00,defense,NWE,0,4,2,50.0%,13,6.5,3.3,0,57.3,3,2,11,0,0,0,0,0,4,0,0.0%,202201020nwe
+Kyle Van Noy,VanNKy00,defense,NWE,0,2,2,100.0%,8,4,4,0,83.3,-2.5,-5,13,1,0,0,0,0,4,0,0.0%,202201020nwe
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,3,1,33.3%,6,6,2,0,42.4,4,3,3,3,0,0,0,0,3,0,0.0%,202201020nwe
+Justin Bethel,BethJu00,defense,NWE,0,1,1,100.0%,16,16,16,0,118.7,12,12,4,0,0,0,0,0,3,0,0.0%,202201020nwe
+Deatrich Wise Jr.,WiseDe00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,0,2,1,0,0.0%,202201020nwe
+Christian Barmore,BarmCh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,3,0,0.0%,202201020nwe
+Dont'a Hightower,HighDo01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,1,1,2,0,0.0%,202201020nwe
+Carl Davis,DaviCa01,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,1,100.0%,202201020nwe
+Chase Winovich,WinoCh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,3,0,0.0%,202201020nwe
+Kyle Dugger,DuggKy00,defense,NWE,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202201020nwe
+Josh Uche,UcheJo00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202201020nwe
+Devin McCourty,McCoDe99,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,1,33.3%,202201020nwe

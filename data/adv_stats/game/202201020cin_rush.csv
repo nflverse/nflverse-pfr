@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Darrel Williams,WillDa10,rushing,KAN,14,88,6,47,3.4,41,2.9,1,14,202201020cin
+Derrick Gore,GoreDe00,rushing,KAN,3,37,2,29,9.7,8,2.7,0,NA,202201020cin
+Patrick Mahomes,MahoPa00,rushing,KAN,2,25,1,23,11.5,2,1,0,NA,202201020cin
+Blake Bell,BellBl00,rushing,KAN,1,2,1,1,1,1,1,0,NA,202201020cin
+Michael Burton,BurtMi00,rushing,KAN,1,2,1,1,1,1,1,0,NA,202201020cin
+Tyreek Hill,HillTy00,rushing,KAN,1,2,0,1,1,1,1,0,NA,202201020cin
+Travis Kelce,KelcTr00,rushing,KAN,1,-1,0,-1,-1,0,0,0,NA,202201020cin
+Joe Mixon,MixoJo00,rushing,CIN,12,46,4,27,2.3,19,1.6,0,NA,202201020cin
+Joe Burrow,BurrJo01,rushing,CIN,5,10,1,1,0.2,9,1.8,0,NA,202201020cin
+Brandon Allen,AlleBr00,rushing,CIN,1,0,NA,0,0,0,0,0,NA,202201020cin
+Samaje Perine,PeriSa00,rushing,CIN,1,4,NA,2,2,2,2,0,NA,202201020cin

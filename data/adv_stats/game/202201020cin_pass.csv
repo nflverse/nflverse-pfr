@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Patrick Mahomes,MahoPa00,passing,KAN,26,35,259,11,31.4,297,8.5,152,5.8,4.3,107,4.1,0,0.0%,3,8.8%,0,6,5,4,9,24.3%,2,12.5,202201020cin
+Joe Burrow,BurrJo01,passing,CIN,30,39,446,12,27.9,263,6.7,182,6.1,4.7,264,8.8,2,5.3%,3,7.9%,4,10,2,6,12,26.7%,2,3.5,202201020cin
+Brandon Allen,AlleBr00,passing,CIN,0,1,0,NA,NA,0,0,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202201020cin

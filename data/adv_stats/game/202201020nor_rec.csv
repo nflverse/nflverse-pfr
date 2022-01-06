@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Ameer Abdullah,AbduAm00,receiving,CAR,4,4,31,0,2,-14,-3.5,45,11.3,-3.5,3,1.3,0,0,0,99,202201020nor
+Chuba Hubbard,HubbCh01,receiving,CAR,4,3,13,0,1,-5,-1.7,18,6,-2.3,0,NA,1,25,0,78.1,202201020nor
+D.J. Moore,MoorD.00,receiving,CAR,8,3,29,0,2,20,6.7,9,3,9.3,0,NA,1,12.5,1,8.9,202201020nor
+Ian Thomas,ThomIa00,receiving,CAR,3,3,33,0,1,13,4.3,20,6.7,4.3,0,NA,0,0,0,112.5,202201020nor
+Robby Anderson,AndeRo04,receiving,CAR,2,2,10,0,1,12,6,-2,-1,6,0,NA,0,0,0,87.5,202201020nor
+Terrace Marshall Jr.,MarsTe00,receiving,CAR,2,2,16,0,1,16,8,0,0,8,0,NA,0,0,0,100,202201020nor
+Shi Smith,SmitSh03,receiving,CAR,1,0,0,0,NA,0,NA,0,NA,-2,0,NA,0,0,0,39.6,202201020nor
+Marquez Callaway,CallMa01,receiving,NOR,10,6,97,0,4,77,12.8,20,3.3,12.2,1,6,3,30,0,92.5,202201020nor
+Alvin Kamara,KamaAl00,receiving,NOR,6,5,68,1,3,0,0,68,13.6,1.3,1,5,0,0,0,153.5,202201020nor
+Deonte Harris,HarrDe07,receiving,NOR,2,2,23,0,1,18,9,5,2.5,9,0,NA,0,0,0,114.6,202201020nor
+Lil'Jordan Humphrey,HumpLi01,receiving,NOR,2,2,26,0,1,21,10.5,5,2.5,10.5,0,NA,0,0,0,118.7,202201020nor
+Juwan Johnson,JohnJu02,receiving,NOR,2,1,4,0,NA,3,3,1,1,3,0,NA,0,0,0,56.2,202201020nor
+Adam Prentice,PrenAd00,receiving,NOR,1,1,4,0,1,0,0,4,4,0,0,NA,0,0,0,83.3,202201020nor

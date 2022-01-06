@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Javonte Williams,WillJa10,rushing,DEN,14,30,1,17,1.2,13,0.9,0,NA,202201020sdg
+Melvin Gordon,GordMe00,rushing,DEN,10,43,3,26,2.6,17,1.7,2,5,202201020sdg
+Drew Lock,LockDr00,rushing,DEN,3,10,1,8,2.7,2,0.7,0,NA,202201020sdg
+Austin Ekeler,EkelAu00,rushing,LAC,17,58,3,34,2,24,1.4,1,17,202201020sdg
+Justin Jackson,JackJu01,rushing,LAC,12,41,2,33,2.8,8,0.7,0,NA,202201020sdg
+Justin Herbert,HerbJu00,rushing,LAC,4,2,2,2,0.5,0,0,0,NA,202201020sdg
+Jalen Guyton,GuytJa01,rushing,LAC,1,1,0,0,0,1,1,1,1,202201020sdg
+Gabe Nabers,NabeGa00,rushing,LAC,1,2,NA,1,1,1,1,0,NA,202201020sdg

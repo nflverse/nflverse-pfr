@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Darius Bradwell,BradDa00,defense,NA,NA,1,0,0.0%,NA,NA,0,NA,39.6,19,NA,NA,0,0,0,NA,0,NA,0,NA,202201020sdg
+Ronald Darby,DarbRo00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,NA,0,NA,0,NA,202201020sdg
+Natrez Patrick,PatrNa00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,NA,0,NA,0,NA,202201020sdg
+Patrick Surtain II,SurtPa01,defense,DEN,0,11,6,54.5%,50,8.3,4.5,0,66.5,8.2,30,20,0,0,0,0,0,6,0,0.0%,202201020sdg
+Jonas Griffith,GrifJo01,defense,DEN,0,3,3,100.0%,20,6.7,6.7,0,94.4,1.3,4,16,3,0,0,0,0,12,0,0.0%,202201020sdg
+Kareem Jackson,JackKa99,defense,DEN,0,4,3,75.0%,29,9.7,7.3,0,94.8,6.3,20,9,0,0,0,0,0,8,1,11.1%,202201020sdg
+Justin Simmons,SimmJu00,defense,DEN,0,2,2,100.0%,47,23.5,23.5,0,118.7,-1,-2,49,0,0,0,0,0,4,1,20.0%,202201020sdg
+Kyle Fuller,FullKy00,defense,DEN,0,2,2,100.0%,50,25,25,1,158.3,24.5,49,1,0,0,0,0,0,7,0,0.0%,202201020sdg
+Nate Hairston,HairNa00,defense,DEN,0,3,2,66.7%,11,5.5,3.7,1,112.5,6.7,9,2,1,0,0,0,0,5,0,0.0%,202201020sdg
+Aaron Patrick,PatrAa00,defense,DEN,0,1,1,100.0%,8,8,8,0,100,-4,-4,12,0,2,0,0,2,2,0,0.0%,202201020sdg
+Micah Kiser,KiseMi00,defense,DEN,0,1,1,100.0%,3,3,3,0,79.2,-3,-3,6,2,1,0,0,1,12,1,7.7%,202201020sdg
+P.J. Locke,LockPJ00,defense,DEN,0,1,1,100.0%,8,8,8,0,100,2,2,6,0,0,1,0,1,3,0,0.0%,202201020sdg
+Barrington Wade,WadeBa00,defense,DEN,0,1,1,100.0%,11,11,11,0,112.5,-5,-5,16,1,0,0,0,0,0,0,NA,202201020sdg
+Jonathan Harris,HarrJo05,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,8,0,0.0%,202201020sdg
+Dre'Mont Jones,JoneDr00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202201020sdg
+Andre Mintze,MintAn00,defense,DEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,2,1,33.3%,202201020sdg
+Malik Reed,ReedMa01,defense,DEN,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,0,0,1,0,0.0%,202201020sdg
+Michael Davis,DaviMi03,defense,LAC,0,5,4,80.0%,85,21.3,17,0,118.7,17.6,73,12,0,0,0,0,0,6,0,0.0%,202201020sdg
+Kyzir White,WhitKy00,defense,LAC,0,5,4,80.0%,54,13.5,10.8,0,111.7,5.4,18,36,0,0,0,0,0,11,1,8.3%,202201020sdg
+Nasir Adderley,AddeNa00,defense,LAC,0,3,3,100.0%,37,12.3,12.3,0,118.1,9.7,29,8,0,0,1,0,1,8,0,0.0%,202201020sdg
+Chris Harris Jr.,HarrCh01,defense,LAC,0,4,2,50.0%,12,6,3,0,56.2,4,-7,19,0,0,0,0,0,2,1,33.3%,202201020sdg
+Derwin James,JameDe00,defense,LAC,0,3,2,66.7%,1,0.5,0.3,0,70.1,5,-5,6,4,0,0,0,0,6,0,0.0%,202201020sdg
+Alohi Gilman,GilmAl00,defense,LAC,0,2,2,100.0%,13,6.5,6.5,1,133.3,5.5,11,2,0,0,0,0,0,1,0,0.0%,202201020sdg
+Asante Samuel Jr.,SamuAs00,defense,LAC,0,3,2,66.7%,44,22,14.7,0,109.7,5.3,11,33,0,0,0,0,0,5,0,0.0%,202201020sdg
+Jerry Tillery,TillJe00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,4,0,0.0%,202201020sdg
+Joey Bosa,BosaJo00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,6,0,0.0%,202201020sdg
+Uchenna Nwosu,NwosUc00,defense,LAC,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,5,0,0.0%,202201020sdg
+Amen Ogbongbemiga,OgboAm00,defense,LAC,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,0,0,0,0,0,1,0,0.0%,202201020sdg

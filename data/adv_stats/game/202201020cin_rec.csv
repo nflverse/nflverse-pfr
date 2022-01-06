@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyreek Hill,HillTy00,receiving,KAN,10,6,40,0,3,26,4.3,14,2.3,12.5,0,NA,0,0,0,68.7,202201020cin
+Travis Kelce,KelcTr00,receiving,KAN,7,5,25,1,2,11,2.2,14,2.8,5,0,NA,0,0,0,116.1,202201020cin
+Darrel Williams,WillDa10,receiving,KAN,3,3,19,0,1,-1,-0.3,20,6.7,-0.3,0,NA,0,0,0,93.1,202201020cin
+Blake Bell,BellBl00,receiving,KAN,3,3,35,0,1,13,4.3,22,7.3,4.3,0,NA,0,0,0,115.3,202201020cin
+Byron Pringle,PrinBy00,receiving,KAN,4,3,35,0,1,31,10.3,4,1.3,9.3,0,NA,0,0,0,101,202201020cin
+Demarcus Robinson,RobiDe01,receiving,KAN,2,2,33,1,1,32,16,1,0.5,16,0,NA,0,0,0,158.3,202201020cin
+Noah Gray,GrayNo00,receiving,KAN,1,1,6,0,NA,4,4,2,2,4,0,NA,0,0,0,91.7,202201020cin
+Mecole Hardman,HardMe00,receiving,KAN,1,1,53,0,1,35,35,18,18,35,0,NA,0,0,0,118.7,202201020cin
+Derrick Gore,GoreDe00,receiving,KAN,1,1,8,0,0,-4,-4,12,12,-4,1,1,0,0,0,100,202201020cin
+Josh Gordon,GordJo02,receiving,KAN,1,1,5,0,1,5,5,0,0,5,0,NA,0,0,0,87.5,202201020cin
+Marcus Kemp,KempMa00,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,16,0,NA,0,0,0,39.6,202201020cin
+Ja'Marr Chase,ChasJa00,receiving,CIN,12,11,266,3,6,113,10.3,153,13.9,12.2,2,5.5,0,0,0,158.3,202201020cin
+Joe Mixon,MixoJo00,receiving,CIN,8,7,40,0,0,-5,-0.7,45,6.4,-1.1,0,NA,1,12.5,0,87.5,202201020cin
+C.J. Uzomah,UzomC.00,receiving,CIN,6,4,32,0,2,12,3,20,5,3.8,0,NA,0,0,0,79.9,202201020cin
+Tyler Boyd,BoydTy00,receiving,CIN,6,4,36,1,2,26,6.5,10,2.5,5.7,0,NA,0,0,0,122.2,202201020cin
+Tee Higgins,HiggTe00,receiving,CIN,5,3,62,0,2,34,11.3,28,9.3,13.4,2,1.5,1,20,0,103.7,202201020cin
+Samaje Perine,PeriSa00,receiving,CIN,1,1,10,0,NA,2,2,8,8,2,0,NA,0,0,0,108.3,202201020cin

@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Robert Alford,AlfoRo00,defense,NA,NA,1,0,0.0%,NA,NA,0,NA,39.6,-4,NA,NA,0,0,0,NA,0,NA,0,NA,202201020dal
+Byron Murphy,MurpBy00,defense,ARI,0,10,8,80.0%,74,9.3,7.4,1,130.8,6.3,49,25,3,1,0,0,1,7,0,0.0%,202201020dal
+Isaiah Simmons,SimmIs00,defense,ARI,0,9,7,77.8%,72,10.3,8,0,100,3.9,17,55,5,0,0,0,0,10,3,23.1%,202201020dal
+Kevin Peterson,PeteKe01,defense,ARI,0,7,5,71.4%,46,9.2,6.6,2,128.6,7.7,36,10,0,0,0,0,0,7,0,0.0%,202201020dal
+Dennis Gardeck,GardDe01,defense,ARI,0,1,1,100.0%,31,31,31,0,118.7,15,15,16,4,0,1,0,1,3,0,0.0%,202201020dal
+Budda Baker,BakeBu00,defense,ARI,0,1,1,100.0%,7,7,7,0,95.8,7,7,0,7,0,0,1,1,3,0,0.0%,202201020dal
+Victor Dimukeje,DimuVi00,defense,ARI,0,1,1,100.0%,7,7,7,0,95.8,5,5,2,2,0,1,0,1,1,1,50.0%,202201020dal
+Tanner Vallejo,VallTa00,defense,ARI,0,2,1,50.0%,11,11,5.5,0,66.7,-1,-2,13,0,0,0,0,0,1,1,50.0%,202201020dal
+Jordan Hicks,HickJo00,defense,ARI,0,3,1,33.3%,9,9,3,0,42.4,1.7,5,4,6,0,0,0,0,1,0,0.0%,202201020dal
+Chandler Jones,JoneCh03,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2,1,0,3,3,0,0.0%,202201020dal
+Zach Allen,AlleZa01,defense,ARI,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202201020dal
+Jalen Thompson,ThomJa04,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,2,NA,NA,1,0,1,0,1,6,0,0.0%,202201020dal
+Zaven Collins,CollZa00,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,-1,NA,NA,5,0,0,0,0,2,0,0.0%,202201020dal
+Antonio Hamilton,HamiAn01,defense,ARI,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,0,0,0,0,0,0,0,NA,202201020dal
+Jourdan Lewis,LewiJo01,defense,DAL,0,6,6,100.0%,83,13.8,13.8,0,118.7,10.5,63,20,0,0,0,0,0,5,0,0.0%,202201020dal
+Anthony Brown,BrowAn02,defense,DAL,0,9,4,44.4%,50,12.5,5.6,1,99.3,14.7,41,9,0,0,0,0,0,2,0,0.0%,202201020dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,3,3,100.0%,8,2.7,2.7,1,118.7,2.7,8,0,1,0,0,0,0,10,0,0.0%,202201020dal
+Micah Parsons,ParsMi00,defense,DAL,0,3,2,66.7%,-2,-1,-0.7,0,70.1,-3,-6,4,16,1,1,0,2,5,1,16.7%,202201020dal
+Trevon Diggs,DiggTr00,defense,DAL,0,4,2,50.0%,54,27,13.5,0,95.8,19.8,47,7,0,0,0,0,0,3,0,0.0%,202201020dal
+Jayron Kearse,KearJa00,defense,DAL,0,3,2,66.7%,7,3.5,2.3,0,70.1,4.3,5,2,1,0,0,0,0,6,0,0.0%,202201020dal
+Kelvin Joseph,JoseKe02,defense,DAL,0,2,2,100.0%,23,11.5,11.5,0,114.6,3,6,17,0,0,0,0,0,2,0,0.0%,202201020dal
+Malik Hooker,HookMa00,defense,DAL,0,2,2,100.0%,19,9.5,9.5,0,106.2,0.5,1,18,1,0,0,0,0,3,0,0.0%,202201020dal
+Donovan Wilson,WilsDo01,defense,DAL,0,3,2,66.7%,14,7,4.7,0,77.1,6,1,13,2,0,0,0,0,5,1,16.7%,202201020dal
+DeMarcus Lawrence,LawrDe00,defense,DAL,0,1,1,100.0%,3,3,3,0,79.2,-6,-6,9,0,2,0,0,2,1,0,0.0%,202201020dal
+Nahshon Wright,WrigNa00,defense,DAL,0,1,1,100.0%,23,23,23,0,118.7,19,19,4,0,0,0,0,0,1,0,0.0%,202201020dal
+Tarell Basham,BashTa00,defense,DAL,0,1,1,100.0%,7,7,7,0,95.8,-5,-5,12,2,0,0,0,0,4,0,0.0%,202201020dal
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,2,5,0,0.0%,202201020dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,1,16.7%,202201020dal
+Damontae Kazee,KazeDa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,1,0,0.0%,202201020dal

@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Ronald Jones II,JoneRo01,rushing,TAM,10,26,2,10,1,16,1.6,0,NA,202201020nyj
+Ke'Shawn Vaughn,VaugKe00,rushing,TAM,8,31,2,17,2.1,14,1.8,0,NA,202201020nyj
+Le'Veon Bell,BellLe00,rushing,TAM,3,5,0,3,1,2,0.7,0,NA,202201020nyj
+Austin Walter,WaltAu00,rushing,NYJ,14,49,2,29,2.1,20,1.4,0,NA,202201020nyj
+Ty Johnson,JohnTy02,rushing,NYJ,5,35,3,34,6.8,1,0.2,0,NA,202201020nyj
+Michael Carter,CartMi03,rushing,NYJ,3,54,1,2,0.7,52,17.3,0,NA,202201020nyj
+Braxton Berrios,BerrBr00,rushing,NYJ,2,12,2,9,4.5,3,1.5,0,NA,202201020nyj
+Zach Wilson,WilsZa00,rushing,NYJ,2,0,0,0,0,0,0,0,NA,202201020nyj

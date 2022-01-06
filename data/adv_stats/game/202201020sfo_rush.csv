@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Rex Burkhead,BurkRe00,rushing,HOU,16,47,2,11,0.7,36,2.3,0,NA,202201020sfo
+Royce Freeman,FreeRo00,rushing,HOU,6,25,2,11,1.8,14,2.3,0,NA,202201020sfo
+Jaylen Samuels,SamuJa00,rushing,HOU,3,7,0,1,0.3,6,2,0,NA,202201020sfo
+Chris Conley,ConlCh00,rushing,HOU,1,3,1,0,0,3,3,0,NA,202201020sfo
+Davis Mills,MillDa02,rushing,HOU,1,4,0,4,4,0,0,0,NA,202201020sfo
+Elijah Mitchell,MitcEl00,rushing,SFO,21,119,5,47,2.2,72,3.4,1,21,202201020sfo
+Trey Lance,LancTr00,rushing,SFO,8,31,1,25,3.1,6,0.8,0,NA,202201020sfo
+Deebo Samuel,SamuDe00,rushing,SFO,7,19,1,12,1.7,7,1,0,NA,202201020sfo
+George Kittle,KittGe00,rushing,SFO,1,6,0,3,3,3,3,0,NA,202201020sfo

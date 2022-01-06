@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Derek Carr,CarrDe02,passing,LVR,24,31,255,13,39.4,274,8.8,157,6.5,5.1,98,4.1,0,0.0%,3,9.7%,2,6,1,4,7,21.2%,0,NA,202201020clt
+Marcus Mariota,MariMa01,passing,LVR,0,1,0,0,0,35,35,0,NA,0,0,NA,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202201020clt
+Carson Wentz,WentCa00,passing,IND,16,27,148,6,21.4,158,5.9,97,6.1,3.6,51,3.2,1,4.2%,5,20.8%,1,4,2,6,9,31.0%,1,1,202201020clt

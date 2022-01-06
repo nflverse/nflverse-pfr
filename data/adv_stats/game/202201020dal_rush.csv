@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chase Edmonds,EdmoCh00,rushing,ARI,18,53,4,31,1.7,22,1.2,0,NA,202201020dal
+Kyler Murray,MurrKy00,rushing,ARI,9,44,4,43,4.8,1,0.1,0,NA,202201020dal
+Eno Benjamin,BenjEn00,rushing,ARI,2,3,NA,1,0.5,2,1,0,NA,202201020dal
+Jonathan Ward,WardJo00,rushing,ARI,2,3,0,1,0.5,2,1,0,NA,202201020dal
+Greg Dortch,DortGr01,rushing,ARI,1,24,1,23,23,1,1,0,NA,202201020dal
+Ezekiel Elliott,ElliEz00,rushing,DAL,9,16,1,9,1,7,0.8,0,NA,202201020dal
+Dak Prescott,PresDa01,rushing,DAL,5,20,1,8,1.6,12,2.4,0,NA,202201020dal
+Tony Pollard,PollTo00,rushing,DAL,3,9,0,5,1.7,4,1.3,0,NA,202201020dal

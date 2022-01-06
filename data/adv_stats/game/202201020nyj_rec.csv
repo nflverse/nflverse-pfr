@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Rob Gronkowski,GronRo00,receiving,TAM,10,7,115,0,5,53,7.6,62,8.9,9.4,2,3.5,0,0,0,108.3,202201020nyj
+Cyril Grayson,GrayCy01,receiving,TAM,8,6,81,1,5,69,11.5,12,2,14,0,NA,0,0,0,146.4,202201020nyj
+Mike Evans,EvanMi00,receiving,TAM,7,4,47,1,4,40,10,7,1.8,19.6,0,NA,0,0,1,77.7,202201020nyj
+Tyler Johnson,JohnTy00,receiving,TAM,6,4,50,0,2,33,8.3,17,4.3,13.5,0,NA,1,16.7,0,92.4,202201020nyj
+Le'Veon Bell,BellLe00,receiving,TAM,3,3,30,0,2,5,1.7,25,8.3,1.7,1,3,0,0,0,108.3,202201020nyj
+Antonio Brown,BrowAn04,receiving,TAM,5,3,26,0,1,14,4.7,12,4,6.4,1,3,0,0,0,73.7,202201020nyj
+Cameron Brate,BratCa00,receiving,TAM,3,2,5,1,1,4,2,1,0.5,1.3,0,NA,0,0,0,109.7,202201020nyj
+Ke'Shawn Vaughn,VaugKe00,receiving,TAM,3,2,14,0,0,11,5.5,3,1.5,3,0,NA,0,0,0,77.1,202201020nyj
+Breshad Perriman,PerrBr02,receiving,TAM,3,2,41,0,1,25,12.5,16,8,10.7,0,NA,0,0,0,109.7,202201020nyj
+Ronald Jones II,JoneRo01,receiving,TAM,1,1,1,0,0,1,1,0,0,1,0,NA,0,0,0,79.2,202201020nyj
+Braxton Berrios,BerrBr00,receiving,NYJ,12,8,65,1,6,12,1.5,53,6.6,5.8,0,NA,0,0,0,108,202201020nyj
+Ty Johnson,JohnTy02,receiving,NYJ,4,3,47,0,2,-11,-3.7,58,19.3,-2.8,0,NA,0,0,0,113.5,202201020nyj
+Keelan Cole,ColeKe00,receiving,NYJ,5,2,35,0,2,30,15,5,2.5,18,0,NA,1,20,0,64.6,202201020nyj
+Daniel Brown,BrowDa04,receiving,NYJ,2,2,29,0,1,7,3.5,22,11,3.5,0,NA,0,0,0,118.7,202201020nyj
+Kenny Yeboah,YeboKe00,receiving,NYJ,2,2,36,0,2,33,16.5,3,1.5,16.5,0,NA,0,0,0,118.7,202201020nyj
+Michael Carter,CartMi03,receiving,NYJ,1,1,9,0,0,2,2,7,7,2,0,NA,0,0,0,104.2,202201020nyj
+Jeff Smith,SmitJe03,receiving,NYJ,4,1,13,0,1,13,13,0,0,6.5,0,NA,0,0,0,40.6,202201020nyj
