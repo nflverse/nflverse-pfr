@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Nick Chubb,ChubNi00,rushing,CLE,12,58,3,35,2.9,23,1.9,0,NA,202201030pit
+D'Ernest Johnson,JohnDE04,rushing,CLE,5,13,NA,5,1,8,1.6,1,5,202201030pit
+Baker Mayfield,MayfBa00,rushing,CLE,2,16,2,16,8,0,0,0,NA,202201030pit
+Jarvis Landry,LandJa00,rushing,CLE,1,6,0,5,5,1,1,0,NA,202201030pit
+Najee Harris,HarrNa00,rushing,PIT,28,188,7,61,2.2,127,4.5,8,3.5,202201030pit
+Ben Roethlisberger,RoetBe00,rushing,PIT,1,-1,0,-1,-1,0,0,0,NA,202201030pit
+Benny Snell Jr.,SnelBe00,rushing,PIT,1,2,NA,1,1,1,1,0,NA,202201030pit
+Derek Watt,WattDe00,rushing,PIT,1,1,1,0,0,1,1,0,NA,202201030pit
