@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Patrick Mahomes,MahoPa00,rushing,KAN,9,54,3,54,6,0,0,0,NA,202201080den
+Derrick Gore,GoreDe00,rushing,KAN,7,30,NA,22,3.1,8,1.1,0,NA,202201080den
+Darrel Williams,WillDa10,rushing,KAN,7,17,2,11,1.6,6,0.9,0,NA,202201080den
+Jerick McKinnon,McKiJe00,rushing,KAN,5,24,0,16,3.2,8,1.6,0,NA,202201080den
+Mecole Hardman,HardMe00,rushing,KAN,1,10,1,7,7,3,3,0,NA,202201080den
+Melvin Gordon,GordMe00,rushing,DEN,12,110,2,24,2,86,7.2,0,NA,202201080den
+Javonte Williams,WillJa10,rushing,DEN,12,46,3,23,1.9,23,1.9,0,NA,202201080den
+Drew Lock,LockDr00,rushing,DEN,4,35,3,32,8,3,0.8,0,NA,202201080den

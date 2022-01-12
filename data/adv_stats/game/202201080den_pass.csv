@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Patrick Mahomes,MahoPa00,passing,KAN,27,44,270,19,42.2,278,6.3,65,2.4,1.5,205,7.6,0,0.0%,10,23.8%,1,2,5,4,10,20.0%,5,11.4,202201080den
+Drew Lock,LockDr00,passing,DEN,12,24,162,8,32,258,10.8,83,6.9,3.5,79,6.6,1,4.3%,6,26.1%,1,6,3,1,5,17.2%,4,8.8,202201080den
+Courtland Sutton,SuttCo00,passing,DEN,1,1,16,1,100,15,15,15,15,15,1,1,0,0.0%,0,0.0%,0,0,1,0,1,100.0%,0,NA,202201080den
