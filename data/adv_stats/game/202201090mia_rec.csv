@@ -1,0 +1,16 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Hunter Henry,HenrHu00,receiving,NWE,6,5,86,0,2,76,15.2,10,2,12.2,0,NA,0,0,0,118.7,202201090mia
+Damien Harris,HarrDa06,receiving,NWE,4,4,36,0,2,1,0.3,35,8.8,0.3,0,NA,0,0,0,104.2,202201090mia
+Jakobi Meyers,MeyeJa01,receiving,NWE,8,4,70,0,2,67,16.8,3,0.8,11,0,NA,0,0,1,40.6,202201090mia
+Kendrick Bourne,BourKe00,receiving,NWE,4,3,24,0,0,2,0.7,22,7.3,1.5,0,NA,0,0,0,89.6,202201090mia
+Brandon Bolden,BoldBr00,receiving,NWE,2,2,20,1,1,-5,-2.5,25,12.5,-2.5,1,2,0,0,0,147.9,202201090mia
+Nelson Agholor,AghoNe00,receiving,NWE,3,1,23,0,1,19,19,4,4,20,0,NA,0,0,0,61.8,202201090mia
+Rhamondre Stevenson,StevRh00,receiving,NWE,2,1,2,0,0,-4,-4,6,6,-1,0,NA,0,0,0,56.2,202201090mia
+N'Keal Harry,HarrNK00,receiving,NWE,1,0,0,0,NA,0,NA,0,NA,22,0,NA,0,0,0,39.6,202201090mia
+Jaylen Waddle,WaddJa00,receiving,MIA,7,5,27,1,2,9,1.8,18,3.6,4.3,0,NA,1,14.3,0,117.3,202201090mia
+Myles Gaskin,GaskMy00,receiving,MIA,3,3,11,0,1,3,1,8,2.7,1,0,NA,0,0,0,81.9,202201090mia
+Mike Gesicki,GesiMi00,receiving,MIA,3,2,22,0,1,15,7.5,7,3.5,7.7,0,NA,0,0,0,88.2,202201090mia
+DeVante Parker,ParkDe01,receiving,MIA,4,2,12,0,NA,8,4,4,2,4.5,0,NA,0,0,0,56.2,202201090mia
+Durham Smythe,SmytDu00,receiving,MIA,2,2,32,0,2,12,6,20,10,6,0,NA,0,0,0,118.7,202201090mia
+Duke Johnson,JohnDu00,receiving,MIA,1,1,5,0,1,-5,-5,10,10,-5,0,NA,0,0,0,87.5,202201090mia
+Mack Hollins,HollMa00,receiving,MIA,1,0,0,0,NA,0,NA,0,NA,18,0,NA,0,0,0,39.6,202201090mia

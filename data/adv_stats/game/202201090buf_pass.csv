@@ -1,0 +1,4 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Zach Wilson,WilsZa00,passing,NYJ,7,20,87,3,10.7,136,6.8,54,7.7,2.7,33,4.7,4,21.1%,5,26.3%,8,11,6,2,16,53.3%,2,12,202201090buf
+Josh Allen,AlleJo02,passing,BUF,24,45,239,14,31.1,407,9,121,5,2.7,118,4.9,5,11.4%,12,27.3%,0,15,6,5,11,22.0%,5,12.6,202201090buf
+Mitchell Trubisky,TrubMi00,passing,BUF,1,1,15,1,100,12,12,12,12,12,3,3,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,NA,202201090buf

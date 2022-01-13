@@ -1,0 +1,9 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Austin Ekeler,EkelAu00,rushing,LAC,16,64,4,22,1.4,42,2.6,1,16,202201090rai
+Justin Jackson,JackJu01,rushing,LAC,3,20,1,6,2,14,4.7,0,NA,202201090rai
+Justin Herbert,HerbJu00,rushing,LAC,2,1,0,1,0.5,0,0,0,NA,202201090rai
+Josh Jacobs,JacoJo01,rushing,LVR,26,132,7,47,1.8,85,3.3,3,8.7,202201090rai
+Marcus Mariota,MariMa01,rushing,LVR,4,23,1,12,3,11,2.8,0,NA,202201090rai
+Jalen Richard,RichJa01,rushing,LVR,2,24,1,17,8.5,7,3.5,0,NA,202201090rai
+Derek Carr,CarrDe02,rushing,LVR,1,-1,0,-1,-1,0,0,0,NA,202201090rai
+Hunter Renfrow,RenfHu00,rushing,LVR,1,-4,0,-4,-4,0,0,0,NA,202201090rai

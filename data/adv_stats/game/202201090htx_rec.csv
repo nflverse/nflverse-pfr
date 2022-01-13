@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Julio Jones,JoneJu02,receiving,TEN,9,5,58,1,4,45,9,13,2.6,17.2,0,NA,0,0,0,112.3,202201090htx
+Nick Westbrook-Ikhine,WestNi00,receiving,TEN,5,4,78,1,4,56,14,22,5.5,12.8,0,NA,0,0,0,158.3,202201090htx
+A.J. Brown,BrowAJ00,receiving,TEN,6,4,68,1,4,43,10.8,25,6.3,10.3,0,NA,0,0,0,144.4,202201090htx
+Anthony Firkser,FirkAn00,receiving,TEN,4,4,56,1,3,42,10.5,14,3.5,10.5,0,NA,0,0,0,158.3,202201090htx
+Chester Rogers,RogeCh02,receiving,TEN,2,2,4,0,NA,-3,-1.5,7,3.5,-1.5,0,NA,0,0,0,79.2,202201090htx
+D'Onta Foreman,ForeDO00,receiving,TEN,2,1,15,0,1,2,2,13,13,2.5,0,NA,0,0,0,75,202201090htx
+Geoff Swaim,SwaiGe00,receiving,TEN,1,1,2,0,NA,-2,-2,4,4,-2,0,NA,0,0,0,79.2,202201090htx
+Dontrell Hilliard,HillDo00,receiving,TEN,1,1,1,0,0,-5,-5,6,6,-5,0,NA,0,0,0,79.2,202201090htx
+Khari Blasingame,BlasKh00,receiving,TEN,1,1,5,0,NA,3,3,2,2,3,0,NA,0,0,0,87.5,202201090htx
+Racey McMath,McMaRa00,receiving,TEN,1,0,0,0,NA,0,NA,0,NA,6,0,NA,0,0,0,39.6,202201090htx
+Danny Amendola,AmenDa00,receiving,HOU,8,7,113,2,4,78,11.1,35,5,13,0,NA,1,12.5,0,158.3,202201090htx
+Brandin Cooks,CookBr00,receiving,HOU,4,3,26,0,1,19,6.3,7,2.3,10.3,0,NA,0,0,0,91.7,202201090htx
+David Johnson,JohnDa08,receiving,HOU,4,3,8,0,0,-3,-1,11,3.7,3.8,0,NA,0,0,0,77.1,202201090htx
+Nico Collins,CollNi00,receiving,HOU,8,3,67,0,3,53,17.7,14,4.7,19.6,0,NA,0,0,0,68.2,202201090htx
+Chris Moore,MoorCh00,receiving,HOU,3,3,38,1,1,32,10.7,6,2,10.7,1,3,0,0,0,158.3,202201090htx
+Rex Burkhead,BurkRe00,receiving,HOU,4,3,42,0,2,18,6,24,8,5,0,NA,0,0,0,108.3,202201090htx
+Antony Auclair,AuclAn00,receiving,HOU,1,1,7,0,NA,0,0,7,7,0,1,1,0,0,0,95.8,202201090htx

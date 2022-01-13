@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Jonathan Taylor,TaylJo02,rushing,IND,15,77,3,28,1.9,49,3.3,1,15,202201090jax
+Carson Wentz,WentCa00,rushing,IND,3,17,1,14,4.7,3,1,0,NA,202201090jax
+Dare Ogunbowale,OgunDa00,rushing,JAX,11,30,1,10,0.9,20,1.8,0,NA,202201090jax
+Trevor Lawrence,LawrTr00,rushing,JAX,10,17,3,5,0.5,12,1.2,0,NA,202201090jax
+Ryquell Armstead,ArmsRy00,rushing,JAX,9,52,2,27,3,25,2.8,0,NA,202201090jax
+Mekhi Sargent,SargMe00,rushing,JAX,1,2,NA,0,0,2,2,0,NA,202201090jax

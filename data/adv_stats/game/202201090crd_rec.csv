@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Lockett,LockTy00,receiving,SEA,5,5,98,2,5,77,15.4,21,4.2,15.4,0,NA,0,0,0,158.3,202201090crd
+D.K. Metcalf,MetcDK00,receiving,SEA,11,5,58,0,1,39,7.8,19,3.8,13,0,NA,0,0,0,61.9,202201090crd
+Colby Parkinson,ParkCo02,receiving,SEA,3,2,14,0,1,8,4,6,3,8.3,0,NA,0,0,0,77.1,202201090crd
+Gerald Everett,EverGe00,receiving,SEA,3,1,20,0,1,8,8,12,12,11.3,1,1,1,33.3,0,57.6,202201090crd
+Travis Homer,HomeTr00,receiving,SEA,3,1,23,0,1,7,7,16,16,6.7,0,NA,0,0,1,22.2,202201090crd
+Freddie Swain,SwaiFr00,receiving,SEA,1,1,25,1,1,19,19,6,6,19,0,NA,0,0,0,158.3,202201090crd
+Zach Ertz,ErtzZa00,receiving,ARI,10,7,84,0,4,64,9.1,20,2.9,12.2,0,NA,0,0,0,95.4,202201090crd
+James Conner,ConnJa00,receiving,ARI,6,6,41,1,2,-9,-1.5,50,8.3,-1.5,1,6,0,0,0,134.7,202201090crd
+Eno Benjamin,BenjEn00,receiving,ARI,4,4,25,0,2,-3,-0.8,28,7,-0.8,1,4,0,0,0,92.7,202201090crd
+A.J. Green,GreeA.00,receiving,ARI,9,4,23,0,1,15,3.8,8,2,9.2,0,NA,2,22.2,0,51.6,202201090crd
+Greg Dortch,DortGr01,receiving,ARI,2,2,5,0,NA,-12,-6,17,8.5,-6,0,NA,0,0,0,79.2,202201090crd
+Christian Kirk,KirkCh01,receiving,ARI,3,2,43,0,1,40,20,3,1.5,17.3,0,NA,0,0,0,109.7,202201090crd
+Antoine Wesley,WeslAn01,receiving,ARI,4,2,17,0,NA,9,4.5,8,4,9.3,0,NA,0,0,0,61.5,202201090crd
+Jonathan Ward,WardJo00,receiving,ARI,1,1,2,0,NA,-5,-5,7,7,-5,0,NA,0,0,0,79.2,202201090crd

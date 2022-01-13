@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Trayveon Williams,WillTr06,rushing,CIN,9,38,3,21,2.3,17,1.9,5,1.8,202201090cle
+Chris Evans,EvanCh02,rushing,CIN,7,35,2,26,3.7,9,1.3,3,2.3,202201090cle
+Brandon Allen,AlleBr00,rushing,CIN,1,3,1,1,1,2,2,0,NA,202201090cle
+Stanley Morgan Jr.,MorgSt02,rushing,CIN,1,3,NA,3,3,0,0,0,NA,202201090cle
+D'Ernest Johnson,JohnDE04,rushing,CLE,25,123,8,105,4.2,18,0.7,1,25,202201090cle
+Nick Chubb,ChubNi00,rushing,CLE,9,58,3,14,1.6,44,4.9,3,3,202201090cle
+Case Keenum,KeenCa00,rushing,CLE,5,15,3,14,2.8,1,0.2,0,NA,202201090cle
+Demetric Felton,FeltDe00,rushing,CLE,1,6,0,6,6,0,0,0,NA,202201090cle
+Anthony Schwartz,SchwAn00,rushing,CLE,1,3,1,3,3,0,0,0,NA,202201090cle

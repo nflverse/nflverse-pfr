@@ -1,0 +1,19 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Keelan Cole,ColeKe00,receiving,NYJ,3,3,54,1,1,22,7.3,32,10.7,7.3,0,NA,0,0,0,158.3,202201090buf
+Tarik Black,BlacTa00,receiving,NYJ,2,1,10,0,1,10,10,0,0,9,0,NA,1,50,0,64.6,202201090buf
+Jeff Smith,SmitJe03,receiving,NYJ,3,1,2,0,NA,1,1,1,1,0.7,0,NA,0,0,0,42.4,202201090buf
+Tyler Kroft,KrofTy00,receiving,NYJ,3,1,5,0,NA,5,5,0,0,3.3,0,NA,2,66.7,0,42.4,202201090buf
+Jamison Crowder,CrowJa00,receiving,NYJ,1,1,16,0,1,16,16,0,0,16,0,NA,0,0,0,118.7,202201090buf
+Tevin Coleman,ColeTe01,receiving,NYJ,1,0,0,0,NA,0,NA,0,NA,20,0,NA,0,0,0,39.6,202201090buf
+Ty Johnson,JohnTy02,receiving,NYJ,1,0,0,0,NA,0,NA,0,NA,12,0,NA,0,0,0,39.6,202201090buf
+Michael Carter,CartMi03,receiving,NYJ,3,0,0,0,0,0,NA,0,NA,-1,0,NA,1,33.3,0,39.6,202201090buf
+Denzel Mims,MimsDe00,receiving,NYJ,2,0,0,0,NA,0,NA,0,NA,14,0,NA,0,0,0,39.6,202201090buf
+Stefon Diggs,DiggSt00,receiving,BUF,14,9,81,1,6,52,5.8,29,3.2,8.4,0,NA,1,7.1,0,103.6,202201090buf
+Cole Beasley,BeasCo00,receiving,BUF,5,4,31,0,1,20,5,11,2.8,5.2,0,NA,1,20,0,92.5,202201090buf
+Gabriel Davis,DaviGa01,receiving,BUF,14,3,39,0,2,30,10,9,3,15.9,0,NA,2,14.3,0,39.6,202201090buf
+Dawson Knox,KnoxDa00,receiving,BUF,5,3,49,0,2,19,6.3,30,10,7.6,0,NA,0,0,0,92.9,202201090buf
+Zack Moss,MossZa00,receiving,BUF,2,2,6,0,NA,1,0.5,5,2.5,0.5,0,NA,0,0,0,79.2,202201090buf
+Devin Singletary,SingDe00,receiving,BUF,2,2,24,1,2,-7,-3.5,31,15.5,-3.5,1,2,0,0,0,156.2,202201090buf
+Jake Kumerow,KumeJa00,receiving,BUF,1,1,15,0,1,12,12,3,3,12,0,NA,0,0,0,118.7,202201090buf
+Isaiah McKenzie,McKeIs00,receiving,BUF,1,1,9,0,1,6,6,3,3,6,0,NA,0,0,0,104.2,202201090buf
+Reggie Gilliam,GillRe00,receiving,BUF,1,0,0,0,NA,0,NA,0,NA,3,0,NA,1,100,0,39.6,202201090buf

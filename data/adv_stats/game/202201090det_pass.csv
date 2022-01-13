@@ -1,0 +1,6 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Aaron Rodgers,RodgAa00,passing,GNB,14,18,138,9,42.9,108,6,73,5.2,4.1,65,4.6,1,5.6%,2,11.1%,3,7,1,1,5,22.7%,1,7,202201090det
+Jordan Love,LoveJo03,passing,GNB,10,17,134,6,33.3,108,6.4,26,2.6,1.5,108,10.8,1,5.9%,3,17.6%,1,7,3,1,5,27.8%,0,NA,202201090det
+Jared Goff,GoffJa00,passing,DET,21,30,238,11,35.5,211,7,115,5.5,3.8,123,5.9,0,0.0%,6,22.2%,1,5,4,3,8,25.8%,0,NA,202201090det
+Jack Fox,FoxxJa01,passing,DET,0,1,0,NA,NA,13,13,0,NA,0,0,NA,0,0.0%,1,100.0%,0,1,0,0,0,0.0%,0,NA,202201090det
+Tom Kennedy,KennTo01,passing,DET,1,1,75,1,100,24,24,24,24,24,51,51,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,NA,202201090det

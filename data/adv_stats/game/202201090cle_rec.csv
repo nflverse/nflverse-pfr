@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Chris Evans,EvanCh02,receiving,CIN,5,4,24,1,1,-7,-1.8,31,7.8,-1.4,2,2,0,0,0,126.2,202201090cle
+Mitchell Wilcox,WilcMi01,receiving,CIN,5,3,16,0,NA,8,2.7,8,2.7,3.8,1,3,1,20,0,65.4,202201090cle
+Ja'Marr Chase,ChasJa00,receiving,CIN,4,2,26,0,1,-3,-1.5,29,14.5,5,1,2,0,0,0,70.8,202201090cle
+Trent Taylor,TaylTr02,receiving,CIN,3,2,41,0,2,34,17,7,3.5,11.3,0,NA,0,0,0,109.7,202201090cle
+Trayveon Williams,WillTr06,receiving,CIN,2,1,4,0,0,-7,-7,11,11,-3.5,1,1,0,0,0,56.2,202201090cle
+Drew Sample,SampDr00,receiving,CIN,1,1,8,0,NA,-4,-4,12,12,-4,1,1,0,0,0,100,202201090cle
+Stanley Morgan Jr.,MorgSt02,receiving,CIN,2,1,8,0,NA,0,0,8,8,1,0,NA,0,0,0,60.4,202201090cle
+Trenton Irwin,IrwiTr00,receiving,CIN,4,1,9,0,NA,6,6,3,3,15.8,0,NA,0,0,0,39.6,202201090cle
+Mike Thomas,ThomMi04,receiving,CIN,3,0,0,0,NA,0,NA,0,NA,13,0,NA,0,0,0,39.6,202201090cle
+Jarvis Landry,LandJa00,receiving,CLE,8,6,75,1,3,49,8.2,26,4.3,6.5,1,6,0,0,0,143.2,202201090cle
+Donovan Peoples-Jones,PeopDo00,receiving,CLE,4,3,38,0,2,3,1,35,11.7,1.3,2,1.5,0,0,0,104.2,202201090cle
+David Njoku,NjokDa00,receiving,CLE,2,2,11,0,NA,9,4.5,2,1,4.5,0,NA,0,0,0,89.6,202201090cle
+Demetric Felton,FeltDe00,receiving,CLE,2,2,18,1,1,-8,-4,26,13,-4,0,NA,0,0,0,143.7,202201090cle
+D'Ernest Johnson,JohnDE04,receiving,CLE,1,1,10,0,1,-2,-2,12,12,-2,0,NA,0,0,0,108.3,202201090cle
+Anthony Schwartz,SchwAn00,receiving,CLE,3,1,13,0,1,13,13,0,0,9.3,0,NA,1,33.3,0,47.9,202201090cle
+Nick Chubb,ChubNi00,receiving,CLE,1,1,2,0,0,-5,-5,7,7,-5,1,1,0,0,0,79.2,202201090cle
+Harrison Bryant,BryaHa00,receiving,CLE,3,1,9,0,NA,5,5,4,4,10,0,NA,0,0,1,2.8,202201090cle

@@ -1,0 +1,12 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Harris,HarrDa06,rushing,NWE,11,37,4,18,1.6,19,1.7,2,5.5,202201090mia
+Brandon Bolden,BoldBr00,rushing,NWE,7,46,3,5,0.7,41,5.9,0,NA,202201090mia
+Rhamondre Stevenson,StevRh00,rushing,NWE,4,34,1,4,1,30,7.5,0,NA,202201090mia
+Mac Jones,JoneMa05,rushing,NWE,3,4,1,1,0.3,3,1,0,NA,202201090mia
+Kendrick Bourne,BourKe00,rushing,NWE,1,8,1,8,8,0,0,0,NA,202201090mia
+Jonnu Smith,SmitJo01,rushing,NWE,1,5,1,0,0,5,5,0,NA,202201090mia
+Duke Johnson,JohnDu00,rushing,MIA,25,117,5,38,1.5,79,3.2,3,8.3,202201090mia
+Phillip Lindsay,LindPh00,rushing,MIA,11,40,2,17,1.5,23,2.1,1,11,202201090mia
+Tua Tagovailoa,TagoTu00,rushing,MIA,5,38,5,26,5.2,12,2.4,0,NA,202201090mia
+Myles Gaskin,GaskMy00,rushing,MIA,1,-1,0,-1,-1,0,0,0,NA,202201090mia
+Michael Palardy,PalaMi00,rushing,MIA,1,1,NA,1,1,0,0,0,NA,202201090mia

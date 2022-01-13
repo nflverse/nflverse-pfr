@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Chuba Hubbard,HubbCh01,rushing,CAR,9,48,3,21,2.3,27,3,1,9,202201090tam
+Sam Darnold,DarnSa00,rushing,CAR,8,19,0,19,2.4,0,0,0,NA,202201090tam
+Ameer Abdullah,AbduAm00,rushing,CAR,7,26,2,11,1.6,15,2.1,1,7,202201090tam
+D.J. Moore,MoorD.00,rushing,CAR,1,13,1,4,4,9,9,0,NA,202201090tam
+Tommy Tremble,TremTo00,rushing,CAR,1,4,NA,2,2,2,2,0,NA,202201090tam
+Ke'Shawn Vaughn,VaugKe00,rushing,TAM,10,29,3,16,1.6,13,1.3,0,NA,202201090tam
+Kenjon Barner,BarnKe00,rushing,TAM,4,0,NA,0,0,0,0,0,NA,202201090tam
+Le'Veon Bell,BellLe00,rushing,TAM,3,14,1,10,3.3,4,1.3,0,NA,202201090tam
+Scott Miller,MillSc01,rushing,TAM,2,43,2,43,21.5,0,0,0,NA,202201090tam
+Blaine Gabbert,GabbBl00,rushing,TAM,1,-1,NA,-1,-1,0,0,0,NA,202201090tam

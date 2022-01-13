@@ -1,0 +1,11 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+AJ Dillon,DillAJ00,rushing,GNB,14,63,3,38,2.7,25,1.8,1,14,202201090det
+Patrick Taylor,TaylPa01,rushing,GNB,11,53,3,29,2.6,24,2.2,1,11,202201090det
+Jordan Love,LoveJo03,rushing,GNB,1,-1,0,-1,-1,0,0,0,NA,202201090det
+Aaron Rodgers,RodgAa00,rushing,GNB,1,7,0,7,7,0,0,0,NA,202201090det
+Jamaal Williams,WillJa06,rushing,DET,13,43,4,25,1.9,18,1.4,0,NA,202201090det
+D'Andre Swift,SwifDA00,rushing,DET,7,30,2,22,3.1,8,1.1,0,NA,202201090det
+Craig Reynolds,ReynCr00,rushing,DET,3,2,NA,-1,-0.3,3,1,0,NA,202201090det
+Tim Boyle,BoylTi00,rushing,DET,1,-1,NA,-1,-1,0,0,0,NA,202201090det
+Kalif Raymond,RaymKa00,rushing,DET,1,13,1,9,9,4,4,0,NA,202201090det
+Amon-Ra St. Brown,StxxAm00,rushing,DET,1,12,0,12,12,0,0,0,NA,202201090det

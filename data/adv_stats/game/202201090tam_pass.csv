@@ -1,0 +1,5 @@
+player_name,pfr_player_id,adv_stat_category,team,completions,attempts,passing_yards,passing_first_downs,passing_first_downs_pct,intended_air_yards,intended_air_yards_per_att,completed_air_yards,completed_air_yards_per_cmp,completed_air_yards_per_att,passing_yards_after_catch,passing_yards_after_catch_per_cmp,passing_drops,passing_drop_pct,passing_bad_throws,passing_bad_throw_pct,times_sacked,times_blitzed,times_hurried,times_hit,times_pressured,times_pressured_pct,scramble_attempts,yards_per_scramble,pfr_game_id
+Sam Darnold,DarnSa00,passing,CAR,29,42,219,10,22.7,270,6.4,68,2.3,1.6,151,5.2,2,4.9%,4,9.8%,2,17,7,4,13,26.5%,5,3.8,202201090tam
+Brandon Zylstra,ZylsBr00,passing,CAR,0,1,0,NA,NA,13,13,0,NA,0,0,NA,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,NA,202201090tam
+Tom Brady,BradTo00,passing,TAM,29,37,326,15,39.5,280,7.6,179,6.2,4.8,147,5.1,1,2.7%,7,18.9%,1,11,3,1,5,13.2%,0,NA,202201090tam
+Blaine Gabbert,GabbBl00,passing,TAM,0,2,0,NA,NA,30,15,0,NA,0,0,NA,0,0.0%,1,50.0%,0,0,0,0,0,0.0%,0,NA,202201090tam
