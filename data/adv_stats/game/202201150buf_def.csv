@@ -1,0 +1,32 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Daniel Ekuale,EkuaDa00,defense,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,0,NA,1,NA,202201150buf
+J.C. Jackson,JackJ.00,defense,NWE,0,6,5,83.3%,98,19.6,16.3,0,118.7,12.7,77,21,0,0,0,0,0,6,0,0.0%,202201150buf
+Joejuan Williams,WillJo13,defense,NWE,0,5,4,80.0%,72,18,14.4,1,158.3,12.6,57,15,0,0,0,0,0,5,0,0.0%,202201150buf
+Myles Bryant,BryaMy01,defense,NWE,0,4,3,75.0%,40,13.3,10,1,145.8,11.5,37,3,3,0,0,0,0,2,1,33.3%,202201150buf
+Kyle Dugger,DuggKy00,defense,NWE,0,3,3,100.0%,31,10.3,10.3,1,149.3,6.7,20,11,0,0,0,0,0,4,0,0.0%,202201150buf
+Adrian Phillips,PhilAd00,defense,NWE,0,4,3,75.0%,23,7.7,5.8,1,128.1,5,14,9,0,0,0,0,0,6,0,0.0%,202201150buf
+Devin McCourty,McCoDe99,defense,NWE,0,3,3,100.0%,42,14,14,0,118.7,3.7,11,31,0,0,0,0,0,8,1,11.1%,202201150buf
+Ja'Whaun Bentley,BentJa00,defense,NWE,0,3,2,66.7%,33,16.5,11,0,103.5,8,26,7,1,0,0,0,0,2,0,0.0%,202201150buf
+Kyle Van Noy,VanNKy00,defense,NWE,0,1,1,100.0%,1,1,1,1,118.7,1,1,0,2,1,0,0,1,3,0,0.0%,202201150buf
+Christian Barmore,BarmCh00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,2,1,33.3%,202201150buf
+Matt Judon,JudoMa00,defense,NWE,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,1,0,0.0%,202201150buf
+Dont'a Hightower,HighDo01,defense,NWE,0,1,0,0.0%,NA,NA,0,NA,39.6,9,NA,NA,2,0,0,0,0,3,0,0.0%,202201150buf
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,5,5,100.0%,35,7,7,0,95.8,2.4,12,23,1,1,1,0,2,8,0,0.0%,202201150buf
+Matt Milano,MilaMa00,defense,BUF,0,7,5,71.4%,32,6.4,4.6,0,80.7,2.6,8,24,2,0,1,0,1,5,0,0.0%,202201150buf
+Taron Johnson,JohnTa01,defense,BUF,0,7,5,71.4%,80,16,11.4,0,109.2,8.4,51,29,0,0,0,0,0,5,0,0.0%,202201150buf
+Levi Wallace,WallLe00,defense,BUF,1,6,4,66.7%,29,7.3,4.8,0,38.2,14,27,2,1,0,0,0,0,5,0,0.0%,202201150buf
+Cameron Lewis,LewiCa00,defense,BUF,0,4,2,50.0%,7,3.5,1.8,1,95.8,3.8,7,0,1,1,0,0,1,3,0,0.0%,202201150buf
+Micah Hyde,HydeMi00,defense,BUF,1,3,2,66.7%,8,4,2.7,1,70.1,13.7,7,1,1,0,0,0,0,2,0,0.0%,202201150buf
+Dane Jackson,JackDa02,defense,BUF,0,3,2,66.7%,73,36.5,24.3,0,109.7,16,44,29,0,0,0,0,0,3,0,0.0%,202201150buf
+Jaquan Johnson,JohnJa11,defense,BUF,0,2,2,100.0%,9,4.5,4.5,0,85.4,4.5,9,0,0,0,0,0,0,6,0,0.0%,202201150buf
+A.J. Klein,KleiAJ00,defense,BUF,0,3,2,66.7%,24,12,8,0,91,10.3,6,18,0,0,0,0,0,4,0,0.0%,202201150buf
+Carlos Basham,BashCa00,defense,BUF,0,1,1,100.0%,18,18,18,0,118.7,0,0,18,0,1,0,1,2,3,0,0.0%,202201150buf
+Siran Neal,NealSi00,defense,BUF,0,1,1,100.0%,2,2,2,0,79.2,2,2,0,0,0,0,0,0,3,0,0.0%,202201150buf
+Jerry Hughes,HughJe99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,0,1,3,1,0,0.0%,202201150buf
+Star Lotulelei,LotuSt00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,1,0,0.0%,202201150buf
+Mario Addison,AddiMa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,1,1,50.0%,202201150buf
+Gregory Rousseau,RousGr00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202201150buf
+Jordan Poyer,PoyeJo00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,2,0,0.0%,202201150buf
+Harrison Phillips,PhilHa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202201150buf
+A.J. Epenesa,EpenAJ00,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,-4,NA,NA,1,0,0,0,0,0,1,100.0%,202201150buf
+Damar Hamlin,HamlDa00,defense,BUF,0,1,0,0.0%,NA,NA,0,NA,39.6,4,NA,NA,0,0,0,0,0,1,0,0.0%,202201150buf

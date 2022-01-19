@@ -1,0 +1,10 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Damien Harris,HarrDa06,rushing,NWE,9,30,1,18,2,12,1.3,0,NA,202201150buf
+Rhamondre Stevenson,StevRh00,rushing,NWE,8,27,2,22,2.8,5,0.6,0,NA,202201150buf
+Mac Jones,JoneMa05,rushing,NWE,2,18,1,18,9,0,0,0,NA,202201150buf
+Kendrick Bourne,BourKe00,rushing,NWE,1,14,1,13,13,1,1,0,NA,202201150buf
+Devin Singletary,SingDe00,rushing,BUF,16,81,9,54,3.4,27,1.7,1,16,202201150buf
+Josh Allen,AlleJo02,rushing,BUF,6,66,4,49,8.2,17,2.8,1,6,202201150buf
+Isaiah McKenzie,McKeIs00,rushing,BUF,3,29,1,29,9.7,0,0,0,NA,202201150buf
+Mitchell Trubisky,TrubMi00,rushing,BUF,3,-2,NA,-2,-0.7,0,0,0,NA,202201150buf
+Zack Moss,MossZa00,rushing,BUF,1,0,NA,0,0,0,0,0,NA,202201150buf
