@@ -1,0 +1,20 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+JuJu Smith-Schuster,SmitJu00,receiving,PIT,8,5,26,0,3,11,2.2,15,3,4.1,0,NA,1,12.5,0,67.7,202201160kan
+Diontae Johnson,JohnDi01,receiving,PIT,10,5,34,1,4,24,4.8,10,2,10.2,0,NA,2,20,0,91.2,202201160kan
+Pat Freiermuth,FreiPa00,receiving,PIT,5,4,25,0,1,4,1,21,5.3,2.8,1,4,0,0,0,87.5,202201160kan
+Zach Gentry,GentZa00,receiving,PIT,4,4,33,0,1,14,3.5,19,4.8,3.5,0,NA,0,0,0,101,202201160kan
+Chase Claypool,ClayCh01,receiving,PIT,7,3,25,0,1,15,5,10,3.3,12.9,0,NA,0,0,0,52.7,202201160kan
+James Washington,WashJa00,receiving,PIT,3,2,37,1,2,34,17,3,1.5,20.7,0,NA,0,0,0,148.6,202201160kan
+Benny Snell Jr.,SnelBe00,receiving,PIT,2,2,16,0,2,2,1,14,7,1,0,NA,0,0,0,100,202201160kan
+Najee Harris,HarrNa00,receiving,PIT,2,2,-1,0,NA,-10,-5,9,4.5,-5,0,NA,0,0,0,79.2,202201160kan
+Ray-Ray McCloud,McClRa00,receiving,PIT,2,2,20,0,1,13,6.5,7,3.5,6.5,0,NA,0,0,0,108.3,202201160kan
+Derek Watt,WattDe00,receiving,PIT,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202201160kan
+Jerick McKinnon,McKiJe00,receiving,KAN,6,6,81,1,5,-25,-4.2,106,17.7,-4.2,0,NA,0,0,0,158.3,202201160kan
+Travis Kelce,KelcTr00,receiving,KAN,7,5,108,1,3,40,8,68,13.6,8.4,1,5,0,0,0,153.3,202201160kan
+Tyreek Hill,HillTy00,receiving,KAN,5,5,57,1,2,45,9,12,2.4,9,0,NA,0,0,0,153.7,202201160kan
+Byron Pringle,PrinBy00,receiving,KAN,7,5,37,2,3,17,3.4,20,4,6.7,0,NA,0,0,0,123.2,202201160kan
+Demarcus Robinson,RobiDe01,receiving,KAN,5,4,76,0,3,48,12,28,7,10,0,NA,0,0,1,79.2,202201160kan
+Mecole Hardman,HardMe00,receiving,KAN,4,4,43,0,2,4,1,39,9.8,1,0,NA,0,0,0,111.5,202201160kan
+Blake Bell,BellBl00,receiving,KAN,1,1,3,0,NA,-1,-1,4,4,-1,0,NA,0,0,0,79.2,202201160kan
+Nick Allegretti,AlleNi00,receiving,KAN,1,1,1,1,1,1,1,0,0,1,0,NA,0,0,0,118.7,202201160kan
+Noah Gray,GrayNo00,receiving,KAN,2,0,0,0,NA,0,NA,0,NA,6.5,0,NA,0,0,0,39.6,202201160kan

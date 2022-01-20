@@ -1,0 +1,28 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Emmanuel Moseley,MoseEm00,defense,SFO,0,15,9,60.0%,84,9.3,5.6,0,75.4,7,47,37,0,0,0,0,0,12,1,7.7%,202201160dal
+K'Waun Williams,WillKW00,defense,SFO,1,7,5,71.4%,74,14.8,10.6,1,105.7,7.7,47,27,4,0,1,0,1,2,0,0.0%,202201160dal
+Azeez Al-Shaair,AlShAz00,defense,SFO,0,4,4,100.0%,31,7.8,7.8,0,99,7,28,3,2,0,0,0,0,5,0,0.0%,202201160dal
+Ambry Thomas,ThomAm00,defense,SFO,0,5,3,60.0%,30,10,6,0,77.1,17,27,3,0,0,0,0,0,3,0,0.0%,202201160dal
+Fred Warner,WarnFr00,defense,SFO,0,2,2,100.0%,5,2.5,2.5,0,79.2,-5.5,-11,16,3,0,0,0,0,5,1,16.7%,202201160dal
+Jaquiski Tartt,TartJa00,defense,SFO,0,5,1,20.0%,24,24,4.8,0,47.1,18.4,22,2,0,0,0,0,0,2,0,0.0%,202201160dal
+Josh Norman,NormJo01,defense,SFO,0,1,1,100.0%,16,16,16,0,118.7,8,8,8,0,0,0,0,0,1,0,0.0%,202201160dal
+Arik Armstead,ArmsAr01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,1,3,4,0,0.0%,202201160dal
+Charles Omenihu,OmenCh00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1.5,3,3,0,0.0%,202201160dal
+D.J. Jones,JoneD.01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,1,0,0.0%,202201160dal
+Jimmie Ward,WardJi01,defense,SFO,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,3,1,1,0,2,3,1,25.0%,202201160dal
+Nick Bosa,BosaNi00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0.5,2,3,0,0.0%,202201160dal
+Jordan Willis,WillJo09,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,0,0,NA,202201160dal
+Kevin Givens,GiveKe01,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,4,0,0.0%,202201160dal
+Samson Ebukam,EbukSa00,defense,SFO,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,202201160dal
+Dre Greenlaw,GreeDr00,defense,SFO,0,3,0,0.0%,NA,NA,0,NA,39.6,3.3,NA,NA,3,0,0,0,0,5,0,0.0%,202201160dal
+Anthony Brown,BrowAn02,defense,DAL,1,7,7,100.0%,65,9.3,9.3,0,65.8,6,42,23,0,0,0,0,0,5,0,0.0%,202201160dal
+Trevon Diggs,DiggTr00,defense,DAL,0,6,3,50.0%,61,20.3,10.2,0,86.1,8.3,20,41,0,0,0,0,0,4,0,0.0%,202201160dal
+Leighton Vander Esch,VandLe00,defense,DAL,0,2,2,100.0%,9,4.5,4.5,0,85.4,3.5,7,2,1,0,0,0,0,13,2,13.3%,202201160dal
+Dorance Armstrong Jr.,ArmsDo00,defense,DAL,0,1,1,100.0%,-11,-11,-11,0,79.2,-10,-10,-1,0,0,1,0,1,4,1,20.0%,202201160dal
+Jourdan Lewis,LewiJo01,defense,DAL,0,4,1,25.0%,11,11,2.8,0,39.6,11,11,0,0,0,0,0,0,2,0,0.0%,202201160dal
+Jayron Kearse,KearJa00,defense,DAL,0,2,1,50.0%,18,18,9,0,81.2,5,9,9,1,0,0,0,0,7,1,12.5%,202201160dal
+Malik Hooker,HookMa00,defense,DAL,0,3,1,33.3%,19,19,6.3,0,56.2,3.7,4,15,0,0,0,0,0,3,0,0.0%,202201160dal
+Randy Gregory,GregRa00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,2,0,3,4,0,0.0%,202201160dal
+Osa Odighizuwa,OdigOs00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,5,0,0.0%,202201160dal
+Donovan Wilson,WilsDo01,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,6,0,0.0%,202201160dal
+Micah Parsons,ParsMi00,defense,DAL,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,0,0,0,10,1,9.1%,202201160dal

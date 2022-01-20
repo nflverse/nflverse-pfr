@@ -1,0 +1,18 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Dallas Goedert,GoedDa00,receiving,PHI,12,6,92,0,5,58,9.7,34,5.7,12.9,2,3,1,8.3,0,75.7,202201160tam
+Kenneth Gainwell,GainKe00,receiving,PHI,5,5,49,1,2,-7,-1.4,56,11.2,-1.4,1,5,0,0,0,147.1,202201160tam
+DeVonta Smith,SmitDe07,receiving,PHI,11,4,60,0,2,10,2.5,50,12.5,10,1,4,0,0,2,15.5,202201160tam
+Miles Sanders,SandMi01,receiving,PHI,3,3,12,0,0,4,1.3,8,2.7,1.3,0,NA,0,0,0,83.3,202201160tam
+Quez Watkins,WatkQu00,receiving,PHI,7,2,35,0,1,31,15.5,4,2,27.9,0,NA,0,0,0,47.9,202201160tam
+Jordan Howard,HowaJo00,receiving,PHI,1,1,7,0,NA,-4,-4,11,11,-4,0,NA,0,0,0,95.8,202201160tam
+Boston Scott,ScotBo02,receiving,PHI,1,1,1,0,0,-3,-3,4,4,-3,0,NA,0,0,0,79.2,202201160tam
+Jalen Reagor,ReagJa00,receiving,PHI,3,1,2,0,NA,-3,-3,5,5,5,0,NA,0,0,0,42.4,202201160tam
+Mike Evans,EvanMi00,receiving,TAM,10,9,117,1,5,74,8.2,43,4.8,7.9,0,NA,0,0,0,148.7,202201160tam
+Giovani Bernard,BernGi00,receiving,TAM,7,5,39,0,3,6,1.2,33,6.6,1.4,0,NA,1,14.3,0,84.8,202201160tam
+Rob Gronkowski,GronRo00,receiving,TAM,6,5,31,1,2,14,2.8,17,3.4,6.2,0,NA,0,0,0,127.8,202201160tam
+Cameron Brate,BratCa00,receiving,TAM,3,3,29,0,2,5,1.7,24,8,1.7,0,NA,0,0,0,106.9,202201160tam
+Tyler Johnson,JohnTy00,receiving,TAM,3,2,30,0,2,12,6,18,9,5.7,0,NA,1,33.3,0,99.3,202201160tam
+Ke'Shawn Vaughn,VaugKe00,receiving,TAM,2,2,9,0,0,-1,-0.5,10,5,-0.5,0,NA,0,0,0,85.4,202201160tam
+Breshad Perriman,PerrBr02,receiving,TAM,3,1,5,0,NA,5,5,0,0,5.3,0,NA,1,33.3,0,42.4,202201160tam
+Scott Miller,MillSc01,receiving,TAM,1,1,8,0,0,6,6,2,2,6,0,NA,0,0,0,100,202201160tam
+O.J. Howard,HowaO.00,receiving,TAM,1,1,3,0,NA,3,3,0,0,3,0,NA,0,0,0,79.2,202201160tam
