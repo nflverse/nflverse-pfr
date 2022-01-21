@@ -686,3 +686,6 @@ game_id,pfr_game_id,season,week,game_type,team,opponent,pfr_player_name,pfr_play
 2021_19_PIT_KC,202201160kan,2021,19,WC,KC,PIT,Patrick Mahomes,MahoPa00,0,0,4,0.108,3,13,1,4,8,0.178
 2021_19_PIT_KC,202201160kan,2021,19,WC,KC,PIT,Travis Kelce,KelcTr00,0,0,0,0,0,1,0,0,0,0
 2021_19_PIT_KC,202201160kan,2021,19,WC,PIT,KC,Ben Roethlisberger,RoetBe00,3,0.068,10,0.227,2,15,0,2,4,0.087
+2021_19_ARI_LA,202201170ram,2021,19,WC,LA,ARI,Matthew Stafford,StafMa00,3,0.176,1,0.059,1,9,0,1,2,0.095
+2021_19_ARI_LA,202201170ram,2021,19,WC,LA,ARI,Odell Beckham Jr.,BeckOd00,0,0,0,0,0,1,0,1,1,1
+2021_19_ARI_LA,202201170ram,2021,19,WC,ARI,LA,Kyler Murray,MurrKy00,1,0.029,10,0.294,2,11,7,2,11,0.297

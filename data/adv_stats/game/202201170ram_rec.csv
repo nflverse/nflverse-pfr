@@ -1,0 +1,15 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Christian Kirk,KirkCh01,receiving,ARI,11,6,51,0,1,36,6,15,2.5,12.5,0,NA,0,0,0,66.9,202201170ram
+Rondale Moore,MoorRo02,receiving,ARI,6,5,32,0,2,16,3.2,16,3.2,2.5,0,NA,0,0,1,49.3,202201170ram
+Zach Ertz,ErtzZa00,receiving,ARI,4,3,21,0,2,9,3,12,4,4.5,0,NA,0,0,0,86.5,202201170ram
+Eno Benjamin,BenjEn00,receiving,ARI,2,2,26,0,2,-7,-3.5,33,16.5,-3.5,0,NA,0,0,0,118.7,202201170ram
+Darrell Daniels,DaniDa02,receiving,ARI,3,2,2,0,NA,-10,-5,12,6,-2.7,0,NA,0,0,0,70.1,202201170ram
+James Conner,ConnJa00,receiving,ARI,2,1,5,0,0,-1,-1,6,6,1,0,NA,1,50,1,16.7,202201170ram
+Chase Edmonds,EdmoCh00,receiving,ARI,1,0,0,0,0,0,NA,0,NA,17,0,NA,0,0,0,39.6,202201170ram
+A.J. Green,GreeA.00,receiving,ARI,3,0,0,0,NA,0,NA,0,NA,21.3,0,NA,0,0,0,39.6,202201170ram
+Antoine Wesley,WeslAn01,receiving,ARI,2,0,0,0,NA,0,NA,0,NA,20.5,0,NA,0,0,0,39.6,202201170ram
+Cooper Kupp,KuppCo00,receiving,LAR,7,5,61,1,3,18,3.6,43,8.6,7.4,2,2.5,1,14.3,0,137.5,202201170ram
+Odell Beckham Jr.,BeckOd00,receiving,LAR,4,4,54,1,3,34,8.5,20,5,8.5,1,4,0,0,0,158.3,202201170ram
+Tyler Higbee,HigbTy00,receiving,LAR,4,3,46,0,3,25,8.3,21,7,7.8,2,1.5,1,25,0,112.5,202201170ram
+Cam Akers,AkerCa00,receiving,LAR,2,1,40,0,1,26,26,14,14,27,0,NA,1,50,0,95.8,202201170ram
+Van Jefferson,JeffVa00,receiving,LAR,1,1,41,0,1,33,33,8,8,33,0,NA,0,0,0,118.7,202201170ram
