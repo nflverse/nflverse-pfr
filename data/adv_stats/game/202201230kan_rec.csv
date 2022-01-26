@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Gabriel Davis,DaviGa01,receiving,BUF,10,8,201,4,8,164,20.5,37,4.6,19.9,0,NA,0,0,0,158.3,202201230kan
+Cole Beasley,BeasCo00,receiving,BUF,8,6,60,0,2,30,5,30,5,4.9,0,NA,0,0,0,95.8,202201230kan
+Devin Singletary,SingDe00,receiving,BUF,5,4,25,0,2,-16,-4,41,10.3,-2.6,0,NA,0,0,0,87.5,202201230kan
+Stefon Diggs,DiggSt00,receiving,BUF,6,3,7,0,1,2,0.7,5,1.7,9.3,0,NA,0,0,0,56.2,202201230kan
+Reggie Gilliam,GillRe00,receiving,BUF,2,2,8,0,NA,-4,-2,12,6,-2,0,NA,0,0,0,83.3,202201230kan
+Dawson Knox,KnoxDa00,receiving,BUF,4,2,9,0,NA,6,3,3,1.5,2.3,0,NA,1,25,0,56.2,202201230kan
+Isaiah McKenzie,McKeIs00,receiving,BUF,1,1,3,0,0,-4,-4,7,7,-4,0,NA,0,0,0,79.2,202201230kan
+Emmanuel Sanders,SandEm00,receiving,BUF,1,1,16,0,1,16,16,0,0,16,0,NA,0,0,0,118.7,202201230kan
+Tyreek Hill,HillTy00,receiving,KAN,13,11,150,1,6,56,5.1,94,8.5,6.4,1,11,0,0,0,140.4,202201230kan
+Travis Kelce,KelcTr00,receiving,KAN,9,8,96,1,7,66,8.3,30,3.8,8.1,0,NA,0,0,0,148.1,202201230kan
+Jerick McKinnon,McKiJe00,receiving,KAN,7,5,54,0,4,-11,-2.2,65,13,0,0,NA,0,0,0,93.7,202201230kan
+Byron Pringle,PrinBy00,receiving,KAN,7,5,29,1,2,25,5,4,0.8,5.1,0,NA,2,28.6,0,118.5,202201230kan
+Noah Gray,GrayNo00,receiving,KAN,2,2,14,0,1,9,4.5,5,2.5,4.5,0,NA,0,0,0,95.8,202201230kan
+Clyde Edwards-Helaire,EdwaCl00,receiving,KAN,2,1,9,0,0,4,4,5,5,2,1,1,1,50,0,62.5,202201230kan
+Mecole Hardman,HardMe00,receiving,KAN,1,1,26,0,1,2,2,24,24,2,0,NA,0,0,0,118.7,202201230kan
+Demarcus Robinson,RobiDe01,receiving,KAN,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,202201230kan

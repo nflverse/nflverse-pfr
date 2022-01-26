@@ -1,0 +1,29 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Zack Moss,MossZa00,defense,NA,NA,1,1,100.0%,NA,NA,0,NA,79.2,NA,NA,NA,0,0,0,NA,0,NA,1,NA,202201230kan
+Taron Johnson,JohnTa01,defense,BUF,0,8,6,75.0%,38,6.3,4.8,0,84.4,5.4,28,10,1,0,0,1,1,7,2,22.2%,202201230kan
+Levi Wallace,WallLe00,defense,BUF,0,10,6,60.0%,131,21.8,13.1,1,137.5,7.8,37,94,0,0,0,0,0,6,0,0.0%,202201230kan
+Tremaine Edmunds,EdmuTr01,defense,BUF,0,7,6,85.7%,62,10.3,8.9,0,103.6,3.6,22,40,2,0,0,0,0,9,0,0.0%,202201230kan
+Matt Milano,MilaMa00,defense,BUF,0,7,6,85.7%,50,8.3,7.1,1,136,2.9,20,30,2,0,0,0,0,11,1,8.3%,202201230kan
+Dane Jackson,JackDa02,defense,BUF,0,5,4,80.0%,28,7,5.6,0,90,3,8,20,0,0,0,0,0,7,1,12.5%,202201230kan
+Jordan Poyer,PoyeJo00,defense,BUF,0,2,2,100.0%,36,18,18,0,118.7,8.5,17,19,0,0,0,0,0,8,0,0.0%,202201230kan
+Micah Hyde,HydeMi00,defense,BUF,0,2,2,100.0%,14,7,7,1,135.4,7,14,0,0,0,0,0,0,4,2,33.3%,202201230kan
+Ed Oliver,OlivEd00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,1,2,3,1,25.0%,202201230kan
+Jerry Hughes,HughJe99,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,2,0,2,0,1,100.0%,202201230kan
+Carlos Basham,BashCa00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202201230kan
+Star Lotulelei,LotuSt00,defense,BUF,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,3,1,25.0%,202201230kan
+L'Jarius Sneed,SneeLJ00,defense,KAN,0,10,8,80.0%,113,14.1,11.3,1,147.1,9,74,39,2,0,0,0,0,9,0,0.0%,202201230kan
+Charvarius Ward,WardCh01,defense,KAN,0,8,4,50.0%,26,6.5,3.3,0,57.3,11.9,16,10,0,0,0,0,0,5,0,0.0%,202201230kan
+Daniel Sorensen,SoreDa01,defense,KAN,0,3,3,100.0%,18,6,6,0,91.7,0.3,1,17,2,0,0,0,0,9,1,10.0%,202201230kan
+Juan Thornhill,ThorJu00,defense,KAN,0,4,3,75.0%,98,32.7,24.5,2,156.2,17.8,68,30,0,0,0,0,0,3,1,25.0%,202201230kan
+Mike Hughes,HughMi00,defense,KAN,0,2,2,100.0%,32,16,16,1,158.3,15.5,31,1,0,0,0,0,0,2,0,0.0%,202201230kan
+Anthony Hitchens,HitcAn00,defense,KAN,0,2,2,100.0%,28,14,14,0,118.7,-1.5,-3,31,0,0,0,0,0,6,0,0.0%,202201230kan
+Frank Clark,ClarFr01,defense,KAN,0,1,1,100.0%,1,1,1,0,79.2,-3,-3,4,0,1,0,0,1,2,2,50.0%,202201230kan
+Chris Jones,JoneCh09,defense,KAN,0,1,1,100.0%,-7,-7,-7,0,79.2,-8,-8,1,0,0,0,0,0,1,0,0.0%,202201230kan
+Nick Bolton,BoltNi00,defense,KAN,0,3,1,33.3%,1,1,0.3,0,42.4,1.3,1,0,3,0,0,0,0,8,0,0.0%,202201230kan
+Deandre Baker,BakeDe00,defense,KAN,0,1,1,100.0%,12,12,12,0,116.7,12,12,0,0,0,0,0,0,1,0,0.0%,202201230kan
+Armani Watts,WattAr00,defense,KAN,0,1,1,100.0%,7,7,7,0,95.8,5,5,2,0,0,0,0,0,3,0,0.0%,202201230kan
+Melvin Ingram,IngrMe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,1,2,3,1,25.0%,202201230kan
+Jarran Reed,ReedJa02,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,1,6,0,0.0%,202201230kan
+Willie Gay Jr.,GayJWi00,defense,KAN,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,3,0,0,0,0,4,0,0.0%,202201230kan
+Ben Niemann,NiemBe00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,0,0,0,0,1,100.0%,202201230kan
+Dorian O'Daniel,ODanDo00,defense,KAN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,NA,202201230kan

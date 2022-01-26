@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Cam Akers,AkerCa00,rushing,LAR,24,48,2,19,0.8,29,1.2,1,24,202201230tam
+Matthew Stafford,StafMa00,rushing,LAR,4,6,2,6,1.5,0,0,0,NA,202201230tam
+Van Jefferson,JeffVa00,rushing,LAR,1,15,1,14,14,1,1,0,NA,202201230tam
+Sony Michel,MichSo00,rushing,LAR,1,4,NA,3,3,1,1,0,NA,202201230tam
+Leonard Fournette,FourLe00,rushing,TAM,13,51,5,33,2.5,18,1.4,1,13,202201230tam
+Tom Brady,BradTo00,rushing,TAM,1,0,0,0,0,0,0,0,NA,202201230tam
