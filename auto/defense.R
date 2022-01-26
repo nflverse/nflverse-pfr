@@ -53,8 +53,8 @@ get_def_season <- function(s) {
 # data starts 2018
 data <- purrr::map_dfr(2018:nflreadr:::most_recent_season(), get_def_season)
 
-readr::write_csv(data, "data/pfr_advanced_defense.csv")
+readr::write_csv(data, "data/adv_stats/adv_defense_season.csv")
 
-saveRDS(data, "data/pfr_advanced_defense.rds")
+saveRDS(data, "data/adv_stats/adv_defense_season.rds")
 
 rm(list = ls())

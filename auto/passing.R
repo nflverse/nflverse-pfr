@@ -135,9 +135,9 @@ get_passing <- function(s) {
 data <- map_df(2019:nflreadr:::most_recent_season(), get_passing)
 
 data %>%
-  write_csv("data/pfr_advanced_passing.csv")
+  write_csv("data/adv_stats/adv_passing_season.csv")
 
 data %>%
-  saveRDS("data/pfr_advanced_passing.rds")
+  saveRDS("data/adv_stats/adv_passing_season.rds")
 
 rm(list = ls())

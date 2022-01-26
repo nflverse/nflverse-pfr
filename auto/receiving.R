@@ -52,8 +52,8 @@ get_rec_season <- function(s) {
 # data starts 2018
 data <- purrr::map_dfr(2018:nflreadr:::most_recent_season(), get_rec_season)
 
-readr::write_csv(data, "data/pfr_advanced_receiving.csv")
+readr::write_csv(data, "data/adv_stats/adv_receiving_season.csv")
 
-saveRDS(data, "data/pfr_advanced_receiving.rds")
+saveRDS(data, "data/adv_stats/adv_receiving_season.rds")
 
 rm(list = ls())
