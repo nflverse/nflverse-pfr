@@ -1,16 +1,20 @@
-library(tidyverse)
-library(rvest)
+suppressPackageStartupMessages({
+  library(tidyverse)
+  library(rvest)
+})
 
 get_passing <- function(s) {
-  
+
+  cli::cli_process_start("Load PASS {.val {s}}")
+
   # load page--------------------------------------------------------
-  
+
   raw_url <- glue::glue("https://www.pro-football-reference.com/years/{s}/passing_advanced.htm")
-  
+
   raw_html <- read_html(raw_url)
-  
+
   # get player IDs --------------------------------------------------------
-  
+
   ids <- raw_html %>%
     html_nodes(xpath = '//*[@id="advanced_air_yards"]') %>%
     html_nodes("a") %>%
@@ -22,13 +26,13 @@ get_passing <- function(s) {
         pfr_id = stringr::str_extract(url, "(?<=[:upper:]\\/).*(?=\\.htm)")
       ) %>%
       select(pfr_id)
-  
+
   # read accuracy--------------------------------------------------------
-  
-  table2 <- raw_html %>% 
-    html_table(fill = TRUE) %>% 
-    .[[2]] %>% 
-    janitor::clean_names() %>% 
+
+  table2 <- raw_html %>%
+    html_table(fill = TRUE) %>%
+    .[[2]] %>%
+    janitor::clean_names() %>%
     tibble() %>%
     dplyr::slice(-1) %>%
     dplyr::select(
@@ -66,13 +70,13 @@ get_passing <- function(s) {
       across(pass_attempts : on_tgt_pct, ~ as.numeric(.x))
     ) %>%
     bind_cols(ids)
-  
+
   # read pressure--------------------------------------------------------
-  
-  table3 <- raw_html %>% 
-    html_table(fill = TRUE) %>% 
-    .[[3]] %>% 
-    janitor::clean_names() %>% 
+
+  table3 <- raw_html %>%
+    html_table(fill = TRUE) %>%
+    .[[3]] %>%
+    janitor::clean_names() %>%
     tibble() %>%
     dplyr::slice(-1) %>%
     dplyr::select(
@@ -91,13 +95,13 @@ get_passing <- function(s) {
       pressure_pct = str_replace(pressure_pct, "\\%", ""),
       across(pocket_time : pressure_pct, ~ as.numeric(.x))
     )
-  
+
   # read play type--------------------------------------------------------
-  
-  table4 <- raw_html %>% 
-    html_table(fill = TRUE) %>% 
-    .[[4]] %>% 
-    janitor::clean_names() %>% 
+
+  table4 <- raw_html %>%
+    html_table(fill = TRUE) %>%
+    .[[4]] %>%
+    janitor::clean_names() %>%
     tibble() %>%
     dplyr::slice(-1) %>%
     dplyr::select(
@@ -117,11 +121,14 @@ get_passing <- function(s) {
       player = str_replace(player, "\\+", ""),
       across(rpo_plays : pa_pass_yards, ~ as.numeric(.x))
     )
-  
-  table2 %>%
+
+  out <- table2 %>%
     full_join(table3, by = "player") %>%
     full_join(table4, by = "player")
-  
+
+  cli::cli_process_done()
+
+  out
 }
 
 # data seem spotty before 2019
@@ -133,3 +140,4 @@ data %>%
 data %>%
   saveRDS("data/pfr_advanced_passing.rds")
 
+rm(list = ls())
