@@ -1,0 +1,8 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Joe Mixon,MixoJo00,rushing,CIN,14,54,3,39,2.8,15,1.1,2,7,202201220oti
+Joe Burrow,BurrJo01,rushing,CIN,2,5,1,5,2.5,0,0,0,NA,202201220oti
+Ja'Marr Chase,ChasJa00,rushing,CIN,1,2,0,2,2,0,0,0,NA,202201220oti
+Chris Evans,EvanCh02,rushing,CIN,1,4,NA,3,3,1,1,0,NA,202201220oti
+Derrick Henry,HenrDe00,rushing,TEN,20,62,5,21,1.1,41,2.1,1,20,202201220oti
+D'Onta Foreman,ForeDO00,rushing,TEN,4,66,2,24,6,42,10.5,2,2,202201220oti
+Ryan Tannehill,TannRy00,rushing,TEN,3,12,0,8,2.7,4,1.3,0,NA,202201220oti

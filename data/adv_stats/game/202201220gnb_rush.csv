@@ -1,0 +1,7 @@
+player_name,pfr_player_id,adv_stat_category,team,carries,rushing_yards,rushing_first_downs,rushing_yards_before_contact,rushing_yards_before_contact_avg,rushing_yards_after_contact,rushing_yards_after_contact_avg,rushing_broken_tackles,att_br,pfr_game_id
+Elijah Mitchell,MitcEl00,rushing,SFO,17,53,2,39,2.3,14,0.8,0,NA,202201220gnb
+Deebo Samuel,SamuDe00,rushing,SFO,10,39,2,22,2.2,17,1.7,1,10,202201220gnb
+Kyle Juszczyk,JuszKy00,rushing,SFO,2,14,1,12,6,2,1,0,NA,202201220gnb
+Aaron Jones,JoneAa00,rushing,GNB,12,41,3,20,1.7,21,1.8,0,NA,202201220gnb
+AJ Dillon,DillAJ00,rushing,GNB,7,25,2,15,2.1,10,1.4,0,NA,202201220gnb
+Equanimeous St. Brown,St.BEq00,rushing,GNB,1,1,NA,0,0,1,1,0,NA,202201220gnb

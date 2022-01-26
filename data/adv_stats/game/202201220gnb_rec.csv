@@ -1,0 +1,14 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+George Kittle,KittGe00,receiving,SFO,6,4,63,0,4,37,9.3,26,6.5,12.5,0,NA,1,16.7,1,61.8,202201220gnb
+Elijah Mitchell,MitcEl00,receiving,SFO,4,3,18,0,1,4,1.3,14,4.7,1.5,0,NA,0,0,0,83.3,202201220gnb
+Deebo Samuel,SamuDe00,receiving,SFO,4,3,44,0,2,-1,-0.3,45,15,1.3,0,NA,0,0,0,110.4,202201220gnb
+Jauan Jennings,JennJa00,receiving,SFO,2,1,6,0,NA,5,5,1,1,9.5,0,NA,1,50,0,56.2,202201220gnb
+Brandon Aiyuk,AiyuBr00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,10,0,NA,0,0,0,39.6,202201220gnb
+Charlie Woerner,WoerCh00,receiving,SFO,1,0,0,0,NA,0,NA,0,NA,0,0,NA,0,0,0,39.6,202201220gnb
+Davante Adams,AdamDa01,receiving,GNB,11,9,90,0,5,69,7.7,21,2.3,11.8,0,NA,0,0,0,100.8,202201220gnb
+Aaron Jones,JoneAa00,receiving,GNB,10,9,129,0,2,23,2.6,106,11.8,2.1,0,NA,1,10,0,118.7,202201220gnb
+Allen Lazard,LazaAl00,receiving,GNB,1,1,6,0,1,6,6,0,0,6,0,NA,0,0,0,91.7,202201220gnb
+Marcedes Lewis,LewiMa00,receiving,GNB,1,1,0,0,NA,-1,-1,1,1,-1,0,NA,0,0,0,79.2,202201220gnb
+Randall Cobb,CobbRa00,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,202201220gnb
+Dominique Dafney,DafnDo00,receiving,GNB,2,0,0,0,NA,0,NA,0,NA,17,0,NA,0,0,0,39.6,202201220gnb
+Josiah Deguara,DeguJo00,receiving,GNB,1,0,0,0,NA,0,NA,0,NA,18,0,NA,1,100,0,39.6,202201220gnb

@@ -1,0 +1,30 @@
+player_name,pfr_player_id,adv_stat_category,team,def_ints,def_targets,def_completions_allowed,def_completion_pct,def_yards_allowed,def_yards_allowed_per_cmp,def_yards_allowed_per_tgt,def_receiving_td_allowed,def_passer_rating_allowed,def_adot,def_air_yards_completed,def_yards_after_catch,def_times_blitzed,def_times_hurried,def_times_hitqb,def_sacks,def_pressures,def_tackles_combined,def_missed_tackles,def_missed_tackle_pct,pfr_game_id
+Chidobe Awuzie,AwuzCh00,defense,CIN,0,7,4,57.1%,96,24,13.7,1,141.4,22.4,93,3,0,0,0,0,0,5,1,16.7%,202201220oti
+Germaine Pratt,PratGe00,defense,CIN,0,3,3,100.0%,21,7,7,0,95.8,3.3,10,11,3,0,0,0,0,4,0,0.0%,202201220oti
+Eli Apple,ApplEl00,defense,CIN,0,4,3,75.0%,35,11.7,8.8,0,101,11,31,4,0,0,0,0,0,3,0,0.0%,202201220oti
+Jessie Bates III,BateJe00,defense,CIN,1,4,2,50.0%,44,22,11,0,50,9.8,33,11,0,0,0,0,0,4,1,20.0%,202201220oti
+Mike Hilton,HiltMi01,defense,CIN,1,1,1,100.0%,8,8,8,0,60.4,1,1,7,4,1,0,0,1,2,1,33.3%,202201220oti
+Logan Wilson,WilsLo00,defense,CIN,1,2,1,50.0%,5,5,2.5,0,16.7,3,5,0,1,0,1,0,1,8,0,0.0%,202201220oti
+Vonn Bell,BellVo00,defense,CIN,0,1,1,100.0%,11,11,11,0,112.5,0,0,11,1,0,0,1,1,6,0,0.0%,202201220oti
+Trey Hendrickson,HendTr00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1,0,1,1,1,50.0%,202201220oti
+B.J. Hill,HillB.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,3,0,0.0%,202201220oti
+D.J. Reader,ReadD.00,defense,CIN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,6,0,0.0%,202201220oti
+Tre Flowers,FlowTr01,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,3,NA,NA,0,0,0,0,0,3,0,0.0%,202201220oti
+Sam Hubbard,HubbSa00,defense,CIN,0,1,0,0.0%,NA,NA,0,NA,39.6,1,NA,NA,2,0,0,0,0,3,0,0.0%,202201220oti
+Janoris Jenkins,JenkJa03,defense,TEN,0,7,5,71.4%,61,12.2,8.7,0,97.9,8.3,38,23,0,0,0,0,0,2,0,0.0%,202201220oti
+Kristian Fulton,FultKr00,defense,TEN,0,5,4,80.0%,85,21.3,17,0,118.7,4,15,70,1,0,0,0,0,6,2,25.0%,202201220oti
+Elijah Molden,MoldEl00,defense,TEN,0,4,4,100.0%,46,11.5,11.5,0,114.6,0.5,2,44,5,0,0,0,0,1,2,66.7%,202201220oti
+David Long,LongDa04,defense,TEN,0,3,3,100.0%,21,7,7,0,95.8,4,12,9,1,0,0,1,1,8,2,20.0%,202201220oti
+Zach Cunningham,CunnZa00,defense,TEN,0,3,3,100.0%,15,5,5,0,87.5,3,9,6,3,0,0,0,0,10,0,0.0%,202201220oti
+Kevin Byard,ByarKe01,defense,TEN,0,4,3,75.0%,32,10.7,8,0,97.9,-1,-4,36,1,0,0,0,0,3,1,25.0%,202201220oti
+Dane Cruikshank,CruiDa00,defense,TEN,0,2,2,100.0%,18,9,9,0,104.2,4,8,10,1,0,0,0,0,4,1,20.0%,202201220oti
+Harold Landry,LandHa00,defense,TEN,0,1,1,100.0%,22,22,22,0,118.7,13,13,9,0,1,0,1.5,3,6,0,0.0%,202201220oti
+Chris Jackson,JackCh01,defense,TEN,0,1,1,100.0%,32,32,32,0,118.7,8,8,24,0,0,0,0,0,2,0,0.0%,202201220oti
+Buster Skrine,SkriBu00,defense,TEN,0,1,1,100.0%,10,10,10,0,108.3,8,8,2,0,0,0,0,0,1,0,0.0%,202201220oti
+Amani Hooker,HookAm00,defense,TEN,1,4,1,25.0%,6,6,1.5,0,0,2.8,5,1,1,0,0,0,0,8,1,11.1%,202201220oti
+Jeffery Simmons,SimmJe01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,3,3,8,1,11.1%,202201220oti
+Naquan Jones,JoneNa01,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0.5,2,2,1,33.3%,202201220oti
+Bud Dupree,DuprAl00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,2,2,0,0.0%,202201220oti
+Denico Autry,AutrDe00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1.5,2,3,0,0.0%,202201220oti
+Kyle Peko,PekoKy00,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0.5,1,2,0,0.0%,202201220oti
+Jayon Brown,BrowJa06,defense,TEN,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,1,2,0,0.0%,202201220oti
