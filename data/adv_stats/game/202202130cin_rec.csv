@@ -1,0 +1,17 @@
+player_name,pfr_player_id,adv_stat_category,team,tgt,rec,receiving_yards,receiving_td,receiving_fd,receiving_yards_before_catch,receiving_yards_before_catch_avg,receiving_yards_after_catch,receiving_yards_after_catch_avg,adot,receiving_broken_tackles,receiving_per_broken_tackle,receiving_drop,receiving_drop_pct,receiving_int,receiving_rat,pfr_game_id
+Tyler Boyd,BoydTy00,receiving,CIN,6,5,48,0,2,24,4.8,24,4.8,5,0,NA,1,16.7,0,100,202202130cin
+Ja'Marr Chase,ChasJa00,receiving,CIN,8,5,89,0,3,53,10.6,36,7.2,11.6,0,NA,0,0,0,100.5,202202130cin
+Joe Mixon,MixoJo00,receiving,CIN,6,5,1,0,0,-15,-3,16,3.2,-2.7,0,NA,1,16.7,0,79.2,202202130cin
+Tee Higgins,HiggTe00,receiving,CIN,7,4,100,2,3,57,14.3,43,10.8,10.4,0,NA,0,0,0,141.4,202202130cin
+C.J. Uzomah,UzomC.00,receiving,CIN,2,2,11,0,1,-3,-1.5,14,7,-1.5,0,NA,0,0,0,89.6,202202130cin
+Chris Evans,EvanCh02,receiving,CIN,2,1,3,0,1,0,0,3,3,10.5,0,NA,0,0,0,56.2,202202130cin
+Mike Thomas,ThomMi04,receiving,CIN,1,1,17,0,NA,9,9,8,8,9,0,NA,0,0,0,118.7,202202130cin
+Samaje Perine,PeriSa00,receiving,CIN,1,0,0,0,NA,0,NA,0,NA,4,0,NA,0,0,0,39.6,202202130cin
+Cooper Kupp,KuppCo00,receiving,LAR,10,8,92,2,5,54,6.8,38,4.8,8.1,0,NA,0,0,0,144.6,202202130cin
+Brycen Hopkins,HopkBr01,receiving,LAR,4,4,47,0,3,25,6.3,22,5.5,6.3,2,2,0,0,0,115.6,202202130cin
+Van Jefferson,JeffVa00,receiving,LAR,8,4,23,0,1,-6,-1.5,29,7.3,12.6,0,NA,0,0,1,16.7,202202130cin
+Cam Akers,AkerCa00,receiving,LAR,4,3,14,0,1,1,0.3,13,4.3,2,0,NA,0,0,0,79.2,202202130cin
+Darrell Henderson,HendDa00,receiving,LAR,5,3,43,0,2,23,7.7,20,6.7,9.8,0,NA,0,0,0,87.9,202202130cin
+Odell Beckham Jr.,BeckOd00,receiving,LAR,3,2,52,1,2,31,15.5,21,10.5,10.7,0,NA,1,33.3,0,149.3,202202130cin
+Ben Skowronek,SkowBe00,receiving,LAR,5,2,12,0,NA,5,2.5,7,3.5,6.8,0,NA,1,20,1,8.3,202202130cin
+Matthew Stafford,StafMa00,receiving,LAR,1,0,0,0,0,0,NA,0,NA,5,0,NA,0,0,0,39.6,202202130cin
