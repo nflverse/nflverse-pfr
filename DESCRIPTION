@@ -1,39 +1,35 @@
 Package: pfrscrapR
 Title: PFR Scraping Functions for nflverse
 Version: 0.0.1
-Authors@R: 
-    c(person(given = "Tan",
-             family = "Ho",
-             role = c("aut", "cre"),
-             email = "tan@tanho.ca",
-             comment = c(ORCID = "0000-0001-8388-5155")),
-      person(given = "Ben",
-             family = "Baldwin",
-             role = "aut"),
-      person(given = "Thomas",
-             family = "Mock",
-             role = "ctb"))
+Authors@R: c(
+    person("Tan", "Ho", , "tan@tanho.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8388-5155")),
+    person("Ben", "Baldwin", role = "aut"),
+    person("Thomas", "Mock", role = "ctb")
+  )
 Description: A collection of PFR scraping functions for nflverse
+License: GPL (>= 3)
 Imports:
-    rvest (>= 1.0.0),
-    here,
     curl (>= 4.3.2),
-    purrr (>= 0.3.4),
+    dplyr (>= 1.0.7),
+    fs,
     glue (>= 1.4.2),
-    tibble (>= 3.1.2),
+    here (>= 1.0.1),
     janitor (>= 2.1.0),
     lubridate (>= 1.7.0),
-    dplyr (>= 1.0.7),
-    stringr (>= 1.4.0),
-    readr (>= 2.0.0),
-    tidyr (>= 1.1.3),
     magrittr (>= 2.0.0),
+    nflreadr (>= 1.1.0.6),
+    piggyback (>= 0.1.1),
     pkgload (>= 1.2.0),
+    purrr (>= 0.3.4),
     qs (>= 0.24.1),
-    nflreadr (>= 1.1.0.6)
+    readr (>= 2.0.0),
+    rvest (>= 1.0.0),
+    stringr (>= 1.4.0),
+    tibble (>= 3.1.2),
+    tidyr (>= 1.1.3)
 Remotes:
     nflverse/nflreadr
-License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

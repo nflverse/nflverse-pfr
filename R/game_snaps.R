@@ -83,7 +83,7 @@ pfr_game_snap_counts <- function(game_id){
       dplyr::across(dplyr::contains("pct"), ~magrittr::divide_by(.x,100))
     )
 
-  if(game_id %in% readLines("data/snap_counts/flip_ids.txt")) {
+  if(game_id %in% nflreadr::csv_from_url("https://github.com/nflverse/pfr_scrapR/releases/download/snap_counts_raw/flip_ids.csv")$flip_ids) {
     out <- out %>%
       dplyr::mutate(location = dplyr::case_when(location == "home" ~ "away", TRUE ~ "home"))
   }
