@@ -32,14 +32,11 @@ jobs:
           use-public-rspm: true
 
       - uses: r-lib/actions/setup-r-dependencies@v1
+        with:
+          cache-version: 1
+          extra-packages: |
+            nflverse/nflverse-data
+            ropensci/piggyback
+
       - name: Update snap count data
         run: Rscript -e 'source("auto/update_snap_counts.R")'
-
-      - name: Commit updated data
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull
-          git add data
-          git commit -m "Automated snap count data updates `date`" || echo "No changes to commit"
-          git push  || echo "No changes to commit"
