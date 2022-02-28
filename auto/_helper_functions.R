@@ -22,7 +22,6 @@ get_game_urls <- function(s) {
       url = paste0("https://www.pro-football-reference.com", value)
     ) %>%
     dplyr::select(url)
-
 }
 
 # get snap counts for each player in a given game
@@ -35,57 +34,57 @@ get_game_counts <- function(url) {
 
   fetched <- curl::curl_fetch_memory(url)
   page <- fetched$content %>%
-    read_html()
+    rvest::read_html()
 
   comments <- page %>%
-    html_nodes(xpath = '//comment()') %>%
-    html_text() %>%
+    rvest::html_nodes(xpath = '//comment()') %>%
+    rvest::html_text() %>%
     paste(collapse = '') %>%
-    read_html()
+    rvest::read_html()
 
   home_ids <- comments %>%
-    html_node("#home_snap_counts") %>%
-    html_nodes("a") %>%
-    html_attr("href") %>%
-    as_tibble() %>%
+    rvest::html_node("#home_snap_counts") %>%
+    rvest::html_nodes("a") %>%
+    rvest::html_attr("href") %>%
+    tibble::as_tibble() %>%
     dplyr::rename(url = value)
 
   away_ids <- comments %>%
-    html_node("#vis_snap_counts") %>%
-    html_nodes("a") %>%
-    html_attr("href") %>%
-    as_tibble() %>%
+    rvest::html_node("#vis_snap_counts") %>%
+    rvest::html_nodes("a") %>%
+    rvest::html_attr("href") %>%
+    tibble::as_tibble() %>%
     dplyr::rename(url = value)
 
-  if (is.na(comments %>% html_node("#home_snap_counts") %>% html_text())) {
+  if (is.na(comments %>% rvest::html_node("#home_snap_counts") %>% rvest::html_text())) {
     return(tibble::tibble())
   }
 
   # first we have to see if the home snap count table is commented out
   home_table <- comments %>%
-    html_node("#home_snap_counts") %>%
-    html_table(fill = TRUE) %>%
+    rvest::html_node("#home_snap_counts") %>%
+    rvest::html_table(fill = TRUE) %>%
     janitor::clean_names() %>%
-    tibble() %>%
+    tibble::tibble() %>%
     dplyr::slice(-1) %>%
     # no urls for this player so it would break things
-    filter(x != "") %>%
-    bind_cols(home_ids) %>%
+    dplyr::filter(x != "") %>%
+    dplyr::bind_cols(home_ids) %>%
     dplyr::mutate(type = "home")
 
   away_table <- comments %>%
-    html_node("#vis_snap_counts") %>%
-    html_table(fill = TRUE) %>%
+    rvest::html_node("#vis_snap_counts") %>%
+    rvest::html_table(fill = TRUE) %>%
     janitor::clean_names() %>%
-    tibble() %>%
+    tibble::tibble() %>%
     dplyr::slice(-1) %>%
     # no urls for this player so it would break things
-    filter(x != "") %>%
-    bind_cols(away_ids) %>%
+    dplyr::filter(x != "") %>%
+    dplyr::bind_cols(away_ids) %>%
     dplyr::mutate(type = "away")
 
   home_table %>%
-    bind_rows(away_table) %>%
+    dplyr::bind_rows(away_table) %>%
     dplyr::select(
       player = x,
       url,
@@ -98,14 +97,14 @@ get_game_counts <- function(url) {
       st_snaps = st,
       st_pct = st_2
     ) %>%
-    mutate(
+    dplyr::mutate(
       # repair columns
-      player = str_replace(player, "\\*", ""),
-      player = str_replace(player, "\\+", ""),
-      offense_pct = str_replace(offense_pct, "\\%", ""),
-      defense_pct = str_replace(defense_pct, "\\%", ""),
-      st_pct = str_replace(st_pct, "\\%", ""),
-      across(offense_snaps : st_pct, ~ as.numeric(.x)),
+      player = stringr::str_replace(player, "\\*", ""),
+      player = stringr::str_replace(player, "\\+", ""),
+      offense_pct = stringr::str_replace(offense_pct, "\\%", ""),
+      defense_pct = stringr::str_replace(defense_pct, "\\%", ""),
+      st_pct = stringr::str_replace(st_pct, "\\%", ""),
+      dplyr::across(offense_snaps : st_pct, ~ as.numeric(.x)),
       pfr_game_id = id
     )
 
