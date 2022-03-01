@@ -85,6 +85,9 @@ summarise_snap_counts <- function(season = nflreadr:::most_recent_season()){
   ) |>
     dplyr::filter(season == season)
 
+  attr(season_data, "nflverse_timestamp") <- Sys.time()
+  attr(season_data, "nflverse_type") <- "snap counts"
+
   filename <- glue::glue("build/snap_counts_{season}.")
 
   saveRDS(season_data, paste0(filename,"rds"))
