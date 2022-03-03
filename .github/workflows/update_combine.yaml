@@ -33,7 +33,7 @@ jobs:
       - uses: r-lib/actions/setup-r-dependencies@v2
 
       - name: Update combine
-        run: Rscript -e 'source("auto/combine.R")'
+        run: Rscript -e 'source("auto/update_combine.R")'
 
       - name: Commit and push updated data
         run: |
