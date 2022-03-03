@@ -31,6 +31,11 @@ jobs:
           use-public-rspm: true
 
       - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 1
+          extra-packages: |
+            nflverse/nflverse-data
+            ropensci/piggyback
 
       - name: Update combine
         run: Rscript -e 'source("auto/update_combine.R")'
