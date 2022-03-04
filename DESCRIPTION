@@ -10,6 +10,7 @@ Authors@R: c(
 Description: A collection of PFR scraping functions for nflverse
 License: GPL (>= 3)
 Imports:
+    arrow,
     curl (>= 4.3.2),
     dplyr (>= 1.0.7),
     fs,
