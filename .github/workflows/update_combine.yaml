@@ -1,7 +1,7 @@
 on:
   schedule:
     # runs daily between March 3 and 10th automatically and otherwise on-demand.
-    - cron:  '0 12,17 3-7 3 *'
+    - cron:  '0 12,17 3-12 3 *'
   workflow_dispatch:
 
 name: Update Combine Data
