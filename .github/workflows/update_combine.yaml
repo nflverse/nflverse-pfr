@@ -1,7 +1,7 @@
 on:
   schedule:
     # runs daily between March 3 and 10th automatically and otherwise on-demand.
-    - cron:  '0 12 3-13 3 *'
+    - cron:  '0 12,17 3-12 3 *'
   workflow_dispatch:
 
 name: Update Combine Data
@@ -18,7 +18,7 @@ jobs:
           - {os: ubuntu-latest,   r: 'release'}
 
     env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_PAT: ${{ secrets.NFLVERSE_GH_TOKEN }}
       R_KEEP_PKG_SOURCE: yes
 
     steps:
