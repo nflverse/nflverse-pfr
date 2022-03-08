@@ -1,20 +1,27 @@
-#' Automated Scrape for PFR Advanced Stats
+##' INTERNAL DEFINITIONS
+##' `GAME` level data refers to box-score type data (i.e. with home/away team designations)
+##' `WEEK` level data is same as game level except refers to every player as "team" and their opponent as "opp" (if necessary)
+##' `SEASON` level data is (typically) aggregation of `WEEK` level data, except in PFR advstats where PFR provides some stats only at season level, so we scrape season summaries instead of aggregating week data
+
 pkgload::load_all()
 
-scrape_advstats <- function(data_path = here::here("data/adv_stats/game")){
+scrape_advstats <- function(){
 
   #' List Completed Scrapes
-  completed_games <- list.files(data_path) %>%
-    stringr::str_replace_all("([[:alnum:]]+)_.*","\\1") %>%
-    unique()
+
+  completed_games <- piggyback::pb_download_url(
+    file = "scraped_games.csv",
+    repo = "nflverse/pfr_scrapR",
+    tag = "advstats_raw") |>
+    data.table::fread()
 
   game_ids <- nflreadr::load_schedules() %>%
     dplyr::filter(
-      ! pfr %in% completed_games,
+      ! pfr %in% completed_games$pfr_game_id,
       !is.na(result),
       season >= 2018
     ) %>%
-    dplyr::select(game_id = pfr)
+    dplyr::select(pfr_game_id = pfr)
 
   if(nrow(game_ids)==0) {
     cli::cli_alert_danger("No new games to scrape!")
@@ -25,7 +32,7 @@ scrape_advstats <- function(data_path = here::here("data/adv_stats/game")){
 
   #' Scrape Incomplete Games
   scrape_games <- game_ids %>%
-    dplyr::mutate(adv = purrr::map(game_id,
+    dplyr::mutate(adv = purrr::map(pfr_game_id,
                                    purrr::possibly(
                                      pfr_game_adv_stats,
                                      otherwise = list(pass = NULL,
@@ -35,7 +42,9 @@ scrape_advstats <- function(data_path = here::here("data/adv_stats/game")){
                                    )) %>%
     tidyr::unnest_longer(adv, indices_to = "stat_type", values_to = "stats") %>%
     dplyr::filter(purrr::map_lgl(stats, ~length(.x) > 0)) %>%
-    dplyr::select(game_id, stat_type, stats)
+    dplyr::select(stat_type, stats) |>
+    tidyr::unnest(stats) |>
+    dplyr::relocate(pfr_game_id,.before = 1)
 
   if(nrow(scrape_games)==0) {
     cli::cli_alert_danger("No new data for scrapes!")
@@ -46,11 +55,21 @@ scrape_advstats <- function(data_path = here::here("data/adv_stats/game")){
     cli::cli_alert_danger("Could not find advanced stats for {paste(game_ids$game_id[!game_ids$game_id %in% scrape_games$game_id], collapse = '\n')}")
   }
 
-  purrr::pwalk(scrape_games,~{
-    filename <- glue::glue("data/adv_stats/game/{..1}_{..2}.")
-    readr::write_csv(..3, paste0(filename,"csv"))
-    saveRDS(..3,paste0(filename,"rds"))
-  })
+  archived_games <- piggyback::pb_download_url(
+    file = "advstats_game.rds",
+    repo = "nflverse/pfr_scrapR",
+    tag = "advstats_raw") |>
+    nflreadr::rds_from_url() |>
+    dplyr::filter(!pfr_game_id %in% completed_games$pfr_game_id)
+
+  all_games <- bind_rows(archived_games,scrape_games)
+
+  saveRDS(all_games, "build/advstats_game.rds")
+
+  piggyback::pb_upload(file = "build/advstats_game.rds",
+                       repo = "nflverse/pfr_scrapR",
+                       tag = "advstats_raw",
+                       overwrite = TRUE)
 
   cli::cli_alert_success("Finished scraping {nrow(game_ids)}")
 
@@ -76,17 +95,11 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
       opponent = nflreadr::clean_team_abbrs(opponent, current_location = FALSE)
     )
 
-  local_data <- tidyr::crossing(pfr_game_id = schedules$pfr_game_id,
-                                stat_type = c("pass","rush","rec","def")) %>%
-    dplyr::mutate(
-      filename = glue::glue("data/adv_stats/game/{pfr_game_id}_{stat_type}.rds"),
-      data = suppressWarnings(purrr::map(filename, purrr::possibly(readRDS, otherwise = tibble::tibble()))),
-      pfr_game_id = NULL
-    )
+  local_data <- readRDS("build/advstats_game.rds") |>
+    dplyr::filter(pfr_game_id %in% schedules$pfr_game_id)
 
   pass <- local_data %>%
     dplyr::filter(stat_type == "pass") %>%
-    tidyr::unnest(data) %>%
     dplyr::select(
       pfr_game_id,
       pfr_player_name = player_name,
@@ -112,7 +125,6 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
 
   rush <- local_data %>%
     dplyr::filter(stat_type == "rush") %>%
-    tidyr::unnest(data) %>%
     dplyr::select(
       pfr_game_id,
       pfr_player_name = player_name,
@@ -137,7 +149,6 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
 
   rec <- local_data %>%
     dplyr::filter(stat_type == "rec") %>%
-    tidyr::unnest(data) %>%
     dplyr::select(
       pfr_game_id,
       pfr_player_name = player_name,
@@ -163,14 +174,12 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
 
   def <- local_data %>%
     dplyr::filter(stat_type == "def") %>%
-    tidyr::unnest(data) %>%
     dplyr::select(
       pfr_game_id,
       pfr_player_name = player_name,
-      everything(),
-      -adv_stat_category,
-      -stat_type,
-      -filename
+      pfr_player_id,
+      team,
+      starts_with("def")
     ) %>%
     dplyr::mutate(
       dplyr::across(dplyr::contains("_pct"),
@@ -191,18 +200,27 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
        def = def) %>%
     purrr::iwalk(function(dataframe,stat_type){
 
-      filename <- glue::glue("data/adv_stats/weekly/{stat_type}_{season}.")
+      attr(dataframe, "nflverse_type") <- glue::glue("advanced {stat_type} weekly stats via PFR")
+      attr(dataframe, "nflverse_timestamp") <- Sys.time()
 
-      readr::write_csv(dataframe, paste0(filename, "csv"))
-      saveRDS(dataframe, paste0(filename, "rds"))
-      qs::qsave(dataframe, paste0(filename, "qs"))
+      filename <- glue::glue("build/advstats_week_{stat_type}_{season}")
+
+      readr::write_csv(dataframe, paste0(filename, ".csv"))
+      saveRDS(dataframe, paste0(filename, ".rds"))
+      arrow::write_parquet(dataframe, paste0(filename,".parquet"))
+      qs::qsave(dataframe, paste0(filename, ".qs"))
     })
 
-  cli::cli_alert_success("Finished cleaning adv stats for {season}!")
+  list.files(path = "build",pattern =  glue::glue("advstats_week_.*_{season}"), full.names = TRUE) |>
+    nflversedata::nflverse_upload(tag = "pfr_advstats")
+
+  cli::cli_alert_success("Finished combining and uploading adv stats for {season}!")
+
+  invisible(NULL)
 }
 
 setwd(here::here())
 
-scrape_result <- scrape_advstats("data/adv_stats/game")
+scrape_result <- scrape_advstats()
 
-if(scrape_result) clean_advstats()
+if(scrape_result)  clean_advstats()

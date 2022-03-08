@@ -106,7 +106,8 @@ new_names_rush <- c(
   "ybc_att" = "rushing_yards_before_contact_avg",
   "yac" = "rushing_yards_after_contact",
   "yac_att" = "rushing_yards_after_contact_avg",
-  "brk_tkl" = "rushing_broken_tackles"
+  "brk_tkl" = "rushing_broken_tackles",
+  "att_br" = "rushing_attempts_per_broken_tackle"
 )
 
 new_names_pass <- c(
