@@ -36,6 +36,9 @@ jobs:
       - name: Run update script
         run: Rscript -e 'source("auto/update_adv_stats.R")'
 
+      - name: Run update script
+        run: Rscript -e 'source("auto/update_adv_season_stats.R")'
+
       # - name: Commit updated data
       #   run: |
       #     git config --local user.email "actions@github.com"
