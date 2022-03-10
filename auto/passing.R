@@ -13,7 +13,7 @@ get_passing <- function(s) {
   ids <- raw_html %>%
     rvest::html_nodes(xpath = '//*[@id="advanced_air_yards"]') %>%
     rvest::html_nodes("a") %>%
-      html_attr("href") %>%
+      rvest::html_attr("href") %>%
       tibble::as_tibble() %>%
       dplyr::rename(url = value) %>%
       dplyr::filter(stringr::str_detect(url, "players")) %>%
@@ -69,7 +69,7 @@ get_passing <- function(s) {
   # read pressure--------------------------------------------------------
 
   table3 <- raw_html %>%
-    html_table(fill = TRUE) %>%
+    rvest::html_table(fill = TRUE) %>%
     .[[3]] %>%
     janitor::clean_names() %>%
     tibble::tibble() %>%
@@ -127,7 +127,7 @@ get_passing <- function(s) {
 }
 
 # data seem spotty before 2019
-df_advstats <- purrr::map_df(2018:nflreadr:::most_recent_season(), get_passing)
+df_advstats <- purrr::map_df(2019:nflreadr:::most_recent_season(), purrr::possibly(get_passing,tibble::tibble()))
 
 attr(df_advstats,"nflverse_type") <- glue::glue("advanced passing season stats via PFR")
 attr(df_advstats,"nflverse_timestamp") <- Sys.time()
