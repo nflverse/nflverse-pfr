@@ -50,11 +50,12 @@ get_def_season <- function(s) {
   out
 }
 
-# data starts 2018
-data <- purrr::map_dfr(2018:nflreadr:::most_recent_season(), get_def_season)
+df_advstats <- purrr::map_df(2018:nflreadr:::most_recent_season(), get_def_season)
 
-readr::write_csv(data, "data/adv_stats/adv_defense_season.csv")
+attr(df_advstats,"nflverse_type") <- glue::glue("advanced defense season stats via PFR")
+attr(df_advstats,"nflverse_timestamp") <- Sys.time()
 
-saveRDS(data, "data/adv_stats/adv_defense_season.rds")
-
-rm(list = ls())
+data.table::fwrite(df_advstats, "build/advstats_season_def.csv")
+saveRDS(df_advstats, "build/advstats_season_def.rds")
+arrow::write_parquet(df_advstats, "build/advstats_season_def.parquet")
+qs::qsave(df_advstats, "build/advstats_season_def.qs")

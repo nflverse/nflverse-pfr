@@ -127,12 +127,12 @@ get_passing <- function(s) {
 }
 
 # data seem spotty before 2019
-data <- purrr::map_df(2019:nflreadr:::most_recent_season(), get_passing)
+df_advstats <- purrr::map_df(2018:nflreadr:::most_recent_season(), get_passing)
 
-data %>%
-  readr::write_csv("data/adv_stats/adv_passing_season.csv")
+attr(df_advstats,"nflverse_type") <- glue::glue("advanced passing season stats via PFR")
+attr(df_advstats,"nflverse_timestamp") <- Sys.time()
 
-data %>%
-  saveRDS("data/adv_stats/adv_passing_season.rds")
-
-rm(list = ls())
+data.table::fwrite(df_advstats, "build/advstats_season_pass.csv")
+saveRDS(df_advstats, "build/advstats_season_pass.rds")
+arrow::write_parquet(df_advstats, "build/advstats_season_pass.parquet")
+qs::qsave(df_advstats, "build/advstats_season_pass.qs")

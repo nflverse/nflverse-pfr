@@ -49,11 +49,13 @@ get_rec_season <- function(s) {
   out
 }
 
-# data starts 2018
-data <- purrr::map_dfr(2018:nflreadr:::most_recent_season(), get_rec_season)
+# data seem spotty before 2019
+df_advstats <- purrr::map_df(2018:nflreadr:::most_recent_season(), get_rec_season)
 
-readr::write_csv(data, "data/adv_stats/adv_receiving_season.csv")
+attr(df_advstats,"nflverse_type") <- glue::glue("advanced receiving season stats via PFR")
+attr(df_advstats,"nflverse_timestamp") <- Sys.time()
 
-saveRDS(data, "data/adv_stats/adv_receiving_season.rds")
-
-rm(list = ls())
+data.table::fwrite(df_advstats, "build/advstats_season_rec.csv")
+saveRDS(df_advstats, "build/advstats_season_rec.rds")
+arrow::write_parquet(df_advstats, "build/advstats_season_rec.parquet")
+qs::qsave(df_advstats, "build/advstats_season_rec.qs")
