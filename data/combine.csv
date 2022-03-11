@@ -6918,7 +6918,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,NA,NA,NA,NA,BlacTa00,tarik-black-1,Tarik Black,WR,Texas,6-2,213,4.54,15,40,132,6.91,4.26
 2021,NA,NA,NA,NA,NA,josh-blancato-1,Josh Blancato,WR,Georgia Tech,5-9,182,4.55,17,32,124,6.9,4.31
 2021,2021,New England Patriots,6,188,BledJo00,joshuah-bledsoe-1,Joshuah Bledsoe,S,Missouri,NA,NA,NA,NA,NA,NA,NA,NA
-2021,NA,NA,NA,NA,NA,quinton-bohanna-1,Quinton Bohanna,NT,Kentucky,6-4,327,5.46,NA,29,99,8.21,5.15
+2021,NA,NA,NA,NA,NA,quinton-bohanna-1,Quinton Bohanna,DL,Kentucky,6-4,327,5.46,NA,29,99,8.21,5.15
 2021,2021,Kansas City Chiefs,2,58,BoltNi00,nick-bolton-1,Nick Bolton,LB,Missouri,5-11,237,4.6,24,32,NA,7.4,4.5
 2021,2021,New Orleans Saints,4,133,BookIa00,ian-book-1,Ian Book,QB,Notre Dame,6-0,211,4.65,NA,32.5,115,6.99,4.19
 2021,NA,NA,NA,NA,BootDi00,dicaprio-bootle-1,Dicaprio Bootle,CB,Nebraska,5-9,180,4.38,16,36.5,126,6.77,4.03
@@ -6951,7 +6951,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,NA,NA,NA,NA,NA,donavaughn-campbell-1,Donavaughn Campbell,OL,Louisiana Tech,6-4,336,5.62,NA,22,93,8.34,5.15
 2021,NA,NA,NA,NA,CampKy00,kyree-campbell-1,Kyree Campbell,DL,Florida,6-2,287,5.46,NA,25,98,7.96,5.02
 2021,2021,Jacksonville Jaguars,2,33,CampTy01,tyson-campbell-1,Tyson Campbell,DB,Georgia,6-1,193,4.4,12,34.5,124,7.15,4.45
-2021,NA,NA,NA,NA,NA,joseph-carlson-1,Joseph Carlson,PK,Air Force,6-0,175,NA,NA,NA,NA,NA,NA
+2021,NA,NA,NA,NA,NA,joseph-carlson-1,Joseph Carlson,K,Air Force,6-0,175,NA,NA,NA,NA,NA,NA
 2021,2021,Cincinnati Bengals,2,46,CarmJa00,jackson-carman-1,Jackson Carman,OT,Clemson,6-4,317,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,NA,tory-carter-1,Tory Carter,FB,LSU,6-0,229,4.86,24,35.5,112,7.21,4.38
 2021,2021,New York Jets,4,107,CartMi03,michael-carter-5,Michael Carter,RB,North Carolina,5-7,201,4.5,16,34,119,6.81,3.98
@@ -7016,7 +7016,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,2021,Jacksonville Jaguars,5,145,FarrLu00,luke-farrell-1,Luke Farrell,TE,Ohio St.,6-5,251,4.79,22,36.5,118,7.14,4.36
 2021,2021,Dallas Cowboys,5,179,FehoSi00,simi-fehoko-1,Simi Fehoko,WR,Stanford,6-3,222,4.44,16,34.5,120,6.78,4.26
 2021,2021,Cleveland Browns,6,211,FeltDe00,demetric-felton-1,Demetric Felton,RB,UCLA,5-8,189,4.55,NA,NA,NA,NA,NA
-2021,NA,NA,NA,NA,NA,parker-ferguson-1,Parker Ferguson,T,Air Force,6-3,306,5.19,24,31,105,7.75,4.9
+2021,NA,NA,NA,NA,NA,parker-ferguson-1,Parker Ferguson,OT,Air Force,6-3,306,5.19,24,31,105,7.75,4.9
 2021,2021,Chicago Bears,1,11,FielJu00,justin-fields-2,Justin Fields,QB,Ohio St.,6-2,227,4.45,NA,NA,NA,NA,NA
 2021,2021,Cleveland Browns,5,153,FielTo00,tony-fields-ii-1,Tony Fields,LB,West Virginia,6-0,222,4.64,17,34,114,7.15,4.48
 2021,NA,NA,NA,NA,FishPa00,paddy-fisher-1,Paddy Fisher,LB,Northwestern,6-3,240,4.91,20,31.5,110,7,4.47
@@ -7093,7 +7093,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,2021,Detroit Lions,7,257,JeffJe00,jermar-jefferson-1,Jermar Jefferson,RB,Oregon St.,5-10,206,4.57,13,31,115,7.38,4.38
 2021,2021,Chicago Bears,2,39,JenkTe00,teven-jenkins-1,Teven Jenkins,OL,Oklahoma St.,6-5,317,5.01,36,32.5,106,7.72,4.66
 2021,NA,NA,NA,NA,NA,adam-jewell-1,Adam Jewell,OL,Air Force,6-2,289,5.37,NA,27.5,107,NA,NA
-2021,NA,NA,NA,NA,NA,sterling-johnson-1,Sterling Johnson,NT,Coastal Carolina,6-3,288,5.22,25,28,103,7.56,4.81
+2021,NA,NA,NA,NA,NA,sterling-johnson-1,Sterling Johnson,DL,Coastal Carolina,6-3,288,5.22,25,28,103,7.56,4.81
 2021,NA,NA,NA,NA,NA,jerome-johnson-3,Jerome Johnson,DL,Indiana,6-2,296,5.12,21,27.5,113,7.7,4.66
 2021,2021,Denver Broncos,5,164,JohnJa15,jamar-johnson-1,Jamar Johnson,DB,Indiana,6-2,205,4.58,17,35,122,7.22,4.41
 2021,NA,NA,NA,NA,JohnJo06,josh-johnson-8,Josh Johnson,RB,La-Monroe,5-8,209,4.61,22,35.5,115,7.16,4.4
@@ -7115,7 +7115,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,2021,Denver Broncos,7,237,VincKa00,kary-vincent-jr-1,Kary Vincent Jr.,CB,LSU,5-9,185,4.36,8,35.5,117,NA,NA
 2021,NA,NA,NA,NA,NA,hunter-kampmoyer-1,Hunter Kampmoyer,TE,Oregon,6-4,243,4.83,21,31,113,7.28,4.54
 2021,NA,NA,NA,NA,NA,xavier-kelly-2,Xavier Kelly,DL,Arkansas,6-4,306,5.17,27,27,99,NA,NA
-2021,NA,NA,NA,NA,NA,alex-kessman-1,Alex Kessman,PK,Pittsburgh,6-2,189,NA,NA,NA,NA,NA,NA
+2021,NA,NA,NA,NA,NA,alex-kessman-1,Alex Kessman,K,Pittsburgh,6-2,189,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,NA,devon-key-1,Devon Key,DB,Western Kentucky,5-11,208,4.56,20,38,123,7.13,4.15
 2021,NA,NA,NA,NA,KinlCa00,cameron-kinley-1,Cameron Kinley,CB,Navy,6-0,197,4.52,10,33,116,7.06,4.25
 2021,NA,NA,NA,NA,NA,logan-klusman-1,Logan Klusman,LS,Kansas,6-0,235,5.16,NA,31.5,110,7.65,4.65
@@ -7137,7 +7137,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,NA,NA,NA,NA,NA,jeremiah-littles-1,Jeremiah Littles,DL,South Alabama,6-0,278,5.15,17,26,98,7.9,4.87
 2021,NA,NA,NA,NA,NA,roy-lopez-1,Roy Lopez,DL,Arizona,6-1,304,5.19,36,31,105,7.39,4.51
 2021,2021,Pittsburgh Steelers,5,156,LoudIs00,isaiahh-loudermilk-1,Isaiahh Loudermilk,DE,Wisconsin,6-6,274,5.08,21,28.5,112,7.52,4.55
-2021,NA,NA,NA,NA,NA,blake-lynch-2,Blake Lynch,PK,Kansas St.,5-4,144,NA,NA,NA,NA,NA,NA
+2021,NA,NA,NA,NA,NA,blake-lynch-2,Blake Lynch,K,Kansas St.,5-4,144,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,NA,artayvious-lynn-1,Artayvious Lynn,TE,TCU,6-4,271,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,MackBr00,branden-mack-1,Branden Mack,WR,Temple,6-5,217,4.66,11,31,115,7.13,4.37
 2021,NA,NA,NA,NA,MaraCJ00,torrance-marable-1,CJ Marable,RB,Coastal Carolina,5-6,195,4.59,17,36,116,7.25,4.39
@@ -7170,7 +7170,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,2021,Las Vegas Raiders,2,43,MoehTr00,trevon-moehrig-woodard-1,Trevon Moehrig,S,TCU,NA,NA,4.5,NA,33,NA,NA,4.19
 2021,2021,Tennessee Titans,3,100,MoldEl00,elijah-molden-1,Elijah Molden,DB,Washington,5-9,192,4.62,13,36.5,125,NA,NA
 2021,NA,NA,NA,NA,NA,briley-moore-1,Briley Moore,TE,Kansas St.,6-4,240,4.66,26,37.5,123,7.24,4.37
-2021,NA,NA,NA,NA,NA,jaylon-moore-1,Jaylon Moore,T,West. Michigan,6-4,311,5.25,27,30,106,7.77,4.67
+2021,NA,NA,NA,NA,NA,jaylon-moore-1,Jaylon Moore,OT,West. Michigan,6-4,311,5.25,27,30,106,7.77,4.67
 2021,NA,NA,NA,NA,NA,david-moore-5,David Moore,QB,Central Michigan,6-0,200,4.86,NA,29.5,112,7.62,4.75
 2021,2021,New York Jets,2,34,MoorEl00,elijah-moore-1,Elijah Moore,WR,Mississippi,NA,NA,4.35,17,36,121,6.63,4.07
 2021,2021,Arizona Cardinals,2,49,MoorRo02,rondale-moore-1,Rondale Moore,WR,Purdue,5-7,180,4.28,NA,42.5,NA,6.65,4.06
@@ -7205,7 +7205,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,NA,NA,NA,NA,ParkAJ00,aj-parker-1,AJ Parker,DB,Kansas St.,5-11,182,4.53,10,33.5,117,7.02,4.37
 2021,2021,Dallas Cowboys,1,12,ParsMi00,micah-parsons-1,Micah Parsons,LB,Penn St.,6-3,246,4.39,19,34,126,6.89,4.4
 2021,NA,NA,NA,NA,NA,jarrett-patterson-1,Jarrett Patterson,OL,Notre Dame,5-6,195,4.52,NA,NA,NA,NA,NA
-2021,NA,NA,NA,NA,NA,riley-patterson-1,Riley Patterson,PK,Memphis,5-10,181,NA,NA,NA,NA,NA,NA
+2021,NA,NA,NA,NA,NA,riley-patterson-1,Riley Patterson,K,Memphis,5-10,181,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,PattJa01,jaret-patterson-1,Jaret Patterson,RB,Buffalo,5-6,195,4.59,19,30,117,7.03,4.35
 2021,2021,Indianapolis Colts,1,21,PayeKw00,kwity-paye-1,Kwity Paye,DL,Michigan,6-2,261,4.52,36,35.3,118,NA,NA
 2021,NA,NA,NA,NA,NA,josh-pederson-1,Josh Pederson,TE,La-Monroe,6-4,234,4.81,19,28.5,110,7.31,4.43
