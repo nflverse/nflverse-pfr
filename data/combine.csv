@@ -6918,7 +6918,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,NA,NA,NA,NA,BlacTa00,tarik-black-1,Tarik Black,WR,Texas,6-2,213,4.54,15,40,132,6.91,4.26
 2021,NA,NA,NA,NA,NA,josh-blancato-1,Josh Blancato,WR,Georgia Tech,5-9,182,4.55,17,32,124,6.9,4.31
 2021,2021,New England Patriots,6,188,BledJo00,joshuah-bledsoe-1,Joshuah Bledsoe,S,Missouri,NA,NA,NA,NA,NA,NA,NA,NA
-2021,NA,NA,NA,NA,NA,quinton-bohanna-1,Quinton Bohanna,NT,Kentucky,6-4,327,5.46,NA,29,99,8.21,5.15
+2021,NA,NA,NA,NA,NA,quinton-bohanna-1,Quinton Bohanna,DL,Kentucky,6-4,327,5.46,NA,29,99,8.21,5.15
 2021,2021,Kansas City Chiefs,2,58,BoltNi00,nick-bolton-1,Nick Bolton,LB,Missouri,5-11,237,4.6,24,32,NA,7.4,4.5
 2021,2021,New Orleans Saints,4,133,BookIa00,ian-book-1,Ian Book,QB,Notre Dame,6-0,211,4.65,NA,32.5,115,6.99,4.19
 2021,NA,NA,NA,NA,BootDi00,dicaprio-bootle-1,Dicaprio Bootle,CB,Nebraska,5-9,180,4.38,16,36.5,126,6.77,4.03
@@ -6951,7 +6951,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,NA,NA,NA,NA,NA,donavaughn-campbell-1,Donavaughn Campbell,OL,Louisiana Tech,6-4,336,5.62,NA,22,93,8.34,5.15
 2021,NA,NA,NA,NA,CampKy00,kyree-campbell-1,Kyree Campbell,DL,Florida,6-2,287,5.46,NA,25,98,7.96,5.02
 2021,2021,Jacksonville Jaguars,2,33,CampTy01,tyson-campbell-1,Tyson Campbell,DB,Georgia,6-1,193,4.4,12,34.5,124,7.15,4.45
-2021,NA,NA,NA,NA,NA,joseph-carlson-1,Joseph Carlson,PK,Air Force,6-0,175,NA,NA,NA,NA,NA,NA
+2021,NA,NA,NA,NA,NA,joseph-carlson-1,Joseph Carlson,K,Air Force,6-0,175,NA,NA,NA,NA,NA,NA
 2021,2021,Cincinnati Bengals,2,46,CarmJa00,jackson-carman-1,Jackson Carman,OT,Clemson,6-4,317,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,NA,tory-carter-1,Tory Carter,FB,LSU,6-0,229,4.86,24,35.5,112,7.21,4.38
 2021,2021,New York Jets,4,107,CartMi03,michael-carter-5,Michael Carter,RB,North Carolina,5-7,201,4.5,16,34,119,6.81,3.98
@@ -7016,7 +7016,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,2021,Jacksonville Jaguars,5,145,FarrLu00,luke-farrell-1,Luke Farrell,TE,Ohio St.,6-5,251,4.79,22,36.5,118,7.14,4.36
 2021,2021,Dallas Cowboys,5,179,FehoSi00,simi-fehoko-1,Simi Fehoko,WR,Stanford,6-3,222,4.44,16,34.5,120,6.78,4.26
 2021,2021,Cleveland Browns,6,211,FeltDe00,demetric-felton-1,Demetric Felton,RB,UCLA,5-8,189,4.55,NA,NA,NA,NA,NA
-2021,NA,NA,NA,NA,NA,parker-ferguson-1,Parker Ferguson,T,Air Force,6-3,306,5.19,24,31,105,7.75,4.9
+2021,NA,NA,NA,NA,NA,parker-ferguson-1,Parker Ferguson,OT,Air Force,6-3,306,5.19,24,31,105,7.75,4.9
 2021,2021,Chicago Bears,1,11,FielJu00,justin-fields-2,Justin Fields,QB,Ohio St.,6-2,227,4.45,NA,NA,NA,NA,NA
 2021,2021,Cleveland Browns,5,153,FielTo00,tony-fields-ii-1,Tony Fields,LB,West Virginia,6-0,222,4.64,17,34,114,7.15,4.48
 2021,NA,NA,NA,NA,FishPa00,paddy-fisher-1,Paddy Fisher,LB,Northwestern,6-3,240,4.91,20,31.5,110,7,4.47
@@ -7093,7 +7093,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,2021,Detroit Lions,7,257,JeffJe00,jermar-jefferson-1,Jermar Jefferson,RB,Oregon St.,5-10,206,4.57,13,31,115,7.38,4.38
 2021,2021,Chicago Bears,2,39,JenkTe00,teven-jenkins-1,Teven Jenkins,OL,Oklahoma St.,6-5,317,5.01,36,32.5,106,7.72,4.66
 2021,NA,NA,NA,NA,NA,adam-jewell-1,Adam Jewell,OL,Air Force,6-2,289,5.37,NA,27.5,107,NA,NA
-2021,NA,NA,NA,NA,NA,sterling-johnson-1,Sterling Johnson,NT,Coastal Carolina,6-3,288,5.22,25,28,103,7.56,4.81
+2021,NA,NA,NA,NA,NA,sterling-johnson-1,Sterling Johnson,DL,Coastal Carolina,6-3,288,5.22,25,28,103,7.56,4.81
 2021,NA,NA,NA,NA,NA,jerome-johnson-3,Jerome Johnson,DL,Indiana,6-2,296,5.12,21,27.5,113,7.7,4.66
 2021,2021,Denver Broncos,5,164,JohnJa15,jamar-johnson-1,Jamar Johnson,DB,Indiana,6-2,205,4.58,17,35,122,7.22,4.41
 2021,NA,NA,NA,NA,JohnJo06,josh-johnson-8,Josh Johnson,RB,La-Monroe,5-8,209,4.61,22,35.5,115,7.16,4.4
@@ -7115,7 +7115,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,2021,Denver Broncos,7,237,VincKa00,kary-vincent-jr-1,Kary Vincent Jr.,CB,LSU,5-9,185,4.36,8,35.5,117,NA,NA
 2021,NA,NA,NA,NA,NA,hunter-kampmoyer-1,Hunter Kampmoyer,TE,Oregon,6-4,243,4.83,21,31,113,7.28,4.54
 2021,NA,NA,NA,NA,NA,xavier-kelly-2,Xavier Kelly,DL,Arkansas,6-4,306,5.17,27,27,99,NA,NA
-2021,NA,NA,NA,NA,NA,alex-kessman-1,Alex Kessman,PK,Pittsburgh,6-2,189,NA,NA,NA,NA,NA,NA
+2021,NA,NA,NA,NA,NA,alex-kessman-1,Alex Kessman,K,Pittsburgh,6-2,189,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,NA,devon-key-1,Devon Key,DB,Western Kentucky,5-11,208,4.56,20,38,123,7.13,4.15
 2021,NA,NA,NA,NA,KinlCa00,cameron-kinley-1,Cameron Kinley,CB,Navy,6-0,197,4.52,10,33,116,7.06,4.25
 2021,NA,NA,NA,NA,NA,logan-klusman-1,Logan Klusman,LS,Kansas,6-0,235,5.16,NA,31.5,110,7.65,4.65
@@ -7137,7 +7137,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,NA,NA,NA,NA,NA,jeremiah-littles-1,Jeremiah Littles,DL,South Alabama,6-0,278,5.15,17,26,98,7.9,4.87
 2021,NA,NA,NA,NA,NA,roy-lopez-1,Roy Lopez,DL,Arizona,6-1,304,5.19,36,31,105,7.39,4.51
 2021,2021,Pittsburgh Steelers,5,156,LoudIs00,isaiahh-loudermilk-1,Isaiahh Loudermilk,DE,Wisconsin,6-6,274,5.08,21,28.5,112,7.52,4.55
-2021,NA,NA,NA,NA,NA,blake-lynch-2,Blake Lynch,PK,Kansas St.,5-4,144,NA,NA,NA,NA,NA,NA
+2021,NA,NA,NA,NA,NA,blake-lynch-2,Blake Lynch,K,Kansas St.,5-4,144,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,NA,artayvious-lynn-1,Artayvious Lynn,TE,TCU,6-4,271,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,MackBr00,branden-mack-1,Branden Mack,WR,Temple,6-5,217,4.66,11,31,115,7.13,4.37
 2021,NA,NA,NA,NA,MaraCJ00,torrance-marable-1,CJ Marable,RB,Coastal Carolina,5-6,195,4.59,17,36,116,7.25,4.39
@@ -7170,7 +7170,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,2021,Las Vegas Raiders,2,43,MoehTr00,trevon-moehrig-woodard-1,Trevon Moehrig,S,TCU,NA,NA,4.5,NA,33,NA,NA,4.19
 2021,2021,Tennessee Titans,3,100,MoldEl00,elijah-molden-1,Elijah Molden,DB,Washington,5-9,192,4.62,13,36.5,125,NA,NA
 2021,NA,NA,NA,NA,NA,briley-moore-1,Briley Moore,TE,Kansas St.,6-4,240,4.66,26,37.5,123,7.24,4.37
-2021,NA,NA,NA,NA,NA,jaylon-moore-1,Jaylon Moore,T,West. Michigan,6-4,311,5.25,27,30,106,7.77,4.67
+2021,NA,NA,NA,NA,NA,jaylon-moore-1,Jaylon Moore,OT,West. Michigan,6-4,311,5.25,27,30,106,7.77,4.67
 2021,NA,NA,NA,NA,NA,david-moore-5,David Moore,QB,Central Michigan,6-0,200,4.86,NA,29.5,112,7.62,4.75
 2021,2021,New York Jets,2,34,MoorEl00,elijah-moore-1,Elijah Moore,WR,Mississippi,NA,NA,4.35,17,36,121,6.63,4.07
 2021,2021,Arizona Cardinals,2,49,MoorRo02,rondale-moore-1,Rondale Moore,WR,Purdue,5-7,180,4.28,NA,42.5,NA,6.65,4.06
@@ -7205,7 +7205,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2021,NA,NA,NA,NA,ParkAJ00,aj-parker-1,AJ Parker,DB,Kansas St.,5-11,182,4.53,10,33.5,117,7.02,4.37
 2021,2021,Dallas Cowboys,1,12,ParsMi00,micah-parsons-1,Micah Parsons,LB,Penn St.,6-3,246,4.39,19,34,126,6.89,4.4
 2021,NA,NA,NA,NA,NA,jarrett-patterson-1,Jarrett Patterson,OL,Notre Dame,5-6,195,4.52,NA,NA,NA,NA,NA
-2021,NA,NA,NA,NA,NA,riley-patterson-1,Riley Patterson,PK,Memphis,5-10,181,NA,NA,NA,NA,NA,NA
+2021,NA,NA,NA,NA,NA,riley-patterson-1,Riley Patterson,K,Memphis,5-10,181,NA,NA,NA,NA,NA,NA
 2021,NA,NA,NA,NA,PattJa01,jaret-patterson-1,Jaret Patterson,RB,Buffalo,5-6,195,4.59,19,30,117,7.03,4.35
 2021,2021,Indianapolis Colts,1,21,PayeKw00,kwity-paye-1,Kwity Paye,DL,Michigan,6-2,261,4.52,36,35.3,118,NA,NA
 2021,NA,NA,NA,NA,NA,josh-pederson-1,Josh Pederson,TE,La-Monroe,6-4,234,4.81,19,28.5,110,7.31,4.43
@@ -7361,8 +7361,8 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,christopher-allen-1,Christopher Allen,EDGE,Alabama,6-4,241,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,tyler-allgeier-1,Tyler Allgeier,RB,BYU,5-11,224,4.6,NA,33,120,NA,NA
 2022,NA,NA,NA,NA,NA,NA,Troy Andersen,LB,Montana St.,6-4,243,4.42,NA,36,128,NA,NA
-2022,NA,NA,NA,NA,NA,tycen-anderson-1,Tycen Anderson,SAF,Toledo,6-2,209,4.36,NA,35.5,123,6.64,4.28
-2022,NA,NA,NA,NA,NA,NA,Blaise Andries,G,Minnesota,6-6,308,5.1,NA,30.5,106,7.84,4.68
+2022,NA,NA,NA,NA,NA,tycen-anderson-1,Tycen Anderson,S,Toledo,6-2,209,4.36,NA,35.5,123,6.64,4.28
+2022,NA,NA,NA,NA,NA,NA,Blaise Andries,OG,Minnesota,6-6,308,5.1,NA,30.5,106,7.84,4.68
 2022,NA,NA,NA,NA,NA,matt-araiza-1,Matt Araiza,P,San Diego St.,6-1,200,4.68,NA,32,121,NA,NA
 2022,NA,NA,NA,NA,NA,jalyn-armour-davis-1,Jalyn Armour-Davis,CB,Alabama,6-1,197,4.39,14,34.5,NA,NA,NA
 2022,NA,NA,NA,NA,NA,brian-asamoah-ll-1,Brian Asamoah,LB,Oklahoma,6-0,226,4.56,NA,36.5,124,NA,NA
@@ -7373,50 +7373,50 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,darrian-beavers-1,Darrian Beavers,LB,Cincinnati,6-4,237,NA,NA,36.5,125,6.91,NA
 2022,NA,NA,NA,NA,NA,david-bell-6,David Bell,WR,Purdue,6-1,212,4.65,NA,33,118,7.14,4.57
 2022,NA,NA,NA,NA,NA,greg-bell-5,Greg Bell,RB,San Diego St.,5-11,201,NA,17,31,120,NA,NA
-2022,NA,NA,NA,NA,NA,NA,Markquese Bell,SAF,Florida A&M,6-2,212,4.41,NA,36.5,123,NA,4.46
+2022,NA,NA,NA,NA,NA,NA,Markquese Bell,S,Florida A&M,6-2,212,4.41,NA,36.5,123,NA,4.46
 2022,NA,NA,NA,NA,NA,daniel-bellinger-1,Daniel Bellinger,TE,San Diego St.,6-5,253,4.63,22,34.5,125,7.05,4.47
-2022,NA,NA,NA,NA,NA,dane-belton-1,Dane Belton,SAF,Iowa,6-1,205,4.43,NA,36.5,123,7.01,4.24
+2022,NA,NA,NA,NA,NA,dane-belton-1,Dane Belton,S,Iowa,6-1,205,4.43,NA,36.5,123,7.01,4.24
 2022,NA,NA,NA,NA,NA,terrel-bernard-1,Terrel Bernard,LB,Baylor,6-1,224,NA,22,35.5,123,7.03,4.25
-2022,NA,NA,NA,NA,NA,bubba-bolden-1,Bubba Bolden,SAF,Miami,6-2,209,4.47,NA,NA,116,NA,NA
+2022,NA,NA,NA,NA,NA,bubba-bolden-1,Bubba Bolden,S,Miami,6-2,209,4.47,NA,NA,116,NA,NA
 2022,NA,NA,NA,NA,NA,slade-bolden-1,Slade Bolden,WR,Alabama,5-11,193,4.66,NA,32,116,NA,NA
 2022,NA,NA,NA,NA,NA,nik-bonitto-1,Nik Bonitto,EDGE,Oklahoma,6-3,248,4.54,NA,35.5,120,7.07,4.23
 2022,NA,NA,NA,NA,NA,thomas-booker-1,Thomas Booker,DT,Stanford,6-3,301,4.94,NA,NA,110,7.33,4.41
 2022,NA,NA,NA,NA,NA,andrew-booth-jr-1,Andrew Booth,CB,Clemson,6-0,194,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,max-borghi-1,Max Borghi,RB,Washington St.,5-9,210,NA,20,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,jaquan-brisker-1,Jaquan Brisker,SAF,Penn St.,6-1,199,4.49,22,34.5,124,NA,NA
+2022,NA,NA,NA,NA,NA,jaquan-brisker-1,Jaquan Brisker,S,Penn St.,6-1,199,4.49,22,34.5,124,NA,NA
 2022,NA,NA,NA,NA,NA,gabe-brkic-1,Gabe Brkic,K,Oklahoma,6-2,197,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,kennedy-brooks-1,Kennedy Brooks,RB,Oklahoma,5-11,209,4.59,NA,31,120,NA,NA
 2022,NA,NA,NA,NA,NA,ben-brown-3,Ben Brown,C,Mississippi,6-5,312,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,leddie-brown-1,Leddie Brown,RB,West Virginia,6-0,213,4.64,NA,30,118,NA,NA
 2022,NA,NA,NA,NA,NA,montaric-brown-1,Montaric Brown,CB,Arkansas,6-0,196,4.55,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,logan-bruss-1,Logan Bruss,G,Wisconsin,6-5,309,5.32,NA,31,112,7.57,4.55
+2022,NA,NA,NA,NA,NA,logan-bruss-1,Logan Bruss,OG,Wisconsin,6-5,309,5.32,NA,31,112,7.57,4.55
 2022,NA,NA,NA,NA,NA,coby-bryant-1,Coby Bryant,CB,Cincinnati,6-1,193,4.54,17,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,spencer-burford-1,Spencer Burford,G,Texas-San Antonio,6-4,304,5.19,NA,27.5,105,NA,4.73
+2022,NA,NA,NA,NA,NA,spencer-burford-1,Spencer Burford,OG,Texas-San Antonio,6-4,304,5.19,NA,27.5,105,NA,4.73
 2022,NA,NA,NA,NA,NA,treylon-burks-1,Treylon Burks,WR,Arkansas,6-2,225,4.55,NA,33,122,7.28,NA
 2022,NA,NA,NA,NA,NA,darien-butler-1,Darien Butler,LB,Arizona St.,5-10,221,NA,NA,NA,NA,7.47,NA
 2022,NA,NA,NA,NA,NA,matthew-butler-1,Matthew Butler,DT,Tennessee,6-4,297,5,17,32,112,7.89,4.81
-2022,NA,NA,NA,NA,NA,percy-butler-1,Percy Butler,SAF,Louisiana,6-0,194,4.36,NA,31.5,123,NA,NA
+2022,NA,NA,NA,NA,NA,percy-butler-1,Percy Butler,S,Louisiana,6-0,194,4.36,NA,31.5,123,NA,NA
 2022,NA,NA,NA,NA,NA,grant-calcaterra-1,Grant Calcaterra,TE,SMU,6-4,241,4.62,20,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,jake-camarda-1,Jake Camarda,P,Georgia,6-1,193,4.56,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,chance-campbell-1,Chance Campbell,LB,Mississippi,6-2,232,4.57,NA,39.5,127,NA,NA
-2022,NA,NA,NA,NA,NA,NA,Ja'Tyre Carter,G,Southern,6-3,311,5.13,NA,30,108,7.84,4.9
+2022,NA,NA,NA,NA,NA,NA,Ja'Tyre Carter,OG,Southern,6-3,311,5.13,NA,30,108,7.84,4.9
 2022,NA,NA,NA,NA,NA,zachary-carter-1,Zachary Carter,DE,Florida,6-4,282,4.99,19,27.5,110,NA,NA
 2022,NA,NA,NA,NA,NA,tariq-castro-fields-1,Tariq Castro-Fields,CB,Penn St.,6-1,197,4.38,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,ty-chandler-1,Tykevious Chandler,RB,North Carolina,5-11,204,4.38,NA,31,121,NA,NA
 2022,NA,NA,NA,NA,NA,leo-chenal-1,Leo Chenal,LB,Wisconsin,6-3,250,4.53,NA,40.5,128,NA,NA
-2022,NA,NA,NA,NA,NA,lewis-cine-1,Lewis Cine,SAF,Georgia,6-2,199,4.37,NA,36.5,133,NA,NA
+2022,NA,NA,NA,NA,NA,lewis-cine-1,Lewis Cine,S,Georgia,6-2,199,4.37,NA,36.5,133,NA,NA
 2022,NA,NA,NA,NA,NA,damone-clark-1,Damone Clark,LB,LSU,6-3,239,4.57,NA,36.5,127,7.12,NA
 2022,NA,NA,NA,NA,NA,micheal-clemons-1,Micheal Clemons,DE,Texas A&M,6-5,263,NA,24,NA,116,NA,NA
 2022,NA,NA,NA,NA,NA,jack-coan-1,Jack Coan,QB,Notre Dame,6-3,218,4.9,NA,33,115,6.95,4.39
-2022,NA,NA,NA,NA,NA,qwynnterio-cole-1,Qwynnterrio Cole,SAF,Louisville,6-0,206,NA,16,NA,NA,NA,NA
+2022,NA,NA,NA,NA,NA,qwynnterio-cole-1,Qwynnterrio Cole,S,Louisville,6-0,206,NA,16,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,snoop-conner-1,Snoop Conner,RB,Mississippi,5-10,222,4.59,25,29.5,118,NA,NA
-2022,NA,NA,NA,NA,NA,bryan-cook-2,Bryan Cook,SAF,Cincinnati,6-1,206,NA,NA,NA,NA,NA,NA
+2022,NA,NA,NA,NA,NA,bryan-cook-2,Bryan Cook,S,Cincinnati,6-1,206,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,james-cook-2,James Cook,RB,Georgia,5-11,199,4.42,NA,33,124,NA,NA
 2022,NA,NA,NA,NA,NA,jashaun-corbin-1,Jashaun Corbin,RB,Florida St.,5-11,202,NA,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,yusuf-corker-1,Yusuf Corker,SAF,Kentucky,6-0,203,NA,23,NA,NA,NA,NA
+2022,NA,NA,NA,NA,NA,yusuf-corker-1,Yusuf Corker,S,Kentucky,6-0,203,NA,23,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,matt-corral-1,Matt Corral,QB,Mississippi,6-2,212,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,charles-cross-1,Charles Cross,OT,Mississippi St.,6-5,307,4.95,NA,26,112,7.88,4.61
-2022,NA,NA,NA,NA,NA,nick-cross-1,Nick Cross,SAF,Maryland,6-0,212,4.34,NA,37,130,NA,NA
+2022,NA,NA,NA,NA,NA,nick-cross-1,Nick Cross,S,Maryland,6-0,212,4.34,NA,37,130,NA,NA
 2022,NA,NA,NA,NA,NA,dustin-crum-1,Dustin Crum,QB,Kent St.,6-1,210,4.75,NA,32.5,120,NA,4.36
 2022,NA,NA,NA,NA,NA,myron-cunningham-1,Myron Cunningham,OT,Arkansas,6-5,320,5.38,NA,20,98,8.5,5.16
 2022,NA,NA,NA,NA,NA,dj-davidson-1,DJ Davidson,DT,Arizona St.,6-3,327,NA,23,28,NA,7.85,4.72
@@ -7434,7 +7434,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,romeo-doubs-1,Romeo Doubs,WR,Nevada,6-2,201,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,dontario-drummond-1,Dontario Drummond,WR,Mississippi,6-1,215,4.65,NA,34,122,NA,NA
 2022,NA,NA,NA,NA,NA,greg-dulcich-1,Greg Dulcich,TE,UCLA,6-4,243,4.69,16,34,122,7.05,4.37
-2022,NA,NA,NA,NA,NA,william-dunkle-1,William Dunkle,G,San Diego St.,6-5,328,5.44,25,26,95,7.97,4.91
+2022,NA,NA,NA,NA,NA,william-dunkle-1,William Dunkle,OG,San Diego St.,6-5,328,5.44,25,26,95,7.97,4.91
 2022,NA,NA,NA,NA,NA,NA,Cobie Durant,CB,South Carolina St.,5-10,180,4.38,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,jerrion-ealy-1,Jerrion Ealy,RB,Mississippi,5-8,189,4.52,NA,34.5,128,NA,NA
 2022,NA,NA,NA,NA,NA,arnold-ebiketie-1,Arnold Ebiketie,EDGE,Penn St.,6-2,250,NA,21,38,128,NA,NA
@@ -7447,7 +7447,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,kingsley-enagbare-1,Kingsley Enagbare,DE,South Carolina,6-4,258,4.87,NA,36.5,117,NA,NA
 2022,NA,NA,NA,NA,NA,akayleb-evans-1,Akayleb Evans,CB,Missouri,6-2,197,4.46,NA,36,129,NA,NA
 2022,NA,NA,NA,NA,NA,obinna-eze-1,Obinna Eze,OT,TCU,6-7,321,5.17,18,27.5,104,8.2,5.08
-2022,NA,NA,NA,NA,NA,joshua-ezeudu-1,Joshua Ezeudu,G,North Carolina,6-4,308,5.19,NA,28.5,105,7.83,4.56
+2022,NA,NA,NA,NA,NA,joshua-ezeudu-1,Joshua Ezeudu,OG,North Carolina,6-4,308,5.19,NA,28.5,105,7.83,4.56
 2022,NA,NA,NA,NA,NA,erik-ezukanma-1,Erik Ezukanma,WR,Texas Tech,6-2,209,NA,NA,36.5,126,NA,4.38
 2022,NA,NA,NA,NA,NA,daniel-faalele-1,Daniel Faalele,OT,Minnesota,6-8,384,NA,24,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,neil-farrell-jr-1,Neil Farrell,DT,LSU,6-4,330,5.41,NA,21.5,NA,8.41,NA
@@ -7462,30 +7462,30 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,haskell-garrett-1,Haskell Garrett,DT,Ohio St.,6-2,300,5.07,NA,24,NA,NA,NA
 2022,NA,NA,NA,NA,NA,jeremiah-gemmel-1,Jeremiah Gemmel,LB,North Carolina,6-1,226,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,trenton-gill-1,Trenton Gill,P,North Carolina St.,6-4,220,NA,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,luke-goedeke-1,Luke Goedeke,G,Central Michigan,6-5,312,NA,26,NA,NA,NA,NA
+2022,NA,NA,NA,NA,NA,luke-goedeke-1,Luke Goedeke,OG,Central Michigan,6-5,312,NA,26,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,mario-goodrich-1,Mario Goodrich,CB,Clemson,6-0,176,4.52,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,tyler-goodson-1,Tyler Goodson,RB,Iowa,5-9,197,4.42,NA,36.5,123,NA,NA
 2022,NA,NA,NA,NA,NA,kyler-gordon-1,Kyler Gordon,CB,Washington,6-0,194,4.52,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,isaiah-graham-mobley-1,Isaiah Graham-Mobley,LB,Boston Col.,6-1,230,4.63,NA,34.5,124,NA,NA
 2022,NA,NA,NA,NA,NA,danny-gray-1,Danny Gray,WR,SMU,6-0,186,4.33,NA,34,126,NA,NA
 2022,NA,NA,NA,NA,NA,vincent-gray-1,Vincent Gray,CB,Michigan,6-2,192,4.54,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,kenyon-green-1,Kenyon Green,G,Texas A&M,6-4,323,5.24,20,26,102,NA,5.12
+2022,NA,NA,NA,NA,NA,kenyon-green-1,Kenyon Green,OG,Texas A&M,6-4,323,5.24,20,26,102,NA,5.12
 2022,NA,NA,NA,NA,NA,jeffrey-gunter-1,Jeffrey Gunter,EDGE,Coastal Carolina,6-4,258,4.7,NA,35.5,122,7.21,4.35
 2022,NA,NA,NA,NA,NA,breece-hall-1,Breece Hall,RB,Iowa St.,5-11,217,4.39,NA,40,126,NA,NA
 2022,NA,NA,NA,NA,NA,jeremiah-hall-1,Jeremiah Hall,TE,Oklahoma,6-2,239,4.96,19,29,111,7.43,4.62
 2022,NA,NA,NA,NA,NA,logan-hall-3,Logan Hall,DE,Houston,6-6,283,4.88,NA,30,NA,7.25,4.44
-2022,NA,NA,NA,NA,NA,kyle-hamilton-1,Kyle Hamilton,SAF,Notre Dame,6-4,220,4.59,NA,38,131,6.9,4.32
+2022,NA,NA,NA,NA,NA,kyle-hamilton-1,Kyle Hamilton,S,Notre Dame,6-4,220,4.59,NA,38,131,6.9,4.32
 2022,NA,NA,NA,NA,NA,jake-hansen-1,Jake Hansen,LB,Illinois,6-1,238,NA,21,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,aaron-hansford-1,Aaron Hansford,LB,Texas A&M,6-2,239,NA,24,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,christian-harris-3,Christian Harris,LB,Alabama,6-1,226,4.44,NA,34.5,132,NA,NA
 2022,NA,NA,NA,NA,NA,kevin-harris-5,Kevin Harris,RB,South Carolina,5-10,221,NA,21,38.5,126,NA,NA
-2022,NA,NA,NA,NA,NA,kolby-harvell-peel-1,Kolby Harvell-Peel,SAF,Oklahoma St.,6-0,213,NA,21,NA,NA,NA,NA
+2022,NA,NA,NA,NA,NA,kolby-harvell-peel-1,Kolby Harvell-Peel,S,Oklahoma St.,6-0,213,NA,21,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,hassan-haskins-1,Hassan Haskins,RB,Michigan,6-2,228,NA,27,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,blake-hayes-1,Blake Hayes,P,Illinois,6-4,226,NA,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,marquis-hayes-1,Marquis Hayes,G,Oklahoma,6-5,318,5.3,NA,23.5,102,NA,NA
+2022,NA,NA,NA,NA,NA,marquis-hayes-1,Marquis Hayes,OG,Oklahoma,6-5,318,5.3,NA,23.5,102,NA,NA
 2022,NA,NA,NA,NA,NA,peyton-hendershot-1,Peyton Hendershot,TE,Indiana,6-4,250,4.8,NA,32.5,117,NA,4.25
 2022,NA,NA,NA,NA,NA,connor-heyward-1,Connor Heyward,TE,Michigan St.,5-11,233,4.72,NA,32.5,NA,NA,NA
-2022,NA,NA,NA,NA,NA,daxton-hill-1,Daxton Hill,SAF,Michigan,6-0,191,4.38,NA,33.5,121,6.57,4.06
+2022,NA,NA,NA,NA,NA,daxton-hill-1,Daxton Hill,S,Michigan,6-0,191,4.38,NA,33.5,121,6.57,4.06
 2022,NA,NA,NA,NA,NA,chasen-hines-1,Chasen Hines,C,LSU,6-3,327,5.22,NA,30.5,108,NA,NA
 2022,NA,NA,NA,NA,NA,christopher-hinton-1,Christopher Hinton,DT,Michigan,6-4,305,5.28,NA,31.5,106,NA,NA
 2022,NA,NA,NA,NA,NA,curtis-hodges-1,Curtis Hodges,TE,Arizona St.,6-8,257,4.85,NA,34.5,117,7.14,4.28
@@ -7493,8 +7493,8 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,aidan-hutchinson-1,Aidan Hutchinson,DE,Michigan,6-7,260,4.74,NA,36,117,6.73,4.15
 2022,NA,NA,NA,NA,NA,jermaine-johnson-3,Jermaine Johnson II,DE,Florida St.,6-5,254,4.58,NA,32,125,NA,NA
 2022,NA,NA,NA,NA,NA,johnny-johnson-iii-1,Johnny Johnson III,WR,Oregon,6-0,197,4.6,NA,32,121,7.21,4.54
-2022,NA,NA,NA,NA,NA,verone-mckinley-iii-1,Verone McKinley III,SAF,Oregon,5-10,198,NA,16,35,120,NA,NA
-2022,NA,NA,NA,NA,NA,ed-ingram-1,Ed Ingram,G,LSU,6-3,307,5.02,NA,20.5,102,7.81,4.76
+2022,NA,NA,NA,NA,NA,verone-mckinley-iii-1,Verone McKinley III,S,Oregon,5-10,198,NA,16,35,120,NA,NA
+2022,NA,NA,NA,NA,NA,ed-ingram-1,Ed Ingram,OG,LSU,6-3,307,5.02,NA,20.5,102,7.81,4.76
 2022,NA,NA,NA,NA,NA,keaontay-ingram-1,Keaontay Ingram,RB,USC,6-0,221,4.53,NA,34.5,122,NA,NA
 2022,NA,NA,NA,NA,NA,dmarco-jackson-1,D'Marco Jackson,LB,Appalachian St.,6-1,233,4.55,NA,33,125,NA,NA
 2022,NA,NA,NA,NA,NA,drake-jackson-2,Drake Jackson,EDGE,USC,6-3,254,NA,NA,36.5,127,NA,NA
@@ -7502,13 +7502,13 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,josh-jobe-1,Joshua Jobe,CB,Alabama,6-0,182,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,josh-johnson-9,Josh Johnson,WR,Tulsa,5-11,183,NA,14,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,tyree-johnson-2,Tyree Johnson,EDGE,Texas A&M,6-3,248,NA,21,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,zion-johnson-1,Zion Johnson,G,Boston Col.,6-3,312,5.18,32,32,112,7.38,4.46
+2022,NA,NA,NA,NA,NA,zion-johnson-1,Zion Johnson,OG,Boston Col.,6-3,312,5.18,32,32,112,7.38,4.46
 2022,NA,NA,NA,NA,NA,NA,Braxton Jones,OT,Southern Utah St.,6-5,310,4.97,NA,25.5,108,NA,4.84
 2022,NA,NA,NA,NA,NA,jack-jones-5,Jack Jones,CB,Arizona St.,5-11,171,4.51,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,marcus-jones-11,Marcus Jones,CB,Houston,5-8,174,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,travis-jones-5,Travis Jones,DT,Connecticut,6-4,325,4.92,NA,28.5,110,7.33,4.58
 2022,NA,NA,NA,NA,NA,velus-jones-jr-1,Velus Jones,WR,Tennessee,6-0,204,4.31,NA,33,121,NA,NA
-2022,NA,NA,NA,NA,NA,kerby-joseph-1,Kerby Joseph,SAF,Illinois,6-1,203,NA,18,38.5,123,NA,NA
+2022,NA,NA,NA,NA,NA,kerby-joseph-1,Kerby Joseph,S,Illinois,6-1,203,NA,18,38.5,123,NA,NA
 2022,NA,NA,NA,NA,NA,kevin-austin-2,Kevin Austin Jr.,WR,Notre Dame,6-2,200,4.43,NA,39,132,6.71,4.15
 2022,NA,NA,NA,NA,NA,reggie-roberson-jr-1,Reggie Roberson Jr.,WR,SMU,5-11,192,NA,NA,29,114,NA,NA
 2022,NA,NA,NA,NA,NA,cameron-jurgens-1,Cameron Jurgens,C,Nebraska,6-3,303,4.92,25,NA,NA,NA,NA
@@ -7516,10 +7516,10 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,NA,Cole Kelley,QB,Southeastern Louisiana,6-7,249,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,derion-kendrick-1,Derion Kendrick,CB,Georgia,6-0,194,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,deriq-king-1,D'Eriq King,QB,Miami,5-9,196,NA,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,darian-kinnard-1,Darian Kinnard,G,Kentucky,6-5,322,5.31,NA,25,99,8.11,4.96
+2022,NA,NA,NA,NA,NA,darian-kinnard-1,Darian Kinnard,OG,Kentucky,6-5,322,5.31,NA,25,99,8.11,4.96
 2022,NA,NA,NA,NA,NA,zonovan-knight-1,Zonovan Knight,RB,North Carolina St.,5-11,209,4.58,NA,31,114,NA,NA
 2022,NA,NA,NA,NA,NA,charlie-kolar-1,Charlie Kolar,TE,Iowa St.,6-7,252,NA,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,quentin-lake-1,Quentin Lake,SAF,UCLA,6-1,201,4.59,NA,NA,NA,NA,NA
+2022,NA,NA,NA,NA,NA,quentin-lake-1,Quentin Lake,S,UCLA,6-1,201,4.59,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,nate-landman-1,Nate Landman,LB,Colorado,6-3,238,4.86,NA,36.5,119,NA,NA
 2022,NA,NA,NA,NA,NA,demarvin-leal-1,DeMarvin Leal,DT,Texas A&M,6-4,283,5,NA,27.5,106,NA,4.49
 2022,NA,NA,NA,NA,NA,isaiah-likely-1,Isaiah Likely,TE,Coastal Carolina,6-5,245,NA,NA,36,NA,NA,4.57
@@ -7535,7 +7535,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,deangelo-malone-1,DeAngelo Malone,EDGE,Western Kentucky,6-3,243,NA,23,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,damarri-mathis-1,Damarri Mathis,CB,Pittsburgh,5-11,196,4.39,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,phidarian-mathis-1,Phidarian Mathis,DT,Alabama,6-4,310,NA,NA,23.5,109,NA,4.91
-2022,NA,NA,NA,NA,NA,cade-mays-1,Cade Mays,G,Tennessee,6-5,311,5.24,NA,26,102,7.57,4.71
+2022,NA,NA,NA,NA,NA,cade-mays-1,Cade Mays,OG,Tennessee,6-5,311,5.24,NA,26,102,7.57,4.71
 2022,NA,NA,NA,NA,NA,trey-mcbride-1,Trey McBride,TE,Colorado St.,6-4,246,NA,18,33,117,NA,NA
 2022,NA,NA,NA,NA,NA,marquan-mccall-1,Marquan McCall,DT,Kentucky,6-3,342,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,zakoby-mcclain-1,Zakoby McClain,LB,Auburn,5-11,228,4.69,NA,33,117,NA,NA
@@ -7544,19 +7544,19 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,roger-mccreary-1,Roger McCreary,CB,Auburn,5-11,190,4.5,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,trent-mcduffie-1,Trent McDuffie,CB,Washington,5-11,193,4.44,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,micah-mcfadden-1,Micah McFadden,LB,Indiana,6-1,240,NA,21,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,marcus-mckethan-1,Marcus McKethan,G,North Carolina,6-7,340,5.31,27,27.5,110,7.81,4.99
+2022,NA,NA,NA,NA,NA,marcus-mckethan-1,Marcus McKethan,OG,North Carolina,6-7,340,5.31,27,27.5,110,7.81,4.99
 2022,NA,NA,NA,NA,NA,bo-melton-1,Bo Melton,WR,Rutgers,5-11,189,4.34,NA,38,121,6.98,NA
 2022,NA,NA,NA,NA,NA,john-metchie-1,John Metchie,WR,Alabama,5-11,187,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,james-mitchell-2,James Mitchell,TE,Virginia Tech,6-4,249,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,NA,Max Mitchell,OT,Louisiana,6-6,307,5.32,NA,25,106,8.09,4.65
-2022,NA,NA,NA,NA,NA,smoke-monday-1,Smoke Monday,SAF,Auburn,6-2,207,4.52,NA,NA,124,7,NA
+2022,NA,NA,NA,NA,NA,smoke-monday-1,Smoke Monday,S,Auburn,6-2,207,4.52,NA,NA,124,7,NA
 2022,NA,NA,NA,NA,NA,jeremiah-moon-1,Jeremiah Moon,LB,Florida,6-5,249,4.76,NA,40.5,133,7.09,4.55
 2022,NA,NA,NA,NA,NA,skyy-moore-1,Skyy Moore,WR,Western Michigan,5-10,195,4.41,NA,34.5,125,7.13,4.32
 2022,NA,NA,NA,NA,NA,chad-muma-1,Chad Muma,LB,Wyoming,6-3,239,4.63,27,40,129,7.06,4.28
 2022,NA,NA,NA,NA,NA,thayer-munford-1,Thayer Munford,OT,Ohio St.,6-6,328,5.39,NA,22,104,NA,NA
 2022,NA,NA,NA,NA,NA,jalen-nailor-1,Jalen Nailor,WR,Michigan St.,5-11,186,4.5,NA,38,128,7.03,4.28
 2022,NA,NA,NA,NA,NA,evan-neal-1,Evan Neal,OT,Alabama,6-8,337,NA,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,leon-oneal-jr-1,Leon O'Neal,SAF,Texas A&M,6-1,204,NA,15,35,125,6.89,NA
+2022,NA,NA,NA,NA,NA,leon-oneal-jr-1,Leon O'Neal,S,Texas A&M,6-1,204,NA,15,35,125,6.89,NA
 2022,NA,NA,NA,NA,NA,otito-ogbonnia-1,Otito Ogbonnia,DT,UCLA,6-4,324,NA,29,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,david-ojabo-1,David Ojabo,EDGE,Michigan,6-4,250,4.55,NA,35,122,NA,4.45
 2022,NA,NA,NA,NA,NA,chigoziem-okonkwo-1,Chigoziem Okonkwo,TE,Maryland,6-3,238,4.52,NA,35.5,NA,NA,NA
@@ -7564,9 +7564,9 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,esezi-otomewo-1,Esezi Otomewo,DE,Minnesota,6-5,282,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,cade-otton-1,Cade Otton,TE,Washington,6-5,247,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,isaih-pacheco-1,Isiah Pacheco,RB,Rutgers,5-10,216,4.37,NA,33,118,NA,NA
-2022,NA,NA,NA,NA,NA,dylan-parham-2,Dylan Parham,G,Memphis,6-3,311,4.93,NA,26.5,108,7.78,4.7
+2022,NA,NA,NA,NA,NA,dylan-parham-2,Dylan Parham,OG,Memphis,6-3,311,4.93,NA,26.5,108,7.78,4.7
 2022,NA,NA,NA,NA,NA,joshua-paschal-1,Joshua Paschal,DE,Kentucky,6-3,268,4.77,NA,37.5,123,NA,NA
-2022,NA,NA,NA,NA,NA,chris-paul-3,Chris Paul,G,Tulsa,6-4,323,4.89,NA,27,109,7.74,4.83
+2022,NA,NA,NA,NA,NA,chris-paul-3,Chris Paul,OG,Tulsa,6-4,323,4.89,NA,27,109,7.74,4.83
 2022,NA,NA,NA,NA,NA,jayden-peevy-1,Jayden Peevy,DT,Texas A&M,6-5,308,5.3,NA,27,100,NA,NA
 2022,NA,NA,NA,NA,NA,NA,Trevor Penning,OT,Northern Iowa,6-7,325,4.89,NA,28,111,7.25,4.62
 2022,NA,NA,NA,NA,NA,NA,EJ Perry,QB,Brown,6-2,211,4.65,NA,34.5,123,6.85,4.18
@@ -7576,7 +7576,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,kenny-pickett-1,Kenny Pickett,QB,Pittsburgh,6-3,217,4.73,NA,33.5,121,NA,4.29
 2022,NA,NA,NA,NA,NA,alec-pierce-2,Alec Pierce,WR,Cincinnati,6-3,211,4.41,NA,40.5,129,7.13,4.28
 2022,NA,NA,NA,NA,NA,dameon-pierce-1,Dameon Pierce,RB,Florida,5-10,218,4.59,21,34.5,119,NA,NA
-2022,NA,NA,NA,NA,NA,jalen-pitre-1,Jalen Pitre,SAF,Baylor,5-11,198,NA,16,35,NA,6.74,4.18
+2022,NA,NA,NA,NA,NA,jalen-pitre-1,Jalen Pitre,S,Baylor,5-11,198,NA,16,35,NA,6.74,4.18
 2022,NA,NA,NA,NA,NA,makai-polk-1,Makai Polk,WR,Mississippi St.,6-3,195,4.59,NA,31,119,NA,4.36
 2022,NA,NA,NA,NA,NA,dvonte-price-1,D'vonte Price,RB,Florida International,6-1,210,4.38,NA,34,119,NA,NA
 2022,NA,NA,NA,NA,NA,brock-purdy-1,Brock Purdy,QB,Iowa St.,6-1,212,4.84,NA,27,NA,7.21,4.45
@@ -7584,13 +7584,13 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,bernhard-raimann-1,Bernhard Raimann,OT,Central Michigan,6-6,303,5.05,30,30.5,117,7.46,4.49
 2022,NA,NA,NA,NA,NA,charleston-rambo-1,Charleston Rambo,WR,Miami,6-1,177,4.57,NA,33.5,118,NA,NA
 2022,NA,NA,NA,NA,NA,labryan-ray-1,LaBryan Ray,DT,Alabama,6-4,283,NA,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,sean-rhyan-1,Sean Rhyan,G,UCLA,6-5,321,5.25,NA,33.5,110,7.55,4.81
+2022,NA,NA,NA,NA,NA,sean-rhyan-1,Sean Rhyan,OG,UCLA,6-5,321,5.25,NA,33.5,110,7.55,4.81
 2022,NA,NA,NA,NA,NA,desmond-ridder-1,Desmond Ridder,QB,Cincinnati,6-3,211,4.52,NA,36,127,7.15,4.29
 2022,NA,NA,NA,NA,NA,john-ridgeway-1,John Ridgeway,DT,Arkansas,6-5,321,5.3,NA,NA,101,NA,4.73
 2022,NA,NA,NA,NA,NA,ronnie-rivers-1,Ronnie Rivers,RB,Fresno St.,5-8,195,4.6,NA,36.5,119,NA,NA
 2022,NA,NA,NA,NA,NA,brian-robinson-jr-1,Brian Robinson,RB,Alabama,6-2,225,4.53,NA,30,119,NA,NA
 2022,NA,NA,NA,NA,NA,dominique-robinson-1,Dominique Robinson,EDGE,Miami (Ohio),6-5,253,4.72,25,41,121,NA,NA
-2022,NA,NA,NA,NA,NA,tyrese-robinson-1,Tyrese Robinson,G,Oklahoma,6-3,317,5.25,NA,22.5,100,8.35,4.94
+2022,NA,NA,NA,NA,NA,tyrese-robinson-1,Tyrese Robinson,OG,Oklahoma,6-3,317,5.25,NA,22.5,100,8.35,4.94
 2022,NA,NA,NA,NA,NA,wandale-robinson-1,Wan'Dale Robinson,WR,Kentucky,5-8,178,4.44,NA,34.5,118,NA,NA
 2022,NA,NA,NA,NA,NA,malcolm-rodriguez-1,Malcolm Rodriguez,LB,Oklahoma St.,5-11,232,4.52,NA,39.5,120,NA,NA
 2022,NA,NA,NA,NA,NA,mike-rose-5,Mike Rose,LB,Iowa St.,6-4,245,NA,NA,34,121,NA,NA
@@ -7599,16 +7599,16 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,justyn-ross-1,Justyn Ross,WR,Clemson,6-4,205,NA,11,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,jeremy-ruckert-1,Jeremy Ruckert,TE,Ohio St.,6-5,250,NA,19,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,NA,Andrew Rupcich,OT,Culver-Stockton College,6-6,318,5.31,NA,27.5,108,NA,NA
-2022,NA,NA,NA,NA,NA,jamaree-salyer-1,Jamaree Salyer,G,Georgia,6-3,321,NA,31,NA,NA,NA,NA
+2022,NA,NA,NA,NA,NA,jamaree-salyer-1,Jamaree Salyer,OG,Georgia,6-3,321,NA,31,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,jack-sanborn-1,Jack Sanborn,LB,Wisconsin,6-2,234,4.73,20,34.5,114,NA,NA
 2022,NA,NA,NA,NA,NA,braylon-sanders-1,Braylon Sanders,WR,Mississippi,6-0,194,4.48,NA,34.5,121,NA,NA
 2022,NA,NA,NA,NA,NA,myjai-sanders-1,Myjai Sanders,EDGE,Cincinnati,6-5,228,4.67,NA,33,120,NA,4.37
 2022,NA,NA,NA,NA,NA,nephi-sewell-1,Nephi Sewell,LB,Utah,6-0,226,4.67,NA,32,120,7.01,4.33
-2022,NA,NA,NA,NA,NA,justin-shaffer-1,Justin Shaffer,G,Georgia,6-4,314,5.14,NA,25.5,107,NA,NA
+2022,NA,NA,NA,NA,NA,justin-shaffer-1,Justin Shaffer,OG,Georgia,6-4,314,5.14,NA,25.5,107,NA,NA
 2022,NA,NA,NA,NA,NA,khalil-shakir-1,Khalil Shakir,WR,Boise St.,6-0,196,4.43,NA,34.5,124,7.28,4.21
 2022,NA,NA,NA,NA,NA,abram-smith-1,Abram Smith,RB,Baylor,6-0,213,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,brandon-smith-12,Brandon Smith,LB,Penn St.,6-4,250,4.52,NA,37.5,128,NA,NA
-2022,NA,NA,NA,NA,NA,lecitus-smith-1,Lecitus Smith,G,Virginia Tech,6-3,314,5.18,23,NA,99,7.88,4.78
+2022,NA,NA,NA,NA,NA,lecitus-smith-1,Lecitus Smith,OG,Virginia Tech,6-3,314,5.18,23,NA,99,7.88,4.78
 2022,NA,NA,NA,NA,NA,tyler-smith-6,Tyler Smith,OT,Tulsa,6-5,324,5.02,NA,27.5,105,7.78,4.65
 2022,NA,NA,NA,NA,NA,tyreke-smith-1,Tyreke Smith,EDGE,Ohio St.,6-3,254,4.86,NA,34,117,NA,NA
 2022,NA,NA,NA,NA,NA,baylon-spector-1,Baylon Spector,LB,Clemson,6-0,233,4.6,NA,36,122,NA,NA
@@ -7616,7 +7616,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,chris-steele-1,Chris Steele,CB,USC,6-0,187,4.48,NA,37.5,126,NA,NA
 2022,NA,NA,NA,NA,NA,derek-stingley-jr-1,Derek Stingley,CB,LSU,6-0,190,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,jordan-stout-2,Jordan Stout,P,Penn St.,6-3,209,4.65,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,NA,Cole Strange,G,Tennessee-Chattanooga,6-5,307,5.03,31,28,120,7.44,4.5
+2022,NA,NA,NA,NA,NA,NA,Cole Strange,OG,Tennessee-Chattanooga,6-5,307,5.03,31,28,120,7.44,4.5
 2022,NA,NA,NA,NA,NA,carson-strong-1,Carson Strong,QB,Nevada,6-3,226,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,NA,Pierre Strong,RB,South Dakota St.,5-11,207,4.37,NA,36,124,NA,NA
 2022,NA,NA,NA,NA,NA,andrew-stueber-1,Andrew Stueber,OT,Michigan,6-7,325,NA,NA,24.5,101,7.94,4.9
@@ -7628,8 +7628,8 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,kayvon-thibodeaux-1,Kayvon Thibodeaux,EDGE,Oregon,6-4,254,4.58,27,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,cameron-thomas-2,Cameron Thomas,DE,San Diego St.,6-4,267,NA,24,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,isaiah-thomas-1,Isaiah Thomas,EDGE,Oklahoma,6-5,266,4.7,NA,31.5,117,NA,NA
-2022,NA,NA,NA,NA,NA,juanyeh-thomas-1,Juanyeh Thomas,SAF,Georgia Tech,6-1,212,4.55,17,34,122,NA,NA
-2022,NA,NA,NA,NA,NA,NA,Zach Thomas,G,San Diego St.,6-5,308,4.96,21,22.5,107,7.4,4.65
+2022,NA,NA,NA,NA,NA,juanyeh-thomas-1,Juanyeh Thomas,S,Georgia Tech,6-1,212,4.55,17,34,122,NA,NA
+2022,NA,NA,NA,NA,NA,NA,Zach Thomas,OG,San Diego St.,6-5,308,4.96,21,22.5,107,7.4,4.65
 2022,NA,NA,NA,NA,NA,josh-thompson-4,Josh Thompson,CB,Texas,6-0,194,4.4,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,skylar-thompson-1,Skylar Thompson,QB,Kansas St.,6-2,217,4.91,NA,31,112,7,4.28
 2022,NA,NA,NA,NA,NA,tyquan-thornton-1,Tyquan Thornton,WR,Baylor,6-2,181,4.28,NA,36.5,130,NA,NA
@@ -7638,10 +7638,10 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,zach-tom-1,Zach Tom,C,Wake Forest,6-4,304,4.94,NA,33,118,7.32,4.47
 2022,NA,NA,NA,NA,NA,cole-turner-2,Cole Turner,TE,Nevada,6-6,246,4.76,17,27,120,7.06,4.41
 2022,NA,NA,NA,NA,NA,tre-turner-2,Tré Turner,WR,Virginia Tech,6-1,184,4.51,NA,27,113,7.45,4.53
-2022,NA,NA,NA,NA,NA,delarrin-turner-yell-1,Delarrin Turner-Yell,SAF,Oklahoma,5-10,197,4.47,NA,NA,122,NA,NA
+2022,NA,NA,NA,NA,NA,delarrin-turner-yell-1,Delarrin Turner-Yell,S,Oklahoma,5-10,197,4.47,NA,NA,122,NA,NA
 2022,NA,NA,NA,NA,NA,eyioma-uwzurike-1,Eyioma Uwazurike,DT,Iowa St.,6-6,316,NA,NA,33,107,NA,NA
 2022,NA,NA,NA,NA,NA,cj-verdell-1,CJ Verdell,RB,Oregon,5-8,194,NA,NA,29.5,118,NA,NA
-2022,NA,NA,NA,NA,NA,NA,Cordell Volson,G,North Dakota St.,6-6,315,5.27,25,25,104,8.31,4.93
+2022,NA,NA,NA,NA,NA,NA,Cordell Volson,OG,North Dakota St.,6-6,315,5.27,25,25,104,8.31,4.93
 2022,NA,NA,NA,NA,NA,NA,Matt Waletzko,OT,North Dakota,6-8,312,5.03,NA,30,113,NA,NA
 2022,NA,NA,NA,NA,NA,kenneth-walker-iii-1,Kenneth Walker,RB,Michigan St.,5-9,211,4.38,NA,34,122,NA,NA
 2022,NA,NA,NA,NA,NA,quay-walker-1,Quay Walker,LB,Georgia,6-4,241,4.52,NA,32,122,NA,NA
@@ -7668,7 +7668,7 @@ season,draft_year,draft_team,draft_round,draft_ovr,pfr_id,cfb_id,player_name,pos
 2022,NA,NA,NA,NA,NA,malik-willis-1,Malik Willis,QB,Liberty,6-1,219,NA,NA,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,garrett-wilson-2,Garrett Wilson,WR,Ohio St.,6-0,183,4.38,NA,36,123,NA,4.36
 2022,NA,NA,NA,NA,NA,perrion-winfrey-1,Perrion Winfrey,DT,Oklahoma,6-4,290,4.89,NA,NA,NA,NA,NA
-2022,NA,NA,NA,NA,NA,jt-woods-1,JT Woods,SAF,Baylor,6-2,195,4.36,NA,39.5,128,NA,NA
+2022,NA,NA,NA,NA,NA,jt-woods-1,JT Woods,S,Baylor,6-2,195,4.36,NA,39.5,128,NA,NA
 2022,NA,NA,NA,NA,NA,jelani-woods-1,Jelani Woods,TE,Virginia,6-7,259,4.61,24,NA,NA,NA,NA
 2022,NA,NA,NA,NA,NA,mike-woods-3,Mike Woods,WR,Oklahoma,6-1,204,4.55,NA,34.5,125,NA,NA
 2022,NA,NA,NA,NA,NA,tariq-woolen-1,Tariq Woolen,CB,Texas-San Antonio,6-4,205,4.26,NA,42,NA,NA,NA
