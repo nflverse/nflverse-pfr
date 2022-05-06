@@ -85,17 +85,12 @@ summarise_snap_counts <- function(season = nflreadr:::most_recent_season()){
   ) |>
     dplyr::filter(season == season)
 
-  attr(season_data, "nflverse_timestamp") <- Sys.time()
-  attr(season_data, "nflverse_type") <- "snap counts"
-
-  filename <- glue::glue("build/snap_counts_{season}.")
-
-  saveRDS(season_data, paste0(filename,"rds"))
-  readr::write_csv(season_data, paste0(filename,"csv"))
-  arrow::write_parquet(season_data, paste0(filename,"parquet"))
-
-  list.files("build", pattern = "snap_counts_*", full.names = TRUE) |>
-    nflversedata::nflverse_upload("snap_counts")
+  nflversedata::nflverse_save(
+    data_frame = season_data,
+    file_name = glue::glue("snap_counts_{season}"),
+    nflverse_type = "snap counts",
+    release_tag = "snap_counts"
+  )
 
   cli::cli_process_done()
 }

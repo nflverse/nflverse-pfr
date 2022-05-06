@@ -52,10 +52,9 @@ get_def_season <- function(s) {
 
 df_advstats <- purrr::map_df(2018:nflreadr:::most_recent_season(), get_def_season)
 
-attr(df_advstats,"nflverse_type") <- glue::glue("advanced defense season stats via PFR")
-attr(df_advstats,"nflverse_timestamp") <- Sys.time()
-
-data.table::fwrite(df_advstats, "build/advstats_season_def.csv")
-saveRDS(df_advstats, "build/advstats_season_def.rds")
-arrow::write_parquet(df_advstats, "build/advstats_season_def.parquet")
-qs::qsave(df_advstats, "build/advstats_season_def.qs")
+nflversedata::nflverse_save(
+  data_frame = df_advstats,
+  file_name = "advstats_season_def",
+  nflverse_type = "advanced defense season stats via PFR",
+  release_tag = "pfr_advstats"
+)
