@@ -24,8 +24,12 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
   pfr_ids <- table_node %>%
     rvest::html_elements("tr th[data-stat='player'],td[data-stat='player']") %>%
-    html_attr("data-append-csv") %>%
+    rvest::html_attr("data-append-csv") %>%
     tail(-1)
+
+  roster <- nflreadr::load_rosters(year) %>%
+    dplyr::distinct(gsis_id, pfr_id) %>%
+    dplyr::filter(!is.na(pfr_id),!is.na(gsis_id))
 
   draft_table <- table_node %>%
     rvest::html_table() %>%
@@ -33,11 +37,13 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
     janitor::clean_names() %>%
     dplyr::bind_cols(pfr_player_id = pfr_ids, cfb_player_id = cfb_ids, .) %>%
     dplyr::filter(pos != "Pos") %>%
+    dplyr::left_join(roster, by = c("pfr_player_id"="pfr_id")) %>%
     dplyr::transmute(
       season = year,
       round = as.integer(rnd),
       pick = as.integer(pick),
       team = tm,
+      gsis_id,
       pfr_player_id,
       cfb_player_id,
       pfr_player_name = stringr::str_remove_all(player," HOF$"),
@@ -82,5 +88,10 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
 all_drafts <- map_dfr(2000:nflreadr::most_recent_season(roster = TRUE),
                       possibly(scrape_draft,otherwise = tibble()))
-saveRDS(all_combines, "data/combine.rds")
-readr::write_csv(all_combines, "data/combine.csv")
+
+#nflverse/nflverse-data@nflverse_save
+nflversedata::nflverse_save(
+  all_drafts,
+  filename = "draft_picks",
+  nflverse_type = "Draft Picks, via Pro Football Reference",
+  release_tag =  "draft_picks")
