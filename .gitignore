@@ -30,5 +30,5 @@ docs
 inst/doc
 revdep
 .Rproj.user
-# build file
+# build files
 build/
