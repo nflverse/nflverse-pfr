@@ -53,10 +53,9 @@ get_rush_season <- function(s) {
 # data seem spotty before 2019
 df_advstats <- purrr::map_df(2018:nflreadr:::most_recent_season(), get_rush_season)
 
-attr(df_advstats,"nflverse_type") <- glue::glue("advanced rushing season stats via PFR")
-attr(df_advstats,"nflverse_timestamp") <- Sys.time()
-
-data.table::fwrite(df_advstats, "build/advstats_season_rush.csv")
-saveRDS(df_advstats, "build/advstats_season_rush.rds")
-arrow::write_parquet(df_advstats, "build/advstats_season_rush.parquet")
-qs::qsave(df_advstats, "build/advstats_season_rush.qs")
+nflversedata::nflverse_save(
+  data_frame = df_advstats,
+  file_name = "advstats_season_rush",
+  nflverse_type = "advanced rushing season stats via PFR",
+  release_tag = "pfr_advstats"
+)

@@ -200,19 +200,14 @@ clean_advstats <- function(season = nflreadr:::most_recent_season()){
        def = def) %>%
     purrr::iwalk(function(dataframe,stat_type){
 
-      attr(dataframe, "nflverse_type") <- glue::glue("advanced {stat_type} weekly stats via PFR")
-      attr(dataframe, "nflverse_timestamp") <- Sys.time()
+      nflversedata::nflverse_save(
+        data_frame = dataframe,
+        file_name = glue::glue("advstats_week_{stat_type}_{season}"),
+        nflverse_type = glue::glue("advanced {stat_type} weekly stats via PFR"),
+        release_tag = "pfr_advstats"
+      )
 
-      filename <- glue::glue("build/advstats_week_{stat_type}_{season}")
-
-      readr::write_csv(dataframe, paste0(filename, ".csv"))
-      saveRDS(dataframe, paste0(filename, ".rds"))
-      arrow::write_parquet(dataframe, paste0(filename,".parquet"))
-      qs::qsave(dataframe, paste0(filename, ".qs"))
     })
-
-  list.files(path = "build",pattern =  glue::glue("advstats_week_.*_{season}"), full.names = TRUE) |>
-    nflversedata::nflverse_upload(tag = "pfr_advstats")
 
   cli::cli_alert_success("Finished combining and uploading adv stats for {season}!")
 
