@@ -11,7 +11,7 @@ library(dplyr)
 
 scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
-  Sys.sleep(3)
+  Sys.sleep(1)
 
   html_scrape <- rvest::read_html(glue::glue("https://www.pro-football-reference.com/years/{year}/draft.htm"))
 
