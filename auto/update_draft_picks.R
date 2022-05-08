@@ -106,7 +106,7 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
   return(draft_table)
 }
 
-all_drafts <- purrr::map_dfr(1980:nflreadr::most_recent_season(),
+all_drafts <- purrr::map_dfr(1980:nflreadr::most_recent_season(roster =  TRUE),
                              purrr::possibly(scrape_draft,otherwise = tibble::tibble()))
 
 # pak::pak("nflverse/nflverse-data")
