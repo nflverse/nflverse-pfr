@@ -127,7 +127,7 @@ get_passing <- function(s) {
 }
 
 # data seem spotty before 2019
-df_advstats <- purrr::map_df(2019:nflreadr:::most_recent_season(), purrr::possibly(get_passing,tibble::tibble()))
+df_advstats <- purrr::map_df(2018:nflreadr:::most_recent_season(), purrr::possibly(get_passing,tibble::tibble()))
 
 nflversedata::nflverse_save(
   data_frame = df_advstats,
