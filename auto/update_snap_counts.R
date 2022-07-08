@@ -93,6 +93,7 @@ summarise_snap_counts <- function(summary_season = nflreadr:::most_recent_season
   )
 
   cli::cli_process_done()
+  invisible(TRUE)
 }
 
 setwd(here::here())
