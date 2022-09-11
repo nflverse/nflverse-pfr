@@ -11,7 +11,7 @@ scrape_advstats <- function(){
 
   completed_games <- piggyback::pb_download_url(
     file = "scraped_games.csv",
-    repo = "nflverse/pfr_scrapR",
+    repo = "nflverse/nflverse-pfr",
     tag = "advstats_raw") |>
     data.table::fread()
 
@@ -57,7 +57,7 @@ scrape_advstats <- function(){
 
   archived_games <- piggyback::pb_download_url(
     file = "advstats_game.rds",
-    repo = "nflverse/pfr_scrapR",
+    repo = "nflverse/nflverse-pfr",
     tag = "advstats_raw") |>
     nflreadr::rds_from_url() |>
     dplyr::filter(!pfr_game_id %in% completed_games$pfr_game_id)
@@ -67,7 +67,7 @@ scrape_advstats <- function(){
   saveRDS(all_games, "build/advstats_game.rds")
 
   piggyback::pb_upload(file = "build/advstats_game.rds",
-                       repo = "nflverse/pfr_scrapR",
+                       repo = "nflverse/nflverse-pfr",
                        tag = "advstats_raw",
                        overwrite = TRUE)
 
