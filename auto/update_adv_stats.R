@@ -4,6 +4,7 @@
 ##' `SEASON` level data is (typically) aggregation of `WEEK` level data, except in PFR advstats where PFR provides some stats only at season level, so we scrape season summaries instead of aggregating week data
 
 pkgload::load_all()
+options(nflreadr.verbose = FALSE)
 
 scrape_advstats <- function(){
 
@@ -51,8 +52,8 @@ scrape_advstats <- function(){
     return(FALSE)
   }
 
-  if(any(!game_ids$game_id %in% scrape_games$game_id)){
-    cli::cli_alert_danger("Could not find advanced stats for {paste(game_ids$game_id[!game_ids$game_id %in% scrape_games$game_id], collapse = '\n')}")
+  if(any(!game_ids$pfr_game_id %in% scrape_games$pfr_game_id)){
+    cli::cli_alert_danger("Could not find advanced stats for {paste(game_ids$pfr_game_id[!game_ids$pfr_game_id %in% scrape_games$pfr_game_id], collapse = '\n')}")
   }
 
   archived_games <- piggyback::pb_download_url(
@@ -62,7 +63,7 @@ scrape_advstats <- function(){
     nflreadr::rds_from_url() |>
     dplyr::filter(!pfr_game_id %in% completed_games$pfr_game_id)
 
-  all_games <- bind_rows(archived_games,scrape_games)
+  all_games <- dplyr::bind_rows(archived_games,scrape_games)
 
   saveRDS(all_games, "build/advstats_game.rds")
 
