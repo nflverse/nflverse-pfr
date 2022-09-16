@@ -2,12 +2,9 @@ pkgload::load_all()
 
 scrape_snaps <- function(){
 
-  completed_games <- piggyback::pb_download_url(
-    file = "scraped_games.csv",
-    repo = "nflverse/nflverse-pfr",
-    tag = "snap_counts_raw"
-    ) |>
-    read.csv()
+  completed_games <- nflreadr::csv_from_url(
+    "https://github.com/nflverse/nflverse-pfr/releases/download/snap_counts_raw/scraped_games.csv"
+  )
 
   game_ids <- nflreadr::load_schedules() %>%
     dplyr::filter(
