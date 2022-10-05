@@ -63,7 +63,8 @@ scrape_advstats <- function(){
     nflreadr::rds_from_url() |>
     dplyr::filter(!pfr_game_id %in% completed_games$pfr_game_id)
 
-  all_games <- dplyr::bind_rows(archived_games,scrape_games)
+  all_games <- dplyr::bind_rows(archived_games,scrape_games) |>
+    dplyr::distinct()
 
   saveRDS(all_games, "build/advstats_game.rds")
 
