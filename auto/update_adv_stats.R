@@ -73,6 +73,17 @@ scrape_advstats <- function(){
                        tag = "advstats_raw",
                        overwrite = TRUE)
 
+  all_games |>
+    dplyr::distinct(pfr_game_id, stat_type) |>
+    dplyr::bind_rows(completed_games) |>
+    dplyr::arrange(pfr_game_id, stat_type) |>
+    write.csv(here::here("build/scraped_games.csv"), quote = TRUE, row.names = FALSE)
+
+  piggyback::pb_upload(
+    file = here::here("build/scraped_games.csv"),
+    repo = "nflverse/nflverse-pfr",
+    tag = "advstats_raw")
+
   cli::cli_alert_success("Finished scraping {nrow(game_ids)}")
 
   return(TRUE)
