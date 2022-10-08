@@ -29,7 +29,7 @@ scrape_advstats <- function(){
     return(FALSE)
   }
 
-  cli::cli_alert("Now scraping {nrow(game_ids)} games")
+  cli::cli_alert("Now scraping {nrow(game_ids)} game{?s}")
 
   #' Scrape Incomplete Games
   scrape_games <- game_ids %>%
