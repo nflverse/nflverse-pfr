@@ -33,9 +33,9 @@ scrape_advstats <- function(){
 
   #' Scrape Incomplete Games
   scrape_games <- game_ids %>%
-    dplyr::mutate(adv = purrr::map(pfr_game_id,
+    dplyr::mutate(adv = purrr::map(cli::cli_progress_along(pfr_game_id),
                                    purrr::possibly(
-                                     pfr_game_adv_stats,
+                                     .f = function(i) pfr_game_adv_stats(pfr_game_id[[i]]),
                                      otherwise = list(pass = NULL,
                                                       rush = NULL,
                                                       rec = NULL,
