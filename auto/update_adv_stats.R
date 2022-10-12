@@ -29,28 +29,29 @@ scrape_advstats <- function(){
     return(FALSE)
   }
 
-  cli::cli_alert("Now scraping {nrow(game_ids)} games")
+  cli::cli_alert("Now scraping {nrow(game_ids)} game{?s}")
 
   #' Scrape Incomplete Games
   scrape_games <- game_ids %>%
-    dplyr::mutate(adv = purrr::map(pfr_game_id,
-                                   purrr::possibly(
-                                     pfr_game_adv_stats,
-                                     otherwise = list(pass = NULL,
-                                                      rush = NULL,
-                                                      rec = NULL,
-                                                      def = NULL))
-                                   )) %>%
-    tidyr::unnest_longer(adv, indices_to = "stat_type", values_to = "stats") %>%
-    dplyr::filter(purrr::map_lgl(stats, ~length(.x) > 0)) %>%
-    dplyr::select(stat_type, stats) |>
-    tidyr::unnest(stats) |>
-    dplyr::relocate(pfr_game_id,.before = 1)
+    dplyr::mutate(
+      adv = purrr::map(
+        cli::cli_progress_along(pfr_game_id),
+        purrr::possibly(
+          .f = function(i) pfr_game_adv_stats(pfr_game_id[[i]]),
+          otherwise = list()
+        ))) %>%
+    dplyr::filter(purrr::map_lgl(adv, ~all(lengths(.x) > 0)))
 
   if(nrow(scrape_games)==0) {
     cli::cli_alert_danger("No new data for scrapes!")
     return(FALSE)
   }
+
+  scrape_games <- scrape_games |>
+    tidyr::unnest_longer(adv, indices_to = "stat_type", values_to = "stats") %>%
+    dplyr::select(stat_type, stats) |>
+    tidyr::unnest(stats) |>
+    dplyr::relocate(pfr_game_id,.before = 1)
 
   if(any(!game_ids$pfr_game_id %in% scrape_games$pfr_game_id)){
     cli::cli_alert_danger("Could not find advanced stats for {paste(game_ids$pfr_game_id[!game_ids$pfr_game_id %in% scrape_games$pfr_game_id], collapse = '\n')}")

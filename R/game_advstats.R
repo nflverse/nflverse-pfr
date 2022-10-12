@@ -7,7 +7,9 @@
 #' @export
 pfr_game_adv_stats <- function(game_id){
 
-  raw_boxscores <- rvest::read_html(glue::glue("https://www.pro-football-reference.com/boxscores/{game_id}.htm"))
+  raw_boxscores <- glue::glue("https://www.pro-football-reference.com/boxscores/{game_id}.htm") |>
+    polite::bow() |>
+    polite::scrape()
 
   raw_def <- .pfr_read_advanced("defense", raw_boxscores)
 
