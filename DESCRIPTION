@@ -1,6 +1,6 @@
 Package: pfrscrapR
 Title: PFR Scraping Functions for nflverse
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person("Tan", "Ho", , "tan@tanho.ca", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-8388-5155")),
@@ -16,6 +16,7 @@ Imports:
     fs,
     glue (>= 1.4.2),
     here (>= 1.0.1),
+    httr2,
     janitor (>= 2.1.0),
     lubridate (>= 1.7.0),
     magrittr (>= 2.0.0),

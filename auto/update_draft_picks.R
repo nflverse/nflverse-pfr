@@ -11,9 +11,12 @@ library(dplyr)
 
 scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
-  Sys.sleep(1)
-
-  html_scrape <- rvest::read_html(glue::glue("https://www.pro-football-reference.com/years/{year}/draft.htm"))
+  html_scrape <- glue::glue("https://www.pro-football-reference.com/years/{year}/draft.htm") |>
+    httr2::request() |>
+    httr2::req_retry(max_tries = 1) |>
+    httr2::req_user_agent('Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0') |>
+    httr2::req_perform() |>
+    httr2::resp_body_html()
 
   table_node <- html_scrape |>
     rvest::html_element("#drafts")
@@ -106,12 +109,12 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
   return(draft_table)
 }
 
-all_drafts <- purrr::map_dfr(1980:nflreadr::most_recent_season(roster =  TRUE),
+all_drafts <- purrr::map_dfr(nflreadr::most_recent_season(roster =  TRUE):1980,
                              purrr::possibly(scrape_draft,otherwise = tibble::tibble()))
 
-# pak::pak("nflverse/nflverse-data")
-nflversedata::nflverse_save(
-  all_drafts,
-  file_name = "draft_picks",
-  nflverse_type = "Draft Picks, via Pro Football Reference",
-  release_tag =  "draft_picks")
+# # pak::pak("nflverse/nflverse-data")
+# nflversedata::nflverse_save(
+#   all_drafts,
+#   file_name = "draft_picks",
+#   nflverse_type = "Draft Picks, via Pro Football Reference",
+#   release_tag =  "draft_picks")
