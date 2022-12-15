@@ -4,6 +4,7 @@
 ##' `SEASON` level data is (typically) aggregation of `WEEK` level data, except in PFR advstats where PFR provides some stats only at season level, so we scrape season summaries instead of aggregating week data
 
 pkgload::load_all()
+options(nflreadr.verbose = FALSE)
 
 scrape_advstats <- function(){
 
@@ -28,31 +29,32 @@ scrape_advstats <- function(){
     return(FALSE)
   }
 
-  cli::cli_alert("Now scraping {nrow(game_ids)} games")
+  cli::cli_alert("Now scraping {nrow(game_ids)} game{?s}")
 
   #' Scrape Incomplete Games
   scrape_games <- game_ids %>%
-    dplyr::mutate(adv = purrr::map(pfr_game_id,
-                                   purrr::possibly(
-                                     pfr_game_adv_stats,
-                                     otherwise = list(pass = NULL,
-                                                      rush = NULL,
-                                                      rec = NULL,
-                                                      def = NULL))
-                                   )) %>%
-    tidyr::unnest_longer(adv, indices_to = "stat_type", values_to = "stats") %>%
-    dplyr::filter(purrr::map_lgl(stats, ~length(.x) > 0)) %>%
-    dplyr::select(stat_type, stats) |>
-    tidyr::unnest(stats) |>
-    dplyr::relocate(pfr_game_id,.before = 1)
+    dplyr::mutate(
+      adv = purrr::map(
+        cli::cli_progress_along(pfr_game_id),
+        purrr::possibly(
+          .f = function(i) pfr_game_adv_stats(pfr_game_id[[i]]),
+          otherwise = list()
+        ))) %>%
+    dplyr::filter(purrr::map_lgl(adv, ~all(lengths(.x) > 0)))
 
   if(nrow(scrape_games)==0) {
     cli::cli_alert_danger("No new data for scrapes!")
     return(FALSE)
   }
 
-  if(any(!game_ids$game_id %in% scrape_games$game_id)){
-    cli::cli_alert_danger("Could not find advanced stats for {paste(game_ids$game_id[!game_ids$game_id %in% scrape_games$game_id], collapse = '\n')}")
+  scrape_games <- scrape_games |>
+    tidyr::unnest_longer(adv, indices_to = "stat_type", values_to = "stats") %>%
+    dplyr::select(stat_type, stats) |>
+    tidyr::unnest(stats) |>
+    dplyr::relocate(pfr_game_id,.before = 1)
+
+  if(any(!game_ids$pfr_game_id %in% scrape_games$pfr_game_id)){
+    cli::cli_alert_danger("Could not find advanced stats for {paste(game_ids$pfr_game_id[!game_ids$pfr_game_id %in% scrape_games$pfr_game_id], collapse = '\n')}")
   }
 
   archived_games <- piggyback::pb_download_url(
@@ -62,7 +64,8 @@ scrape_advstats <- function(){
     nflreadr::rds_from_url() |>
     dplyr::filter(!pfr_game_id %in% completed_games$pfr_game_id)
 
-  all_games <- bind_rows(archived_games,scrape_games)
+  all_games <- dplyr::bind_rows(archived_games,scrape_games) |>
+    dplyr::distinct()
 
   saveRDS(all_games, "build/advstats_game.rds")
 
@@ -70,6 +73,17 @@ scrape_advstats <- function(){
                        repo = "nflverse/nflverse-pfr",
                        tag = "advstats_raw",
                        overwrite = TRUE)
+
+  all_games |>
+    dplyr::distinct(pfr_game_id, stat_type) |>
+    dplyr::bind_rows(completed_games) |>
+    dplyr::arrange(pfr_game_id, stat_type) |>
+    write.csv(here::here("build/scraped_games.csv"), quote = TRUE, row.names = FALSE)
+
+  piggyback::pb_upload(
+    file = here::here("build/scraped_games.csv"),
+    repo = "nflverse/nflverse-pfr",
+    tag = "advstats_raw")
 
   cli::cli_alert_success("Finished scraping {nrow(game_ids)}")
 

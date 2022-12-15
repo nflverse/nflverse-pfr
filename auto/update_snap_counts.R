@@ -2,10 +2,9 @@ pkgload::load_all()
 
 scrape_snaps <- function(){
 
-  completed_games <- piggyback::pb_download_url(file = "scraped_games.csv",
-                                                repo = "nflverse/nflverse-pfr",
-                                                tag = "snap_counts_raw") |>
-    read.csv()
+  completed_games <- nflreadr::csv_from_url(
+    "https://github.com/nflverse/nflverse-pfr/releases/download/snap_counts_raw/scraped_games.csv"
+  )
 
   game_ids <- nflreadr::load_schedules() %>%
     dplyr::filter(
@@ -29,7 +28,7 @@ scrape_snaps <- function(){
     return(FALSE)
   }
 
-  cli::cli_alert("Now scraping {nrow(game_ids)} games")
+  cli::cli_alert("Now scraping {nrow(game_ids)} game{?s}")
 
   scrape_games <- game_ids %>%
     dplyr::mutate(snaps = purrr::map(pfr_game_id,
@@ -53,36 +52,36 @@ scrape_snaps <- function(){
                   .after = position)
 
   old_snaps <- nflreadr::rds_from_url(
-    "https://github.com/nflverse/nflverse-pfr/releases/download/snap_counts_raw/snap_counts.rds") |>
-    dplyr::inner_join(completed_games |> dplyr::select(pfr_game_id), by = "pfr_game_id")
+    "https://github.com/nflverse/nflverse-pfr/releases/download/snap_counts_raw/snap_counts.rds"
+  ) |>
+    dplyr::filter(pfr_game_id %in% completed_games$pfr_game_id)
 
   new_snaps <- dplyr::bind_rows(old_snaps, scrape_games) |>
+    dplyr::distinct() |>
     dplyr::arrange(game_id)
 
   attr(new_snaps, "timestamp") <- Sys.time()
 
   saveRDS(new_snaps, here::here("build/snap_counts.rds"))
 
-  piggyback::pb_upload(file = here::here("build/snap_counts.rds"),repo = "nflverse/nflverse-pfr",tag = "snap_counts_raw")
+  piggyback::pb_upload(file = here::here("build/snap_counts.rds"), repo = "nflverse/nflverse-pfr", tag = "snap_counts_raw")
 
   new_snaps |>
-    dplyr::distinct(season,week, pfr_game_id,game_id) |>
-    write.csv(here::here("build/scraped_games.csv"),quote = TRUE, row.names = FALSE)
+    dplyr::distinct(season, week, pfr_game_id, game_id) |>
+    write.csv(here::here("build/scraped_games.csv"), quote = TRUE, row.names = FALSE)
 
   piggyback::pb_upload(file = here::here("build/scraped_games.csv"),repo = "nflverse/nflverse-pfr",tag = "snap_counts_raw")
 
-  cli::cli_alert_success("Finished scraping snap counts for {nrow(game_ids)} games")
+  cli::cli_alert_success("Finished scraping snap counts for {nrow(game_ids)} game{?s}")
 
   return(TRUE)
 }
 
-summarise_snap_counts <- function(summary_season = nflreadr:::most_recent_season()){
+summarise_snap_counts <- function(summary_season = nflreadr::most_recent_season()){
 
   cli::cli_process_start("Uploading snap counts for {summary_season} to nflverse-data")
 
-  season_data <- nflreadr::rds_from_url(
-    "https://github.com/nflverse/nflverse-pfr/releases/download/snap_counts_raw/snap_counts.rds"
-  ) |>
+  season_data <- readRDS(here::here("build/snap_counts.rds")) |>
     dplyr::filter(season == summary_season)
 
   nflversedata::nflverse_save(
