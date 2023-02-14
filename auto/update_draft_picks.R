@@ -37,14 +37,14 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
   try({
     roster <- nflreadr::load_rosters(seasons = TRUE) |>
-      dplyr::filter(!is.na(pfr_id),!is.na(gsis_id)) %>%
+      dplyr::filter(!is.na(pfr_id),!is.na(gsis_id))  |>
       dplyr::distinct(gsis_id, pfr_id)
   },silent = TRUE)
 
   draft_table <- table_node |>
-    rvest::html_table() %>%
+    rvest::html_table()  %>%
     {suppressWarnings(janitor::row_to_names(.,row_number = 1))} |>
-    janitor::clean_names() %>%
+    janitor::clean_names()  %>%
     dplyr::bind_cols(pfr_player_id = pfr_ids, cfb_player_id = cfb_ids, .) |>
     dplyr::filter(pos != "Pos") |>
     dplyr::left_join(roster, by = c("pfr_player_id"="pfr_id"))
@@ -59,7 +59,7 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
   for(i in patch_columns) draft_table[[i]] <- NA
 
-  draft_table <- draft_table %>%
+  draft_table <- draft_table  |>
     dplyr::transmute(
       season = as.integer(year),
       round = as.integer(rnd),
@@ -109,12 +109,16 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
   return(draft_table)
 }
 
-all_drafts <- purrr::map_dfr(nflreadr::most_recent_season(roster =  TRUE):1980,
-                             purrr::possibly(scrape_draft,otherwise = tibble::tibble()))
+all_drafts <- purrr::map_dfr(nflreadr::most_recent_season(roster = TRUE):1980,
+                             purrr::possibly(scrape_draft, otherwise = tibble::tibble()))
 
-# # pak::pak("nflverse/nflverse-data")
-# nflversedata::nflverse_save(
-#   all_drafts,
-#   file_name = "draft_picks",
-#   nflverse_type = "Draft Picks, via Pro Football Reference",
-#   release_tag =  "draft_picks")
+current_drafts <- data.table::fread("https://github.com/nflverse/nflverse-data/releases/download/draft_picks/draft_picks.csv")
+
+cleaned_drafts <- dplyr::rows_upsert(current_drafts, all_drafts, by = c("season", "round", "pick"))
+
+# pak::pak("nflverse/nflverse-data")
+nflversedata::nflverse_save(
+  cleaned_drafts,
+  file_name = "draft_picks",
+  nflverse_type = "Draft Picks, via Pro Football Reference",
+  release_tag =  "draft_picks")
