@@ -62,7 +62,7 @@ scrape_advstats <- function(){
     repo = "nflverse/nflverse-pfr",
     tag = "advstats_raw") |>
     nflreadr::rds_from_url() |>
-    dplyr::filter(!pfr_game_id %in% completed_games$pfr_game_id)
+    dplyr::filter(!pfr_game_id %in% scrape_games$pfr_game_id)
 
   all_games <- dplyr::bind_rows(archived_games,scrape_games) |>
     dplyr::distinct()
