@@ -13,7 +13,8 @@ scrape_advstats <- function(){
   completed_games <- piggyback::pb_download_url(
     file = "scraped_games.csv",
     repo = "nflverse/nflverse-pfr",
-    tag = "advstats_raw") |>
+    tag = "advstats_raw"
+  ) |>
     data.table::fread()
 
   game_ids <- nflreadr::load_schedules() %>%
@@ -22,7 +23,8 @@ scrape_advstats <- function(){
       !is.na(result),
       season >= 2018
     ) %>%
-    dplyr::select(pfr_game_id = pfr)
+    dplyr::select(pfr_game_id = pfr) |>
+    dplyr::slice_sample(n = 100)
 
   if(nrow(game_ids)==0) {
     cli::cli_alert_danger("No new games to scrape!")
