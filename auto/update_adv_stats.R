@@ -76,7 +76,6 @@ scrape_advstats <- function(){
 
   all_games |>
     dplyr::distinct(pfr_game_id, stat_type) |>
-    dplyr::bind_rows(completed_games) |>
     dplyr::arrange(pfr_game_id, stat_type) |>
     write.csv(here::here("build/scraped_games.csv"), quote = TRUE, row.names = FALSE)
 
