@@ -20,6 +20,7 @@ jobs:
 
     env:
       GITHUB_PAT: ${{ secrets.NFLVERSE_GH_TOKEN }}
+      SCRAPEOPS_API_KEY: ${{ secrets.NFLVERSE_SCRAPEOPS_API_KEY }}
       R_KEEP_PKG_SOURCE: yes
 
     steps:
@@ -32,8 +33,10 @@ jobs:
           use-public-rspm: true
 
       - uses: r-lib/actions/setup-r-dependencies@v2
-        with: 
-          extra-packages:  nflverse/nflverse-data
+        with:
+          extra-packages:  |
+            nflverse/nflverse-data
+            nflverse/undercover
 
       - name: Run update script
         run: Rscript -e 'source("auto/update_adv_stats.R")'
