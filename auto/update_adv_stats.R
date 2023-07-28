@@ -13,7 +13,8 @@ scrape_advstats <- function(){
   completed_games <- piggyback::pb_download_url(
     file = "scraped_games.csv",
     repo = "nflverse/nflverse-pfr",
-    tag = "advstats_raw") |>
+    tag = "advstats_raw"
+  ) |>
     data.table::fread()
 
   game_ids <- nflreadr::load_schedules() %>%
@@ -22,7 +23,8 @@ scrape_advstats <- function(){
       !is.na(result),
       season >= 2018
     ) %>%
-    dplyr::select(pfr_game_id = pfr)
+    dplyr::select(pfr_game_id = pfr) |>
+    dplyr::slice_sample(n = 100)
 
   if(nrow(game_ids)==0) {
     cli::cli_alert_danger("No new games to scrape!")
@@ -62,7 +64,7 @@ scrape_advstats <- function(){
     repo = "nflverse/nflverse-pfr",
     tag = "advstats_raw") |>
     nflreadr::rds_from_url() |>
-    dplyr::filter(!pfr_game_id %in% completed_games$pfr_game_id)
+    dplyr::filter(!pfr_game_id %in% scrape_games$pfr_game_id)
 
   all_games <- dplyr::bind_rows(archived_games,scrape_games) |>
     dplyr::distinct()
@@ -76,7 +78,6 @@ scrape_advstats <- function(){
 
   all_games |>
     dplyr::distinct(pfr_game_id, stat_type) |>
-    dplyr::bind_rows(completed_games) |>
     dplyr::arrange(pfr_game_id, stat_type) |>
     write.csv(here::here("build/scraped_games.csv"), quote = TRUE, row.names = FALSE)
 

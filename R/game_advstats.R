@@ -7,9 +7,13 @@
 #' @export
 pfr_game_adv_stats <- function(game_id){
 
-  raw_boxscores <- glue::glue("https://www.pro-football-reference.com/boxscores/{game_id}.htm") |>
-    polite::bow() |>
-    polite::scrape()
+  # For testing
+  # game_id <- "202302120phi"
+
+  undercover_response <- glue::glue("https://www.pro-football-reference.com/boxscores/{game_id}.htm") |>
+    undercover::scrapeops_request()
+
+  raw_boxscores <- attr(undercover_response, "response") |> httr::content()
 
   raw_def <- .pfr_read_advanced("defense", raw_boxscores)
 
