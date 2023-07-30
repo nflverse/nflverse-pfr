@@ -37,6 +37,7 @@ jobs:
           extra-packages:  |
             nflverse/nflverse-data
             nflverse/undercover
+            ropensci/piggyback
 
       - name: Run update script
         run: Rscript -e 'source("auto/update_adv_stats.R")'
