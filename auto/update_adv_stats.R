@@ -23,8 +23,8 @@ scrape_advstats <- function(){
       !is.na(result),
       season >= 2018
     ) %>%
-    dplyr::select(pfr_game_id = pfr) |>
-    dplyr::slice_sample(n = 100)
+    dplyr::select(pfr_game_id = pfr) %>%
+    dplyr::slice_max(pfr_game_id, n = 100)
 
   if(nrow(game_ids)==0) {
     cli::cli_alert_danger("No new games to scrape!")
