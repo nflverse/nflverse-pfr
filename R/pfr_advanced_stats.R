@@ -63,11 +63,6 @@ pfr_advanced_stat_season <- function(s, type = c("receiving", "rushing", "defens
       pos = toupper(pos)
     )
 
-  # we sleep here to avoid PFR scraping problems.
-  # Current policy seems to be 20 requests per minute
-  # https://www.sports-reference.com/bot-traffic.html
-  Sys.sleep(60/20)
-
   cli::cli_progress_done()
 
   out
