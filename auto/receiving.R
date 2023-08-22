@@ -1,61 +1,38 @@
-library(rvest)
-
-get_rec_season <- function(s) {
-
-  cli::cli_process_start("Load REC {.val {s}}")
-
-  raw_url <- glue::glue("https://widgets.sports-reference.com/wg.fcgi?css=1&site",
-                        "=pfr&url=%2Fyears%2F{s}%2Freceiving_advanced.htm&div=div_advanced_receiving")
-
-  raw_html <- read_html(raw_url)
-  tbl_html <- html_element(raw_html, xpath = '//*[@id="advanced_receiving"]')
-
-  # The "data-append-csv" attribut of the dt tags inherits the pfr player ids
-  ids <- tbl_html |>
-    html_elements("td") |>
-    html_attr("data-append-csv") |>
-    na.omit()
-
-  df <- html_table(tbl_html)
-
-  suppressWarnings({
-    out <- df |>
-      janitor::clean_names() |>
-      dplyr::filter(rk != "Rk") |>
-      dplyr::mutate(
-        pfr_id = ids,
-        tm = nflreadr::clean_team_abbrs(tm),
-        season = s,
-        loaded = lubridate::today()
-      ) |>
-      dplyr::na_if("") |>
-      dplyr::select(season, player, pfr_id, dplyr::everything(), -rk) |>
-      dplyr::mutate(
-        dplyr::across(
-          .cols = tidyselect::contains("percent"),
-          .fns = function(x) as.numeric(sub("%","",x)) / 100
-        ),
-        dplyr::across(
-          .cols = !tidyselect::any_of(c("player", "pfr_id", "tm", "pos", "loaded")),
-          .fns = as.numeric
-        ),
-        player = stringr::str_remove_all(player, "\\+|\\*"),
-        pos = toupper(pos)
-      )
-  })
-
-  cli::cli_process_done()
-
-  out
+if(Sys.getenv("NFLVERSE_REBUILD", "false") == "true"){
+  seasons_to_update <- 2018:nflreadr::most_recent_season()
+} else {
+  seasons_to_update <- nflreadr::most_recent_season()
 }
 
-# data seem spotty before 2019
-df_advstats <- purrr::map_df(2018:nflreadr:::most_recent_season(), get_rec_season)
+purrr::walk(
+  seasons_to_update,
+  purrr::possibly(function(season){
+    nflversedata::nflverse_save(
+      data_frame = pfr_advanced_receiving_season(season),
+      file_name = glue::glue("advstats_season_rec_{season}"),
+      nflverse_type = "advanced receiving season stats via PFR",
+      release_tag = "pfr_advstats",
+      file_types = "rds"
+    )
+  }, quiet = FALSE
+  )
+)
+
+## NOW COMBINE ALL SEASONS FOR THE FILE nflreadr IS LOADING
+
+combined_advstats <- purrr::map(
+  2018:nflreadr::most_recent_season(),
+  purrr::possibly(function(season){
+    load_from <- glue::glue("https://github.com/nflverse/nflverse-data/releases/download/pfr_advstats/advstats_season_rec_{season}.rds")
+    nflreadr::rds_from_url(load_from)
+  }, tibble::tibble(), quiet = FALSE),
+  .progress = TRUE
+) |>
+  purrr::list_rbind()
 
 nflversedata::nflverse_save(
-  data_frame = df_advstats,
+  data_frame = combined_advstats,
   file_name = "advstats_season_rec",
   nflverse_type = "advanced receiving season stats via PFR",
   release_tag = "pfr_advstats"
 )
-
