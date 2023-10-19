@@ -109,12 +109,17 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
   return(draft_table)
 }
 
-all_drafts <- purrr::map_dfr(nflreadr::most_recent_season(roster = TRUE):1980,
-                             purrr::possibly(scrape_draft, otherwise = tibble::tibble()))
+all_drafts <- purrr::map_dfr(
+  nflreadr::most_recent_season(roster = TRUE):1980,
+  purrr::possibly(scrape_draft, otherwise = tibble::tibble()))
 
-current_drafts <- data.table::fread("https://github.com/nflverse/nflverse-data/releases/download/draft_picks/draft_picks.csv")
+current_drafts <- data.table::fread(
+  "https://github.com/nflverse/nflverse-data/releases/download/draft_picks/draft_picks.csv"
+)
 
-cleaned_drafts <- dplyr::rows_upsert(current_drafts, all_drafts, by = c("season", "round", "pick"))
+cleaned_drafts <- all_drafts |>
+  dplyr::distinct(season, round, pick,.keep_all = TRUE) |>
+  dplyr::rows_upsert(x = current_drafts, by = c("season", "round", "pick"))
 
 # pak::pak("nflverse/nflverse-data")
 nflversedata::nflverse_save(
