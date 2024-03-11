@@ -1,5 +1,5 @@
 pkgload::load_all()
-all_combines <- purrr::map_dfr(2000:nflreadr:::most_recent_season(roster = TRUE),
+all_combines <- purrr::map_dfr(seq(2000, nflreadr::most_recent_season(TRUE) + 1),
                                purrr::possibly(pfr_combine,otherwise = tibble::tibble()))
 
 nflversedata::nflverse_save(
