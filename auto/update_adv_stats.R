@@ -40,7 +40,8 @@ scrape_advstats <- function(){
         cli::cli_progress_along(pfr_game_id),
         purrr::possibly(
           .f = function(i) pfr_game_adv_stats(pfr_game_id[[i]]),
-          otherwise = list()
+          otherwise = list(),
+          quiet = FALSE
         ))) %>%
     dplyr::filter(purrr::map_lgl(adv, ~all(lengths(.x) > 0)))
 
