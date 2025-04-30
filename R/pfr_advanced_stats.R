@@ -9,26 +9,31 @@ pfr_advanced_stat_season <- function(s, type = c("receiving", "rushing", "defens
 
   type <- rlang::arg_match(type)
 
+  tbl_id <- switch (type,
+    "receiving" = "adv_receiving",
+    "rushing" = "adv_rushing",
+    "defense" = "defense_advanced"
+  )
+
   cli::cli_progress_step("Load advanced {.val {type}} {.val {s}}")
 
   # Load html and extract relevant part from comments -----------------------
 
   raw_url <- glue::glue("https://www.pro-football-reference.com/years/{s}/{type}_advanced.htm")
   raw_html <- rvest::read_html(raw_url)
-  tbl_html <- xml2::xml_find_all(raw_html, xpath = glue::glue("//div[@id='all_advanced_{type}']/comment()")) |>
-    rvest::html_text() |>
-    xml2::read_html()
-
+  tbl_html <- xml2::xml_find_all(raw_html, xpath = glue::glue("//table[@id='{tbl_id}']"))
 
   # Extract Player Information ----------------------------------------------
 
   player_elements <- tbl_html |>
-    xml2::xml_find_all("//td[@data-append-csv]")
+    xml2::xml_find_all(".//td[@data-append-csv]")
 
   players <- tibble::tibble(
     pfr_id = xml2::xml_attr(player_elements, "data-append-csv"),
     player = xml2::xml_text(player_elements)
-  )
+  ) |>
+    dplyr::distinct() |>
+    dplyr::filter(dplyr::n() == 1, .by = player)
 
 
   # Extract actual Data -----------------------------------------------------
@@ -36,15 +41,15 @@ pfr_advanced_stat_season <- function(s, type = c("receiving", "rushing", "defens
   out <- rvest::html_table(tbl_html) |>
     purrr::pluck(1) |>
     .check_pfr_stats_names() |>
-    janitor::clean_names() |>
-    dplyr::filter(rk != "Rk") |>
+    dplyr::filter(rk != "Rk", tolower(player) != "league average") |>
     dplyr::left_join(players, by = "player") |>
+    dplyr::rename(tm = team) |>
     dplyr::mutate(
-      tm = nflreadr::clean_team_abbrs(tm),
+      tm = suppressWarnings(nflreadr::clean_team_abbrs(tm)),
       season = s,
       loaded = lubridate::today()
     ) |>
-    dplyr::select(season, player, pfr_id, dplyr::everything(), -rk) |>
+    dplyr::select(season, player, pfr_id, dplyr::everything(), -rk, -awards) |>
     dplyr::mutate(
       dplyr::across(
         .cols = tidyselect::where(is.character),
