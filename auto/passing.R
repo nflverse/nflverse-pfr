@@ -10,31 +10,40 @@ get_passing <- function(s) {
 
   # get player IDs --------------------------------------------------------
 
-  ids <- raw_html %>%
-    rvest::html_nodes(xpath = '//*[@id="advanced_air_yards"]') %>%
-    rvest::html_nodes("a") %>%
-      rvest::html_attr("href") %>%
-      tibble::as_tibble() %>%
-      dplyr::rename(url = value) %>%
-      dplyr::filter(stringr::str_detect(url, "players")) %>%
-      dplyr::mutate(
-        pfr_id = stringr::str_extract(url, "(?<=[:upper:]\\/).*(?=\\.htm)")
-      ) %>%
-      dplyr::select(pfr_id)
+  ids <- raw_html |>
+    rvest::html_nodes(xpath = '//*[@id="passing_advanced"]') |>
+    rvest::html_nodes("a") |>
+    rvest::html_attr("href") |>
+    tibble::as_tibble() |>
+    dplyr::rename(url = value) |>
+    dplyr::filter(stringr::str_detect(url, "players")) |>
+    dplyr::mutate(
+      pfr_id = stringr::str_extract(url, "(?<=[:upper:]\\/).*(?=\\.htm)")
+    ) |>
+    dplyr::select(pfr_id)
 
   # read accuracy--------------------------------------------------------
 
-  table2 <- raw_html %>%
-    rvest::html_table(fill = TRUE) %>%
-    .[[2]] %>%
-    janitor::clean_names() %>%
-    tibble::tibble() %>%
-    janitor::row_to_names(1) %>%
-    janitor::clean_names() %>%
+  out <- raw_html |>
+    rvest::html_table(fill = TRUE) |>
+    purrr::pluck(1) |>
+    .check_pfr_stats_names() |>
+    dplyr::filter(rk != "Rk", tolower(player) != "league average") |>
     dplyr::select(tidyselect::any_of(c(
       "player",
-      "team" = "tm",
+      "team" = "team",
       "pass_attempts" = "att",
+
+      # Air Yards
+      "intended_air_yards" = "iay",
+      "intended_air_yards_per_pass_attempt" = "iay_pa",
+      "completed_air_yards" = "cay",
+      "completed_air_yards_per_completion" = "cay_cmp",
+      "completed_air_yards_per_pass_attempt" = "cay_pa",
+      "pass_yards_after_catch" = "yac",
+      "pass_yards_after_catch_per_completion" = "yac_cmp",
+
+      # Accuracy
       "batted_balls" = "bats",
       "throwaways" = "th_awy",
       "spikes",
@@ -43,91 +52,44 @@ get_passing <- function(s) {
       "bad_throws" = "bad_th",
       "bad_throw_pct" = "bad_percent",
       "on_tgt_throws" = "on_tgt",
-      "on_tgt_pct" = "on_tgt_percent"
-    ))) %>%
-    dplyr::mutate(
-      # pfr uses different team abbreviations than nflfastR, fix them
-      team = dplyr::case_when(
-        team == "GNB" ~ "GB",
-        team == "KAN" ~ "KC",
-        team == "NOR" ~ "NO",
-        team == "NWE" ~ "NE",
-        team == "SFO" ~ "SF",
-        team == "TAM" ~ "TB",
-        TRUE ~ team
-      ),
-      # repair columns
-      player = stringr::str_replace(player, "\\*", ""),
-      player = stringr::str_replace(player, "\\+", ""),
-      dplyr::across(
-        .cols = tidyselect::any_of(c("bad_throw_pct", "on_tgt_pct", "drop_pct")),
-        .fns = ~ stringr::str_replace(.x, "\\%", "")
-      ),
-      season = s,
-      dplyr::across(c(-player, -team), ~ as.numeric(.x))
-    ) %>%
-    dplyr::bind_cols(ids)
+      "on_tgt_pct" = "on_tgt_percent",
 
-  # read pressure--------------------------------------------------------
-
-  table3 <- raw_html %>%
-    rvest::html_table(fill = TRUE) %>%
-    .[[3]] %>%
-    janitor::clean_names() %>%
-    tibble::tibble() %>%
-    janitor::row_to_names(1) %>%
-    janitor::clean_names() %>%
-    dplyr::select(tidyselect::any_of(c(
-      "player",
+      # Pressure
       "pocket_time" = "pkt_time",
       "times_blitzed" = "bltz",
       "times_hurried" = "hrry",
       "times_hit" = "hits",
       "times_pressured" = "prss",
-      "pressure_pct" = "prss_percent"
-    ))) %>%
+      "pressure_pct" = "prss_percent",
+      "scrambles" = "scrm",
+      "scramble_yards_per_attempt" = "yds_scr",
+
+      # RPO
+      "rpo_plays" = "plays",
+      "rpo_yards" = "yds",
+      "rpo_pass_att" = "pass_att",
+      "rpo_pass_yards" = "pass_yds",
+      "rpo_rush_att" = "rush_att",
+      "rpo_rush_yards" = "rush_yds",
+
+      # Play Action
+      "pa_pass_att" = "pass_att2",
+      "pa_pass_yards" = "pass_yds2"
+    ))) |>
     dplyr::mutate(
+      # pfr uses different team abbreviations than nflfastR, fix them
+      team = suppressWarnings(nflreadr::clean_team_abbrs(team)),
       # repair columns
       player = stringr::str_replace(player, "\\*", ""),
       player = stringr::str_replace(player, "\\+", ""),
-      pressure_pct = stringr::str_replace(pressure_pct, "\\%", ""),
-      dplyr::across(pocket_time : pressure_pct, ~ as.numeric(.x))
-    )
-
-  # read play type--------------------------------------------------------
-
-  if (s >= 2019){# tab doesn't exist pre 2019
-    table4 <- raw_html %>%
-      rvest::html_table(fill = TRUE) %>%
-      .[[4]] %>%
-      janitor::clean_names() %>%
-      tibble::tibble() %>%
-      dplyr::slice(-1) %>%
-      dplyr::select(
-        player = x_2,
-        rpo_plays = rpo,
-        rpo_yards = rpo_2,
-        rpo_pass_att = rpo_3,
-        rpo_pass_yards = rpo_4,
-        rpo_rush_att = rpo_5,
-        rpo_rush_yards = rpo_6,
-        pa_pass_att = play_action,
-        pa_pass_yards = play_action_2
-      ) %>%
-      dplyr::mutate(
-        # repair columns
-        player = stringr::str_replace(player, "\\*", ""),
-        player = stringr::str_replace(player, "\\+", ""),
-        dplyr::across(rpo_plays : pa_pass_yards, ~ as.numeric(.x))
-      )
-  } else {
-    table4 <- tibble::tibble(player = NA)
-  }
-
-  out <- table2 %>%
-    dplyr::full_join(table3, by = "player") %>%
-    dplyr::full_join(table4, by = "player") %>%
-    dplyr::filter(!is.na(player))
+      dplyr::across(
+        .cols = tidyselect::any_of(c("bad_throw_pct", "on_tgt_pct", "drop_pct", "pressure_pct")),
+        .fns = ~ stringr::str_replace(.x, "\\%", "")
+      ),
+      season = s,
+      dplyr::across(c(-player, -team), ~ as.numeric(.x))
+    ) |>
+    dplyr::bind_cols(ids)
 
   cli::cli_process_done()
 
