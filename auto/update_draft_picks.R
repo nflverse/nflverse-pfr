@@ -119,7 +119,14 @@ current_drafts <- data.table::fread(
 
 cleaned_drafts <- all_drafts |>
   dplyr::distinct(season, round, pick,.keep_all = TRUE) |>
-  dplyr::rows_upsert(x = current_drafts, by = c("season", "round", "pick"))
+  dplyr::rows_upsert(x = current_drafts, by = c("season", "round", "pick")) |>
+  # early draft data can have false rows with empty names and incorrect round,
+  # pick combinations, e.g. 2025, round 4, pick 102 (should be round 3).
+  # rows_upsert won't update those rows as the key doesn't exist in all_drafts
+  # anymore. We try to filter those cases out by removing empty names and
+  # reordering afterwards.
+  dplyr::filter(pfr_player_name != "") |>
+  dplyr::arrange(season, round, pick)
 
 # pak::pak("nflverse/nflverse-data")
 nflversedata::nflverse_save(
