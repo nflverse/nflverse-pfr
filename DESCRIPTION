@@ -33,7 +33,8 @@ Imports:
     tidyr (>= 1.1.3)
 Remotes:
     nflverse/nflreadr,
-    nflverse/undercover
+    nflverse/undercover,
+    qsbase/qs
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
