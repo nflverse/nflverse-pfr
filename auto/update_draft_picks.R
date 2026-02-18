@@ -106,8 +106,15 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
 all_drafts <- purrr::map_dfr(
   nflreadr::most_recent_season(roster = TRUE):1980,
-  purrr::possibly(scrape_draft, otherwise = tibble::tibble()))
-
+  purrr::possibly(
+    scrape_draft,
+    otherwise = tibble::tibble(
+      season = NA_integer_,
+      round = NA_integer_,
+      pick = NA_integer_
+    )
+  )
+)
 current_drafts <- data.table::fread(
   "https://github.com/nflverse/nflverse-data/releases/download/draft_picks/draft_picks.csv"
 )
@@ -120,7 +127,7 @@ gsis_id_mapping <- nflreadr::load_players() |>
   )
 
 cleaned_drafts <- all_drafts |>
-  dplyr::distinct(season, round, pick,.keep_all = TRUE) |>
+  dplyr::distinct(season, round, pick, .keep_all = TRUE) |>
   dplyr::rows_upsert(x = current_drafts, by = c("season", "round", "pick")) |>
   # early draft data can have false rows with empty names and incorrect round,
   # pick combinations, e.g. 2025, round 4, pick 102 (should be round 3).
