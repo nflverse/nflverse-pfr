@@ -112,9 +112,11 @@ all_drafts <- purrr::map_dfr(
       season = NA_integer_,
       round = NA_integer_,
       pick = NA_integer_
-    )
+    ),
+    quiet = FALSE
   )
 )
+
 current_drafts <- data.table::fread(
   "https://github.com/nflverse/nflverse-data/releases/download/draft_picks/draft_picks.csv"
 )

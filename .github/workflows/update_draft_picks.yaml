@@ -26,6 +26,7 @@ jobs:
 
     env:
       GITHUB_PAT: ${{ secrets.NFLVERSE_GH_TOKEN }}
+      SCRAPEOPS_API_KEY: ${{ secrets.NFLVERSE_SCRAPEOPS_API_KEY }}
       R_KEEP_PKG_SOURCE: yes
 
     steps:
@@ -43,6 +44,7 @@ jobs:
           extra-packages: |
             nflverse/nflverse-data
             ropensci/piggyback
+            nflverse/undercover
 
       - name: Update draft pick data
         run: Rscript -e 'source("auto/update_draft_picks.R")'
