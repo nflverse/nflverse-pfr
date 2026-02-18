@@ -2,6 +2,10 @@ library(dplyr)
 
 scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
+  cli::cli_progress_step(
+    "Scrape {.val {year}}",
+    msg_failed = "Failed to scrape {.val {year}}"
+  )
   undercover_response <- glue::glue("https://www.pro-football-reference.com/years/{year}/draft.htm") |>
     undercover::scrapeops_request(
       scrapeops_options = list(optimize_request = "TRUE")
