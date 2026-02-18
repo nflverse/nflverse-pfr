@@ -25,22 +25,24 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
     rvest::html_attr("data-append-csv") |>
     tail(-1)
 
-  roster <- tibble::tibble(gsis_id = character(),
-                           pfr_id = character())
-
-  try({
-    roster <- nflreadr::load_rosters(seasons = TRUE) |>
-      dplyr::filter(!is.na(pfr_id),!is.na(gsis_id))  |>
-      dplyr::distinct(gsis_id, pfr_id)
-  },silent = TRUE)
+  gsis_id_mapping <- nflreadr::load_players() |>
+    dplyr::filter(!is.na(pfr_id)) |>
+    dplyr::select(
+      pfr_player_id = pfr_id,
+      gsis_id
+    )
 
   draft_table <- table_node |>
-    rvest::html_table()  %>%
+    rvest::html_table() %>%
     {suppressWarnings(janitor::row_to_names(.,row_number = 1))} |>
     janitor::clean_names()  %>%
     dplyr::bind_cols(pfr_player_id = pfr_ids, cfb_player_id = cfb_ids, .) |>
     dplyr::filter(pos != "Pos") |>
-    dplyr::left_join(roster, by = c("pfr_player_id"="pfr_id"))
+    dplyr::left_join(
+      gsis_id_mapping,
+      by = "pfr_player_id",
+      na_matches = "never"
+    )
 
   patch_columns <- c("pfr_player_id", "cfb_player_id", "rnd", "pick", "tm", "player",
                      "pos", "age", "to", "ap1", "pb", "st", "w_av", "dr_av", "g",
@@ -110,6 +112,13 @@ current_drafts <- data.table::fread(
   "https://github.com/nflverse/nflverse-data/releases/download/draft_picks/draft_picks.csv"
 )
 
+gsis_id_mapping <- nflreadr::load_players() |>
+  dplyr::filter(!is.na(pfr_id)) |>
+  dplyr::select(
+    pfr_player_id = pfr_id,
+    gsis_id
+  )
+
 cleaned_drafts <- all_drafts |>
   dplyr::distinct(season, round, pick,.keep_all = TRUE) |>
   dplyr::rows_upsert(x = current_drafts, by = c("season", "round", "pick")) |>
@@ -119,6 +128,11 @@ cleaned_drafts <- all_drafts |>
   # anymore. We try to filter those cases out by removing empty names and
   # reordering afterwards.
   dplyr::filter(pfr_player_name != "") |>
+  dplyr::rows_update(
+    gsis_id_mapping,
+    by = "pfr_player_id",
+    unmatched = "ignore"
+  ) |>
   dplyr::arrange(season, round, pick)
 
 # pak::pak("nflverse/nflverse-data")
