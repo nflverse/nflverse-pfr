@@ -1,22 +1,15 @@
 library(dplyr)
-# library(tibble)
-# library(purrr)
-# library(tidyr)
-# library(rvest)
-# library(stringr)
-# library(janitor)
-# library(glue)
-# library(nflreadr)
-
 
 scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
-  html_scrape <- glue::glue("https://www.pro-football-reference.com/years/{year}/draft.htm") |>
-    httr2::request() |>
-    httr2::req_retry(max_tries = 1) |>
-    httr2::req_user_agent('Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0') |>
-    httr2::req_perform() |>
-    httr2::resp_body_html()
+  undercover_response <- glue::glue("https://www.pro-football-reference.com/years/{year}/draft.htm") |>
+    undercover::scrapeops_request(
+      scrapeops_options = list(optimize_request = "TRUE")
+    )
+
+  html_scrape <- attr(undercover_response, "response") |>
+    httr::content(as = "text") |>
+    xml2::read_html()
 
   table_node <- html_scrape |>
     rvest::html_element("#drafts")
