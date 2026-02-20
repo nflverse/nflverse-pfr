@@ -1,22 +1,19 @@
 library(dplyr)
-# library(tibble)
-# library(purrr)
-# library(tidyr)
-# library(rvest)
-# library(stringr)
-# library(janitor)
-# library(glue)
-# library(nflreadr)
-
 
 scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
-  html_scrape <- glue::glue("https://www.pro-football-reference.com/years/{year}/draft.htm") |>
-    httr2::request() |>
-    httr2::req_retry(max_tries = 1) |>
-    httr2::req_user_agent('Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0') |>
-    httr2::req_perform() |>
-    httr2::resp_body_html()
+  cli::cli_progress_step(
+    "Scrape {.val {year}}",
+    msg_failed = "Failed to scrape {.val {year}}"
+  )
+  undercover_response <- glue::glue("https://www.pro-football-reference.com/years/{year}/draft.htm") |>
+    undercover::scrapeops_request(
+      scrapeops_options = list(optimize_request = "TRUE")
+    )
+
+  html_scrape <- attr(undercover_response, "response") |>
+    httr::content(as = "text") |>
+    xml2::read_html()
 
   table_node <- html_scrape |>
     rvest::html_element("#drafts")
@@ -32,22 +29,24 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
     rvest::html_attr("data-append-csv") |>
     tail(-1)
 
-  roster <- tibble::tibble(gsis_id = character(),
-                           pfr_id = character())
-
-  try({
-    roster <- nflreadr::load_rosters(seasons = TRUE) |>
-      dplyr::filter(!is.na(pfr_id),!is.na(gsis_id))  |>
-      dplyr::distinct(gsis_id, pfr_id)
-  },silent = TRUE)
+  gsis_id_mapping <- nflreadr::load_players() |>
+    dplyr::filter(!is.na(pfr_id)) |>
+    dplyr::select(
+      pfr_player_id = pfr_id,
+      gsis_id
+    )
 
   draft_table <- table_node |>
-    rvest::html_table()  %>%
+    rvest::html_table() %>%
     {suppressWarnings(janitor::row_to_names(.,row_number = 1))} |>
     janitor::clean_names()  %>%
     dplyr::bind_cols(pfr_player_id = pfr_ids, cfb_player_id = cfb_ids, .) |>
     dplyr::filter(pos != "Pos") |>
-    dplyr::left_join(roster, by = c("pfr_player_id"="pfr_id"))
+    dplyr::left_join(
+      gsis_id_mapping,
+      by = "pfr_player_id",
+      na_matches = "never"
+    )
 
   patch_columns <- c("pfr_player_id", "cfb_player_id", "rnd", "pick", "tm", "player",
                      "pos", "age", "to", "ap1", "pb", "st", "w_av", "dr_av", "g",
@@ -111,14 +110,30 @@ scrape_draft <- function(year = nflreadr::most_recent_season(roster =  TRUE)) {
 
 all_drafts <- purrr::map_dfr(
   nflreadr::most_recent_season(roster = TRUE):1980,
-  purrr::possibly(scrape_draft, otherwise = tibble::tibble()))
+  purrr::possibly(
+    scrape_draft,
+    otherwise = tibble::tibble(
+      season = NA_integer_,
+      round = NA_integer_,
+      pick = NA_integer_
+    ),
+    quiet = FALSE
+  )
+)
 
 current_drafts <- data.table::fread(
   "https://github.com/nflverse/nflverse-data/releases/download/draft_picks/draft_picks.csv"
 )
 
+gsis_id_mapping <- nflreadr::load_players() |>
+  dplyr::filter(!is.na(pfr_id)) |>
+  dplyr::select(
+    pfr_player_id = pfr_id,
+    gsis_id
+  )
+
 cleaned_drafts <- all_drafts |>
-  dplyr::distinct(season, round, pick,.keep_all = TRUE) |>
+  dplyr::distinct(season, round, pick, .keep_all = TRUE) |>
   dplyr::rows_upsert(x = current_drafts, by = c("season", "round", "pick")) |>
   # early draft data can have false rows with empty names and incorrect round,
   # pick combinations, e.g. 2025, round 4, pick 102 (should be round 3).
@@ -126,6 +141,11 @@ cleaned_drafts <- all_drafts |>
   # anymore. We try to filter those cases out by removing empty names and
   # reordering afterwards.
   dplyr::filter(pfr_player_name != "") |>
+  dplyr::rows_update(
+    gsis_id_mapping,
+    by = "pfr_player_id",
+    unmatched = "ignore"
+  ) |>
   dplyr::arrange(season, round, pick)
 
 # pak::pak("nflverse/nflverse-data")
