@@ -19,10 +19,11 @@ jobs:
 
     env:
       GITHUB_PAT: ${{ secrets.NFLVERSE_GH_TOKEN }}
+      SCRAPEOPS_API_KEY: ${{ secrets.NFLVERSE_SCRAPEOPS_API_KEY }}
       R_KEEP_PKG_SOURCE: yes
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - uses: r-lib/actions/setup-r@v2
         with:
@@ -36,15 +37,7 @@ jobs:
           extra-packages: |
             nflverse/nflverse-data
             ropensci/piggyback
+            nflverse/undercover
 
       - name: Update combine
         run: Rscript -e 'source("auto/update_combine.R")'
-
-      - name: Commit and push updated data
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull
-          git add data
-          git commit -m "Automated combine data update `date`" || echo "No changes to commit"
-          git push || echo "No changes to commit"

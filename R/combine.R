@@ -1,8 +1,22 @@
 pfr_combine <- function(year){
-
+  cli::cli_progress_step(
+    "Scrape {.val {year}}",
+    msg_failed = "Failed to scrape {.val {year}}"
+  )
   page_url <- glue::glue("https://www.pro-football-reference.com/draft/{year}-combine.htm")
 
-  table_node <- rvest::read_html(page_url) %>%
+  undercover_response <- page_url |>
+    undercover::scrapeops_request(
+      scrapeops_options = list(optimize_request = "TRUE"),
+      retry_delay = 5L,
+      retry_times = 5L
+    )
+
+  html_scrape <- attr(undercover_response, "response") |>
+    httr::content(as = "text") |>
+    xml2::read_html()
+
+  table_node <- html_scrape %>%
     rvest::html_element("#combine")
 
   ids <- tibble::tibble(
