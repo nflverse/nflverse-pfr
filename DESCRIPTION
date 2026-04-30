@@ -1,6 +1,6 @@
 Package: pfrscrapR
 Title: PFR Scraping Functions for nflverse
-Version: 0.0.4
+Version: 0.0.5
 Authors@R: c(
     person("Tan", "Ho", , "tan@tanho.ca", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-8388-5155")),
@@ -25,7 +25,6 @@ Imports:
     pkgload (>= 1.2.0),
     polite (>= 0.1.2),
     purrr (>= 0.3.4),
-    qs (>= 0.24.1),
     readr (>= 2.0.0),
     rvest (>= 1.0.0),
     stringr (>= 1.4.0),
@@ -33,8 +32,7 @@ Imports:
     tidyr (>= 1.1.3)
 Remotes:
     nflverse/nflreadr,
-    nflverse/undercover,
-    qsbase/qs
+    nflverse/undercover
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
