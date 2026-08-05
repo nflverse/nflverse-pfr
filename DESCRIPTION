@@ -25,7 +25,6 @@ Imports:
     pkgload (>= 1.2.0),
     polite (>= 0.1.2),
     purrr (>= 0.3.4),
-    qs (>= 0.24.1),
     readr (>= 2.0.0),
     rvest (>= 1.0.0),
     stringr (>= 1.4.0),
@@ -38,4 +37,4 @@ Remotes:
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
+Config/roxygen2/version: 8.1.0
