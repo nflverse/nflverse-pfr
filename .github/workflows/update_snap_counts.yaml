@@ -3,7 +3,7 @@ on:
     # runs every day at 0,6,12,18 UTC in Jan, Feb, Sep-Dec
     - cron: '0 */6 * 9-12,1 *'
     - cron:  '0 */6 1-15 2 *'
-    
+
   workflow_dispatch:
 
 name: update_snap_counts
@@ -22,6 +22,7 @@ jobs:
 
     env:
       GITHUB_PAT: ${{ secrets.NFLVERSE_GH_TOKEN }}
+      SCRAPEOPS_API_KEY: ${{ secrets.NFLVERSE_SCRAPEOPS_API_KEY }}
       R_KEEP_PKG_SOURCE: yes
 
     steps:
@@ -39,6 +40,7 @@ jobs:
           extra-packages: |
             nflverse/nflverse-data
             ropensci/piggyback
+            nflverse/undercover
 
       - name: Update snap count data
         run: Rscript -e 'source("auto/update_snap_counts.R")'
