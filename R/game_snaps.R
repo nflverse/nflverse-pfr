@@ -6,7 +6,18 @@ pfr_game_snap_counts <- function(game_id){
 
   cli::cli_alert("Starting {game_id}")
 
-  page <- rvest::read_html(glue::glue("https://www.pro-football-reference.com/boxscores/{game_id}.htm")) %>%
+  page_url <- glue::glue("https://www.pro-football-reference.com/boxscores/{game_id}.htm")
+
+  undercover_response <- page_url |>
+    undercover::scrapeops_request(
+      scrapeops_options = list(optimize_request = "TRUE"),
+      retry_delay = 5L,
+      retry_times = 5L
+    )
+
+  page <- attr(undercover_response, "response") |>
+    httr::content(as = "text") |>
+    xml2::read_html() %>%
     rvest::html_nodes(xpath = '//comment()') %>%
     rvest::html_text() %>%
     paste(collapse = '') %>%
