@@ -1,12 +1,13 @@
 # game_id <- "201502010sea"
 
-pfr_game_snap_counts <- function(game_id){
-
+pfr_game_snap_counts <- function(game_id) {
   # message(glue::glue("{url}"))
 
   cli::cli_alert("Starting {game_id}")
 
-  page_url <- glue::glue("https://www.pro-football-reference.com/boxscores/{game_id}.htm")
+  page_url <- glue::glue(
+    "https://www.pro-football-reference.com/boxscores/{game_id}.htm"
+  )
 
   undercover_response <- page_url |>
     undercover::scrapeops_request(
@@ -23,7 +24,9 @@ pfr_game_snap_counts <- function(game_id){
     paste(collapse = '') |>
     rvest::read_html()
 
-  if (is.na(page |> rvest::html_node("#home_snap_counts") |> rvest::html_text())) {
+  if (
+    is.na(page |> rvest::html_node("#home_snap_counts") |> rvest::html_text())
+  ) {
     cli::cli_alert_danger("No snap data for {game_id}")
     return(tibble::tibble())
   }
@@ -34,7 +37,7 @@ pfr_game_snap_counts <- function(game_id){
     rvest::html_attr("href") |>
     tibble::as_tibble() |>
     dplyr::transmute(
-      pfr_player_id = stringr::str_replace_all(value,".+/(.+).htm$","\\1")
+      pfr_player_id = stringr::str_replace_all(value, ".+/(.+).htm$", "\\1")
     )
 
   away_ids <- page |>
@@ -43,7 +46,7 @@ pfr_game_snap_counts <- function(game_id){
     rvest::html_attr("href") |>
     tibble::as_tibble() |>
     dplyr::transmute(
-      pfr_player_id = stringr::str_replace_all(value,".+/(.+).htm$","\\1")
+      pfr_player_id = stringr::str_replace_all(value, ".+/(.+).htm$", "\\1")
     )
 
   # first we have to see if the home snap count table is commented out
@@ -90,13 +93,20 @@ pfr_game_snap_counts <- function(game_id){
       offense_pct = stringr::str_replace(offense_pct, "\\%", ""),
       defense_pct = stringr::str_replace(defense_pct, "\\%", ""),
       st_pct = stringr::str_replace(st_pct, "\\%", ""),
-      dplyr::across(offense_snaps : st_pct, ~ as.numeric(.x)),
-      dplyr::across(dplyr::contains("pct"), ~magrittr::divide_by(.x,100))
+      dplyr::across(offense_snaps:st_pct, ~ as.numeric(.x)),
+      dplyr::across(dplyr::contains("pct"), ~ magrittr::divide_by(.x, 100))
     )
 
-  if(game_id %in% nflreadr::csv_from_url("https://github.com/nflverse/nflverse-pfr/raw/master/auto/snap_counts_flip.csv")$flip_ids) {
+  if (
+    game_id %in%
+      nflreadr::csv_from_url(
+        "https://github.com/nflverse/nflverse-pfr/raw/master/auto/snap_counts_flip.csv"
+      )$flip_ids
+  ) {
     out <- out |>
-      dplyr::mutate(location = dplyr::case_when(location == "home" ~ "away", TRUE ~ "home"))
+      dplyr::mutate(
+        location = dplyr::case_when(location == "home" ~ "away", TRUE ~ "home")
+      )
   }
 
   return(out)
