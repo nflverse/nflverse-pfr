@@ -37,13 +37,16 @@ scrape_advstats <- function(){
   scrape_games <- game_ids %>%
     dplyr::mutate(
       adv = purrr::map(
-        cli::cli_progress_along(pfr_game_id),
+        pfr_game_id,
         purrr::possibly(
-          .f = function(i) pfr_game_adv_stats(pfr_game_id[[i]]),
+          .f = pfr_game_adv_stats,
           otherwise = list(),
           quiet = FALSE
-        ))) %>%
-    dplyr::filter(purrr::map_lgl(adv, ~all(lengths(.x) > 0)))
+        ),
+        .progress = TRUE
+      )
+    ) %>%
+    dplyr::filter(purrr::map_lgl(adv, ~ all(lengths(.x) > 0)))
 
   if(nrow(scrape_games)==0) {
     cli::cli_alert_danger("No new data for scrapes!")
