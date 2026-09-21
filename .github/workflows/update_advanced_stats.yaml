@@ -44,5 +44,5 @@ jobs:
       - name: Run update script
         run: Rscript -e 'source("auto/update_adv_stats.R")'
 
-      - name: Run update script
-        run: Rscript -e 'source("auto/update_adv_season_stats.R")'
+      # - name: Run update script
+      #   run: Rscript -e 'source("auto/update_adv_season_stats.R")'
