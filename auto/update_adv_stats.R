@@ -35,6 +35,7 @@ scrape_advstats <- function(){
 
   #' Scrape Incomplete Games
   scrape_games <- game_ids %>%
+    head(1) |>
     dplyr::mutate(
       adv = purrr::map(
         pfr_game_id,
