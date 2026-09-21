@@ -51,6 +51,10 @@ scrape_advstats <- function(){
   if(nrow(scrape_games)==0) {
     cli::cli_alert_danger("No new data for scrapes!")
     return(FALSE)
+  } else {
+    print(
+      str(scrape_games)
+    )
   }
 
   scrape_games <- scrape_games |>
