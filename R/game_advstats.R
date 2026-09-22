@@ -11,7 +11,11 @@ pfr_game_adv_stats <- function(game_id){
   # game_id <- "202302120phi"
 
   undercover_response <- glue::glue("https://www.pro-football-reference.com/boxscores/{game_id}.htm") |>
-    undercover::scrapeops_request()
+    undercover::scrapeops_request(
+      scrapeops_options = list(optimize_request = "TRUE"),
+      retry_delay = 5L,
+      retry_times = 5L
+    )
 
   raw_boxscores <- attr(undercover_response, "response") |> httr::content()
 
