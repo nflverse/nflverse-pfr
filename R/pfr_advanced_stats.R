@@ -20,7 +20,12 @@ pfr_advanced_stat_season <- function(s, type = c("receiving", "rushing", "defens
   # Load html and extract relevant part from comments -----------------------
 
   raw_url <- glue::glue("https://www.pro-football-reference.com/years/{s}/{type}_advanced.htm")
-  raw_html <- undercover::scrapeops_request(raw_url, content_as = "parsed")
+  raw_html <- undercover::scrapeops_request(
+    raw_url, 
+    content_as = "text",
+    scrapeops_options = list(optimize_request = "true")
+    ) |> 
+    rvest::read_html()
   tbl_html <- xml2::xml_find_all(raw_html, xpath = glue::glue("//table[@id='{tbl_id}']"))
 
   # Extract Player Information ----------------------------------------------
